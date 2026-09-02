@@ -1,0 +1,31 @@
+id: ja-grm-00008
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 〜じゃないか：发现与提醒「不是有……吗」
+structure: 普通体 + じゃないか
+structure_pattern: 普通形 + じゃないか
+explanation_zh: 并非真正提问，而是以升调表示发觉、提醒或抱怨，「不是（明明）……吗！」。常用于突然想起某事时的自言自语。口语中常说成「〜じゃん／〜じゃねえか」。
+examples:
+- text: 警察官が知り合いにいるじゃないか!!
+  reading: けいさつかんがしりあいにいるじゃないか!!
+  translation_zh: 熟人里不就有个警察吗!!
+  source_book: book-ja-001
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 口语
+- 句末语气
+- 心理描写
+provenance:
+  discovered_in: book-ja-001
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-02'
+status: draft
+review_note: ''

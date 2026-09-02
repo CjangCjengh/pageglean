@@ -1,0 +1,36 @@
+id: ja-grm-00029
+language: ja
+type: grammar
+level: N5
+level_rank: 1
+title: 独白中的「か」：自问与决心
+structure: 谓语 + か（升调/降调）
+structure_pattern: 述語 + か（自問）
+explanation_zh: 句末「か」在第一人称独白中并不向他人提问，而是自问自答或下决心，"……吧""……好了"。轻小说内心戏的标志性语气，朗读时多为降调。「〜か、だな」等组合也常见。
+examples:
+- text: 後の事は後で考えるか
+  reading: あとのことはあとでかんがえるか
+  translation_zh: 之后的事，之后再想吧
+  source_book: book-ja-001
+  source_chapter: null
+  pointer: null
+- text: っと。お前らの食事が先か。
+  reading: っと。おまえらのしょくじがさきか。
+  translation_zh: 噢。还是先解决你们的饭吧。
+  source_book: book-ja-001
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 语气
+- 口語
+provenance:
+  discovered_in: book-ja-001
+  first_seen_chapter: null
+  frequency_hint: 5
+  extracted_by: claude-code
+  extracted_at: '2026-09-02'
+status: draft
+review_note: ''

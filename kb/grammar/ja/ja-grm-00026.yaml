@@ -1,0 +1,30 @@
+id: ja-grm-00026
+language: ja
+type: grammar
+level: N1
+level_rank: 5
+title: 我ながら：连我自己都……
+structure: 我ながら + 评价性谓语
+structure_pattern: 我ながら + 述語
+explanation_zh: 固定表达，表示说话人对自己行为、性情的自嘲式评价，"连我自己都觉得……"。后接的多为表示感叹、评价的谓语。本段主人公自嘲"想法真是单纯"。
+examples:
+- text: ……我ながら単純だとは思う。
+  reading: われながらたんじゅんだとはおもう
+  translation_zh: ……连我自己都觉得（这想法）真是单纯。
+  source_book: book-ja-001
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 惯用表达
+- 语气
+provenance:
+  discovered_in: book-ja-001
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-02'
+status: draft
+review_note: ''

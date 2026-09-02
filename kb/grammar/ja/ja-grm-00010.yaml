@@ -1,0 +1,37 @@
+id: ja-grm-00010
+language: ja
+type: grammar
+level: N3
+level_rank: 3
+title: なんて：竟然……（惊讶・难以置信）
+structure: N／普通体 + なんて
+structure_pattern: N/普通形 + なんて
+explanation_zh: 表示对意外之事的惊讶、难以置信或轻蔑，「居然……、……什么的」。口语属性强，本片段在太太们的闲话和学生的议论里反复出现，表达「没想到会这样」的心情。
+examples:
+- text: 高校教師が性犯罪者なんて……
+  reading: こうこうきょうしがせいはんざいしゃなんて……
+  translation_zh: 高中老师竟然是性犯罪者什么的……
+  source_book: book-ja-001
+  source_chapter: null
+  pointer: null
+- text: あの先生が性犯罪者だったなんて……
+  reading: あのせんせいがせいはんざいしゃだったなんて……
+  translation_zh: 没想到那位老师竟然是性犯罪者……
+  source_book: book-ja-001
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 口语
+- 语气
+- 感叹
+provenance:
+  discovered_in: book-ja-001
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-02'
+status: draft
+review_note: ''

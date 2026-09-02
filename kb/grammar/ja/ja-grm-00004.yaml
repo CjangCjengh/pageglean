@@ -1,0 +1,31 @@
+id: ja-grm-00004
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 〜んです：解释说明语气
+structure: V-普通体 + んです（のです）
+structure_pattern: 普通形 + のです/んです
+explanation_zh: 「のです」的口语形式，用于向对方解释情况、说明原因。本句「捨てられてたんです」是「捨てられていたんです」的口语缩略，其中包含被动「捨てられる」＋持续状态「ていた」的叠加，是口语叙述中非常典型的结构。
+examples:
+- text: その子はダンボールに入って捨てられてたんです!!
+  reading: そのこはダンボールにはいってすてられてたんです!!
+  translation_zh: 那孩子是装在纸箱里被人丢弃的!!
+  source_book: book-ja-001
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 口语
+- 说明语气
+- 被动
+provenance:
+  discovered_in: book-ja-001
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-02'
+status: draft
+review_note: ''

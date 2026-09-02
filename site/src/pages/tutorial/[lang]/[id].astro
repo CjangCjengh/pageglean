@@ -1,0 +1,44 @@
+---
+import Base from '../../../layouts/Base.astro';
+import { LANG_META, type Lang } from '../../../lib/langs';
+import { getCollection, render } from 'astro:content';
+
+export async function getStaticPaths() {
+  const tuts = await getCollection('tutorials');
+  return tuts.map((t) => {
+    const [lang, id] = t.id.split('/');
+    return { params: { lang, id }, props: { tut: t } };
+  });
+}
+
+const { tut } = Astro.props;
+const { Content } = await render(tut);
+const lang = tut.data.id.split('-')[0] as Lang;
+const meta = LANG_META[lang];
+const grammarEntries = await getCollection('grammar', (e) => e.data.id === tut.data.id);
+const grm = grammarEntries[0];
+---
+<Base title={`${tut.data.id} 教程 · 拾页`}>
+  <div class="mx-auto max-w-3xl">
+    <a href={grm ? `/grammar/${lang}/${tut.data.id}` : `/browse/${lang}`} class="text-sm text-slate-500 hover:text-slate-300">
+      ← {meta.flag} 返回{grm ? '语法点' : '语法库'}
+    </a>
+    <div class="prose-headings:mt-8 mt-6">
+      <Content />
+    </div>
+  </div>
+</Base>
+
+<style is:global>
+  main h1 { font-size: 1.9rem; font-weight: 800; color: #f1f5f9; margin-bottom: 1.5rem; }
+  main h2 {
+    font-size: 1.25rem; font-weight: 700; color: #e2e8f0;
+    margin-top: 2.5rem; margin-bottom: 0.9rem;
+    border-left: 3px solid #38bdf8; padding-left: 0.7rem;
+  }
+  main p { color: #cbd5e1; line-height: 1.9; margin: 0.8rem 0; }
+  main ul, main ol { color: #cbd5e1; padding-left: 1.4rem; margin: 0.8rem 0; list-style: disc; }
+  main li { margin: 0.35rem 0; line-height: 1.8; }
+  main strong { color: #f8fafc; }
+  main code { background: #1e293b; padding: 0.1rem 0.4rem; border-radius: 0.3rem; font-size: 0.9em; }
+</style>

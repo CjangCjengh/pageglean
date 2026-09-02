@@ -1,0 +1,30 @@
+id: ja-grm-00037
+language: ja
+type: grammar
+level: N3
+level_rank: 3
+title: 〜つつ：一边……（书面）
+structure: 动词ます形（去ます）+ つつ
+structure_pattern: V-ます + つつ
+explanation_zh: 「〜つつ」相当于「〜ながら」，表示两个动作同时进行，但语感更书面、文雅。口语中一般用「〜ながら」。轻小说旁白常用它来营造轻快又略带书卷气的叙述感。
+examples:
+- text: 苦笑いを浮かべつつ、まずは手近の白猫を抱き上げる。
+  reading: くしょうをうかべつつ、まずはてぢかのしろねこをだきあげる。
+  translation_zh: 一边浮起苦笑，先把近旁的白猫抱了起来。
+  source_book: book-ja-001
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 接续
+- 书面语
+provenance:
+  discovered_in: book-ja-001
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-02'
+status: draft
+review_note: ''

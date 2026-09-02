@@ -1,0 +1,29 @@
+id: ja-grm-00023
+language: ja
+type: grammar
+level: N2
+level_rank: 4
+title: 〜た上で：在……之后／基础上
+structure: Vた形 + 上で
+structure_pattern: V-た + 上で
+explanation_zh: 「〜た上で」表示以前项动作为前提、基础再进行后项，"在……之后（才）"。比「〜てから」更强调前项是后项的审慎前提。本段倒装句突出了"先确认没人在"这一步。
+examples:
+- text: いる気配が無いのを確認した上で。
+  reading: いるけはいがないのをかくにんしたうえで
+  translation_zh: 是在确认里面没有人的气息之后。
+  source_book: book-ja-001
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 接续
+provenance:
+  discovered_in: book-ja-001
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-02'
+status: draft
+review_note: ''

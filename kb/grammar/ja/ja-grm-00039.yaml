@@ -1,0 +1,30 @@
+id: ja-grm-00039
+language: ja
+type: grammar
+level: N3
+level_rank: 3
+title: 〜わけではない：并不是说……
+structure: 普通形 + わけではない
+structure_pattern: 普通形 + わけではない
+explanation_zh: 「〜わけではない」表示部分否定，意为“并不是……、倒也不是……”。用于委婉否认某种推断或印象，而非全盘否定。片段中与「決して」呼应以加强语气。
+examples:
+- text: 俺は決して太めなわけではない。
+  reading: おれはけっしてふとめなわけではない。
+  translation_zh: 我绝对不算胖。
+  source_book: book-ja-001
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 语气
+- 形式名词
+provenance:
+  discovered_in: book-ja-001
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-02'
+status: draft
+review_note: ''

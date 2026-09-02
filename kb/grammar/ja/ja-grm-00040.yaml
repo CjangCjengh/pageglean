@@ -1,0 +1,30 @@
+id: ja-grm-00040
+language: ja
+type: grammar
+level: N3
+level_rank: 3
+title: 〜かける：差点就……、眼看要……
+structure: 动词ます形（去ます）+ かける
+structure_pattern: V-ます + かける
+explanation_zh: 「〜かける」表示动作“刚要发生、差点就……”，停在半途。「理性トビかけた」即“理性差点就要绷断”。轻小说常用这种夸张表达来描写内心动摇。
+examples:
+- text: さっきのは俺でも理性トビかけた。
+  reading: さっきのはおれでもりせいとびかけた。
+  translation_zh: 刚才那一下，连我都差点理智断线。
+  source_book: book-ja-001
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 复合动词
+- 体貌
+provenance:
+  discovered_in: book-ja-001
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-02'
+status: draft
+review_note: ''

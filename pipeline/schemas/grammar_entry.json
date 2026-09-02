@@ -1,0 +1,261 @@
+{
+  "$defs": {
+    "Example": {
+      "properties": {
+        "text": {
+          "title": "Text",
+          "type": "string"
+        },
+        "reading": {
+          "default": "",
+          "title": "Reading",
+          "type": "string"
+        },
+        "translation_zh": {
+          "default": "",
+          "title": "Translation Zh",
+          "type": "string"
+        },
+        "source_book": {
+          "default": "",
+          "title": "Source Book",
+          "type": "string"
+        },
+        "source_chapter": {
+          "anyOf": [
+            {
+              "type": "integer"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Source Chapter"
+        },
+        "pointer": {
+          "anyOf": [
+            {
+              "additionalProperties": true,
+              "type": "object"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Pointer"
+        }
+      },
+      "required": [
+        "text"
+      ],
+      "title": "Example",
+      "type": "object"
+    },
+    "Provenance": {
+      "properties": {
+        "discovered_in": {
+          "anyOf": [
+            {
+              "type": "string"
+            },
+            {
+              "items": {
+                "type": "string"
+              },
+              "type": "array"
+            }
+          ],
+          "default": "",
+          "title": "Discovered In"
+        },
+        "first_seen_chapter": {
+          "anyOf": [
+            {
+              "type": "integer"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "First Seen Chapter"
+        },
+        "frequency_hint": {
+          "anyOf": [
+            {
+              "type": "integer"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Frequency Hint"
+        },
+        "extracted_by": {
+          "default": "",
+          "title": "Extracted By",
+          "type": "string"
+        },
+        "extracted_at": {
+          "default": "",
+          "title": "Extracted At",
+          "type": "string"
+        }
+      },
+      "title": "Provenance",
+      "type": "object"
+    },
+    "Related": {
+      "properties": {
+        "cross_lang": {
+          "items": {
+            "type": "string"
+          },
+          "title": "Cross Lang",
+          "type": "array"
+        },
+        "same_lang": {
+          "items": {
+            "$ref": "#/$defs/SameLangRef"
+          },
+          "title": "Same Lang",
+          "type": "array"
+        }
+      },
+      "title": "Related",
+      "type": "object"
+    },
+    "SameLangRef": {
+      "properties": {
+        "id": {
+          "title": "Id",
+          "type": "string"
+        },
+        "relation": {
+          "default": "other",
+          "enum": [
+            "contrast",
+            "base",
+            "derivative",
+            "synonym",
+            "other"
+          ],
+          "title": "Relation",
+          "type": "string"
+        }
+      },
+      "required": [
+        "id"
+      ],
+      "title": "SameLangRef",
+      "type": "object"
+    },
+    "Status": {
+      "enum": [
+        "candidate",
+        "draft",
+        "review",
+        "published",
+        "deprecated"
+      ],
+      "title": "Status",
+      "type": "string"
+    }
+  },
+  "properties": {
+    "id": {
+      "title": "Id",
+      "type": "string"
+    },
+    "language": {
+      "enum": [
+        "ja",
+        "ko",
+        "th",
+        "vi"
+      ],
+      "title": "Language",
+      "type": "string"
+    },
+    "type": {
+      "default": "grammar",
+      "enum": [
+        "grammar",
+        "particle",
+        "conjugation",
+        "expression",
+        "honorific"
+      ],
+      "title": "Type",
+      "type": "string"
+    },
+    "level": {
+      "title": "Level",
+      "type": "string"
+    },
+    "level_rank": {
+      "title": "Level Rank",
+      "type": "integer"
+    },
+    "title": {
+      "title": "Title",
+      "type": "string"
+    },
+    "structure": {
+      "default": "",
+      "title": "Structure",
+      "type": "string"
+    },
+    "structure_pattern": {
+      "default": "",
+      "title": "Structure Pattern",
+      "type": "string"
+    },
+    "explanation_zh": {
+      "default": "",
+      "title": "Explanation Zh",
+      "type": "string"
+    },
+    "examples": {
+      "items": {
+        "$ref": "#/$defs/Example"
+      },
+      "title": "Examples",
+      "type": "array"
+    },
+    "related": {
+      "$ref": "#/$defs/Related"
+    },
+    "tags": {
+      "items": {
+        "type": "string"
+      },
+      "title": "Tags",
+      "type": "array"
+    },
+    "provenance": {
+      "$ref": "#/$defs/Provenance"
+    },
+    "status": {
+      "$ref": "#/$defs/Status",
+      "default": "draft"
+    },
+    "review_note": {
+      "default": "",
+      "title": "Review Note",
+      "type": "string"
+    }
+  },
+  "required": [
+    "id",
+    "language",
+    "level",
+    "level_rank",
+    "title"
+  ],
+  "title": "GrammarEntry",
+  "type": "object"
+}

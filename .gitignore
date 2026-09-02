@@ -1,0 +1,22 @@
+# 版权敏感：原文与中间产物永不进仓库
+corpus/
+data/
+kb/internal/
+*.epub
+
+# 站点生成物与本地专属数据
+site/src/content/kb/
+site/src/lib/books.json
+site/public/_local/
+site/dist/
+site/node_modules/
+site/.astro/
+
+# 常规
+node_modules/
+.env
+__pycache__/
+*.pyc
+*.egg-info/
+.DS_Store
+*.tmp

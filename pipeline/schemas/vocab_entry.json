@@ -1,0 +1,300 @@
+{
+  "$defs": {
+    "Example": {
+      "properties": {
+        "text": {
+          "title": "Text",
+          "type": "string"
+        },
+        "reading": {
+          "default": "",
+          "title": "Reading",
+          "type": "string"
+        },
+        "translation_zh": {
+          "default": "",
+          "title": "Translation Zh",
+          "type": "string"
+        },
+        "source_book": {
+          "default": "",
+          "title": "Source Book",
+          "type": "string"
+        },
+        "source_chapter": {
+          "anyOf": [
+            {
+              "type": "integer"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Source Chapter"
+        },
+        "pointer": {
+          "anyOf": [
+            {
+              "additionalProperties": true,
+              "type": "object"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Pointer"
+        }
+      },
+      "required": [
+        "text"
+      ],
+      "title": "Example",
+      "type": "object"
+    },
+    "Frequency": {
+      "properties": {
+        "rank": {
+          "anyOf": [
+            {
+              "type": "integer"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Rank"
+        },
+        "count": {
+          "anyOf": [
+            {
+              "type": "integer"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Count"
+        },
+        "doc_count": {
+          "anyOf": [
+            {
+              "type": "integer"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Doc Count"
+        }
+      },
+      "title": "Frequency",
+      "type": "object"
+    },
+    "Provenance": {
+      "properties": {
+        "discovered_in": {
+          "anyOf": [
+            {
+              "type": "string"
+            },
+            {
+              "items": {
+                "type": "string"
+              },
+              "type": "array"
+            }
+          ],
+          "default": "",
+          "title": "Discovered In"
+        },
+        "first_seen_chapter": {
+          "anyOf": [
+            {
+              "type": "integer"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "First Seen Chapter"
+        },
+        "frequency_hint": {
+          "anyOf": [
+            {
+              "type": "integer"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Frequency Hint"
+        },
+        "extracted_by": {
+          "default": "",
+          "title": "Extracted By",
+          "type": "string"
+        },
+        "extracted_at": {
+          "default": "",
+          "title": "Extracted At",
+          "type": "string"
+        }
+      },
+      "title": "Provenance",
+      "type": "object"
+    },
+    "Related": {
+      "properties": {
+        "cross_lang": {
+          "items": {
+            "type": "string"
+          },
+          "title": "Cross Lang",
+          "type": "array"
+        },
+        "same_lang": {
+          "items": {
+            "$ref": "#/$defs/SameLangRef"
+          },
+          "title": "Same Lang",
+          "type": "array"
+        }
+      },
+      "title": "Related",
+      "type": "object"
+    },
+    "SameLangRef": {
+      "properties": {
+        "id": {
+          "title": "Id",
+          "type": "string"
+        },
+        "relation": {
+          "default": "other",
+          "enum": [
+            "contrast",
+            "base",
+            "derivative",
+            "synonym",
+            "other"
+          ],
+          "title": "Relation",
+          "type": "string"
+        }
+      },
+      "required": [
+        "id"
+      ],
+      "title": "SameLangRef",
+      "type": "object"
+    },
+    "Status": {
+      "enum": [
+        "candidate",
+        "draft",
+        "review",
+        "published",
+        "deprecated"
+      ],
+      "title": "Status",
+      "type": "string"
+    }
+  },
+  "properties": {
+    "id": {
+      "title": "Id",
+      "type": "string"
+    },
+    "language": {
+      "enum": [
+        "ja",
+        "ko",
+        "th",
+        "vi"
+      ],
+      "title": "Language",
+      "type": "string"
+    },
+    "type": {
+      "const": "vocab",
+      "default": "vocab",
+      "title": "Type",
+      "type": "string"
+    },
+    "word": {
+      "title": "Word",
+      "type": "string"
+    },
+    "reading": {
+      "default": "",
+      "title": "Reading",
+      "type": "string"
+    },
+    "pos": {
+      "default": "",
+      "title": "Pos",
+      "type": "string"
+    },
+    "gloss_zh": {
+      "default": "",
+      "title": "Gloss Zh",
+      "type": "string"
+    },
+    "gloss_detail_zh": {
+      "default": "",
+      "title": "Gloss Detail Zh",
+      "type": "string"
+    },
+    "level": {
+      "default": "",
+      "title": "Level",
+      "type": "string"
+    },
+    "level_rank": {
+      "default": 0,
+      "title": "Level Rank",
+      "type": "integer"
+    },
+    "frequency": {
+      "$ref": "#/$defs/Frequency"
+    },
+    "examples": {
+      "items": {
+        "$ref": "#/$defs/Example"
+      },
+      "title": "Examples",
+      "type": "array"
+    },
+    "related": {
+      "$ref": "#/$defs/Related"
+    },
+    "tags": {
+      "items": {
+        "type": "string"
+      },
+      "title": "Tags",
+      "type": "array"
+    },
+    "provenance": {
+      "$ref": "#/$defs/Provenance"
+    },
+    "status": {
+      "$ref": "#/$defs/Status",
+      "default": "draft"
+    }
+  },
+  "required": [
+    "id",
+    "language",
+    "word"
+  ],
+  "title": "VocabEntry",
+  "type": "object"
+}

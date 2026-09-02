@@ -1,0 +1,36 @@
+id: ja-grm-00038
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 〜てやる：给（对方）做……（随便・粗鲁）
+structure: 动词て形 + やる
+structure_pattern: V-て + やる
+explanation_zh: 「〜てやる」是「〜てあげる」的随意、粗鲁说法，表示“（我）给（对方）做某事”。用于同辈、晚辈或动物，带亲切又随便的语气。轻小说男性第一人称叙述十分常用。
+examples:
+- text: その小さな身体を温かいタオルで拭いてやる。
+  reading: そのちいさなしんたいをあたたかいタオルでふいてやる。
+  translation_zh: 我用温热的毛巾帮它擦小小的身体。
+  source_book: book-ja-001
+  source_chapter: null
+  pointer: null
+- text: 余ったタオルを三匹にかけてやる。
+  reading: あまったタオルをさんびきにかけてやる。
+  translation_zh: 把多余的毛巾给三只小猫盖上。
+  source_book: book-ja-001
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 授受表现
+- 语气
+provenance:
+  discovered_in: book-ja-001
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-02'
+status: draft
+review_note: ''

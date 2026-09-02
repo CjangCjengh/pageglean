@@ -1,0 +1,30 @@
+id: ja-grm-00027
+language: ja
+type: grammar
+level: N3
+level_rank: 3
+title: 〜ようだ：好像……
+structure: 普通形 + ようだ／様な
+structure_pattern: 普通形 + ようだ／様な
+explanation_zh: 「〜ようだ」表示主观的不确定推测或比喻，"好像……""像……似的"，常与「まるで」呼应。比传闻、样态的「〜そうだ」更侧重说话人的主观判断，书面、口语皆可。
+examples:
+- text: 嫌がっている様な返事じゃなかった事に軽く安堵し、脱衣所を出る。
+  reading: いやがっているようなへんじじゃなかったことにかるくあんどし、だついしょをでる
+  translation_zh: 听上去不像是嫌弃的回答，我稍稍松了口气，走出更衣室。
+  source_book: book-ja-001
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 样态
+- 语气
+provenance:
+  discovered_in: book-ja-001
+  first_seen_chapter: null
+  frequency_hint: 5
+  extracted_by: claude-code
+  extracted_at: '2026-09-02'
+status: draft
+review_note: ''

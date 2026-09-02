@@ -1,0 +1,31 @@
+id: ja-grm-00001
+language: ja
+type: grammar
+level: N3
+level_rank: 3
+title: 〜て初めて：直到……才第一次……
+structure: V-て + 初めて（始めて）
+structure_pattern: V-て + はじめて
+explanation_zh: 表示直到做了前项、或到达前项阶段之后，才第一次意识到后项，常带有后悔、醒悟的语气。汉字可写作「初めて」或「始めて」。本句「ここに至って初めて」即「直到事态发展至此」。
+examples:
+- text: ここに至って初めて、俺は現状における『己の』危うさに気がついた。
+  reading: ここにいたってはじめて、おれはげんじょうにおける『おのれの』あやうさにきがついた。
+  translation_zh: 直到事态发展到这个地步，我才第一次意识到自身处境的危险。
+  source_book: book-ja-001
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 体貌
+- 时态
+- 心理描写
+provenance:
+  discovered_in: book-ja-001
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-02'
+status: draft
+review_note: ''

@@ -1,0 +1,36 @@
+id: ja-grm-00031
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 〜てやる：为下方对象做某事
+structure: V-て + やる
+structure_pattern: V-て + やる
+explanation_zh: 「〜てやる」表示为地位较低或亲近的对象做某事，是“我给别人做”的授受表达。本段主角对小猫和女孩都用此形，体现居高而温柔的语气。连用形「拭いてやり」用于书面叙述。
+examples:
+- text: 後で温めた牛乳でも持っていってやるか……
+  reading: あとであたためたぎゅうにゅうでももっていってやるか……
+  translation_zh: 待会儿带点热好的牛奶之类的过去给它吧……
+  source_book: book-ja-001
+  source_chapter: null
+  pointer: null
+- text: 『拾ってやって下さい』と書かれたそのダンボール箱は、ソレを隠すには浅すぎる。
+  reading: ひろってやってくださいとかかれたそのダンボールばこは、ソレをかくすにはあさすぎる。
+  translation_zh: 那个写着“请把它捡走收养”的纸箱实在太浅，根本藏不住它。
+  source_book: book-ja-001
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 授受动词
+- 敬语
+provenance:
+  discovered_in: book-ja-001
+  first_seen_chapter: null
+  frequency_hint: 6
+  extracted_by: claude-code
+  extracted_at: '2026-09-02'
+status: draft
+review_note: ''

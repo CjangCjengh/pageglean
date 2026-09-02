@@ -1,0 +1,30 @@
+id: ja-grm-00015
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 〜ておく／〜とく：事先准备
+structure: Vて形 + おく（口语缩约：〜とく）
+structure_pattern: 'V-て + おく（口語縮約: V-とく）'
+explanation_zh: 表示事先为了某种目的或应对将来的情况而提前做某事，可译为"先……好""……备着"。书面形为「〜ておく」，口语中「てお」常缩约为「とく」（如「入れとく」）。本段反复出现，体现主人公提前照料少女和小猫的准备动作。
+examples:
+- text: うわ……。新聞紙敷いておいて正解だったなー
+  reading: うわ……。しんぶんししいておいてせいかいだったなー
+  translation_zh: 哇……幸好事先铺了报纸啊——
+  source_book: book-ja-001
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 体貌
+- 口語
+provenance:
+  discovered_in: book-ja-001
+  first_seen_chapter: null
+  frequency_hint: 6
+  extracted_by: claude-code
+  extracted_at: '2026-09-02'
+status: draft
+review_note: ''

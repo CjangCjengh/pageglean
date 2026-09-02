@@ -1,0 +1,39 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "langpipe"
+version = "0.1.0"
+description = "拾页 PageGlean —— 多语轻小说语料管线"
+requires-python = ">=3.10"
+dependencies = [
+  "ebooklib",
+  "beautifulsoup4",
+  "lxml",
+  "charset-normalizer",
+  "fugashi",
+  "unidic-lite",
+  "pythainlp",
+  "underthesea",
+  "openai",
+  "httpx",
+  "tenacity",
+  "pydantic>=2",
+  "jsonschema",
+  "pyyaml",
+  "jinja2",
+  "typer",
+  "rich",
+  "numpy",
+  "orjson",
+]
+
+[project.scripts]
+langpipe = "langpipe.cli:app"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.setuptools.package-data]
+langpipe = ["../prompts/*.j2", "../langdata/**/*"]

@@ -1,0 +1,30 @@
+id: ja-grm-00020
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 〜かも：不确定的推测
+structure: 普通形 + かも（しれない）
+structure_pattern: 普通形 + かも（しれない）
+explanation_zh: 「かもしれない」的口语省略，表示把握不大的推测，"也许……""说不定……"。少女含糊低语中的「あったかも」传达出将信将信的语气，口语属性强。
+examples:
+- text: 『いいこと』あったかも……
+  reading: いいことあったかも……
+  translation_zh: 也许有什么『好事』发生了……
+  source_book: book-ja-001
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 语气
+- 口語
+provenance:
+  discovered_in: book-ja-001
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-02'
+status: draft
+review_note: ''

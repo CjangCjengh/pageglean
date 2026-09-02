@@ -1,0 +1,29 @@
+id: ja-grm-00028
+language: ja
+type: grammar
+level: N3
+level_rank: 3
+title: 〜うちに：趁……
+structure: 〜ている/名词＋の + うちに
+structure_pattern: 〜うちに（今のうちに）
+explanation_zh: 「〜うちに」表示趁着某种状态持续的期间赶紧做某事，"趁……的时候"。「今のうちに」即"趁现在"。强调时机窗口，错过就难办了。
+examples:
+- text: 今のうちにあの子の着替えをっと
+  reading: いまのうちにあのこのきがえをっと
+  translation_zh: 趁现在赶紧把孩子的换洗衣物（备好）——
+  source_book: book-ja-001
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 时间表达
+provenance:
+  discovered_in: book-ja-001
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-02'
+status: draft
+review_note: ''

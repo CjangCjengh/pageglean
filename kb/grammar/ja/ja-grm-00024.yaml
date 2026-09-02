@@ -1,0 +1,29 @@
+id: ja-grm-00024
+language: ja
+type: grammar
+level: N2
+level_rank: 4
+title: 〜はと言うと：至于……呢
+structure: N + はと言うと
+structure_pattern: N + はと言うと
+explanation_zh: 用于转换话题、引出对另一方状况的描述，"至于……嘛""……那边呢"。常带有与预期形成对照的语感，叙述中视角切换时很好用。
+examples:
+- text: そしてチビ達はと言うと……。
+  reading: そしてチビたちはというと……
+  translation_zh: 至于小家伙们那边嘛……
+  source_book: book-ja-001
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 话题
+provenance:
+  discovered_in: book-ja-001
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-02'
+status: draft
+review_note: ''

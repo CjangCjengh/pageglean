@@ -1,0 +1,30 @@
+id: ja-grm-00034
+language: ja
+type: grammar
+level: N3
+level_rank: 3
+title: 〜にしては：以…而言却…
+structure: N + にしては
+structure_pattern: N + にしては
+explanation_zh: 表示“以…的标准来看却…”，后项多为与预期不符的评价。本段中女孩报出的号码是九位数，“作为电话号码却少了一位”。与「〜にしても」「〜わりに」意思相近。
+examples:
+- text: 電話番号にしては１ケタ足りない。
+  reading: でんわばんごうにしてはいちけたたりない。
+  translation_zh: 作为电话号码来说，少了一位数。
+  source_book: book-ja-001
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 助词
+- 评价
+provenance:
+  discovered_in: book-ja-001
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-02'
+status: draft
+review_note: ''

@@ -1,0 +1,37 @@
+@import "tailwindcss";
+
+@theme {
+  --color-ink: #0b0f1a;
+  --color-panel: #111827;
+  --font-sans: "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", "Noto Sans CJK SC", system-ui, sans-serif;
+  --font-jp: "Hiragino Kaku Gothic ProN", "Yu Gothic", "Noto Sans JP", sans-serif;
+}
+
+html {
+  background: #0b0f1a;
+  color-scheme: dark;
+}
+
+body {
+  font-family: var(--font-sans);
+}
+
+/* 极光背景 */
+.aurora {
+  background:
+    radial-gradient(60rem 30rem at 15% -10%, rgba(244, 114, 182, 0.14), transparent 60%),
+    radial-gradient(50rem 28rem at 85% -5%, rgba(96, 165, 250, 0.14), transparent 60%),
+    radial-gradient(40rem 24rem at 50% 110%, rgba(52, 211, 153, 0.08), transparent 60%);
+}
+
+.glass {
+  background: rgba(17, 24, 39, 0.6);
+  backdrop-filter: blur(12px);
+  border: 1px solid rgba(255, 255, 255, 0.08);
+}
+
+/* 竖排阅读器（本地构建用） */
+.vertical-rl {
+  writing-mode: vertical-rl;
+  text-orientation: mixed;
+}

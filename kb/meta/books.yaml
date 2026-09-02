@@ -1,0 +1,710 @@
+- book_id: book-ja-001
+  title_orig: 前略。ねこと天使と同居はじめました。
+  language: ja
+  epub_path: corpus/ja/前略。ねこと天使と同居はじめました。.epub
+  sha256: f74df7a99406867c9c61b8da20ac90a50f2a9b83076e13cb2b3158a4dc6d9276
+  chapter_count: 19
+  total_chars: 83026
+  has_ruby: true
+  script: vertical
+  status: unpacked
+- book_id: book-ja-002
+  title_orig: 前略。ねこと天使と同居はじめました。三匹目
+  language: ja
+  epub_path: corpus/ja/前略。ねこと天使と同居はじめました。三匹目.epub
+  sha256: 636c70db83aa0132291ea2cd7980f13ae47ef464f97d87b67af61e5441312bd1
+  chapter_count: 17
+  total_chars: 90039
+  has_ruby: true
+  script: vertical
+  status: unpacked
+- book_id: book-ja-003
+  title_orig: 前略。ねこと天使と同居をはじめました。二匹目
+  language: ja
+  epub_path: corpus/ja/前略。ねこと天使と同居はじめました。二匹目.epub
+  sha256: e8f4ff1927aaf19030b39f8dfda600ebb2cade877223a5b62eccd38ce561e0e5
+  chapter_count: 19
+  total_chars: 111537
+  has_ruby: true
+  script: vertical
+  status: unpacked
+- book_id: book-ja-004
+  title_orig: 前略。ねこと天使と同居はじめました。五匹目
+  language: ja
+  epub_path: corpus/ja/前略。ねこと天使と同居はじめました。五匹目.epub
+  sha256: 77f4e8dcb496fd3cca0daa452421f6b0485ab756b3338453cbcb5cbb55171530
+  chapter_count: 18
+  total_chars: 101232
+  has_ruby: true
+  script: vertical
+  status: unpacked
+- book_id: book-ja-005
+  title_orig: 前略。ねこと天使と同居はじめました。六匹目
+  language: ja
+  epub_path: corpus/ja/前略。ねこと天使と同居はじめました。六匹目.epub
+  sha256: e1b011c316dde902b67eaebd7c7f95a55ddcac246c1eb3dc9de03144cb249403
+  chapter_count: 16
+  total_chars: 103923
+  has_ruby: true
+  script: vertical
+  status: unpacked
+- book_id: book-ja-006
+  title_orig: 前略。ねこと天使と同居はじめました。四匹目
+  language: ja
+  epub_path: corpus/ja/前略。ねこと天使と同居はじめました。四匹目.epub
+  sha256: e795ba3388ad1494eab29de958ab3a79e01fbba5f8b60a0a04ebaf6fe6ac5d5f
+  chapter_count: 17
+  total_chars: 87924
+  has_ruby: true
+  script: vertical
+  status: unpacked
+- book_id: book-ja-007
+  title_orig: 勇者と魔王のバトルはリビングで1
+  language: ja
+  epub_path: corpus/ja/勇者と魔王のバトルはリビングで1.epub
+  sha256: b9ba7860545388ab9b77b866b620aadeda6f32c0f7cf3e4ca18cf0553fb3ec26
+  chapter_count: 19
+  total_chars: 106617
+  has_ruby: true
+  script: vertical
+  status: unpacked
+- book_id: book-ja-008
+  title_orig: 勇者と魔王のバトルはリビングで2
+  language: ja
+  epub_path: corpus/ja/勇者と魔王のバトルはリビングで2.epub
+  sha256: c862d5ebd2ce636b7cc0fa7aac6cf58a9ede363b49ebc63c69665b47a005135c
+  chapter_count: 18
+  total_chars: 111054
+  has_ruby: true
+  script: vertical
+  status: unpacked
+- book_id: book-ja-009
+  title_orig: 勇者と魔王のバトルはリビングで3
+  language: ja
+  epub_path: corpus/ja/勇者と魔王のバトルはリビングで3.epub
+  sha256: 24fd621624f4ccab77b61a266312ed3b50161c6a51ffd2d44653458cce56569d
+  chapter_count: 14
+  total_chars: 115940
+  has_ruby: true
+  script: vertical
+  status: unpacked
+- book_id: book-ja-010
+  title_orig: 明日、ボクは死ぬ。キミは生き返る。 ～Sunrise & Sunset Story～
+  language: ja
+  epub_path: corpus/ja/明日、ボクは死ぬ。キミは生き返る。 ～Sunrise & Sunset Story～.epub
+  sha256: 1c2040216f389e198d42667b57db6ffdfcae6bda4f956a2bca2f944b2ce2a7e4
+  chapter_count: 14
+  total_chars: 91258
+  has_ruby: true
+  script: vertical
+  status: unpacked
+- book_id: book-ja-011
+  title_orig: 明日、ボクは死ぬ。キミは生き返る。
+  language: ja
+  epub_path: corpus/ja/明日、ボクは死ぬ。キミは生き返る。.epub
+  sha256: 0c64ffb72e37660a2ca7041257a5bcc03155b813205ac6063c3aea79e1185a86
+  chapter_count: 13
+  total_chars: 116323
+  has_ruby: true
+  script: vertical
+  status: unpacked
+- book_id: book-ja-012
+  title_orig: 明日、ボクは死ぬ。キミは生き返る。2
+  language: ja
+  epub_path: corpus/ja/明日、ボクは死ぬ。キミは生き返る。2.epub
+  sha256: 43fbe3814be569ece0b0fe627f9db1e128c608696d20ab6d7efcc8b0bd9a3bed
+  chapter_count: 12
+  total_chars: 113170
+  has_ruby: true
+  script: vertical
+  status: unpacked
+- book_id: book-ja-013
+  title_orig: 西野　～学内カースト最下位にして異能世界最強の少年～ 7【電子特典付き】
+  language: ja
+  epub_path: corpus/ja/西野　〜学内カースト最下位にして異能世界最強の少年〜 7【電子特典付き】.epub
+  sha256: 39cc6be4b0e47df83c78462c3d0912ab00099f4794ec387b94762e7188523c61
+  chapter_count: 19
+  total_chars: 130754
+  has_ruby: true
+  script: vertical
+  status: unpacked
+- book_id: book-ja-014
+  title_orig: 西野　～学内カースト最下位にして異能世界最強の少年～ 8【電子特典付き】
+  language: ja
+  epub_path: corpus/ja/西野　〜学内カースト最下位にして異能世界最強の少年〜 8【電子特典付き】.epub
+  sha256: c6505879afdf0cddccf6d9284c69b0375cedc0b4f8a5ce86cf7616447d8f5847
+  chapter_count: 20
+  total_chars: 130993
+  has_ruby: true
+  script: vertical
+  status: unpacked
+- book_id: book-ja-015
+  title_orig: 西野　～学内カースト最下位にして異能世界最強の少年～ 10【電子特典付き】
+  language: ja
+  epub_path: corpus/ja/西野　～学内カースト最下位にして異能世界最強の少年～ 10【電子特典付き】.epub
+  sha256: 00de8346d192bb55b7d8cc082695f2f930c33f040244eeb08a02bb9ba92edb92
+  chapter_count: 18
+  total_chars: 263462
+  has_ruby: true
+  script: vertical
+  status: unpacked
+- book_id: book-ja-016
+  title_orig: 西野　～学内カースト最下位にして異能世界最強の少年～ 11【電子特典付き】
+  language: ja
+  epub_path: corpus/ja/西野　～学内カースト最下位にして異能世界最強の少年～ 11【電子特典付き】.epub
+  sha256: 459dcf63b8d030cdcbc3a801862713c2d1a8d40ab720eb4b028470d505f9ba54
+  chapter_count: 16
+  total_chars: 119998
+  has_ruby: true
+  script: vertical
+  status: unpacked
+- book_id: book-ja-017
+  title_orig: 西野　～学内カースト最下位にして異能世界最強の少年～ 12【電子特典付き】
+  language: ja
+  epub_path: corpus/ja/西野　～学内カースト最下位にして異能世界最強の少年～ 12【電子特典付き】.epub
+  sha256: 7955320130baade45ffbf18df8b08649d6db58b8549d4921d1412f03c57e58be
+  chapter_count: 13
+  total_chars: 122771
+  has_ruby: true
+  script: vertical
+  status: unpacked
+- book_id: book-ja-018
+  title_orig: 西野　～学内カースト最下位にして異能世界最強の少年～ 14 【電子特典付き】
+  language: ja
+  epub_path: corpus/ja/西野　～学内カースト最下位にして異能世界最強の少年～ 14【電子特典付き】.epub
+  sha256: 9b90b392d48f8d4149c170d820718776b2f2464ef232ba004f4dca687c501bec
+  chapter_count: 12
+  total_chars: 110460
+  has_ruby: true
+  script: vertical
+  status: unpacked
+- book_id: book-ja-019
+  title_orig: 西野　～学内カースト最下位にして異能世界最強の少年～ 2【電子特典付き】
+  language: ja
+  epub_path: corpus/ja/西野　～学内カースト最下位にして異能世界最強の少年～ 2【電子特典付き】.epub
+  sha256: 8daa370dd92ff879faa1ba60e739021f802728cd332dee3bcd22841c581fc98b
+  chapter_count: 14
+  total_chars: 104987
+  has_ruby: true
+  script: vertical
+  status: unpacked
+- book_id: book-ja-020
+  title_orig: 西野　～学内カースト最下位にして異能世界最強の少年～ 3【電子特典付き】
+  language: ja
+  epub_path: corpus/ja/西野　～学内カースト最下位にして異能世界最強の少年～ 3【電子特典付き】.epub
+  sha256: 106b9cf8395df1f74c8f94e8675a1390575fe71069ee60a2720532071d593655
+  chapter_count: 15
+  total_chars: 118750
+  has_ruby: true
+  script: vertical
+  status: unpacked
+- book_id: book-ja-021
+  title_orig: 西野　～学内カースト最下位にして異能世界最強の少年～ 4【電子特典付き】
+  language: ja
+  epub_path: corpus/ja/西野　～学内カースト最下位にして異能世界最強の少年～ 4【電子特典付き】.epub
+  sha256: d0fdb6fe134ea323128d9eb61ffa57b6045032e0d3e2c9d5ff851724f7c539ef
+  chapter_count: 16
+  total_chars: 116513
+  has_ruby: true
+  script: vertical
+  status: unpacked
+- book_id: book-ja-022
+  title_orig: 西野　～学内カースト最下位にして異能世界最強の少年～ 5【電子特典付き】
+  language: ja
+  epub_path: corpus/ja/西野　～学内カースト最下位にして異能世界最強の少年～ 5【電子特典付き】.epub
+  sha256: ba1aff73c03ffc49a4062203196f3e19236946c70acbba8415fdf2f099c430fd
+  chapter_count: 16
+  total_chars: 131660
+  has_ruby: true
+  script: vertical
+  status: unpacked
+- book_id: book-ja-023
+  title_orig: 西野　～学内カースト最下位にして異能世界最強の少年～ 6【電子特典付き】
+  language: ja
+  epub_path: corpus/ja/西野　～学内カースト最下位にして異能世界最強の少年～ 6【電子特典付き】.epub
+  sha256: 4cba5d374169855cb549f96b2999a5eff99040663690ecc5c7be5192a6a8f7a3
+  chapter_count: 15
+  total_chars: 126886
+  has_ruby: true
+  script: vertical
+  status: unpacked
+- book_id: book-ja-024
+  title_orig: 西野　～学内カースト最下位にして異能世界最強の少年～ 9【電子特典付き】
+  language: ja
+  epub_path: corpus/ja/西野　～学内カースト最下位にして異能世界最強の少年～ 9【電子特典付き】.epub
+  sha256: b6143d48ebbc0ae1977bbbea1b581eeb9b0842eb2754fc31f8f089c4b4d86172
+  chapter_count: 21
+  total_chars: 145680
+  has_ruby: true
+  script: vertical
+  status: unpacked
+- book_id: book-ja-025
+  title_orig: 西野　～学内カースト最下位にして異能世界最強の少年～【電子特典付き】
+  language: ja
+  epub_path: corpus/ja/西野　～学内カースト最下位にして異能世界最強の少年～【電子特典付き】.epub
+  sha256: 6aefe69c326626bea34af00ae01055742a14d9eae37fafc1d28571c3a027daa3
+  chapter_count: 14
+  total_chars: 136982
+  has_ruby: true
+  script: vertical
+  status: unpacked
+- book_id: book-ko-001
+  title_orig: 나와 그녀와 그녀와 그녀의 건전하지 못한 관계 1권
+  language: ko
+  epub_path: corpus/ko/나와 그녀와 그녀와 그녀의 건전하지 못한 관계 1권.epub
+  sha256: 0565f42a50d29f5e1cff376af2ed62654bb39af348250f09baa7091973b36bdc
+  chapter_count: 14
+  total_chars: 174277
+  has_ruby: false
+  script: horizontal
+  status: unpacked
+- book_id: book-ko-002
+  title_orig: 나와 그녀와 그녀와 그녀의 건전하지 못한 관계 2권
+  language: ko
+  epub_path: corpus/ko/나와 그녀와 그녀와 그녀의 건전하지 못한 관계 2권.epub
+  sha256: a9f7ed207637bc34202729e9cf4f6fdc8ba385907653601a002bb0c10c0dbc8a
+  chapter_count: 12
+  total_chars: 184806
+  has_ruby: false
+  script: horizontal
+  status: unpacked
+- book_id: book-ko-003
+  title_orig: 나와 그녀와 그녀와 그녀의 건전하지 못한 관계 3권
+  language: ko
+  epub_path: corpus/ko/나와 그녀와 그녀와 그녀의 건전하지 못한 관계 3권.epub
+  sha256: 54792a9d28ccf788ec1f5d722a40b68a51fe585d9e32e06757596ff6592ac3bf
+  chapter_count: 13
+  total_chars: 179174
+  has_ruby: false
+  script: horizontal
+  status: unpacked
+- book_id: book-ko-004
+  title_orig: 나와 그녀와 그녀와 그녀의 건전하지 못한 관계 4권
+  language: ko
+  epub_path: corpus/ko/나와 그녀와 그녀와 그녀의 건전하지 못한 관계 4권.epub
+  sha256: 6881bf093c8dced3eff11962a0011dfd209f88af6612433d6de763f2ddd3b975
+  chapter_count: 12
+  total_chars: 171611
+  has_ruby: false
+  script: horizontal
+  status: unpacked
+- book_id: book-ko-005
+  title_orig: 나와 그녀와 그녀와 그녀의 건전하지 못한 관계 5권
+  language: ko
+  epub_path: corpus/ko/나와 그녀와 그녀와 그녀의 건전하지 못한 관계 5권.epub
+  sha256: 008c210fe03084a363ab2b81fbe9bcd0a267e7ae47e7b9714764de8da55b5149
+  chapter_count: 16
+  total_chars: 181236
+  has_ruby: false
+  script: horizontal
+  status: unpacked
+- book_id: book-ko-006
+  title_orig: 나와 그녀와 그녀와 그녀의 건전하지 못한 관계 6권
+  language: ko
+  epub_path: corpus/ko/나와 그녀와 그녀와 그녀의 건전하지 못한 관계 6권.epub
+  sha256: 5b267c82d39766ddf3b9dae299831c55513b1ed6a9e70ca9e1844e88ada77ddd
+  chapter_count: 10
+  total_chars: 167723
+  has_ruby: false
+  script: horizontal
+  status: unpacked
+- book_id: book-ko-007
+  title_orig: 나와 그녀와 그녀와 그녀의 건전하지 못한 관계 3권
+  language: ko
+  epub_path: corpus/ko/나와 그녀와 그녀와 그녀의 건전하지 못한 관계 7권.epub
+  sha256: 519fe7e0c426193dc1961e767085f2f53a8673fd1460d011cc8181ed0329e442
+  chapter_count: 12
+  total_chars: 165351
+  has_ruby: false
+  script: horizontal
+  status: unpacked
+- book_id: book-ko-008
+  title_orig: 나와 그녀와 그녀와 그녀의 건전하지 못한 관계 3권
+  language: ko
+  epub_path: corpus/ko/나와 그녀와 그녀와 그녀의 건전하지 못한 관계 8권 (완결).epub
+  sha256: 1db85495067ae32c5577f97e4387114715c91e25f93d55775b97f910e86363b0
+  chapter_count: 9
+  total_chars: 143481
+  has_ruby: false
+  script: horizontal
+  status: unpacked
+- book_id: book-ko-009
+  title_orig: 반역기사의 성녀찬탈 1권
+  language: ko
+  epub_path: corpus/ko/반역기사의 성녀찬탈 1권.epub
+  sha256: 86dd28e0719834e4ebb81115ee1eeed87a739fec873fb84d6ef348f266d56b71
+  chapter_count: 7
+  total_chars: 215043
+  has_ruby: false
+  script: horizontal
+  status: unpacked
+- book_id: book-ko-010
+  title_orig: 반역기사의 성녀찬탈 2권
+  language: ko
+  epub_path: corpus/ko/반역기사의 성녀찬탈 2권.epub
+  sha256: 20193fe1ddc10d42f1782e49945093dd7148f4f359a838b77fb348489ac1e31e
+  chapter_count: 7
+  total_chars: 164617
+  has_ruby: false
+  script: horizontal
+  status: unpacked
+- book_id: book-ko-011
+  title_orig: 반역기사의 성녀찬탈 3권
+  language: ko
+  epub_path: corpus/ko/반역기사의 성녀찬탈 3권.epub
+  sha256: b3bb85541ff5f2afdb297d9cd0154603971fda38190699644e6ea147289e2227
+  chapter_count: 12
+  total_chars: 166636
+  has_ruby: false
+  script: horizontal
+  status: unpacked
+- book_id: book-ko-012
+  title_orig: 반역기사의 성녀찬탈 4권
+  language: ko
+  epub_path: corpus/ko/반역기사의 성녀찬탈 4권.epub
+  sha256: 408baf1e1aa5820277a7536f561dce7f8681d3180a11703cc87ddc84c3a5bf49
+  chapter_count: 16
+  total_chars: 150049
+  has_ruby: false
+  script: horizontal
+  status: unpacked
+- book_id: book-ko-013
+  title_orig: 반역기사의 성녀찬탈 5권(완결)
+  language: ko
+  epub_path: corpus/ko/반역기사의 성녀찬탈 5권(완결).epub
+  sha256: e4f964a2e61028d06d4ea7b30c300551a69636bce8d152136d534f4a96cbc294
+  chapter_count: 9
+  total_chars: 161721
+  has_ruby: false
+  script: horizontal
+  status: unpacked
+- book_id: book-ko-014
+  title_orig: 악마공작 아즐란 10
+  language: ko
+  epub_path: corpus/ko/악마공작 아즐란 10권.epub
+  sha256: 5524baca5fcf42696b1b32f2df0bd1acc5ac9dd5b052a206e58a1347a7bdc191
+  chapter_count: 23
+  total_chars: 136667
+  has_ruby: false
+  script: horizontal
+  status: unpacked
+- book_id: book-ko-015
+  title_orig: 악마공작 아즐란 1
+  language: ko
+  epub_path: corpus/ko/악마공작 아즐란 1권.epub
+  sha256: cf37dcc1d7fcc457a5a1f8437f723c26618c2d59ee5a8b68eb27421b8aad00ba
+  chapter_count: 23
+  total_chars: 132649
+  has_ruby: false
+  script: horizontal
+  status: unpacked
+- book_id: book-ko-016
+  title_orig: 악마공작 아즐란 2
+  language: ko
+  epub_path: corpus/ko/악마공작 아즐란 2권.epub
+  sha256: da31d5f4cd8039284f5c8238b1bd70c0b7e48afcf4cf612992e50ba78864d1bf
+  chapter_count: 23
+  total_chars: 130036
+  has_ruby: false
+  script: horizontal
+  status: unpacked
+- book_id: book-ko-017
+  title_orig: 악마공작 아즐란 3
+  language: ko
+  epub_path: corpus/ko/악마공작 아즐란 3권.epub
+  sha256: 55e119d3ef62c0a98abc78bc330a3eec725499405d814c36436b3cb46b2e7db4
+  chapter_count: 23
+  total_chars: 129075
+  has_ruby: false
+  script: horizontal
+  status: unpacked
+- book_id: book-ko-018
+  title_orig: 악마공작 아즐란 4
+  language: ko
+  epub_path: corpus/ko/악마공작 아즐란 4권.epub
+  sha256: 89feeb9b87da54708062f614bed1e76eb141a9ab76fb4513a17402072b6502ab
+  chapter_count: 23
+  total_chars: 126498
+  has_ruby: false
+  script: horizontal
+  status: unpacked
+- book_id: book-ko-019
+  title_orig: 악마공작 아즐란 5
+  language: ko
+  epub_path: corpus/ko/악마공작 아즐란 5권.epub
+  sha256: 541c822d60ef0f7a45fbe66374fb91cd073346e4ea4c39761c6bc411dbdd59b6
+  chapter_count: 23
+  total_chars: 132098
+  has_ruby: false
+  script: horizontal
+  status: unpacked
+- book_id: book-ko-020
+  title_orig: 악마공작 아즐란 6
+  language: ko
+  epub_path: corpus/ko/악마공작 아즐란 6권.epub
+  sha256: 4b926b884dba29d22f3a98dfe3f413ca2f01d34a373833edde029a19ab7478fe
+  chapter_count: 24
+  total_chars: 134024
+  has_ruby: false
+  script: horizontal
+  status: unpacked
+- book_id: book-ko-021
+  title_orig: 악마공작 아즐란 7
+  language: ko
+  epub_path: corpus/ko/악마공작 아즐란 7권.epub
+  sha256: 37ea5660ac84d8444758d81a3c6afdce1a6fd9d413f016cca730b7fa71e3fa55
+  chapter_count: 22
+  total_chars: 145401
+  has_ruby: false
+  script: horizontal
+  status: unpacked
+- book_id: book-ko-022
+  title_orig: 악마공작 아즐란 8
+  language: ko
+  epub_path: corpus/ko/악마공작 아즐란 8권.epub
+  sha256: a018e6bfce7d49d82bbb44477a62075b8302c5170b8f84b1240feb35b5d7a5ed
+  chapter_count: 23
+  total_chars: 131610
+  has_ruby: false
+  script: horizontal
+  status: unpacked
+- book_id: book-ko-023
+  title_orig: 악마공작 아즐란 9
+  language: ko
+  epub_path: corpus/ko/악마공작 아즐란 9권.epub
+  sha256: 0c0c15b6add40cd53d51ef26e7c4b7fd9579999fc71c2c3fb9bdfa56a921dec1
+  chapter_count: 23
+  total_chars: 128491
+  has_ruby: false
+  script: horizontal
+  status: unpacked
+- book_id: book-ko-024
+  title_orig: 은둔마왕과 검의 공주 1권
+  language: ko
+  epub_path: corpus/ko/은둔마왕과 검의 공주 1권.epub
+  sha256: 1f2d3bd8ee3597bc302dd9952a6d97abdb4ac6bd86019030ab5e420ad30056f3
+  chapter_count: 6
+  total_chars: 192518
+  has_ruby: false
+  script: horizontal
+  status: unpacked
+- book_id: book-ko-025
+  title_orig: 은둔마왕과 검의 공주 2권
+  language: ko
+  epub_path: corpus/ko/은둔마왕과 검의 공주 2권.epub
+  sha256: c110916c028bbaa502da71f4619bfce108b3e4c177563ac0f1b7f2b993b2681b
+  chapter_count: 9
+  total_chars: 174344
+  has_ruby: false
+  script: horizontal
+  status: unpacked
+- book_id: book-ko-026
+  title_orig: 은둔마왕과 검의 공주 3권
+  language: ko
+  epub_path: corpus/ko/은둔마왕과 검의 공주 3권.epub
+  sha256: 9b72268d2a0d64eb68783e654ac795ccf42f293df15277210759a3c616edc9f8
+  chapter_count: 8
+  total_chars: 136895
+  has_ruby: false
+  script: horizontal
+  status: unpacked
+- book_id: book-ko-027
+  title_orig: 은둔마왕과 검의 공주 4권
+  language: ko
+  epub_path: corpus/ko/은둔마왕과 검의 공주 4권.epub
+  sha256: 5f09877922ff6341ac825a6cc46ed3cd6ecf244e6ca169df955b03dc4f1183af
+  chapter_count: 8
+  total_chars: 197718
+  has_ruby: false
+  script: horizontal
+  status: unpacked
+- book_id: book-ko-028
+  title_orig: 은둔마왕과 검의 공주 5권
+  language: ko
+  epub_path: corpus/ko/은둔마왕과 검의 공주 5권.epub
+  sha256: 4a0a65175affe6275b2eb4c6140c4385bb35201bfebb84fbda3bd08a8b969963
+  chapter_count: 8
+  total_chars: 165493
+  has_ruby: false
+  script: horizontal
+  status: unpacked
+- book_id: book-ko-029
+  title_orig: 은둔마왕과 검의 공주 6권
+  language: ko
+  epub_path: corpus/ko/은둔마왕과 검의 공주 6권.epub
+  sha256: 8ec9c239bcd10195e485c5197021882012d2da86c337f1d4868fb7723a37d606
+  chapter_count: 9
+  total_chars: 154222
+  has_ruby: false
+  script: horizontal
+  status: unpacked
+- book_id: book-ko-030
+  title_orig: 은둔마왕과 검의 공주 7권
+  language: ko
+  epub_path: corpus/ko/은둔마왕과 검의 공주 7권.epub
+  sha256: 7f23477ee58477a757c3fa25423ad76472891a1974d4075f4fd27de4c9a4569a
+  chapter_count: 9
+  total_chars: 151966
+  has_ruby: false
+  script: horizontal
+  status: unpacked
+- book_id: book-ko-031
+  title_orig: 은둔마왕과 검의 공주 8권(완결)
+  language: ko
+  epub_path: corpus/ko/은둔마왕과 검의 공주 8권 (완결).epub
+  sha256: 6c46c5f88bdaea46b730080a970f2a85733795a74903373b7d1c4dcdf6d82e00
+  chapter_count: 5
+  total_chars: 165371
+  has_ruby: false
+  script: horizontal
+  status: unpacked
+- book_id: book-th-001
+  title_orig: '-'
+  language: th
+  epub_path: corpus/th/ข้อแก้ต่างคดีพรากผู้เยาว์ของนักสืบไม่เอาไหน _.epub
+  sha256: fb6753df6d3e26f223d5a978def7cb2c7894fed844d4889c2d0a2d4712d9eb9b
+  chapter_count: 40
+  total_chars: 445574
+  has_ruby: false
+  script: horizontal
+  status: unpacked
+- book_id: book-th-002
+  title_orig: '-'
+  language: th
+  epub_path: corpus/th/ราชาจอมอัญเชิญกับบริวารนักบุกเบิก.epub
+  sha256: 3d8fd8d5a6c5d8c82672ae0d06a3caf8846392a5dd1207cd210d886be9ade122
+  chapter_count: 11
+  total_chars: 568553
+  has_ruby: false
+  script: horizontal
+  status: unpacked
+- book_id: book-th-003
+  title_orig: '-'
+  language: th
+  epub_path: corpus/th/ราชินีมือใหม่จะไขคดีได้หรือเปล่านะ.epub
+  sha256: 5927da0ce7951774a3a4658bd083b875b88bf98b52eee5c219f343d5eb024a4e
+  chapter_count: 30
+  total_chars: 284625
+  has_ruby: false
+  script: horizontal
+  status: unpacked
+- book_id: book-th-004
+  title_orig: '-'
+  language: th
+  epub_path: corpus/th/เกิดใหม่ครั้งนี้จะสร้างประเทศที่ดีได้หรือเปล่านะ เล่ม 1.epub
+  sha256: 66ea4f2c329920ab22688400bff198694e8dbf7a25ed7cd36c394dd5b85f3413
+  chapter_count: 31
+  total_chars: 418992
+  has_ruby: false
+  script: horizontal
+  status: unpacked
+- book_id: book-th-005
+  title_orig: '-'
+  language: th
+  epub_path: corpus/th/เกิดใหม่ครั้งนี้จะสร้างประเทศที่ดีได้หรือเปล่านะ เล่ม 2.epub
+  sha256: a08d96d550c831e7b676865a620500dc26c0be5007ed4e0ce64688010d7a73a0
+  chapter_count: 44
+  total_chars: 400920
+  has_ruby: false
+  script: horizontal
+  status: unpacked
+- book_id: book-th-006
+  title_orig: '-'
+  language: th
+  epub_path: corpus/th/เกิดใหม่ครั้งนี้จะสร้างประเทศที่ดีได้หรือเปล่านะ เล่ม 3.epub
+  sha256: c0ecc2f1de3195c7bf5a80b446c9abaff63c5427f2427f0a5584e298e00ad009
+  chapter_count: 37
+  total_chars: 413517
+  has_ruby: false
+  script: horizontal
+  status: unpacked
+- book_id: book-th-007
+  title_orig: '-'
+  language: th
+  epub_path: corpus/th/เกิดใหม่ครั้งนี้จะสร้างประเทศที่ดีได้หรือเปล่านะ เล่ม 4 (จบภาค).epub
+  sha256: cc06b7a988490d1ec91541b6fecb1d402fc6c50d19ca11a8a4340c82ba7364c2
+  chapter_count: 32
+  total_chars: 507184
+  has_ruby: false
+  script: horizontal
+  status: unpacked
+- book_id: book-th-008
+  title_orig: '-'
+  language: th
+  epub_path: corpus/th/เกิดใหม่ครั้งนี้จะสร้างประเทศที่ดีได้หรือเปล่านะ เล่ม 5.epub
+  sha256: 712c6cee5ede8389ae08626f432f0f56ac8183538ca22c994d1be4e1ade2cc7d
+  chapter_count: 26
+  total_chars: 327303
+  has_ruby: false
+  script: horizontal
+  status: unpacked
+- book_id: book-th-009
+  title_orig: '-'
+  language: th
+  epub_path: corpus/th/แฟนของผมเป็นเด็กสาวจากรัสเซีย เล่ม 1.epub
+  sha256: ee4f7d43910d066740e22673fa9578f269f864949798d70bd6887c5bb9244760
+  chapter_count: 12
+  total_chars: 170597
+  has_ruby: false
+  script: horizontal
+  status: unpacked
+- book_id: book-th-010
+  title_orig: '-'
+  language: th
+  epub_path: corpus/th/แฟนของผมเป็นเด็กสาวจากล้านนา เล่ม 2.epub
+  sha256: 4674a543dcdf09925b3b85d7ff61c1877c5bdd12d622126c373b02b48cee3925
+  chapter_count: 9
+  total_chars: 185117
+  has_ruby: false
+  script: horizontal
+  status: unpacked
+- book_id: book-vi-001
+  title_orig: Bảy Bước Tới Mùa Hè
+  language: vi
+  epub_path: corpus/vi/Bảy Bước Tới Mùa Hè.epub
+  sha256: 837acf9231cf35b1cd4dde76fe8eec9638d0c96cf809f1d8116c5d4446b5142f
+  chapter_count: 32
+  total_chars: 229786
+  has_ruby: false
+  script: horizontal
+  status: unpacked
+- book_id: book-vi-002
+  title_orig: Cây Chuối Non Đi Giày Xanh
+  language: vi
+  epub_path: corpus/vi/Cây Chuối Non Đi Giày Xanh.epub
+  sha256: 4242c865b16df3478230c2bc8e5feeeabc609a8550ae368d9190a5355fa1b46a
+  chapter_count: 7
+  total_chars: 234139
+  has_ruby: false
+  script: horizontal
+  status: unpacked
+- book_id: book-vi-003
+  title_orig: Cô gái đến từ hôm qua
+  language: vi
+  epub_path: corpus/vi/Cô Gái Đến Từ Hôm Qua.epub
+  sha256: b3c0498c38bd2c291e02fb42071346e99fe3aa0a1a2a4972f0be494be7b1f243
+  chapter_count: 12
+  total_chars: 144403
+  has_ruby: false
+  script: horizontal
+  status: unpacked
+- book_id: book-vi-004
+  title_orig: Ngục Thánh
+  language: vi
+  epub_path: corpus/vi/Nguc_Thanh.epub
+  sha256: a1a5cdc3f1cbb8dff2c2da41ba4e098e3e6e767d68799c6973375a63a79fab8e
+  chapter_count: 393
+  total_chars: 8674442
+  has_ruby: false
+  script: horizontal
+  status: unpacked
+- book_id: book-vi-005
+  title_orig: Yêu Nhầm Chị Hai Được Nhầm Em Gái
+  language: vi
+  epub_path: corpus/vi/Yêu Nhầm Chị Hai Được Nhầm Em Gái.epub
+  sha256: b92cf3163f7d708e7327763b2d8c328343ce6009f3ebf344b1093828fb96c1dc
+  chapter_count: 446
+  total_chars: 4636767
+  has_ruby: false
+  script: horizontal
+  status: unpacked

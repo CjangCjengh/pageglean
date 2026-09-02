@@ -1,0 +1,31 @@
+id: ja-grm-00011
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 〜らしい：传闻「听说……」
+structure: 普通体 + らしい
+structure_pattern: 普通形 + らしい
+explanation_zh: 传闻助动词，表示根据他人消息的转述「听说～、好像～」。句末的「わよ」是柔和语气词，本片段中配合主妇角色的口吻。注意与表推测的「〜そうだ」区分。
+examples:
+- text: 自宅からはＨなゲームがゴロゴロ出てきたらしいわよ？
+  reading: じたくからはエッチなゲームがゴロゴロでてきたらしいわよ？
+  translation_zh: 听说从他家里搜出了一大堆H游戏哦？
+  source_book: book-ja-001
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 传闻
+- 句末语气
+- 口语
+provenance:
+  discovered_in: book-ja-001
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-02'
+status: draft
+review_note: ''

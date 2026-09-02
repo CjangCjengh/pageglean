@@ -1,0 +1,30 @@
+id: ja-grm-00016
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 〜ように：目的与转述要求
+structure: V辞書形/ナイ形 + ように + 言う・気をつける
+structure_pattern: V-辞書形 + ように + 言う／気をつける
+explanation_zh: 「ように」可表示目的或指示、请求的内容，译为"以便……""让（某人）……"。与「言う」搭配表示转述要求，与「気をつける」搭配表示注意做到某事。注意它表达非意志性的目标，不用于直接命令。
+examples:
+- text: 熱くなりすぎない様に気をつける。
+  reading: あつくなりすぎないようにつきをつける
+  translation_zh: 注意别让它热过头。
+  source_book: book-ja-001
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 句法
+- 接续
+provenance:
+  discovered_in: book-ja-001
+  first_seen_chapter: null
+  frequency_hint: 4
+  extracted_by: claude-code
+  extracted_at: '2026-09-02'
+status: draft
+review_note: ''

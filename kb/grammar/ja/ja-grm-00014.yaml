@@ -1,0 +1,31 @@
+id: ja-grm-00014
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 〜そうにない：看起来不会……、似乎无法……
+structure: V-ます形 + そうにない
+structure_pattern: V-連用形 + そうにない
+explanation_zh: 样态助动词「〜そうだ」的否定形式，表示从现状判断「看起来不像是会～、恐怕无法～」。「できそうにない」即「看起来办不到」。句首的「どの道」是「反正、无论如何」之意。
+examples:
+- text: どの道、俺は彼女を放っておくことは出来そうになかった。
+  reading: どのみち、おれはかのじょをほっておくことはできそうになかった。
+  translation_zh: 反正，我看来是无法对她放任不管的。
+  source_book: book-ja-001
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 推测
+- 样态
+- 复合动词
+provenance:
+  discovered_in: book-ja-001
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-02'
+status: draft
+review_note: ''

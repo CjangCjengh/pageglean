@@ -1,0 +1,31 @@
+id: ja-grm-00005
+language: ja
+type: grammar
+level: N2
+level_rank: 4
+title: 〜とでも言うのか：难道你要说……吗
+structure: 引用文 + と + でも + 言うのか
+structure_pattern: 普通形 + とでもいうのか
+explanation_zh: 引用助词「と」＋让步举例的「でも」＋反问「言うのか」，构成强烈的反诘：「你该不会是想说……吧！」。用于驳斥对方荒谬的说法，或讽刺地列举极端可能性。
+examples:
+- text: じゃあナニか、天から降りてきたとでも言うのか!?
+  reading: じゃあナニか、てんからおりてきたとでもいうのか!?
+  translation_zh: 那你说是什么，难道要说她是从天上下来的不成!?
+  source_book: book-ja-001
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 修辞反问
+- 引用
+- 口语
+provenance:
+  discovered_in: book-ja-001
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-02'
+status: draft
+review_note: ''

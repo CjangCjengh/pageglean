@@ -1,0 +1,18 @@
+---
+interface Ex { text: string; reading?: string; translation_zh?: string; source_book?: string }
+interface Props { ex: Ex; lang: string }
+const { ex, lang } = Astro.props;
+const jpFont = lang === 'ja';
+---
+<figure class="glass rounded-xl px-5 py-4">
+  <blockquote class:list={['text-lg leading-relaxed text-slate-100', jpFont && 'font-[family-name:var(--font-jp)]']}>
+    {ex.text}
+  </blockquote>
+  {ex.reading && <p class="mt-1 text-sm text-slate-400">{ex.reading}</p>}
+  <figcaption class="mt-2 flex flex-wrap items-baseline gap-x-3 text-sm text-slate-300">
+    <span>{ex.translation_zh}</span>
+    {ex.source_book && (
+      <span class="ml-auto text-xs text-slate-500">摘自 {ex.source_book}</span>
+    )}
+  </figcaption>
+</figure>

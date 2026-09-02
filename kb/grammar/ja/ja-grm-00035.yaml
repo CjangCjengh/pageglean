@@ -1,0 +1,37 @@
+id: ja-grm-00035
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 〜様だ：好像、似乎（推测与比况）
+structure: 小句 + 様だ／様に
+structure_pattern: 普通形 + 様だ / 様に
+explanation_zh: 表示基于所见所闻的推测或比喻，意为“好像、似乎”，写作「様だ」较为正式，口语作「ようだ」。文中「〜様に」用作比况，多次出现，如“像回应又像抗议”。
+examples:
+- text: また声が聞こえた。次の街灯の陰からの様だ。
+  reading: またこえがきこえた。つぎのがいとうのかげからのようだ。
+  translation_zh: 又听到了声音。好像是从下一盏路灯的阴影里传来的。
+  source_book: book-ja-001
+  source_chapter: null
+  pointer: null
+- text: どうやら、この子は自分の現状を把握出来ていない様だ。
+  reading: どうやら、このこはじぶんのげんじょうをはあくできていないようだ。
+  translation_zh: 看来，这个孩子似乎并没有认清自己的现状。
+  source_book: book-ja-001
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 语气
+- 推测
+- 书面语
+provenance:
+  discovered_in: book-ja-001
+  first_seen_chapter: null
+  frequency_hint: 5
+  extracted_by: claude-code
+  extracted_at: '2026-09-02'
+status: draft
+review_note: ''
