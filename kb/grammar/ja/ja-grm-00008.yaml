@@ -4,9 +4,9 @@ type: grammar
 level: N4
 level_rank: 2
 title: 〜じゃないか：发现与提醒「不是有……吗」
-structure: 普通体 + じゃないか
-structure_pattern: 普通形 + じゃないか
-explanation_zh: 并非真正提问，而是以升调表示发觉、提醒或抱怨，「不是（明明）……吗！」。常用于突然想起某事时的自言自语。口语中常说成「〜じゃん／〜じゃねえか」。
+structure: 动词・形容词的终止形／名词・形容动词词干＋じゃないか
+structure_pattern: 終止形（名词・形容动词为词干）＋じゃないか
+explanation_zh: 并非真正提问，而是以升调表示发觉、提醒或抱怨，意为「不是（明明）……吗！」。由「じゃ」（「では」在口语中的音变缩约）＋「ない」（学校文法的否定助动词，表示否定）＋「か」（表示反诘的终助词，即句末语气助词）构成，接在动词・形容词的终止形（直接结句的基本活用形）或名词・形容动词（学校文法中以「だ」结句的一类词）的词干之后。常用于突然想起某事时的自言自语，口语中常说成「〜じゃん／〜じゃねえか」。
 examples:
 - text: 警察官が知り合いにいるじゃないか!!
   reading: けいさつかんがしりあいにいるじゃないか!!
@@ -20,6 +20,7 @@ related:
 tags:
 - 口语
 - 句末语气
+- 反語
 - 心理描写
 provenance:
   discovered_in: book-ja-001
@@ -28,4 +29,4 @@ provenance:
   extracted_by: claude-code
   extracted_at: '2026-09-02'
 status: draft
-review_note: ''
+review_note: 学校语法自动改写（prompt v1）

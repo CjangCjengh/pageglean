@@ -1,5 +1,6 @@
 ---
 import Base from '../../../layouts/Base.astro';
+import Flag from '../../../components/Flag.astro';
 import { LANG_META, type Lang } from '../../../lib/langs';
 import { getCollection, render } from 'astro:content';
 
@@ -20,8 +21,8 @@ const grm = grammarEntries[0];
 ---
 <Base title={`${tut.data.id} 教程 · 拾页`}>
   <div class="mx-auto max-w-3xl">
-    <a href={grm ? `/grammar/${lang}/${tut.data.id}` : `/browse/${lang}`} class="text-sm text-faint hover:text-sub">
-      ← {meta.flag} 返回{grm ? '语法点' : '语法库'}
+    <a href={grm ? `/grammar/${lang}/${tut.data.id}` : `/browse/${lang}`} class="flex items-center gap-1.5 text-sm text-faint hover:text-sub">
+      ← <Flag lang={lang} class="h-3.5 w-5" /> 返回{grm ? '语法点' : '语法库'}
     </a>
     <p class="mt-3 rounded-lg border border-amber-500/30 bg-amber-500/10 px-4 py-2 text-xs text-amber-700 dark:text-amber-400/90">
       ⚠️ 本教程由 AI 自动生成，可能存在错误，仅供学习参考；重要用法请以权威词典与教材为准。

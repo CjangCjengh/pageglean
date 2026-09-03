@@ -1,5 +1,6 @@
 ---
 import Base from '../layouts/Base.astro';
+import Flag from '../components/Flag.astro';
 import { LANGS, LANG_META } from '../lib/langs';
 import { getCollection } from 'astro:content';
 
@@ -51,7 +52,7 @@ const totalGrm = grammar.length;
       >
         <div class:list={['absolute inset-0 bg-gradient-to-br opacity-60', LANG_META[l].grad]}></div>
         <div class="relative">
-          <div class="text-3xl">{LANG_META[l].flag}</div>
+          <Flag lang={l} class="h-8 w-12" />
           <h2 class="mt-3 text-xl font-bold text-strong">{LANG_META[l].name}</h2>
           <p class="mt-2 text-sm text-sub">
             {counts[l].grm > 0

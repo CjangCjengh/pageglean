@@ -4,9 +4,9 @@ type: grammar
 level: N4
 level_rank: 2
 title: 〜そうにない：看起来不会……、似乎无法……
-structure: V-ます形 + そうにない
+structure: V-連用形 + そうにない
 structure_pattern: V-連用形 + そうにない
-explanation_zh: 样态助动词「〜そうだ」的否定形式，表示从现状判断「看起来不像是会～、恐怕无法～」。「できそうにない」即「看起来办不到」。句首的「どの道」是「反正、无论如何」之意。
+explanation_zh: 样态助动词「そうだ」（日语学校文法中表示依据外观推测的助动词，活用与形容动词相同）的否定形式：其连用形（学校文法的活用形之一，此处用于接续）「そうに」后续形容词「ない」，表示从现状判断“看起来不像是会～、恐怕无法～”。如「できそうにない」即“看起来办不到”。句首的「どの道」是“反正、无论如何”之意。
 examples:
 - text: どの道、俺は彼女を放っておくことは出来そうになかった。
   reading: どのみち、おれはかのじょをほっておくことはできそうになかった。
@@ -20,7 +20,6 @@ related:
 tags:
 - 推测
 - 样态
-- 复合动词
 provenance:
   discovered_in: book-ja-001
   first_seen_chapter: null
@@ -28,4 +27,4 @@ provenance:
   extracted_by: claude-code
   extracted_at: '2026-09-02'
 status: draft
-review_note: ''
+review_note: 学校语法自动改写（prompt v1）

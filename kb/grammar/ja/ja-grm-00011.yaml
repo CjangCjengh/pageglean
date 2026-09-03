@@ -4,9 +4,9 @@ type: grammar
 level: N4
 level_rank: 2
 title: 〜らしい：传闻「听说……」
-structure: 普通体 + らしい
-structure_pattern: 普通形 + らしい
-explanation_zh: 传闻助动词，表示根据他人消息的转述「听说～、好像～」。句末的「わよ」是柔和语气词，本片段中配合主妇角色的口吻。注意与表推测的「〜そうだ」区分。
+structure: 用言・助動詞の終止形＋助動詞「らしい」
+structure_pattern: 用言・助動詞の終止形／名詞・形容動詞語幹＋助動詞「らしい」（伝聞・推定）
+explanation_zh: 「らしい」是传闻助动词（附在用言等后表示语法意义的词类），接在用言・助动词的终止形（用于结句的活用形）或名词、形容动词词干之后，表示根据他人消息的转述「听说～、好像～」。句末的「わよ」为语气柔和的终助词组合，多带女性口吻。注意与表样态推测的助动词「〜そうだ」区分。
 examples:
 - text: 自宅からはＨなゲームがゴロゴロ出てきたらしいわよ？
   reading: じたくからはエッチなゲームがゴロゴロでてきたらしいわよ？
@@ -28,4 +28,4 @@ provenance:
   extracted_by: claude-code
   extracted_at: '2026-09-02'
 status: draft
-review_note: ''
+review_note: 学校语法自动改写（prompt v1）

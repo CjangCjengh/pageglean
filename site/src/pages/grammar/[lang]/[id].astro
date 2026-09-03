@@ -1,6 +1,7 @@
 ---
 import Base from '../../../layouts/Base.astro';
 import ExampleCard from '../../../components/ExampleCard.astro';
+import Flag from '../../../components/Flag.astro';
 import { LANG_META, type Lang } from '../../../lib/langs';
 import { getCollection } from 'astro:content';
 import books from '../../../lib/books.json';
@@ -28,8 +29,8 @@ const sourceBook = d.provenance?.discovered_in;
 const sourceTitle = typeof sourceBook === 'string' ? (bookById.get(sourceBook) || sourceBook) : '—';
 ---
 <Base title={`${d.title} · ${meta.name}语法 · 拾页`}>
-  <a href={`/browse/${d.language}`} class="text-sm text-faint transition hover:text-sub">
-    ← {meta.flag} {meta.name}语法库
+  <a href={`/browse/${d.language}`} class="flex items-center gap-1.5 text-sm text-faint transition hover:text-sub">
+    ← <Flag lang={d.language} class="h-3.5 w-5" /> {meta.name}语法库
   </a>
 
   <div class="mt-6 flex flex-wrap items-center gap-3">
@@ -90,13 +91,13 @@ const sourceTitle = typeof sourceBook === 'string' ? (bookById.get(sourceBook) |
               href={`/grammar/${rlang}/${rid}`}
               class="glass flex items-center gap-2 rounded-full px-4 py-2 text-sm transition hover:border-slate-400/60 dark:hover:border-slate-500/50"
             >
-              <span>{rm.flag}</span>
+              <Flag lang={rlang} class="h-3.5 w-5" />
               <span class="text-main">{t.data.title}</span>
               <span class="text-xs text-faint">{t.data.level}</span>
             </a>
           ) : (
-            <span class="glass rounded-full px-4 py-2 text-sm text-faint">
-              {rm.flag} 待补充
+            <span class="glass flex items-center gap-2 rounded-full px-4 py-2 text-sm text-faint">
+              <Flag lang={rlang} class="h-3.5 w-5" /> 待补充
             </span>
           );
         })}

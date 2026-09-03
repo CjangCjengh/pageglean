@@ -4,9 +4,9 @@ type: grammar
 level: N2
 level_rank: 4
 title: 〜とでも言うのか：难道你要说……吗
-structure: 引用文 + と + でも + 言うのか
-structure_pattern: 普通形 + とでもいうのか
-explanation_zh: 引用助词「と」＋让步举例的「でも」＋反问「言うのか」，构成强烈的反诘：「你该不会是想说……吧！」。用于驳斥对方荒谬的说法，或讽刺地列举极端可能性。
+structure: 述文（終止形）＋格助詞「と」（引用）＋副助詞「でも」（例示）＋言うのか（反語的疑問）
+structure_pattern: 終止形＋とでも言うのか
+explanation_zh: 前接用言（动词、形容词、形容动词）的终止形（日语学校文法的活用形之一，句子的基本结束形式，用于引用助词之前），由表引用的格助词「と」、表举例的副助词「でも」和「言うのか」组合而成。整体构成强烈的反诘，意为“难道你要说……吗”“你该不会是想说……吧”。用于驳斥对方荒谬的说法，或讽刺地列举极端的可能性，语气强硬，多见于口语。
 examples:
 - text: じゃあナニか、天から降りてきたとでも言うのか!?
   reading: じゃあナニか、てんからおりてきたとでもいうのか!?
@@ -28,4 +28,4 @@ provenance:
   extracted_by: claude-code
   extracted_at: '2026-09-02'
 status: draft
-review_note: ''
+review_note: 学校语法自动改写（prompt v1）

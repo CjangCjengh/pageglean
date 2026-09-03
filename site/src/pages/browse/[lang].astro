@@ -1,5 +1,6 @@
 ---
 import Base from '../../layouts/Base.astro';
+import Flag from '../../components/Flag.astro';
 import { LANGS, LANG_META, type Lang } from '../../lib/langs';
 import { getCollection } from 'astro:content';
 
@@ -22,7 +23,7 @@ for (const e of entries) {
 ---
 <Base title={`${meta.name}语法库 · 拾页`}>
   <div class="mb-8 flex items-center gap-4">
-    <span class="text-4xl">{meta.flag}</span>
+    <Flag lang={lang} class="h-9 w-[54px]" />
     <div>
       <h1 class="text-3xl font-bold text-strong">{meta.name}语法库</h1>
       <p class="mt-1 text-sm text-sub">共 {entries.length} 个语法点，按难度分级</p>

@@ -37,7 +37,8 @@ class Ledger:
     def __init__(self, db_path: Path | None = None):
         self.db_path = Path(db_path or LEDGER_DB)
         self.db_path.parent.mkdir(parents=True, exist_ok=True)
-        self.conn = sqlite3.connect(self.db_path, timeout=60)
+        # check_same_thread=False：管线常用线程池并发记任务（WAL + 短事务，安全）
+        self.conn = sqlite3.connect(self.db_path, timeout=60, check_same_thread=False)
         self.conn.row_factory = sqlite3.Row
         self.conn.execute("PRAGMA journal_mode=WAL")
         self.conn.executescript(SCHEMA)

@@ -4,9 +4,9 @@ type: grammar
 level: N3
 level_rank: 3
 title: なんて：竟然……（惊讶・难以置信）
-structure: N／普通体 + なんて
-structure_pattern: N/普通形 + なんて
-explanation_zh: 表示对意外之事的惊讶、难以置信或轻蔑，「居然……、……什么的」。口语属性强，本片段在太太们的闲话和学生的议论里反复出现，表达「没想到会这样」的心情。
+structure: N／動詞・形容詞・形容動詞の終止形 ＋ なんて
+structure_pattern: N/終止形 + なんて
+explanation_zh: 「なんて」是副助词（日语学校文法中的一类助词，此处用于举出事例并附带说话人的主观评价），接在名词或动词、形容词、形容动词的终止形（日语学校文法中用于结句的活用形）之后。表示对意外之事的惊讶、难以置信或轻蔑，意为「居然……、……什么的／……之类的」。口语色彩浓，常带反问语气以强调事情出乎意料。
 examples:
 - text: 高校教師が性犯罪者なんて……
   reading: こうこうきょうしがせいはんざいしゃなんて……
@@ -34,4 +34,4 @@ provenance:
   extracted_by: claude-code
   extracted_at: '2026-09-02'
 status: draft
-review_note: ''
+review_note: 学校语法自动改写（prompt v1）

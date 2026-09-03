@@ -4,9 +4,9 @@ type: grammar
 level: N3
 level_rank: 3
 title: 可能性がある：有可能……
-structure: V-普通体 + 可能性がある
-structure_pattern: V-普通形 + かのうせいがある
-explanation_zh: 表示「有～的可能性」，用于客观推测。注意本句的「見られている」是「見る」的被动形「見られる」＋「ている」的叠加，表示「正在被看着」这一持续状态。
+structure: 動詞連体形 + 可能性がある
+structure_pattern: 動詞連体形 + かのうせいがある
+explanation_zh: 表示「有～的可能性」，用于客观推测；動詞以連体形（日语学校文法的动词活用形之一，用于修饰其后的名词）接续名词「可能性」。若谓语为被动＋持续，如「見られている」，则由「見る」的未然形（学校文法的活用形之一，常用于接续助动词）接受身助动词「られる」（表示被动的助动词），再经连用形接接续助词「て」后接补助动词「いる」构成，表示「正被看着」这一持续状态。
 examples:
 - text: つまり、見られている可能性がある。
   reading: つまり、みられているかのうせいがある。
@@ -28,4 +28,4 @@ provenance:
   extracted_by: claude-code
   extracted_at: '2026-09-02'
 status: draft
-review_note: ''
+review_note: 学校语法自动改写（prompt v1）

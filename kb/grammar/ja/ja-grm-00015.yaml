@@ -3,10 +3,10 @@ language: ja
 type: grammar
 level: N4
 level_rank: 2
-title: 〜ておく／〜とく：事先准备
-structure: Vて形 + おく（口语缩约：〜とく）
-structure_pattern: 'V-て + おく（口語縮約: V-とく）'
-explanation_zh: 表示事先为了某种目的或应对将来的情况而提前做某事，可译为"先……好""……备着"。书面形为「〜ておく」，口语中「てお」常缩约为「とく」（如「入れとく」）。本段反复出现，体现主人公提前照料少女和小猫的准备动作。
+title: 動詞連用形＋接続助詞て＋おく（〜ておく／〜とく）：事先准备
+structure: 动词连用形 + 接続助詞て + おく（口语缩约：〜とく）
+structure_pattern: '動詞連用形＋接続助詞て＋おく（口語縮約: 動詞連用形＋とく）'
+explanation_zh: 表示事先为了某种目的或应对将来的情况而做某事，可译为"先……好""……备着"。结构为动词连用形（日语学校文法的动词活用形之一，常用于接续助词）＋接続助詞て（表示动作先后承接），后接おく（補助動詞的用法，表示事先完成并保留结果）。口语中「ておく」常缩约为「とく」（如「入れとく」）。
 examples:
 - text: うわ……。新聞紙敷いておいて正解だったなー
   reading: うわ……。しんぶんししいておいてせいかいだったなー
@@ -27,4 +27,4 @@ provenance:
   extracted_by: claude-code
   extracted_at: '2026-09-02'
 status: draft
-review_note: ''
+review_note: 学校语法自动改写（prompt v1）

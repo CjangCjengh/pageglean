@@ -4,9 +4,9 @@ type: grammar
 level: N2
 level_rank: 4
 title: 〜とはいえ：虽说……
-structure: V-普通体／N + とはいえ
-structure_pattern: 普通形 + とはいえ
-explanation_zh: 让步表达，「虽说～（但是）……」，先承认前项事实，再提出与之相悖的后项，语气偏书面。本句的「腐れている」来自「腐る（腐败、颓废）」，指那位警察熟人并不靠谱。
+structure: V-終止形・連体形／N + とはいえ
+structure_pattern: 終止形・連体形 + とはいえ
+explanation_zh: 让步表达，「虽说～（但是）……」，先承认前项事实，再提出与之相悖的后项，语气偏书面。「とはいえ」由格助詞と加動詞「言う」的仮定形（日语学校文法的动词活用形之一，多表示假设条件）构成，接在用言的終止形・連体形（相当于句尾形或连体修饰形）或名词之后，字面义为“虽说……”。句中「腐れている」来自「腐る（腐败、颓废）」，指那位警察熟人并不靠谱。
 examples:
 - text: 腐れているとはいえ、警察官が知り合いにいるじゃないか!!
   reading: くされているとはいえ、けいさつかんがしりあいにいるじゃないか!!
@@ -28,4 +28,4 @@ provenance:
   extracted_by: claude-code
   extracted_at: '2026-09-02'
 status: draft
-review_note: ''
+review_note: 学校语法自动改写（prompt v1）

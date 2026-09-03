@@ -4,9 +4,9 @@ type: grammar
 level: N4
 level_rank: 2
 title: 〜のに：明明……却……
-structure: 普通体 + のに
-structure_pattern: 普通形 + のに
-explanation_zh: 表示与预期相反的转折，带有不满、委屈、遗憾的情绪，「明明……（却）……」。口语中名词、な形容词后常省略「だ」。本片段中用于喊冤与抱怨遭到背叛的期待。
+structure: 用言・断定の助動詞「だ」の連体形 ＋ 形式名詞「の」 ＋ 格助詞「に」
+structure_pattern: 連体形 ＋ 形式名詞「の」 ＋ 格助詞「に」
+explanation_zh: 表示事实与预期相反的逆接，带有不满、委屈、遗憾的语气，相当于「明明……却……」。前接用言（动词、形容词、形容动词的总称）或断定助动词「だ」的连体形（学校文法活用形之一，用于修饰体言）。其中「の」是形式名词（本身无实义、起名词化作用的名词），「に」是格助词，二者共同表示逆接接续。口语中名词、形容动词后的「だ」常省略。
 examples:
 - text: 俺、本当に無実なのに……！
   reading: おれ、ほんとうにむじつなのに……！
@@ -34,4 +34,4 @@ provenance:
   extracted_by: claude-code
   extracted_at: '2026-09-02'
 status: draft
-review_note: ''
+review_note: 学校语法自动改写（prompt v1）

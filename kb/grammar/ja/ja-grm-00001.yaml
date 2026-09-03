@@ -3,10 +3,10 @@ language: ja
 type: grammar
 level: N3
 level_rank: 3
-title: 〜て初めて：直到……才第一次……
-structure: V-て + 初めて（始めて）
-structure_pattern: V-て + はじめて
-explanation_zh: 表示直到做了前项、或到达前项阶段之后，才第一次意识到后项，常带有后悔、醒悟的语气。汉字可写作「初めて」或「始めて」。本句「ここに至って初めて」即「直到事态发展至此」。
+title: 〜て初めて（動詞連用形＋接続助詞て＋初めて）：直到……才第一次……
+structure: 動詞連用形＋接続助詞て＋初めて（始めて）
+structure_pattern: 動詞連用形＋接続助詞て＋はじめて
+explanation_zh: 表示直到完成前項動作或到達前項階段，才第一次意識到後項，常帶有後悔、醒悟的語氣。接續上由動詞連用形（日語學校文法的動詞活用形之一，主要用於接續助詞之前）接續助詞「て」（接在活用形後、表示先後順序或條件等關係的助詞）構成，後接「初めて」或「始めて」。整體作副詞性修飾，強調後項情況以前項為契機方才成立。
 examples:
 - text: ここに至って初めて、俺は現状における『己の』危うさに気がついた。
   reading: ここにいたってはじめて、おれはげんじょうにおける『おのれの』あやうさにきがついた。
@@ -19,7 +19,7 @@ related:
   same_lang: []
 tags:
 - 体貌
-- 时态
+- 時態
 - 心理描写
 provenance:
   discovered_in: book-ja-001
@@ -28,4 +28,4 @@ provenance:
   extracted_by: claude-code
   extracted_at: '2026-09-02'
 status: draft
-review_note: ''
+review_note: 学校语法自动改写（prompt v1）

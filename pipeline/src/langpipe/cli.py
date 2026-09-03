@@ -245,6 +245,60 @@ def author(entry_id: str):
 
 
 @app.command()
+def restyle(lang: str = "ja", limit: int = 0, workers: int = 3):
+    """把语法条目改写为学校语法术语（claude -p 原地更新）。"""
+    import concurrent.futures as cf
+
+    import yaml as _yaml
+
+    from .extract.claude_runner import run_claude
+    led = Ledger()
+    tpl = "restyle_school.md.j2"
+    tver = _template_version(tpl)
+    files = sorted((KB / "grammar" / lang).glob(f"{lang}-grm-*.yaml"))
+    if limit:
+        files = files[:limit]
+
+    def _one(f: Path) -> str:
+        data = _yaml.safe_load(f.read_text(encoding="utf-8"))
+        task_id = f"s6_restyle:{data['id']}:{content_hash(tver, data['id'])}"
+        if led.is_done(task_id):
+            return f"[restyle] {data['id']} 已完成，跳过"
+        led.enqueue(task_id, "s6_restyle", item_key=data["id"])
+        led.claim(task_id)
+        slim = {k: data.get(k) for k in
+                ("id", "title", "level", "structure", "structure_pattern",
+                 "explanation_zh", "tags", "examples")}
+        prompt = _render(tpl, lang=lang, lang_name=LANG_NAMES[lang],
+                         entry_yaml=_yaml.safe_dump(slim, allow_unicode=True, sort_keys=False))
+        try:
+            res = run_claude(prompt)
+            new = res["data"]
+            for k in ("title", "structure", "structure_pattern", "explanation_zh"):
+                if new.get(k):
+                    data[k] = str(new[k]).strip()
+            if isinstance(new.get("tags"), list) and new["tags"]:
+                data["tags"] = [str(t) for t in new["tags"]][:5]
+            data["review_note"] = "学校语法自动改写（prompt v%s）" % tver
+            tmp = f.with_suffix(".yaml.tmp")
+            tmp.write_text(_yaml.safe_dump(data, allow_unicode=True, sort_keys=False),
+                           encoding="utf-8")
+            tmp.replace(f)
+            led.complete(task_id, output_path=str(f),
+                         prompt_tokens=res["usage"].get("input_tokens"),
+                         completion_tokens=res["usage"].get("output_tokens"),
+                         executor="claude-code")
+            return f"[restyle] {data['id']} ✓"
+        except Exception as e:  # noqa: BLE001
+            led.fail(task_id, str(e))
+            return f"[restyle] {data['id']} ✗ {str(e)[:120]}"
+
+    with cf.ThreadPoolExecutor(max_workers=workers) as ex:
+        for msg in ex.map(_one, files):
+            typer.echo(msg)
+
+
+@app.command()
 def validate():
     """校验整个知识库。"""
     from .validate.models import validate_kb
