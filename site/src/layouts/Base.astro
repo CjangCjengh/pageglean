@@ -12,8 +12,16 @@ const { title = '拾页 PageGlean · 从小说里学会一门语言' } = Astro.p
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
     <title>{title}</title>
     <meta name="description" content="面向中文母语者的日/韩/泰/越学习站，知识点全部取自真实轻小说语境。" />
+    <script is:inline>
+      // 默认白天；仅当用户明确选过 dark 时应用
+      try {
+        if (localStorage.getItem('pg-theme') === 'dark') {
+          document.documentElement.classList.add('dark');
+        }
+      } catch (e) {}
+    </script>
   </head>
-  <body class="min-h-screen bg-ink text-slate-200 antialiased">
+  <body class="min-h-screen bg-page text-main antialiased">
     <div class="aurora min-h-screen">
       <header class="glass sticky top-0 z-50">
         <nav class="mx-auto flex max-w-6xl items-center gap-6 px-6 py-3">
@@ -22,26 +30,48 @@ const { title = '拾页 PageGlean · 从小说里学会一门语言' } = Astro.p
             <span class="bg-gradient-to-r from-rose-400 via-sky-400 to-emerald-400 bg-clip-text text-transparent">
               拾页
             </span>
-            <span class="text-xs font-normal text-slate-500">PageGlean</span>
+            <span class="text-xs font-normal text-faint">PageGlean</span>
           </a>
-          <div class="ml-auto flex items-center gap-5 text-sm text-slate-400">
-            <a href="/browse/ja" class="transition hover:text-slate-100">语法库</a>
-            <a href="/srs" class="transition hover:text-slate-100">记忆卡</a>
-            <a href="/quiz" class="transition hover:text-slate-100">练习</a>
-            <a href="/search" class="transition hover:text-slate-100">搜索</a>
+          <div class="ml-auto flex items-center gap-5 text-sm text-sub">
+            <a href="/browse/ja" class="transition hover:text-strong">语法库</a>
+            <a href="/srs" class="transition hover:text-strong">记忆卡</a>
+            <a href="/quiz" class="transition hover:text-strong">练习</a>
+            <a href="/search" class="transition hover:text-strong">搜索</a>
+            <button
+              id="theme-toggle"
+              type="button"
+              aria-label="切换白天/黑夜模式"
+              class="chip rounded-full px-2.5 py-1 text-base leading-none transition hover:opacity-80"
+            >🌙</button>
           </div>
         </nav>
       </header>
       <main class="mx-auto max-w-6xl px-6 py-10">
         <slot />
       </main>
-      <footer class="mx-auto max-w-6xl border-t border-white/5 px-6 pb-10 pt-6 text-xs leading-relaxed text-slate-600">
+      <footer class="mx-auto max-w-6xl border-t divider px-6 pb-10 pt-6 text-xs leading-relaxed text-faint">
         <p>拾页 PageGlean · 例句摘自原作文，仅作教学示例</p>
-        <p class="mt-1 text-amber-500/70">
+        <p class="mt-1 text-amber-600 dark:text-amber-500/80">
           ⚠️ 本站教程、讲解与解析均由 AI 自动生成，可能存在错误或不当之处，仅供学习参考；
           重要用法请以权威词典与教材为准。
         </p>
       </footer>
     </div>
+    <script is:inline>
+      (function () {
+        var btn = document.getElementById('theme-toggle');
+        if (!btn) return;
+        var root = document.documentElement;
+        function paint() {
+          btn.textContent = root.classList.contains('dark') ? '☀️' : '🌙';
+        }
+        btn.addEventListener('click', function () {
+          var dark = root.classList.toggle('dark');
+          try { localStorage.setItem('pg-theme', dark ? 'dark' : 'light'); } catch (e) {}
+          paint();
+        });
+        paint();
+      })();
+    </script>
   </body>
 </html>

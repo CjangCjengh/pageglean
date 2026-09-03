@@ -3,6 +3,9 @@ import Base from '../../../layouts/Base.astro';
 import ExampleCard from '../../../components/ExampleCard.astro';
 import { LANG_META, type Lang } from '../../../lib/langs';
 import { getCollection } from 'astro:content';
+import books from '../../../lib/books.json';
+
+const bookById = new Map((books as Array<{ book_id: string; title_orig: string }>).map((b) => [b.book_id, b.title_orig]));
 
 const allGrammar = await getCollection('grammar');
 const byId = new Map(allGrammar.map((e) => [e.data.id, e]));
@@ -21,51 +24,53 @@ const meta = LANG_META[d.language as Lang];
 const tutId = `${d.language}/${d.id}`;
 const tutorials = await getCollection('tutorials', (t) => t.id === tutId);
 const hasTutorial = tutorials.length > 0;
+const sourceBook = d.provenance?.discovered_in;
+const sourceTitle = typeof sourceBook === 'string' ? (bookById.get(sourceBook) || sourceBook) : '—';
 ---
 <Base title={`${d.title} · ${meta.name}语法 · 拾页`}>
-  <a href={`/browse/${d.language}`} class="text-sm text-slate-500 transition hover:text-slate-300">
+  <a href={`/browse/${d.language}`} class="text-sm text-faint transition hover:text-sub">
     ← {meta.flag} {meta.name}语法库
   </a>
 
   <div class="mt-6 flex flex-wrap items-center gap-3">
-    <h1 class="text-3xl font-bold text-slate-100">{d.title}</h1>
+    <h1 class="text-3xl font-bold text-strong">{d.title}</h1>
     <span
-      class="rounded-lg px-2.5 py-0.5 text-sm font-bold text-slate-900"
+      class="rounded-lg px-2.5 py-0.5 text-sm font-bold text-white"
       style={`background:${meta.accent}`}
     >
       {meta.levelLabel(d.level)}
     </span>
     {d.tags.map((t) => (
-      <span class="rounded-full bg-slate-800/80 px-2.5 py-0.5 text-xs text-slate-400">{t}</span>
+      <span class="chip rounded-full px-2.5 py-0.5 text-xs text-sub">{t}</span>
     ))}
   </div>
 
   {hasTutorial && (
     <a
       href={`/tutorial/${d.language}/${d.id}`}
-      class="mt-5 inline-flex items-center gap-2 rounded-xl bg-gradient-to-r from-rose-500/80 to-sky-500/80 px-5 py-2.5 text-sm font-medium text-white shadow-lg transition hover:brightness-110"
+      class="mt-5 inline-flex items-center gap-2 rounded-xl bg-gradient-to-r from-rose-500/90 to-sky-500/90 px-5 py-2.5 text-sm font-medium text-white shadow-lg transition hover:brightness-110"
     >
       📖 阅读完整中文教程
     </a>
   )}
 
   <section class="glass mt-8 rounded-2xl p-6">
-    <h2 class="text-sm font-semibold tracking-wide text-slate-500">结构</h2>
-    <p class="mt-2 font-mono text-xl text-slate-100">{d.structure}</p>
+    <h2 class="text-sm font-semibold tracking-wide text-faint">结构</h2>
+    <p class="mt-2 font-mono text-xl text-strong">{d.structure}</p>
     {d.structure_pattern && (
-      <p class="mt-1 font-mono text-xs text-slate-500">{d.structure_pattern}</p>
+      <p class="mt-1 font-mono text-xs text-faint">{d.structure_pattern}</p>
     )}
     {d.explanation_zh && (
       <>
-        <h2 class="mt-6 text-sm font-semibold tracking-wide text-slate-500">讲解</h2>
-        <p class="mt-2 leading-relaxed text-slate-300">{d.explanation_zh}</p>
+        <h2 class="mt-6 text-sm font-semibold tracking-wide text-faint">讲解</h2>
+        <p class="mt-2 leading-relaxed text-main">{d.explanation_zh}</p>
       </>
     )}
   </section>
 
   {d.examples.length > 0 && (
     <section class="mt-8">
-      <h2 class="mb-3 text-lg font-semibold text-slate-200">书中例句</h2>
+      <h2 class="mb-3 text-lg font-semibold text-strong">书中例句</h2>
       <div class="grid gap-3">
         {d.examples.map((ex) => <ExampleCard ex={ex} lang={d.language} />)}
       </div>
@@ -74,7 +79,7 @@ const hasTutorial = tutorials.length > 0;
 
   {(d.related.cross_lang.length > 0 || d.related.same_lang.length > 0) && (
     <section class="mt-8">
-      <h2 class="mb-3 text-lg font-semibold text-slate-200">相关知识</h2>
+      <h2 class="mb-3 text-lg font-semibold text-strong">相关知识</h2>
       <div class="flex flex-wrap gap-3">
         {d.related.cross_lang.map((rid) => {
           const t = byId.get(rid);
@@ -83,14 +88,14 @@ const hasTutorial = tutorials.length > 0;
           return t ? (
             <a
               href={`/grammar/${rlang}/${rid}`}
-              class="glass flex items-center gap-2 rounded-full px-4 py-2 text-sm transition hover:border-slate-500/50"
+              class="glass flex items-center gap-2 rounded-full px-4 py-2 text-sm transition hover:border-slate-400/60 dark:hover:border-slate-500/50"
             >
               <span>{rm.flag}</span>
-              <span class="text-slate-200">{t.data.title}</span>
-              <span class="text-xs text-slate-500">{t.data.level}</span>
+              <span class="text-main">{t.data.title}</span>
+              <span class="text-xs text-faint">{t.data.level}</span>
             </a>
           ) : (
-            <span class="glass rounded-full px-4 py-2 text-sm text-slate-500">
+            <span class="glass rounded-full px-4 py-2 text-sm text-faint">
               {rm.flag} 待补充
             </span>
           );
@@ -100,7 +105,7 @@ const hasTutorial = tutorials.length > 0;
           return t ? (
             <a
               href={`/grammar/${d.language}/${r.id}`}
-              class="glass rounded-full px-4 py-2 text-sm text-slate-300 transition hover:border-slate-500/50"
+              class="glass rounded-full px-4 py-2 text-sm text-main transition hover:border-slate-400/60 dark:hover:border-slate-500/50"
             >
               ↔ {t.data.title}
             </a>
@@ -110,7 +115,7 @@ const hasTutorial = tutorials.length > 0;
     </section>
   )}
 
-  <p class="mt-10 text-xs text-slate-600">
-    来源：{d.provenance?.discovered_in || '—'} · 提取于 {d.provenance?.extracted_at || '—'}
+  <p class="mt-10 text-xs text-faint">
+    来源：《{sourceTitle}》 · 提取于 {d.provenance?.extracted_at || '—'}
   </p>
 </Base>

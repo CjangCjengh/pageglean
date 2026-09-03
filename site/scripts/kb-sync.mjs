@@ -25,10 +25,18 @@ function sanitizeEntry(e) {
   out.examples = (e.examples || []).slice(0, MAX_EXAMPLES).map((ex) => {
     const { pointer, ...rest } = ex;
     if (rest.text && rest.text.length > MAX_CHARS) rest.text = rest.text.slice(0, MAX_CHARS);
+    if (rest.source_book && bookTitle[rest.source_book]) {
+      rest.source_book = bookTitle[rest.source_book];
+    }
     return rest;
   });
   return out;
 }
+
+// 书目映射：站点出处直接展示书名，不暴露 book-id
+const booksYaml = path.join(KB, 'meta', 'books.yaml');
+const books = fs.existsSync(booksYaml) ? (yaml.load(fs.readFileSync(booksYaml, 'utf8')) || []) : [];
+const bookTitle = Object.fromEntries(books.map((b) => [b.book_id, b.title_orig]));
 
 let nGrammar = 0, nVocab = 0, nTut = 0;
 for (const sub of ['grammar', 'vocab']) {
@@ -69,10 +77,8 @@ if (fs.existsSync(linkDir)) {
 }
 
 // books.json（页面直接 import）
-const booksYaml = path.join(KB, 'meta', 'books.yaml');
 const booksOut = path.join(import.meta.dirname, '..', 'src', 'lib', 'books.json');
-if (fs.existsSync(booksYaml)) {
-  const books = yaml.load(fs.readFileSync(booksYaml, 'utf8')) || [];
+if (books.length) {
   fs.mkdirSync(path.dirname(booksOut), { recursive: true });
   fs.writeFileSync(booksOut, JSON.stringify(books.map(({ sha256, epub_path, ...rest }) => rest)), 'utf8');
 }

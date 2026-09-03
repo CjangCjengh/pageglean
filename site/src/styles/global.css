@@ -1,6 +1,8 @@
 @import "tailwindcss";
 @source "../../src";
 
+@custom-variant dark (&:where(.dark, .dark *));
+
 @theme {
   --color-ink: #0b0f1a;
   --color-panel: #111827;
@@ -8,27 +10,56 @@
   --font-jp: "Hiragino Kaku Gothic ProN", "Yu Gothic", "Noto Sans JP", sans-serif;
 }
 
-html {
-  background: #0b0f1a;
+/* ---------- 主题变量：默认白天，.dark 覆盖 ---------- */
+:root {
+  color-scheme: light;
+  --bg: #f5f7fb;
+  --fg: #1e293b;
+  --fg-strong: #0f172a;
+  --fg-sub: #475569;
+  --fg-faint: #94a3b8;
+  --panel: rgba(255, 255, 255, 0.72);
+  --panel-border: rgba(15, 23, 42, 0.09);
+  --chip: rgba(100, 116, 139, 0.12);
+  --divider: rgba(15, 23, 42, 0.08);
+}
+.dark {
   color-scheme: dark;
+  --bg: #0b0f1a;
+  --fg: #cbd5e1;
+  --fg-strong: #f1f5f9;
+  --fg-sub: #94a3b8;
+  --fg-faint: #64748b;
+  --panel: rgba(17, 24, 39, 0.6);
+  --panel-border: rgba(255, 255, 255, 0.08);
+  --chip: rgba(30, 41, 59, 0.85);
+  --divider: rgba(255, 255, 255, 0.06);
 }
 
-body {
-  font-family: var(--font-sans);
-}
+html { background: var(--bg); }
+body { font-family: var(--font-sans); color: var(--fg); }
 
-/* 极光背景 */
+/* ---------- 语义工具类 ---------- */
+.bg-page { background: var(--bg); }
+.text-main { color: var(--fg); }
+.text-strong { color: var(--fg-strong); }
+.text-sub { color: var(--fg-sub); }
+.text-faint { color: var(--fg-faint); }
+.chip { background: var(--chip); }
+.divider { border-color: var(--divider); }
+
+/* 极光背景（两主题通用，低透明度） */
 .aurora {
   background:
-    radial-gradient(60rem 30rem at 15% -10%, rgba(244, 114, 182, 0.14), transparent 60%),
-    radial-gradient(50rem 28rem at 85% -5%, rgba(96, 165, 250, 0.14), transparent 60%),
+    radial-gradient(60rem 30rem at 15% -10%, rgba(244, 114, 182, 0.13), transparent 60%),
+    radial-gradient(50rem 28rem at 85% -5%, rgba(96, 165, 250, 0.13), transparent 60%),
     radial-gradient(40rem 24rem at 50% 110%, rgba(52, 211, 153, 0.08), transparent 60%);
 }
 
 .glass {
-  background: rgba(17, 24, 39, 0.6);
+  background: var(--panel);
   backdrop-filter: blur(12px);
-  border: 1px solid rgba(255, 255, 255, 0.08);
+  border: 1px solid var(--panel-border);
 }
 
 /* 竖排阅读器（本地构建用） */

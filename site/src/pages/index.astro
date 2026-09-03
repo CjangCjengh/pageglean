@@ -21,22 +21,22 @@ const totalGrm = grammar.length;
 ---
 <Base>
   <section class="py-12 text-center">
-    <p class="mb-4 text-sm tracking-[0.3em] text-slate-500">日 · 韩 · 泰 · 越</p>
-    <h1 class="text-5xl font-black leading-tight">
+    <p class="mb-4 text-sm tracking-[0.3em] text-faint">日 · 韩 · 泰 · 越</p>
+    <h1 class="text-5xl font-black leading-tight text-strong">
       从你喜欢的
       <span class="bg-gradient-to-r from-rose-400 via-sky-400 to-emerald-400 bg-clip-text text-transparent">
         小说
       </span>
       里，<br />拾起一门语言
     </h1>
-    <p class="mx-auto mt-6 max-w-2xl text-slate-400">
+    <p class="mx-auto mt-6 max-w-2xl text-sub">
       拾页从真实轻小说语境中提取语法点与词汇，按难度分级写成中文教程，
       并在四种语言之间为互通知识点建立互链。每一条例句都有出处。
     </p>
-    <div class="mt-8 flex items-center justify-center gap-8 text-sm text-slate-400">
-      <span><b class="text-2xl text-slate-100">{totalGrm}</b> 个语法点</span>
-      <span><b class="text-2xl text-slate-100">{vocab.length}</b> 条词汇</span>
-      <span><b class="text-2xl text-slate-100">{tutorials.length}</b> 篇教程</span>
+    <div class="mt-8 flex items-center justify-center gap-8 text-sm text-sub">
+      <span><b class="text-2xl text-strong">{totalGrm}</b> 个语法点</span>
+      <span><b class="text-2xl text-strong">{vocab.length}</b> 条词汇</span>
+      <span><b class="text-2xl text-strong">{tutorials.length}</b> 篇教程</span>
     </div>
   </section>
 
@@ -46,14 +46,14 @@ const totalGrm = grammar.length;
         href={`/browse/${l}`}
         class:list={[
           'group glass relative overflow-hidden rounded-2xl p-6 transition duration-300',
-          'hover:-translate-y-1 hover:shadow-2xl hover:shadow-black/40',
+          'hover:-translate-y-1 hover:shadow-2xl hover:shadow-black/20 dark:hover:shadow-black/40',
         ]}
       >
         <div class:list={['absolute inset-0 bg-gradient-to-br opacity-60', LANG_META[l].grad]}></div>
         <div class="relative">
           <div class="text-3xl">{LANG_META[l].flag}</div>
-          <h2 class="mt-3 text-xl font-bold text-slate-100">{LANG_META[l].name}</h2>
-          <p class="mt-2 text-sm text-slate-400">
+          <h2 class="mt-3 text-xl font-bold text-strong">{LANG_META[l].name}</h2>
+          <p class="mt-2 text-sm text-sub">
             {counts[l].grm > 0
               ? `${counts[l].grm} 个语法点 · ${counts[l].tut} 篇教程`
               : '筹备中'}
@@ -71,21 +71,21 @@ const totalGrm = grammar.length;
 
   <section class="mt-16 grid gap-5 md:grid-cols-3">
     <div class="glass rounded-2xl p-6">
-      <h3 class="font-bold text-slate-100">📖 语境优先</h3>
-      <p class="mt-2 text-sm leading-relaxed text-slate-400">
+      <h3 class="font-bold text-strong">📖 语境优先</h3>
+      <p class="mt-2 text-sm leading-relaxed text-sub">
         每个知识点都来自小说里的真实用法，例句可回溯到书名与章节，学的是活的语言。
       </p>
     </div>
     <div class="glass rounded-2xl p-6">
-      <h3 class="font-bold text-slate-100">🧭 难度分级</h3>
-      <p class="mt-2 text-sm leading-relaxed text-slate-400">
+      <h3 class="font-bold text-strong">🧭 难度分级</h3>
+      <p class="mt-2 text-sm leading-relaxed text-sub">
         日语按 JLPT、韩语按 TOPIK 对标，泰语越南语自研分级，按你的进度推进。
       </p>
     </div>
     <div class="glass rounded-2xl p-6">
-      <h3 class="font-bold text-slate-100">🔗 四语互链</h3>
-      <p class="mt-2 text-sm leading-relaxed text-slate-400">
-        学完日语的「〜てしまう」，顺手看看韩语的 -아/어 버리다 怎么说。一通百通。
+      <h3 class="font-bold text-strong">🔗 四语互链</h3>
+      <p class="mt-2 text-sm leading-relaxed text-sub">
+        四语中相通的语法互相引用，学一门时顺手对照另一门的说法，一通百通。
       </p>
     </div>
   </section>

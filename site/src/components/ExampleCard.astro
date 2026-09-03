@@ -5,14 +5,14 @@ const { ex, lang } = Astro.props;
 const jpFont = lang === 'ja';
 ---
 <figure class="glass rounded-xl px-5 py-4">
-  <blockquote class:list={['text-lg leading-relaxed text-slate-100', jpFont && 'font-[family-name:var(--font-jp)]']}>
+  <blockquote class:list={['text-lg leading-relaxed text-strong', jpFont && 'font-[family-name:var(--font-jp)]']}>
     {ex.text}
   </blockquote>
-  {ex.reading && <p class="mt-1 text-sm text-slate-400">{ex.reading}</p>}
-  <figcaption class="mt-2 flex flex-wrap items-baseline gap-x-3 text-sm text-slate-300">
+  {ex.reading && <p class="mt-1 text-sm text-sub">{ex.reading}</p>}
+  <figcaption class="mt-2 flex flex-wrap items-baseline gap-x-3 text-sm text-main">
     <span>{ex.translation_zh}</span>
     {ex.source_book && (
-      <span class="ml-auto text-xs text-slate-500">摘自 {ex.source_book}</span>
+      <span class="ml-auto text-xs text-faint">摘自《{ex.source_book}》</span>
     )}
   </figcaption>
 </figure>
