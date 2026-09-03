@@ -3,10 +3,10 @@ language: ja
 type: grammar
 level: N5
 level_rank: 1
-title: 禁止形＋なよ：别……哦
-structure: V辞書形 + な（＋よ）
-structure_pattern: V-辞書形 + な + よ（禁止）
-explanation_zh: 动词辞书形后加「な」构成禁止，"别……""不许……"，语气直接生硬；再附「よ」可添上提醒、叮嘱的语感。多为男性对亲近者的说法，礼貌场合应换成「〜ないでください」。
+title: 動詞終止形＋終助詞な・よ（禁止形）：别……哦
+structure: 動詞終止形 + 終助詞な（＋終助詞よ）
+structure_pattern: 動詞終止形 + 終助詞な + 終助詞よ（禁止）
+explanation_zh: 动词终止形（日语学校文法的动词活用形之一，用于结句，相当于动词的基本形）后接终助词「な」（终助词是附于句末表示语气的词，此处表示禁止），构成“别……”“不许……”之意的禁止，语气直接生硬。再添终助词「よ」可加上提醒、叮嘱的语感。多为男性对亲近者的说法。礼貌场合应换成「〜ないでください」。
 examples:
 - text: すぐ戻るから、絶対ここ動くなよ？
   reading: すぐもどるから、ぜったいここうごくなよ？
@@ -27,4 +27,4 @@ provenance:
   extracted_by: claude-code
   extracted_at: '2026-09-02'
 status: draft
-review_note: ''
+review_note: 学校语法自动改写（prompt v1）

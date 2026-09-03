@@ -4,9 +4,9 @@ type: grammar
 level: N2
 level_rank: 4
 title: 〜はと言うと：至于……呢
-structure: N + はと言うと
-structure_pattern: N + はと言うと
-explanation_zh: 用于转换话题、引出对另一方状况的描述，"至于……嘛""……那边呢"。常带有与预期形成对照的语感，叙述中视角切换时很好用。
+structure: 名詞＋係助詞「は」＋「と言うと」（格助詞「と」＋動詞「言う」終止形＋接続助詞「と」）
+structure_pattern: 名詞＋係助詞「は」＋「と言うと」
+explanation_zh: 「はと言うと」由係助詞「は」（日语学校文法中的提示助词，提示主题并兼带对比语气）后接惯用短语「と言うと」（格助词「と」表引用＋动词「言う」终止形＋接续助词「と」表契机）构成，已凝固为转换话题的固定说法。用于在叙述中将视角切换到另一方，引出对其状况的描述，相当于“至于……嘛”“……那边呢”。常带有与预期或前文形成对照的语感。较之单用「と言うと」，插入「は」后对比意味更为明显。
 examples:
 - text: そしてチビ達はと言うと……。
   reading: そしてチビたちはというと……
@@ -19,6 +19,7 @@ related:
   same_lang: []
 tags:
 - 话题
+- 对比
 provenance:
   discovered_in: book-ja-001
   first_seen_chapter: null
@@ -26,4 +27,4 @@ provenance:
   extracted_by: claude-code
   extracted_at: '2026-09-02'
 status: draft
-review_note: ''
+review_note: 学校语法自动改写（prompt v1）

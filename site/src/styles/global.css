@@ -67,3 +67,16 @@ body { font-family: var(--font-sans); color: var(--fg); }
   writing-mode: vertical-rl;
   text-orientation: mixed;
 }
+
+/* ---------- Pagefind 搜索框主题适配 ---------- */
+#pg-search {
+  --pagefind-ui-scale: 0.9;
+  --pagefind-ui-primary: #0284c7;
+  --pagefind-ui-text: var(--fg);
+  --pagefind-ui-background: var(--bg);
+  --pagefind-ui-border: var(--panel-border);
+  --pagefind-ui-tag: var(--chip);
+}
+.dark #pg-search {
+  --pagefind-ui-primary: #38bdf8;
+}

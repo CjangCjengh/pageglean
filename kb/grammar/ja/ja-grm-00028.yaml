@@ -4,9 +4,9 @@ type: grammar
 level: N3
 level_rank: 3
 title: 〜うちに：趁……
-structure: 〜ている/名词＋の + うちに
+structure: 動詞・形容詞連体形／名詞＋格助詞の ＋ 形式名詞「うち」 ＋ 格助詞「に」
 structure_pattern: 〜うちに（今のうちに）
-explanation_zh: 「〜うちに」表示趁着某种状态持续的期间赶紧做某事，"趁……的时候"。「今のうちに」即"趁现在"。强调时机窗口，错过就难办了。
+explanation_zh: 「〜うちに」由动词、形容词的连体形（用于修饰体言的活用形）或「名词＋格助词の」，加形式名词「うち」（表示某种状态持续的期间）和格助词「に」（提示动作的时机）构成。它表示趁着该状态持续的期间赶紧做某事，即“趁……的时候”。「今のうちに」即“趁现在”。强调时机窗口，一旦错过就难办了。
 examples:
 - text: 今のうちにあの子の着替えをっと
   reading: いまのうちにあのこのきがえをっと
@@ -26,4 +26,4 @@ provenance:
   extracted_by: claude-code
   extracted_at: '2026-09-02'
 status: draft
-review_note: ''
+review_note: 学校语法自动改写（prompt v1）

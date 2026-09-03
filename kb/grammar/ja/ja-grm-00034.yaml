@@ -4,9 +4,10 @@ type: grammar
 level: N3
 level_rank: 3
 title: 〜にしては：以…而言却…
-structure: N + にしては
-structure_pattern: N + にしては
-explanation_zh: 表示“以…的标准来看却…”，后项多为与预期不符的评价。本段中女孩报出的号码是九位数，“作为电话号码却少了一位”。与「〜にしても」「〜わりに」意思相近。
+structure: N + 格助詞「に」＋サ変動詞「する」連用形＋係助詞「は」（にしては）
+structure_pattern: N + 格助詞「に」＋サ変動詞「する」連用形＋係助詞「は」
+explanation_zh: 「にしては」由格助詞「に」（表示基准、依据的助词）、サ変動詞「する」的連用形（日语学校文法的动词活用形之一，用于接续后项助词或助动词）以及係助詞「は」（提示对比或主题的助词）构成。整体表示以前项
+  N 为标准来衡量，后项却与由 N 产生的预期不符，后项多为与之不相称的评价或判断。与「にしても」「わりに」意思相近。
 examples:
 - text: 電話番号にしては１ケタ足りない。
   reading: でんわばんごうにしてはいちけたたりない。
@@ -18,7 +19,8 @@ related:
   cross_lang: []
   same_lang: []
 tags:
-- 助词
+- 格助詞
+- 係助詞
 - 评价
 provenance:
   discovered_in: book-ja-001
@@ -27,4 +29,4 @@ provenance:
   extracted_by: claude-code
   extracted_at: '2026-09-02'
 status: draft
-review_note: ''
+review_note: 学校语法自动改写（prompt v1）

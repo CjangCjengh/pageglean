@@ -84,6 +84,31 @@ scripts/         gpu_lock.sh（共享 GPU 门控）、serve_*.sh、canary/
 - 泰语 epub 含大量零宽空格（U+200B），分词层已过滤。
 - 严禁宽匹配 `pkill`（会误杀线上服务）。
 
+## 可扩展性设计
+
+面向两个增长轴的既有安排：
+
+**条目规模增长**（语法点/词汇/教程 数百 → 数千）
+- 每条目一个独立 yaml：git diff 友好，无单文件膨胀
+- 详情页全部静态生成（数千页对 Astro 无压力）
+- 浏览页：级别分组可折叠 + 即时过滤框（单语言数百条不爆页）
+- 全站搜索：Pagefind 构建期分片索引（`npm run build` 自带），
+  只索引 `data-pagefind-body` 区域（正文，不含页脚免责声明）
+- 单语言超过约 500 条时：浏览页升级为分页或"级别 × 标签"二维筛选（预留）
+
+**语言数量增长**（未来可能接入更多语言）——新增语言清单：
+1. `pipeline/src/langpipe/config.py`：`LANGS` 加语言码
+2. `pipeline/src/langpipe/tok/{lang}.py`：新分词模块（选该语言成熟分词器）
+3. `pipeline/langdata/stopwords/{lang}.txt`：停用词种子
+4. `pipeline/src/langpipe/cli.py`：`LANG_NAMES`/`LEVEL_SYSTEM`/`LANG_NOTES`/`EXAMPLE_LEVEL`
+5. `pipeline/src/langpipe/validate/models.py`：`LEVELS` 加该语言级别档
+6. `site/src/lib/langs.ts`：`LANGS`/`LANG_META`（名称/徽标色/级别标签）
+7. `site/src/components/Flag.astro`：新国旗 SVG
+8. 语料放 `corpus/{lang}/` → `langpipe register && unpack && tokenize && freq`
+
+级别体系约定：有国际标准的映射之（JLPT/TOPIK 等），无标准的用内部 L1-L6，
+`level_rank` 归一化驱动排序与出题。
+
 ## 里程碑
 
 | # | 内容 | 状态 |

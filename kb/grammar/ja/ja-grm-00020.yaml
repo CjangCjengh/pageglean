@@ -4,9 +4,9 @@ type: grammar
 level: N4
 level_rank: 2
 title: 〜かも：不确定的推测
-structure: 普通形 + かも（しれない）
-structure_pattern: 普通形 + かも（しれない）
-explanation_zh: 「かもしれない」的口语省略，表示把握不大的推测，"也许……""说不定……"。少女含糊低语中的「あったかも」传达出将信将信的语气，口语属性强。
+structure: 終止形・連体形＋かも（しれない）
+structure_pattern: 終止形・連体形＋かも（しれない）
+explanation_zh: 「かも」是「かもしれない」的口语省略形式，表示把握不大的推测，意为「或许……」「说不定……」。它接在動詞・形容詞・形容動詞的終止形・連体形（日语学校文法中结句或连体修饰名词的谓语基本形）之后，名詞则直接接续（省略判断助動詞「だ」）。「しれない」可分析为動詞「知る」未然形（学校文法中接否定等助動詞的活用形）＋可能助動詞「れる」＋否定助動詞「ない」，字面意为「无法知道（是否……）」。口语属性强，传达将信将疑的语气。
 examples:
 - text: 『いいこと』あったかも……
   reading: いいことあったかも……
@@ -27,4 +27,4 @@ provenance:
   extracted_by: claude-code
   extracted_at: '2026-09-02'
 status: draft
-review_note: ''
+review_note: 学校语法自动改写（prompt v1）

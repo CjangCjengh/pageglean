@@ -4,9 +4,9 @@ type: grammar
 level: N3
 level_rank: 3
 title: 〜ようだ：好像……
-structure: 普通形 + ようだ／様な
-structure_pattern: 普通形 + ようだ／様な
-explanation_zh: 「〜ようだ」表示主观的不确定推测或比喻，"好像……""像……似的"，常与「まるで」呼应。比传闻、样态的「〜そうだ」更侧重说话人的主观判断，书面、口语皆可。
+structure: 用言連体形 ＋ 比況助動詞「ようだ」（接名詞時：名詞＋の＋ようだ）
+structure_pattern: 用言連体形＋比況助動詞「ようだ」／様な（「ようだ」的連体形）
+explanation_zh: 比況助動詞「ようだ」（日本学校文法中的助动词类别，表示比拟）表示说话人主观而不确定的推测或比喻，意为“好像……”“像……似的”，常与「まるで」呼应。它接在用言（动词、形容词、形容动词的总称）的連体形（学校文法六段活用形之一，主要用于修饰名词）之后，接名词时则加「の」构成「名詞＋の＋ようだ」。与助动词「そうだ」的传闻、样态用法相比，更侧重说话人基于自身感知的主观判断。书面语、口语皆可使用。
 examples:
 - text: 嫌がっている様な返事じゃなかった事に軽く安堵し、脱衣所を出る。
   reading: いやがっているようなへんじじゃなかったことにかるくあんどし、だついしょをでる
@@ -18,8 +18,8 @@ related:
   cross_lang: []
   same_lang: []
 tags:
-- 样态
-- 语气
+- 比況
+- 推量
 provenance:
   discovered_in: book-ja-001
   first_seen_chapter: null
@@ -27,4 +27,4 @@ provenance:
   extracted_by: claude-code
   extracted_at: '2026-09-02'
 status: draft
-review_note: ''
+review_note: 学校语法自动改写（prompt v1）

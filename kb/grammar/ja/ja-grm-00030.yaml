@@ -4,9 +4,9 @@ type: grammar
 level: N3
 level_rank: 3
 title: 体言止め・助詞止め：余韵结句
-structure: 名词/助词（へ・に）+ 。（省略谓语结句）
-structure_pattern: N／助詞止め（体言止め）
-explanation_zh: 句子不以谓语收尾，而以名词或助词「へ」「に」等戛然而止，留下画面感与节奏感。轻小说动作场景中大量使用，营造镜头切换般的紧凑感，属书面文体技巧。
+structure: 体言（名词・代词）或格助詞（へ・に）＋。（省略述語结句）
+structure_pattern: 体言止め：（連体修飾語＋）体言＋。／助詞止め：（連体修飾語＋）体言＋格助詞＋。
+explanation_zh: 体言止め指句子不以述語（谓语，多由用言即动词・形容词充当）收尾，而以体言（日语学校文法中名词、代词等无活用词的统称）戛然而止；助詞止め则使句子停在格助詞（接在体言后表示其与句中其他成分关系的助词）「へ」「に」等处。二者均借省略述語留下画面感与节奏感。轻小说动作场景中大量使用，营造镜头切换般的紧凑感。此属书面文体技巧。
 examples:
 - text: 変わらず置いてある箱。
   reading: かわらずおいてあるはこ
@@ -32,4 +32,4 @@ provenance:
   extracted_by: claude-code
   extracted_at: '2026-09-02'
 status: draft
-review_note: ''
+review_note: 学校语法自动改写（prompt v1）

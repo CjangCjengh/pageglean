@@ -4,9 +4,9 @@ type: grammar
 level: N2
 level_rank: 4
 title: 〜た上で：在……之后／基础上
-structure: Vた形 + 上で
-structure_pattern: V-た + 上で
-explanation_zh: 「〜た上で」表示以前项动作为前提、基础再进行后项，"在……之后（才）"。比「〜てから」更强调前项是后项的审慎前提。本段倒装句突出了"先确认没人在"这一步。
+structure: 動詞連用形＋助動詞「た」（完了）＋形式名詞「上」＋格助詞「で」
+structure_pattern: V連用形＋た＋上で
+explanation_zh: 「〜た上で」由動詞連用形（日语学校文法的动词活用形之一，常用于接续后续成分）＋助動詞「た」（接在连用形后，表示完了）＋形式名詞「上」（意义抽象、需依附于前接成分的名词）＋格助詞「で」构成，表示以前项已完成的动作为前提、基础再进行后项，意为“在……之后（才）／在……基础上”。与「〜てから」（動詞連用形＋接続助詞「て」＋から）相比，更强调前项是后项的审慎前提。后项多为涉及判断、决定或处置的意志性动作。
 examples:
 - text: いる気配が無いのを確認した上で。
   reading: いるけはいがないのをかくにんしたうえで
@@ -26,4 +26,4 @@ provenance:
   extracted_by: claude-code
   extracted_at: '2026-09-02'
 status: draft
-review_note: ''
+review_note: 学校语法自动改写（prompt v1）

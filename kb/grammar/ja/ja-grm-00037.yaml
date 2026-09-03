@@ -4,9 +4,9 @@ type: grammar
 level: N3
 level_rank: 3
 title: 〜つつ：一边……（书面）
-structure: 动词ます形（去ます）+ つつ
-structure_pattern: V-ます + つつ
-explanation_zh: 「〜つつ」相当于「〜ながら」，表示两个动作同时进行，但语感更书面、文雅。口语中一般用「〜ながら」。轻小说旁白常用它来营造轻快又略带书卷气的叙述感。
+structure: 動詞連用形＋接続助詞「つつ」
+structure_pattern: V連用形＋つつ
+explanation_zh: 「つつ」是接在动词连用形（日语学校文法的动词活用形之一，常用于接续助词或助动词）后的接续助词（学校文法品词之一，接在用言等的活用形后连接前后句），表示两个动作同时进行，意义相当于「〜ながら」。与「ながら」相比，「つつ」语感更书面、文雅，口语中一般用「〜ながら」。轻小说旁白常用它来营造轻快又略带书卷气的叙述感。
 examples:
 - text: 苦笑いを浮かべつつ、まずは手近の白猫を抱き上げる。
   reading: くしょうをうかべつつ、まずはてぢかのしろねこをだきあげる。
@@ -27,4 +27,4 @@ provenance:
   extracted_by: claude-code
   extracted_at: '2026-09-02'
 status: draft
-review_note: ''
+review_note: 学校语法自动改写（prompt v1）

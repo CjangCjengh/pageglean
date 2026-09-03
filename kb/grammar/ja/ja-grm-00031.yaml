@@ -4,9 +4,9 @@ type: grammar
 level: N4
 level_rank: 2
 title: 〜てやる：为下方对象做某事
-structure: V-て + やる
-structure_pattern: V-て + やる
-explanation_zh: 「〜てやる」表示为地位较低或亲近的对象做某事，是“我给别人做”的授受表达。本段主角对小猫和女孩都用此形，体现居高而温柔的语气。连用形「拭いてやり」用于书面叙述。
+structure: 動詞連用形＋接続助詞「て」＋やる（授受動詞）
+structure_pattern: 動詞連用形＋接続助詞「て」＋やる
+explanation_zh: 「〜てやる」由动词连用形（日语学校文法的动词活用形之一，可后接续助词「て」）＋接续助词「て」（接于连用形之后、表示动作连续或方式的助词）＋授受动词「やる」（表示给予恩惠的动词）构成。它表示说话人为地位较低或关系亲近的对象做某事，是“我给予别人恩惠”的授受表达，语气居高而温柔。在书面叙述或句中停顿时，句末的「やる」可换用其连用形「やり」以接续下文。
 examples:
 - text: 後で温めた牛乳でも持っていってやるか……
   reading: あとであたためたぎゅうにゅうでももっていってやるか……
@@ -33,4 +33,4 @@ provenance:
   extracted_by: claude-code
   extracted_at: '2026-09-02'
 status: draft
-review_note: ''
+review_note: 学校语法自动改写（prompt v1）

@@ -4,9 +4,9 @@ type: grammar
 level: N3
 level_rank: 3
 title: 〜かける：差点就……、眼看要……
-structure: 动词ます形（去ます）+ かける
-structure_pattern: V-ます + かける
-explanation_zh: 「〜かける」表示动作“刚要发生、差点就……”，停在半途。「理性トビかけた」即“理性差点就要绷断”。轻小说常用这种夸张表达来描写内心动摇。
+structure: 动词連用形 + かける
+structure_pattern: V-連用形 + かける
+explanation_zh: 「〜かける」由前项动词連用形（日语学校文法的动词活用形之一，常用于连接后续词语）与后项动词「かける」构成复合动词，表示动作刚要发生或进行到一半便中止，意为“差点就……、眼看要……”。「理性トビかけた」即“理性差点就要绷断”，以此夸张地描写内心动摇。
 examples:
 - text: さっきのは俺でも理性トビかけた。
   reading: さっきのはおれでもりせいとびかけた。
@@ -27,4 +27,4 @@ provenance:
   extracted_by: claude-code
   extracted_at: '2026-09-02'
 status: draft
-review_note: ''
+review_note: 学校语法自动改写（prompt v1）

@@ -2,11 +2,36 @@
 import Base from '../layouts/Base.astro';
 ---
 <Base title="搜索 · 拾页">
-  <div class="glass mx-auto max-w-xl rounded-2xl p-10 text-center">
-    <div class="text-4xl">🔎</div>
-    <h1 class="mt-4 text-2xl font-bold text-strong">全文搜索</h1>
-    <p class="mt-3 text-sm leading-relaxed text-sub">
-      基于 Pagefind 的全文搜索即将上线，支持中/日/韩/泰/越混排查询。
+  <div class="mx-auto max-w-3xl">
+    <h1 class="text-2xl font-bold text-strong">全文搜索</h1>
+    <p class="mt-1 text-sm text-sub">
+      覆盖全部语法点、教程与例句讲解，支持中/日/韩/泰/越混排查询。
     </p>
+    <div id="pg-search" class="mt-6"></div>
+    <noscript>
+      <p class="mt-6 text-sm text-sub">搜索需要启用 JavaScript。</p>
+    </noscript>
   </div>
+
+  <link href="/pagefind/pagefind-ui.css" rel="stylesheet" />
+  <script src="/pagefind/pagefind-ui.js" is:inline></script>
+  <script is:inline>
+    window.addEventListener('DOMContentLoaded', function () {
+      var el = document.getElementById('pg-search');
+      if (window.PagefindUI) {
+        new window.PagefindUI({
+          element: '#pg-search',
+          showSubResults: true,
+          showImages: false,
+          translations: {
+            placeholder: '搜索语法、教程、词汇……',
+            zero_results: '没有找到相关内容：[SEARCH_TERM]',
+          },
+        });
+      } else if (el) {
+        el.innerHTML =
+          '<div class="glass rounded-2xl p-8 text-center text-sm" style="color:var(--fg-sub)">搜索索引只在正式构建中生成（本地 dev 模式不可用）。线上站点：<a style="text-decoration:underline" href="https://pageglean.pages.dev/search">pageglean.pages.dev/search</a></div>';
+      }
+    });
+  </script>
 </Base>

@@ -4,9 +4,9 @@ type: grammar
 level: N4
 level_rank: 2
 title: 〜てから：……之后
-structure: Vて形 + から
-structure_pattern: V-て + から
-explanation_zh: 表示前项动作完成之后再进行后项，强调先后顺序，"……之后"。与单纯并列的「〜て」相比，「〜てから」的时间先后意味更明确。
+structure: 動詞連用形＋接続助詞て＋から（助詞）
+structure_pattern: V連用形＋て＋から
+explanation_zh: 「〜てから」由動詞連用形（日语学校文法的动词活用形之一，常用于接续助词前）＋接続助詞て（表示接续关系的助词）＋から（助詞，表示时间起点）构成。表示在前项动作完成之后再进行后项动作，强调先后顺序，译为“……之后”。与仅用接続助詞て表示单纯并列、顺接的用法相比，「〜てから」的时间先后意味更加明确。
 examples:
 - text: 少女の髪をクシャクシャッと撫でてから脱衣所を出る。
   reading: しょうじょのかみをクシャクシャッとなでてからだついしょをでる
@@ -26,4 +26,4 @@ provenance:
   extracted_by: claude-code
   extracted_at: '2026-09-02'
 status: draft
-review_note: ''
+review_note: 学校语法自动改写（prompt v1）

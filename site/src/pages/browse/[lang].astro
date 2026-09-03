@@ -22,7 +22,7 @@ for (const e of entries) {
 }
 ---
 <Base title={`${meta.name}语法库 · 拾页`}>
-  <div class="mb-8 flex items-center gap-4">
+  <div class="mb-6 flex items-center gap-4">
     <Flag lang={lang} class="h-9 w-[54px]" />
     <div>
       <h1 class="text-3xl font-bold text-strong">{meta.name}语法库</h1>
@@ -43,39 +43,77 @@ for (const e of entries) {
     </div>
   </div>
 
+  {entries.length > 0 && (
+    <div class="mb-6">
+      <input
+        id="browse-filter"
+        type="search"
+        placeholder={`过滤：输入标题或结构关键词（如「${lang === 'ja' ? '受身' : '연결어미'}」）`}
+        class="glass w-full max-w-md rounded-xl px-4 py-2.5 text-sm text-main outline-none placeholder:text-faint focus:border-sky-400/60"
+      />
+      <p id="browse-filter-empty" class="mt-3 hidden text-sm text-faint">没有匹配的语法点。</p>
+    </div>
+  )}
+
   {entries.length === 0 && (
     <div class="glass rounded-2xl p-10 text-center text-sub">
       这个语言的知识点还在提取中，敬请期待。
     </div>
   )}
 
-  {[...byLevel.entries()].map(([level, list]) => (
-    <section class="mb-10">
-      <h2 class="mb-4 flex items-center gap-3 text-lg font-semibold text-strong">
-        <span
-          class="rounded-lg px-2.5 py-0.5 text-sm font-bold text-white"
-          style={`background:${meta.accent}`}
-        >
-          {meta.levelLabel(level)}
-        </span>
-        <span class="text-sm font-normal text-faint">{list.length} 个语法点</span>
-      </h2>
-      <div class="grid gap-3 md:grid-cols-2">
-        {list.map((e) => (
-          <a
-            href={`/grammar/${lang}/${e.data.id}`}
-            class="glass group rounded-xl px-5 py-4 transition hover:border-slate-400/60 dark:hover:border-slate-500/40"
+  <div id="browse-list">
+    {[...byLevel.entries()].map(([level, list]) => (
+      <details open class="browse-section mb-6">
+        <summary class="flex cursor-pointer select-none items-center gap-3 text-lg font-semibold text-strong">
+          <span
+            class="rounded-lg px-2.5 py-0.5 text-sm font-bold text-white"
+            style={`background:${meta.accent}`}
           >
-            <h3 class="font-medium text-strong">{e.data.title}</h3>
-            <p class="mt-1 truncate font-mono text-sm text-faint">{e.data.structure}</p>
-            {e.data.related.cross_lang.length > 0 && (
-              <span class="chip mt-2 inline-block rounded px-1.5 py-0.5 text-xs text-sub">
-                🔗 {e.data.related.cross_lang.length} 门语言互通
-              </span>
-            )}
-          </a>
-        ))}
-      </div>
-    </section>
-  ))}
+            {meta.levelLabel(level)}
+          </span>
+          <span class="text-sm font-normal text-faint">{list.length} 个语法点</span>
+        </summary>
+        <div class="mt-4 grid gap-3 md:grid-cols-2">
+          {list.map((e) => (
+            <a
+              href={`/grammar/${lang}/${e.data.id}`}
+              data-card
+              class="glass group rounded-xl px-5 py-4 transition hover:border-slate-400/60 dark:hover:border-slate-500/40"
+            >
+              <h3 class="font-medium text-strong">{e.data.title}</h3>
+              <p class="mt-1 truncate font-mono text-sm text-faint">{e.data.structure}</p>
+              {e.data.related.cross_lang.length > 0 && (
+                <span class="chip mt-2 inline-block rounded px-1.5 py-0.5 text-xs text-sub">
+                  🔗 {e.data.related.cross_lang.length} 门语言互通
+                </span>
+              )}
+            </a>
+          ))}
+        </div>
+      </details>
+    ))}
+  </div>
+
+  <script is:inline>
+    (function () {
+      var input = document.getElementById('browse-filter');
+      if (!input) return;
+      var empty = document.getElementById('browse-filter-empty');
+      input.addEventListener('input', function () {
+        var q = input.value.trim().toLowerCase();
+        var totalVisible = 0;
+        document.querySelectorAll('.browse-section').forEach(function (sec) {
+          var n = 0;
+          sec.querySelectorAll('[data-card]').forEach(function (card) {
+            var hit = !q || card.textContent.toLowerCase().indexOf(q) !== -1;
+            card.style.display = hit ? '' : 'none';
+            if (hit) n++;
+          });
+          sec.style.display = n ? '' : 'none';
+          totalVisible += n;
+        });
+        empty.classList.toggle('hidden', totalVisible !== 0);
+      });
+    })();
+  </script>
 </Base>

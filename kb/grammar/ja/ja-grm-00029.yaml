@@ -4,9 +4,9 @@ type: grammar
 level: N5
 level_rank: 1
 title: 独白中的「か」：自问与决心
-structure: 谓语 + か（升调/降调）
-structure_pattern: 述語 + か（自問）
-explanation_zh: 句末「か」在第一人称独白中并不向他人提问，而是自问自答或下决心，"……吧""……好了"。轻小说内心戏的标志性语气，朗读时多为降调。「〜か、だな」等组合也常见。
+structure: 述語の終止形＋終助詞「か」
+structure_pattern: 述語終止形＋終助詞「か」（自問）
+explanation_zh: 終助詞「か」（附着在句末、表示说话者疑问等语气的助詞类）接在述語（句子中承担陈述功能的成分）的終止形（学校文法中用于结句的活用形）之后，在第一人称独白中并不向他人提问，而是表示自问自答或下决心，可译为“……吧”“……好了”。朗读时多为降调，是轻小说内心戏的标志性语气。「〜か、だな」等组合也常见。
 examples:
 - text: 後の事は後で考えるか
   reading: あとのことはあとでかんがえるか
@@ -33,4 +33,4 @@ provenance:
   extracted_by: claude-code
   extracted_at: '2026-09-02'
 status: draft
-review_note: ''
+review_note: 学校语法自动改写（prompt v1）

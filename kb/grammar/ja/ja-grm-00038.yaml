@@ -3,10 +3,10 @@ language: ja
 type: grammar
 level: N4
 level_rank: 2
-title: 〜てやる：给（对方）做……（随便・粗鲁）
-structure: 动词て形 + やる
-structure_pattern: V-て + やる
-explanation_zh: 「〜てやる」是「〜てあげる」的随意、粗鲁说法，表示“（我）给（对方）做某事”。用于同辈、晚辈或动物，带亲切又随便的语气。轻小说男性第一人称叙述十分常用。
+title: 〜てやる（動詞連用形＋接続助詞て＋やる）：给（对方）做……（随便・粗鲁）
+structure: 動詞連用形＋接続助詞て＋やる（補助動詞）
+structure_pattern: V-連用形＋て＋やる
+explanation_zh: 「〜てやる」由动词连用形（日语学校文法的动词活用形之一，常用于接续助词）＋接续助词「て」（接在动词连用形后、表示前后动作或事态接续的助词）＋补助动词「やる」（接于「て」后、表示恩惠给予的动词用法）构成，表示说话人为对方做某事，是授受表现「〜てあげる」的随意、粗鲁说法。五段动词接续续助词「て」时连用形发生音便（如「買う→買って」「書く→書いて」）。用于同辈、晚辈或动物，语气亲切而随便，轻小说男性第一人称叙述十分常用。
 examples:
 - text: その小さな身体を温かいタオルで拭いてやる。
   reading: そのちいさなしんたいをあたたかいタオルでふいてやる。
@@ -25,6 +25,7 @@ related:
   same_lang: []
 tags:
 - 授受表现
+- 补助动词
 - 语气
 provenance:
   discovered_in: book-ja-001
@@ -33,4 +34,4 @@ provenance:
   extracted_by: claude-code
   extracted_at: '2026-09-02'
 status: draft
-review_note: ''
+review_note: 学校语法自动改写（prompt v1）

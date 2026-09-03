@@ -7,8 +7,8 @@
     "tw": "tailwindcss -i src/styles/global.css -o src/styles/generated.css --minify",
     "tw:watch": "tailwindcss -i src/styles/global.css -o src/styles/generated.css --watch",
     "dev": "npm run tw && astro dev",
-    "build": "node scripts/kb-sync.mjs && npm run tw && astro build",
-    "build:full": "node scripts/kb-sync.mjs && npm run tw && astro build && npx -y pagefind --site dist",
+    "build": "node scripts/kb-sync.mjs && npm run tw && astro build && npx -y pagefind --site dist",
+    "build:no-search": "node scripts/kb-sync.mjs && npm run tw && astro build",
     "preview": "astro preview"
   },
   "dependencies": {
