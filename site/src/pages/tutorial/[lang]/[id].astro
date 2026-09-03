@@ -23,6 +23,9 @@ const grm = grammarEntries[0];
     <a href={grm ? `/grammar/${lang}/${tut.data.id}` : `/browse/${lang}`} class="text-sm text-slate-500 hover:text-slate-300">
       ← {meta.flag} 返回{grm ? '语法点' : '语法库'}
     </a>
+    <p class="mt-3 rounded-lg border border-amber-500/20 bg-amber-500/5 px-4 py-2 text-xs text-amber-400/90">
+      ⚠️ 本教程由 AI 自动生成，可能存在错误，仅供学习参考；重要用法请以权威词典与教材为准。
+    </p>
     <div class="prose-headings:mt-8 mt-6">
       <Content />
     </div>

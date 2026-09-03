@@ -33,8 +33,12 @@ const { title = '拾页 PageGlean · 从小说里学会一门语言' } = Astro.p
       <main class="mx-auto max-w-6xl px-6 py-10">
         <slot />
       </main>
-      <footer class="mx-auto max-w-6xl px-6 pb-10 text-xs text-slate-600">
-        拾页 PageGlean · 例句摘自原作文，仅作教学示例 · 由 AI 管线提取、人工校审
+      <footer class="mx-auto max-w-6xl border-t border-white/5 px-6 pb-10 pt-6 text-xs leading-relaxed text-slate-600">
+        <p>拾页 PageGlean · 例句摘自原作文，仅作教学示例</p>
+        <p class="mt-1 text-amber-500/70">
+          ⚠️ 本站教程、讲解与解析均由 AI 自动生成，可能存在错误或不当之处，仅供学习参考；
+          重要用法请以权威词典与教材为准。
+        </p>
       </footer>
     </div>
   </body>
