@@ -1,0 +1,24 @@
+---
+import { LANGS } from '../../../lib/langs';
+
+export function getStaticPaths() {
+  const paths = [];
+  for (const lang of LANGS) paths.push({ params: { lang, level: 'all' } });
+  return paths;
+}
+const { lang, level } = Astro.params;
+---
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="refresh" content={`0; url=/browse/${lang}/${level}/1`} />
+    <title>跳转中……</title>
+    <script is:inline define:vars={{ lang, level }}>
+      location.replace(`/browse/${lang}/${level}/1`);
+    </script>
+  </head>
+  <body>
+    <a href={`/browse/${lang}/${level}/1`}>进入{level}级语法列表</a>
+  </body>
+</html>

@@ -25,7 +25,7 @@ const grm = grammarEntries[0];
 <span hidden data-pagefind-filter="type:tutorial" data-pagefind-sort={`level_rank:${grm ? grm.data.level_rank : 0}`}></span>
 <Base title={`${tut.data.id} 教程 · 拾页`}>
   <div class="mx-auto max-w-3xl">
-    <a href={grm ? `/grammar/${lang}/${tut.data.id}` : `/browse/${lang}`} class="flex items-center gap-1.5 text-sm text-faint hover:text-sub">
+    <a href={grm ? `/grammar/${lang}/${tut.data.id}` : `/browse/${lang}/all/1`} class="flex items-center gap-1.5 text-sm text-faint hover:text-sub">
       ← <Flag lang={lang} class="h-3.5 w-5" /> 返回{grm ? '语法点' : '语法库'}
     </a>
     <p class="mt-3 rounded-lg border border-amber-500/30 bg-amber-500/10 px-4 py-2 text-xs text-amber-700 dark:text-amber-400/90">

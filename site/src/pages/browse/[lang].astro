@@ -10,13 +10,13 @@ const lang = Astro.params.lang;
 <html lang="zh-CN">
   <head>
     <meta charset="UTF-8" />
-    <meta http-equiv="refresh" content={`0; url=/browse/${lang}/1`} />
+    <meta http-equiv="refresh" content={`0; url=/browse/${lang}/all/1`} />
     <title>跳转中……</title>
     <script is:inline define:vars={{ lang }}>
-      location.replace(`/browse/${lang}/1`);
+      location.replace(`/browse/${lang}/all/1`);
     </script>
   </head>
   <body>
-    <a href={`/browse/${lang}/1`}>进入{lang}语法库</a>
+    <a href={`/browse/${lang}/all/1`}>进入{lang}语法库</a>
   </body>
 </html>

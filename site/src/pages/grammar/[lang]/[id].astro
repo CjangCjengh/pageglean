@@ -34,7 +34,7 @@ const sourceTitle = typeof sourceBook === 'string' ? (bookById.get(sourceBook) |
 <span hidden data-pagefind-filter={`level:${d.level}`}></span>
 <span hidden data-pagefind-filter="type:grammar" data-pagefind-sort={`level_rank:${d.level_rank}`}></span>
 <Base title={`${d.title} · ${meta.name}语法 · 拾页`}>
-  <a href={`/browse/${d.language}`} class="flex items-center gap-1.5 text-sm text-faint transition hover:text-sub">
+  <a href={`/browse/${d.language}/all/1`} class="flex items-center gap-1.5 text-sm text-faint transition hover:text-sub">
     ← <Flag lang={d.language} class="h-3.5 w-5" /> {meta.name}语法库
   </a>
 

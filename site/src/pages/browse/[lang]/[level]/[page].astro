@@ -1,7 +1,7 @@
 ---
-import Base from '../../../layouts/Base.astro';
-import Flag from '../../../components/Flag.astro';
-import { LANGS, LANG_META, type Lang } from '../../../lib/langs';
+import Base from '../../../../layouts/Base.astro';
+import Flag from '../../../../components/Flag.astro';
+import { LANGS, LANG_META, type Lang } from '../../../../lib/langs';
 import { getCollection } from 'astro:content';
 
 export async function getStaticPaths() {
@@ -9,27 +9,37 @@ export async function getStaticPaths() {
   const entries = await getCollection('grammar');
   const paths = [];
   for (const lang of LANGS) {
-    const list = entries
+    const all = entries
       .filter((e) => e.data.language === lang)
       .sort((a, b) => a.data.level_rank - b.data.level_rank || a.data.id.localeCompare(b.data.id));
-    const pages = Math.max(1, Math.ceil(list.length / PAGE_SIZE));
-    for (let p = 1; p <= pages; p++) {
-      paths.push({
-        params: { lang, page: String(p) },
-        props: {
-          page: p,
-          pages,
-          total: list.length,
-          slice: list.slice((p - 1) * PAGE_SIZE, p * PAGE_SIZE),
-        },
-      });
+    const levels = [...new Set(all.map((e) => e.data.level))];
+    const buckets: Array<{ key: string; list: typeof all }> = [
+      { key: 'all', list: all },
+      ...levels.map((lv) => ({ key: lv, list: all.filter((e) => e.data.level === lv) })),
+    ];
+    for (const { key, list } of buckets) {
+      if (!list.length) continue;
+      const pages = Math.max(1, Math.ceil(list.length / PAGE_SIZE));
+      for (let p = 1; p <= pages; p++) {
+        paths.push({
+          params: { lang, level: key, page: String(p) },
+          props: {
+            page: p,
+            pages,
+            total: list.length,
+            level: key,
+            slice: list.slice((p - 1) * PAGE_SIZE, p * PAGE_SIZE),
+            levelCounts: buckets.map((b) => ({ key: b.key, n: b.list.length })),
+          },
+        });
+      }
     }
   }
   return paths;
 }
 
 const lang = Astro.params.lang as Lang;
-const { page, pages, total, slice } = Astro.props;
+const { page, pages, total, level, slice, levelCounts } = Astro.props;
 const meta = LANG_META[lang];
 
 const byLevel = new Map<string, typeof slice>();
@@ -38,10 +48,9 @@ for (const e of slice) {
   if (!byLevel.has(lv)) byLevel.set(lv, []);
   byLevel.get(lv)!.push(e);
 }
-
-const pageLink = (p: number) => `/browse/${lang}/${p}`;
+const pageLink = (p: number) => `/browse/${lang}/${level}/${p}`;
 ---
-<Base title={`${meta.name}语法库 · 第 ${page}/${pages} 页 · 拾页`}>
+<Base title={`${meta.name}语法库 · ${level === 'all' ? '全部级别' : meta.levelLabel(level)} · 第 ${page}/${pages} 页 · 拾页`}>
   <div class="mb-6 flex items-center gap-4">
     <Flag lang={lang} class="h-9 w-[54px]" />
     <div>
@@ -51,7 +60,7 @@ const pageLink = (p: number) => `/browse/${lang}/${p}`;
     <div class="ml-auto flex gap-2">
       {LANGS.map((l) => (
         <a
-          href={`/browse/${l}/1`}
+          href={`/browse/${l}/all/1`}
           class:list={[
             'rounded-full px-3 py-1 text-sm transition',
             l === lang ? 'chip text-strong' : 'text-faint hover:text-main',
@@ -63,20 +72,48 @@ const pageLink = (p: number) => `/browse/${lang}/${p}`;
     </div>
   </div>
 
+  {/* 难度一级分类 */}
+  <nav class="mb-8 flex flex-wrap gap-2" aria-label="难度级别">
+    <a
+      href={`/browse/${lang}/all/1`}
+      class:list={[
+        'rounded-full px-4 py-1.5 text-sm font-medium transition',
+        level === 'all' ? 'text-white' : 'chip text-main hover:opacity-80',
+      ]}
+      style={level === 'all' ? `background:${meta.accent}` : ''}
+    >
+      全部（{levelCounts.find((c) => c.key === 'all')?.n ?? 0}）
+    </a>
+    {levelCounts.filter((c) => c.key !== 'all').map((c) => (
+      <a
+        href={`/browse/${lang}/${c.key}/1`}
+        class:list={[
+          'rounded-full px-4 py-1.5 text-sm font-medium transition',
+          level === c.key ? 'text-white' : 'chip text-main hover:opacity-80',
+        ]}
+        style={level === c.key ? `background:${meta.accent}` : ''}
+      >
+        {meta.levelLabel(c.key)}（{c.n}）
+      </a>
+    ))}
+  </nav>
+
   {slice.length === 0 && (
     <div class="glass rounded-2xl p-10 text-center text-sub">
       这个语言的知识点还在提取中，敬请期待。
     </div>
   )}
 
-  {[...byLevel.entries()].map(([level, list]) => (
+  {[...byLevel.entries()].map(([lv, list]) => (
     <section class="mb-8">
-      <h2 class="mb-4 flex items-center gap-3 text-lg font-semibold text-strong">
-        <span class="rounded-lg px-2.5 py-0.5 text-sm font-bold text-white" style={`background:${meta.accent}`}>
-          {meta.levelLabel(level)}
-        </span>
-        <span class="text-sm font-normal text-faint">{list.length} 个（本页）</span>
-      </h2>
+      {level === 'all' && (
+        <h2 class="mb-4 flex items-center gap-3 text-lg font-semibold text-strong">
+          <span class="rounded-lg px-2.5 py-0.5 text-sm font-bold text-white" style={`background:${meta.accent}`}>
+            {meta.levelLabel(lv)}
+          </span>
+          <span class="text-sm font-normal text-faint">{list.length} 个（本页）</span>
+        </h2>
+      )}
       <div class="grid gap-3 md:grid-cols-2">
         {list.map((e) => (
           <a
