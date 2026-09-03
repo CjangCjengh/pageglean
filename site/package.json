@@ -4,9 +4,11 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "dev": "astro dev",
-    "build": "node scripts/kb-sync.mjs && astro build",
-    "build:full": "node scripts/kb-sync.mjs && astro build && npx -y pagefind --site dist",
+    "tw": "tailwindcss -i src/styles/global.css -o src/styles/generated.css --minify",
+    "tw:watch": "tailwindcss -i src/styles/global.css -o src/styles/generated.css --watch",
+    "dev": "npm run tw && astro dev",
+    "build": "node scripts/kb-sync.mjs && npm run tw && astro build",
+    "build:full": "node scripts/kb-sync.mjs && npm run tw && astro build && npx -y pagefind --site dist",
     "preview": "astro preview"
   },
   "dependencies": {
@@ -17,7 +19,7 @@
     "react-dom": "^18.3.1"
   },
   "devDependencies": {
-    "@tailwindcss/vite": "^4.0.0",
+    "@tailwindcss/cli": "^4.3.3",
     "@types/js-yaml": "^4.0.9",
     "@types/react": "^18.3.12",
     "@types/react-dom": "^18.3.1",
