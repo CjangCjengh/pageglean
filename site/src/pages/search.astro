@@ -1,37 +1,205 @@
 ---
 import Base from '../layouts/Base.astro';
+import Flag from '../components/Flag.astro';
+import { LANG_META, type Lang } from '../lib/langs';
 ---
 <Base title="搜索 · 拾页">
-  <div class="mx-auto max-w-3xl">
+  <div class="mx-auto max-w-4xl">
     <h1 class="text-2xl font-bold text-strong">全文搜索</h1>
     <p class="mt-1 text-sm text-sub">
-      覆盖全部语法点、教程与例句讲解，支持中/日/韩/泰/越混排查询。
+      覆盖全部语法点、教程正文与例句讲解，支持中/日/韩/泰/越混排查询，可按语言、类型、级别过滤并排序。
     </p>
-    <div id="pg-search" class="mt-6"></div>
-    <noscript>
-      <p class="mt-6 text-sm text-sub">搜索需要启用 JavaScript。</p>
-    </noscript>
+
+    <div class="glass mt-6 rounded-2xl p-5">
+      <input
+        id="q"
+        type="search"
+        placeholder="输入关键词，如：受身、연결어미、明明、被动……"
+        class="w-full rounded-xl border border-[var(--panel-border)] bg-[var(--bg)] px-4 py-3 text-base text-main outline-none placeholder:text-faint focus:border-sky-400/70"
+        autocomplete="off"
+      />
+
+      <div class="mt-4 flex flex-wrap items-center gap-x-6 gap-y-3 text-sm">
+        <div class="flex items-center gap-2">
+          <span class="text-faint">语言</span>
+          {(['ja', 'ko', 'th', 'vi'] as Lang[]).map((l) => (
+            <button
+              type="button"
+              data-f="language"
+              data-v={l}
+              class="chip flex items-center gap-1.5 rounded-full px-3 py-1 transition hover:opacity-80"
+            >
+              <Flag lang={l} class="h-3 w-[18px]" /> {LANG_META[l].short}
+            </button>
+          ))}
+        </div>
+        <div class="flex items-center gap-2">
+          <span class="text-faint">类型</span>
+          <button type="button" data-f="type" data-v="grammar" class="chip rounded-full px-3 py-1 transition hover:opacity-80">语法</button>
+          <button type="button" data-f="type" data-v="tutorial" class="chip rounded-full px-3 py-1 transition hover:opacity-80">教程</button>
+        </div>
+        <div class="flex items-center gap-2">
+          <span class="text-faint">排序</span>
+          <select id="sort" class="chip rounded-lg px-2 py-1 text-sm text-main outline-none">
+            <option value="">相关度</option>
+            <option value="level_rank">难度（低→高）</option>
+            <option value="-level_rank">难度（高→低）</option>
+          </select>
+        </div>
+      </div>
+
+      <div id="levels" class="mt-3 hidden flex-wrap items-center gap-2 text-sm">
+        <span class="text-faint">级别</span>
+        <span class="text-faint">（加载索引后显示）</span>
+      </div>
+    </div>
+
+    <p id="status" class="mt-4 text-sm text-faint"></p>
+    <div id="results" class="mt-2 grid gap-3"></div>
+    <nav id="pager" class="mt-6 hidden items-center justify-center gap-1.5"></nav>
+    <noscript><p class="mt-6 text-sm text-sub">搜索需要启用 JavaScript。</p></noscript>
   </div>
 
-  <link href="/pagefind/pagefind-ui.css" rel="stylesheet" />
-  <script src="/pagefind/pagefind-ui.js" is:inline></script>
   <script is:inline>
-    window.addEventListener('DOMContentLoaded', function () {
-      var el = document.getElementById('pg-search');
-      if (window.PagefindUI) {
-        new window.PagefindUI({
-          element: '#pg-search',
-          showSubResults: true,
-          showImages: false,
-          translations: {
-            placeholder: '搜索语法、教程、词汇……',
-            zero_results: '没有找到相关内容：[SEARCH_TERM]',
-          },
-        });
-      } else if (el) {
-        el.innerHTML =
-          '<div class="glass rounded-2xl p-8 text-center text-sm" style="color:var(--fg-sub)">搜索索引只在正式构建中生成（本地 dev 模式不可用）。线上站点：<a style="text-decoration:underline" href="https://pageglean.pages.dev/search">pageglean.pages.dev/search</a></div>';
+    (function () {
+      var PAGE = 8;
+      var state = { term: '', page: 1, filters: { language: [], type: [], level: [] }, sort: '' };
+      var pf = null, pfReady = null;
+      var $ = function (s) { return document.querySelector(s); };
+
+      function loadPf() {
+        if (!pfReady) {
+          pfReady = import('/pagefind/pagefind.js').then(function (m) { pf = m; return pf.filters().then(buildLevels); });
+        }
+        return pfReady;
       }
-    });
+
+      function buildLevels(filters) {
+        var wrap = $('#levels');
+        var lv = (filters && filters.level) || {};
+        var keys = Object.keys(lv).filter(function (k) { return lv[k] > 0; }).sort();
+        if (!keys.length) return;
+        wrap.classList.remove('hidden');
+        wrap.classList.add('flex');
+        wrap.innerHTML = '<span class="text-faint">级别</span>';
+        keys.forEach(function (k) {
+          var b = document.createElement('button');
+          b.type = 'button';
+          b.dataset.f = 'level';
+          b.dataset.v = k;
+          b.className = 'chip rounded-full px-3 py-1 transition hover:opacity-80';
+          b.textContent = k + ' (' + lv[k] + ')';
+          wrap.appendChild(b);
+        });
+      }
+
+      function toggleChip(btn) {
+        var f = btn.dataset.f, v = btn.dataset.v;
+        var arr = state.filters[f] || (state.filters[f] = []);
+        var i = arr.indexOf(v);
+        if (i >= 0) arr.splice(i, 1); else arr.push(v);
+        btn.classList.toggle('!bg-sky-500/90', i < 0);
+        btn.classList.toggle('!text-white', i < 0);
+        state.page = 1;
+        run();
+      }
+
+      document.addEventListener('click', function (e) {
+        var btn = e.target.closest('[data-f]');
+        if (btn) toggleChip(btn);
+      });
+
+      var debounce;
+      $('#q').addEventListener('input', function (e) {
+        clearTimeout(debounce);
+        debounce = setTimeout(function () {
+          state.term = e.target.value.trim();
+          state.page = 1;
+          run();
+        }, 250);
+      });
+
+      $('#sort').addEventListener('change', function (e) {
+        state.sort = e.target.value;
+        state.page = 1;
+        run();
+      });
+
+      function buildFilterArg() {
+        var out = {};
+        Object.keys(state.filters).forEach(function (k) {
+          if (state.filters[k].length) out[k] = state.filters[k];
+        });
+        return Object.keys(out).length ? out : null;
+      }
+
+      function run() {
+        var status = $('#status'), box = $('#results'), pager = $('#pager');
+        if (!state.term) {
+          status.textContent = '输入关键词开始搜索；过滤条件会与关键词共同生效。';
+          box.innerHTML = '';
+          pager.classList.add('hidden');
+          return;
+        }
+        status.textContent = '搜索中……';
+        loadPf().then(function () {
+          var opts = {};
+          var f = buildFilterArg();
+          if (f) opts.filters = f;
+          if (state.sort) {
+            var desc = state.sort[0] === '-';
+            var key = state.sort.replace(/^-/, '');
+            opts.sort = {};
+            opts.sort[key] = desc ? 'desc' : 'asc';
+          }
+          return pf.search(state.term, opts).then(function (search) {
+            var total = search.results.length;
+            var pages = Math.max(1, Math.ceil(total / PAGE));
+            if (state.page > pages) state.page = pages;
+            var start = (state.page - 1) * PAGE;
+            status.textContent = '共 ' + total + ' 条结果' + (total ? '（第 ' + state.page + '/' + pages + ' 页）' : '');
+            if (!total) { box.innerHTML = '<p class="text-sm text-faint">没有匹配的内容，换个关键词或放宽过滤条件试试。</p>'; pager.classList.add('hidden'); return; }
+            Promise.all(search.results.slice(start, start + PAGE).map(function (r) { return r.data(); }))
+              .then(function (items) {
+                box.innerHTML = items.map(function (it) {
+                  var fl = (it.filters || {});
+                  var lang = (fl.language || [])[0] || '';
+                  var type = (fl.type || [])[0] || '';
+                  var level = (fl.level || [])[0] || '';
+                  return '<a href="' + it.url + '" class="glass group block rounded-xl px-5 py-4 transition hover:border-slate-400/60 dark:hover:border-slate-500/40">' +
+                    '<div class="flex flex-wrap items-center gap-2 text-xs text-faint">' +
+                    (lang ? '<span class="chip rounded px-1.5 py-0.5">' + ({ ja: '日语', ko: '韩语', th: '泰语', vi: '越南语' })[lang] + '</span>' : '') +
+                    (level ? '<span class="chip rounded px-1.5 py-0.5">' + level + '</span>' : '') +
+                    (type ? '<span class="chip rounded px-1.5 py-0.5">' + (type === 'grammar' ? '语法' : '教程') + '</span>' : '') +
+                    '</div>' +
+                    '<h3 class="mt-1.5 font-medium text-strong">' + (it.meta?.title || it.content?.title || it.url) + '</h3>' +
+                    '<p class="mt-1 text-sm leading-relaxed text-sub">' + (it.excerpt || '') + '</p>' +
+                    '</a>';
+                }).join('');
+                pager.classList.remove('hidden');
+                pager.classList.add('flex');
+                var html = '';
+                if (state.page > 1) html += '<button class="chip rounded-lg px-3 py-1.5 text-sm text-main" data-p="' + (state.page - 1) + '">‹</button>';
+                for (var p = 1; p <= pages; p++) {
+                  html += p === state.page
+                    ? '<span class="rounded-lg bg-sky-500/90 px-3 py-1.5 text-sm font-semibold text-white">' + p + '</span>'
+                    : '<button class="chip rounded-lg px-3 py-1.5 text-sm text-main" data-p="' + p + '">' + p + '</button>';
+                }
+                if (state.page < pages) html += '<button class="chip rounded-lg px-3 py-1.5 text-sm text-main" data-p="' + (state.page + 1) + '">›</button>';
+                pager.innerHTML = html;
+              });
+          });
+        }).catch(function (err) {
+          status.textContent = '搜索不可用：' + (err && err.message ? err.message : err) + '（本地 dev 模式无索引，请用正式构建）';
+        });
+      }
+
+      document.addEventListener('click', function (e) {
+        var b = e.target.closest('[data-p]');
+        if (b) { state.page = parseInt(b.dataset.p, 10); run(); }
+      });
+
+      run();
+    })();
   </script>
 </Base>

@@ -19,6 +19,10 @@ const meta = LANG_META[lang];
 const grammarEntries = await getCollection('grammar', (e) => e.data.id === tut.data.id);
 const grm = grammarEntries[0];
 ---
+
+<span hidden data-pagefind-filter={`language:${lang}`}></span>
+<span hidden data-pagefind-filter={`level:${tut.data.level}`}></span>
+<span hidden data-pagefind-filter="type:tutorial" data-pagefind-sort={`level_rank:${grm ? grm.data.level_rank : 0}`}></span>
 <Base title={`${tut.data.id} 教程 · 拾页`}>
   <div class="mx-auto max-w-3xl">
     <a href={grm ? `/grammar/${lang}/${tut.data.id}` : `/browse/${lang}`} class="flex items-center gap-1.5 text-sm text-faint hover:text-sub">

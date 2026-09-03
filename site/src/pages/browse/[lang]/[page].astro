@@ -1,0 +1,118 @@
+---
+import Base from '../../../layouts/Base.astro';
+import Flag from '../../../components/Flag.astro';
+import { LANGS, LANG_META, type Lang } from '../../../lib/langs';
+import { getCollection } from 'astro:content';
+
+export async function getStaticPaths() {
+  const PAGE_SIZE = 12;
+  const entries = await getCollection('grammar');
+  const paths = [];
+  for (const lang of LANGS) {
+    const list = entries
+      .filter((e) => e.data.language === lang)
+      .sort((a, b) => a.data.level_rank - b.data.level_rank || a.data.id.localeCompare(b.data.id));
+    const pages = Math.max(1, Math.ceil(list.length / PAGE_SIZE));
+    for (let p = 1; p <= pages; p++) {
+      paths.push({
+        params: { lang, page: String(p) },
+        props: {
+          page: p,
+          pages,
+          total: list.length,
+          slice: list.slice((p - 1) * PAGE_SIZE, p * PAGE_SIZE),
+        },
+      });
+    }
+  }
+  return paths;
+}
+
+const lang = Astro.params.lang as Lang;
+const { page, pages, total, slice } = Astro.props;
+const meta = LANG_META[lang];
+
+const byLevel = new Map<string, typeof slice>();
+for (const e of slice) {
+  const lv = e.data.level;
+  if (!byLevel.has(lv)) byLevel.set(lv, []);
+  byLevel.get(lv)!.push(e);
+}
+
+const pageLink = (p: number) => `/browse/${lang}/${p}`;
+---
+<Base title={`${meta.name}语法库 · 第 ${page}/${pages} 页 · 拾页`}>
+  <div class="mb-6 flex items-center gap-4">
+    <Flag lang={lang} class="h-9 w-[54px]" />
+    <div>
+      <h1 class="text-3xl font-bold text-strong">{meta.name}语法库</h1>
+      <p class="mt-1 text-sm text-sub">共 {total} 个语法点 · 第 {page}/{pages} 页</p>
+    </div>
+    <div class="ml-auto flex gap-2">
+      {LANGS.map((l) => (
+        <a
+          href={`/browse/${l}/1`}
+          class:list={[
+            'rounded-full px-3 py-1 text-sm transition',
+            l === lang ? 'chip text-strong' : 'text-faint hover:text-main',
+          ]}
+        >
+          {LANG_META[l].short}
+        </a>
+      ))}
+    </div>
+  </div>
+
+  {slice.length === 0 && (
+    <div class="glass rounded-2xl p-10 text-center text-sub">
+      这个语言的知识点还在提取中，敬请期待。
+    </div>
+  )}
+
+  {[...byLevel.entries()].map(([level, list]) => (
+    <section class="mb-8">
+      <h2 class="mb-4 flex items-center gap-3 text-lg font-semibold text-strong">
+        <span class="rounded-lg px-2.5 py-0.5 text-sm font-bold text-white" style={`background:${meta.accent}`}>
+          {meta.levelLabel(level)}
+        </span>
+        <span class="text-sm font-normal text-faint">{list.length} 个（本页）</span>
+      </h2>
+      <div class="grid gap-3 md:grid-cols-2">
+        {list.map((e) => (
+          <a
+            href={`/grammar/${lang}/${e.data.id}`}
+            class="glass group rounded-xl px-5 py-4 transition hover:border-slate-400/60 dark:hover:border-slate-500/40"
+          >
+            <h3 class="font-medium text-strong">{e.data.title}</h3>
+            <p class="mt-1 truncate font-mono text-sm text-faint">{e.data.structure}</p>
+            {e.data.related.cross_lang.length > 0 && (
+              <span class="chip mt-2 inline-block rounded px-1.5 py-0.5 text-xs text-sub">
+                🔗 {e.data.related.cross_lang.length} 门语言互通
+              </span>
+            )}
+          </a>
+        ))}
+      </div>
+    </section>
+  ))}
+
+  <nav class="mt-10 flex items-center justify-center gap-1.5" aria-label="分页">
+    {page > 1 ? (
+      <a href={pageLink(page - 1)} class="chip rounded-lg px-3 py-1.5 text-sm text-main transition hover:opacity-80">‹ 上一页</a>
+    ) : (
+      <span class="chip rounded-lg px-3 py-1.5 text-sm opacity-40">‹ 上一页</span>
+    )}
+    {Array.from({ length: pages }, (_, i) => i + 1).map((p) =>
+      p === page ? (
+        <span class="rounded-lg bg-sky-500/90 px-3 py-1.5 text-sm font-semibold text-white">{p}</span>
+      ) : (
+        <a href={pageLink(p)} class="chip rounded-lg px-3 py-1.5 text-sm text-main transition hover:opacity-80">{p}</a>
+      )
+    )}
+    {page < pages ? (
+      <a href={pageLink(page + 1)} class="chip rounded-lg px-3 py-1.5 text-sm text-main transition hover:opacity-80">下一页 ›</a>
+    ) : (
+      <span class="chip rounded-lg px-3 py-1.5 text-sm opacity-40">下一页 ›</span>
+    )}
+  </nav>
+</Base>

@@ -17,33 +17,17 @@ const c = `inline-block align-middle rounded-[2px] shadow-sm ${cls}`;
   </svg>
 )}
 {lang === 'ko' && (
+  /* 几何取自 Wikimedia 公共领域官方国旗 SVG（viewBox 144×96 中心原点 → 缩放 1/6 平移到 12,8） */
   <svg class={c} viewBox="0 0 24 16" role="img" aria-label="韩国国旗">
     <rect width="24" height="16" fill="#fff" />
-    <circle cx="12" cy="8" r="4" fill="#0047a0" />
-    <path d="M8 8a4 4 0 0 1 8 0a2 2 0 0 1-4 0a2 2 0 0 0-4 0z" fill="#cd2e3a" />
-    {/* 四卦：乾（左上，三连）坤（右下，六断）坎（右上，中满）离（左下，中缺）
-        局部坐标：三条横线长 7.4、粗 1.2、间距 0.55；断线中缝 0.55 */}
-    {/* 四卦：卦条垂直于对角线（左上乾☰/右上坎☵/左下离☲/右下坤☷） */}
-    <g fill="#000">
-      <g transform="translate(7.05 3.05) rotate(-45)">
-        <rect x="-3.7" y="-2.35" width="7.4" height="1.2" />
-        <rect x="-3.7" y="-0.6" width="7.4" height="1.2" />
-        <rect x="-3.7" y="1.15" width="7.4" height="1.2" />
+    <g transform="translate(12 8) scale(0.1666667)">
+      <g stroke="#000" stroke-width="4">
+        <path transform="rotate(33.69006752598)" d="M-50-12v24m6 0v-24m6 0v24m76 0V1m0-2v-11m6 0v11m0 2v11m6 0V1m0-2v-11" />
+        <path transform="rotate(-33.69006752598)" d="M-50-12v24m6 0V1m0-2v-11m6 0v24m76 0V1m0-2v-11m6 0v24m6 0V1m0-2v-11" />
       </g>
-      <g transform="translate(16.95 3.05) rotate(45)">
-        <rect x="-3.7" y="-2.35" width="3.43" height="1.2" /><rect x="0.28" y="-2.35" width="3.43" height="1.2" />
-        <rect x="-3.7" y="-0.6" width="7.4" height="1.2" />
-        <rect x="-3.7" y="1.15" width="3.43" height="1.2" /><rect x="0.28" y="1.15" width="3.43" height="1.2" />
-      </g>
-      <g transform="translate(7.05 12.95) rotate(45)">
-        <rect x="-3.7" y="-2.35" width="7.4" height="1.2" />
-        <rect x="-3.7" y="-0.6" width="3.43" height="1.2" /><rect x="0.28" y="-0.6" width="3.43" height="1.2" />
-        <rect x="-3.7" y="1.15" width="7.4" height="1.2" />
-      </g>
-      <g transform="translate(16.95 12.95) rotate(-45)">
-        <rect x="-3.7" y="-2.35" width="3.43" height="1.2" /><rect x="0.28" y="-2.35" width="3.43" height="1.2" />
-        <rect x="-3.7" y="-0.6" width="3.43" height="1.2" /><rect x="0.28" y="-0.6" width="3.43" height="1.2" />
-        <rect x="-3.7" y="1.15" width="3.43" height="1.2" /><rect x="0.28" y="1.15" width="3.43" height="1.2" />
+      <g transform="rotate(33.69006752598)">
+        <path fill="#cd2e3a" d="M12 0a18 18 0 11-36 0 24 24 0 1148 0" />
+        <path fill="#0047a0" d="M-24 0a24 24 0 1048 0A12 12 0 100 0a12 12 0 11-24 0" />
       </g>
     </g>
   </svg>
