@@ -14,12 +14,14 @@ examples:
   source_book: book-ja-001
   source_chapter: null
   pointer: null
+  annot: 変わら[かわら]ず置い[おい]てある箱[ばこ]。
 - text: 猫の箱のもとへ。
   reading: ねこのはこのもとへ
   translation_zh: （奔向）装猫的箱子那边。
   source_book: book-ja-001
   source_chapter: null
   pointer: null
+  annot: 猫[ねこ]の箱[ばこ]のもとへ。
 related:
   cross_lang: []
   same_lang: []

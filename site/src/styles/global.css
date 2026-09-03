@@ -62,6 +62,11 @@ body { font-family: var(--font-sans); color: var(--fg); }
   border: 1px solid var(--panel-border);
 }
 
+/* ---------- 振假名 ruby ---------- */
+ruby { ruby-align: center; }
+ruby rt { font-size: 0.62em; color: var(--fg-faint); font-weight: normal; }
+.furigana-off ruby rt { display: none; }
+
 /* 竖排阅读器（本地构建用） */
 .vertical-rl {
   writing-mode: vertical-rl;

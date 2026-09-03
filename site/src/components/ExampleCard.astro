@@ -1,14 +1,24 @@
 ---
-interface Ex { text: string; reading?: string; translation_zh?: string; source_book?: string }
+interface Ex { text: string; reading?: string; annot?: string; translation_zh?: string; source_book?: string }
 interface Props { ex: Ex; lang: string }
 const { ex, lang } = Astro.props;
 const jpFont = lang === 'ja';
+// annot 格式：基底[读音] 基底[读音] 普通文本……
+const segs = ex.annot
+  ? [...ex.annot.matchAll(/([^\[\]]+)(?:\[([^\[\]]+)\])?/g)].map((m) => ({ t: m[1], r: m[2] }))
+  : [];
 ---
 <figure class="glass rounded-xl px-5 py-4">
-  <blockquote class:list={['text-lg leading-relaxed text-strong', jpFont && 'font-[family-name:var(--font-jp)]']}>
-    {ex.text}
-  </blockquote>
-  {ex.reading && <p class="mt-1 text-sm text-sub">{ex.reading}</p>}
+  {segs.length > 0 ? (
+    <blockquote class:list={['text-lg leading-loose text-strong', jpFont && 'font-[family-name:var(--font-jp)]']}>
+      {segs.map((s) => (s.r ? <ruby>{s.t}<rt>{s.r}</rt></ruby> : s.t))}
+    </blockquote>
+  ) : (
+    <blockquote class:list={['text-lg leading-relaxed text-strong', jpFont && 'font-[family-name:var(--font-jp)]']}>
+      {ex.text}
+    </blockquote>
+  )}
+  {ex.reading && segs.length === 0 && <p class="mt-1 text-sm text-sub">{ex.reading}</p>}
   <figcaption class="mt-2 flex flex-wrap items-baseline gap-x-3 text-sm text-main">
     <span>{ex.translation_zh}</span>
     {ex.source_book && (

@@ -14,6 +14,7 @@ examples:
   source_book: book-ja-001
   source_chapter: null
   pointer: null
+  annot: その子[こ]はダンボールに入っ[はいっ]て捨て[すて]られてたんです!!
 related:
   cross_lang: []
   same_lang: []

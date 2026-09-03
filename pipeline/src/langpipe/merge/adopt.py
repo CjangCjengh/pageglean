@@ -35,6 +35,43 @@ def _norm_for_match(s: str) -> str:
     return re.sub(r"[\s、。，．！？!?…・「」『』()（）\-—]+", "", s)
 
 
+def _parse_annot(annot: str):
+    """'財布[サイフ]を落とす' → [(base, read|None), ...]"""
+    return [(m.group(1), m.group(2)) for m in
+            re.finditer(r"([^\[\]]+)(?:\[([^\[\]]+)\])?", annot)]
+
+
+def annot_for_example(text: str, chunk_annot: str) -> str:
+    """从源块标注文本中切出例句对应的 ruby 标注版本。"""
+    if not chunk_annot or not text:
+        return ""
+    segs = _parse_annot(chunk_annot)
+    plain = "".join(b for b, _ in segs)
+    t = text.strip()
+    pos = plain.find(t)
+    if pos < 0:
+        # 退化为前缀匹配（例句可能被模型截短）
+        head = t[: max(10, len(t) // 2)]
+        pos = plain.find(head)
+        if pos < 0:
+            return ""
+        t = head
+    end = pos + len(t)
+    out: list[str] = []
+    cursor = 0
+    for base, read in segs:
+        b_start, b_end = cursor, cursor + len(base)
+        cursor = b_end
+        if b_end <= pos or b_start >= end:
+            continue
+        piece = base[max(0, pos - b_start): min(len(base), end - b_start)]
+        if read and piece == base:
+            out.append(f"{piece}[{read}]")
+        else:
+            out.append(piece)
+    return "".join(out)
+
+
 def adopt_file(path: Path, lang: str, book_id: str = "") -> list[str]:
     payload = orjson.loads(Path(path).read_bytes())
     # 兼容两种格式：{result: ..., chunk_text: ...} 或裸候选
@@ -59,6 +96,7 @@ def adopt_file(path: Path, lang: str, book_id: str = "") -> list[str]:
             examples.append(Example(
                 text=text,
                 reading=(ex.get("reading") or "").strip(),
+                annot=annot_for_example(text, chunk_text),
                 translation_zh=(ex.get("translation_zh") or "").strip(),
                 source_book=book_id,
             ))

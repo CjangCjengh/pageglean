@@ -14,12 +14,14 @@ examples:
   source_book: book-ja-001
   source_chapter: null
   pointer: null
+  annot: 俺[おれ]、本当[ほんとう]に無実[むじつ]なのに……！
 - text: 良い先生だと思ってたのに……
   reading: いいせんせいだとおもってたのに……
   translation_zh: 明明一直以为他是位好老师……
   source_book: book-ja-001
   source_chapter: null
   pointer: null
+  annot: 良い[よい]先生[せんせい]だと思っ[おもっ]てたのに……
 related:
   cross_lang: []
   same_lang: []

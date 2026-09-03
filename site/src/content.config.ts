@@ -4,6 +4,7 @@ import { glob } from 'astro/loaders';
 const exampleSchema = z.object({
   text: z.string(),
   reading: z.string().optional().default(''),
+  annot: z.string().optional().default(''),
   translation_zh: z.string().optional().default(''),
   source_book: z.string().optional().default(''),
   source_chapter: z.number().nullable().optional(),

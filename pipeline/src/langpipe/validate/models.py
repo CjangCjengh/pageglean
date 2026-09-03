@@ -36,6 +36,7 @@ class Status(str, Enum):
 class Example(BaseModel):
     text: str
     reading: str = ""
+    annot: str = ""  # ruby 标注文本 基底[读音]…，站点按开关注入 <ruby>
     translation_zh: str = ""
     source_book: str = ""
     source_chapter: int | None = None

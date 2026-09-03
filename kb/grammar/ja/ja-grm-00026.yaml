@@ -4,9 +4,9 @@ type: grammar
 level: N1
 level_rank: 5
 title: 我ながら：连我自己都……
-structure: 我ながら + 评价性谓语
-structure_pattern: 我ながら + 述語
-explanation_zh: 固定表达，表示说话人对自己行为、性情的自嘲式评价，"连我自己都觉得……"。后接的多为表示感叹、评价的谓语。本段主人公自嘲"想法真是单纯"。
+structure: 我（名詞）＋ながら（副助詞，表让步）＋评价性述語
+structure_pattern: 我ながら＋述語
+explanation_zh: 「我ながら」是由名词「我」加副助词「ながら」（日语学校文法助词的一类，此处表示让步、逆接，相当于“虽说是自己却……”）构成的固定表达。表示说话人对自己自身的行为、性情作自嘲式的评价，意为“连我自己都觉得……”。其后多接表示感叹、评价的谓语。
 examples:
 - text: ……我ながら単純だとは思う。
   reading: われながらたんじゅんだとはおもう
@@ -14,6 +14,7 @@ examples:
   source_book: book-ja-001
   source_chapter: null
   pointer: null
+  annot: ……我[われ]ながら単純[たんじゅん]だとは思う[おもう]。
 related:
   cross_lang: []
   same_lang: []
@@ -27,4 +28,4 @@ provenance:
   extracted_by: claude-code
   extracted_at: '2026-09-02'
 status: draft
-review_note: ''
+review_note: 学校语法自动改写（prompt v1）

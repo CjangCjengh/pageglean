@@ -4,9 +4,9 @@ type: grammar
 level: N4
 level_rank: 2
 title: 〜様だ：好像、似乎（推测与比况）
-structure: 小句 + 様だ／様に
-structure_pattern: 普通形 + 様だ / 様に
-explanation_zh: 表示基于所见所闻的推测或比喻，意为“好像、似乎”，写作「様だ」较为正式，口语作「ようだ」。文中「〜様に」用作比况，多次出现，如“像回应又像抗议”。
+structure: 小句（用言等の連体形）＋様だ／様に
+structure_pattern: 動詞・形容詞の連体形／名詞＋格助詞「の」／形容動詞語幹＋な ＋ 様だ（終止形）／様に（連用形）
+explanation_zh: 「様だ」是学校文法中的助动词（附属于用言、表示语法意义的词），属比况助动词，接在用言（动词、形容词、形容动词）及助动词的连体形（修饰体言的活用形）之后；名词须经格助词（接在名词后、表示其句中关系的助词）「の」、形容动词语干须经连体形「な」再接续。表示基于所见所闻的推定（推测）或比况（比喻），意为“好像、似乎”；汉字写法「様だ」较为正式，口语一般写作「ようだ」。「様に」是「様だ」的连用形（作状语、修饰用言的活用形），表示比况。
 examples:
 - text: また声が聞こえた。次の街灯の陰からの様だ。
   reading: またこえがきこえた。つぎのがいとうのかげからのようだ。
@@ -14,12 +14,14 @@ examples:
   source_book: book-ja-001
   source_chapter: null
   pointer: null
+  annot: また声[こえ]が聞こえ[きこえ]た。次[つぎ]の街灯[がいとう]の陰[かげ]からの様[よう]だ。
 - text: どうやら、この子は自分の現状を把握出来ていない様だ。
   reading: どうやら、このこはじぶんのげんじょうをはあくできていないようだ。
   translation_zh: 看来，这个孩子似乎并没有认清自己的现状。
   source_book: book-ja-001
   source_chapter: null
   pointer: null
+  annot: どうやら、この子[こ]は自分[じぶん]の現状[げんじょう]を把握[はあく]出来[でき]ていない様[よう]だ。
 related:
   cross_lang: []
   same_lang: []
@@ -34,4 +36,4 @@ provenance:
   extracted_by: claude-code
   extracted_at: '2026-09-02'
 status: draft
-review_note: ''
+review_note: 学校语法自动改写（prompt v1）

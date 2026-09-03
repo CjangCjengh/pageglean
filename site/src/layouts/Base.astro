@@ -13,10 +13,13 @@ const { title = '拾页 PageGlean · 从小说里学会一门语言' } = Astro.p
     <title>{title}</title>
     <meta name="description" content="面向中文母语者的日/韩/泰/越学习站，知识点全部取自真实轻小说语境。" />
     <script is:inline>
-      // 默认白天；仅当用户明确选过 dark 时应用
+      // 默认白天、默认显示注音；仅当用户明确关闭过时应用
       try {
         if (localStorage.getItem('pg-theme') === 'dark') {
           document.documentElement.classList.add('dark');
+        }
+        if (localStorage.getItem('pg-furigana') === 'off') {
+          document.documentElement.classList.add('furigana-off');
         }
       } catch (e) {}
     </script>
@@ -37,6 +40,13 @@ const { title = '拾页 PageGlean · 从小说里学会一门语言' } = Astro.p
             <a href="/srs" class="transition hover:text-strong">记忆卡</a>
             <a href="/quiz" class="transition hover:text-strong">练习</a>
             <a href="/search" class="transition hover:text-strong">搜索</a>
+            <button
+              id="furigana-toggle"
+              type="button"
+              aria-label="显示/隐藏振假名"
+              title="显示/隐藏注音"
+              class="chip rounded-full px-2.5 py-1 text-xs font-medium leading-none transition hover:opacity-80"
+            >注音</button>
             <button
               id="theme-toggle"
               type="button"
@@ -71,6 +81,19 @@ const { title = '拾页 PageGlean · 从小说里学会一门语言' } = Astro.p
           paint();
         });
         paint();
+
+        var fbtn = document.getElementById('furigana-toggle');
+        if (fbtn) {
+          var fpaint = function () {
+            fbtn.classList.toggle('opacity-40', root.classList.contains('furigana-off'));
+          };
+          fbtn.addEventListener('click', function () {
+            var off = root.classList.toggle('furigana-off');
+            try { localStorage.setItem('pg-furigana', off ? 'off' : 'on'); } catch (e) {}
+            fpaint();
+          });
+          fpaint();
+        }
       })();
     </script>
   </body>

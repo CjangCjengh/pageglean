@@ -14,12 +14,14 @@ examples:
   source_book: book-ja-001
   source_chapter: null
   pointer: null
+  annot: 渡し[わたし]てしまっては……！
 - text: あ、これ？ ちょっと階段から落ちちゃってさ、アハハハ
   reading: あ、これ？ ちょっとかいだんからおちちゃってさ、アハハハ
   translation_zh: 啊，这个？ 刚才不小心从楼梯上摔下来了，啊哈哈
   source_book: book-ja-001
   source_chapter: null
   pointer: null
+  annot: あ、これ？ちょっと階段[かいだん]から落ち[おち]ちゃってさ、アハハハ
 related:
   cross_lang: []
   same_lang: []
