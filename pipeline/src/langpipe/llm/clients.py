@@ -12,9 +12,17 @@ import os
 import time
 from pathlib import Path
 
-from openai import AsyncOpenAI
-from tenacity import (retry, retry_if_exception_type, stop_after_attempt,
+from openai import APIStatusError, AsyncOpenAI
+from tenacity import (retry, retry_if_exception, stop_after_attempt,
                       wait_exponential)
+
+
+def _retryable(e: BaseException) -> bool:
+    if isinstance(e, (asyncio.TimeoutError, ConnectionError)):
+        return True
+    if isinstance(e, APIStatusError):
+        return e.status_code in (408, 409, 429, 500, 502, 503, 504)
+    return False
 
 from ..config import REPO_ROOT
 
@@ -79,7 +87,7 @@ class MaasClient:
             raise CircuitOpen(f"熔断中，{int(self._open_until - time.time())}s 后恢复")
 
     @retry(
-        retry=retry_if_exception_type((asyncio.TimeoutError, ConnectionError)),
+        retry=retry_if_exception(_retryable),
         wait=wait_exponential(multiplier=2, min=2, max=30),
         stop=stop_after_attempt(4),
     )

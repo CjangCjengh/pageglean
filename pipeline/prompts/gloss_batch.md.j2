@@ -1,0 +1,17 @@
+version: 1
+你是资深{{ lang_name }}词典编者。为下面 {{ items|length }} 个{{ lang_name }}词编写面向中文学习者的释义。
+
+要求：
+- gloss_zh 用中文，多义项用分号分隔，按常用度排序，精炼（每项 ≤12 字）
+- pos 取值：noun/verb/adj/adv/expr/other
+{% if lang == 'ko' %}- 汉字词（语源来自汉语的词）给出 hanja 字段（如 학생 → 學生）；纯谚文词 hanja 留空
+{% endif %}{% if lang == 'vi' %}- 汉越词给出 hantu 字段（如 học sinh → 學生）；非汉越词 hantu 留空
+{% endif %}- 拿不准的释义宁简勿错
+
+[词表]
+{% for it in items %}
+{{ loop.index }}. {{ it }}
+{% endfor %}
+
+严格输出 JSON 数组，不要其他文字：
+[{"word":"","gloss_zh":"","pos":""{% if lang in ('ko','vi') %},"hanja":""{% endif %}}]

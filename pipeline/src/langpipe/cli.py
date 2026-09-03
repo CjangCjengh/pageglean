@@ -9,7 +9,7 @@ from pathlib import Path
 import typer
 from jinja2 import Template
 
-from .config import CANDIDATES, FREQ, KB, PROMPTS_DIR, ensure_dirs
+from .config import CANDIDATES, DATA, FREQ, KB, PROMPTS_DIR, ensure_dirs
 from .ledger import Ledger, content_hash
 
 app = typer.Typer(help="拾页 PageGlean 语料管线", no_args_is_help=True)
@@ -372,6 +372,65 @@ def annotate(lang: str = "ja", workers: int = 3):
     with cf.ThreadPoolExecutor(max_workers=workers) as ex:
         for msg in ex.map(_one, files):
             typer.echo(msg)
+
+
+@app.command()
+def gloss(lang: str = "all", workers: int = 3, model: str = "qwen3.8-max",
+          batch_size: int = 20, limit: int = 0):
+    """M2：MaaS 强模型批量释义词汇候选（ko/vi 顺带汉字词源）。"""
+    import asyncio
+
+    from .extract.claude_runner import extract_json
+    from .llm.clients import MaasClient
+
+    tpl = "gloss_batch.md.j2"
+    tver = _template_version(tpl)
+    langs = ["ja", "ko", "th", "vi"] if lang == "all" else [lang]
+    led = Ledger()
+    client = MaasClient(model=model, concurrency=workers)
+
+    def _batches(lg: str) -> list[tuple[int, list[str]]]:
+        tsv = CANDIDATES / lg / "vocab_candidates.tsv"
+        rows = tsv.read_text(encoding="utf-8").strip().splitlines()[1:]
+        words = [r.split("\t")[1] for r in rows if r]
+        if limit:
+            words = words[:limit]
+        return [(i, words[i:i + batch_size]) for i in range(0, len(words), batch_size)]
+
+    async def _one(lg: str, k: int, words: list[str]) -> str:
+        task_id = f"s4a_gloss:{lg}:{k}:{content_hash(tver, model, '|'.join(words))}"
+        if led.is_done(task_id):
+            return f"[gloss] {lg}#{k} 跳过"
+        led.enqueue(task_id, "s4a_gloss", item_key=f"{lg}#{k}")
+        led.claim(task_id)
+        prompt = _render(tpl, lang=lg, lang_name=LANG_NAMES[lg], items=words)
+        try:
+            raw = await client.chat(
+                [{"role": "user", "content": prompt}], max_tokens=2048, timeout=120)
+            data = extract_json(raw)
+            out_dir = DATA / "enrich" / lg
+            out_dir.mkdir(parents=True, exist_ok=True)
+            out = out_dir / f"gloss_{k:04d}.json"
+            tmp = out.with_suffix(".json.tmp")
+            tmp.write_text(json.dumps({"words": words, "gloss": data},
+                                      ensure_ascii=False), encoding="utf-8")
+            tmp.replace(out)
+            led.complete(task_id, output_path=str(out), executor=f"maas-{model}")
+            return f"[gloss] {lg}#{k} ✓ {len(data)}"
+        except Exception as e:  # noqa: BLE001
+            led.fail(task_id, str(e))
+            return f"[gloss] {lg}#{k} ✗ {str(e)[:100]}"
+
+    async def _main() -> None:
+        for lg in langs:
+            bs = _batches(lg)
+            typer.echo(f"[gloss] {lg}: {len(bs)} 批（{sum(len(w) for _, w in bs)} 词）")
+            # 并发由 MaasClient 信号量节流（默认 3）
+            futs = [asyncio.create_task(_one(lg, k, w)) for k, w in bs]
+            for fut in asyncio.as_completed(futs):
+                typer.echo(await fut)
+
+    asyncio.run(_main())
 
 
 @app.command()
