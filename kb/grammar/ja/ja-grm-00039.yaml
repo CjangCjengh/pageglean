@@ -14,7 +14,7 @@ examples:
   source_book: book-ja-001
   source_chapter: null
   pointer: null
-  annot: 俺[おれ]は決して[けっして]太め[ふとめ]なわけではない。
+  annot: 俺[おれ]は決[けっ]して太[ふと]めなわけではない。
 related:
   cross_lang: []
   same_lang: []

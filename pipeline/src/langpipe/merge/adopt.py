@@ -30,6 +30,18 @@ def norm_level(lang: str, level) -> str | None:
     return None
 
 
+def valid_annot(annot: str, text: str) -> bool:
+    """校验注音标注：去标注后与原句一致，且每个标注基底以汉字结尾。"""
+    if not annot:
+        return False
+    if re.sub(r"\[[^\]]*\]", "", annot) != text:
+        return False
+    for m in re.finditer(r"\[", annot):
+        if m.start() == 0 or not re.match(r"[㐀-鿿豈-﫿]", annot[m.start() - 1]):
+            return False
+    return True
+
+
 def _norm_for_match(s: str) -> str:
     """归一化用于出处核对：去空白与标点差异。"""
     return re.sub(r"[\s、。，．！？!?…・「」『』()（）\-—]+", "", s)
@@ -93,10 +105,12 @@ def adopt_file(path: Path, lang: str, book_id: str = "") -> list[str]:
             probe = _norm_for_match(text)[: max(8, int(len(_norm_for_match(text)) * 0.6))]
             if chunk_norm and probe and probe not in chunk_norm:
                 continue
+            m_annot = (ex.get("annot") or "").strip()
             examples.append(Example(
                 text=text,
                 reading=(ex.get("reading") or "").strip(),
-                annot=annot_for_example(text, chunk_text),
+                annot=m_annot if valid_annot(m_annot, text)
+                else annot_for_example(text, chunk_text),
                 translation_zh=(ex.get("translation_zh") or "").strip(),
                 source_book=book_id,
             ))

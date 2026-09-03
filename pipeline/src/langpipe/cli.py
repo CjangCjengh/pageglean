@@ -299,6 +299,82 @@ def restyle(lang: str = "ja", limit: int = 0, workers: int = 3):
 
 
 @app.command()
+def annotate(lang: str = "ja", workers: int = 3):
+    """LLM 为例句标注振假名（替代词典注音；书内注音作参考）。"""
+    import concurrent.futures as cf
+
+    import yaml as _yaml
+
+    from .extract.claude_runner import run_claude
+    from .merge.adopt import annot_for_example, valid_annot
+    led = Ledger()
+    tpl = "annotate_reading.md.j2"
+    tver = _template_version(tpl)
+
+    # 源块标注文本（书内注音来源）
+    chunks: list[str] = []
+    for f in sorted(CANDIDATES.rglob("*.json")):
+        try:
+            payload = json.loads(f.read_text(encoding="utf-8"))
+            if payload.get("chunk_text"):
+                chunks.append(payload["chunk_text"])
+        except Exception:  # noqa: BLE001
+            continue
+
+    files = sorted((KB / "grammar" / lang).glob(f"{lang}-grm-*.yaml"))
+
+    def _one(f: Path) -> str:
+        data = _yaml.safe_load(f.read_text(encoding="utf-8"))
+        examples = data.get("examples", [])
+        if not examples:
+            return f"[annotate] {data['id']} 无例句，跳过"
+        task_id = f"s6_annotate:{data['id']}:{content_hash(tver, data['id'])}"
+        if led.is_done(task_id):
+            return f"[annotate] {data['id']} 已完成，跳过"
+        led.enqueue(task_id, "s6_annotate", item_key=data["id"])
+        led.claim(task_id)
+        items = []
+        for i, ex in enumerate(examples):
+            book = ""
+            for ctk in chunks:
+                a = annot_for_example(ex.get("text", ""), ctk)
+                if "[" in a:
+                    book = a
+                    break
+            items.append({"i": i, "text": ex.get("text", ""), "book_annot": book})
+        prompt = _render(tpl, lang=lang, lang_name=LANG_NAMES[lang], items=items)
+        try:
+            res = run_claude(prompt)
+            got = {it["i"]: it.get("annot", "") for it in
+                   res["data"].get("items", []) if isinstance(it, dict)}
+            n_ok = 0
+            for i, ex in enumerate(examples):
+                a = (got.get(i) or "").strip()
+                if valid_annot(a, ex.get("text", "")):
+                    ex["annot"] = a
+                    n_ok += 1
+            if n_ok == 0:
+                led.fail(task_id, "无有效标注输出")
+                return f"[annotate] {data['id']} ✗ 无有效标注"
+            tmp = f.with_suffix(".yaml.tmp")
+            tmp.write_text(_yaml.safe_dump(data, allow_unicode=True, sort_keys=False),
+                           encoding="utf-8")
+            tmp.replace(f)
+            led.complete(task_id, output_path=str(f),
+                         prompt_tokens=res["usage"].get("input_tokens"),
+                         completion_tokens=res["usage"].get("output_tokens"),
+                         executor="claude-code")
+            return f"[annotate] {data['id']} ✓ {n_ok}/{len(examples)}"
+        except Exception as e:  # noqa: BLE001
+            led.fail(task_id, str(e))
+            return f"[annotate] {data['id']} ✗ {str(e)[:120]}"
+
+    with cf.ThreadPoolExecutor(max_workers=workers) as ex:
+        for msg in ex.map(_one, files):
+            typer.echo(msg)
+
+
+@app.command()
 def validate():
     """校验整个知识库。"""
     from .validate.models import validate_kb

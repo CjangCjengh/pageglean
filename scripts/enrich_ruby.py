@@ -1,4 +1,5 @@
-"""为日语例句合成全量 ruby：书内注音优先，其余汉字用 unidic 词典读音补全。"""
+"""【已弃用】词典注音路线：多音字会猜错（如 危[き]うさ 应为 あや）。
+现改用 `langpipe annotate`（LLM 注音，书内注音优先）。本脚本仅保留备查。"""
 from __future__ import annotations
 
 import re

@@ -14,7 +14,7 @@ examples:
   source_book: book-ja-001
   source_chapter: null
   pointer: null
-  annot: 俺[おれ]は後ろ髪[うしろがみ]を引か[ひか]れる想[そう]いをしながらも、その場[ば]を後[あと]にする。
+  annot: 俺[おれ]は後ろ髪[うしろがみ]を引[ひ]かれる想[おも]いをしながらも、その場[ば]を後[あと]にする。
 related:
   cross_lang: []
   same_lang: []

@@ -14,14 +14,14 @@ examples:
   source_book: book-ja-001
   source_chapter: null
   pointer: null
-  annot: また声[こえ]が聞こえ[きこえ]た。次[つぎ]の街灯[がいとう]の陰[かげ]からの様[よう]だ。
+  annot: また声[こえ]が聞[き]こえた。次[つぎ]の街灯[がいとう]の陰[かげ]からの様[よう]だ。
 - text: どうやら、この子は自分の現状を把握出来ていない様だ。
   reading: どうやら、このこはじぶんのげんじょうをはあくできていないようだ。
   translation_zh: 看来，这个孩子似乎并没有认清自己的现状。
   source_book: book-ja-001
   source_chapter: null
   pointer: null
-  annot: どうやら、この子[こ]は自分[じぶん]の現状[げんじょう]を把握[はあく]出来[でき]ていない様[よう]だ。
+  annot: どうやら、この子[こ]は自分[じぶん]の現状[げんじょう]を把握[あく]出来[でき]ていない様[よう]だ。
 related:
   cross_lang: []
   same_lang: []

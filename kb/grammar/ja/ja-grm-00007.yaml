@@ -14,7 +14,7 @@ examples:
   source_book: book-ja-001
   source_chapter: null
   pointer: null
-  annot: 腐れ[くされ]ているとはいえ、警察[けいさつ]官[かん]が知り合い[しりあい]にいるじゃないか!!
+  annot: 腐[くさ]れているとはいえ、警察官[けいさつかん]が知[し]り合[あ]いにいるじゃないか!!
 related:
   cross_lang: []
   same_lang: []

@@ -14,14 +14,14 @@ examples:
   source_book: book-ja-001
   source_chapter: null
   pointer: null
-  annot: その小さな[ちーさな]身体[しんたい]を温かい[あたたかい]タオルで拭い[ふい]てやる。
+  annot: その小[ちい]さな身体[しんたい]を温[あたた]かいタオルで拭[ふい]てやる。
 - text: 余ったタオルを三匹にかけてやる。
   reading: あまったタオルをさんびきにかけてやる。
   translation_zh: 把多余的毛巾给三只小猫盖上。
   source_book: book-ja-001
   source_chapter: null
   pointer: null
-  annot: 余っ[あまっ]たタオルを三[さん]匹[ひき]にかけてやる。
+  annot: 余[あま]ったタオルを三匹[さんびき]にかけてやる。
 related:
   cross_lang: []
   same_lang: []

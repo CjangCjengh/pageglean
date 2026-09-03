@@ -14,7 +14,7 @@ examples:
   source_book: book-ja-001
   source_chapter: null
   pointer: null
-  annot: そろそろ飲み[のみ]終わっ[おわっ]てる頃[ころ]だろうな。
+  annot: そろそろ飲[の]み終[お]わってる頃[ころ]だろうな。
 - text: な、なんか会話が成立してないか……？
   reading: な、なんかかいわがせいりつしてないか……？
   translation_zh: 怎、怎么觉得对话好像成立了……？

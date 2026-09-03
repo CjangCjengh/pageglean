@@ -21,7 +21,7 @@ examples:
   source_book: book-ja-001
   source_chapter: null
   pointer: null
-  annot: 良い[よい]先生[せんせい]だと思っ[おもっ]てたのに……
+  annot: 良[よ]い先生[せんせい]だと思[おも]ってたのに……
 related:
   cross_lang: []
   same_lang: []

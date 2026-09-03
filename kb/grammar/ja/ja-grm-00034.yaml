@@ -15,7 +15,7 @@ examples:
   source_book: book-ja-001
   source_chapter: null
   pointer: null
-  annot: 電話[でんわ]番号[ばんごう]にしては１ケタ足り[たり]ない。
+  annot: 電話番号[でんわばんごう]にしては１ケタ足[た]りない。
 related:
   cross_lang: []
   same_lang: []

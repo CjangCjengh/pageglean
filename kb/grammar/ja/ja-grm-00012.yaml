@@ -14,7 +14,7 @@ examples:
   source_book: book-ja-001
   source_chapter: null
   pointer: null
-  annot: 私[わたくし]、母[はは]さんから『あの先生[せんせい]の事[こと]は忘れ[わすれ]なさい』って言わ[いわ]れたー
+  annot: 私[わたし]、母[かあ]さんから『あの先生[せんせい]の事[こと]は忘[わす]れなさい』って言[い]われたー
 related:
   cross_lang: []
   same_lang: []

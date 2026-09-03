@@ -3,10 +3,19 @@ interface Ex { text: string; reading?: string; annot?: string; translation_zh?: 
 interface Props { ex: Ex; lang: string }
 const { ex, lang } = Astro.props;
 const jpFont = lang === 'ja';
-// annot 格式：基底[读音] 基底[读音] 普通文本……
-const segs = ex.annot
-  ? [...ex.annot.matchAll(/([^\[\]]+)(?:\[([^\[\]]+)\])?/g)].map((m) => ({ t: m[1], r: m[2] }))
-  : [];
+// annot 格式：汉字[读音]……；按 ruby 标记位切分，基底仅为紧邻汉字串
+const segs: Array<{ t: string; r?: string }> = [];
+if (ex.annot) {
+  const re = /([㐀-鿿豈-﫿]+)\[([^\[\]]*)\]/g;
+  let last = 0;
+  let m: RegExpExecArray | null;
+  while ((m = re.exec(ex.annot))) {
+    if (m.index > last) segs.push({ t: ex.annot.slice(last, m.index) });
+    segs.push({ t: m[1], r: m[2] });
+    last = m.index + m[0].length;
+  }
+  if (last < ex.annot.length) segs.push({ t: ex.annot.slice(last) });
+}
 ---
 <figure class="glass rounded-xl px-5 py-4">
   {segs.length > 0 ? (
