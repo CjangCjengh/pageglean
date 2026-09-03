@@ -23,26 +23,27 @@ const c = `inline-block align-middle rounded-[2px] shadow-sm ${cls}`;
     <path d="M8 8a4 4 0 0 1 8 0a2 2 0 0 1-4 0a2 2 0 0 0-4 0z" fill="#cd2e3a" />
     {/* 四卦：乾（左上，三连）坤（右下，六断）坎（右上，中满）离（左下，中缺）
         局部坐标：三条横线长 7.4、粗 1.2、间距 0.55；断线中缝 0.55 */}
+    {/* 四卦：卦条垂直于对角线（左上乾☰/右上坎☵/左下离☲/右下坤☷） */}
     <g fill="#000">
-      <g transform="translate(7.05 3.05) rotate(135)">
+      <g transform="translate(7.05 3.05) rotate(-45)">
         <rect x="-3.7" y="-2.35" width="7.4" height="1.2" />
         <rect x="-3.7" y="-0.6" width="7.4" height="1.2" />
         <rect x="-3.7" y="1.15" width="7.4" height="1.2" />
       </g>
-      <g transform="translate(16.95 3.05) rotate(225)">
+      <g transform="translate(16.95 3.05) rotate(45)">
         <rect x="-3.7" y="-2.35" width="3.43" height="1.2" /><rect x="0.28" y="-2.35" width="3.43" height="1.2" />
         <rect x="-3.7" y="-0.6" width="7.4" height="1.2" />
         <rect x="-3.7" y="1.15" width="3.43" height="1.2" /><rect x="0.28" y="1.15" width="3.43" height="1.2" />
       </g>
-      <g transform="translate(16.95 12.95) rotate(45)">
-        <rect x="-3.7" y="-2.35" width="3.43" height="1.2" /><rect x="0.28" y="-2.35" width="3.43" height="1.2" />
-        <rect x="-3.7" y="-0.6" width="3.43" height="1.2" /><rect x="0.28" y="-0.6" width="3.43" height="1.2" />
-        <rect x="-3.7" y="1.15" width="3.43" height="1.2" /><rect x="0.28" y="1.15" width="3.43" height="1.2" />
-      </g>
-      <g transform="translate(7.05 12.95) rotate(-45)">
+      <g transform="translate(7.05 12.95) rotate(45)">
         <rect x="-3.7" y="-2.35" width="7.4" height="1.2" />
         <rect x="-3.7" y="-0.6" width="3.43" height="1.2" /><rect x="0.28" y="-0.6" width="3.43" height="1.2" />
         <rect x="-3.7" y="1.15" width="7.4" height="1.2" />
+      </g>
+      <g transform="translate(16.95 12.95) rotate(-45)">
+        <rect x="-3.7" y="-2.35" width="3.43" height="1.2" /><rect x="0.28" y="-2.35" width="3.43" height="1.2" />
+        <rect x="-3.7" y="-0.6" width="3.43" height="1.2" /><rect x="0.28" y="-0.6" width="3.43" height="1.2" />
+        <rect x="-3.7" y="1.15" width="3.43" height="1.2" /><rect x="0.28" y="1.15" width="3.43" height="1.2" />
       </g>
     </g>
   </svg>
