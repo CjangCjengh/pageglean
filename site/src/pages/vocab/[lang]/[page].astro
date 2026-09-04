@@ -1,0 +1,97 @@
+---
+import Base from '../../../layouts/Base.astro';
+import Flag from '../../../components/Flag.astro';
+import { LANGS, LANG_META, POS_LABEL, type Lang } from '../../../lib/langs';
+import { getCollection } from 'astro:content';
+
+export async function getStaticPaths() {
+  const PAGE_SIZE = 24;
+  const entries = await getCollection('vocab');
+  const paths = [];
+  for (const lang of LANGS) {
+    const list = entries
+      .filter((e) => e.data.language === lang)
+      .sort((a, b) => (a.data.frequency?.rank ?? 0) - (b.data.frequency?.rank ?? 0));
+    const pages = Math.max(1, Math.ceil(list.length / PAGE_SIZE));
+    for (let p = 1; p <= pages; p++) {
+      paths.push({
+        params: { lang, page: String(p) },
+        props: { page: p, pages, total: list.length, slice: list.slice((p - 1) * PAGE_SIZE, p * PAGE_SIZE) },
+      });
+    }
+  }
+  return paths;
+}
+
+const lang = Astro.params.lang as Lang;
+const { page, pages, total, slice } = Astro.props;
+const meta = LANG_META[lang];
+---
+<Base title={`${meta.name}词汇库 · 第 ${page}/${pages} 页 · 拾页`}>
+  <div class="mb-6 flex items-center gap-4">
+    <Flag lang={lang} class="h-9 w-[54px]" />
+    <div>
+      <h1 class="text-3xl font-bold text-strong">{meta.name}词汇库</h1>
+      <p class="mt-1 text-sm text-sub">按语料词频排序 · 共 {total} 词 · 第 {page}/{pages} 页</p>
+    </div>
+    <div class="ml-auto flex gap-2">
+      {LANGS.map((l) => (
+        <a
+          href={`/vocab/${l}/1`}
+          class:list={[
+            'rounded-full px-3 py-1 text-sm transition',
+            l === lang ? 'chip text-strong' : 'text-faint hover:text-main',
+          ]}
+        >
+          {LANG_META[l].short}
+        </a>
+      ))}
+    </div>
+  </div>
+
+  {slice.length === 0 && (
+    <div class="glass rounded-2xl p-10 text-center text-sub">
+      这个语言的词汇还在释义中，敬请期待。
+    </div>
+  )}
+
+  <div class="grid gap-3 sm:grid-cols-2 lg:grid-cols-3">
+    {slice.map((e) => (
+      <a href={`/vocab/${lang}/${e.data.id}`} class="glass group rounded-xl px-4 py-3 transition hover:border-slate-400/60 dark:hover:border-slate-500/40">
+        <div class="flex items-baseline gap-2">
+          <span class:list={['text-lg font-semibold text-strong', lang === 'ja' && 'font-[family-name:var(--font-jp)]']}>{e.data.word}</span>
+          {e.data.reading && <span class="text-xs text-faint">{e.data.reading}</span>}
+        </div>
+        <p class="mt-1 truncate text-sm text-sub">{e.data.gloss_zh}</p>
+        <div class="mt-1.5 flex gap-1.5 text-xs text-faint">
+          {e.data.pos && <span class="chip rounded px-1.5 py-0.5">{POS_LABEL[e.data.pos] || e.data.pos}</span>}
+          {e.data.gloss_detail_zh && <span class="chip rounded px-1.5 py-0.5">{e.data.gloss_detail_zh}</span>}
+          <span class="ml-auto">#{e.data.frequency?.rank}</span>
+        </div>
+      </a>
+    ))}
+  </div>
+
+  <nav class="mt-10 flex flex-wrap items-center justify-center gap-1.5" aria-label="分页">
+    {page > 1 ? (
+      <a href={`/vocab/${lang}/${page - 1}`} class="chip rounded-lg px-3 py-1.5 text-sm text-main hover:opacity-80">‹ 上一页</a>
+    ) : (
+      <span class="chip rounded-lg px-3 py-1.5 text-sm opacity-40">‹ 上一页</span>
+    )}
+    {Array.from({ length: pages }, (_, i) => i + 1).filter((p) => p === 1 || p === pages || Math.abs(p - page) <= 2).map((p, i, arr) => (
+      <>
+        {i > 0 && arr[i - 1] !== p - 1 && <span class="px-1 text-faint">…</span>}
+        {p === page ? (
+          <span class="rounded-lg bg-sky-500/90 px-3 py-1.5 text-sm font-semibold text-white">{p}</span>
+        ) : (
+          <a href={`/vocab/${lang}/${p}`} class="chip rounded-lg px-3 py-1.5 text-sm text-main hover:opacity-80">{p}</a>
+        )}
+      </>
+    ))}
+    {page < pages ? (
+      <a href={`/vocab/${lang}/${page + 1}`} class="chip rounded-lg px-3 py-1.5 text-sm text-main hover:opacity-80">下一页 ›</a>
+    ) : (
+      <span class="chip rounded-lg px-3 py-1.5 text-sm opacity-40">下一页 ›</span>
+    )}
+  </nav>
+</Base>

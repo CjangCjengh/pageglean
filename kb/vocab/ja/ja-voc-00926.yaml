@@ -1,0 +1,26 @@
+id: ja-voc-00926
+language: ja
+type: vocab
+word: クルスガワ
+reading: くるすがわ
+pos: other
+gloss_zh: 专有名词
+gloss_detail_zh: ''
+level: ''
+level_rank: 0
+frequency:
+  rank: 926
+  count: 177
+  doc_count: 3
+examples: []
+related:
+  cross_lang: []
+  same_lang: []
+tags: []
+provenance:
+  discovered_in: ''
+  first_seen_chapter: null
+  frequency_hint: null
+  extracted_by: maas-qwen3.8-max
+  extracted_at: '2026-09-03'
+status: draft

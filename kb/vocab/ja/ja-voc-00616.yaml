@@ -1,0 +1,26 @@
+id: ja-voc-00616
+language: ja
+type: vocab
+word: 親父
+reading: おやじ
+pos: noun
+gloss_zh: 父亲；爸爸；老头
+gloss_detail_zh: ''
+level: ''
+level_rank: 0
+frequency:
+  rank: 616
+  count: 275
+  doc_count: 13
+examples: []
+related:
+  cross_lang: []
+  same_lang: []
+tags: []
+provenance:
+  discovered_in: ''
+  first_seen_chapter: null
+  frequency_hint: null
+  extracted_by: maas-qwen3.8-max
+  extracted_at: '2026-09-03'
+status: draft

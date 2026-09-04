@@ -1,0 +1,26 @@
+id: ja-voc-00580
+language: ja
+type: vocab
+word: 辺り
+reading: あたり
+pos: noun
+gloss_zh: 附近；一带；周围
+gloss_detail_zh: ''
+level: ''
+level_rank: 0
+frequency:
+  rank: 580
+  count: 292
+  doc_count: 25
+examples: []
+related:
+  cross_lang: []
+  same_lang: []
+tags: []
+provenance:
+  discovered_in: ''
+  first_seen_chapter: null
+  frequency_hint: null
+  extracted_by: maas-qwen3.8-max
+  extracted_at: '2026-09-03'
+status: draft

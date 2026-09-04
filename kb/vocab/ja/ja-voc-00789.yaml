@@ -1,0 +1,26 @@
+id: ja-voc-00789
+language: ja
+type: vocab
+word: 内容
+reading: ないよー
+pos: noun
+gloss_zh: 内容
+gloss_detail_zh: ''
+level: ''
+level_rank: 0
+frequency:
+  rank: 789
+  count: 212
+  doc_count: 25
+examples: []
+related:
+  cross_lang: []
+  same_lang: []
+tags: []
+provenance:
+  discovered_in: ''
+  first_seen_chapter: null
+  frequency_hint: null
+  extracted_by: maas-qwen3.8-max
+  extracted_at: '2026-09-03'
+status: draft

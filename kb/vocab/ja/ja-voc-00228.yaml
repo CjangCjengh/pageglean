@@ -1,0 +1,26 @@
+id: ja-voc-00228
+language: ja
+type: vocab
+word: 教室
+reading: きょーしつ
+pos: noun
+gloss_zh: 教室；培训班
+gloss_detail_zh: ''
+level: ''
+level_rank: 0
+frequency:
+  rank: 228
+  count: 810
+  doc_count: 24
+examples: []
+related:
+  cross_lang: []
+  same_lang: []
+tags: []
+provenance:
+  discovered_in: ''
+  first_seen_chapter: null
+  frequency_hint: null
+  extracted_by: maas-qwen3.8-max
+  extracted_at: '2026-09-03'
+status: draft

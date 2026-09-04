@@ -1,0 +1,26 @@
+id: ko-voc-01120
+language: ko
+type: vocab
+word: 내용
+reading: ''
+pos: noun
+gloss_zh: 内容
+gloss_detail_zh: 汉字词源：內容
+level: ''
+level_rank: 0
+frequency:
+  rank: 1120
+  count: 193
+  doc_count: 30
+examples: []
+related:
+  cross_lang: []
+  same_lang: []
+tags: []
+provenance:
+  discovered_in: ''
+  first_seen_chapter: null
+  frequency_hint: null
+  extracted_by: maas-qwen3.8-max
+  extracted_at: '2026-09-03'
+status: draft

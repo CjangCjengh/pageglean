@@ -1,0 +1,26 @@
+id: ja-voc-00620
+language: ja
+type: vocab
+word: タロウ
+reading: たろー
+pos: noun
+gloss_zh: 太郎（人名）
+gloss_detail_zh: ''
+level: ''
+level_rank: 0
+frequency:
+  rank: 620
+  count: 274
+  doc_count: 12
+examples: []
+related:
+  cross_lang: []
+  same_lang: []
+tags: []
+provenance:
+  discovered_in: ''
+  first_seen_chapter: null
+  frequency_hint: null
+  extracted_by: maas-qwen3.8-max
+  extracted_at: '2026-09-03'
+status: draft

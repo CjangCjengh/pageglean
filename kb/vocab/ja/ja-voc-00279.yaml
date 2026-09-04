@@ -1,0 +1,26 @@
+id: ja-voc-00279
+language: ja
+type: vocab
+word: 大丈夫
+reading: だいじょーぶ
+pos: adj
+gloss_zh: 没关系；不要紧；安全
+gloss_detail_zh: ''
+level: ''
+level_rank: 0
+frequency:
+  rank: 279
+  count: 662
+  doc_count: 25
+examples: []
+related:
+  cross_lang: []
+  same_lang: []
+tags: []
+provenance:
+  discovered_in: ''
+  first_seen_chapter: null
+  frequency_hint: null
+  extracted_by: maas-qwen3.8-max
+  extracted_at: '2026-09-03'
+status: draft

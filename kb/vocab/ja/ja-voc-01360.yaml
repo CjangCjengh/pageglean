@@ -1,0 +1,26 @@
+id: ja-voc-01360
+language: ja
+type: vocab
+word: 毎日
+reading: まいにち
+pos: noun
+gloss_zh: 每天
+gloss_detail_zh: ''
+level: ''
+level_rank: 0
+frequency:
+  rank: 1360
+  count: 111
+  doc_count: 23
+examples: []
+related:
+  cross_lang: []
+  same_lang: []
+tags: []
+provenance:
+  discovered_in: ''
+  first_seen_chapter: null
+  frequency_hint: null
+  extracted_by: maas-qwen3.8-max
+  extracted_at: '2026-09-03'
+status: draft

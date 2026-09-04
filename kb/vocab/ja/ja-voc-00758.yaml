@@ -1,0 +1,26 @@
+id: ja-voc-00758
+language: ja
+type: vocab
+word: 今後
+reading: こんご
+pos: noun
+gloss_zh: 今后；以后
+gloss_detail_zh: ''
+level: ''
+level_rank: 0
+frequency:
+  rank: 758
+  count: 220
+  doc_count: 23
+examples: []
+related:
+  cross_lang: []
+  same_lang: []
+tags: []
+provenance:
+  discovered_in: ''
+  first_seen_chapter: null
+  frequency_hint: null
+  extracted_by: maas-qwen3.8-max
+  extracted_at: '2026-09-03'
+status: draft

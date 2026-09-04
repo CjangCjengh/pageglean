@@ -1,0 +1,26 @@
+id: th-voc-00870
+language: th
+type: vocab
+word: เด็กผู้หญิง
+reading: ''
+pos: noun
+gloss_zh: 女孩；女童
+gloss_detail_zh: ''
+level: ''
+level_rank: 0
+frequency:
+  rank: 870
+  count: 121
+  doc_count: 8
+examples: []
+related:
+  cross_lang: []
+  same_lang: []
+tags: []
+provenance:
+  discovered_in: ''
+  first_seen_chapter: null
+  frequency_hint: null
+  extracted_by: maas-qwen3.8-max
+  extracted_at: '2026-09-03'
+status: draft

@@ -1,0 +1,26 @@
+id: th-voc-01170
+language: th
+type: vocab
+word: คล้ายๆ
+reading: ''
+pos: adj
+gloss_zh: 相似；类似；差不多
+gloss_detail_zh: ''
+level: ''
+level_rank: 0
+frequency:
+  rank: 1170
+  count: 83
+  doc_count: 7
+examples: []
+related:
+  cross_lang: []
+  same_lang: []
+tags: []
+provenance:
+  discovered_in: ''
+  first_seen_chapter: null
+  frequency_hint: null
+  extracted_by: maas-qwen3.8-max
+  extracted_at: '2026-09-03'
+status: draft

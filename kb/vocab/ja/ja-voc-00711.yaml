@@ -1,0 +1,26 @@
+id: ja-voc-00711
+language: ja
+type: vocab
+word: 食事
+reading: しょくじ
+pos: noun
+gloss_zh: 吃饭；用餐；饮食
+gloss_detail_zh: ''
+level: ''
+level_rank: 0
+frequency:
+  rank: 711
+  count: 236
+  doc_count: 24
+examples: []
+related:
+  cross_lang: []
+  same_lang: []
+tags: []
+provenance:
+  discovered_in: ''
+  first_seen_chapter: null
+  frequency_hint: null
+  extracted_by: maas-qwen3.8-max
+  extracted_at: '2026-09-03'
+status: draft

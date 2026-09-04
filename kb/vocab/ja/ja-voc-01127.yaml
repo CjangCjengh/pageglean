@@ -1,0 +1,26 @@
+id: ja-voc-01127
+language: ja
+type: vocab
+word: 連れる
+reading: つれ
+pos: verb
+gloss_zh: 带领；带着；伴随
+gloss_detail_zh: ''
+level: ''
+level_rank: 0
+frequency:
+  rank: 1127
+  count: 141
+  doc_count: 25
+examples: []
+related:
+  cross_lang: []
+  same_lang: []
+tags: []
+provenance:
+  discovered_in: ''
+  first_seen_chapter: null
+  frequency_hint: null
+  extracted_by: maas-qwen3.8-max
+  extracted_at: '2026-09-03'
+status: draft

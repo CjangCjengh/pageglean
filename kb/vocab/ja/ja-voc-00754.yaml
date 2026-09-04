@@ -1,0 +1,26 @@
+id: ja-voc-00754
+language: ja
+type: vocab
+word: 現場
+reading: げんば
+pos: noun
+gloss_zh: 现场；工地；一线
+gloss_detail_zh: ''
+level: ''
+level_rank: 0
+frequency:
+  rank: 754
+  count: 221
+  doc_count: 17
+examples: []
+related:
+  cross_lang: []
+  same_lang: []
+tags: []
+provenance:
+  discovered_in: ''
+  first_seen_chapter: null
+  frequency_hint: null
+  extracted_by: maas-qwen3.8-max
+  extracted_at: '2026-09-03'
+status: draft

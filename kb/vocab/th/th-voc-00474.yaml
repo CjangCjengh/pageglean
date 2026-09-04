@@ -1,0 +1,26 @@
+id: th-voc-00474
+language: th
+type: vocab
+word: ปกครอง
+reading: ''
+pos: verb
+gloss_zh: 统治；治理；管理
+gloss_detail_zh: ''
+level: ''
+level_rank: 0
+frequency:
+  rank: 474
+  count: 251
+  doc_count: 8
+examples: []
+related:
+  cross_lang: []
+  same_lang: []
+tags: []
+provenance:
+  discovered_in: ''
+  first_seen_chapter: null
+  frequency_hint: null
+  extracted_by: maas-qwen3.8-max
+  extracted_at: '2026-09-03'
+status: draft

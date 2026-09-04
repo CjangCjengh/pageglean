@@ -1,0 +1,26 @@
+id: ja-voc-00401
+language: ja
+type: vocab
+word: 真っ白
+reading: まっしろ
+pos: adj
+gloss_zh: 雪白；纯白；空白
+gloss_detail_zh: ''
+level: ''
+level_rank: 0
+frequency:
+  rank: 401
+  count: 415
+  doc_count: 18
+examples: []
+related:
+  cross_lang: []
+  same_lang: []
+tags: []
+provenance:
+  discovered_in: ''
+  first_seen_chapter: null
+  frequency_hint: null
+  extracted_by: maas-qwen3.8-max
+  extracted_at: '2026-09-03'
+status: draft

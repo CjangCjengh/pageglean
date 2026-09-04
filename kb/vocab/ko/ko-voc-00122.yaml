@@ -1,0 +1,26 @@
+id: ko-voc-00122
+language: ko
+type: vocab
+word: 남자
+reading: ''
+pos: noun
+gloss_zh: 男人；男性
+gloss_detail_zh: 汉字词源：男子
+level: ''
+level_rank: 0
+frequency:
+  rank: 122
+  count: 2558
+  doc_count: 31
+examples: []
+related:
+  cross_lang: []
+  same_lang: []
+tags: []
+provenance:
+  discovered_in: ''
+  first_seen_chapter: null
+  frequency_hint: null
+  extracted_by: maas-qwen3.8-max
+  extracted_at: '2026-09-03'
+status: draft

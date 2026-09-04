@@ -1,0 +1,26 @@
+id: ja-voc-00503
+language: ja
+type: vocab
+word: 男子
+reading: だんし
+pos: noun
+gloss_zh: 男子；男性
+gloss_detail_zh: ''
+level: ''
+level_rank: 0
+frequency:
+  rank: 503
+  count: 339
+  doc_count: 22
+examples: []
+related:
+  cross_lang: []
+  same_lang: []
+tags: []
+provenance:
+  discovered_in: ''
+  first_seen_chapter: null
+  frequency_hint: null
+  extracted_by: maas-qwen3.8-max
+  extracted_at: '2026-09-03'
+status: draft

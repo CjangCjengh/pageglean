@@ -1,0 +1,26 @@
+id: ja-voc-00923
+language: ja
+type: vocab
+word: 物言い
+reading: ものいー
+pos: noun
+gloss_zh: 说法；措辞；语气
+gloss_detail_zh: ''
+level: ''
+level_rank: 0
+frequency:
+  rank: 923
+  count: 178
+  doc_count: 13
+examples: []
+related:
+  cross_lang: []
+  same_lang: []
+tags: []
+provenance:
+  discovered_in: ''
+  first_seen_chapter: null
+  frequency_hint: null
+  extracted_by: maas-qwen3.8-max
+  extracted_at: '2026-09-03'
+status: draft

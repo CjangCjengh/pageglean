@@ -1,0 +1,26 @@
+id: th-voc-00493
+language: th
+type: vocab
+word: ยิ่ง
+reading: ''
+pos: adv
+gloss_zh: 更加；越；非常
+gloss_detail_zh: ''
+level: ''
+level_rank: 0
+frequency:
+  rank: 493
+  count: 238
+  doc_count: 10
+examples: []
+related:
+  cross_lang: []
+  same_lang: []
+tags: []
+provenance:
+  discovered_in: ''
+  first_seen_chapter: null
+  frequency_hint: null
+  extracted_by: maas-qwen3.8-max
+  extracted_at: '2026-09-03'
+status: draft

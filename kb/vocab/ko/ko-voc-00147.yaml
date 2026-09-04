@@ -1,0 +1,26 @@
+id: ko-voc-00147
+language: ko
+type: vocab
+word: 이니스
+reading: ''
+pos: noun
+gloss_zh: 伊尼斯（音译）
+gloss_detail_zh: ''
+level: ''
+level_rank: 0
+frequency:
+  rank: 147
+  count: 2177
+  doc_count: 5
+examples: []
+related:
+  cross_lang: []
+  same_lang: []
+tags: []
+provenance:
+  discovered_in: ''
+  first_seen_chapter: null
+  frequency_hint: null
+  extracted_by: maas-qwen3.8-max
+  extracted_at: '2026-09-03'
+status: draft

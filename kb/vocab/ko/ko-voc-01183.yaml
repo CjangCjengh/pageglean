@@ -1,0 +1,26 @@
+id: ko-voc-01183
+language: ko
+type: vocab
+word: 고통
+reading: ''
+pos: noun
+gloss_zh: 痛苦
+gloss_detail_zh: 汉字词源：苦痛
+level: ''
+level_rank: 0
+frequency:
+  rank: 1183
+  count: 181
+  doc_count: 28
+examples: []
+related:
+  cross_lang: []
+  same_lang: []
+tags: []
+provenance:
+  discovered_in: ''
+  first_seen_chapter: null
+  frequency_hint: null
+  extracted_by: maas-qwen3.8-max
+  extracted_at: '2026-09-03'
+status: draft

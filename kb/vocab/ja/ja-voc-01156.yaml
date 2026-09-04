@@ -1,0 +1,26 @@
+id: ja-voc-01156
+language: ja
+type: vocab
+word: 大学
+reading: だいがく
+pos: noun
+gloss_zh: 大学
+gloss_detail_zh: ''
+level: ''
+level_rank: 0
+frequency:
+  rank: 1156
+  count: 137
+  doc_count: 20
+examples: []
+related:
+  cross_lang: []
+  same_lang: []
+tags: []
+provenance:
+  discovered_in: ''
+  first_seen_chapter: null
+  frequency_hint: null
+  extracted_by: maas-qwen3.8-max
+  extracted_at: '2026-09-03'
+status: draft

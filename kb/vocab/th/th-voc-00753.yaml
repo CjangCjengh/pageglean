@@ -1,0 +1,26 @@
+id: th-voc-00753
+language: th
+type: vocab
+word: แคว้น
+reading: ''
+pos: noun
+gloss_zh: 地区；区域；邦
+gloss_detail_zh: ''
+level: ''
+level_rank: 0
+frequency:
+  rank: 753
+  count: 142
+  doc_count: 6
+examples: []
+related:
+  cross_lang: []
+  same_lang: []
+tags: []
+provenance:
+  discovered_in: ''
+  first_seen_chapter: null
+  frequency_hint: null
+  extracted_by: maas-qwen3.8-max
+  extracted_at: '2026-09-03'
+status: draft

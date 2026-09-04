@@ -1,0 +1,26 @@
+id: ja-voc-00371
+language: ja
+type: vocab
+word: 遣り取り
+reading: やりとり
+pos: noun
+gloss_zh: 交换；互动；来往
+gloss_detail_zh: ''
+level: ''
+level_rank: 0
+frequency:
+  rank: 371
+  count: 461
+  doc_count: 25
+examples: []
+related:
+  cross_lang: []
+  same_lang: []
+tags: []
+provenance:
+  discovered_in: ''
+  first_seen_chapter: null
+  frequency_hint: null
+  extracted_by: maas-qwen3.8-max
+  extracted_at: '2026-09-03'
+status: draft

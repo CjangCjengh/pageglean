@@ -1,0 +1,26 @@
+id: ja-voc-01232
+language: ja
+type: vocab
+word: 事務
+reading: じむ
+pos: noun
+gloss_zh: 事务；办公
+gloss_detail_zh: ''
+level: ''
+level_rank: 0
+frequency:
+  rank: 1232
+  count: 127
+  doc_count: 15
+examples: []
+related:
+  cross_lang: []
+  same_lang: []
+tags: []
+provenance:
+  discovered_in: ''
+  first_seen_chapter: null
+  frequency_hint: null
+  extracted_by: maas-qwen3.8-max
+  extracted_at: '2026-09-03'
+status: draft

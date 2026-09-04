@@ -1,0 +1,26 @@
+id: ja-voc-00268
+language: ja
+type: vocab
+word: 貴方
+reading: あんた
+pos: noun
+gloss_zh: 你
+gloss_detail_zh: ''
+level: ''
+level_rank: 0
+frequency:
+  rank: 268
+  count: 699
+  doc_count: 24
+examples: []
+related:
+  cross_lang: []
+  same_lang: []
+tags: []
+provenance:
+  discovered_in: ''
+  first_seen_chapter: null
+  frequency_hint: null
+  extracted_by: maas-qwen3.8-max
+  extracted_at: '2026-09-03'
+status: draft

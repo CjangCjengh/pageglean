@@ -1,0 +1,26 @@
+id: ja-voc-01496
+language: ja
+type: vocab
+word: 真剣
+reading: しんけん
+pos: adj
+gloss_zh: 认真；严肃
+gloss_detail_zh: ''
+level: ''
+level_rank: 0
+frequency:
+  rank: 1496
+  count: 101
+  doc_count: 23
+examples: []
+related:
+  cross_lang: []
+  same_lang: []
+tags: []
+provenance:
+  discovered_in: ''
+  first_seen_chapter: null
+  frequency_hint: null
+  extracted_by: maas-qwen3.8-max
+  extracted_at: '2026-09-03'
+status: draft

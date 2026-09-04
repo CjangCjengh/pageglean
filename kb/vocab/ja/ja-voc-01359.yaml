@@ -1,0 +1,26 @@
+id: ja-voc-01359
+language: ja
+type: vocab
+word: ルナ
+reading: るな
+pos: noun
+gloss_zh: 月亮；月神
+gloss_detail_zh: ''
+level: ''
+level_rank: 0
+frequency:
+  rank: 1359
+  count: 111
+  doc_count: 8
+examples: []
+related:
+  cross_lang: []
+  same_lang: []
+tags: []
+provenance:
+  discovered_in: ''
+  first_seen_chapter: null
+  frequency_hint: null
+  extracted_by: maas-qwen3.8-max
+  extracted_at: '2026-09-03'
+status: draft

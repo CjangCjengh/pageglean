@@ -1,0 +1,26 @@
+id: ja-voc-01017
+language: ja
+type: vocab
+word: 淡々
+reading: たんたん
+pos: adj
+gloss_zh: 平淡;淡泊;冷静
+gloss_detail_zh: ''
+level: ''
+level_rank: 0
+frequency:
+  rank: 1017
+  count: 160
+  doc_count: 16
+examples: []
+related:
+  cross_lang: []
+  same_lang: []
+tags: []
+provenance:
+  discovered_in: ''
+  first_seen_chapter: null
+  frequency_hint: null
+  extracted_by: maas-qwen3.8-max
+  extracted_at: '2026-09-03'
+status: draft

@@ -1,0 +1,26 @@
+id: ko-voc-00127
+language: ko
+type: vocab
+word: 한테
+reading: ''
+pos: other
+gloss_zh: 给；对；向
+gloss_detail_zh: ''
+level: ''
+level_rank: 0
+frequency:
+  rank: 127
+  count: 2451
+  doc_count: 31
+examples: []
+related:
+  cross_lang: []
+  same_lang: []
+tags: []
+provenance:
+  discovered_in: ''
+  first_seen_chapter: null
+  frequency_hint: null
+  extracted_by: maas-qwen3.8-max
+  extracted_at: '2026-09-03'
+status: draft

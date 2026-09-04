@@ -1,0 +1,26 @@
+id: th-voc-00745
+language: th
+type: vocab
+word: เหมือนกับ
+reading: ''
+pos: other
+gloss_zh: 像；和……一样
+gloss_detail_zh: ''
+level: ''
+level_rank: 0
+frequency:
+  rank: 745
+  count: 143
+  doc_count: 10
+examples: []
+related:
+  cross_lang: []
+  same_lang: []
+tags: []
+provenance:
+  discovered_in: ''
+  first_seen_chapter: null
+  frequency_hint: null
+  extracted_by: maas-qwen3.8-max
+  extracted_at: '2026-09-03'
+status: draft

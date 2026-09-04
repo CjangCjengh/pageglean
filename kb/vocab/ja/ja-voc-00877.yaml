@@ -1,0 +1,26 @@
+id: ja-voc-00877
+language: ja
+type: vocab
+word: 態々
+reading: わざわざ
+pos: adv
+gloss_zh: 特意；特地；故意
+gloss_detail_zh: ''
+level: ''
+level_rank: 0
+frequency:
+  rank: 877
+  count: 186
+  doc_count: 24
+examples: []
+related:
+  cross_lang: []
+  same_lang: []
+tags: []
+provenance:
+  discovered_in: ''
+  first_seen_chapter: null
+  frequency_hint: null
+  extracted_by: maas-qwen3.8-max
+  extracted_at: '2026-09-03'
+status: draft

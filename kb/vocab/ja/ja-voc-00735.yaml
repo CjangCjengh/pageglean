@@ -1,0 +1,26 @@
+id: ja-voc-00735
+language: ja
+type: vocab
+word: 面持ち
+reading: おももち
+pos: noun
+gloss_zh: 表情；脸色
+gloss_detail_zh: ''
+level: ''
+level_rank: 0
+frequency:
+  rank: 735
+  count: 229
+  doc_count: 16
+examples: []
+related:
+  cross_lang: []
+  same_lang: []
+tags: []
+provenance:
+  discovered_in: ''
+  first_seen_chapter: null
+  frequency_hint: null
+  extracted_by: maas-qwen3.8-max
+  extracted_at: '2026-09-03'
+status: draft

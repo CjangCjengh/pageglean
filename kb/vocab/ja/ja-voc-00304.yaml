@@ -1,0 +1,26 @@
+id: ja-voc-00304
+language: ja
+type: vocab
+word: カズキ
+reading: かずき
+pos: noun
+gloss_zh: 人名
+gloss_detail_zh: ''
+level: ''
+level_rank: 0
+frequency:
+  rank: 304
+  count: 585
+  doc_count: 3
+examples: []
+related:
+  cross_lang: []
+  same_lang: []
+tags: []
+provenance:
+  discovered_in: ''
+  first_seen_chapter: null
+  frequency_hint: null
+  extracted_by: maas-qwen3.8-max
+  extracted_at: '2026-09-03'
+status: draft

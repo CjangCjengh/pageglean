@@ -1,0 +1,26 @@
+id: ja-voc-00513
+language: ja
+type: vocab
+word: 返事
+reading: へんじ
+pos: noun
+gloss_zh: 回答；答复；回信
+gloss_detail_zh: ''
+level: ''
+level_rank: 0
+frequency:
+  rank: 513
+  count: 333
+  doc_count: 25
+examples: []
+related:
+  cross_lang: []
+  same_lang: []
+tags: []
+provenance:
+  discovered_in: ''
+  first_seen_chapter: null
+  frequency_hint: null
+  extracted_by: maas-qwen3.8-max
+  extracted_at: '2026-09-03'
+status: draft

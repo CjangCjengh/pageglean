@@ -1,0 +1,26 @@
+id: ja-voc-00630
+language: ja
+type: vocab
+word: 機会
+reading: きかい
+pos: noun
+gloss_zh: 机会
+gloss_detail_zh: ''
+level: ''
+level_rank: 0
+frequency:
+  rank: 630
+  count: 268
+  doc_count: 20
+examples: []
+related:
+  cross_lang: []
+  same_lang: []
+tags: []
+provenance:
+  discovered_in: ''
+  first_seen_chapter: null
+  frequency_hint: null
+  extracted_by: maas-qwen3.8-max
+  extracted_at: '2026-09-03'
+status: draft

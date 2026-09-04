@@ -1,0 +1,26 @@
+id: ja-voc-00634
+language: ja
+type: vocab
+word: 友達
+reading: ともだち
+pos: noun
+gloss_zh: 朋友
+gloss_detail_zh: ''
+level: ''
+level_rank: 0
+frequency:
+  rank: 634
+  count: 267
+  doc_count: 23
+examples: []
+related:
+  cross_lang: []
+  same_lang: []
+tags: []
+provenance:
+  discovered_in: ''
+  first_seen_chapter: null
+  frequency_hint: null
+  extracted_by: maas-qwen3.8-max
+  extracted_at: '2026-09-03'
+status: draft

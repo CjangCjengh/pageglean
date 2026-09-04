@@ -1,0 +1,26 @@
+id: ja-voc-01121
+language: ja
+type: vocab
+word: オギノ
+reading: おぎの
+pos: noun
+gloss_zh: 荻野（姓氏）
+gloss_detail_zh: ''
+level: ''
+level_rank: 0
+frequency:
+  rank: 1121
+  count: 143
+  doc_count: 6
+examples: []
+related:
+  cross_lang: []
+  same_lang: []
+tags: []
+provenance:
+  discovered_in: ''
+  first_seen_chapter: null
+  frequency_hint: null
+  extracted_by: maas-qwen3.8-max
+  extracted_at: '2026-09-03'
+status: draft

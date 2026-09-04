@@ -1,0 +1,26 @@
+id: ko-voc-00493
+language: ko
+type: vocab
+word: 에요
+reading: ''
+pos: expr
+gloss_zh: 是（名词后）
+gloss_detail_zh: ''
+level: ''
+level_rank: 0
+frequency:
+  rank: 493
+  count: 557
+  doc_count: 31
+examples: []
+related:
+  cross_lang: []
+  same_lang: []
+tags: []
+provenance:
+  discovered_in: ''
+  first_seen_chapter: null
+  frequency_hint: null
+  extracted_by: maas-qwen3.8-max
+  extracted_at: '2026-09-03'
+status: draft

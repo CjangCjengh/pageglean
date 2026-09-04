@@ -1,0 +1,26 @@
+id: ja-voc-01256
+language: ja
+type: vocab
+word: 部分
+reading: ぶぶん
+pos: noun
+gloss_zh: 部分
+gloss_detail_zh: ''
+level: ''
+level_rank: 0
+frequency:
+  rank: 1256
+  count: 123
+  doc_count: 24
+examples: []
+related:
+  cross_lang: []
+  same_lang: []
+tags: []
+provenance:
+  discovered_in: ''
+  first_seen_chapter: null
+  frequency_hint: null
+  extracted_by: maas-qwen3.8-max
+  extracted_at: '2026-09-03'
+status: draft

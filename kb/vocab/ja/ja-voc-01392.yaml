@@ -1,0 +1,26 @@
+id: ja-voc-01392
+language: ja
+type: vocab
+word: 歩み
+reading: あゆみ
+pos: noun
+gloss_zh: 步伐；脚步；进展
+gloss_detail_zh: ''
+level: ''
+level_rank: 0
+frequency:
+  rank: 1392
+  count: 109
+  doc_count: 14
+examples: []
+related:
+  cross_lang: []
+  same_lang: []
+tags: []
+provenance:
+  discovered_in: ''
+  first_seen_chapter: null
+  frequency_hint: null
+  extracted_by: maas-qwen3.8-max
+  extracted_at: '2026-09-03'
+status: draft

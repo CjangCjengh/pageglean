@@ -1,0 +1,26 @@
+id: ja-voc-01313
+language: ja
+type: vocab
+word: 御早う
+reading: おはよー
+pos: expr
+gloss_zh: 早上好
+gloss_detail_zh: ''
+level: ''
+level_rank: 0
+frequency:
+  rank: 1313
+  count: 116
+  doc_count: 22
+examples: []
+related:
+  cross_lang: []
+  same_lang: []
+tags: []
+provenance:
+  discovered_in: ''
+  first_seen_chapter: null
+  frequency_hint: null
+  extracted_by: maas-qwen3.8-max
+  extracted_at: '2026-09-03'
+status: draft

@@ -48,6 +48,15 @@ LANG_NOTES = {
 }
 
 
+def _kata_to_hira(s: str) -> str:
+    """词典片假名读音转平假名（长音ー保留）。"""
+    out = []
+    for c in s:
+        o = ord(c)
+        out.append(chr(o - 0x60) if 0x30A1 <= o <= 0x30F6 else c)
+    return "".join(out)
+
+
 def _template_version(name: str) -> str:
     text = (PROMPTS_DIR / name).read_text(encoding="utf-8")
     m = re.match(r"\s*version:\s*(\S+)", text)
@@ -381,7 +390,7 @@ def gloss(lang: str = "all", workers: int = 3, model: str = "qwen3.8-max",
     import asyncio
 
     from .extract.claude_runner import extract_json
-    from .llm.clients import MaasClient
+    from .llm.clients import CircuitOpen, MaasClient
 
     tpl = "gloss_batch.md.j2"
     tver = _template_version(tpl)
@@ -405,8 +414,17 @@ def gloss(lang: str = "all", workers: int = 3, model: str = "qwen3.8-max",
         led.claim(task_id)
         prompt = _render(tpl, lang=lg, lang_name=LANG_NAMES[lg], items=words)
         try:
-            raw = await client.chat(
-                [{"role": "user", "content": prompt}], max_tokens=2048, timeout=120)
+            raw = None
+            for _attempt in range(4):  # 熔断时等冷却再试，避免雪崩式失败
+                try:
+                    raw = await client.chat(
+                        [{"role": "user", "content": prompt}],
+                        max_tokens=2048, timeout=300)
+                    break
+                except CircuitOpen:
+                    await asyncio.sleep(70)
+            if raw is None:
+                raise RuntimeError("熔断未恢复")
             data = extract_json(raw)
             out_dir = DATA / "enrich" / lg
             out_dir.mkdir(parents=True, exist_ok=True)
@@ -431,6 +449,65 @@ def gloss(lang: str = "all", workers: int = 3, model: str = "qwen3.8-max",
                 typer.echo(await fut)
 
     asyncio.run(_main())
+
+
+@app.command()
+def ingest_vocab(lang: str = "all", top: int = 1500):
+    """把 M2 释义草稿 ing 成 vocab 条目（每语言按频率取 top N，id 用频率 rank 稳定编号）。"""
+    import yaml as _yaml
+
+    from .validate.models import Frequency, Provenance, VocabEntry
+
+    langs = ["ja", "ko", "th", "vi"] if lang == "all" else [lang]
+    for lg in langs:
+        tsv = CANDIDATES / lg / "vocab_candidates.tsv"
+        if not tsv.exists():
+            continue
+        freq_rows = {}
+        for r in tsv.read_text(encoding="utf-8").strip().splitlines()[1:]:
+            p = r.split("\t")
+            freq_rows[p[1]] = {"rank": int(p[0]), "reading": p[2], "count": int(p[4]),
+                               "doc_count": int(p[5])}
+        gloss = {}
+        for f in sorted((DATA / "enrich" / lg).glob("gloss_*.json")):
+            d = json.loads(f.read_text(encoding="utf-8"))
+            for g in d.get("gloss", []):
+                if g.get("word") and g.get("gloss_zh"):
+                    gloss.setdefault(g["word"], g)
+        out_dir = KB / "vocab" / lg
+        out_dir.mkdir(parents=True, exist_ok=True)
+        n = 0
+        for word, fr in sorted(freq_rows.items(), key=lambda kv: kv[1]["rank"]):
+            if fr["rank"] > top:
+                break
+            # 过滤分词器 lemma 产物（如「私-代名词」「そう-様態」）
+            if "-" in word or "代名词" in word:
+                continue
+            g = gloss.get(word)
+            if not g:
+                continue
+            entry = VocabEntry(
+                id=f"{lg}-voc-{fr['rank']:05d}",
+                language=lg,
+                word=word,
+                reading=_kata_to_hira(fr["reading"]) if lg == "ja" else "",
+                pos=g.get("pos", ""),
+                gloss_zh=g.get("gloss_zh", ""),
+                gloss_detail_zh=g.get("hanja", "") and f"汉字词源：{g.get('hanja')}" or "",
+                frequency=Frequency(rank=fr["rank"], count=fr["count"],
+                                    doc_count=fr["doc_count"]),
+                provenance=Provenance(extracted_by="maas-qwen3.8-max",
+                                      extracted_at="2026-09-03"),
+                status="draft",
+            )
+            out = out_dir / f"{entry.id}.yaml"
+            tmp = out.with_suffix(".yaml.tmp")
+            tmp.write_text(_yaml.safe_dump(entry.model_dump(mode="json"),
+                                           allow_unicode=True, sort_keys=False),
+                           encoding="utf-8")
+            tmp.replace(out)
+            n += 1
+        typer.echo(f"[ingest-vocab] {lg}: {n} 条")
 
 
 @app.command()

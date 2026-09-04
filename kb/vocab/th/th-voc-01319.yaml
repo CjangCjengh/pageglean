@@ -1,0 +1,26 @@
+id: th-voc-01319
+language: th
+type: vocab
+word: ด้านบน
+reading: ''
+pos: noun
+gloss_zh: 上面；上方；上部
+gloss_detail_zh: ''
+level: ''
+level_rank: 0
+frequency:
+  rank: 1319
+  count: 71
+  doc_count: 10
+examples: []
+related:
+  cross_lang: []
+  same_lang: []
+tags: []
+provenance:
+  discovered_in: ''
+  first_seen_chapter: null
+  frequency_hint: null
+  extracted_by: maas-qwen3.8-max
+  extracted_at: '2026-09-03'
+status: draft

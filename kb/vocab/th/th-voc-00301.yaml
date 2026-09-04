@@ -1,0 +1,26 @@
+id: th-voc-00301
+language: th
+type: vocab
+word: ตรง
+reading: ''
+pos: adj
+gloss_zh: 直;直接;正
+gloss_detail_zh: ''
+level: ''
+level_rank: 0
+frequency:
+  rank: 301
+  count: 379
+  doc_count: 10
+examples: []
+related:
+  cross_lang: []
+  same_lang: []
+tags: []
+provenance:
+  discovered_in: ''
+  first_seen_chapter: null
+  frequency_hint: null
+  extracted_by: maas-qwen3.8-max
+  extracted_at: '2026-09-03'
+status: draft

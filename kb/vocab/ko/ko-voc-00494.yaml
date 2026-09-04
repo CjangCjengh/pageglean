@@ -1,0 +1,26 @@
+id: ko-voc-00494
+language: ko
+type: vocab
+word: 주위
+reading: ''
+pos: noun
+gloss_zh: 周围；附近
+gloss_detail_zh: 汉字词源：周圍
+level: ''
+level_rank: 0
+frequency:
+  rank: 494
+  count: 556
+  doc_count: 28
+examples: []
+related:
+  cross_lang: []
+  same_lang: []
+tags: []
+provenance:
+  discovered_in: ''
+  first_seen_chapter: null
+  frequency_hint: null
+  extracted_by: maas-qwen3.8-max
+  extracted_at: '2026-09-03'
+status: draft

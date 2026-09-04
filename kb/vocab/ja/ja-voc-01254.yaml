@@ -1,0 +1,26 @@
+id: ja-voc-01254
+language: ja
+type: vocab
+word: 幸い
+reading: さいわい
+pos: adj
+gloss_zh: 幸亏；幸运
+gloss_detail_zh: ''
+level: ''
+level_rank: 0
+frequency:
+  rank: 1254
+  count: 123
+  doc_count: 19
+examples: []
+related:
+  cross_lang: []
+  same_lang: []
+tags: []
+provenance:
+  discovered_in: ''
+  first_seen_chapter: null
+  frequency_hint: null
+  extracted_by: maas-qwen3.8-max
+  extracted_at: '2026-09-03'
+status: draft

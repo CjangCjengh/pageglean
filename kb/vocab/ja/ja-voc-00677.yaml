@@ -1,0 +1,26 @@
+id: ja-voc-00677
+language: ja
+type: vocab
+word: 取り敢えず
+reading: とりあえず
+pos: adv
+gloss_zh: 首先；暂且；姑且
+gloss_detail_zh: ''
+level: ''
+level_rank: 0
+frequency:
+  rank: 677
+  count: 248
+  doc_count: 24
+examples: []
+related:
+  cross_lang: []
+  same_lang: []
+tags: []
+provenance:
+  discovered_in: ''
+  first_seen_chapter: null
+  frequency_hint: null
+  extracted_by: maas-qwen3.8-max
+  extracted_at: '2026-09-03'
+status: draft

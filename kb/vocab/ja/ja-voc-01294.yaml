@@ -1,0 +1,26 @@
+id: ja-voc-01294
+language: ja
+type: vocab
+word: 将来
+reading: しょーらい
+pos: noun
+gloss_zh: 将来；未来；前途
+gloss_detail_zh: ''
+level: ''
+level_rank: 0
+frequency:
+  rank: 1294
+  count: 119
+  doc_count: 23
+examples: []
+related:
+  cross_lang: []
+  same_lang: []
+tags: []
+provenance:
+  discovered_in: ''
+  first_seen_chapter: null
+  frequency_hint: null
+  extracted_by: maas-qwen3.8-max
+  extracted_at: '2026-09-03'
+status: draft

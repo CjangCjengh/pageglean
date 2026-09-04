@@ -1,0 +1,26 @@
+id: ja-voc-01252
+language: ja
+type: vocab
+word: 上位
+reading: じょーい
+pos: noun
+gloss_zh: 上位；高位；上级
+gloss_detail_zh: ''
+level: ''
+level_rank: 0
+frequency:
+  rank: 1252
+  count: 124
+  doc_count: 17
+examples: []
+related:
+  cross_lang: []
+  same_lang: []
+tags: []
+provenance:
+  discovered_in: ''
+  first_seen_chapter: null
+  frequency_hint: null
+  extracted_by: maas-qwen3.8-max
+  extracted_at: '2026-09-03'
+status: draft

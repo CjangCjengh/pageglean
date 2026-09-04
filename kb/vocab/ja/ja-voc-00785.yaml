@@ -1,0 +1,26 @@
+id: ja-voc-00785
+language: ja
+type: vocab
+word: 魔術
+reading: まじゅつ
+pos: noun
+gloss_zh: 魔术；魔法
+gloss_detail_zh: ''
+level: ''
+level_rank: 0
+frequency:
+  rank: 785
+  count: 213
+  doc_count: 3
+examples: []
+related:
+  cross_lang: []
+  same_lang: []
+tags: []
+provenance:
+  discovered_in: ''
+  first_seen_chapter: null
+  frequency_hint: null
+  extracted_by: maas-qwen3.8-max
+  extracted_at: '2026-09-03'
+status: draft

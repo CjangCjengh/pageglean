@@ -1,0 +1,26 @@
+id: ko-voc-00490
+language: ko
+type: vocab
+word: 강하다
+reading: ''
+pos: adj
+gloss_zh: 强；强烈
+gloss_detail_zh: 汉字词源：強
+level: ''
+level_rank: 0
+frequency:
+  rank: 490
+  count: 562
+  doc_count: 31
+examples: []
+related:
+  cross_lang: []
+  same_lang: []
+tags: []
+provenance:
+  discovered_in: ''
+  first_seen_chapter: null
+  frequency_hint: null
+  extracted_by: maas-qwen3.8-max
+  extracted_at: '2026-09-03'
+status: draft

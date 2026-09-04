@@ -1,0 +1,56 @@
+---
+import Base from '../../../layouts/Base.astro';
+import Flag from '../../../components/Flag.astro';
+import { LANG_META, POS_LABEL, type Lang } from '../../../lib/langs';
+import { getCollection } from 'astro:content';
+
+export async function getStaticPaths() {
+  const entries = await getCollection('vocab');
+  return entries.map((e) => ({ params: { lang: e.data.language, id: e.data.id }, props: { entry: e } }));
+}
+
+const { entry } = Astro.props;
+const d = entry.data;
+const lang = d.language as Lang;
+const meta = LANG_META[lang];
+const hasKanji = /[一-鿿]/.test(d.word);
+---
+
+<span hidden data-pagefind-filter={`language:${lang}`}></span>
+<span hidden data-pagefind-filter="type:vocab" data-pagefind-sort={`freq_rank:${d.frequency?.rank ?? 99999}`}></span>
+
+<Base title={`${d.word} · ${meta.name}词汇 · 拾页`}>
+  <a href={`/vocab/${lang}/1`} class="flex items-center gap-1.5 text-sm text-faint transition hover:text-sub">
+    ← <Flag lang={lang} class="h-3.5 w-5" /> {meta.name}词汇库
+  </a>
+
+  <div class="glass mt-6 rounded-2xl p-8">
+    <div class="flex flex-wrap items-baseline gap-4">
+      {lang === 'ja' && d.reading && hasKanji ? (
+        <h1 class="text-4xl font-bold text-strong font-[family-name:var(--font-jp)]">
+          <ruby>{d.word}<rt class="text-base">{d.reading}</rt></ruby>
+        </h1>
+      ) : (
+        <h1 class="text-4xl font-bold text-strong">{d.word}</h1>
+      )}
+      {d.reading && !(lang === 'ja' && hasKanji) && <span class="text-lg text-sub">{d.reading}</span>}
+      <span class="rounded-lg px-2.5 py-0.5 text-sm font-bold text-white" style={`background:${meta.accent}`}>
+        词频 #{d.frequency?.rank}
+      </span>
+    </div>
+
+    <p class="mt-6 text-xl text-strong">{d.gloss_zh}</p>
+
+    <div class="mt-4 flex flex-wrap gap-2 text-sm">
+      {d.pos && <span class="chip rounded-full px-3 py-1 text-sub">{POS_LABEL[d.pos] || d.pos}</span>}
+      {d.gloss_detail_zh && <span class="chip rounded-full px-3 py-1 text-sub">{d.gloss_detail_zh}</span>}
+      <span class="chip rounded-full px-3 py-1 text-sub">
+        出现在 {d.frequency?.doc_count ?? '—'} 本书 · 共 {d.frequency?.count ?? '—'} 次
+      </span>
+    </div>
+  </div>
+
+  <p class="mt-6 text-xs text-faint">
+    释义由 AI 自动生成（qwen3.8-max），可能有误；以权威词典为准。
+  </p>
+</Base>

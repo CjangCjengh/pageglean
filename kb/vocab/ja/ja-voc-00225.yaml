@@ -1,0 +1,26 @@
+id: ja-voc-00225
+language: ja
+type: vocab
+word: 直ぐ
+reading: すぐ
+pos: adv
+gloss_zh: 马上；立刻；正直
+gloss_detail_zh: ''
+level: ''
+level_rank: 0
+frequency:
+  rank: 225
+  count: 814
+  doc_count: 25
+examples: []
+related:
+  cross_lang: []
+  same_lang: []
+tags: []
+provenance:
+  discovered_in: ''
+  first_seen_chapter: null
+  frequency_hint: null
+  extracted_by: maas-qwen3.8-max
+  extracted_at: '2026-09-03'
+status: draft

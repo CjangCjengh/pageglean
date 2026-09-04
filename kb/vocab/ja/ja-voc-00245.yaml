@@ -1,0 +1,26 @@
+id: ja-voc-00245
+language: ja
+type: vocab
+word: ガブリエラ
+reading: がぶりえら
+pos: noun
+gloss_zh: 加布里埃拉；女子名
+gloss_detail_zh: ''
+level: ''
+level_rank: 0
+frequency:
+  rank: 245
+  count: 764
+  doc_count: 11
+examples: []
+related:
+  cross_lang: []
+  same_lang: []
+tags: []
+provenance:
+  discovered_in: ''
+  first_seen_chapter: null
+  frequency_hint: null
+  extracted_by: maas-qwen3.8-max
+  extracted_at: '2026-09-03'
+status: draft

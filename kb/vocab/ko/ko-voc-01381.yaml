@@ -1,0 +1,26 @@
+id: ko-voc-01381
+language: ko
+type: vocab
+word: 계단
+reading: ''
+pos: noun
+gloss_zh: 阶梯；台阶
+gloss_detail_zh: 汉字词源：階段
+level: ''
+level_rank: 0
+frequency:
+  rank: 1381
+  count: 149
+  doc_count: 27
+examples: []
+related:
+  cross_lang: []
+  same_lang: []
+tags: []
+provenance:
+  discovered_in: ''
+  first_seen_chapter: null
+  frequency_hint: null
+  extracted_by: maas-qwen3.8-max
+  extracted_at: '2026-09-03'
+status: draft

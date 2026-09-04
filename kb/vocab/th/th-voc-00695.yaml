@@ -1,0 +1,26 @@
+id: th-voc-00695
+language: th
+type: vocab
+word: ฝั่ง
+reading: ''
+pos: noun
+gloss_zh: 岸；岸边
+gloss_detail_zh: ''
+level: ''
+level_rank: 0
+frequency:
+  rank: 695
+  count: 155
+  doc_count: 10
+examples: []
+related:
+  cross_lang: []
+  same_lang: []
+tags: []
+provenance:
+  discovered_in: ''
+  first_seen_chapter: null
+  frequency_hint: null
+  extracted_by: maas-qwen3.8-max
+  extracted_at: '2026-09-03'
+status: draft

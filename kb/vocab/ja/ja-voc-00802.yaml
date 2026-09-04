@@ -1,0 +1,26 @@
+id: ja-voc-00802
+language: ja
+type: vocab
+word: 一連
+reading: いちれん
+pos: noun
+gloss_zh: 一系列；一连串
+gloss_detail_zh: ''
+level: ''
+level_rank: 0
+frequency:
+  rank: 802
+  count: 207
+  doc_count: 19
+examples: []
+related:
+  cross_lang: []
+  same_lang: []
+tags: []
+provenance:
+  discovered_in: ''
+  first_seen_chapter: null
+  frequency_hint: null
+  extracted_by: maas-qwen3.8-max
+  extracted_at: '2026-09-03'
+status: draft

@@ -1,0 +1,26 @@
+id: ko-voc-01373
+language: ko
+type: vocab
+word: 도무지
+reading: ''
+pos: adv
+gloss_zh: 根本；完全（用于否定）
+gloss_detail_zh: ''
+level: ''
+level_rank: 0
+frequency:
+  rank: 1373
+  count: 150
+  doc_count: 23
+examples: []
+related:
+  cross_lang: []
+  same_lang: []
+tags: []
+provenance:
+  discovered_in: ''
+  first_seen_chapter: null
+  frequency_hint: null
+  extracted_by: maas-qwen3.8-max
+  extracted_at: '2026-09-03'
+status: draft

@@ -1,0 +1,26 @@
+id: ja-voc-01221
+language: ja
+type: vocab
+word: 学生
+reading: がくせー
+pos: noun
+gloss_zh: 学生
+gloss_detail_zh: ''
+level: ''
+level_rank: 0
+frequency:
+  rank: 1221
+  count: 127
+  doc_count: 18
+examples: []
+related:
+  cross_lang: []
+  same_lang: []
+tags: []
+provenance:
+  discovered_in: ''
+  first_seen_chapter: null
+  frequency_hint: null
+  extracted_by: maas-qwen3.8-max
+  extracted_at: '2026-09-03'
+status: draft

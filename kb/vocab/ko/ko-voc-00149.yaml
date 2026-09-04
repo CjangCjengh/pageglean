@@ -1,0 +1,26 @@
+id: ko-voc-00149
+language: ko
+type: vocab
+word: ᆫ데
+reading: ''
+pos: other
+gloss_zh: 但是；可是；不过
+gloss_detail_zh: ''
+level: ''
+level_rank: 0
+frequency:
+  rank: 149
+  count: 2146
+  doc_count: 31
+examples: []
+related:
+  cross_lang: []
+  same_lang: []
+tags: []
+provenance:
+  discovered_in: ''
+  first_seen_chapter: null
+  frequency_hint: null
+  extracted_by: maas-qwen3.8-max
+  extracted_at: '2026-09-03'
+status: draft
