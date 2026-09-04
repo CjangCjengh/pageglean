@@ -1,0 +1,31 @@
+id: ja-grm-00253
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 「〜のに」：预期落空的逆接
+structure: 用言連体形 ＋ 形式名詞「の」 ＋ 助詞「に」
+structure_pattern: V/A-連体形 + のに
+explanation_zh: 「のに」表示与预期相反的结果，带有意外、不满或遗憾的语气，前项是原本的打算或期待。本段“本想调成手电筒程度的亮度，却爆发出灯塔级的光量”，落差感正是由「のに」带出。
+examples:
+- text: 懐中電灯くらいにしようと思っていたのに、瞬間的に灯台並の光量が発生した。
+  reading: ''
+  annot: 懐中電灯くらいにしようと思っていたのに、瞬間的に灯台並の光量が発生した。
+  translation_zh: 明明只想弄成手电筒那样的亮度，一瞬间却迸发出了堪比灯塔的光量。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 接续
+- 语气
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

@@ -1,0 +1,31 @@
+id: ja-grm-00576
+language: ja
+type: grammar
+level: N3
+level_rank: 3
+title: 「〜次第だ」：全看……而定
+structure: 体言＋形式名詞「次第」＋だ
+structure_pattern: N + 次第だ
+explanation_zh: 形式名词「次第」接在体言后，表示『完全取决于……、全看……』。片段「おまえら次第だ」即『接下来就看你们自己了』。另注意「〜次第」还有『一……马上……』的意思，属另一用法。
+examples:
+- text: そこから先はおまえら次第だ！
+  reading: ''
+  annot: そこから先[さき]はおまえら次第[しだい]だ！
+  translation_zh: 从那以后，就看你们自己的了！
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 形式名词
+- 语气
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

@@ -1,0 +1,31 @@
+id: th-grm-00038
+language: th
+type: grammar
+level: L1
+level_rank: 1
+title: หรือเปล่า：是非疑问
+structure: 陈述句 + หรือเปล่า（构成是非问句）
+structure_pattern: S/มี… + หรือเปล่า
+explanation_zh: 「หรือเปล่า」附在陈述句后构成是非问句，相当于中文“……吗、是不是……”。与疑问助词 ไหม 相比结构更完整、语气更正式，二者常可互换。片段中的
+  “มีอะไรหรือเปล่า?” 即“有什么事吗？”
+examples:
+- text: มี​อะไร​หรือเปล่า?
+  reading: ''
+  annot: มี​อะไร​หรือเปล่า?
+  translation_zh: 有什么事吗？
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 疑问结构
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

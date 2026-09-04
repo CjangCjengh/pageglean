@@ -1,0 +1,31 @@
+id: ja-grm-00123
+language: ja
+type: grammar
+level: N2
+level_rank: 4
+title: 「〜以上」：既然……就……
+structure: 動詞連体形 ＋ 以上
+structure_pattern: V連体形 + 以上
+explanation_zh: 「〜以上」接动词连体形，以前项为既定事实或前提，推出后项的结论、义务或推断，意为"既然……就……"。句中即"既然写着'能力看破'，就应该有查看他人状态的效果"。语气郑重、偏书面。
+examples:
+- text: どんな形式にしろ『能力看破』とある以上、他人のステータスを見る効果はあるはずだ
+  reading: ''
+  annot: どんな形式[けいしき]にしろ『能力看破[のうりょくかんぱ]』とある以上[いじょう]、他人[たにん]のステータスを見[み]る効果[こうか]はあるはずだ
+  translation_zh: 不管是什么形式，既然写着"能力看破"，就应该有查看他人状态的效果。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 接续
+- 语气
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 4
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

@@ -1,0 +1,39 @@
+id: ko-grm-00272
+language: ko
+type: grammar
+level: TOPIK2
+level_rank: 2
+title: -(으)ㄹ 수 있다/없다：可能性
+structure: 动词词干 + -(으)ㄹ 수 있다/없다（관형사형 전성어미 + 의존명사 '수'）
+structure_pattern: 용언 어간 + 관형사형 전성어미 -(으)ㄹ + 의존명사 '수' + 있다/없다
+explanation_zh: 由冠形词形转换词尾 -(으)ㄹ 加依存名词 수 构成，表示有能力或条件做某事，相当于中文的“能、可以”，否定用 -(으)ㄹ 수 없다。片段中出现频率极高，如“깎을
+  수 있을 거라”还叠加了推测表达 -(으)ㄹ 것이다。
+examples:
+- text: 치명상을 입히지는 못하더라도 성궤검을 둔기로 사용해 계속해서 구타한다면 체력 정도는 깎을 수 있을 거라 생각하면서.
+  reading: ''
+  annot: 치명상을 입히지는 못하더라도 성궤검을 둔기로 사용해 계속해서 구타한다면 체력 정도는 깎을 수 있을 거라 생각하면서.
+  translation_zh: 就算无法造成致命伤，只要把圣柜剑当作钝器不断殴打，总归能削减一些体力——她这样想着。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+- text: 당신은 아무것도 없는 허공에서도 검을 출현시킬 수 있어.
+  reading: ''
+  annot: 당신은 아무것도 없는 허공에서도 검을 출현시킬 수 있어.
+  translation_zh: 你连在空无一物的虚空中也能具现出剑来。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 可能
+- 依存名词
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 5
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

@@ -1,0 +1,39 @@
+id: ko-grm-00124
+language: ko
+type: grammar
+level: TOPIK2
+level_rank: 2
+title: 「-기 위해(서)：书面化的目的表达」
+structure: 动词 + -기 위하-여(서)（명사형 전성어미 -기 + 위하다）
+structure_pattern: V-기 위해(서)
+explanation_zh: -기 위해(서)表示行为的目的，比-(으)러、-려고更正式，多用于书面语和叙述性文体。在句末以"…위해"收束时，可对前述行为追加目的性说明，制造余韵。中文译为"为了……"。
+examples:
+- text: 미궁을 차지하기 위해, 그리고 훗날의 절대 권력자가 되기 위해.
+  reading: ''
+  annot: 미궁을 차지하기 위해, 그리고 훗날의 절대 권력자가 되기 위해.
+  translation_zh: 为了夺取迷宫，也为了成为日后的绝对掌权者。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+- text: 아즐란이 도망칠 시간을 벌기 위해 자폭해서 말이야.
+  reading: ''
+  annot: 아즐란이 도망칠 시간을 벌기 위해 자폭해서 말이야.
+  translation_zh: 她为了给阿玆兰争取逃跑的时间而自爆了。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 接续
+- 目的
+- 书面语
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

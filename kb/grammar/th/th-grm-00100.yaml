@@ -1,0 +1,32 @@
+id: th-grm-00100
+language: th
+type: grammar
+level: L2
+level_rank: 2
+title: เป็น：会（习得的能力）
+structure: 动词 + เป็น（会、掌握）；否定：ไม่เป็น
+structure_pattern: V + เป็น / ไม่เป็น
+explanation_zh: 动词后加 เป็น 表示「会做某事」，强调通过学习、练习而获得的技能，否定用 ไม่เป็น。它与表示「能够／条件允许」的 ได้
+  不同，对应中文的「会」。如 ทำอาหารไม่เป็น（不会做饭）、พยายามทำให้เป็น（努力学会做到）。
+examples:
+- text: ดา​ถึง​ต้อง​พยายาม​ทำให้​เป็น
+  reading: ''
+  annot: ดา​ถึง​ต้อง​พยายาม​ทำให้​เป็น
+  translation_zh: 达才不得不努力学，直到学会。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 能力
+- 动词
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

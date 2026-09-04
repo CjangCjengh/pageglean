@@ -1,0 +1,32 @@
+id: ja-grm-00311
+language: ja
+type: grammar
+level: N2
+level_rank: 4
+title: 文语助动词「べし」：命令与义务（须～、应当～）
+structure: 動詞終止形＋べし（ラ変は連体形接続）
+structure_pattern: V-終止形 + べし
+explanation_zh: 「べし」是学校文法中的文语助动词，接动词终止形，表示义务、命令或理所当然，现代语相当于「〜べきだ」。公文、书信、军令等书面语至今仍用「すべし」作结，语气斩钉截铁。文中书信以此下达留驻护卫的命令。
+examples:
+- text: 貴君は、その世界に留まり彼らを警護すべし
+  reading: ''
+  annot: 貴君[きくん]は、その世界[せかい]に留[とど]まり彼[かれ]らを警護[けいご]すべし
+  translation_zh: 你须留在那个世界，警护他们。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 文語
+- 助動詞
+- 命令
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

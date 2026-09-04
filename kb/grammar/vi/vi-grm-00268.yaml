@@ -1,0 +1,31 @@
+id: vi-grm-00268
+language: vi
+type: grammar
+level: L2
+level_rank: 2
+title: Tự + V：自己——强调自主发出
+structure: Tự + 动词（副词性修饰，强调施事者本人）
+structure_pattern: Tự + V
+explanation_zh: 「Tự」置于动词前，强调动作由当事人自己发出、与他人无关，相当于“自己、亲自”。本段中小 Li 用「Tự em té」辩称无人推她，是澄清责任归属的常用说法。汉语“自己”位置灵活，越南语「tự」须紧贴动词之前。
+examples:
+- text: Tự em té. Không có ai xô hết.
+  reading: ''
+  annot: Tự em té. Không có ai xô hết.
+  translation_zh: 是我自己摔的。没有谁推我。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 副词
+- 强调
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

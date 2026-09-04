@@ -1,0 +1,32 @@
+id: vi-grm-00403
+language: vi
+type: grammar
+level: L3
+level_rank: 3
+title: 「mất」：表示失去的结果补语
+structure: 动词 + mất (+ rồi)
+structure_pattern: V + mất (bổ ngữ kết quả)
+explanation_zh: mất 作结果补语（bổ ngữ kết quả）置于动词后，表示动作导致事物消失、不再拥有，带有“失去”的语义，相当于中文“…掉了/…没了”。片段中“bán
+  mất rồi”指房子被卖掉、不复拥有。与表积极结果的 được 相对，mất 含消极/失去意味。
+examples:
+- text: Nhà mày bán mất rồi, mày về đây mày ở đâu?
+  reading: ''
+  annot: Nhà mày bán mất rồi, mày về đây mày ở đâu?
+  translation_zh: 你家房子都卖掉了，你回来住哪儿？
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 补语
+- 体貌
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

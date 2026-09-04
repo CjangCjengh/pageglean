@@ -1,0 +1,32 @@
+id: ko-grm-00117
+language: ko
+type: grammar
+level: TOPIK2
+level_rank: 2
+title: -(으)ㄹ게：我来……（约定与决心）
+structure: 동사 어간 + 종결어미(终结词尾) -(으)ㄹ게(요)
+structure_pattern: V-(으)ㄹ게(요)
+explanation_zh: 终结词尾（종결어미），表示当场向听话人作出约定、承诺，或宣布自己的决心，主语须为第一人称。片段中“내가 상대할게”意为“我来应付吧”，带有主动揽下任务的语气。敬语形式为
+  -ㄹ게요。
+examples:
+- text: 내가 상대할게.
+  reading: ''
+  annot: 내가 상대할게.
+  translation_zh: 我来应付（它们）吧。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 终结词尾
+- 语气
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

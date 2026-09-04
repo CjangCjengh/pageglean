@@ -1,0 +1,31 @@
+id: ja-grm-00184
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 〜ておく：事先做好（含「〜ておきながら」「〜ておかねば」）
+structure: 动词连用形 + 接续助词「て」+ 补助动词「おく」
+structure_pattern: 動詞連用形＋接続助詞「て」＋補助動詞「おく」
+explanation_zh: 补助动词「おく」接动词连用形（经接续助词「て」），表示为之后的事预先做好某事。「頼んでおきながら」中「ながら」为逆接，意为“明明事先拜托了却……”；「打ち込んでおかねば」是「おかなければ」的文语性缩略，表“必须事先输入好”。
+examples:
+- text: 最後に『うｐ主、ＧＪ』と打ち込んでおかねば
+  reading: ''
+  annot: 最後[さいご]に『うｐ主[ぬし]、ＧＪ』と打[う]ち込[こ]んでおかねば
+  translation_zh: 最后还得事先输入一句“up主，GJ”才行。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 体貌
+- 接续
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

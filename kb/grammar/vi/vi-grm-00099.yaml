@@ -1,0 +1,41 @@
+id: vi-grm-00099
+language: vi
+type: grammar
+level: L1
+level_rank: 1
+title: 量词（类词）：tô / chén / ổ / con
+structure: 数词 + 量词（danh từ chỉ đơn vị）+ 名词
+structure_pattern: Num + CL + N
+explanation_zh: 越南语数词修饰名词一般须加量词（类词），语序「数词＋量词＋名词」与汉语相同。片段中：tô（大碗，如 cơm chiên）、chén（小杯盏，如
+  nước mắm）、ổ（面包专用量词，một ổ bánh mì）、con（用于动物及指小孩、姑娘，如 con nhỏ này）。量词选择取决于名词的类别，须逐个记忆。
+examples:
+- text: Trên bàn ăn, mẹ tôi đã để sẵn cho tôi một tô cơm chiên và một chén nước mắm
+    đậy dưới lòng bàn.
+  reading: ''
+  annot: Trên bàn ăn, mẹ tôi đã để sẵn cho tôi một tô cơm chiên và một chén nước mắm
+    đậy dưới lòng bàn.
+  translation_zh: 饭桌上，妈妈早已给我备好一碗炒饭和一小碗鱼露，盖在饭罩下面。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+- text: Thôi để em chạy về lấy ổ bánh mì qua anh với em ăn, khỏi để dành nữa.
+  reading: ''
+  annot: Thôi để em chạy về lấy ổ bánh mì qua anh với em ăn, khỏi để dành nữa.
+  translation_zh: 那我还是跑回家取来那只面包，哥哥和我一起吃，不留着了。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 量词
+- 名词短语
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 6
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

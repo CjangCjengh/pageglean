@@ -1,0 +1,31 @@
+id: vi-grm-00176
+language: vi
+type: grammar
+level: L3
+level_rank: 3
+title: bao nhiêu…bấy nhiêu…：多少…就多少…（关联呼应）
+structure: bao nhiêu + 名词/动词短语 …, bấy nhiêu …
+structure_pattern: bao nhiêu + X … bấy nhiêu + (X)
+explanation_zh: 越南语的关联呼应结构（成对虚词搭配）：前句用 bao nhiêu（多少），后句用 bấy nhiêu（那么多）呼应，表示两个数量联动。相当于汉语「…多少，就…多少」。多用于强调数量之多。
+examples:
+- text: Đổ bao nhiêu nước ra ngoài bấy nhiêu!
+  reading: ''
+  annot: Đổ bao nhiêu nước ra ngoài bấy nhiêu!
+  translation_zh: 倒了多少水，就有多少洒到了外面！
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 关联结构
+- 数量
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

@@ -1,0 +1,31 @@
+id: ja-grm-00199
+language: ja
+type: grammar
+level: N2
+level_rank: 4
+title: 「〜以上（は）」：既然……就……
+structure: 用言連体形 + 形式名詞「以上」
+structure_pattern: V-連体形 + 以上
+explanation_zh: 形式名词「以上」接在动词连体形之后，表示前项事实既然已经成立，后项的结论或义务便随之而来，语气比「から」更强。常见搭配为「〜た以上」。文中与「撤回は無理」呼应，强调话已出口不可反悔。
+examples:
+- text: 『俺が行く』と言ってしまった以上、撤回は無理。
+  reading: ''
+  annot: 『俺[おれ]が行[い]く』と言[い]ってしまった以上[いじょう]、撤回[てったい]は無理[むり]。
+  translation_zh: 既然我已经说出“我去”，就没法收回了。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 理由
+- 接続
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

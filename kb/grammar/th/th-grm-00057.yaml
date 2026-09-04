@@ -1,0 +1,32 @@
+id: th-grm-00057
+language: th
+type: grammar
+level: L4
+level_rank: 4
+title: อยู่ดี ๆ ก็：冷不防、突然……
+structure: อยู่ดี ๆ ก็ + V（出乎意料的突然动作）
+structure_pattern: อยู่ดี ๆ ก็ + V
+explanation_zh: 「อยู่ดี ๆ ก็ + 动词」表示「本来好好的，冷不防突然……」，强调动作出乎意料，多带惊讶、不满或哭笑不得的语气。片段里用来吐槽对方突然抛出沉重的请求，像打直拳一样让人措手不及。是口语高频表达。
+examples:
+- text: อยู่​ดี ๆ ก็​ปล่อยหมัด​ตรง​มาเลย​เรอะ จะ​ตรง​เกินไป​แล้ว​เฮ้ย!
+  reading: ''
+  annot: อยู่​ดี ๆ ก็​ปล่อยหมัด​ตรง​มาเล
+  translation_zh: 本来好好的，冷不防就打出一记直拳啊，也太直接了吧！
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 语气
+- 口语
+- 副词
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

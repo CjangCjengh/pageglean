@@ -1,0 +1,39 @@
+id: ko-grm-00222
+language: ko
+type: grammar
+level: TOPIK2
+level_rank: 2
+title: -면서/-(으)며：一边……一边……
+structure: 동사 어간 + 동시 동작 연결어미 '-면서 / -(으)며'
+structure_pattern: V + -면서 / -(으)며
+explanation_zh: '''-면서/-(으)며''表示两个动作同时进行，-며是-면서的书面体形式，前后分句主语通常一致。本段用“호위하면서”“끄덕이며”等，刻画一边做某动作一边进行另一动作的情景。对应中文的“一边……一边……”。'
+examples:
+- text: 틸프, 너는 주군을 호위하면서 그녀와 몇 번 부딪힌 적이 있을 거다.
+  reading: ''
+  annot: 틸프, 너는 주군을 호위하면서 그녀와 몇 번 부딪힌 적이 있을 거다.
+  translation_zh: 蒂尔普，你（因为）护卫主君，应该和她交过几次手。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+- text: 마이시아가 고개를 끄덕이며 말했다.
+  reading: ''
+  annot: 마이시아가 고개를 끄덕이며 말했다.
+  translation_zh: 米西亚一边点头一边说。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 接续
+- 同时动作
+- 连接词尾
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 4
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

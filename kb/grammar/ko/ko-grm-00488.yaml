@@ -1,0 +1,33 @@
+id: ko-grm-00488
+language: ko
+type: grammar
+level: TOPIK6
+level_rank: 6
+title: -ㄹ 턱이 없다：怎么可能……
+structure: 용언 어간 + 관형사형 전성어미 '-ㄹ' + 의존명사 '턱' + 주격 조사 '이' + 형용사 '없다'
+structure_pattern: V/A-ㄹ + 턱이 없다
+explanation_zh: 表示从道理或常理上完全不可能，相当于中文的“哪能……”“怎么可能……”。턱 是依存名词，此处表“道理、理由”。语气比 -ㄹ 수 없다
+  更强烈，带有理所当然的否定意味。
+examples:
+- text: 내 초조함은 알 턱이 없는 키이리는, 그 위태위태한 상태로, 심지어 의자를 앞뒤로 조금씩 흔들며 잔뜩 들뜬 표정이 됐다.
+  reading: ''
+  annot: 내 초조함은 알 턱이 없는 키이리는, 그 위태위태한 상태로, 심지어 의자를 앞뒤로 조금씩 흔들며 잔뜩 들뜬 표정이 됐다.
+  translation_zh: 基里哪能知道我内心的焦急，她就那样岌岌可危地坐着，甚至前后轻轻摇晃着椅子，一脸兴奋。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 否定
+- 依存名词
+- 语气
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

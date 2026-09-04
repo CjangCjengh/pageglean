@@ -1,0 +1,38 @@
+id: ja-grm-00098
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 「〜のだが」：解释语气与欲言又止（のだ）
+structure: 用言终止形 + 形式名词「の(ん)」+ 助动词「だ」+ 接续助词「が」
+structure_pattern: 終止形 + のだ(が)
+explanation_zh: 形式名词「の」（口语中音变为「ん」）加断定助动词「だ」构成解释语气，用于说明、强调或自我说服。句末再接接续助词「が」则欲言又止、暗示转折，是轻小说内心独白的典型句式。如「危ない気がするのだが……？」即“总觉得很危险，不过……？”。
+examples:
+- text: 『一人暮らしの同い年の少年』と生活するには危ない気がするのだが……？
+  reading: ''
+  annot: 『一人[ひとり]暮[ぐ]らしの同[おな]い年[とし]の少年[しょうねん]』と生活[せいかつ]するには危[あぶ]ない気[き]がするのだが……？
+  translation_zh: 可是总觉得，跟“独居的同龄男生”一起生活会很危险啊……？
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+- text: 俺はどうすればいいんだ!?
+  reading: ''
+  annot: 俺[おれ]はどうすればいいんだ!?
+  translation_zh: 我到底该怎么办才好啊！？
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 句末语气
+- 接续
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 4
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

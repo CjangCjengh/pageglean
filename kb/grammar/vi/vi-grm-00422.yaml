@@ -1,0 +1,32 @@
+id: vi-grm-00422
+language: vi
+type: grammar
+level: L2
+level_rank: 2
+title: chẳng… gì hết：强烈否定
+structure: chẳng + 动词 + gì hết（一点也/什么都不……）
+structure_pattern: chẳng + V + gì hết
+explanation_zh: 这是加强否定结构：chẳng 是否定词，gì hết 置于动词后加强语气，意为"一点也（不）……、什么都不……"。文中 chẳng
+  nhớ gì hết 表达"什么都不记得"的强烈语气，比单纯用 không 更具感情色彩。
+examples:
+- text: Anh chẳng nhớ gì hết!
+  reading: ''
+  annot: Anh chẳng nhớ gì hết!
+  translation_zh: 你什么都不记得了！
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 否定
+- 语气
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

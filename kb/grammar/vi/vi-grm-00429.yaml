@@ -1,0 +1,31 @@
+id: vi-grm-00429
+language: vi
+type: grammar
+level: L2
+level_rank: 2
+title: chẳng… nữa：不再……
+structure: chẳng／không + V + nữa
+structure_pattern: chẳng + V + nữa
+explanation_zh: chẳng 是带书面色彩的否定副词，意义同 không；与句末副词 nữa 呼应，表示「不再……」。常用于今昔对照，暗示先前状态的结束。
+examples:
+- text: Bây giờ, tôi chẳng cần tới đống cát nữa.
+  reading: ''
+  annot: Bây giờ, tôi chẳng cần tới đống cát nữa.
+  translation_zh: 如今，我再也不需要那堆沙了。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 否定
+- 语气
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 0
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

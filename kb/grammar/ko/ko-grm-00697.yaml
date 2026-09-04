@@ -1,0 +1,32 @@
+id: ko-grm-00697
+language: ko
+type: grammar
+level: TOPIK5
+level_rank: 5
+title: -는 대로：一……就……
+structure: 动词词干 + -는 대로
+structure_pattern: V-는 대로
+explanation_zh: -는 대로表示前一动作刚一完成，立即进行后一动作，相当于「一……就……」。此处대로是依存名词，接在动词现在时定语形-는后；注意与表示「按照」的结构（如계획대로）区分。文中指「魔力一恢复就立刻去消灭亡灵」。
+examples:
+- text: 조금이라도 마력이 돌아오는 대로, 이미 죽은 이들을 소멸시키자.
+  reading: ''
+  annot: 조금이라도 마력이 돌아오는 대로, 이미 죽은 이들을 소멸시키자.
+  translation_zh: 哪怕只恢复一点魔力，（我们）也把已经死去的人们消灭掉吧。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 连接词尾
+- 时间
+- 紧接
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

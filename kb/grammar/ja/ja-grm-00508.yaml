@@ -1,0 +1,32 @@
+id: ja-grm-00508
+language: ja
+type: grammar
+level: N3
+level_rank: 3
+title: 〜やがって／ばっかし：粗鲁的口语吐槽（口语）
+structure: 動詞連用形＋やがる；「ばかり」的口语形「ばっかし」
+structure_pattern: V-連用形 + やがる; ばかり（ばっかし）
+explanation_zh: 补助动词「やがる」接动词连用形，表示轻蔑、不满或亲昵的抱怨，属粗鲁口语；「ばっかし」是「ばかり」的口语变体，意为『净是、光是』。「やがって」是「やがっている」的口语省略。
+examples:
+- text: 「ったく、毎度毎度アホなことばっかしやがって」
+  reading: ''
+  annot: 「ったく、毎度[まいど]毎度[まいど]アホなことばっかしやがって」
+  translation_zh: “真是的，每次都净干些蠢事。”
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 口语
+- 语气
+- 助动词
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

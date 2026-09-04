@@ -1,0 +1,31 @@
+id: vi-grm-00149
+language: vi
+type: grammar
+level: L3
+level_rank: 3
+title: vì…mà…：强调原因的因果句
+structure: vì + 原因 + mà + 结果
+structure_pattern: vì + nguyên nhân + mà + kết quả
+explanation_zh: vì 引出原因，mà 起连接并强调作用，共同构成因果句，突出「正是因为…」的语气。与汉语「因为…而…」对应，但 mà 不可省略，否则句子不自然。
+examples:
+- text: Thấy vì tôi mà nó bị phạt, bụng tôi đâm ra áy náy.
+  reading: ''
+  annot: Thấy vì tôi mà nó bị phạt, bụng tôi đâm ra áy náy.
+  translation_zh: 看到它因为我而挨罚，我心里不禁愧疚起来。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 因果
+- 虚词
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 0
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

@@ -1,0 +1,38 @@
+id: ja-grm-00385
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 〜じゃん：想起与确认（口语）
+structure: 终止形 + 终助词「じゃん」（＝「じゃないか」的口语缩略）
+structure_pattern: 終止形 + じゃん
+explanation_zh: 「じゃん」是「じゃないか」的口语缩略，表示想起、确认或寻求对方认同，相当于中文的『不是……嘛』，语气随便、亲昵。是年轻人口语中高频的句末表达，正式书面中不使用，轻小说对话里十分常见。
+examples:
+- text: この子、うちのクラスのおさげっ子じゃん。
+  reading: ''
+  annot: この子[こ]、うちのクラスのおさげっ子[こ]じゃん。
+  translation_zh: 这孩子，不就是我们班那个扎辫子的女生嘛。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+- text: うわ、サイテー。ただの変態じゃん
+  reading: ''
+  annot: うわ、サイテー。ただの変態じゃん
+  translation_zh: 哇，最差劲了。不就是个变态嘛。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 句末语气
+- 口语
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

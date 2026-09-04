@@ -1,0 +1,31 @@
+id: ja-grm-00233
+language: ja
+type: grammar
+level: N2
+level_rank: 4
+title: 「〜わけにはいかない」：情理上不能……
+structure: V-連体形 + 形式名詞「わけ」 + 格助詞「に」 + 「行かない」
+structure_pattern: V-連体形 + わけにはいかない
+explanation_zh: 表示碍于情理、立场或情况而"不能做某事"。由形式名词「わけ」（理由、缘由）加格助词「に」再加「行く」的否定构成，字面即"不能顺着这个理由走下去"。片段中和希以勇者立场表示不能轻易放弃护卫之责，伊斯卡也自言不能拖延时间，两次出现。
+examples:
+- text: ですが……時間を掛けるわけにはいきません。――参ります
+  reading: ''
+  annot: ですが……時間[じかん]を掛[か]けるわけにはいきません。――参[まい]ります
+  translation_zh: 但是……我不能把时间拖下去。——我要上了。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 语气
+- 形式名词
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

@@ -1,0 +1,34 @@
+id: vi-grm-00313
+language: vi
+type: grammar
+level: L4
+level_rank: 4
+title: đâm (ra)：变得、不由得（状态变化）
+structure: đâm (ra) + Adj（心理/情绪）
+structure_pattern: động từ 'đâm ra' + tính từ làm vị ngữ
+explanation_zh: 「đâm (ra)」表示进入某种状态，有「变得、不由得」之意，多接消极的心理、情绪形容词。文中「đâm ngại」与「bỗng đâm
+  ra ngại ngùng」都写少年忽然害羞起来。常与「bỗng」（忽然）等副词连用。
+examples:
+- text: không hiểu sao tôi bỗng đâm ra ngại ngùng, bẽn lẽn như thể tôi không còn là
+    tôi nữa
+  reading: ''
+  annot: không hiểu sao tôi bỗng đâm ra ngại ngùng, bẽn lẽn như thể tôi không còn
+    là tôi nữa
+  translation_zh: 不知怎的，我忽然变得忸怩害羞起来，仿佛我已经不再是我。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 状态变化
+- 动词
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

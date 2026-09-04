@@ -1,0 +1,31 @@
+id: ko-grm-00410
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: 「-는지 모르다」：不确定 / 不管是否
+structure: 动词/形容词词干 + -는지 모르다
+structure_pattern: 용언 어간 + 연결어미(의문) -는지 + '알다/모르다'
+explanation_zh: 表示对前项内容的不确定。“아는지 모르는지”为惯用搭配，意为“不知是否……”，常引出与对方无关的另一行为。片段形容诗娜全然不顾叙述者的恐惧与惊愕。
+examples:
+- text: 그런 내 공포와 경악을 아는지 모르는지, 시나는 여전히 그 뱀같이 서늘한 미소를 머금고 기대서서 요염하게 다리를 꼬며
+  reading: ''
+  annot: 그런 내 공포와 경악을 아는지 모르는지, 시나는 여전히 그 뱀같이 서늘한 미소를 머금고 기대서서 요염하게 다리를 꼬며
+  translation_zh: 不知是否察觉到我的恐惧与惊愕，诗娜依旧挂着那蛇一般阴冷的微笑，倚靠着，妖艳地翘起腿
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 接续
+- 疑问
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 0
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

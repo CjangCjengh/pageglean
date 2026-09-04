@@ -1,0 +1,39 @@
+id: ko-grm-00293
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: 「-기 때문이다 / -(으)니까」：原因与理由
+structure: 用言词干 + 名词化词尾'-기' + 때문이다；用言词干 + 连接词尾'-(으)니까'
+structure_pattern: V/A + -기 때문이다; V/A + -(으)니까
+explanation_zh: '''-기 때문이다''以名词化词尾''-기''将句子名词化，再用''때문이다''说明原因，语气客观，多用于叙述说明。''-(으)니까''是表示原因的连接词尾，口语色彩强，后句常接建议、命令。本段叙述部分用''-기
+  때문에''，人物对话用''-니까''，语体对比明显。'
+examples:
+- text: 소설에서 클라우는 1권에서 쓰러지는 첫 번째 보스이기 때문에, 그녀의 부하들 중에 위협적인 인물은 없는 걸로 설정되어 있었다.
+  reading: ''
+  annot: 소설에서 클라우는 1권에서 쓰러지는 첫 번째 보스이기 때문에, 그녀의 부하들 중에 위협적인 인물은 없는 걸로 설정되어 있었다.
+  translation_zh: 在小说中，因为克劳是第一卷就被打倒的第一个BOSS，所以她的部下里被设定为没有具有威胁性的人物。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+- text: 나, 아리네시아하고 싸워야 하니까.
+  reading: ''
+  annot: 나, 아리네시아하고 싸워야 하니까.
+  translation_zh: 因为，我要跟阿里尼西亚打仗。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 因果
+- 接续
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

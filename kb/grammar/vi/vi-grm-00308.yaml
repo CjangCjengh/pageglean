@@ -1,0 +1,33 @@
+id: vi-grm-00308
+language: vi
+type: grammar
+level: L2
+level_rank: 2
+title: chưa…được：还没能做成
+structure: chưa + 动词（＋宾语）+ được（结果补语）
+structure_pattern: phó từ 'chưa' + động từ + tân ngữ + bổ ngữ kết quả 'được'
+explanation_zh: 「được」置于动词后表示动作成功实现或有可能实现，与副词「chưa」连用表示「还没能～」。越南语中「được」通常放在宾语之后，如
+  chưa tóm Lợi sứt được（还没能逮住 Lợi sứt）。它与表示已然实现的「đã…được」相对。
+examples:
+- text: Nhưng tôi vẫn chưa "tóm" Lợi sứt được.
+  reading: ''
+  annot: Nhưng tôi vẫn chưa "tóm" Lợi sứt được.
+  translation_zh: 但我还是没能逮住 Lợi sứt。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 体貌
+- 补语
+- 否定
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

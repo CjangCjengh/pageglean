@@ -1,0 +1,39 @@
+id: vi-grm-00044
+language: vi
+type: grammar
+level: L2
+level_rank: 2
+title: chưa 与 đã…chưa（还没……/……了吗）
+structure: chưa + V（还没）；đã + V + chưa?（……了吗/没有）
+structure_pattern: chưa + V ; đã + V + chưa?
+explanation_zh: “chưa”表示“还没（做某事）”，与表一般否定的“không”相对。疑问形式用“đã…chưa”，问某事发生了没有，相当于中文“……了吗？/……没有？”。这是越南语体貌否定的重要区分。
+examples:
+- text: Hóa ra nó chưa quên "tội ác" của tôi hôm nào.
+  reading: ''
+  annot: Hóa ra nó chưa quên "tội ác" của tôi hôm nào.
+  translation_zh: 原来她还没忘记我那天犯下的“罪行”。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+- text: không biết nó đã thấy mấy câu thơ tôi viết trong sách chưa.
+  reading: ''
+  annot: không biết nó đã thấy mấy câu thơ tôi viết trong sách chưa.
+  translation_zh: 不知道她看到我在书里写的那几句诗了没有。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 否定
+- 时态虚词
+- 疑问
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

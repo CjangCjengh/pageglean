@@ -1,0 +1,31 @@
+id: ja-grm-00137
+language: ja
+type: grammar
+level: N3
+level_rank: 3
+title: 〜んじゃないか：该不会……吧（修辞性疑问）
+structure: 「〜のではない（か）」的口語形（名・ナ形：なんじゃないか／他：終止形＋んじゃないか）
+structure_pattern: 終止形 + のではないか → んじゃないか
+explanation_zh: 「のではない（か）」的口语形，用疑问形式表达确认、推测或自我追问，往往并非真正提问。名词、な形容词用「なんじゃないか」，其余接终止形。文中「『素直じゃない』んじゃないか」意为“该不会（我）才是不坦率的那个吧”。
+examples:
+- text: 普通『合法』を強調するときは、そうしないとスレスレ、または倫理的にはキワドイかアウトな状況じゃないか？
+  reading: ''
+  annot: 普通『合法』を強調するときは、そうしないとスレスレ、または倫理的[りんりてき]にはキワドイかアウトな状況[じょうきょう]じゃないか？
+  translation_zh: 通常强调“合法”的时候，不就说明情况其实已经踩线，或者在道德上很危险甚至已经出格了吗？
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 語気
+- 口語
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 0
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

@@ -1,0 +1,39 @@
+id: vi-grm-00084
+language: vi
+type: grammar
+level: L3
+level_rank: 3
+title: cho：允让与受益
+structure: cho + O + V（允让）／ V + cho + O（受益方向，连动结构）
+structure_pattern: cho + O + V / V + cho + O
+explanation_zh: cho 有两种常见用法：「cho + 人 + V」表示允许、让某人做某事；动词后接「cho + 人」表示动作的受益方向，相当于汉语「给（某人）……」。这是越南语典型的连动结构，cho
+  的位置因表允让还是表受益而不同。片段中「cho tao mượn sách」（让我借书）与「mua cho mày」（买给你）两种用法并存。
+examples:
+- text: Việt An có cho tao... mượn sách.
+  reading: ''
+  annot: Việt An có cho tao... mượn sách.
+  translation_zh: Viet An 有让……我借过书。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+- text: Sao nó không mua cho mày mà chỉ có mày mua cho nó?
+  reading: ''
+  annot: Sao nó không mua cho mày mà chỉ có mày mua cho nó?
+  translation_zh: 为什么她不买东西给你，而只有你买东西给她？
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 连动
+- 受益
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 5
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

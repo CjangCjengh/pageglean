@@ -1,0 +1,31 @@
+id: ja-grm-00287
+language: ja
+type: grammar
+level: N3
+level_rank: 3
+title: 使役＋〜てほしい：请让我……
+structure: 动词未然形 + 使役助动词せる/させる + てほしい
+structure_pattern: V未然形 + 使役助動詞「せる/させる」（連用形＋て） + 形容詞「ほしい」
+explanation_zh: 使役助动词「せる/させる」表“让/使某人做某事”，后接「てほしい」表示说话者希望对方允许自己做某事，整体意为“请让我……”。此处「守らせてほしい」即“请也让我保护（莉亚）”。
+examples:
+- text: 俺にも、リアを守らせてほしい。
+  reading: ''
+  annot: 俺[おれ]にも、リアを守[まも]らせてほしい。
+  translation_zh: 也请让我来保护莉亚吧。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 使役
+- 敬语
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 0
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

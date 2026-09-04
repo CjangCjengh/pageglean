@@ -1,0 +1,31 @@
+id: vi-grm-00007
+language: vi
+type: grammar
+level: L2
+level_rank: 2
+title: bằng：以、用（方式/工具）
+structure: 动词 + bằng + 名词（表示动作凭借的工具或方式）
+structure_pattern: V + bằng + NP (quan hệ từ chỉ phương tiện)
+explanation_zh: bằng 是介词（quan hệ từ），引出动作凭借的工具或方式，相当于中文的“用”“以”。文中描写小女孩睁着一双圆眼望着我。
+examples:
+- text: Nó nhìn tôi bằng cặp mắt thao láo.
+  reading: ''
+  annot: Nó nhìn tôi bằng cặp mắt thao láo.
+  translation_zh: 她睁着一双圆溜溜的眼睛望着我。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 介词
+- 方式
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 0
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

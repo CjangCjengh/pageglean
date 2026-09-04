@@ -1,0 +1,39 @@
+id: th-grm-00076
+language: th
+type: grammar
+level: L3
+level_rank: 3
+title: 「V + ให้：使动作达到某种结果」
+structure: 动词 + ให้ + 结果（形容词/动词）
+structure_pattern: V + ให้ + V/Adj(结果)
+explanation_zh: 在动词后加 ให้ 再接形容词或动词，表示动作要达到某种结果，如 รักษาให้หาย 即“治好、治到痊愈”。这与“อยากให้+人+动”不同：此处的
+  ให้ 不引出新主语，只引出结果状态。
+examples:
+- text: ยัง​พอ​มี​ทาง​รักษา​ให้หาย​ขาด​ได้
+  reading: ''
+  annot: ยัง​พอ​มี​ทาง​รักษา​ให้หาย​ขาด​ได้
+  translation_zh: 还是有办法彻底治好的。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+- text: ฉัน​ตั้งใจ​ว่า​จะ​ต้องหาย​ให้​ได้
+  reading: ''
+  annot: ฉัน​ตั้งใจ​ว่า​จะ​ต้องหาย​ให้​ได้
+  translation_zh: 我下定决心一定要治好。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 结果补语
+- 使役
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 4
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

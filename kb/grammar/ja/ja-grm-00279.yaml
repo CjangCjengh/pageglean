@@ -1,0 +1,39 @@
+id: ja-grm-00279
+language: ja
+type: grammar
+level: N3
+level_rank: 3
+title: 「〜ことにする／〜ことになる」：决定与结果
+structure: 動詞終止形 ＋ こと ＋ にする／になる
+structure_pattern: V-終止形 + こと + にする/になる
+explanation_zh: 形式名词「こと」将动词名词化后接「にする」表示主语自己拿定主意（决定做……）；接「になる」表示事态发展的结果（结果变成……，多非本人所能左右）。片段中伊斯卡对比「自分で決めた」与「両親からの指令だった」，正好体现这一对句型的差异。
+examples:
+- text: 私はそんな両親のために、頑張る事にした
+  reading: ''
+  annot: 私[わたし]はそんな両親[りょうしん]のために、頑張[がんば]る事[こと]にした
+  translation_zh: 我决定为了这样的父母而努力。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+- text: こっちに来る事になった指令も、今回のも。……両親からの指令なんだ
+  reading: ''
+  annot: こっちに来[く]る事[こと]になった指令[しれい]も、今回[こんかい]のも。……両親[りょうしん]からの指令[しれい]なんだ
+  translation_zh: 无论是让我来到这边的那次指令，还是这次的……都是父母下达的指令。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 形式名詞
+- 意志表現
+- 助詞
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

@@ -1,0 +1,39 @@
+id: ko-grm-00169
+language: ko
+type: grammar
+level: TOPIK2
+level_rank: 2
+title: 相对敬语法：-ㅂ니다 体与半语的交替
+structure: 格式体尊待终结词尾 -ㅂ니다 ↔ 非格式体半语终结词尾 -아/어라（해라체）
+structure_pattern: V-ㅂ니다 ↔ V-아/어라
+explanation_zh: 学校文法中按听话人调节礼貌等级的方式称"相对敬语法"，主要通过终结词尾实现。本段凯特对时研使用格式体尊待（감사했습니다、기뻤습니다），时研却对凯特使用半语（자라、얘기해
+  줄게）。同一对话中两种敬语阶位形成对比，体现两人地位与心理距离的差异。
+examples:
+- text: 오늘 여러 가지로 감사했습니다.
+  reading: ''
+  annot: 오늘 여러 가지로 감사했습니다.
+  translation_zh: 今天在各方面承蒙关照，非常感谢。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+- text: 이제 그만 자라. 내일에는 또 이것저것 얘기해 줄게.
+  reading: ''
+  annot: 이제 그만 자라. 내일에는 또 이것저것 얘기해 줄게.
+  translation_zh: 现在睡吧。明天我再跟你聊这聊那。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 敬语
+- 终结词尾
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 6
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

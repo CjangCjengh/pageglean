@@ -1,0 +1,33 @@
+id: ko-grm-00298
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: 「-(으)ㄹ 테니까：推测性理由」
+structure: 用言 + 冠形词形语尾 -(으)ㄹ + 依存名词 터 + 이다 + 连接语尾 -니까
+structure_pattern: A/V-(으)ㄹ 테니까
+explanation_zh: 「-(으)ㄹ 터이니까」的缩略形式，依存名词「터」表示推测的情形，后接「이다」与表理由的「-니까」。表示说话者的推测或意志成为后句的根据，相当于「因为会……所以」。片段中两次以「테니까
+  말이야」收尾，带有口语化的强调语气。
+examples:
+- text: 나는 너의 그런 생각을 이용해서 전략을 짤 테니까 말이야.
+  reading: ''
+  annot: 나는 너의 그런 생각을 이용해서 전략을 짤 테니까 말이야.
+  translation_zh: 因为我打算利用你那种想法来制定策略。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 连接语尾
+- 推测
+- 理由
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

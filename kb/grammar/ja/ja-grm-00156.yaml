@@ -1,0 +1,31 @@
+id: ja-grm-00156
+language: ja
+type: grammar
+level: N2
+level_rank: 4
+title: 「〜た上(に)」：累加、雪上加霜
+structure: 動詞連体形（〜た）＋形式名詞「上（に）」
+structure_pattern: V-た + 上(に)
+explanation_zh: 形式名词「上」接在动词连体形之后，表示在前项的基础上又追加后项，多为不利情况的层层叠加，相当于『……之上又……』。近义词有「〜だけでなく」「〜に加えて」。文中指『被打了个措手不及』与『实力远超事先听闻』两重不利条件叠加。
+examples:
+- text: 不意を突かれた上、話に聞いていた以上だった。
+  reading: ''
+  annot: 不意[ふい]を突[つ]かれた上[うえ]、話[はなし]に聞[き]いていた以上[いじょう]だった。
+  translation_zh: 对方不仅打了个我措手不及，而且实力还远超我事先听闻的水平。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 接续
+- 形式名词
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

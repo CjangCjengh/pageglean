@@ -1,0 +1,31 @@
+id: ko-grm-00556
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: 「-(으)ㄹ 줄 알았는데：原以为……却……」
+structure: 용언 어간 + 관형사형 전성어미 '-(으)ㄹ' + 의존명사 '줄' + 동사 '알다' + 연결어미 '-았는데'
+structure_pattern: V/A-(으)ㄹ + 줄 + 알았는데
+explanation_zh: 依存名词 '줄' 表示事情的内容，与 '알다' 搭配表示以为、预料。后接转折连接词尾 '-았는데' 时，表示实际情况与预想相反，相当于汉语“原以为……（没想到……）”。
+examples:
+- text: 브룬이 먼저 나가떨어질 줄 알았는데.
+  reading: ''
+  annot: 브룬이 먼저 나가떨어질 줄 알았는데.
+  translation_zh: 我还以为会是布鲁恩先撑不住倒下呢。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 推测
+- 转折
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

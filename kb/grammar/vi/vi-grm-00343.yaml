@@ -1,0 +1,38 @@
+id: vi-grm-00343
+language: vi
+type: grammar
+level: L1
+level_rank: 1
+title: 「đã」：过去/已然时态助词
+structure: S + đã + V（已经……）
+structure_pattern: đã + V (+ O)
+explanation_zh: 「đã」是标示过去或已然的时间副词（phó từ thời gian），置于动词前，表示动作已完成或情况已经出现，相当于汉语“已经”。叙述往事时高频出现；语境明确时也可省略。
+examples:
+- text: Tôi bàng hoàng hiểu ra mình đã đi khỏi thành phố khá xa.
+  reading: ''
+  annot: Tôi bàng hoàng hiểu ra mình đã đi khỏi thành phố khá xa.
+  translation_zh: 我惊愕地意识到，自己已经离开城市相当远了。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+- text: Những cánh đồng đã thay cho những dãy nhà san sát
+  reading: ''
+  annot: Những cánh đồng đã thay cho những dãy nhà san sát
+  translation_zh: 一片片田野已经取代了一排排鳞次栉比的房屋。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 时态
+- 助词
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 5
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

@@ -1,0 +1,32 @@
+id: ko-grm-00059
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: -다고 하다：据说……（间接引用）
+structure: 동사 어간 + -다고 하다(한다)
+structure_pattern: V + -다고(간접 인용) + 하다
+explanation_zh: -다고 하다 是间接引用（간접 인용）结构，用于转述他人话语或一般说法，与陈述句搭配成 -다고 한다，相当于"据说／听说……"。过去时接
+  -았/었다고 한다，如片段中的"생산되었다고 한다""급감했다고 한다"。叙述性文本中常用来转述背景设定。
+examples:
+- text: 과거에는 상당한 양의 마석이 생산되었다고 하지만, 어느 시점부터 생산량이 급감했다고 한다.
+  reading: ''
+  annot: 과거에는 상당한 양의 마석이 생산되었다고 하지만, 어느 시점부터 생산량이 급감했다고 한다.
+  translation_zh: 据说过去曾产出相当数量的魔石，但从某个时间点起产量就锐减了。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 引用
+- 传闻
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

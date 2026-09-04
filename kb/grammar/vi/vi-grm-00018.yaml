@@ -1,0 +1,31 @@
+id: vi-grm-00018
+language: vi
+type: grammar
+level: L2
+level_rank: 2
+title: không còn… nữa：不再……
+structure: không còn + V/Adj + nữa
+structure_pattern: không（phó từ phủ định）+ còn + X + nữa（trợ từ）
+explanation_zh: 表示某状态或动作已经结束、不再持续，对应中文“不再……”。không是否定副词（phó từ phủ định），còn表“仍然、还”，nữa是句末呼应助词，三者构成固定框架。
+examples:
+- text: từ nay trở đi tôi không còn "tự do" nữa
+  reading: ''
+  annot: từ nay trở đi tôi không còn "tự do" nữa
+  translation_zh: 从今以后，我不再“自由”了。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 否定
+- 副词
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

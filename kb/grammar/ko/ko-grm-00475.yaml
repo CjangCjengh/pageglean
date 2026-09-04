@@ -1,0 +1,31 @@
+id: ko-grm-00475
+language: ko
+type: grammar
+level: TOPIK5
+level_rank: 5
+title: 「-(으)ㄴ 셈이다」：实质上的认定
+structure: 动词/形容词词干 + 관형형 전성 어미(冠形形转成词尾)‘-(으)ㄴ’ + 의존명사(依存名词)‘셈’ + 서술격 조사(叙述格助词)‘이다’
+structure_pattern: V/A + -(으)ㄴ 셈이다
+explanation_zh: ‘셈’本义为“算计、折算”，整个结构表示虽非字面如此，但实质上“算是……”，是说话者的主观认定。文中“나와 악마를 같이 취급한 셈이다”表达“我”对对方那句问话言外之意的解读。
+examples:
+- text: 빈은 지금의 질문으로 한순간에 나와 악마를 같이 취급한 셈이다.
+  reading: ''
+  annot: 빈은 지금의 질문으로 한순간에 나와 악마를 같이 취급한 셈이다.
+  translation_zh: 宾等于凭着刚才那个问题，一瞬间就把我和恶魔一视同仁了。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 依存名词
+- 主观判断
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

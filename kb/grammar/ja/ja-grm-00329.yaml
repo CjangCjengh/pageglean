@@ -1,0 +1,39 @@
+id: ja-grm-00329
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 〜ってことは（ということは）：由事实引出推论
+structure: 句（普通体）＋引用助詞「って」＋形式名詞「こと」＋は
+structure_pattern: 句 + って + 形式名詞こと + は
+explanation_zh: 「って」是口语中的引用助词，相当于「と」，用于引用前项内容；形式名词「こと」将其名词化并以「は」提示为主题。「ってことは」即“这么说来的话……”，从前项事实引出推断或确认，后多接推测、疑问句。书面语中作「ということは」，轻小说口语里高频出现。
+examples:
+- text: 特に心配してないって事は……やっぱり王様からの手紙、親父が関係してるのか
+  reading: ''
+  annot: 特[とく]に心配[しんぱい]してないって事[こと]は……やっぱり王様[おうさま]からの手紙[てがみ]、親父[おやじ]が関係[かんけい]してるのか
+  translation_zh: 你们这么不担心……这么说来，国王寄来的那封信果然和老爸有关系吗？
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+- text: そこら辺も全部言うって事は、その隠し設定は解放って事でいいのか？
+  reading: ''
+  annot: そこら辺[へん]も全部[ぜんぶ]言[い]うって事[こと]は、その隠[かく]し設定[せってい]は解放[かいほう]って事[こと]でいいのか？
+  translation_zh: 那些事你全都肯说，也就是说那些隐藏设定都解锁了，对吧？
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 形式名词
+- 引用
+- 口语
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

@@ -1,0 +1,41 @@
+id: vi-grm-00324
+language: vi
+type: grammar
+level: L2
+level_rank: 2
+title: 分类词 cái / con / lá
+structure: 数词 + 分类词（danh từ chỉ đơn vị）+ 名词
+structure_pattern: Num + CL (cái/con/lá) + N
+explanation_zh: 越南语名词计数或指称时一般须带分类词（danh từ chỉ đơn vị，相当于汉语量词），搭配相对固定：“cái”多用于无生命具体物（cái
+  ngã ba 三岔路口），“con”用于动物及道路、河流等延伸物（con đường、con hẻm），“lá”用于薄片状物（lá thư 信）。具体搭配需逐一积累，不能与中文量词一一对应。
+examples:
+- text: có một cái ngã ba, nơi gặp nhau giữa con đường lớn chạy ngang trường tôi và
+    một con hẻm nhỏ
+  reading: ''
+  annot: có một cái ngã ba, nơi gặp nhau giữa con đường lớn chạy ngang trường tôi
+    và một con hẻm nhỏ
+  translation_zh: 有一个三岔路口，是横穿我校的大路与一条小巷交汇的地方。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+- text: Tôi muốn nhìn thấy tận mắt cảnh Hải gầy đưa lá thư của tôi cho Việt An.
+  reading: ''
+  annot: Tôi muốn nhìn thấy tận mắt cảnh Hải gầy đưa lá thư của tôi cho Việt An.
+  translation_zh: 我想亲眼看到阿瘦把我的信交给越安的那一幕。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 分类词
+- 名词短语
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 7
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

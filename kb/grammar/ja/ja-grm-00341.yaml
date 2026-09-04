@@ -1,0 +1,31 @@
+id: ja-grm-00341
+language: ja
+type: grammar
+level: N3
+level_rank: 3
+title: 〜わけはない：不可能、不会
+structure: 连体形 + 形式名词「わけ」+ は／も + ない
+structure_pattern: 連体形 + わけはない
+explanation_zh: 形式名词「わけ」表示道理、缘由，「〜わけはない」直译为“没有那样的道理”，即“不可能……、不会……”。「わけもなく」是其连用修饰用法，表示“毫无缘由地、无缘无故地”。原文中写没有人会主动找“我”搭话。
+examples:
+- text: だが、話しかけてくれる人なんかいるわけもなく、結局みんなの話を盗み聞きすることに。
+  reading: ''
+  annot: だが、話[はな]しかけてくれる人[ひと]なんかいるわけもなく、結局[けっきょく]みんなの話[はなし]を盗[ぬす]み聞[き]きすることに。
+  translation_zh: 可是，也不可能有人来跟我搭话，结果只好偷听大家聊天。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 形式名词
+- 语气
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

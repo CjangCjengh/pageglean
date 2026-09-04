@@ -1,0 +1,42 @@
+id: vi-grm-00419
+language: vi
+type: grammar
+level: L3
+level_rank: 3
+title: thôi + 动词：动作中止
+structure: thôi + 动词（不再……）
+structure_pattern: thôi + V
+explanation_zh: thôi 置于动词前表示停止、不再进行某一正在进行的动作，带有动作中止的意味。文中连用三个 thôi（thôi nhảy múa /
+  thôi đuổi bắt nhau / thôi bốc cháy）构成排比，渲染万物骤然静止、时间凝固的氛围。
+examples:
+- text: những tia nắng thôi nhảy múa, những làn gió thôi đuổi bắt nhau trên những
+    tàng cây
+  reading: ''
+  annot: những tia nắng thôi nhảy múa, những làn gió thôi đuổi bắt nhau trên những
+    tàng cây
+  translation_zh: 阳光不再跳跃，风儿也不再有树冠间追逐嬉戏
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+- text: dãy ráng đỏ phía chân trời thôi bốc cháy
+  reading: ''
+  annot: dãy ráng đỏ phía chân trời thôi bốc cháy
+  translation_zh: 天边的红霞也不再燃烧
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 体貌
+- 副词
+- 修辞
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

@@ -1,0 +1,38 @@
+id: ko-grm-00526
+language: ko
+type: grammar
+level: TOPIK2
+level_rank: 2
+title: -(으)시-：主体敬语与敬语阶位
+structure: 主体敬语先语末词尾 -(으)시-，与格式体终结词尾 -ㅂ니다 并用
+structure_pattern: V/A-(으)시-
+explanation_zh: -(으)시- 是主体敬语先语末词尾，抬高动作主体的身份。文中约娜对『我』全程使用 -으시- 与格式体敬语，表面恭敬，实则含讥讽之意。理解敬语阶位是把握韩语对话语气与人物关系的关键。
+examples:
+- text: 어두운 곳에서 나타나시면 누구라도 놀랄 겁니다.
+  reading: ''
+  annot: 어두운 곳에서 나타나시면 누구라도 놀랄 겁니다.
+  translation_zh: 在暗处突然出现的话，谁都会被吓一跳的。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+- text: 혹여 잠자리가 불편하지는 않으실까 하고 염려가 되었던 것뿐입니다.
+  reading: ''
+  annot: 혹여 잠자리가 불편하지는 않으실까 하고 염려가 되었던 것뿐입니다.
+  translation_zh: 只是担心您会不会睡得不舒服而已。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 敬语
+- 语气
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 5
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

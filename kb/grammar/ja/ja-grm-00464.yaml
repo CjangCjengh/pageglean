@@ -1,0 +1,31 @@
+id: ja-grm-00464
+language: ja
+type: grammar
+level: N3
+level_rank: 3
+title: 「〜ところだった」：差点就…（形式名词「ところ」）
+structure: 动词连体形 + 形式名词「ところ」+ だった／であった
+structure_pattern: V-連体形 + ところ + だった/であった
+explanation_zh: 形式名词「ところ」接动词连体形，表示动作或变化即将发生的临界点；「ところだった／であった」表示「差点就…（但实际未发生）」。「ぶちキレるところであった」即险些当场爆发。书面叙述用「であった」，口语多说「ところだった」。
+examples:
+- text: さすがに今日もベッドで目覚めていたら温厚な俺もぶちキレるところであったが、あいつなりに頑張ったらしい。
+  reading: ''
+  annot: さすがに今日[きょう]もベッドで目覚[めざ]めていたら温厚[おんこう]な俺[おれ]もぶちキレるところであったが、あいつなりに頑張[がんば]ったらしい。
+  translation_zh: 今天要是又在床上醒来，连脾气好的我也差点要暴怒了，不过看来那家伙也用自己的方式努力过了。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 形式名词
+- 时体
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

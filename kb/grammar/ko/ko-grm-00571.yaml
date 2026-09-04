@@ -1,0 +1,32 @@
+id: ko-grm-00571
+language: ko
+type: grammar
+level: TOPIK6
+level_rank: 6
+title: 「-겠답시고」：打着……的旗号（嘲讽引用）
+structure: -겠다고 하시면서 的缩略形
+structure_pattern: A/V-겠다고 하시면서 → -겠답시고
+explanation_zh: '''-겠답시고''是间接引用''-겠다고 하시면서''的缩略，转述某人声称的意图，同时带有讽刺、不屑的语气，相当于''说是打着……的旗号（实则……）''。多用于批评对方行为名不副实，语感尖刻，属高级表达，正式文书中少见。'
+examples:
+- text: 악마를 찾겠답시고 휘젓지 말라는 경고다.
+  reading: ''
+  annot: 악마를 찾겠답시고 휘젓지 말라는 경고다.
+  translation_zh: 这是警告：别打着找恶魔的旗号到处搅和。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 引用
+- 语气
+- 敬语
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

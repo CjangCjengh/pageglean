@@ -1,0 +1,38 @@
+id: vi-grm-00224
+language: vi
+type: grammar
+level: L2
+level_rank: 2
+title: 是非疑问句：句末 không 与语气词 hả
+structure: 陈述语序 + không? ／ … rồi + hả?
+structure_pattern: S + V + không? / S + V + rồi + hả?
+explanation_zh: 是非问句用句末的 không 构成，相当于汉语「……吗／……不……」。句末语气词 hả 表示求证、确认，口语色彩强，常与 rồi 连用构成「已经……了吗」。片段两处问话正好各举一例。
+examples:
+- text: Anh biết chơi ô quan không?
+  reading: ''
+  annot: Anh biết chơi ô quan không?
+  translation_zh: 你会玩乌鸢棋吗？
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+- text: Anh chơi bi thua hết rồi hả?
+  reading: ''
+  annot: Anh chơi bi thua hết rồi hả?
+  translation_zh: 你打弹珠已经全输光了吗？
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 疑问
+- 语气
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 5
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

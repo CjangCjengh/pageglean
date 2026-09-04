@@ -1,0 +1,40 @@
+id: vi-grm-00278
+language: vi
+type: grammar
+level: L2
+level_rank: 2
+title: như：比喻与比较「像」
+structure: V + như + 名词／小句；coi A như B（把 A 当作 B）
+structure_pattern: V + như + NP/Clause
+explanation_zh: như 引出比较对象，意为「像、如同」，可用于动词之后作方式比较（viết như người ta thường viết：像人们常写的那样写）。也用于「coi
+  A như B」结构，表示「把 A 看作 B」。
+examples:
+- text: Thì viết thư như người ta thường viết ấy!
+  reading: ''
+  annot: Thì viết thư như người ta thường viết ấy!
+  translation_zh: 就是像人家平常那样写信嘛！
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+- text: Có khi Việt An yêu tôi nhưng lại tưởng tôi chỉ coi nó như bạn... thân nên
+    nó không thổ lộ, sợ quê.
+  reading: ''
+  annot: Có khi Việt An yêu tôi nhưng lại tưởng tôi chỉ coi nó như bạn... thân nên
+    nó không thổ lộ, sợ quê.
+  translation_zh: 说不定 Việt An 喜欢我，却又以为我只把她当……好朋友，所以她不敢表白，怕难为情。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 比较
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

@@ -1,0 +1,40 @@
+id: vi-grm-00259
+language: vi
+type: grammar
+level: L2
+level_rank: 2
+title: 倍数比较 gấp mấy 与最高级引出 nhất là
+structure: Adj + gấp mấy + 基准；nhất là + NP
+structure_pattern: Adj + gấp mấy + NP; nhất là + NP
+explanation_zh: 「gấp mấy」表示倍数比较，意为「（比……）高出好几倍」，如「lạnh gấp mấy tôi」即「比我冷好几倍」。「nhất
+  là」意为「尤其、特别是」，用于在同类中举出最突出的成员。书名「Một ngày dài hơn thế kỷ」中的「hơn」则是基本比较标记，形容词直接加 hơn
+  再接比较对象。
+examples:
+- text: Mặt nó lạnh như tiền, còn lạnh gấp mấy tôi.
+  reading: ''
+  annot: Mặt nó lạnh như tiền, còn lạnh gấp mấy tôi.
+  translation_zh: 她的脸冷冰冰的，比我还冷好几倍。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+- text: Tôi biết Việt An rất thích đọc sách, nhất là sách của Aimatov.
+  reading: ''
+  annot: Tôi biết Việt An rất thích đọc sách, nhất là sách của Aimatov.
+  translation_zh: 我知道越南安很喜欢读书，尤其是艾特玛托夫的书。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 比较
+- 程度
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

@@ -1,0 +1,31 @@
+id: ja-grm-00230
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 〜と：一……就发现……（发现・转场）
+structure: 動詞終止形＋と（後項で発見・出現）
+structure_pattern: V-終止形 + と
+explanation_zh: 接续助词「と」接终止形，表示前项刚发生便发现、出现后项，常与「ている」搭配，译为“正……这时……／一……就……”。后项多为说话人无法控制的发现或意外，轻小说里常用它转换场景。
+examples:
+- text: そんな事を考えていると、『パタパタパタ』というスリッパの足音。
+  reading: ''
+  annot: そんな事[こと]を考[かんが]えていると、『パタパタパタ』というスリッパの足音[あしおと]。
+  translation_zh: 正想着这些事，便传来了“啪嗒啪嗒”的拖鞋脚步声。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 条件
+- 発見
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

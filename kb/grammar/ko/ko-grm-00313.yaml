@@ -1,0 +1,39 @@
+id: ko-grm-00313
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: -던：回忆与未完成
+structure: 용언 어간 + -던 + 명사
+structure_pattern: V/A-던 + N
+explanation_zh: 冠词形转成词尾'-던'表示对过去未完成或中断之事的回忆，用来修饰名词，相当于'曾经……的、当时……的'。与单纯过去'-ㄴ'不同，'-던'带有'追忆、尚未完成'的语感。文中'아즐란이
+  쓰던 마법'指'阿兹兰生前所用的魔法'。
+examples:
+- text: 아즐란이 쓰던 마법은 다 쓸 수 있을 것이다.
+  reading: ''
+  annot: 아즐란이 쓰던 마법은 다 쓸 수 있을 것이다.
+  translation_zh: 阿兹兰曾用过的魔法应该都能使用。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+- text: 서재에 있던 군사 서적을 모조리 읽었어.
+  reading: ''
+  annot: 서재에 있던 군사 서적을 모조리 읽었어.
+  translation_zh: 把书房里的军事书籍全都读遍了。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 회상
+- 관형형 전성어미
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 4
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

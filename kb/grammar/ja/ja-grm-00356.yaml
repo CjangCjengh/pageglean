@@ -1,0 +1,38 @@
+id: ja-grm-00356
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 〜ておく：事先做好某事（口语缩略〜とく）
+structure: 動詞連用形＋接続助詞「て」＋補助動詞「おく」
+structure_pattern: V-連用形(て) + おく
+explanation_zh: 补助动词「おく」接在动词连用形后，表示为将来做准备而预先做好某事，或使某种状态保持下去。口语中「ておく」常约音为「とく」。例文『作っておいた』即“事先建好了（文件夹）”。
+examples:
+- text: あと、父さんと母さんにもよろしく言っておいてくれ。
+  reading: ''
+  annot: あと、父[とう]さんと母[かあ]さんにもよろしく言[い]っておいてくれ。
+  translation_zh: 还有，也替我向爸爸妈妈问声好。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+- text: パソコンに秘蔵動画フォルダを作っておいたから自由に使ってくれ。
+  reading: ''
+  annot: パソコンに秘蔵動画[ひぞうどうが]フォルダを作[つく]っておいたから自由[じゆう]に使[つか]ってくれ。
+  translation_zh: 我在电脑里事先建好了珍藏视频的文件夹，你随便用吧。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 体貌
+- 补助动词
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

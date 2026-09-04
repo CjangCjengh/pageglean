@@ -1,0 +1,32 @@
+id: ja-grm-00617
+language: ja
+type: grammar
+level: N3
+level_rank: 3
+title: のだ（んだ）：解释、强调与口语变体
+structure: 连体形 + 形式名词「の」+ 助动词「だ」（口语作「んだ」）
+structure_pattern: '[連体形] + の + だ → 口語: んだ / んだから / んだろ'
+explanation_zh: 学校文法将「のだ」分析为形式名词「の」+ 断定助动词「だ」，用于解释原因、强调事实或寻求认同，口语中「の」变为「ん」。由此派生出「んだから」（辩解）「んだろ」（求确认）等说法。粗鲁口语中「しているのだ」进一步缩约为「してんじゃねえ」，如「遠慮してんじゃねーよ」。
+examples:
+- text: 理由なんてなんでもいい。おまえの言葉で伝えたいことを伝えるんだ。
+  reading: ''
+  annot: 理由[りゆう]なんてなんでもいい。おまえの言葉[ことば]で伝[つた]えたいことを伝[つた]えるんだ。
+  translation_zh: 理由什么的都行。要用你自己的话，把想说的话说出来。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 语气
+- 形式名词
+- 口语
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 8
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

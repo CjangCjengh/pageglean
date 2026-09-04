@@ -1,0 +1,32 @@
+id: ko-grm-00252
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: 「-(으)ㄹ 줄 알다：原以为会……」
+structure: 동사 어간 + 관형사형 어미 '-(으)ㄹ' + 의존명사 '줄' + '알다'
+structure_pattern: V + -(으)ㄹ 줄 알다
+explanation_zh: 依存名词'줄'在此承接说话者的想法或预期，整体意为'以为/预料会……'。与过去形结合成'-(으)ㄹ 줄 알았는데'时，暗示结果与预期相反，后句常出现转折。
+examples:
+- text: 다들 뿔뿔이 도망칠 줄 알았는데 말이야.
+  reading: ''
+  annot: 다들 뿔뿔이 도망칠 줄 알았는데 말이야.
+  translation_zh: 我还以为大家都会四散逃跑呢。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 依存名词
+- 预期
+- 转折
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

@@ -1,0 +1,31 @@
+id: vi-grm-00163
+language: vi
+type: grammar
+level: L1
+level_rank: 1
+title: có…không：是非问句框架
+structure: có + （主语）+ V + không?
+structure_pattern: có + ... + không
+explanation_zh: có…không 构成是非问句，có 位于谓语前，强调动作是否发生或情况是否存在，句末以 không 收束。本片段用「có ai…không」询问是否有人做过某事，相当于「有没有人……」。
+examples:
+- text: Mấy bữa nay có ai chép bài giùm Việt An không?
+  reading: ''
+  annot: Mấy bữa nay có ai chép bài giùm Việt An không?
+  translation_zh: 这几天有没有人帮越安抄笔记？
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 疑问
+- 句式
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

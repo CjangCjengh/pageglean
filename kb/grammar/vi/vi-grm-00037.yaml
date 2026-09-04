@@ -1,0 +1,32 @@
+id: vi-grm-00037
+language: vi
+type: grammar
+level: L3
+level_rank: 3
+title: chỉ đến khi…mới…：直到……才……
+structure: Chỉ đến khi + 小句（前置时间状语），主语 + mới + V
+structure_pattern: chỉ đến khi + Clause , S + mới + V
+explanation_zh: 时间状语（trạng ngữ）前置以示强调：chỉ đến khi… 限定时间条件，主句中的 mới 表示“才”，相当于汉语“直到……才……”。段首也可换用
+  cho tới…，意义相近。
+examples:
+- text: Chỉ đến khi tiếng trống vào học vang lên, tôi mới lò dò ôm cặp vô lớp
+  reading: ''
+  annot: Chỉ đến khi tiếng trống vào học vang lên, tôi mới lò dò ôm cặp vô lớp
+  translation_zh: 直到上课的鼓声响起，我才抱着书包磨磨蹭蹭地走进教室。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 时间状语
+- 强调
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

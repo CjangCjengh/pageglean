@@ -1,0 +1,39 @@
+id: ko-grm-00461
+language: ko
+type: grammar
+level: TOPIK5
+level_rank: 5
+title: 「하게体：贵族长辈的说话阶位（-(으)시게 / -네 / -는가）」
+structure: 谓词词干 + -(으)시게 / -네 / -(느)ㄴ가（对话者敬语终结词尾，可叠加主体敬语先语末词尾 -(으)시-）
+structure_pattern: V-(으)시- + -게 / -네 / -는가(종결어미, 상대높임법 ‘하게체’)
+explanation_zh: 学校语法相对敬语（对话者阶位）体系中的하게체，介于하오체与반말之间，典型用于长辈对成年晚辈礼貌而不过分客气的场合，小说中十分常见。本段领主빈自始至终使用此阶位：오시게、용서하게、찾아오셨는가，并可叠加主体敬语先语末词尾-(으)시-。它与키이리使用的합쇼체（감사할
+  따름입니다）形成鲜明对照，体现身份与场合的差别。
+examples:
+- text: 어서 오시게. 빈 헬로이스라고 하네.
+  reading: ''
+  annot: 어서 오시게. 빈 헬로이스라고 하네.
+  translation_zh: 欢迎。我是宾·海洛伊丝。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+- text: 딸의 무례를 용서하게. 아직 어려 철이 없어서.
+  reading: ''
+  annot: 딸의 무례를 용서하게. 아직 어려 철이 없어서.
+  translation_zh: 请原谅小女的失礼。她还小，不懂事。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 敬语
+- 阶位/文体
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

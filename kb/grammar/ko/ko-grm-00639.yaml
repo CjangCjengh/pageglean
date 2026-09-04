@@ -1,0 +1,33 @@
+id: ko-grm-00639
+language: ko
+type: grammar
+level: TOPIK5
+level_rank: 5
+title: -기 무섭게：刚一……就……
+structure: 동사 어간 + -기 무섭게（시간 연결 표현）
+structure_pattern: V + -기 무섭게
+explanation_zh: 시간 연결 표현 '-기 무섭게' 表示前一动作刚结束，后一动作紧接着发生，相当于“……刚一……就……”。字面意为“……得令人害怕”，语感比
+  '-자마자' 更强烈，多用于书面叙事。
+examples:
+- text: 가로의 말이 끝나기 무섭게, 창 너머 굉장히 먼 곳에서 환호성 소리가 들려왔다.
+  reading: ''
+  annot: 가로의 말이 끝나기 무섭게, 창 너머 굉장히 먼 곳에서 환호성 소리가 들려왔다.
+  translation_zh: 加罗的话音刚落，窗外极远的地方就传来了欢呼声。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 연결
+- 시간
+- 긴급
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 0
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

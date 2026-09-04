@@ -1,0 +1,39 @@
+id: ja-grm-00382
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 被身助动词「れる」：被动与困扰（迷惑の受身）
+structure: 动词未然形 + 助动词「れる・られる」（被身）
+structure_pattern: V-未然形 + れる・られる(被身)
+explanation_zh: 助动词「れる・られる」接在动词未然形后，是学校文法中的「被身」用法。除一般被动外，还可表示对主语而言困扰、不如意的遭遇（迷惑の受身），如「びびられる」。文中「吐き出された」则带比喻色彩，自嘲般地下课后被学校『吐』了出来。
+examples:
+- text: 声をかけるとびびられる。
+  reading: ''
+  annot: 声[こえ]をかけるとびびられる。
+  translation_zh: 我一开口搭话，对方反而吓得够呛。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+- text: 授業終了と共に学校から吐き出された俺は、ただ今家に向かってとぼとぼ歩いている。
+  reading: ''
+  annot: 授業[じゅうぎょう]終了[しゅうりょう]と共[とも]に学校[がっこう]から吐[は]き出[だ]された俺[おれ]は、ただ今[いま]家[いえ]に向[む]かってとぼとぼ歩[ある]いている。
+  translation_zh: 下课后被学校『吐』出来的我，此刻正拖着步子朝家走去。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 态
+- 被动
+- 助动词
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 6
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

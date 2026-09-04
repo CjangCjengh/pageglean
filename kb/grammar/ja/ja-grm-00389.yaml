@@ -1,0 +1,31 @@
+id: ja-grm-00389
+language: ja
+type: grammar
+level: N2
+level_rank: 4
+title: 「〜も〜ない」：连……都不……（强调否定）
+structure: 动词连用形 ＋ 副助词「も」＋ しない（否定）
+structure_pattern: V-連用形 + も + しない
+explanation_zh: “动词连用形＋副助词も＋否定”借「も」加强否定语气，意为“连……都不……、根本不……”。文中「考えもしなかった」即“想都没想、根本没考虑过”。较单纯否定「考えなかった」语气更强，强调程度之低。
+examples:
+- text: まったく意味不明ということで、とくに考えもしなかった謎の書き出し。
+  reading: ''
+  annot: まったく意味不明[いみふめい]ということで、とくに考[かんが]えもしなかった謎[なぞ]の書[か]き出[だ]し。
+  translation_zh: 因为完全不明所以，我也压根没去想的那个谜一样的开头。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 强调
+- 语气
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

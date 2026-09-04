@@ -1,0 +1,39 @@
+id: ko-grm-00035
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: -기 때문이다：原因与根据
+structure: 用言词干 + 명사형 어미 '-기' + 의존명사 '때문' + 이다
+structure_pattern: V/A + -기 때문이다
+explanation_zh: 由名词化词尾'-기'加依存名词'때문'构成，表示原因、根据，相当于『是因为……』。比连接词尾'-아/어서'更书面、正式，多用于说明与解释。文中的'그렇기
+  때문에'意为『正因为如此』，反复出现以承接前文。
+examples:
+- text: 막상 일을 치르기도 전에 성급하게 움직인 건, 아직 남자를 모르기 때문인가?
+  reading: ''
+  annot: 막상 일을 치르기도 전에 성급하게 움직인 건, 아직 남자를 모르기 때문인가?
+  translation_zh: 真正动手之前就急躁地行动，是因为还不了解男人吗？
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+- text: 그렇기 때문에 아즐란은 소설에서도 레이나에게 더 이상 손을 대지 않았다.
+  reading: ''
+  annot: 그렇기 때문에 아즐란은 소설에서도 레이나에게 더 이상 손을 대지 않았다.
+  translation_zh: 正因为如此，阿兹兰在小说中也没有再对蕾娜出手。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 原因
+- 依存名词
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

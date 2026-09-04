@@ -1,0 +1,40 @@
+id: ko-grm-00520
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: -잖아：提醒对方已知的事实
+structure: 用言词干 + 终结词尾 -잖아（-지 않아 的缩略）
+structure_pattern: 용언 어간 + -잖아
+explanation_zh: -잖아 是 -지 않아 的缩略，用来指出或提醒对方已经知道、理应知道的事实，相当于“不是……嘛”。属非敬语，多用于熟人之间；礼貌形式为
+  -잖아요。
+examples:
+- text: 요나에게 읽어 달라고 하면 되잖아.
+  reading: ''
+  annot: 요나에게 읽어 달라고 하면 되잖아.
+  translation_zh: 让约娜读给你听，不就好了嘛。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+- text: 그 식탁에 둘러앉은 사람 중에 제일 연로한 사람은 나였잖아?
+  reading: ''
+  annot: 그 식탁에 둘러앉은 사람 중에 제일 연로한 사람은 나였잖아?
+  translation_zh: 围坐在那张餐桌旁的人当中，最年长的不就是我吗？
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 终结词尾
+- 提醒
+- 口语
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

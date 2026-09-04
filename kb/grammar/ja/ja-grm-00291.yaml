@@ -1,0 +1,31 @@
+id: ja-grm-00291
+language: ja
+type: grammar
+level: N3
+level_rank: 3
+title: 〜抜いて見せる：贯彻到底并展示决心
+structure: V連用形＋抜く（複合動詞）＋連用形＋接続助詞「て」＋補助動詞「見せる」
+structure_pattern: V連用形 + 抜く + て + 見せる
+explanation_zh: 复合动词「〜抜く」表示将动作贯彻到底；其后接补助动词「〜て見せる」表示向对方展示、必定做到的强烈决心。二者叠加形成誓言语气，中文译为"一定～到底给你看"。
+examples:
+- text: この命の限り、リアも――貴方の事も守り抜いて見せます!!
+  reading: ''
+  annot: この命[いのち]の限[かぎ]り、リアも――貴方[あなた]の事[こと]も守[まも]り抜[ぬ]いて見[み]せます!!
+  translation_zh: 只要这条命还在，莉亚也好——你也好，我都会守护到底给你们看！！
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 复合动词
+- 语气
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

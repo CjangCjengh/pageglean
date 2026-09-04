@@ -1,0 +1,32 @@
+id: ko-grm-00615
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: 「-자：紧接与原因」
+structure: 用言词干 + 连接词尾 -자
+structure_pattern: V/A-자
+explanation_zh: 连接词尾-자表示前一动作或状态刚一结束，后句便紧接着发生，也可兼表原因，相当于汉语“一……就……”或“既然……”。“반응이 없자”即“（发现）没有反应，于是……”，自然引出下一步确认动作。属于叙事文体中高频的接续方式。
+examples:
+- text: 흔들어도 반응이 없자, 이어 코밑에 손가락을 가져가 호흡을 확인하고, 경동맥에서 맥박과 체온을 확인하고, 그다음엔 가슴에 귀를 댔다.
+  reading: ''
+  annot: 흔들어도 반응이 없자, 이어 코밑에 손가락을 가져가 호흡을 확인하고, 경동맥에서 맥박과 체온을 확인하고, 그다음엔 가슴에 귀를 댔다.
+  translation_zh: 摇了也没有反应，他便接着把手指探到鼻子底下确认呼吸，又从颈动脉确认脉搏和体温，随后把耳朵贴到胸口。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 连接词尾
+- 时间
+- 原因
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

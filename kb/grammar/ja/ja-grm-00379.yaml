@@ -1,0 +1,31 @@
+id: ja-grm-00379
+language: ja
+type: grammar
+level: N2
+level_rank: 4
+title: 〜どころか／〜すら：别说……连……都
+structure: 体言＋どころか；体言＋すら（副助詞）＋否定
+structure_pattern: N + どころか / N + すら + 〜ない
+explanation_zh: 「どころか」接体言等之后，举出程度更轻的事例加以否定，意为「哪里谈得上……／别说……」；「すら」是副助词，表示「连……都」，多与否定呼应。文中「花どころか雑草すら見当たらない」前后呼应，以前文「花を咲かせる」的比喻自嘲孤立之深。
+examples:
+- text: 俺の周りは荒野と化しており、花どころか雑草すら見当たらない。
+  reading: ''
+  annot: 俺の周[まわ]りは荒野[こうや]と化しており、花どころか雑草[ざっそう]すら見当[みあ]たらない。
+  translation_zh: 我周围已经化为一片荒野，别说花了，连根杂草都看不见。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 接续
+- 强调
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

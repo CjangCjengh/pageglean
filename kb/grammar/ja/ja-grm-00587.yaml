@@ -1,0 +1,38 @@
+id: ja-grm-00587
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 〜てしまう：非预期与遗憾（复合动词的体貌）
+structure: 动词连用形 ＋ 接续助词「て」 ＋ 补助动词「しまう」
+structure_pattern: V-连用形 + て + しまう
+explanation_zh: 补助动词「しまう」接在动词连用形＋接续助词「て」之后，表示动作完成或非预期之事的发生，常带遗憾、无奈的语气。文中「ためらってしまった」写犹豫不自觉地产生，「俺でなくなってしまう」写不愿看到的变化步步逼近。口语中常约作「〜ちゃう／〜ちまう」。
+examples:
+- text: 一瞬、続きを読むのをためらってしまったが、かぶりをふって吹き飛ばす。
+  reading: ''
+  annot: 一瞬[いっしゅん]、続[つづ]きを読[よ]むのをためらってしまったが、かぶりをふって吹[ふ]き飛[と]ばす。
+  translation_zh: 一瞬间我犹豫着要不要继续读下去，但摇了摇头，把这念头甩开了。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+- text: あと二十九分で、俺は俺でなくなってしまう。
+  reading: ''
+  annot: あと二十九分[にじゅうきゅうふん]で、俺[おれ]は俺[おれ]でなくなってしまう。
+  translation_zh: 再过二十九分钟，我就不再是我了。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 体貌
+- 语气
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

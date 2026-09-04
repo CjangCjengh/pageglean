@@ -1,0 +1,38 @@
+id: th-grm-00119
+language: th
+type: grammar
+level: L2
+level_rank: 2
+title: ที่：定语从句标记（相当于「……的」）
+structure: 中心名词 + ที่ + 修饰小句
+structure_pattern: นามบทหลัก + ประพันธสรรพนาม 'ที่' + อนุประโยคขยายนาม
+explanation_zh: ที่ 是引导定语从句的关系词，相当于汉语的「的」，从句紧跟被修饰名词之后。泰语修饰成分后置，「名词＋ที่＋小句」是最典型的名词扩展结构。片段中สถานที่、อาราม等名词后均以此方式扩展。
+examples:
+- text: สถานที่​ท่องเที่ยว​ชื่อดัง​อีก​แห่งหนึ่ง​ของ​กรุง​มอสโก​ที่​ผม​เคย​ไป​เที่ยว​เมื่อ​สี่​ปีก่อน
+  reading: ''
+  annot: สถานที่​ท่องเที่ยว​ชื่อดัง​อีก​แห่งหนึ่ง​ของ​กรุง​มอสโก​ที่​ผม​เคย​ไป​เที่ยว​เมื่อ​สี่​ปีก่อน
+  translation_zh: （是）莫斯科另一处著名的旅游景点，我四年前曾去游玩过。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+- text: ญาดา​พูดถึง​อารามอ​เล็กซานเดอร์เนฟ​สกี้​ที่​ตั้ง​อยู่​สุดถนนเนฟ​สกี้
+  reading: ''
+  annot: ญาดา​พูดถึง​อารามอ​เล็กซานเดอร์เนฟ
+  translation_zh: 雅达提到的那座亚历山大·涅夫斯基修道院，位于涅夫斯基大街的尽头。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 句法
+- 关系从句
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 9
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

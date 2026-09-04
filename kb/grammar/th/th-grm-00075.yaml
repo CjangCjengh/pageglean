@@ -1,0 +1,31 @@
+id: th-grm-00075
+language: th
+type: grammar
+level: L2
+level_rank: 2
+title: 「อยากให้：想让某人做某事」
+structure: อยาก/ไม่อยาก + ให้ + 人 + 动词
+structure_pattern: อยาก + ให้ + NP + VP
+explanation_zh: อยากให้ 表示“想让某人做某事”，ให้ 引出动作的执行者，其后直接接动词，否定形式是 ไม่อยากให้。这是泰语最常用的使役—意愿句式，相当于中文的“想让/不想让……做……”。
+examples:
+- text: ฉัน​เลย​ไม่​อยาก​ให้​เธอ​ไป​กับ​ฉัน​ด้วย
+  reading: ''
+  annot: ฉัน​เลย​ไม่​อยาก​ให้​เธอ​ไป​กับ​ฉัน​ด้วย
+  translation_zh: 所以我才不想让你跟我一起去呀。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 使役
+- 意愿
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

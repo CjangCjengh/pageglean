@@ -1,0 +1,31 @@
+id: ja-grm-00312
+language: ja
+type: grammar
+level: N3
+level_rank: 3
+title: 「〜たところで」：刚……之际
+structure: 動詞連体形（タ形）＋ところで
+structure_pattern: V-た + ところで
+explanation_zh: 「〜たところで」表示前一动作刚刚完成的时间节点，后项随即转入新动作，相当于「……刚告一段落，趁这时……」。文中指事情暂且了结，不如就此回去。注意与表示让步的「〜たところで」（即使……也枉然）区分，此处为时间点义。
+examples:
+- text: ひと段落付いたところで、いい加減帰ろうか。
+  reading: ''
+  annot: ひと段落[だんらく]付[つ]いたところで、いい加減[かげん]帰[かえ]ろうか。
+  translation_zh: 既然告一段落了，差不多该回去了吧。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 时间
+- 接续
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

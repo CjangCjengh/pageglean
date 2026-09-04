@@ -1,0 +1,38 @@
+id: ko-grm-00618
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: 「-는 통에：招致消极结果的原因」
+structure: 动词冠形词尾 -는 + 依存名词 통 + 助词 에
+structure_pattern: V-는 통에
+explanation_zh: -는 통에表示招致消极、令人困扰结果的原因，相当于汉语“因为……（而遭殃／弄得……）”。“달려드는 통에”即“因为男人们扑压上来”，导致主语被迫趴在地上。只用于不好的结果，不能用于好事。
+examples:
+- text: 가로 역시 다섯 명의 남자가 달려드는 통에 별수 없이 바닥에 납작 엎드려야 했다.
+  reading: ''
+  annot: 가로 역시 다섯 명의 남자가 달려드는 통에 별수 없이 바닥에 납작 엎드려야 했다.
+  translation_zh: 因为五个男人一拥而上，加罗也无可奈何，只得整个人趴在地上。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+- text: 다들 제가 잘났다며 제멋대로 날뛰는 통에 통제가 되지 않는 거라고.
+  reading: ''
+  annot: 다들 제가 잘났다며 제멋대로 날뛰는 통에 통제가 되지 않는 거라고.
+  translation_zh: 正因为人人都自以为了不起、肆意胡闹，所以才无法控制。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 原因
+- 消极结果
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

@@ -1,0 +1,32 @@
+id: ko-grm-00036
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: -아/어 놓다：动作完成，结果状态持续
+structure: 本用言连接形 '-아/어' + 보조동사 '놓다'
+structure_pattern: V + -아/어 놓다 (보조동사)
+explanation_zh: '''-아/어 놓다''是补助动词（보조동사）结构，表示某动作完成之后，其结果状态持续保持，相当于『（做完后）保持着……的状态』。片段中''갈아
+  놓은 머리핀''即『已经磨锋利并保持着那个状态的发夹』，强调事先准备的结果。与''-아/어 두다''语义相近，常可互换。'
+examples:
+- text: 머리카락 속에 숨겼던…… 사람을 죽일 수 있을 정도로 뾰족하게 갈아 놓은 머리핀.
+  reading: ''
+  annot: 머리카락 속에 숨겼던…… 사람을 죽일 수 있을 정도로 뾰족하게 갈아 놓은 머리핀.
+  translation_zh: 那是藏在头发里的……磨得尖锐到足以杀人的发夹。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 补助动词
+- 体貌
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

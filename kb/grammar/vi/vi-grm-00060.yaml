@@ -1,0 +1,31 @@
+id: vi-grm-00060
+language: vi
+type: grammar
+level: L2
+level_rank: 2
+title: 「vừa A vừa B」：两个动作同时进行
+structure: vừa + V1，vừa + V2
+structure_pattern: vừa + V + vừa + V（并列关联结构）
+explanation_zh: 「vừa…vừa…」表示两个动作或状态同时发生，相当于汉语「一边……一边……」，属并列关联结构。句中「luôn miệng」表示不停地、一个劲儿地。
+examples:
+- text: Vừa làm, nó vừa xuýt xoa luôn miệng.
+  reading: ''
+  annot: Vừa làm, nó vừa xuýt xoa luôn miệng.
+  translation_zh: 她一边给我上药，一边不停地心疼唏嘘。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 体貌
+- 并列
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

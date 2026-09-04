@@ -1,0 +1,31 @@
+id: ja-grm-00304
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 〜てもらう：领受恩惠
+structure: （人）に + 動詞連用形 + 接続助詞「て」 + もらう
+structure_pattern: V-て + もらう
+explanation_zh: 授受动词「〜てもらう」表示说话人一方领受他人做出的恩惠行为，施惠者用「に」标记。「てもらっている」表示该恩惠关系处于持续状态。
+examples:
+- text: 我等は和希の師となる事を条件に、和希のご両親に学費を払ってもらっている。
+  reading: ''
+  annot: 我等[われら]は和希の師[し]となる事[こと]を条件[じょうけん]に、和希のご両親[りょうしん]に学費[がくひ]を払[はら]ってもらっている。
+  translation_zh: 我们以担任和希的老师为条件，由和希的父母替我们支付学费。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 授受
+- 敬语
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

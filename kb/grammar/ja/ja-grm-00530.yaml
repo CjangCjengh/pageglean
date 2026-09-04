@@ -1,0 +1,31 @@
+id: ja-grm-00530
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 「〜てくれる／〜てあげる／〜てやる」：授受与恩惠方向
+structure: 動詞連用形 + 接続助詞「て」 + 授受動詞「くれる・あげる・やる」
+structure_pattern: V-連用形 + てくれる／てあげる／てやる
+explanation_zh: 接于动词连用形后构成授受补助动词：「てくれる」表他人为自己（一方）施惠；「てあげる」表自己为他人做事，语气较客气；「てやる」较随便，多用于同辈、晚辈。片段中三种形式均出现，体现说话人立场与语域的差异。中文可译作“（为我）……”“（替……）……”。
+examples:
+- text: あの子の中学時代の友達がきてくれてね。
+  reading: ''
+  annot: あの子[こ]の中学時代[ちゅうがくじだい]の友達[ともだち]がきてくれてね。
+  translation_zh: 那孩子中学时代的朋友过来看我了呢。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 授受表现
+- 敬语
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 7
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

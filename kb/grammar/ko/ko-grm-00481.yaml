@@ -1,0 +1,39 @@
+id: ko-grm-00481
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: -다니：居然……（惊讶感叹）
+structure: 动词/形容词词干 + -다니
+structure_pattern: V/A-다니（感叹型终结词尾）
+explanation_zh: -다니 是表示感叹的终结词尾，说话者对自己得知或目睹的事实表示惊讶、难以置信或感慨。相当于中文的“居然……”“没想到……”。片段中两次用于内心独白的惊叹。
+examples:
+- text: 동전에 제 딸 얼굴을 새겨 넣다니, 팔불출.
+  reading: ''
+  annot: 동전에 제 딸 얼굴을 새겨 넣다니, 팔불출.
+  translation_zh: 居然把女儿的脸刻在硬币上，真是个炫女狂魔。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+- text: 그런 걸 첫날부터 손에 넣다니, 엘레바도 양은 축제의 운을 타고 난 모양이군 그래.
+  reading: ''
+  annot: 그런 걸 첫날부터 손에 넣다니, 엘레바도 양은 축제의 운을 타고 난 모양이군 그래.
+  translation_zh: 居然第一天就能拿到这种东西，看来埃雷巴多小姐真是天生带着祭典的好运啊。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 感叹
+- 终结词尾
+- 语气
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

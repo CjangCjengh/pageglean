@@ -1,0 +1,30 @@
+id: vi-grm-00390
+language: vi
+type: grammar
+level: L3
+level_rank: 3
+title: càng...càng：递进结构
+structure: càng + V/Adj, càng + V/Adj
+structure_pattern: càng + V + càng + V
+explanation_zh: càng…càng… 是递进关联结构，表示两种情况按比例同步发展，相当于汉语「越……越……」。「Càng nghĩ càng lo」是叙事中常用的高频固定说法。
+examples:
+- text: Càng nghĩ càng lo, tôi tìm cách "câu giờ"
+  reading: ''
+  annot: Càng nghĩ càng lo, tôi tìm cách "câu giờ"
+  translation_zh: 越想越担心，我便设法「拖延时间」
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 复句/递进
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

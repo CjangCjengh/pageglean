@@ -1,0 +1,38 @@
+id: ko-grm-00325
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: -(으)ㄹ 뿐이다：只是……而已
+structure: 动/形词干 + -(으)ㄹ 뿐이다；名词 + 뿐이다
+structure_pattern: V/A-(으)ㄹ + 의존명사 '뿐' + '이다'
+explanation_zh: 依存名词 뿐 表示限定，-(으)ㄹ 뿐이다 意为“只是……而已”，排除其他情况。体言后直接接 뿐(이다)。与汉语“只不过……”对应，常带轻微转折语气。
+examples:
+- text: 너는 오로지 재생 능력만이 뛰어날 뿐이야.
+  reading: ''
+  annot: 너는 오로지 재생 능력만이 뛰어날 뿐이야.
+  translation_zh: 你只不过是再生能力特别出色而已。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+- text: 이 세계에서 네 재생 능력을 뛰어넘는 타격을 줄 수 있는 건 카이트뿐이야.
+  reading: ''
+  annot: 이 세계에서 네 재생 능력을 뛰어넘는 타격을 줄 수 있는 건 카이트뿐이야.
+  translation_zh: 在这个世界里，能给予超越你再生能力的打击的人只有凯特。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 限定
+- 依存名词
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

@@ -1,0 +1,31 @@
+id: ja-grm-00145
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 「〜たくなる」：变得想要做某事（愿望的产生）
+structure: 動詞連用形＋助動詞「たい」連用形「たく」＋動詞「なる」
+structure_pattern: V-連用形 + 助動詞「たい」連用形(たく) + なる
+explanation_zh: 希望の助動詞「たい」的連用形「たく」后接動詞「なる」，表示心情由无到有，“变得想要做某事”。片段以“浮かべたくなった”“訊いてみたくなった”首尾呼应，呈现人物心理的自然流动。可译为“不由得想……”“忽然想……”。
+examples:
+- text: ……言ってから、改めて自分自身に苦笑を浮かべたくなった。
+  reading: ''
+  annot: ……言[い]ってから、改[あらた]めて自分自身[じぶんじしん]に苦笑[くしよう]を浮[う]かべたくなった。
+  translation_zh: ……话一说出口，我又不由得想对自己苦笑一下。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 助动词
+- 心理表达
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

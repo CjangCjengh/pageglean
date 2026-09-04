@@ -1,0 +1,39 @@
+id: ko-grm-00069
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: 「-(이)라 불리다 / -다고 일컫다：间接引用与“被称为”」
+structure: 引用成分 + -(이)라 / -다고 + 불리다/일컫다
+structure_pattern: N-(이)라 불리다 / A(다)-다고 일컫다
+explanation_zh: 韩语间接引用体系中，名词用「-(이)라」、形容词/动词用「-다고」引出内容，后接「불리다/일컫다」构成“被称作……”。「수백만 마나르를
+  보유한 대영주들……‘5제후’라 불리는」是典型的先描述后点名称呼的写法。引用词尾与被动动词的搭配是韩语阅读中的常见难点。
+examples:
+- text: 왜냐하면 아즐란이 상대해야 하는 건 수백만 마나르를 보유한 대영주들…… ‘5제후’라 불리는 이 세계의 지배자들이니까.
+  reading: ''
+  annot: 왜냐하면 아즐란이 상대해야 하는 건 수백만 마나르를 보유한 대영주들…… ‘5제후’라 불리는 이 세계의 지배자들이니까.
+  translation_zh: 因为阿兹兰所要面对的，是坐拥数百万马纳的大领主们——即被称作“五诸侯”的这个世界的支配者们。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+- text: 악마공작 휘하 서열 4위. 악마공작보다 더 악마 같다고 세인들이 일컫는 마녀 루시 로스프리아.
+  reading: ''
+  annot: 악마공작 휘하 서열 4위. 악마공작보다 더 악마
+  translation_zh: 恶魔公爵麾下顺位第四。是被世人称作比恶魔公爵更像恶魔的魔女——露西·罗斯弗利亚。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 间接引用
+- 被动
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

@@ -1,0 +1,40 @@
+id: ko-grm-00364
+language: ko
+type: grammar
+level: TOPIK2
+level_rank: 2
+title: 「-(으)ㄹ 것 같다：委婉的推测」
+structure: 동사 어간 + -(으)ㄹ 것 같다 / 형용사·이다 어간 + -(으)ㄴ 것 같다
+structure_pattern: V + -(으)ㄹ 것 같다 / A·N이다 + -(으)ㄴ 것 같다
+explanation_zh: 依存名词“것”加“같다”，表示说话人委婉、不确定的推测或感觉。动词后用“-(으)ㄹ 것 같다”，形容词和“이다”后用“-(으)ㄴ 것
+  같다”。也可用于夸张表达，如“귀여워서 죽을 것 같았다（可爱得要命）”。
+examples:
+- text: 그럴 수도 있을 것 같고, 아닐 것 같기도 하다.
+  reading: ''
+  annot: 그럴 수도 있을 것 같고, 아닐 것 같기도 하다.
+  translation_zh: 说会那样吧好像也会，说不会吧又好像不是。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+- text: 이 정도로 간격이 생기는 건 처음인 것 같아.
+  reading: ''
+  annot: 이 정도로 간격이 생기는 건 처음인 것 같아.
+  translation_zh: 间隔拉大到这种程度，好像还是头一回。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 추측
+- 의존명사
+- 완곡 표현
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 5
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

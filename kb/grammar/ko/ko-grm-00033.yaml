@@ -1,0 +1,38 @@
+id: ko-grm-00033
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: -(으)면서/-며：动作同时进行
+structure: 用言词干 + 동시 연결어미 '-(으)면서'（缩略形 '-며'）
+structure_pattern: V + -(으)면서 / -며 (동시 연결어미)
+explanation_zh: 学校文法中属于表示同时性的连接词尾（동시 연결어미），接在用言词干后，表示前后两个动作或状态同时进行，相当于中文的『一边……一边……』。书面语与小说中常用其缩略形式'-며'。本片段中两种形式都有出现。
+examples:
+- text: 그렇게 내 시선을 빼앗으면서 침대 위로 올라온 레이나가, 머리카락을 쓸어 올리며 천천히 나에게로 다가왔다.
+  reading: ''
+  annot: 그렇게 내 시선을 빼앗으면서 침대 위로 올라온 레이나가, 머리카락을 쓸어 올리며 천천히 나에게로 다가왔다.
+  translation_zh: 蕾娜那样夺走我的视线后爬上床来，一边把头发挽上去，一边缓缓向我靠近。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+- text: 그 모습을 지켜보면서, 나는 아까부터 계속 머릿속을 가득 채우고 있던 생각을 다시 한 번 되새겼다.
+  reading: ''
+  annot: 그 모습을 지켜보면서, 나는 아까부터 계속 머릿속을 가득 채우고 있던 생각을 다시 한 번 되새겼다.
+  translation_zh: 注视着那副模样，我把从刚才起就一直充满脑海的想法又重新回味了一遍。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 连接词尾
+- 同时性
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 5
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

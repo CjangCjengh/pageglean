@@ -1,0 +1,39 @@
+id: ko-grm-00122
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: 「-았/었다면：与过去事实相反的假设」
+structure: 动词 + -았/었-다면（연결어미 -다면 + 과거 시제）
+structure_pattern: V-았/었-다면
+explanation_zh: 연결어미 -다면提出与事实相反的假设条件，与过去时制词尾-았/었-结合时，表示对已过去之事的非现实假设。后句常搭配-(으)ㄹ 것이다，推测在该假设下会得出的结果，即"如果当时……就会……"。
+examples:
+- text: 만약 마이시아가 화이트 엘프에게 대대로 내려오는 마법을 익힌 게 아니라 마법 학교에서 체계적으로 마법을 배웠다면
+  reading: ''
+  annot: 만약 마이시아가 화이트 엘프에게 대대로 내려오는 마법을 익힌 게 아니라 마법 학교에서 체계적으로 마법을 배웠다면
+  translation_zh: 如果玛西亚当时不是学了白精灵世代相传的魔法，而是在魔法学校系统地学习魔法的话
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+- text: 내가 사용한 게 제대로 된 신성마법이 아니라는 걸 눈치챘을 것이다.
+  reading: ''
+  annot: 내가 사용한 게 제대로 된 신성마법이 아니라는 걸 눈치챘을 것이다.
+  translation_zh: 她应该就会察觉到我用的并不是真正的神圣魔法。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 接续
+- 条件
+- 推测
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

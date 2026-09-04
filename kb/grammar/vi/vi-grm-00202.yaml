@@ -1,0 +1,38 @@
+id: vi-grm-00202
+language: vi
+type: grammar
+level: L3
+level_rank: 3
+title: đâu có：强调否定「哪有的事」
+structure: đâu (có) + V/Adj
+structure_pattern: đâu (có) + V
+explanation_zh: 副词 đâu（可加 có）表示强调否定，意为“哪里、哪会、根本没有”，常带反驳、辩解的口吻。可独语句使用："Đâu có!"（哪有！）。本片段中两种用法各出现一次。
+examples:
+- text: Đâu có! Tôi đến hồi bốn giờ rưỡi!
+  reading: ''
+  annot: Đâu có! Tôi đến hồi bốn giờ rưỡi!
+  translation_zh: 哪有！我四点半就到了！
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+- text: Nó đâu có biết bây giờ tôi ăn cả trái... đất cũng không hết "mệt"
+  reading: ''
+  annot: Nó đâu có biết bây giờ tôi ăn cả trái... đất cũng không hết "mệt"
+  translation_zh: 它哪里知道，现在我就算吃下一整个……土，也消不了这“累”
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 否定
+- 语气
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

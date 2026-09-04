@@ -1,0 +1,39 @@
+id: ko-grm-00289
+language: ko
+type: grammar
+level: TOPIK5
+level_rank: 5
+title: 「-(으)ㄹ 텐데」：委婉推测与转折铺垫
+structure: 用言词干 + 依存名词'터'构成的推测结构'-(으)ㄹ 터' + 连接词尾'-인데'
+structure_pattern: V/A + -(으)ㄹ 터 + -인데
+explanation_zh: '''터''是表示推测、想法的依存名词，''-(으)ㄹ 터이다''整体表示''应该会……''的推测。后接连接词尾''-인데''引出背景或转折，相当于''应该……可是……''，常用于推测对方情况后接疑问或建议。本段中反复出现，暗含实际情况与预期不符的语气。'
+examples:
+- text: 그 제안은 이미 거절했을 텐데.
+  reading: ''
+  annot: 그 제안은 이미 거절했을 텐데.
+  translation_zh: 那个提议，我明明应该已经拒绝了才对。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+- text: 그냥 죽이는 게 너다운 행동일 텐데.
+  reading: ''
+  annot: 그냥 죽이는 게 너다운 행동일 텐데.
+  translation_zh: 干脆把我杀了，才像是你的作风啊。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 推测
+- 接续
+- 语气
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

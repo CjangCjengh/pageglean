@@ -1,0 +1,32 @@
+id: ja-grm-00164
+language: ja
+type: grammar
+level: N3
+level_rank: 3
+title: 使役＋ていただく：承蒙允许我……
+structure: 動詞未然形＋せる/させる（連用形）＋て＋いただく
+structure_pattern: V-未然形 + せる/させる（連用形）+ て + いただく（+ ば）
+explanation_zh: 使役助動詞せる/させる接动词未然形，其连用形接て后连接谦让语いただく（もらう的谦让语），表示礼貌地请求或感谢对方允许自己做某事。文中ば接いただく的假定形，以假设语气委婉表达「如果可以让我说句心里话的话」。是敬语层位中典型的授受＋使役组合。
+examples:
+- text: 本音を言わせていただけば、私は和希さんに助けられた身。
+  reading: ''
+  annot: 本音[ほんね]を言[い]わせていただけば、私[わたし]は和希さんに助[たす]けられた身[み]。
+  translation_zh: 如果容许我说句心里话，我是曾被和希救过的人。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 使役
+- 授受
+- 敬语
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

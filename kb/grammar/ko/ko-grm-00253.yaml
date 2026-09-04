@@ -1,0 +1,39 @@
+id: ko-grm-00253
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: 「-던：回想定语词尾」
+structure: 용언 어간 + 회상 관형사형 어미 '-던' + 체언
+structure_pattern: V/A + -던 + N
+explanation_zh: '''-던''是回想形冠形词尾，追忆说话者过去亲历或曾经持续的状态来修饰后面的名词。与单纯过去完成的''-았던''不同，它带有''当时如此、如今回溯''的现场感。片段中''애용하던、살던、줬던、날아오던''反复出现，是小说叙述的典型手段。'
+examples:
+- text: 오른손에 들고 있는 건 예전부터 애용하던 검이고,
+  reading: ''
+  annot: 오른손에 들고 있는 건 예전부터 애용하던 검이고,
+  translation_zh: 右手拿着的是从前就一直爱用的剑，
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+- text: 맞은편에 앉아 있던 브룬이 인형의 손으로 식탁을 탁탁 내리치며 관심을 끌었다.
+  reading: ''
+  annot: 맞은편에 앉아 있던 브룬이 인형의 손으로 식탁을 탁탁 내리치며 관심을 끌었다.
+  translation_zh: 坐在对面的布伦用布偶的手啪嗒啪嗒地敲着餐桌，以吸引大家的注意。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 冠形词尾
+- 回想
+- 定语
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 4
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

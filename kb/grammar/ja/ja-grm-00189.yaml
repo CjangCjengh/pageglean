@@ -1,0 +1,32 @@
+id: ja-grm-00189
+language: ja
+type: grammar
+level: N3
+level_rank: 3
+title: 「〜らしい：基于迹象的推测」
+structure: 用言・助動詞終止形＋助動詞「らしい」（推量）
+structure_pattern: V/A-終止形 + らしい
+explanation_zh: 助动词「らしい」接终止形后，表示根据眼前迹象或传闻作出的推测，“看来……”“似乎……”。与「ようだ」相比语感更随意，多用于口语性叙述；「どうやら〜らしい」是常见呼应搭配。注意与接尾语「〜らしい」（如「男らしい」）表示典型性的用法相区别。
+examples:
+- text: どうやらチャイムの音に反応して、玄関に様子を見に行っていたらしいフェル。
+  reading: ''
+  annot: どうやらチャイムの音[おと]に反応[はんのう]して、玄関[げんかん]に様子[ようす]を見[み]に行[い]っていたらしいフェル。
+  translation_zh: 看来是对门铃声起了反应，跑去玄关查看情况的费尔。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 助动词
+- 推测
+- 口语
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

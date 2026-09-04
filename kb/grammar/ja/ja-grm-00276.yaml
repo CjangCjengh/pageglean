@@ -1,0 +1,32 @@
+id: ja-grm-00276
+language: ja
+type: grammar
+level: N2
+level_rank: 4
+title: 〜ながら：接续助词的让步转折（虽然…却…）
+structure: イ形容词终止形（动词则为连用形）＋接续助词「ながら」（逆接）
+structure_pattern: イA終止形 / V-連用形 + ながら(逆接用法)
+explanation_zh: 接续助词「ながら」此处接在形容词终止形后，表示让步性逆接，「虽然～却……」，带有书面语色彩。幼いながら＝虽然年幼却（认真思考）。此用法须与表示两个动作同时进行的「一边～一边～」义「ながら」相区分。
+examples:
+- text: 俺の問いに、幼いながら真剣に考えている様子のリア。
+  reading: ''
+  annot: 俺[おれ]の問[と]いに、幼[おさな]いながら真剣[しんけん]に考[かんが]えている様子[ようす]のリア。
+  translation_zh: 对我的提问，莉亚虽然年幼，却一副认真思考的样子。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 助词
+- 逆接
+- 书面
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

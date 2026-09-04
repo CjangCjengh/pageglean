@@ -1,0 +1,40 @@
+id: ko-grm-00528
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: -(으)ㄹ지도 모르다：也许、说不定
+structure: 用言词干 + 冠形词形词尾 -(으)ㄹ지 + 补助词 도 + 모르다（体言后用 -(이)ㄹ지도 모르다）
+structure_pattern: V/A + -(으)ㄹ지 + 도 + 모르다
+explanation_zh: 冠形词形词尾 -(으)ㄹ지（表推测、疑问）与补助词 도、动词 모르다 结合构成的推测表达。委婉地表示不确定的可能性或担忧，体言后接
+  -(이)ㄹ지도 모르다。对应中文“也许／说不定／搞不好”。
+examples:
+- text: 그녀가 악마일지도 모른다는 생각에 사로잡혀, 그녀의 모든 행동과 말이 의심스러울 뿐이었다.
+  reading: ''
+  annot: 그녀가 악마일지도 모른다는 생각에 사로잡혀, 그녀의 모든 행동과 말이 의심스러울 뿐이었다.
+  translation_zh: 我被“她说不定就是恶魔”的念头攫住，只觉得她的一举一动、一言一语都可疑。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+- text: 이 도시에 악마가 있을지도 모르는 거잖아.
+  reading: ''
+  annot: 이 도시에 악마가 있을지도 모르는 거잖아.
+  translation_zh: 这座城市里说不定就有恶魔啊。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 推测
+- 冠形词形词尾
+- 固定表达
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

@@ -1,0 +1,31 @@
+id: ja-grm-00090
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 终止形＋な：粗暴的禁止命令（〜ないでくれ）
+structure: 動詞終止形＋な（禁止の助詞）
+structure_pattern: V-終止形 + な
+explanation_zh: 这是学校文法中的「禁止の文」：动词以终止形（辞书形）直接后接助词「な」构成禁止，语气生硬，多用于男性长辈或亲近之人之间。注意与命令形＋な（「〜しろ」式强调）相区分。片段中父亲叮嘱儿子「别对王女出手」即用此形。
+examples:
+- text: 王女と仲良くするのは良いが、手は出すなよ？
+  reading: ''
+  annot: 王女[おうじょ]と仲良[なかよ]くするのは良[よ]いが、手[て]は出[だ]すなよ？
+  translation_zh: 和王女搞好关系没问题，但不许出手（动手动脚）哦？
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 命令・禁止
+- 语气
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

@@ -1,0 +1,31 @@
+id: ja-grm-00376
+language: ja
+type: grammar
+level: N2
+level_rank: 4
+title: わけにもいかない：碍于情势无法……
+structure: 動詞終止形＋形式名词「わけ」＋にもいかない
+structure_pattern: V終止形 + わけにもいかない
+explanation_zh: 由形式名词「わけ」加「にもいかない」构成，表示碍于情理、立场或客观情势而不能做某事，区别于能力层面的「〜られない」。句尾「ず」为否定助动词「ない」的连用形，带书面色彩。句中「真相を話すわけにもいかず」即"碍于情况无法说出真相"。
+examples:
+- text: だけど真相を話すわけにもいかず、警察は「はいはい、このクソが！」などと言うばかり。
+  reading: ''
+  annot: だけど真相[しんそう]を話[はな]すわけにもいかず、警察[けいさつ]は「はいはい、このクソが！」などと言[い]うばかり。
+  translation_zh: 但碍于情势我没法说出真相，警察又只顾着说什么"行行行，你个人渣！"。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 形式名词
+- 语气
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

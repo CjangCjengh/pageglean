@@ -1,0 +1,31 @@
+id: th-grm-00102
+language: th
+type: grammar
+level: L4
+level_rank: 4
+title: ขนาด…ยัง…：连……都还……
+structure: ขนาด + 程度/数量小句，ยัง + 出乎意料的结果
+structure_pattern: ขนาด + clause, ยัง + clause
+explanation_zh: ขนาด…ยัง… 表示「连／即使……都还……」：前一小句给出极端或有限的程度、数量，后用 ยัง 引出超乎预期的结果。常带有赞叹或惊讶的语气。
+examples:
+- text: ขนาด​ส่วนผสม​มี​แค่นี้​ยัง​ทำ​ออกมา​ได้​น่าอร่อย​สุด ๆ
+  reading: ''
+  annot: ขนาด​ส่วนผสม​มี​แค่นี้​ยัง​ทำ​ออกมา​ได้​น่าอร่อย​สุด ๆ
+  translation_zh: 食材只有这么一点，居然还能做出看起来这么好吃的东西。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 让步/程度
+- 语气
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

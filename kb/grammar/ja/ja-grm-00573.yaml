@@ -1,0 +1,31 @@
+id: ja-grm-00573
+language: ja
+type: grammar
+level: N2
+level_rank: 4
+title: 〜あたり：判断的材料（“光是……就”）
+structure: 用言连体形 + 助词 あたり
+structure_pattern: V-る + あたり
+explanation_zh: 「あたり」举出某一事实作为判断材料，后项顺势引出推断，意为“从……来看”“光是……就”，与「だけあって」用法相近。多见于轻小说叙事与主人公的推理段落，属口语语体。片段中用于由风城挑选生日一事推断其行动地点。
+examples:
+- text: わざわざ夢前光の誕生日を選んで決行しようとしているあたり、風城は必ず事故現場付近で事におよぶだろう。
+  reading: ''
+  annot: わざわざ夢前光[ゆめさきひかり]の誕生日[たんじょうび]を選[えら]んで決行[けっこう]しようとしているあたり、風城[かぜしろ]は必[かなら]ず事故現場[じこげんば]付近[ふきん]で事[こと]におよぶだろう。
+  translation_zh: 光是他特意挑中梦前光的生日下手这一点来看，风城必定会在事故现场附近动手。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 推断
+- 口语
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

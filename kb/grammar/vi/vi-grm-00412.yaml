@@ -1,0 +1,39 @@
+id: vi-grm-00412
+language: vi
+type: grammar
+level: L3
+level_rank: 3
+title: chẳng thèm + V：不屑于做某事
+structure: chẳng thèm + 动词
+structure_pattern: chẳng thèm + V（否定副词 + 动词）
+explanation_zh: chẳng 是书面语/北方色彩的否定词（相当于 không），thèm 本义为「嘴馋、渴望」。二者合用表示「不屑、懒得去做」，带赌气或委屈的情绪。本段连用五句，极力渲染小丽的「狠心」。
+examples:
+- text: Nó chẳng thèm cho tôi chấm chung lọ mực
+  reading: ''
+  annot: Nó chẳng thèm cho tôi chấm chung lọ mực
+  translation_zh: 她都不屑让我共用一瓶墨水
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+- text: Nó chẳng thèm giữ dép giùm tôi trong những giờ chơi
+  reading: ''
+  annot: Nó chẳng thèm giữ dép giùm tôi trong những giờ chơi
+  translation_zh: 课间玩耍时她都不屑帮我看管拖鞋
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 否定
+- 语气
+- 口语
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 5
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

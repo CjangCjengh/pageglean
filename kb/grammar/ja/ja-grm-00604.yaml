@@ -1,0 +1,31 @@
+id: ja-grm-00604
+language: ja
+type: grammar
+level: N2
+level_rank: 4
+title: 〜なりに：以自己的方式
+structure: 名詞＋なりに
+structure_pattern: N + なりに
+explanation_zh: 接在名词（或连体形）之后，表示“以其自身的立场、方式，相应地……”。片段「夢前光なりに一生懸命考えた」意为“以她自己的方式拼命思考”。常用于肯定某人在自身局限下尽力而为，书面叙述中常见。
+examples:
+- text: そこに書かれていたのは、夢前光なりに一生懸命に考えたフォローなんだろう。
+  reading: ''
+  annot: そこに書[か]かれていたのは、夢前光[ゆめさきひかり]なりに一生懸命[いっしょうけんめい]に考[かんが]えたフォローなんだろう。
+  translation_zh: 那里写的，大概是梦前光以自己的方式拼命想出来的补救说辞吧。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 助詞
+- 立場・方式
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

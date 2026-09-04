@@ -1,0 +1,31 @@
+id: ko-grm-00019
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: -아/어 버리다：彻底做完
+structure: 动词词干 + -아/어 버리다
+structure_pattern: V + -아/어 + 버리다 (보조동사)
+explanation_zh: 补助动词 -아/어 버리다 表示动作彻底完成或做完，常带有惋惜、遗憾或如释重负的语气。片段中『생각을 지워 버렸다』强调把杂念从脑海里彻底抹掉。作补助动词使用时，通常与前面的词分开书写。
+examples:
+- text: 나는 억지로 그 생각을 머릿속에서 지워 버렸다.
+  reading: ''
+  annot: 나는 억지로 그 생각을 머릿속에서 지워 버렸다.
+  translation_zh: 我硬是强行把那个想法从脑海中抹掉了。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 보조용언
+- 완료
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

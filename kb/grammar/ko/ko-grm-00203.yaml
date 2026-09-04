@@ -1,0 +1,40 @@
+id: ko-grm-00203
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: 「-(으)ㄹ 텐데：应该……可是……」
+structure: 谓词 + -(으)ㄹ 터인데（의존명사 터 + 이다 + -ㄴ데）
+structure_pattern: V/A-(으)ㄹ 터 + -ㄴ데
+explanation_zh: -(으)ㄹ 터이다 由依存名词「터」加 이다 构成，表示有依据的推测，意为「应该/会……」。其后接连接词尾 -ㄴ데 构成 -(으)ㄹ
+  텐데，先提出推测再引出转折或铺垫背景，相当于「应该会……可是……」。口语常用缩略变体，如 -ㄹ 테고、-ㄹ 테니까，文中「없을 테고」即 -ㄹ 터이고 的缩略。
+examples:
+- text: 부하들을 마음대로 움직일 수 없을 테고 항상 클라우의 감시를 받게 될 것이다.
+  reading: ''
+  annot: 부하들을 마음대로 움직일 수 없을 테고 항상 클라우의 감시를 받게 될 것이다.
+  translation_zh: 既无法随心所欲地调动部下，还将始终处于克劳的监视之下。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+- text: 네가 하고 싶은 건 날 곁에 두는 게 아닐 텐데.
+  reading: ''
+  annot: 네가 하고 싶은 건 날 곁에 두는 게 아닐 텐데.
+  translation_zh: 你想做的，应该不是把我留在身边才对。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 推测
+- 转折
+- 依存名词
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

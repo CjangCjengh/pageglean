@@ -1,0 +1,38 @@
+id: ja-grm-00606
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 「〜のだ／〜んだ」：解释说明的语气
+structure: 用言連体形・体言 ＋ のだ（口语中「の」→「ん」）
+structure_pattern: V連体形/イ形/体言 + のだ（→んだ）
+explanation_zh: 「のだ」由形式名词「の」加助动词「だ」构成，用于解释说明情况或加强语气，口语中「の」常音变为「ん」。片段中既用于便条里的自述（立候補してきたのだ），也用于对话中的追问（何をさせたいんだ）。是轻小说口语中极为高频的句式。
+examples:
+- text: なぜかかすみちゃんの方から立候補してきたのだ！
+  reading: ''
+  annot: なぜかかすみちゃんの方[ほう]から立候補[りっこうほ]してきたのだ！
+  translation_zh: 不知为什么，是かすみちゃん她自己主动报名的呀！
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+- text: こいつはさっきから俺に何をさせたいんだ？
+  reading: ''
+  annot: こいつはさっきから俺[おれ]に何[なに]をさせたいんだ？
+  translation_zh: 这家伙，从刚才开始到底想让我干什么啊？
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 语气
+- 口语
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 4
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

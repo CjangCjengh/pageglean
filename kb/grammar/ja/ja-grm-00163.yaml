@@ -1,0 +1,32 @@
+id: ja-grm-00163
+language: ja
+type: grammar
+level: N3
+level_rank: 3
+title: 〜としましょう：就定为……吧（提议做决定）
+structure: 名詞＋と＋する（意向形）
+structure_pattern: N + と + する（意向形）
+explanation_zh: 格助詞と＋サ変動詞する构成「Nとする」，表示「把N作为决定、当作N」。其意向形「としましょう」以柔和的口吻提议双方共同采纳某决定，相当于「就定为……吧」。多用于礼貌、郑重场合的提议。
+examples:
+- text: ――わかりました、休戦としましょう。
+  reading: ''
+  annot: ――わかりました、休戦[きゅうせん]としましょう。
+  translation_zh: ——我明白了，那就暂时休战吧。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 语气
+- 提议
+- 助词と
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

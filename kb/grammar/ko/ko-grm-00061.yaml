@@ -1,0 +1,33 @@
+id: ko-grm-00061
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: -아/어 놓다：做完后保持状态（补助动词）
+structure: 동사 + -아/어 놓다
+structure_pattern: V + -아/어(연결 어미) + 놓다(보조 동사)
+explanation_zh: -아/어 놓다 是补助动词结构，表示动作完成后其结果状态持续保留，相当于中文的"（做完）……着／放在那里"。与单纯描写状态的 -아/어
+  있다 相比，更强调该状态是有意图地造成并保留的。片段中描写摊开在书桌上放着的地图。
+examples:
+- text: 그렇게 중얼거리면서 나는 책상 위에 펼쳐 놓은 지도를 살펴보았다.
+  reading: ''
+  annot: 그렇게 중얼거리면서 나는 책상 위에 펼쳐 놓은 지도를 살펴보았다.
+  translation_zh: 我一边这么嘟囔着，一边查看了摊开在书桌上的地图。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 补助动词
+- 体貌
+- 状态维持
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

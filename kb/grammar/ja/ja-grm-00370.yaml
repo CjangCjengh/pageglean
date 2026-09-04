@@ -1,0 +1,31 @@
+id: ja-grm-00370
+language: ja
+type: grammar
+level: N3
+level_rank: 3
+title: 〜として：作为……（身份与立场）
+structure: 体言＋として（否定：体言＋としてではなく）
+structure_pattern: N + として / としてではなく
+explanation_zh: 「として」接體言，表示立場、資格或身份，意為「作為……」。否定形式「としてではなく」意為「並非作為……」。本句以兩個人格的身份作對比，並與「〜ことになる」搭配，是理解本篇設定的關鍵句。
+examples:
+- text: それは夢前光としてではなく、坂本秋月として会うことになるのだ
+  reading: ''
+  annot: それは夢前光[ゆめさきひかり]としてではなく、坂本秋月[さかもとあきつき]として会[あ]うことになるのだ
+  translation_zh: 那将不是以梦前光、而是以坂本秋月的身份去见面。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 助詞
+- 身份
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

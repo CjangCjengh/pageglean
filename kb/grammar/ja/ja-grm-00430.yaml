@@ -1,0 +1,39 @@
+id: ja-grm-00430
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 〜てしまう：完了与遗憾
+structure: 补助动词 しまう 接于动词连用形（て形）之后
+structure_pattern: V-连用形（て形）+ しまう
+explanation_zh: 补助动词しまう接在动词连用形（て形）后，表示动作完成，常含不可逆的遗憾语气。文中主人公“油断してしまう”“扉を開いてしまう”等失误均用此表达。ていた形（してしまっていた）强调该遗憾状态此前已经持续。
+examples:
+- text: 俺は、完全に油断してしまっていた。
+  reading: ''
+  annot: 俺[おれ]は、完全[かんぜん]に油断[ゆだん]してしまっていた。
+  translation_zh: 我完全放松了警惕。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+- text: そして、見てしまったのだ。
+  reading: ''
+  annot: そして、見[み]てしまったのだ。
+  translation_zh: 然后，我看到了（不该看的场面）。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 体貌
+- 补助动词
+- 语气
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 4
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

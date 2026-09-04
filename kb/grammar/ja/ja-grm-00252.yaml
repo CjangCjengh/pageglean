@@ -1,0 +1,32 @@
+id: ja-grm-00252
+language: ja
+type: grammar
+level: N3
+level_rank: 3
+title: 「〜ておく」→「〜しとけ」：预先准备（口语缩约）
+structure: 動詞連用形 ＋ 接続助詞「て」 ＋ 補助動詞「おく」（口語縮約「とく」；此处为命令形「しとけ」）
+structure_pattern: V-連用形 + ておく → (口語) とく / しとけ
+explanation_zh: 「〜ておく」表示为之后使用而预先做好某事。口语中「ておく」缩约为「とく」，「しておけ」说成「しとけ」（命令形）。文中父亲叮嘱儿子预先挑攻击力低的术备用，是典型的口语说法；下一例则为完整形式「〜しておく」。
+examples:
+- text: 代わりに少し『保険』を用意しておいてやる。
+  reading: ''
+  annot: 代[か]わりに少[すこ]し『保険[ほけん]』を用意[ようい]しておいてやる。
+  translation_zh: 作为替代，我先替你备好几份“保险”（后手）。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 体貌
+- 口语
+- 命令
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

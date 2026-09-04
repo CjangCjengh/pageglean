@@ -1,0 +1,31 @@
+id: vi-grm-00208
+language: vi
+type: grammar
+level: L3
+level_rank: 3
+title: 副词 mới：直到……才……
+structure: Đến khi + 小句, S + mới + V
+structure_pattern: đến khi + clause, S + mới + VP（phó từ chỉ thời gian muộn/điều kiện）
+explanation_zh: 副词 mới 表示动作发生得晚或需满足条件后才发生，相当于中文「才」。常与 Đến khi…（等到……的时候）呼应。片段中「灯亮了我才惊觉站起来」，强调动作滞后于预期。
+examples:
+- text: Đến khi đèn trong rạp bật sáng, tôi mới giật mình đứng dậy.
+  reading: ''
+  annot: Đến khi đèn trong rạp bật sáng, tôi mới giật mình đứng dậy.
+  translation_zh: 等到影院里灯亮了，我才吃了一惊站起身来。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 体貌
+- 复句
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

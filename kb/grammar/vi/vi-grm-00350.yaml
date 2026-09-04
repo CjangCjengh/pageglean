@@ -1,0 +1,38 @@
+id: vi-grm-00350
+language: vi
+type: grammar
+level: L1
+level_rank: 1
+title: 语气词 hả、vậy：是非问与特指问
+structure: 陈述句 + hả？；含疑问词的句子 + vậy？
+structure_pattern: … + hả / … + vậy
+explanation_zh: 越南语是非问句常用句末语气词构成。hả 表示带有惊讶、求证语气的提问，近似汉语「吗、啊」。vậy 用于特指问句末尾，近似「呢、啊」，使语气更自然。
+examples:
+- text: Nó hồi âm ngay tại chỗ hả?
+  reading: ''
+  annot: Nó hồi âm ngay tại chỗ hả?
+  translation_zh: 她当场就回信了吗？
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+- text: Lá gì vậy?
+  reading: ''
+  annot: Lá gì vậy?
+  translation_zh: 这是什么叶子呀？
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 语气
+- 疑问
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

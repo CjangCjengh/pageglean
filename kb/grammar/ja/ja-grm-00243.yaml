@@ -1,0 +1,39 @@
+id: ja-grm-00243
+language: ja
+type: grammar
+level: N3
+level_rank: 3
+title: 「〜とは思えない」：不敢相信／不觉得……
+structure: V終止形 ＋ と ＋ は ＋ 思えない（思う的可能形之否定）
+structure_pattern: V-終止形 + とは + 思えない
+explanation_zh: 格助詞「と」引出思考的内容，副助詞「は」插入以加强语气；「思えない」是「思う」未然形＋可能助動詞「れる」的否定形式。整体表示“无法认为～、不觉得～”，表达主观上的难以置信。该结构在片段中三次出现，是独白中衡量战局的常用说法。
+examples:
+- text: 確かに、この状態のリアが戦えるとは思えない。
+  reading: ''
+  annot: 確[たし]かに、この状態[じょうたい]のリアが戦[たたか]えるとは思[おも]えない。
+  translation_zh: 确实，我不觉得这个状态的莉亚还能战斗。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+- text: 一対一でイスカに勝てるとも思えない。
+  reading: ''
+  annot: 一対一[いちたいいち]でイスカに勝[か]てるとも思[おも]えない。
+  translation_zh: 一对一我也不觉得能赢过依斯卡。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 引用
+- 可能表达
+- 语气
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

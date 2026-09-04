@@ -1,0 +1,32 @@
+id: ja-grm-00241
+language: ja
+type: grammar
+level: N2
+level_rank: 4
+title: 「〜てたまるか」：哪能……、怎么忍受得了（口语）
+structure: V連用形 ＋ て ＋ たまるか（反问表示强烈否定）
+structure_pattern: V-連用形 + て + たまるか
+explanation_zh: 「たまる」是五段动词「堪る」（忍受得了）的終止形，后接終助詞「か」以反问形式表示强烈否定：“哪能～、绝对不～”。属口语句末表达，轻小说中高频出现，多用于说话人愤然立志的场合。文中主人公以此喊出绝不放弃的决心。
+examples:
+- text: ……諦めてたまるかよッ!!
+  reading: ''
+  annot: ……諦[あきら]めてたまるかよッ!!
+  translation_zh: ……哪能就这么放弃啊!!
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 口语
+- 反问语气
+- 句末表达
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

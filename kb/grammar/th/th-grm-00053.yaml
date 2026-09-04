@@ -1,0 +1,32 @@
+id: th-grm-00053
+language: th
+type: grammar
+level: L2
+level_rank: 2
+title: ก่อน(ที่)จะ + V：在做……之前
+structure: 先发生的动作 + ก่อน(ที่)จะ + 后发生的动作
+structure_pattern: V1 + ก่อน(ที่จะ) + V2
+explanation_zh: 「ก่อน(ที่)จะ + 动词」表示「在做某事之前」，先发生的动作在前，后发生的动作用ก่อนจะ引出。ที่可以省略，意思不变（ก่อนจะ＝ก่อนที่จะ）。注意与接名词性时间成分的「ก่อน
+  + 名词」区分，这里接的是动词性小句。
+examples:
+- text: ผม​ยืน​นิ่ง​ไป​ครู่หนึ่ง​ก่อน​จะ​พูด​ออก​ไป​ว่า
+  reading: ''
+  annot: ผม​ยืน​นิ่ง​ไป​ครู่หนึ่
+  translation_zh: 我静静站了片刻，才开口说道：
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 时间
+- 语序
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

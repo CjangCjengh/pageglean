@@ -1,0 +1,38 @@
+id: ja-grm-00298
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 〜だもん（もの）：辩解性的理由说明
+structure: 体言・用言終止形＋断定の助動詞「だ」＋終助詞「もの」（口語形「もん」）
+structure_pattern: 終止形 + (だ) + もん
+explanation_zh: 终助词「もの（もん）」以申辩、撒娇的口吻陈述理由，多见于女性或儿童用语（口语属性）。「だもん」即“因为（是）……呀”；「来たんだもん」中的「んだ」是「のだ」的口语体（解释语气）。片段连用两次，凸显角色的稚气与执拗。
+examples:
+- text: だって、わたしはかずきの『いいなずけ』だもん！
+  reading: ''
+  annot: だって、わたしはかずきの『いいなずけ』だもん！
+  translation_zh: 因为，我是和希的『未婚妻』呀！
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+- text: だから会いに来たんだもん!!
+  reading: ''
+  annot: だから会[あ]いに来[き]たんだもん!!
+  translation_zh: 所以我才来找他的呀!!
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 終助詞
+- 口語
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

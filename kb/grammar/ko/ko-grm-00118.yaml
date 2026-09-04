@@ -1,0 +1,31 @@
+id: ko-grm-00118
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: -아/어 봤자：就算……也白搭
+structure: 동사 어간 + 보조적 표현(补助谓词) -아/어 보다 + 양보 연결어미(让步连接词尾) -(으)ㅂ자
+structure_pattern: V-아/어 봤자 + 절
+explanation_zh: -아/어 보다 后接让步连接词尾 -(으)ㅂ자，表示“即使……也没有用、白搭”，后句多为否定或负面评价。语气比 -아/어도 更强，强调徒劳感。片段中指“就算给她别的魔法道具，她也不会用”。
+examples:
+- text: 다른 마법 아이템을 줘 봤자 안 쓸 것 갖고…….
+  reading: ''
+  annot: 다른 마법 아이템을 줘 봤자 안 쓸 것 갖고…….
+  translation_zh: 就算给她别的魔法道具，她好像也不会用……
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 接续
+- 让步
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

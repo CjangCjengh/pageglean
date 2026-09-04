@@ -1,0 +1,31 @@
+id: vi-grm-00292
+language: vi
+type: grammar
+level: L4
+level_rank: 4
+title: Thiếu gì + N：有的是、不乏
+structure: Thiếu gì + 名词
+structure_pattern: Thiếu gì + N
+explanation_zh: 「Thiếu gì + 名词」是口语惯用语，字面为“哪会缺”，实际表示“有的是…、不乏…”，用反问形式强调数量多、选择多。语气随意，常用来劝对方不必拘泥于一种办法。
+examples:
+- text: Không gửi thì vứt vào sọt rác! Thiếu gì cách giải quyết!
+  reading: ''
+  annot: Không gửi thì vứt vào sọt rác! Thiếu gì cách giải quyết!
+  translation_zh: 不寄就扔进垃圾桶！有的是解决办法！
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 惯用语
+- 反问
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

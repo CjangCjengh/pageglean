@@ -1,0 +1,31 @@
+id: th-grm-00112
+language: th
+type: grammar
+level: L3
+level_rank: 3
+title: 「ทำเอา：致使『弄得、让人…』」
+structure: เหตุการณ์ + ทำเอา + บุคคล + คำกริยา/คุณศัพท์（ประโยคเหตุ-ผลแบบปากพูด）
+structure_pattern: A + ทำเอา + B + V/Adj
+explanation_zh: ทำเอา 是口语中的致使结构，前项事物或情况使后项人物产生某种反应或结果，相当于汉语“弄得…、让（人）…”。常带有不由自主、深受影响的语感。本段指女孩露出的肌肤“让我不由得走神了一瞬”。
+examples:
+- text: ที่​โผล่​พ้น​เสื้อผ้า​ออกมา​นั้น​ทำเอา​ผม​เผลอ​คิด​ไปแว่บ​หนึ่ง​ว่า​ผิวสวย​มาก
+  reading: ''
+  annot: ที่​โผล่​พ้น​เสื้อผ้า​ออกมา​นั้น​ทำเอา​ผม​เผลอ​คิด​ไปแว่บ​หนึ่ง​ว่า​ผิวสวย​มาก
+  translation_zh: （那）从衣服里露出来的部分，让我不由得走神了一瞬，心想皮肤真好看。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 致使
+- 口语
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

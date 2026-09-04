@@ -1,0 +1,30 @@
+id: vi-grm-00388
+language: vi
+type: grammar
+level: L2
+level_rank: 2
+title: thì：条件复句关联词
+structure: （省略 nếu 的）条件句 + thì + 结果句
+structure_pattern: A + thì + B
+explanation_zh: thì 是关联词（quan hệ từ），连接条件分句与结果分句，相当于汉语「那么、就」。口语中常省略 nếu，只用 thì 标记条件—结果关系。片段此句是典型的口语条件句。
+examples:
+- text: Hết tiền thì tôi cho mượn.
+  reading: ''
+  annot: Hết tiền thì tôi cho mượn.
+  translation_zh: 没钱的话我就借给你。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 连词/条件句
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

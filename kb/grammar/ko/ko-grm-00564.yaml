@@ -1,0 +1,31 @@
+id: ko-grm-00564
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: -ㄴ/는 척하다：假装……
+structure: 용언 + -(으)ㄴ/-는 + 척하다
+structure_pattern: 용언 + -(으)ㄴ/는 + 척 + 하다 (의존명사)
+explanation_zh: 依存名词 척 表示“装作、假装”，与动词结合表示假装做某事或假装处于某种状态。本段“못 들은 척을 했다”（装作没听见）是典型用法。
+examples:
+- text: 뭐라고 말해야 할지 몰라, 나는 그냥 못 들은 척을 했다.
+  reading: ''
+  annot: 뭐라고 말해야 할지 몰라, 나는 그냥 못 들은 척을 했다.
+  translation_zh: 我不知道该说什么好，就干脆假装没听见。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 依存名词
+- 假装
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

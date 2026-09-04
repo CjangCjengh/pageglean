@@ -1,0 +1,39 @@
+id: ko-grm-00105
+language: ko
+type: grammar
+level: TOPIK1
+level_rank: 1
+title: 「-ㄹ 수 있다」：能、可以（可能·能力）
+structure: 동사 어간 + 관형사형 전성어미 '-(으)ㄹ' + 의존명사 '수' + '있다'
+structure_pattern: V-(으)ㄹ + 의존명사_수 + 있다
+explanation_zh: 学校语法中，'-(으)ㄹ'是冠形词形转成词尾，后接依存名词'수'与'있다'构成可能表达，相当于汉语'能……''会……'。否定式为'-(으)ㄹ
+  수 없다'。片段中反复出现，是最基础的可能表达。
+examples:
+- text: 이 반지를 끼고 있으면 마치 게임처럼 캐릭터의 스테이터스나 아이템의 효과를 볼 수 있다.
+  reading: ''
+  annot: 이 반지를 끼고 있으면 마치 게임처럼 캐릭터의 스테이터스나 아이템의 효과를 볼 수 있다.
+  translation_zh: 戴着这枚戒指，就能像游戏一样查看角色的能力值和道具的效果。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+- text: 가져갈 수 있는 건 가져가야지.
+  reading: ''
+  annot: 가져갈 수 있는 건 가져가야지.
+  translation_zh: 能带走的东西就都得带走。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 可能/能力
+- 依存名词
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 7
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

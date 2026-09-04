@@ -1,0 +1,32 @@
+id: ko-grm-00610
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: -자마자：刚一……就……
+structure: 动词词干 + 连接词尾 -자마자（前动作结束后一动作立即发生）
+structure_pattern: V- + -자마자
+explanation_zh: -자마자 是连接词尾，表示前一动作刚一结束，后一动作随即发生，相当于中文“刚一……就……”。只接动词，中间不能插入时制词尾。比 -(으)ㄴ
+  후에、-고 나서 更强调两个动作之间几乎没有间隔。
+examples:
+- text: 어쩐 일인지 나를 보자마자 요나와의 일을 묻는 대신, 자기 이야기를 늘어놓기 시작했다.
+  reading: ''
+  annot: 어쩐 일인지 나를 보자마자 요나와의 일을 묻는 대신, 자기 이야기를 늘어놓기 시작했다.
+  translation_zh: 不知怎么回事，他一见到我，也没问约娜那边的事，反而开始滔滔不绝地讲起自己的事来。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 接续
+- 时间
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

@@ -1,0 +1,32 @@
+id: ko-grm-00692
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: -는 모양이다：看来似乎……
+structure: 动词冠形形 -는 + 依存名词 모양 + 이다
+structure_pattern: V-는 + 모양이다
+explanation_zh: 依存名词 "모양" 接在冠形形后，表示根据外部观察到的样子或状况进行推测，相当于中文“看来、似乎”。动词用 "-는 모양"，形容词用
+  "-ㄴ/은 모양"。片段中宾看着两人的狼狈模样，推测他们经历了凶险的事。
+examples:
+- text: 꼴을 보아하니, 뭔가 험한 일을 당한 모양인데, 일단 들어가서 얘기하세.
+  reading: ''
+  annot: 꼴을 보아하니, 뭔가 험한 일을 당한 모양인데, 일단 들어가서 얘기하세.
+  translation_zh: 看你们这副模样，似乎遭了什么凶险的事，先进去再说吧。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 推测
+- 依存名词
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

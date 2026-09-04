@@ -1,0 +1,32 @@
+id: ja-grm-00195
+language: ja
+type: grammar
+level: N3
+level_rank: 3
+title: 「というわけで」：所以说（形式名词 わけ）
+structure: という ＋ 形式名詞 わけ ＋ だ（連用形「で」中止）
+structure_pattern: 〜というわけで
+explanation_zh: 「わけ」是形式名词，表示原因、道理或由此得出的结论。“というわけで”是“そういうわけで”的口语省略形，用于总结上文并引出结论，相当于“所以说、事情就是这样”。轻小说中常由角色用来下结论或转换话题。
+examples:
+- text: と、いうわけで。イスカくんがブレイクスルー、つまり強行突破したのは、性別の壁なご様子。
+  reading: ''
+  annot: と、いうわけで。イスカくんがブレイクスルー、つまり強行[きょうこう]突破[とっぱ]したのは、性別[せいべつ]の壁[かべ]なご様子[ようす]。
+  translation_zh: 所以说啊，伊斯卡同学所“强行突破”的，看来是性别的壁垒呢。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 形式名词
+- 语气
+- 口语
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

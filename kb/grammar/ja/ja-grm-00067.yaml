@@ -1,0 +1,38 @@
+id: ja-grm-00067
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 〜ている→〜てる：口语缩约
+structure: 〜ている→〜てる／〜ていない→〜てない
+structure_pattern: V-ている → V-てる／V-ていない → V-てない
+explanation_zh: 口语中「ている」的「い」常脱落，变成「てる」；「ていない」缩为「てない」。「飲み終わってる」「成立してない」都是典型例子。轻小说对话与独白中大量出现，写作时需留意其口语属性。
+examples:
+- text: そろそろ飲み終わってる頃だろうな。
+  reading: そろそろのみおわってるころだろうな
+  annot: そろそろ飲み終わってる頃だろうな。
+  translation_zh: 差不多也到喝完的时候了吧。
+  source_book: book-ja-001
+  source_chapter: null
+  pointer: null
+- text: な、なんか会話が成立してないか……？
+  reading: な、なんかかいわがせいりつしてないか……？
+  annot: な、なんか会話が成立してないか……？
+  translation_zh: 怎、怎么觉得对话好像成立了……？
+  source_book: book-ja-001
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 口語
+- 体貌
+provenance:
+  discovered_in: book-ja-001
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

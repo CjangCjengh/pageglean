@@ -1,0 +1,32 @@
+id: ja-grm-00101
+language: ja
+type: grammar
+level: N1
+level_rank: 5
+title: 「〜まい」：否定意志（助动词）
+structure: 动词终止形 + 助动词「まい」（五段动词接终止形）
+structure_pattern: V-終止形 + まい
+explanation_zh: 助动词「まい」接在五段动词终止形后，表示强烈的否定意志“决不……”，也可表否定推测，语感古雅、书面，常见于立誓式独白。「絶対に手を出すまい」即“绝对不对她出手”。与口语「〜ないつもりだ」相比语气更坚决庄重。
+examples:
+- text: 『絶対に手を出すまい』そんな決意と共に……フと思う。
+  reading: ''
+  annot: 『絶対[ぜつたい]に手[て]を出[だ]すまい』そんな決意[けつい]と共[とも]に……フと思[おも]う。
+  translation_zh: “绝对不出手”——怀着这样的决心……我忽然想到。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 助动词
+- 语气
+- 意志
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

@@ -1,0 +1,38 @@
+id: vi-grm-00101
+language: vi
+type: grammar
+level: L2
+level_rank: 2
+title: nè / nghen / đi：句末语气词
+structure: 句子 + nè / nghen / đi
+structure_pattern: … + nè / nghen / đi
+explanation_zh: 越南语靠句末语气词传递细腻语气：nè 表示递示、提醒（「给你哦」）；nghen 征求对方同意，近似「……好吗」；đi 使命令、劝诱语气更自然随意。口语中使用频率极高，是说地道越南语的关键。
+examples:
+- text: Phần mày nè!
+  reading: ''
+  annot: Phần mày nè!
+  translation_zh: 你的那份，拿好！
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+- text: Anh nhắm mắt lại đi!
+  reading: ''
+  annot: Anh nhắm mắt lại đi!
+  translation_zh: 你快闭上眼睛吧！
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 语气
+- 口语
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

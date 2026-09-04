@@ -1,0 +1,32 @@
+id: ja-grm-00251
+language: ja
+type: grammar
+level: N3
+level_rank: 3
+title: 形式名词「わけ」：〜わけではない／〜わけだ
+structure: 用言連体形 ＋ 形式名詞「わけ」 ＋ ではない／だ
+structure_pattern: V/A-連体形 + わけ + ではない / だ
+explanation_zh: 形式名词「わけ」表示从事理推导出的结论。「〜わけではない」表部分否定，“并非……”；「〜わけだ」表按情理自然如此，“当然……、也就是说……”。前者缓和否定语气，后者用于说明缘由或恍然得出结论。
+examples:
+- text: そもそもリアを渡せば俺は被害受けないわけで。
+  reading: ''
+  annot: そもそもリアを渡[わた]せば俺[おれ]は被害[ひがい]受[う]けないわけで。
+  translation_zh: 说到底，只要把莉亚交出去，我自己就不会受害。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 形式名词
+- 语气
+- 推论
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

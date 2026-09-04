@@ -1,0 +1,32 @@
+id: ko-grm-00251
+language: ko
+type: grammar
+level: TOPIK5
+level_rank: 5
+title: 「-(으)ㅁ에도 불구하고：尽管……却……」
+structure: 용언 + 명사형 어미 '-(으)ㅁ' + 보조사 '에도' + '불구하고'
+structure_pattern: V/A + -(으)ㅁ에도 불구하고
+explanation_zh: 表示让步的连接结构：用名词化词尾-(으)ㅁ把前句名词化，再以'에도 불구하고'承认前项事实的同时引出相反的后项结果。书面色彩浓厚，比口语性的'-(으)는데도'更正式。可与过去时先语末词尾'-았/었-'连用，如'입었음에도'。
+examples:
+- text: 성궤검에 의해 괴멸적인 타격을 입었음에도 불구하고 클라우 에른베스크의 군대는 패닉에 빠지지 않았다.
+  reading: ''
+  annot: 성궤검에 의해 괴멸적인 타격을 입었음에도 불구하고 클라우 에른베스크의 군대는 패닉에 빠지지 않았다.
+  translation_zh: 尽管遭受了圣柜剑毁灭性的打击，克劳·恩维斯克的军队却没有陷入恐慌。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 接续
+- 让步
+- 书面语
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

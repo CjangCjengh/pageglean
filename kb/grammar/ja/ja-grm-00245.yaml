@@ -1,0 +1,31 @@
+id: ja-grm-00245
+language: ja
+type: grammar
+level: N2
+level_rank: 4
+title: 〜どころじゃない：哪止是……的程度
+structure: 名詞／イ形容詞語幹＋どころではない（口语粗犷形：どころじゃねー）
+structure_pattern: N/Adj語幹 + どころではない
+explanation_zh: 「〜どころではない」表示程度远非前项所能概括，「岂止是……、根本不是……的程度」，常用于反驳对方轻描淡写的说法。句中「じゃねー」是「じゃない」的男性粗犷口语变体，语气随便、情绪强烈。也可表示「无暇顾及」（如：忙得顾不上）。
+examples:
+- text: 厄介どころじゃねーだろ……。
+  reading: ''
+  annot: 厄介[やつかい]どころじゃねーだろ……。
+  translation_zh: 这哪止是「棘手」的程度啊……
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 程度
+- 口语
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

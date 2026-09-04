@@ -1,0 +1,38 @@
+id: ko-grm-00437
+language: ko
+type: grammar
+level: TOPIK2
+level_rank: 2
+title: 「-니까：主观理由与解释」
+structure: 用言/体言+이다 + 이유의 연결어미 ‘-니까’（亦可用作종결어미）
+structure_pattern: V/A-니까; N-(이)니까
+explanation_zh: ‘-니까’是表示理由的连接词尾，提示后文的根据或原因；也常作终结词尾用在句末，为前述话语补充解释原因。与‘-아/어서’相比，带有更强的主观申明语气。片段中用于为시나“好奇心至上”的立场提供理由。
+examples:
+- text: 말 그대로 호기심만 해결하면 그만인 여자니까.
+  reading: ''
+  annot: 말 그대로 호기심만 해결하면 그만인 여자니까.
+  translation_zh: 因为正如字面所说，她是个只要满足好奇心就万事大吉的女人。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+- text: 나니까 해 줄 수 있는 일이 있잖아.
+  reading: ''
+  annot: 나니까 해 줄 수 있는 일이 있잖아.
+  translation_zh: 正因为是我，才有能帮你做的事嘛。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 接续
+- 理由/语气
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

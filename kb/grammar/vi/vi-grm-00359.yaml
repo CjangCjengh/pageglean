@@ -1,0 +1,44 @@
+id: vi-grm-00359
+language: vi
+type: grammar
+level: L3
+level_rank: 3
+title: 目的连词 để
+structure: để + 动词 / 小句（表示目的）
+structure_pattern: để + động từ / mệnh đề (trạng ngữ chỉ mục đích)
+explanation_zh: để 引导目的状语，相当于“为了、用来”，可单独成句作答。置于句首时引出目的小句；与 khỏi 搭配表示“免得、以免”。
+examples:
+- text: '- Chi vậy?
+
+    - Để bắt bướm.'
+  reading: ''
+  annot: '- Chi vậy?
+
+    - Để bắt bướm.'
+  translation_zh: '——干什么呀？
+
+    ——用来捉蝴蝶。'
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+- text: 'Để Tiểu Li khỏi dò hỏi lôi thôi, tôi nói lảng sang chuyện khác:'
+  reading: ''
+  annot: 'Để Tiểu Li khỏi dò hỏi lôi thôi, tôi nói lảng sang chuyện khác:'
+  translation_zh: 免得小丽追问个没完，我岔开话题说起别的：
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 目的
+- 虚词
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

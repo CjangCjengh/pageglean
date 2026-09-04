@@ -1,0 +1,39 @@
+id: ko-grm-00644
+language: ko
+type: grammar
+level: TOPIK2
+level_rank: 2
+title: -아/어야 하다：义务与必要
+structure: 동사/형용사 어간 + 연결어미 -아/어 + 보조사 -야 + 보조동사 '하다'（强调时：-야만 하다）
+structure_pattern: V/A-아/어 + 야 + 하다
+explanation_zh: 连接词尾-아/어后接보조사-야与하다，表示“必须/不得不做某事”。插入보조사만则成为-야만 하다，强调“非……不可”。片段中反复出现，描写人物迫于形势不得不做出的行动。
+examples:
+- text: 그 많은 인파를 헤치고 키이리와 브룬과 요나를 찾아야 할 일이 막막하기만 했다.
+  reading: ''
+  annot: 그 많은 인파를 헤치고 키이리와 브룬과 요나를 찾아야 할 일이 막막하기만 했다.
+  translation_zh: 要穿过那许多人潮去找基莉、布伦和约娜，实在让人茫然无措。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+- text: 수십 명의 사람이 일제히 다가오니, 그 박력과 압도감에 가로도 나도 당황하여 주춤주춤 뒤로 물러서야만 했다.
+  reading: ''
+  annot: 수십 명의 사람이 일제히 다가오니, 그 박력과 압도감에 가로도 나도 당황하여 주춤주춤 뒤로 물러서야만 했다.
+  translation_zh: 数十人一齐逼近，那气势和压迫感让我和加罗都慌了神，只好踉跄着往后退。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 义务
+- 连接词尾
+- 强调
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

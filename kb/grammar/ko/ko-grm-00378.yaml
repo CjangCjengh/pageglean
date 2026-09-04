@@ -1,0 +1,39 @@
+id: ko-grm-00378
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: 「-(으)ㄹ 테니까」：基于推测的理由
+structure: 用言词干 + -(으)ㄹ 터(依存名词) + 이다 + -니까（连接词尾），缩略为 -(으)ㄹ 테니까
+structure_pattern: V/A-(으)ㄹ 터 + 이 + 니까 → -(으)ㄹ 테니까
+explanation_zh: 터是依存名词，表"根据、前提"，与이다及表原因的连接词尾-니까结合后缩略为-(으)ㄹ 테니까。说话人以强烈的推测或意志作为后句的理由，相当于"肯定会……所以"。片段中人物反复用它来推测公爵不会冒险的心理。
+examples:
+- text: 그것만으로 전 세계의 적이 될 테니까.
+  reading: ''
+  annot: 그것만으로 전 세계의 적이 될 테니까.
+  translation_zh: 光凭那一点，就会成为全世界的敌人。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+- text: 공작님도 목숨은 아까울 테니까 말이야.
+  reading: ''
+  annot: 공작님도 목숨은 아까울 테니까 말이야.
+  translation_zh: 毕竟公爵大人也会珍惜自己的性命啊。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 接续
+- 推测
+- 原因
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 4
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

@@ -1,0 +1,31 @@
+id: ja-grm-00154
+language: ja
+type: grammar
+level: N3
+level_rank: 3
+title: 「〜っていうか」：自我修正与话锋一转（口语）
+structure: 「と言うか」の口語形：文＋っていうか
+structure_pattern: 文 + っていうか
+explanation_zh: 「と言うか」的口语形式，置于句首或分句之间，用于修正、推翻前言或转换话题，相当于『话说回来／倒不如说』。文中主角前一瞬还在感叹战况，忽然话锋一转吐槽『它不是狗吗』，是轻小说典型的内心吐槽衔接。属口语表达，多出现于会话与独白，正式文章中应写作「と言うか」。
+examples:
+- text: っていうか、犬じゃなかったのか。
+  reading: ''
+  annot: っていうか、犬[いぬ]じゃなかったのか。
+  translation_zh: 话说回来——它原来不是狗吗。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 口语
+- 语气
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

@@ -1,0 +1,39 @@
+id: ko-grm-00072
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: -다니：引用与惊叹
+structure: '동사/형용사 어간 + -다니（과거: -았/었더니；서술격 조사 이다: -(이)라니）'
+structure_pattern: V/A + -다니
+explanation_zh: '''-다니''是连接词尾，用于转述或想起某事的同时发出惊叹，多带惊讶、难以置信的语气，常以感叹句形式出现在句末。过去时用''-았/었더니''，''이다''后用''-(이)라니''。片段中多次用来表达角色对「出问题」「竟敢惹事」的震惊与反驳。'
+examples:
+- text: 공작님이 약혼녀하고 문제가 생겼다니, 그게 무슨 소리야?
+  reading: ''
+  annot: 공작님이 약혼녀하고 문제가 생겼다니, 그게 무슨 소리야?
+  translation_zh: 「公爵和未婚妻之间出了问题」，这是什么话？
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+- text: 감히 공작님을 모시는 자리에서 문제를 일으키다니!
+  reading: ''
+  annot: 감히 공작님을 모시는 자리에서 문제를 일으키다니!
+  translation_zh: 竟敢在侍奉公爵的场合惹出这种事！
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 感叹语气
+- 间接引用
+- 连接词尾
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

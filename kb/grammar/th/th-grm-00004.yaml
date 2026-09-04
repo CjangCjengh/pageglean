@@ -1,0 +1,38 @@
+id: th-grm-00004
+language: th
+type: grammar
+level: L3
+level_rank: 3
+title: พลาง：两个动作同时进行
+structure: กริยา 1 + พลาง + กริยา 2 (คำวิเศษณ์บอกความควบคู่)
+structure_pattern: V1 + พลาง + V2
+explanation_zh: พลาง是副词，表示两个动作同时进行，相当于汉语的“一边……一边……”。结构为“กริยา1 พลาง กริยา2”，完整形式可说“พลาง…พลาง…”。片段中描写“边抱怨边举起篮子”“边摇头边摸头”，都是该结构的典型用例。
+examples:
+- text: บ่น​พลาง​ยก​ตะกร้า​ผ้า​ที่​ทำจาก​ไม้​หวาย​ขึ้น​มา​ให้​ผม​ดู
+  reading: ''
+  annot: บ่น​พลาง​ยก​ตะกร้า​ผ้า​ที่​ทำจาก​ไม้​หวาย​ขึ้น​มา​ให้​ผม​ดู
+  translation_zh: （她）一边抱怨，一边把藤编的衣篮举起来给我看。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+- text: ผม​ส่ายหัว​เล็กน้อย​พลาง​ลูบ​ไป​ที่​ศีรษะ​เล็ก ๆ ของ​เธอ​เบา ๆ
+  reading: ''
+  annot: ผม​ส่ายหัว​เล็กน้อย​พลาง​ลูบ​ไป​ที่​ศีรษะ​เล็ก ๆ ของ​เธอ​เบา ๆ
+  translation_zh: 我微微摇头，同时轻轻抚了抚她小小的脑袋。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 副词
+- 同时进行
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

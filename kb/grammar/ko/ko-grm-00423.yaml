@@ -1,0 +1,32 @@
+id: ko-grm-00423
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: 「-았/었었-」：大过去先语末词尾
+structure: 用言词干 + 先语末词尾 -았/었- 叠用（대과거，过去之过去）
+structure_pattern: V-았/었었-
+explanation_zh: 过去先语末词尾 -았/었- 连用构成大过去，表示曾经发生但现已中断、与当前不再相关的事情，比单纯过去时多一层“时过境迁”的距离感。小说叙述中常与回忆性语境呼应，本例与
+  놓다 合用为 놓았었으니까。
+examples:
+- text: 시나가 가슴 크기를 가지고 키이리 속을 신나게 뒤집어 놓았었으니까.
+  reading: ''
+  annot: 시나가 가슴 크기를 가지고 키이리 속을 신나게 뒤집어 놓았었으니까.
+  translation_zh: 因为诗娜曾一度拿胸部大小的事，兴致勃勃地把基里气得够呛。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 时制
+- 叙述
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

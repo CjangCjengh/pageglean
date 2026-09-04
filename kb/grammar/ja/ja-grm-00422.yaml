@@ -1,0 +1,31 @@
+id: ja-grm-00422
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 「〜にくい：难以〜」
+structure: 動詞の連用形＋形容詞型接尾語「にくい」
+structure_pattern: V-連用形 + にくい
+explanation_zh: 接尾语「にくい」接动词连用形构成形容词，表示该动作难以进行，反义词是「やすい」。活用方式与形容词相同（言いにくい→言いにくかった）。与中文「难以……」「不好……」基本对应。
+examples:
+- text: 文句も言いにくい。
+  reading: ''
+  annot: 文句[もんく]も言[い]いにくい。
+  translation_zh: 也很难开口抱怨。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 接尾语
+- 样态
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

@@ -1,0 +1,32 @@
+id: th-grm-00018
+language: th
+type: grammar
+level: L3
+level_rank: 3
+title: 连动式：动词连用与趋向
+structure: กริยาเรียง（连动式）：V1 + (มา/ไป) + V2，无连词
+structure_pattern: V1 + V2 (+ V3)
+explanation_zh: 泰语常把多个动词直接连用（กริยาเรียง），词序与事件发生或位移的先后一致，中间不用连词。如 ย้ายมาอยู่“搬来住”、ออกไปเล่น“出去玩”。มา/ไป
+  表示趋向，相当于汉语的“来／去”，โตขึ้นมา 即“长大起来”。
+examples:
+- text: ย้าย​มา​อยู่​บน​เกาะ​ล้าน​แห่ง​นี้​เพียงลำพัง
+  reading: ''
+  annot: ย้าย​มา​อยู่​บน​เกาะ​ล
+  translation_zh: 独自搬来阁兰岛上住。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 连动式
+- 语序
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

@@ -1,0 +1,31 @@
+id: ko-grm-00538
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: -ㄹ 수밖에 없다：别无选择
+structure: 동사 어간（动词词干）+ -(으)ㄹ 수밖에 없다
+structure_pattern: 동사 어간 + 관형형 전성 어미 '-(으)ㄹ' + 의존 명사 '수' + 보조사 '밖에' + '없다'
+explanation_zh: 表示没有其他选择，只能如此：依存名词'수'表示方法或可能性，加补助词'밖에'（只、仅）再与否定词'없다'结合，字面即“除……的办法外没有”。相当于汉语的“只能……”“不得不……”。
+examples:
+- text: 어쩔 땐 자신이 불리하다는 걸 알아도 할 수밖에 없는 일이 있으니까.
+  reading: ''
+  annot: 어쩔 땐 자신이 불리하다는 걸 알아도 할 수밖에 없는 일이 있으니까.
+  translation_zh: 因为有时候，即使明知道自己会吃亏，也有一些不得不去做的事。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 语气/无奈
+- 依存名词
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

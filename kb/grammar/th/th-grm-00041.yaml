@@ -1,0 +1,32 @@
+id: th-grm-00041
+language: th
+type: grammar
+level: L4
+level_rank: 4
+title: ถูก + 动词：被动句
+structure: 受事主语 + ถูก +（施事）+ 动词（ประโยคถูกกระทำ）
+structure_pattern: N(受事) + ถูก + V
+explanation_zh: 泰语被动句用「ถูก+动词」，主语是受事者，施事可省略，与汉语“被”字句相似，常带不如意或受影响的色彩。片段中手机 “ถูกหยิบขึ้นมาถือไว้”（被拿起来握着），动词后还接连出现
+  ขึ้น/มา/ถือ/ไว้ 等趋向与结果补语，是典型的连动式。
+examples:
+- text: โทรศัพท์​มือถือ​ที่​วางอยู่​ข้าง ๆ ตัว​ถูก​หยิบ​ขึ้น​มา​ถือ​ไว้
+  reading: ''
+  annot: โทรศัพท์​มือถือ​ที่​วางอยู่​ข้าง ๆ ตัว​ถูก​หยิบ​ขึ้น​มา​ถือ​ไว้
+  translation_zh: 放在身旁的手机被（我）拿起来握在手里。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 被动态
+- 连动式
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

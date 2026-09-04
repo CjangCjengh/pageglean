@@ -1,0 +1,38 @@
+id: th-grm-00094
+language: th
+type: grammar
+level: L3
+level_rank: 3
+title: การ-/ความ-：动词与形容词的名词化
+structure: การ-/ความ- + คำกริยาหรือคำวิเศษณ์ → คำนาม
+structure_pattern: การ/ความ + คำกริยา|วิเศษณ์ → คำนาม
+explanation_zh: การ- 加在动词前使其名词化，表示“……这件事/行为”；ความ- 加在形容词或心理动词前构成抽象名词，相当于汉语“……性/……的习惯”。片段中“การทำอาหาร（做菜）”“การเคลื่อนไหว（动作）”“ความเคยชิน（习惯）”“ความคล่องแคล่ว（麻利）”反复出现。
+examples:
+- text: ไม่มี​การ​เคลื่อนไหว​ส่วน​ใด​ที่​เสียเปล่า​เลย​แม้แต่​น้อย
+  reading: ''
+  annot: ไม่มี​การ​เคลื่อนไหว​ส่วน​ใด​ที่​เสียเปล่า​เลย​แม้แต่​น้อย
+  translation_zh: 没有任何一处动作是浪费的，一丝一毫都没有
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+- text: จัดการ​กับ​วัตถุดิบ​ต่าง ๆ ด้วย​ความ​คล่องแคล่ว
+  reading: ''
+  annot: จัดการ​กับ​วัตถุดิบ​ต่าง ๆ ด้วย​ความ​คล่องแคล่ว
+  translation_zh: 动作麻利地处理着各种食材
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 构词
+- 名词化
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 5
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

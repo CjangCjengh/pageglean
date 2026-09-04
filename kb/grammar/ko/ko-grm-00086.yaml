@@ -1,0 +1,38 @@
+id: ko-grm-00086
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: -는데：背景铺垫与语气缓和
+structure: 동사 어간 + -는데 / 형용사 어간 + -(으)ㄴ데（배경·대조의 연결 어미, 종결도 가능）
+structure_pattern: V-는데 / A-(으)ㄴ데
+explanation_zh: 连接词尾，为后文提供背景铺垫或暗示转折；用于句末时使语气委婉、留有余地，等对方接话。相当于中文“不过……／倒是……”，常欲言又止。引用形-다는데亦由它构成。
+examples:
+- text: 가능할 것 같지 않은데…….
+  reading: ''
+  annot: 가능할 것 같지 않은데…….
+  translation_zh: 好像不太可能吧……
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+- text: 어떻게 할 생각이신지 모르겠는데, 어쨌든 베크류 지하 묘지로 가는 건 맞다는 얘기죠?
+  reading: ''
+  annot: 어떻게 할 생각이신지 모르겠는데, 어쨌든 베크류 지하 묘지로 가는 건 맞다는 얘기죠?
+  translation_zh: 虽然不知道您打算怎么办，但总之还是要去贝克留地下墓地的，对吧？
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 连接词尾
+- 语气
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 4
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

@@ -1,0 +1,32 @@
+id: vi-grm-00240
+language: vi
+type: grammar
+level: L3
+level_rank: 3
+title: phải… mới… được：必要条件与可能
+structure: phải + V1 + phó từ mới + V2 + 补语 được（表可能实现）
+structure_pattern: phải + V1 + mới + V2 + được
+explanation_zh: 这是“条件—可能”框架：phải 提出必要条件，mới 引出唯一可行的结果，句末 được 作补语表示“能够/得以实现”。整体意为“必须……才能……”。注意此处
+  được 不是被动标记，而是表可能的补语。
+examples:
+- text: Đây là một vấn đề... triết học, phải có chuyên môn mới hiểu được!
+  reading: ''
+  annot: Đây là một vấn đề... triết học, phải có chuyên môn mới hiểu được!
+  translation_zh: 这可是个……哲学问题，得有专业知识才能懂！
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 情态
+- 能性
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

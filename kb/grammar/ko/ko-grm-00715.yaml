@@ -1,0 +1,32 @@
+id: ko-grm-00715
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: -는데：背景铺垫与言外余韵
+structure: 用言词干 + 연결어미(连接词尾) -는데/-ㄴ데，句末用作终结词尾，表背景、转折或余韵
+structure_pattern: A-ㄴ데 / V-는데
+explanation_zh: 连接词尾 -는데 既可铺垫背景、提示转折，也可用于句末作终结词尾，留下未尽的余韵。文中 별로 반갑지도 않은데 以半语收尾，言下之意是「人气虽高，我却一点也不高兴」。中文近似「……倒是……（可……）」。
+examples:
+- text: 난 이상하게 악마 녀석들에게 인기가 많군. 별로 반갑지도 않은데.
+  reading: ''
+  annot: 난 이상하게 악마 녀석들에게 인기가 많군. 별로 반갑지도 않은데.
+  translation_zh: 奇怪，我在恶魔家伙们中间人气还挺高。可我一点也不觉得高兴……
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 连接词尾
+- 转折
+- 余韵
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

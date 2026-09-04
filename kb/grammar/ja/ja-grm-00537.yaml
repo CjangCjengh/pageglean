@@ -1,0 +1,31 @@
+id: ja-grm-00537
+language: ja
+type: grammar
+level: N3
+level_rank: 3
+title: 形式名词「こと」：把句子名词化
+structure: 用言連体形＋形式名詞「こと」＋格助詞「を」（文の名詞節化）
+structure_pattern: V連体形 + こと(形式名詞) + を
+explanation_zh: 形式名词「こと」把前面的句子名词化，使其能像体言一样接格助词「を」充当宾语。片段连用多个「〜ことを」句排比而下，逐层道出主人公意识到的残酷事实，情感冲击力极强。「こと」是日语使用频率最高的形式名词之一。
+examples:
+- text: 彼女のなかで夢前光の物語は終わってしまったことを。
+  reading: ''
+  annot: 彼女[かのじょ]のなかで夢前[ゆめさき]光[ひかり]の物語[ものがたり]は終[お]わってしまったことを。
+  translation_zh: （意识到）在她心中，梦前光的故事已经结束这件事。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 形式名詞
+- 名词句化
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 8
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

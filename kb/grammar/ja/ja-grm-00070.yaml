@@ -1,0 +1,31 @@
+id: ja-grm-00070
+language: ja
+type: grammar
+level: N5
+level_rank: 1
+title: 禁止形＋なよ：别……哦
+structure: V辞書形 + な（＋よ）
+structure_pattern: V-辞書形 + な + よ（禁止）
+explanation_zh: 动词辞书形后加「な」构成禁止，"别……""不许……"，语气直接生硬；再附「よ」可添上提醒、叮嘱的语感。多为男性对亲近者的说法，礼貌场合应换成「〜ないでください」。
+examples:
+- text: すぐ戻るから、絶対ここ動くなよ？
+  reading: すぐもどるから、ぜったいここうごくなよ？
+  annot: すぐ戻るから、絶対ここ動くなよ？
+  translation_zh: 我马上回来，你绝对别离开这里哦？
+  source_book: book-ja-001
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 语气
+- 动词活用
+provenance:
+  discovered_in: book-ja-001
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

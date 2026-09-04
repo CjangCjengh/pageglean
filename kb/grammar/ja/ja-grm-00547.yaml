@@ -1,0 +1,38 @@
+id: ja-grm-00547
+language: ja
+type: grammar
+level: N2
+level_rank: 4
+title: 形式名词「わけ」：わけがない／わけにはいかない
+structure: 用言終止形＋形式名詞「わけ」＋「が＋ない」／「には＋いかない」
+structure_pattern: V終止形+わけがない／V終止形+わけにはいかない
+explanation_zh: 「わけ」是形式名词，表示情理、道理。「わけがない」从情理上彻底否定，意为“不可能…”；「わけにはいかない」表示碍于情理、立场而“不能…”，否定的是行为的选择余地。两者都是书面与口语通用的常用表达。
+examples:
+- text: だけど、引くわけにはいかない。
+  reading: ''
+  annot: だけど、引[ひ]くわけにはいかない。
+  translation_zh: 但是，我不能退缩。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+- text: 言ったところでどうにかなるわけがない。
+  reading: ''
+  annot: 言[い]ったところでどうにかなるわけがない。
+  translation_zh: 就算说了，也不会有什么改变。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 形式名词
+- 语气
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

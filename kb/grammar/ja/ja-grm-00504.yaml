@@ -1,0 +1,39 @@
+id: ja-grm-00504
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 〜てやる：带粗鲁感的授受表达
+structure: 動詞連用形＋て＋やる
+structure_pattern: V-連用形 + て + やる
+explanation_zh: 补助动词「やる」表示说话人做某事给别人、或为他人而做，相当于「〜てあげる」，但语气粗鲁随意，多用于男性口语或自述。文中『正直に全部書いてやった』表现主人公干脆把实情全部写进日记的姿态。
+examples:
+- text: どうせばれるだろうと思って、正直に全部書いてやった。
+  reading: ''
+  annot: どうせばれるだろうと思[おも]って、正直[しょうじき]に全部[ぜんぶ]書[か]いてやった。
+  translation_zh: 反正迟早会被发现，我就老老实实把一切都写了下来。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+- text: クエスチョンマークを振りかざすヤンキー共に、俺は言ってやった。
+  reading: ''
+  annot: クエスチョンマークを振[ふ]りかざすヤンキー共[ども]に、俺[おれ]は言[い]ってやった。
+  translation_zh: 我冲着这群高高举着问号的不良少年甩出了这句话。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 授受
+- 口语
+- 语气
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

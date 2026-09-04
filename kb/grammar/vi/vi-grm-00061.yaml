@@ -1,0 +1,38 @@
+id: vi-grm-00061
+language: vi
+type: grammar
+level: L4
+level_rank: 4
+title: 反问句式「Cần gì + V/NP」
+structure: Cần gì + 名词/动词！（＝何必……！／用不着……！）
+structure_pattern: cần gì + NP/V（câu hỏi tu từ，反问句）
+explanation_zh: 「Cần gì…」是反问句，意为「哪用得着……／不需要……」，带轻蔑、不服或逞强的语气，功能上等于陈述句「không cần…」，但语用色彩更强。口语中常省略主语，单独成句。
+examples:
+- text: Cần gì ai bảo!
+  reading: ''
+  annot: Cần gì ai bảo!
+  translation_zh: 哪用得着别人告诉我！
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+- text: Cần gì coi!
+  reading: ''
+  annot: Cần gì coi!
+  translation_zh: 哪用得着看！
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 反问
+- 语气
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

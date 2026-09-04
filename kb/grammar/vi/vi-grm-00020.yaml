@@ -1,0 +1,33 @@
+id: vi-grm-00020
+language: vi
+type: grammar
+level: L2
+level_rank: 2
+title: Mỗi lần… đều…：每次……都……
+structure: Mỗi lần + mệnh đề, S + đều + V
+structure_pattern: mỗi lần（trạng ngữ chỉ thời gian）+ mệnh đề, đều（phó từ）+ V
+explanation_zh: “mỗi lần”引导时间状语从句，表“每次……”；主句用副词đều（都、总是）呼应，强调无一例外的习惯性反应。đều属学校语法中的phó
+  từ（副词），表“一律、反复”（đồng đều/tiếp diễn）。
+examples:
+- text: Mỗi lần tụi con trai tìm cách bắt chuyện với nó, nó đều trả lời đàng hoàng.
+  reading: ''
+  annot: Mỗi lần tụi con trai tìm cách bắt chuyện với nó, nó đều trả lời đàng hoàng.
+  translation_zh: 每次男生们想方设法跟她搭话，她都答得落落大方。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 频率
+- 习惯
+- 副词
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

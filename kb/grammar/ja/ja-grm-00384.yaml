@@ -1,0 +1,39 @@
+id: ja-grm-00384
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: のだ／んだ・もん・んで：说明语气
+structure: 用言连体形・体言 + 准体助词「の（ん）」+ 断定助动词「だ」（口语变体：もん＝ものだ、んで＝ので）
+structure_pattern: 連体形 + のだ / んだ / んで / もん(=ものだ)
+explanation_zh: 准体助词「の」（口语说成「ん」）加断定助动词「だ」构成说明语气，用于解释原因、强调结论。口语中有「んだ」「もん（ものだ）」「んで（ので）」等多种变体。文中「んで」引出对提问的解释，「もんね」则是自我辩解的语气。
+examples:
+- text: んで、質問への答えだが単純に苦手だからだ。
+  reading: ''
+  annot: んで、質問[しつもん]への答[こた]えだが単純[たんじゅん]に苦手[にがて]だからだ。
+  translation_zh: 所以说，对那个问题的回答嘛，就是单纯地不擅长而已。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+- text: 俺の顔恐いもんね。
+  reading: ''
+  annot: 俺[おれ]の顔[かお]恐[こわ]いもんね。
+  translation_zh: 毕竟我的脸挺吓人的嘛。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 句末语气
+- 口语
+- 形式名词
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 5
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

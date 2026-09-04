@@ -1,0 +1,32 @@
+id: vi-grm-00132
+language: vi
+type: grammar
+level: L3
+level_rank: 3
+title: 话题化：受事提前 +「lại càng」突出强调
+structure: 受事/话题 + 主语 + lại càng + V
+structure_pattern: Topic(=O) + S + lại_càng + V
+explanation_zh: 越南语常把要强调的受事提到句首作话题，再用“主语＋谓语”加以说明，与中文话题句相通。此句把“Hải gầy”提前，用「lại càng」（更加）突出“尤其不想见他”。相当于中文“这个人我更不想见”。
+examples:
+- text: Hải gầy tôi lại càng không muốn gặp.
+  reading: ''
+  annot: Hải gầy tôi lại càng không muốn gặp.
+  translation_zh: 至于瘦子海，我就更不想见到他了。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 话题化
+- 句式
+- 语序
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 9
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

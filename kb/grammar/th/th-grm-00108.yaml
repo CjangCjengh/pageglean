@@ -1,0 +1,38 @@
+id: th-grm-00108
+language: th
+type: grammar
+level: L2
+level_rank: 2
+title: ไหม / หรือเปล่า：是非问与疑惑语气
+structure: คำกริยา/คำวิเศษณ์ + ไหม（是非问）；句末 + หรือเปล่า（是否）+ เหรอ/หว่า（疑惑）
+structure_pattern: V/Adj + ไหม ; …หรือเปล่า + (เหรอ/หว่า)
+explanation_zh: 「ไหม」置于句末构成是非问句，相当于「……吗」。「หรือเปล่า」表示「是否／是不是……」，带有不确定的语气。句末助词「เหรอ」「หว่า」加重疑惑、自言自语的语气。
+examples:
+- text: อร่อย​ไหมคะ?
+  reading: ''
+  annot: อร่อย​ไหมคะ?
+  translation_zh: 好吃吗？
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+- text: ผม​พูด​อะไร​ผิด​ไป​หรือเปล่า​หว่า
+  reading: ''
+  annot: ผม​พูด​อะไร​ผิด​ไป​หรือเปล่า​หว่า
+  translation_zh: 我是不是说错什么话了啊？
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 疑问
+- 句末助词
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

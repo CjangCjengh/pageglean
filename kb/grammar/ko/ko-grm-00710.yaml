@@ -1,0 +1,38 @@
+id: ko-grm-00710
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: 「主体敬语先语末词尾'-시-'与感叹词尾'-구나'」
+structure: 动词词干 + 주체높임 선어말어미『-시-』+ 종결어미『-는구나』/『-나』
+structure_pattern: V-시-는구나 / V-시-나
+explanation_zh: 先语末词尾『-시-』抬高动作主体，表示尊敬，如本段中对『마왕님』使用。终结词尾『-는구나』表示新察觉到的事实并带有感叹，两者结合为『-시는구나』。敬语词尾与较亲密的阶位共现，体现亲昵中不失恭敬的语气。
+examples:
+- text: 아하하, 마왕님도 연애를 하시는구나?
+  reading: ''
+  annot: 아하하, 마왕님도 연애를 하시는구나?
+  translation_zh: 哈哈哈，魔王大人也在谈恋爱呀？
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+- text: 아아, 혹시 겁이 많아서 못 노시나?
+  reading: ''
+  annot: 아아, 혹시 겁이 많아서 못 노시나?
+  translation_zh: 啊，该不会是胆子太小，所以玩不起来吧？
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 敬语
+- 语气
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

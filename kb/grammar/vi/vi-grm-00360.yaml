@@ -1,0 +1,31 @@
+id: vi-grm-00360
+language: vi
+type: grammar
+level: L3
+level_rank: 3
+title: 不如意被动：bị
+structure: bị + 动词（被动，多指不如意）
+structure_pattern: bị + động từ (câu bị động)
+explanation_zh: bị 表示被动且多指不如意的事，与表示获益的 được 相对；此处指蝴蝶“被压扁”。同句的 “làm sao…được” 是反问格式，表示“怎么可能……”。
+examples:
+- text: Bị đè bẹp dí làm sao sống được!
+  reading: ''
+  annot: Bị đè bẹp dí làm sao sống được!
+  translation_zh: 被压得扁扁的，哪还活得成！
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 被动
+- 虚词
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

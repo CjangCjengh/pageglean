@@ -1,0 +1,40 @@
+id: vi-grm-00124
+language: vi
+type: grammar
+level: L1
+level_rank: 1
+title: Câu nghi vấn：用「không」与疑问词提问
+structure: V/Adj + không?（câu nghi vấn 是非问；疑问词 nào/sao/đâu）
+structure_pattern: V/Adj + không
+explanation_zh: 越南语是非问句常把 không 直接放在动词或形容词后构成「……吗／……不……」式提问，无需系词或倒装。也可用 nào、sao、đâu
+  等疑问词提问，如「Bằng cách nào?」（用什么办法？）。该结构口语性强，在对话中使用频繁。
+examples:
+- text: Việt An xem phim "Yesterday" thấy hay không?
+  reading: ''
+  annot: Việt An xem phim "Yesterday" thấy hay không?
+  translation_zh: 越安，你觉得电影《Yesterday》好看吗？
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+- text: Dám không?
+  reading: ''
+  annot: Dám không?
+  translation_zh: 敢不敢？
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- câu nghi vấn
+- 疑问结构
+- 语气
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

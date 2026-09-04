@@ -1,0 +1,39 @@
+id: vi-grm-00304
+language: vi
+type: grammar
+level: L2
+level_rank: 2
+title: như：明喻比较（“像……一样”）
+structure: V/Adj + như + N（像……一样）
+structure_pattern: Adj/V + như + N
+explanation_zh: như是比较关系词（quan hệ từ so sánh），构成“动词/形容词＋như＋名词”的明喻结构，相当于“像……一样”。越南语喜用固定的动物喻体，本片段两用其例：nhanh
+  như ngựa（快如马）、lẩn nhanh như chạch（溜得像泥鳅）。
+examples:
+- text: Nhưng Lợi sứt chạy nhanh như ngựa.
+  reading: ''
+  annot: Nhưng Lợi sứt chạy nhanh như ngựa.
+  translation_zh: 可是阿缺跑得像马一样快。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+- text: Giờ ra về, nó lẩn nhanh như chạch.
+  reading: ''
+  annot: Giờ ra về, nó lẩn nhanh như chạch.
+  translation_zh: 放学的时候，他溜得像泥鳅一样快。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 比较
+- 虚词
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

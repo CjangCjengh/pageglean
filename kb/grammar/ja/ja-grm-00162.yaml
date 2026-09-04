@@ -1,0 +1,31 @@
+id: ja-grm-00162
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 「〜た方がいい」：建议（“最好……／还是……为好”）
+structure: V-連用形＋助动词「た」＋方がいい
+structure_pattern: V(連用形) + た方がいい
+explanation_zh: 助动词「た」接动词連用形后加「方がいい／良い」，表示经比较取舍后提出的建议，“最好……／还是……为好”。片段中以「〜方が良いか」的自问形式出现，带有试探、斟酌的语气。口语中也常说「〜たほうがいいよ」。
+examples:
+- text: まずは信用を得るためにも、私がここに居る理由を教えた方が良いか。
+  reading: ''
+  annot: まずは信用[しんよう]を得[う]るためにも、私[わたし]がここに居[い]る理由[りゆう]を教[おし]えた方[ほう]が良[よ]いか。
+  translation_zh: 首先，为了取得信任，是不是把我在这里的理由告诉（你们）比较好呢。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 建议
+- 助动词た
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

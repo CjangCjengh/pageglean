@@ -1,0 +1,40 @@
+id: ko-grm-00709
+language: ko
+type: grammar
+level: TOPIK2
+level_rank: 2
+title: -아/어 있다：动作结果的持续
+structure: 动词 + 副词形语尾 -아/어 + 补助动词 있다
+structure_pattern: V-아/어 있다
+explanation_zh: 补助动词「있다」接在副词形语尾后，表示动作完成后状态的持续，多与不及物动词搭配，如「살아 있다（活着）」「남아 있다（剩下）」。与表示动作进行的「-고
+  있다」相对：前者是状态，后者是进行。
+examples:
+- text: 살아 있는 사람 약간을 제외하고 도시에 있던 사람들이 전부 흔적도 없이 증발해 버렸어요.
+  reading: ''
+  annot: 살아 있는 사람 약간을 제외하고 도시에 있던 사람들이 전부 흔적도 없이 증발해 버렸어요.
+  translation_zh: 除了少数还活着的人以外，城里的人全都消失得无影无踪了。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+- text: 이 도시의 살아 있지 않은 이들을 처리하는 문제에 대해서 말이다.
+  reading: ''
+  annot: 이 도시의 살아 있지 않은 이들을 처리하는 문제에 대해서 말이다.
+  translation_zh: 说的是如何处理这座城市里那些已经不再活着的人的问题。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 相
+- 补助动词
+- 状态
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 4
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

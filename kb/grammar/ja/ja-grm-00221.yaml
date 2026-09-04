@@ -1,0 +1,38 @@
+id: ja-grm-00221
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 〜ながら（も）：一边……一边 / 虽然……却……
+structure: 动词连用形 + 接续助词「ながら」（+ 系助词「も」）
+structure_pattern: V-連用形 + ながら（も）
+explanation_zh: 接续助词「ながら」接动词连用形，表示同一主体同时做两个动作，即“一边……一边……”。后接系助词「も」时转折意味增强，变为“虽然……却……”。片段中「恥ずかしがりながら」表并行，“緊張に頬を染めながらも”则为让步逆接。
+examples:
+- text: その中央で、少し恥[は]ずかしがりながら一生懸命[いつしようけんめい]に答えている美少女（仮）。
+  reading: ''
+  annot: ''
+  translation_zh: 在正中央，是一位虽然有些害羞、却仍在拼命回答着问题的美少女（暂定）。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+- text: 緊張に頬[ほお]を染めながらも楽しそうに会話する
+  reading: ''
+  annot: ''
+  translation_zh: 虽然因紧张而双颊泛红，交谈时却显得很愉快。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 接续
+- 逆接
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

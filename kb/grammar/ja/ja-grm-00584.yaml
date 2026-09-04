@@ -1,0 +1,32 @@
+id: ja-grm-00584
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 〜てやる：为（某人）做……（粗率语气）
+structure: 动词连用形＋接续助词「て」＋补助动词「やる」
+structure_pattern: V(連用形) + て + やる(補助動詞)
+explanation_zh: 补助动词「やる」接在「て」后，表示为地位相同或较低的对象做某事，语气比「てあげる」粗率、随意，多用于男性口语。文中“絶対に止めてやる”是主人公的誓言“我一定会阻止（她）”。
+examples:
+- text: 絶対に止めてやるからな……風城
+  reading: ''
+  annot: 絶対[ぜったい]に止[と]めてやるからな……風城[かぜしろ]
+  translation_zh: 我一定会阻止你的……风城。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 授受
+- 补助动词
+- 口语
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

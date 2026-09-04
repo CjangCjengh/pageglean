@@ -1,0 +1,32 @@
+id: ja-grm-00442
+language: ja
+type: grammar
+level: N3
+level_rank: 3
+title: 新闻体传闻与推测：〜とのことだ／〜模様だ
+structure: 连体形 + とのことだ；连体形 + 模様（だ）
+structure_pattern: 連体形 + 引用助詞「と」+ のことだ；連体形 + 模様だ
+explanation_zh: 「とのことだ」用于转述传闻（引用助词「と」+形式名词「こと」），「模様だ」表示对事态的推测，两者都是新闻报道中的典型表达。片段故意用新闻体写交换笔记的内容，连「示しており」这类谦让动词「おる」（相当于「いる」）也是这种文体的特征，制造出一本正经的滑稽效果。
+examples:
+- text: 必死に凶器を隠そうとする様子があまりにもかわいすぎたので、現行犯逮捕に踏み切ったとのこと。
+  reading: ''
+  annot: 必死[ひっし]に凶器[きょうき]を隠[かく]そうとする様子[ようす]があまりにもかわいすぎたので、現行犯逮捕[げんこうはんたいほ]に踏[ふ]み切[き]ったとのこと。
+  translation_zh: （由于）她拼命想藏起凶器的样子实在太可爱了，（警方）果断实施了现行逮捕。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 传闻
+- 书面语
+- 语体
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

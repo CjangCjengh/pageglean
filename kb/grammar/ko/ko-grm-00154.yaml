@@ -1,0 +1,39 @@
+id: ko-grm-00154
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: -(으)ㄹ 것이다：推测与预见
+structure: 动词/形容词词干 + -(으)ㄹ 것이다
+structure_pattern: V/A- + -(으)ㄹ 것이다
+explanation_zh: 由冠词形词尾 -(으)ㄹ + 依存名词 것 + 이다 构成，表示对情况的推测或对未来的预见，相当于“会……”；对过去的推测用 -았/었을
+  것이다。口语中常说成 -(으)ㄹ 터이니，片段中的“나타날 테니까”即“나타날 터이니까”，兼表推测与原因。
+examples:
+- text: 카이트와 세레나데 입장에서도 갑자기 나타난 남자의 제안을 섣불리 받아들일 수는 없을 것이다.
+  reading: ''
+  annot: 카이트와 세레나데 입장에서도 갑자기 나타난 남자의 제안을 섣불리 받아들일 수는 없을 것이다.
+  translation_zh: 即使站在凯特和塞蕾娜德的立场，他们也不可能轻易接受一个突然出现的男人的提议。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+- text: 두 사람을 이용하려고 하거나 제거하려고 하는 자들이 계속해서 나타날 테니까.
+  reading: ''
+  annot: 두 사람을 이용하려고 하거나 제거하려고 하는 자들이 계속해서 나타날 테니까.
+  translation_zh: 因为那些想利用两人、或是想除掉两人的人，会接连不断地出现。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 推测
+- 语气
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

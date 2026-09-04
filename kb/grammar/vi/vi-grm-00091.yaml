@@ -1,0 +1,41 @@
+id: vi-grm-00091
+language: vi
+type: grammar
+level: L3
+level_rank: 3
+title: bị/được：被动标记
+structure: 受事主语 + bị/được + 施事 + 动词
+structure_pattern: O + bị/được + S + V
+explanation_zh: 越南语用 bị 和 được 构成被动句：施事者置于 bị/được 之后、动词之前。bị 表示不如意、受损的被动，được 表示如意、受益的被动，感情色彩对立分明。本片段恰好两例并列，可对比体会："被牵鼻子"用
+  bị，"被分派任务"（受益）用 được。
+examples:
+- text: Tiểu Li bị tôi xỏ mũi dài dài.
+  reading: ''
+  annot: Tiểu Li bị tôi xỏ mũi dài dài.
+  translation_zh: 小丽一直被我牵着鼻子走。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+- text: Được tôi phân công nghĩ trò chơi mới, chắc nó nằm thao thức nghĩ ngợi suốt
+    đêm.
+  reading: ''
+  annot: Được tôi phân công nghĩ trò chơi mới, chắc nó nằm thao thức nghĩ ngợi suốt
+    đêm.
+  translation_zh: 被我分派去想新游戏，她大概整夜躺着翻来覆去地琢磨。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 被动
+- 语态
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

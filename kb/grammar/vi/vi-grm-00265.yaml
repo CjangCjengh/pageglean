@@ -1,0 +1,38 @@
+id: vi-grm-00265
+language: vi
+type: grammar
+level: L1
+level_rank: 1
+title: hả：求证式疑问语气词
+structure: 陈述句 + hả?（句末疑问情态词 tình thái từ nghi vấn）
+structure_pattern: S + V + hả?
+explanation_zh: 「hả」位于句末，表示求证或略带惊讶的发问，相当于汉语“……吗？”，说话人往往已有一定预设。语气随意，多用于平辈、晚辈及口语场合，对长辈宜换用更客气的问法。
+examples:
+- text: Tự mày té hả?
+  reading: ''
+  annot: Tự mày té hả?
+  translation_zh: 是你自己摔倒的吗？
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+- text: Anh chưa đi học hả?
+  reading: ''
+  annot: Anh chưa đi học hả?
+  translation_zh: 哥哥还没去上学吗？
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 疑问
+- 语气词
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

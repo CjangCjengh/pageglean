@@ -1,0 +1,32 @@
+id: vi-grm-00164
+language: vi
+type: grammar
+level: L3
+level_rank: 3
+title: mới：「才」——条件或时间延迟
+structure: （时间/条件）+ mới + V（+ được）
+structure_pattern: NP(thời gian/điều kiện) + mới + V
+explanation_zh: mới 表示动作要到某个时间点之后或满足某条件后才发生，相当于汉语「才」，暗含等待之久或不易。常与时间短语搭配，句末可加 được
+  表示「能够」。
+examples:
+- text: Chắc ba, bốn bữa nữa mới đi học lại được.
+  reading: ''
+  annot: Chắc ba, bốn bữa nữa mới đi học lại được.
+  translation_zh: 大概还要三四天才能回去上学。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 体貌
+- 虚词
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

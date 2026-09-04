@@ -1,0 +1,38 @@
+id: ja-grm-00109
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 「〜ておく」：事先做好（预先准备）
+structure: 动词连用形 ＋ て ＋ おく
+structure_pattern: V-連用形 + て + おく（補助動詞）
+explanation_zh: 学校文法将接在动词连用形＋て之后的「おく」视为补助动词，表示为之后的目的预先完成某事。口语里「ておく」常缩约为「とく」。片段中「止めておく」「訊いておく」均为事先做在前面之意。
+examples:
+- text: 悪かった。今後は冗談でも止めておく。
+  reading: ''
+  annot: 悪[わる]かった。今後は冗談[じょうだん]でも止[や]めておく。
+  translation_zh: 抱歉。今后就算是开玩笑我也作罢。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+- text: うむ。――先に訊いておくが……『ステータス』は、まだ得ていないな？
+  reading: ''
+  annot: うむ。――先[さき]に訊[き]いておくが……『ステータス』は、まだ得[え]ていないな？
+  translation_zh: 嗯。——我先问一句……你还没获得『状态』吧？
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 体貌
+- 補助動詞
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

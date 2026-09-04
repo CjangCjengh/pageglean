@@ -1,0 +1,39 @@
+id: ko-grm-00142
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: -아/어 놓다：动作结果的存续
+structure: 动词词干 + -아/어 놓다（后接定语词尾 -ㄴ 作定语：놓은）
+structure_pattern: 동사 어간 + 연결어미 -아/어 + 보조동사 '놓다'
+explanation_zh: 补助动词结构，表示动作完成后其结果状态持续保留，相当于汉语“（提前）……好”。近义的 -아/어 두다 片段中也出现了（남겨 둔 채）。
+examples:
+- text: 결국 소년은 어쩔 수 없이 소녀가 준비해 놓은 깊은 산속의 은신처에서, 소녀가 시키는 대로 수련을 하게 되었다.
+  reading: ''
+  annot: 결국 소년은 어쩔 수 없이 소녀가 준비해 놓은 깊은 산속의 은신처에서, 소녀가 시키는 대로 수련을 하게 되었다.
+  translation_zh: 最终，少年只好在少女提前备好的深山藏身处，按她的吩咐进行修炼。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+- text: 나는 부하들을 저택에 남겨 둔 채 혼자서 몰래 길을 떠났다.
+  reading: ''
+  annot: 나는 부하들을 저택에 남겨 둔 채 혼자서 몰래 길을 떠났다.
+  translation_zh: 我把部下留在宅邸里，独自悄悄上了路。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 补助动词
+- 体貌
+- 定语
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

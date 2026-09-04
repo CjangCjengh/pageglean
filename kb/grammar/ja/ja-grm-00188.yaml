@@ -1,0 +1,31 @@
+id: ja-grm-00188
+language: ja
+type: grammar
+level: N2
+level_rank: 4
+title: 「〜すら：连……都」
+structure: 体言・格助詞（を/が/に）＋すら（副助詞，可替换格助詞）
+structure_pattern: N/V-て + すら
+explanation_zh: 副助词「すら」举出极端事例以暗示其他更不在话下，意为“连……都”，多与否定搭配，语感比「さえ」更书面。它可以替换「を・が・に」等格助词；片段中直接接在「話して」之后（話して＋すら＋いなかった），强调“连说都没说过”。
+examples:
+- text: ……そういえばイスカには、出かけるとか以前に紅音の事を話してすらいなかった。
+  reading: ''
+  annot: ……そういえばイスカには、出かけるとか以前に紅音の事を話してすらいなかった。
+  translation_zh: ……话说回来，对伊斯卡我别提出门的事了，连红音这个人提都没提过。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 助词
+- 强调
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

@@ -1,0 +1,33 @@
+id: ko-grm-00689
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: 「-았/었더니：本以为……却……」
+structure: 用言词干 + 先语末词尾 -았/었- + 连接词尾 -더니（회상）
+structure_pattern: V/A + -았/었더니
+explanation_zh: 由追忆先语末词尾与连接词尾构成，说话人回顾自己亲历的事实，后句引出与之相反或出乎意料的结果，含转折、不满语气，相当于“（我）明明……却……”。本例中恶魔以
+  '기껏 도와줬더니' 表达被背叛的讥讽。
+examples:
+- text: 기껏 도와줬더니 은혜를 원수로 갚네. 인간들은 이렇다니까.
+  reading: ''
+  annot: 기껏 도와줬더니 은혜를 원수로 갚네. 인간들은 이렇다니까.
+  translation_zh: 我好心帮了忙，却以怨报德。人类就是这副德行。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 连接词尾
+- 追忆
+- 转折
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

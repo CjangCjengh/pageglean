@@ -1,0 +1,38 @@
+id: ko-grm-00324
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: -아/어 버리다：彻底完成与遗憾语气
+structure: 动词词干 + -아/어 버리다
+structure_pattern: V-아/어 + 보조용언 '버리다'
+explanation_zh: 连接词尾 -아/어 接补助动词 버리다，表示动作彻底完成、不留余地。说话人常带有遗憾、痛快或无可奈何的语气。相当于中文的“……掉了”“干脆……了”。
+examples:
+- text: 어떤 공격을 받아도 끄떡없는 불사신 같은 적을, 규격 외의 힘으로 일도양단해 버리는 주인공……
+  reading: ''
+  annot: 어떤 공격을 받아도 끄떡없는 불사신 같은 적을, 규격 외의 힘으로 일도양단해 버리는 주인공……
+  translation_zh: 无论受到什么攻击都毫不动摇、如同不死之身般的敌人，以超出规格的力量将其一刀两断的主人公……
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+- text: 클라우의 병사들은 전부 시체가 되어 있거나 도망쳐 버렸다.
+  reading: ''
+  annot: 클라우의 병사들은 전부 시체가 되어 있거나 도망쳐 버렸다.
+  translation_zh: 克劳的士兵们已全部变成了尸体，要么就都逃光了。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 补助动词
+- 体貌
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

@@ -1,0 +1,31 @@
+id: ja-grm-00310
+language: ja
+type: grammar
+level: N2
+level_rank: 4
+title: 「〜かねない」：说不定会……（消极可能性）
+structure: 動詞連用形＋かねない（複合動詞の接尾辞）
+structure_pattern: V-連用形 + かねない
+explanation_zh: 接尾辞「かねない」（「かねる」的否定形）接动词连用形，表示「完全有可能发生（令人担心的事）」，含警示语气。文中形容众人是仅凭一己之力就可能撼动己方局势的重要人物。与表示「难以做到」的「〜かねる」方向相反，注意区分。
+examples:
+- text: その世界に居る方々は、一人でこちらの情勢を動かしかねない重要人物。
+  reading: ''
+  annot: その世界に居る方々は、一人でこちらの情勢を動かしかねない重要人物。
+  translation_zh: 身处那个世界的各位，都是仅凭一己之力就可能撼动我方局势的重要人物。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 可能性
+- 复合动词
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

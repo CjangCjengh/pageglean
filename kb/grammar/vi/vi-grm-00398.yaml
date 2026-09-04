@@ -1,0 +1,33 @@
+id: vi-grm-00398
+language: vi
+type: grammar
+level: L3
+level_rank: 3
+title: không thể nào ... được：不可能
+structure: không thể nào + 动词 + 结果/可能补语 được（câu phủ định 表无法实现）
+structure_pattern: S + không thể nào + V + được
+explanation_zh: “không thể nào + V + được”表示“怎么也……不了、根本无法”，其中 được 作补语表示动作能够实现或达成。同类结构还有
+  V + nổi（做得了、受得住），如片段中的 không làm quen nổi。
+examples:
+- text: Tôi không thể nào hình dung được tôi sống mà không có nó
+  reading: ''
+  annot: Tôi không thể nào hình dung được tôi sống mà không có nó
+  translation_zh: 我根本无法想象没有她我该怎么生活
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 补语
+- 可能
+- 否定
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

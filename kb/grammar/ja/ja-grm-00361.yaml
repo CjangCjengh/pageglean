@@ -1,0 +1,31 @@
+id: ja-grm-00361
+language: ja
+type: grammar
+level: N3
+level_rank: 3
+title: 〜ばいいのか：该怎么做才好
+structure: 動詞仮定形＋接続助詞「ば」＋いいのか
+structure_pattern: V-仮定形 + ば + いいのか
+explanation_zh: 动词假定形＋「ば」＋「いいのか」表示“怎样做才好”，带困惑语气。常以两个相反动词并列使用，表达不知所措、哭笑不得的心情。例文『笑えばいいのか泣けばいいのか』即典型用法。
+examples:
+- text: 笑えばいいのか泣けばいいのか。
+  reading: ''
+  annot: 笑[わら]えばいいのか泣[な]けばいいのか。
+  translation_zh: 我是该笑好，还是该哭好呢。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 语气
+- 句末
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

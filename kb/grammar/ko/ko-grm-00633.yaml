@@ -1,0 +1,32 @@
+id: ko-grm-00633
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: -ㄴ지/는지 알다/모르다：知道还是不知道……
+structure: 용언 어간 + 관형사형 어미 '-(느)ㄴ' + 의존명사 '지' + '알다/모르다'
+structure_pattern: V/A-는/ㄴ 지 + 알다/모르다
+explanation_zh: 依存名词 ‘지’ 表示“是否……、……什么”等不确定内容，谓词用冠形词尾 -ㄴ지/는지 修饰它，构成间接疑问。常与 알다/모르다 搭配，表示“知道/不知道……”。相当于把整个疑问句名词化后作宾语。
+examples:
+- text: 그게 무슨 의미인지 몰라 인상을 찌푸렸더니
+  reading: ''
+  annot: 그게 무슨 의미인지 몰라 인상을 찌푸렸더니
+  translation_zh: 因为不明白那是什么意思，我皱起了眉头，……
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 间接疑问
+- 依存名词
+- 冠形词尾
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

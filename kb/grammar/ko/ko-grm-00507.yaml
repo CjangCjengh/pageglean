@@ -1,0 +1,31 @@
+id: ko-grm-00507
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: -는 와중에：正当……之际
+structure: 动词现在定语词尾 -는 + 名词 와중(渦中) + 副词格助词 -에
+structure_pattern: V-는 와중에
+explanation_zh: 와중(渦中)指某事正在进行、持续的过程当中，表示在前项背景下发生了后项。比 -는 동안 更强调"正当其时"的现场感与背景感。多用于书面叙事。
+examples:
+- text: 브룬의 이야기가 계속 이어지는 와중에, 나는 요나가 조그마한 목소리로 빈과 나누는 대화 내용을 엿들었다.
+  reading: ''
+  annot: 브룬의 이야기가 계속 이어지는 와중에, 나는 요나가 조그마한 목소리로 빈과 나누는 대화 내용을 엿들었다.
+  translation_zh: 布珑的讲述还在继续，其间我偷听到了约娜小声与宾交谈的内容。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 时间
+- 背景
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

@@ -1,0 +1,39 @@
+id: ja-grm-00574
+language: ja
+type: grammar
+level: N2
+level_rank: 4
+title: V-まくる：反复、大量地做（口语）
+structure: 动词连用形 + 复合动词 まくる
+structure_pattern: V连用形 + まくる
+explanation_zh: 「まくる」接动词连用形构成复合动词，表示拼命地、反复地做某事，属口语语体。片段中「逆算しまくった」「叫びまくった」分别渲染主人公反复核对日历的焦灼与妹妹大叫的夸张程度。
+examples:
+- text: 何度もカレンダーを逆算しまくったが、こればっかりはどうしようもない。
+  reading: ''
+  annot: 何度[なんど]もカレンダーを逆算[ぎゃくさん]しまくったが、こればっかりはどうしようもない。
+  translation_zh: 我把日历翻来覆去倒推了好几遍，但这事实在毫无办法。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+- text: それを聞いた妹は、ひとしきりぎゃーぎゃー叫びまくったあと、つやつやした顔で俺に向きなおってこう言った。
+  reading: ''
+  annot: それを聞[き]いた妹[いもうと]は、ひとしきりぎゃーぎゃー叫[さけ]びまくったあと、つやつやした顔[かお]で俺[おれ]に向[む]きなおってこう言[い]った。
+  translation_zh: 妹妹听后先是一阵哇哇乱叫，随后容光焕发地转向我这样说道。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 复合动词
+- 体貌
+- 口语
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

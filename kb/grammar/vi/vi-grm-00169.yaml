@@ -1,0 +1,40 @@
+id: vi-grm-00169
+language: vi
+type: grammar
+level: L1
+level_rank: 1
+title: 疑问句：sao（为什么）、đâu（在哪里）、gì（什么）
+structure: Sao + 分句？／名词 + đâu?／……gì?
+structure_pattern: Sao + clause? / N + đâu? / …gì?
+explanation_zh: 越南语疑问句不用汉语“吗”类语气词，而是直接用疑问代词：sao 问原因（为什么）、đâu 问处所（在哪里）、gì 问事物（什么）。句中的
+  mà 表示转折，相当于“却”。“Sao…mà…”连用常带“怎么竟然……”的反诘语气。
+examples:
+- text: Sao em đi học mà không chép bài?
+  reading: ''
+  annot: Sao em đi học mà không chép bài?
+  translation_zh: 你怎么来上学却不抄笔记？
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+- text: Bài học hôm trước đâu?
+  reading: ''
+  annot: Bài học hôm trước đâu?
+  translation_zh: 上次学的课文在哪儿？
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 疑问句
+- 疑问代词
+- 语气
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

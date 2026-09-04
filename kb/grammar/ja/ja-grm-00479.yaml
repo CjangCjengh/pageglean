@@ -1,0 +1,32 @@
+id: ja-grm-00479
+language: ja
+type: grammar
+level: N3
+level_rank: 3
+title: 〜はずがない：对预想的强烈否定
+structure: 用言連体形＋形式名詞「はず」＋格助詞「が」＋助動詞「ない」（隠しきれる＝複合動詞「隠しきる」可能形）
+structure_pattern: V-連体形 + 形式名詞「はず」 + が + 助動詞「ない」
+explanation_zh: 形式名词「はず」表示依据事理的预期，「はずがない」即按常理“绝不可能……”。与「わけがない」侧重情理不同，「はずがない」更强调与预期相悖。「隠しきれる」是复合动词「隠しきる」的可能形。
+examples:
+- text: だけど、こんな特殊な共同生活で隠しきれるはずがない。
+  reading: ''
+  annot: だけど、こんな特殊[とくしゅ]な共同生活[きょうどうせいかつ]で隠[かく]しきれるはずがない。
+  translation_zh: 但是，在这样的特殊共同生活里，哪有可能瞒得滴水不漏。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 形式名词
+- 语气
+- 推量
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

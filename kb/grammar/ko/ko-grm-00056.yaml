@@ -1,0 +1,39 @@
+id: ko-grm-00056
+language: ko
+type: grammar
+level: TOPIK1
+level_rank: 1
+title: -(으)ㄹ 수 있다：能够……（可能性）
+structure: 동사 어간 + -(으)ㄹ 수 있다
+structure_pattern: V + -(으)ㄹ + 수(의존명사) + 있다
+explanation_zh: 接在动词词干后，表示有做某事的可能性或能力，相当于中文的"能／可以……"。结构上由冠形词形转成词尾（관형사형 전성어미）-(으)ㄹ＋依存名词
+  수（办法、可能）＋있다 构成。片段中高频出现，用于描述迷宫的功能与军队的维持。
+examples:
+- text: 이 세계에서 에너지원으로 사용되는 마석(魔石)을 추출할 수 있는 포인트에 존재한다.
+  reading: ''
+  annot: 이 세계에서 에너지원으로 사용되는 마석(魔石)을 추출할 수 있는 포인트에 존재한다.
+  translation_zh: （迷宫）存在于能够提取魔石的地点，而魔石在这个世界中被用作能源。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+- text: 약 7백 명의 병사를 정규군으로서 유지할 수 있는 양이다.
+  reading: ''
+  annot: 약 7백 명의 병사를 정규군으로서 유지할 수 있는 양이다.
+  translation_zh: 是能够以正规军的名义维持约七百名士兵的数量。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 可能
+- 依存名词
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 9
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

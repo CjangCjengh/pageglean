@@ -1,0 +1,31 @@
+id: th-grm-00121
+language: th
+type: grammar
+level: L1
+level_rank: 1
+title: กำลัง：进行体「正在……」
+structure: กำลัง + 动词/形容词
+structure_pattern: คำช่วยกริยา 'กำลัง' + คำกริยา/คำวิเศษณ์ (เหตุการณ์กำลังดำเนิน)
+explanation_zh: กำลัง 置于动词前表示动作正在进行，相当于「正在」。片段中后接นิด ๆ（一点点）与英语借词เฮิร์ท（hurt），描写当时情绪低落的状态。
+examples:
+- text: ตอนนั้น​ผม​กำลัง​เฮิร์​ทนิด ๆ
+  reading: ''
+  annot: ตอนนั้น​ผม​กำลัง​เฮิร์​ทนิด ๆ
+  translation_zh: 那时我正有点小失落。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 体貌
+- 助动词
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

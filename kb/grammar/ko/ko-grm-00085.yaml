@@ -1,0 +1,38 @@
+id: ko-grm-00085
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: -더라도：让步假设（即使……也）
+structure: 용언 어간 + -더라도（양보의 연결 어미）
+structure_pattern: V/A-더라도
+explanation_zh: 让步连接词尾，前句假设一种极端情况，后句表示即便如此也不影响结论，语气比-아/어도更强，相当于中文“即使……也……”。相关的-(이)라도附在体言后表示“哪怕一个……也”。
+examples:
+- text: 해골이 되더라도 그곳만큼은 남겨 주세요!
+  reading: ''
+  annot: 해골이 되더라도 그곳만큼은 남겨 주세요!
+  translation_zh: 即使变成骷髅，那个部位也请务必留下！
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+- text: 저쪽이 공격해 오지 않더라도, 나는 공격할 작정이지만.
+  reading: ''
+  annot: 저쪽이 공격해 오지 않더라도, 나는 공격할 작정이지만.
+  translation_zh: 即使对方不攻过来，我可是打定主意要主动进攻的。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 连接词尾
+- 让步
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

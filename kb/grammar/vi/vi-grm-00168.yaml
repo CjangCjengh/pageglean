@@ -1,0 +1,45 @@
+id: vi-grm-00168
+language: vi
+type: grammar
+level: L1
+level_rank: 1
+title: 量词（danh từ đơn vị）：con、chiếc、cây、cuốn
+structure: 数词 + 量词（分类词）+ 名词
+structure_pattern: Num + classifier (danh từ đơn vị) + N
+explanation_zh: 越南语名词前通常要用量词（学校语法称 danh từ đơn vị），按事物类别选择：con 用于动物（con ong 蜜蜂）、chiếc
+  用于单个物件（chiếc lá 叶子）、cây 用于细长物（cây viết 笔）、cuốn 用于卷册类（cuốn tập 笔记本）。与汉语量词类似，但用法更强制，“một
+  + 量词 + 名词”中量词一般不可省略。
+examples:
+- text: Tại cây viết của em hết mực nửa chừng!
+  reading: ''
+  annot: Tại cây viết của em hết mực nửa chừng!
+  translation_zh: 因为我的笔写到一半就没墨水了！
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+- text: 'Lòng em như chiếc lá khoai
+
+    Đổ bao nhiêu nước ra ngoài bấy nhiêu!'
+  reading: ''
+  annot: 'Lòng em như chiếc lá khoai
+
+    Đổ bao nhiêu nước ra ngoài bấy nhiêu!'
+  translation_zh: 我的心像芋头叶，倒上多少水就流掉多少！
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 量词
+- 名词短语
+- 语序
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 5
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

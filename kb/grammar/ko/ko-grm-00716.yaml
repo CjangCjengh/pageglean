@@ -1,0 +1,39 @@
+id: ko-grm-00716
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: 「-(느)ㄴ다는 것：间接引语的名词化」
+structure: 用言词干 + 引用连接词尾 -다고 하- + 冠形形转成词尾 -(으)ㄴ + 依存名词 것
+structure_pattern: V/A + -(느)ㄴ다는 + 것
+explanation_zh: 学校文法把 -는/ㄴ다는 分析为间接引用「-다고 하-」后接冠形形转成词尾 -ㄴ，再由依存名词 것 使命词化，从而在句中充当主宾语。转述内容必须先经过这一套屈折，不同于汉语直接说「……的／……这件事」。注意时态配合：-는(现在)、-ㄴ(过去)、-(으)ㄹ(将来·推测)。
+examples:
+- text: 아스테리아가 돌아왔다는 전갈을 받은 직후
+  reading: ''
+  annot: 아스테리아가 돌아왔다는 전갈을 받은 직후
+  translation_zh: 刚收到阿斯忒里亚回来了的消息之后
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+- text: 이만큼 화가 나 있다는 걸 전하기 위한, 그녀 나름의 심술이었다.
+  reading: ''
+  annot: 이만큼 화가 나 있다는 걸 전하기 위한, 그녀 나름의 심술이었다.
+  translation_zh: 那是她为了传达自己有多生气而耍的小性子。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 인용
+- 전성어미
+- 의존명사
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 4
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

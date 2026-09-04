@@ -1,0 +1,39 @@
+id: vi-grm-00294
+language: vi
+type: grammar
+level: L2
+level_rank: 2
+title: 「chỉ … thôi」：只、仅仅
+structure: chỉ + V/N + thôi
+structure_pattern: chỉ + V/N + thôi
+explanation_zh: 「chỉ … thôi」前后呼应，表示「只……而已」，用于限定范围或数量。thôi 收束语气，相当于「罢了」，口语中可只保留 chỉ
+  或 thôi 之一。
+examples:
+- text: Nhưng chỉ một tí tẹo thôi!
+  reading: ''
+  annot: Nhưng chỉ một tí tẹo thôi!
+  translation_zh: 但只有一点点而已！
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+- text: tao chỉ nhìn từ mắt trở xuống thôi!
+  reading: ''
+  annot: tao chỉ nhìn từ mắt trở xuống thôi!
+  translation_zh: 我只从眼睛往下看！
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- limitation
+- focus
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

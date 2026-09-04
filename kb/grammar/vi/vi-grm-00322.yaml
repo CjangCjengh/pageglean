@@ -1,0 +1,32 @@
+id: vi-grm-00322
+language: vi
+type: grammar
+level: L2
+level_rank: 2
+title: không bao giờ… nữa：再也不……
+structure: kể từ + 时间, 主语 + không bao giờ + 动词 + nữa
+structure_pattern: Kể từ + N(thời gian) , S + không bao giờ + V + nữa
+explanation_zh: nữa 置于句末与否定词呼应，表示「不再……」；không bao giờ… nữa 即「再也不……」，语气决绝。句首的 kể từ
+  hôm đó（从那天起）是常见的起点时间状语，常与这类句子连用。
+examples:
+- text: Kể từ hôm đó, Lợi sứt không bao giờ dám đụng đến hai đứa tôi nữa.
+  reading: ''
+  annot: Kể từ hôm đó, Lợi sứt không bao giờ dám đụng đến hai đứa tôi nữa.
+  translation_zh: 从那天起，Lợi sứt 再也不敢来招惹我们俩了。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 否定
+- 时间
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

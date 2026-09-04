@@ -1,0 +1,31 @@
+id: ja-grm-00367
+language: ja
+type: grammar
+level: N2
+level_rank: 4
+title: わけがない・わけにもいかない：情理上的不可能
+structure: 用言終止形＋わけがない／用言終止形＋わけにもいかない
+structure_pattern: V/A 終止形 + わけがない / わけにもいかない
+explanation_zh: 形式名詞「わけ」表示道理、情理。「わけがない」是從情理上推斷不可能（不可能……）；「わけにもいかない」是礙於情理而不能做（不能……）。例2中用口語引用助詞「って」代替「と」。
+examples:
+- text: いつまでもこのままってわけにもいかない
+  reading: ''
+  annot: いつまでもこのままってわけにもいかない
+  translation_zh: 也不能一直这样下去。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 形式名詞
+- 语气
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 4
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

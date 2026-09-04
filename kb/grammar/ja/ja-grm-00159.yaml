@@ -1,0 +1,39 @@
+id: ja-grm-00159
+language: ja
+type: grammar
+level: N3
+level_rank: 3
+title: 「〜ことにする」：做出决定（叠加「〜てしまう」的语气）
+structure: V-終止形（連体形）＋ことにする／ことにしてしまう
+structure_pattern: V(終止形) + ことにする / ことにしてしまう
+explanation_zh: 形式体言「こと」加サ変動詞「する」表示主观上作出决定，即“决定……”；句末可省略「する」（如「見せる事に」）。叠加复合动词「〜てしまう」的「ことにしてしまった」则带上“（不情愿又无可奈何地）还是决定做了”的语气，试对比片段中两句的语感推移。
+examples:
+- text: だから、見る事にした。…………見る事にしてしまった。
+  reading: ''
+  annot: だから、見[み]る事[こと]にした。…………見[み]る事[こと]にしてしまった。
+  translation_zh: 所以，我决定看（她的状态）。……结果变成了我还是看了（有种做了不该做之事的语气）。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+- text: あの『日本語名』のせいで少し抵抗はあるが、言われた通りに見せる事に。
+  reading: ''
+  annot: あの『日本語名[にほんごめい]』のせいで少[すこ]し抵抗[ていこう]はあるが、言[い]われた通[とお]りに見[み]せる事[こと]に。
+  translation_zh: 虽然因为那个“日语名字”多少有些抵触，但还是决定按对方说的展示出来。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 形式名词
+- 体貌
+- 意志
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

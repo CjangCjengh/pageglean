@@ -1,0 +1,39 @@
+id: ko-grm-00151
+language: ko
+type: grammar
+level: TOPIK2
+level_rank: 2
+title: -아/어 주다：为他人做某事（补助动词）
+structure: 动词词干 + -아/어 주다
+structure_pattern: V- + -아/어 주다
+explanation_zh: 补助动词 -아/어 주다 表示主语为听话人或他人做某事，带有恩惠、受益的含义；尊敬形为 -아/어 주시다，谦让形为 -아/어 드리다。片段中说话人提出“提供情报”、请求对方“接受委托”，都用这一结构表示行为是为了对方。日常请求常用其礼貌形式
+  -아/어 주세요。
+examples:
+- text: 나는 너희에게 여러 가지 정보를 제공해 줄 수 있어.
+  reading: ''
+  annot: 나는 너희에게 여러 가지 정보를 제공해 줄 수 있어.
+  translation_zh: 我可以给你们提供各种各样的情报。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+- text: 그 대신 너희는 가끔씩 나의 ‘의뢰’를 받아들여 주면 돼.
+  reading: ''
+  annot: 그 대신 너희는 가끔씩 나의 ‘의뢰’를 받아들여 주면 돼.
+  translation_zh: 作为交换，你们只要偶尔接受我的‘委托’就行了。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 补助动词
+- 受益
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 8
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

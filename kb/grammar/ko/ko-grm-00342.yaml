@@ -1,0 +1,33 @@
+id: ko-grm-00342
+language: ko
+type: grammar
+level: TOPIK5
+level_rank: 5
+title: 보조 용언 -고 말다：终究……（既成结果）
+structure: 动词 + 연결어미 '-고' + 보조 용언 '말다'
+structure_pattern: V- + -고 말다
+explanation_zh: '''-고 말다''是보조 용언结构，表示某事终究发生或发展至不可挽回的结果。该结构常含遗憾语气，此处则强调连克劳·恩贝斯克最终也被打倒的既成事实。与''-아/어
+  버리다''意义相近，但更具书面语色彩。'
+examples:
+- text: 공작 각하는 1만의 군세를 분쇄하고, 마침내 세레나데 전하를 직접 죽이겠다고 나선 클라우 에른베스크까지 쓰러뜨리고 말았소!
+  reading: ''
+  annot: 공작 각하는 1만의 군세를 분쇄하고, 마침내 세레나데 전하를 직접 죽이겠다고 나선 클라우 에른베스크까지 쓰러뜨리고 말았소!
+  translation_zh: 公爵阁下粉碎了一万大军，连扬言要亲手杀害塞蕾纳德殿下而亲自出马的克劳·恩贝斯克也终究被打倒了！
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 补助动词
+- 完成
+- 遗憾
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

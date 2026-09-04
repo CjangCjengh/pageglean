@@ -1,0 +1,38 @@
+id: ko-grm-00472
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: 「-아/어 대다」：反复、肆意地进行
+structure: 动词词干 + 연결 어미(连接词尾)‘-아/어’ + 补助动词‘대다’
+structure_pattern: V + -아/어 대다
+explanation_zh: 补助动词‘대다’表示该动作反复、不停地肆意进行，多含负面或嫌弃的语气。文中“내뱉어 대고”与“내뱉다”（脱口而出）搭配，强调对方毫无忌惮地一个劲儿乱说。
+examples:
+- text: 자기 하고 싶은 말만 내뱉어 대고 예고도 없이 사라져 버린 여자였다.
+  reading: ''
+  annot: 자기 하고 싶은 말만 내뱉어 대고 예고도 없이 사라져 버린 여자였다.
+  translation_zh: （她）只顾把自己想说的话一股脑儿倒出来，然后就毫无预告地消失了。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+- text: 울먹거리며 내 몸을 마구 흔들어 대기 시작했…….
+  reading: ''
+  annot: 울먹거리며 내 몸을 마구 흔들어 대기 시작했…….
+  translation_zh: （她）哽咽着开始一个劲儿地乱晃我的身体……
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 补助谓词
+- 反复
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

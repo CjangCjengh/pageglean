@@ -1,0 +1,39 @@
+id: ja-grm-00394
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 〜てしまう：完成与遗憾（口语缩约〜ちゃう）
+structure: 動詞連用形＋接続助詞「て」＋補助動詞「しまう」（口语缩约为「〜ちゃう」）
+structure_pattern: 'V-連用形 + て + しまう（口語: ちゃう）'
+explanation_zh: 补助动词「しまう」表示动作完成或事态不受控地成为现实，常带遗憾、无奈的语气。口语中「てしまう」缩约为「ちゃう」（过去式为「ちゃった」）。片段中既有口语的「萌えちゃった」，也有叙述体的「うつむいてしまう」，可对照体会。
+examples:
+- text: 童貞くん萌えちゃったかな？
+  reading: ''
+  annot: 童貞[どうてい]くん萌[も]えちゃったかな？
+  translation_zh: 处男君是不是已经心动了呀？
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+- text: さらに真っ赤な顔になってうつむいてしまう。
+  reading: ''
+  annot: さらに真[ま]っ赤[か]な顔[かお]になってうつむいてしまう。
+  translation_zh: （她）脸变得更红，不由得低下了头。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 体貌
+- 语气
+- 口语
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

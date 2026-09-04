@@ -1,0 +1,31 @@
+id: ja-grm-00208
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 〜てほしい：希望对方做某事
+structure: 動詞連用形 ＋ 接続助詞「て」＋ 補助形容詞「ほしい」（＋「と思う」）
+structure_pattern: V-連用形 + て + ほしい
+explanation_zh: 補助形容詞「ほしい」接「て」後，表示说话人希望他人做某事。后接「思う」（此处为形容词连用形「ほしく」＋「思う」）可把话说得更委婉、像自我陈述。句首的「出来れば」是助動詞「ば」（仮定形＋ば）表示假设前提。
+examples:
+- text: 出来れば私も、その中に入れてほしく思う。
+  reading: ''
+  annot: 出来[でき]れば私[わたし]も、その中[なか]に入[い]れてほしく思[おも]う。
+  translation_zh: 如果可以的话，希望也能让我加入其中。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 愿望
+- 補助形容詞
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

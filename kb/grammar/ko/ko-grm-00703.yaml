@@ -1,0 +1,39 @@
+id: ko-grm-00703
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: -(으)ㄴ/는다는 것：间接引用修饰名词
+structure: 용언 어간 + -(으)ㄴ/는다는 + 체언(의존명사 '것')
+structure_pattern: V/A- + -(으)ㄴ다는/는다는 + 의존명사 것
+explanation_zh: 인용 표현 '-(느)다고 하다'가 관형사형으로 바뀐 '-(으)ㄴ다는/는다는'이 의존명사 '것'이나 명사를 수식해 '~라고
+  하는 것(말)'을 나타낸다. 규칙·발언 등을 간접 인용으로 중첩 전달할 때 쓰인다. 중국어로는 '~라는 (것/말)'로 옮길 수 있다.
+examples:
+- text: 아무래도 키이리에게 의식 없는 사람을 무조건 흔들고 보면 안 된다는 걸 교육시켜야 할 것 같다.
+  reading: ''
+  annot: 아무래도 키이리에게 의식 없는 사람을 무조건 흔들고 보면 안 된다는 걸 교육시켜야 할 것 같다.
+  translation_zh: 看来必须得教路基莉明白：不能见到失去意识的人就不管不顾先摇一摇再说。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+- text: 괜찮다는 단어 하나로 무마시키기에 키이리가 느끼는 절망감은 상상도 못할 만큼 깊을 것이다.
+  reading: ''
+  annot: 괜찮다는 단어 하나로 무마시키기에 키이리가 느끼는 절망감은 상상도 못할 만큼 깊을 것이다.
+  translation_zh: 基莉所感受到的绝望深得无法想象，绝不是用一句"没关系"就能敷衍过去的。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 인용
+- 관형화
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 4
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

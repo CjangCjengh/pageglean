@@ -1,0 +1,38 @@
+id: ja-grm-00397
+language: ja
+type: grammar
+level: N3
+level_rank: 3
+title: 〜せいで：归咎性的原因
+structure: 用言連体形（体言＋の）＋形式名詞「せい」（＋で）
+structure_pattern: 用言連体形 + せいで
+explanation_zh: 形式名词「せい」表示造成消极结果的原因，带有归咎语气，相当于“都怪……／因为……（才……）”。接续方式与名词化相同：用言连体形直接接「せい」，体言则先加「の」。片段两次使用，分别说明“认不出”和“衣扣松散”的原因。
+examples:
+- text: 髪型が違うし、顔も半分隠れているせいでわかりにくかったが、確かによく見ればこの子だ。
+  reading: ''
+  annot: 髪型[かみがた]が違[ちが]うし、顔[かお]も半分[はんぶん]隠[かく]れているせいでわかりにくかったが、確[たし]かによく見[み]ればこの子[こ]だ。
+  translation_zh: 发型不一样，脸也遮了一半，所以不太好认，但仔细一看确实就是这孩子。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+- text: しかもボタンをいくつかはずしているせいで、ゆるゆるになったパジャマからは白く豊かな胸元がきわどくも姿を見せており
+  reading: ''
+  annot: しかもボタンをいくつかはずしているせいで、ゆるゆるになったパジャマからは白[しろ]く豊[ゆた]かな胸元[むなもと]がきわどくも姿[すがた]を見[み]せており
+  translation_zh: 而且因为解开了几颗纽扣，松垮垮的睡衣下白皙丰满的胸口若隐若现，相当出格——
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 形式名词
+- 原因
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

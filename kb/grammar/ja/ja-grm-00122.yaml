@@ -1,0 +1,32 @@
+id: ja-grm-00122
+language: ja
+type: grammar
+level: N3
+level_rank: 3
+title: 「〜事で〜事ができる」：手段与可能
+structure: 动词终止形 + 事で（手段）…+ 事ができる（可能）
+structure_pattern: V終止形 + 事で + … + 事ができる
+explanation_zh: 「こと」是形式名词，使动词终止形体言化；「事で」中的格助词「で」表示手段、方法，意为“通过……”。「事が出来る」是形式名词「こと」加「出来る」构成的可能表达，相当于“能够……”。本片段系统说明文里反复用此结构讲解操作方式。
+examples:
+- text: そのアビリティの効果は、その項目に意識を集中する事で見る事が出来る。
+  reading: ''
+  annot: そのアビリティの効果は、その項目に意識を集中する事で見る事が出来る。
+  translation_zh: 那个能力的效果，只要将意识集中到对应项目上就能看到。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 形式名詞
+- 手段
+- 可能
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

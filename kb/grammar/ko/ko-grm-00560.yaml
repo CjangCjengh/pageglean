@@ -1,0 +1,38 @@
+id: ko-grm-00560
+language: ko
+type: grammar
+level: TOPIK2
+level_rank: 2
+title: -(으)니까：表示原因或根据
+structure: 용언 어간 + -(으)니까
+structure_pattern: 용언 + -(으)니까 (연결어미)
+explanation_zh: 连接词尾 -(으)니까 表示原因或根据，后句常接命令、建议或推测，语气比 -기 때문에 更口语化。本段人物解释理由时多次使用。
+examples:
+- text: 마술은 트릭을 사용하니까요.
+  reading: ''
+  annot: 마술은 트릭을 사용하니까요.
+  translation_zh: 因为魔术用的是障眼法。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+- text: 지긋지긋하니까 마술 레퍼토리 좀 바꿨으면.
+  reading: ''
+  annot: 지긋지긋하니까 마술 레퍼토리 좀 바꿨으면.
+  translation_zh: 因为实在看腻了，真希望他能换换魔术节目。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 连接词尾
+- 原因
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 4
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

@@ -1,0 +1,32 @@
+id: vi-grm-00225
+language: vi
+type: grammar
+level: L3
+level_rank: 3
+title: không... mà lại...：与预期相反的转折
+structure: không + V1 + mà lại + V2
+structure_pattern: không + V1 + mà lại + V2
+explanation_zh: 转折连词 mà 连接前后两个分句，表示预期的 V1 没有发生，反而发生了出乎意料的 V2，相当于汉语「没有……反而……」。片段中「nó
+  không quay mặt đi mà lại nhe răng cười」即她没有扭过脸去，反而咧嘴笑了。
+examples:
+- text: Lần này nó không quay mặt đi mà lại nhe răng cười.
+  reading: ''
+  annot: Lần này nó không quay mặt đi mà lại nhe răng cười.
+  translation_zh: 这次她没有把脸转开，反而咧开嘴笑了。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 接续
+- 句式
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

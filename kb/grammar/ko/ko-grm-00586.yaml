@@ -1,0 +1,39 @@
+id: ko-grm-00586
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: 「-(으)ㄹ까」：自问与揣测
+structure: 用言词干 + -(으)ㄹ까（종결어미/终结词尾，表推测、疑问）
+structure_pattern: V/A-(으)ㄹ까 / V/A-ㄴ/는 걸까
+explanation_zh: -(으)ㄹ까是表推测、疑问的终结词尾，常用于对不确定事实的自问自答。“-ㄴ/는 걸까”是“것일까”的缩略，多用于内心独白。片段中主人公以此反复揣测요나的身份与意图。
+examples:
+- text: 요나 마리온은 정말 악마일까.
+  reading: ''
+  annot: 요나 마리온은 정말 악마일까.
+  translation_zh: 尤娜·马里翁真的是恶魔吗？
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+- text: 그래서 동전을 뽑은 키이리를 노리고 있는 걸까.
+  reading: ''
+  annot: 그래서 동전을 뽑은 키이리를 노리고 있는 걸까.
+  translation_zh: 所以她正盯着抽出硬币的凯丽吗？
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 终结词尾
+- 推测
+- 疑问
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

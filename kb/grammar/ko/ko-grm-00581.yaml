@@ -1,0 +1,39 @@
+id: ko-grm-00581
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: -ㄹ지도 모르다：说不定……
+structure: 用言词干 + -(으)ㄹ지도 모르다
+structure_pattern: V-(으)ㄹ（관형형 전성어미）+ 의존명사 '지' + 보조조사 '도' + '모르다'
+explanation_zh: '''-ㄹ지도 모르다'' 表示对某种可能性的推测，意为『说不定……/也许……』，语气较为迟疑。本段结尾连用两句，刻画主角不安地设想自己或许误会了什么、或许还有不知道的事实，烘托悬念。'
+examples:
+- text: 내가 뭔가 착각하고 있는 것일지도 모른다.
+  reading: ''
+  annot: 내가 뭔가 착각하고 있는 것일지도 모른다.
+  translation_zh: 也许是我误会了什么。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+- text: 내가 미처 모르고 있는 사실이 있을지도 모른다.
+  reading: ''
+  annot: 내가 미처 모르고 있는 사실이 있을지도 모른다.
+  translation_zh: 也许还有什么我尚未知道的事实。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 推测
+- 可能性
+- 依存名词
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

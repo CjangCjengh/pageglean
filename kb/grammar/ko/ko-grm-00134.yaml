@@ -1,0 +1,40 @@
+id: ko-grm-00134
+language: ko
+type: grammar
+level: TOPIK2
+level_rank: 2
+title: 「-(으)ㄴ 지」：时间的经过
+structure: 动词词干 + -(으)ㄴ 지 + 时间词 + 지나다/되다
+structure_pattern: V-(으)ㄴ 지 + 시간 표현
+explanation_zh: 依存名词 지 与冠词形转成词尾 -(으)ㄴ 结合，表示前一动作或状态实现后经过的时间，常与 지나다/되다 等搭配。相当于中文"……已经（有）多久了"。注意区别于表示能力或方法的
+  -ㄹ 줄 알다 中的 줄。
+examples:
+- text: 연회장에 들어온 지 1분도 지나지 않았는데 클라우는 모든 게 귀찮아진 모양이었다.
+  reading: ''
+  annot: 연회장에 들어온 지 1분도 지나지 않았는데 클라우는 모든 게 귀찮아진 모양이었다.
+  translation_zh: 进入宴会厅还不到一分钟，克劳似乎就已经对一切都感到厌烦了。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+- text: 황제가 죽은 지 10년이 지났어.
+  reading: ''
+  annot: 황제가 죽은 지 10년이 지났어.
+  translation_zh: 皇帝驾崩已经十年了。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 依存名词
+- 时间
+- 接续
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

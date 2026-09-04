@@ -1,0 +1,38 @@
+id: vi-grm-00136
+language: vi
+type: grammar
+level: L3
+level_rank: 3
+title: mới + V：条件满足后「才……」
+structure: 条件/时间分句 + mới + V
+structure_pattern: (clause) + mới + V
+explanation_zh: 「mới」表示事情发生得晚，或须满足某条件之后才发生，相当于中文「才……」。常与时间短语、数量短语或条件分句呼应，强调等待之久或结果来之不易。
+examples:
+- text: Đợi cho nó năn nỉ cả chục lần, tôi mới chịu chơi tiếp.
+  reading: ''
+  annot: Đợi cho nó năn nỉ cả chục lần, tôi mới chịu chơi tiếp.
+  translation_zh: 等她求了足有十来次，我才肯继续玩。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+- text: Tôi gọi hai, ba tiếng mới thấy nó ló mặt ra khỏi cửa.
+  reading: ''
+  annot: Tôi gọi hai, ba tiếng mới thấy nó ló mặt ra khỏi cửa.
+  translation_zh: 我喊了两三声，才见她从门里探出脸来。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 时态虚词
+- 语气
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

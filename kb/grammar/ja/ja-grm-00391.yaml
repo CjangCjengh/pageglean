@@ -1,0 +1,39 @@
+id: ja-grm-00391
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 「〜って」：口语引用（格助词「と」的口语形）
+structure: 引用内容 ＋ って（＝格助词「と」）
+structure_pattern: 引用節 + って (= と)
+explanation_zh: 「って」是引用格助词「と」的口语形式，用于引述话语或提示提及的话题（口语属性）。文中「昨日って言った」即“说了‘昨天’”；「①番とか②番ってのが」＝“所谓一号二号这东西”（というものが的口语形）。轻小说对白中几乎一律以「って」替代「と」。
+examples:
+- text: それよりも今、昨日って言ったよな。
+  reading: ''
+  annot: それよりも今[いま]、昨日[きのう]って言[い]ったよな。
+  translation_zh: 比起这个，你刚才是说了“昨天”对吧。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+- text: ①番とか②番ってのがなんなのかよくわからんが。
+  reading: ''
+  annot: ①番[ばん]とか②番[ばん]ってのがなんなのかよくわからんが。
+  translation_zh: 虽然完全搞不懂一号二号什么的到底是什么。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 助词
+- 口语
+- 引用
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

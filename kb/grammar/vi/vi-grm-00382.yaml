@@ -1,0 +1,32 @@
+id: vi-grm-00382
+language: vi
+type: grammar
+level: L3
+level_rank: 3
+title: 「không hề…」：一点也不……
+structure: 否定副词 không hề + 谓语（动词短语）
+structure_pattern: phó từ phủ định 'không hề' + vị ngữ (cụm động từ)
+explanation_zh: 「hề」与「không」连用加强否定，表示动作完全没有发生，语气比单用「không」强烈，相当于「一点也不／根本没有」。后接动词短语，句中常与并列动词（liếc
+  ngang liếc dọc）搭配。
+examples:
+- text: tôi nhìn chăm chăm lên bảng, không hề liếc ngang liếc dọc
+  reading: ''
+  annot: tôi nhìn chăm chăm lên bảng, không hề liếc ngang liếc dọc
+  translation_zh: 我专心地盯着黑板看，丝毫没有东张西望。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 否定
+- 副词
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

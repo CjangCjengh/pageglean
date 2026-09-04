@@ -1,0 +1,31 @@
+id: ja-grm-00113
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 「〜と」：一……就……（发现条件）
+structure: 动词终止形 ＋ と ＋ 发现／结果
+structure_pattern: V-終止形 + 接続助詞「と」（条件・発見）
+explanation_zh: 接续助词「と」接动词终止形，表示前项一成立，后项随即出现，可译为'一……就……'。小说叙述尤其爱用「动作＋と＋意外发现」的句式展开情节。片段里数次「開けると」「振り返ると」都引出了意想不到的景象。
+examples:
+- text: そんな事を考えながらクローゼットを開けると――探すまでもなく真正面に、俺の腰上までもある大きさの、ダルマに似た人形が。
+  reading: ''
+  annot: そんな事[こと]を考えながらクローゼットを開[あ]けると――探[さが]すまでもなく真正面[ましょうめん]に、俺[おれ]の腰上[こしうえ]までもある大[おお]きさの、ダルマに似[に]た人形[にんぎょう]が。
+  translation_zh: 我一边想着这些事一边打开壁橱——不用找，正中间就有一个高过我腰、酷似达摩的人偶。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 接续
+- 条件
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 4
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

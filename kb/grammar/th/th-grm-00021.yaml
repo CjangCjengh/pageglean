@@ -1,0 +1,38 @@
+id: th-grm-00021
+language: th
+type: grammar
+level: L2
+level_rank: 2
+title: เอง：强调「……自己／正是……」（คำวิเศษณ์）
+structure: นาม/สรรพนาม（名词/代词）+ เอง（คำวิเศษณ์，强调副词）
+structure_pattern: นาม/สรรพนาม + เอง
+explanation_zh: เอง是คำวิเศษณ์（副词），接在名词或代词后强调“……自己”，如ญานันเอง（雅楠自己也）、ผมเอง（我自己）。也可接在介词短语后强调原因或事实本身，如ด้วยเหตุนั้นเอง（正是因为那个原因）。本段反复出现，是泰语高频的强调手段。
+examples:
+- text: ญานัน​เองก็​เช่นกัน
+  reading: ''
+  annot: ญานัน​เองก็​เช่นกัน
+  translation_zh: 雅楠自己也是这样。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+- text: ผม​เองก็​เข้าใจ​สิ่ง​ที่​เธอ​บอก​นะ
+  reading: ''
+  annot: ผม​เองก็​เข้าใจ​สิ่ง​ที่​เธอ​บอก​นะ
+  translation_zh: 我自己也是理解她说的话的。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 强调
+- 副词
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 4
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

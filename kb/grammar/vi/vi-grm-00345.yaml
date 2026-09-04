@@ -1,0 +1,33 @@
+id: vi-grm-00345
+language: vi
+type: grammar
+level: L3
+level_rank: 3
+title: 「Ngay cả khi…, … vẫn…」：即使……仍然……
+structure: Ngay cả khi + 分句, S + vẫn + V
+structure_pattern: Ngay cả khi + clause, S + vẫn + V
+explanation_zh: 「Ngay cả khi」引出让步条件，相当于“即使/即便”；主句以「vẫn」（仍然）呼应，表示情况不因条件而改变。是让步复句的典型搭配。
+examples:
+- text: Ngay cả khi biết chắc mối nguy cơ đã trôi qua, tôi vẫn không dám nhỏm người
+    dậy.
+  reading: ''
+  annot: Ngay cả khi biết chắc mối nguy cơ đã trôi qua, tôi vẫn không dám nhỏm người
+    dậy.
+  translation_zh: 即使确信危险已经过去，我仍然不敢起身。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 复句
+- 让步
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

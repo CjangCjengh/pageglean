@@ -1,0 +1,31 @@
+id: ja-grm-00603
+language: ja
+type: grammar
+level: N3
+level_rank: 3
+title: 〜っぽい：像……、带有……的气质
+structure: 名詞＋っぽい
+structure_pattern: N + っぽい（接尾語）
+explanation_zh: 接尾语，接在名词等之后，表示“像……”“带有……的气质”，比「らしい」「みたい」更口语、更具主观色彩。片段中「遺書っぽい」即“像遗书”。另有带轻微贬义的用法，如「子供っぽい」（孩子气），也属同一接尾语。
+examples:
+- text: でもこれ、確かに遺書っぽいね。
+  reading: ''
+  annot: でもこれ、確[たし]かに遺書[いしょ]っぽいね。
+  translation_zh: 不过这确实挺像遗书的呢。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 接尾語
+- 口語
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

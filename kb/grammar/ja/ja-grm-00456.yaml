@@ -1,0 +1,39 @@
+id: ja-grm-00456
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 〜んだ（のだ）：解释与强调的语气
+structure: 用言連体形＋んだ／体言＋なんだ
+structure_pattern: 用言-連体形 + のだ(んだ) / 体言 + なのだ(なんだ)
+explanation_zh: 「のだ」由形式名词「の」＋断定の助動詞「だ」构成，口语中「の」说成「ん」，用于解释原因、说明情况或加强语气。文中「ちがうんだ」「そんなんじゃないんだ」（「そんなん」＝「そんなの」）反复出现，表现主角慌乱的自我否认。「なに考えてんだ」则是「なにを考えているのだ」省略「いる」的更随意的口语形式。
+examples:
+- text: ちがう、ちがうんだ！そんなんじゃないんだ！
+  reading: ''
+  annot: ちがう、ちがうんだ！そんなんじゃないんだ！
+  translation_zh: 不对，不是那样的！才不是那回事！
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+- text: なに考えてんだ俺ッ!?
+  reading: ''
+  annot: なに考[かんが]えてんだ俺[おれ]ッ!?
+  translation_zh: 我到底在想些什么啊!?
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 语气
+- 形式名词
+- 口语
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 5
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

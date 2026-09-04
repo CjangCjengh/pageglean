@@ -1,0 +1,38 @@
+id: th-grm-00110
+language: th
+type: grammar
+level: L2
+level_rank: 2
+title: 「แล้ว：事态变化与感叹」
+structure: คำกริยา/คุณศัพท์ + แล้ว（บอกความเปลี่ยนแปลงของเหตุการณ์）
+structure_pattern: V/Adj + แล้ว
+explanation_zh: แล้ว 置于句末或小句末，表示情况发生变化或出现新事态，相当于汉语的“了”。ไม่ได้การแล้ว 是口语固定感叹，意为“糟了、这下不妙了”。本段中แล้วย多次出现，还可起承上启下的连接作用（แล้วนี่ผมจะ…）。
+examples:
+- text: ไม่ใช่​แล้ว​เฮ้ย!
+  reading: ''
+  annot: ไม่ใช่​แล้ว​เฮ้ย!
+  translation_zh: 不对了啊，喂！
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+- text: ไม่ได้​การ​แล้ว
+  reading: ''
+  annot: ไม่ได้​การ​แล้ว
+  translation_zh: 糟了，这可不行。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 体貌
+- 变化/语气
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 5
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

@@ -1,0 +1,31 @@
+id: th-grm-00091
+language: th
+type: grammar
+level: L2
+level_rank: 2
+title: ทั้ง…และ…：既……又……
+structure: ทั้ง + A + และ + B（คำสันธานเชื่อมความเพิ่ม）
+structure_pattern: ทั้ง + คำ + และ + คำ
+explanation_zh: 「ทั้ง…และ…」是并列连词（คำสันธาน），相当于“……和……（都）”“既……又……”。片段中指食材同时从储物柜和冰箱里拿出来。所连接的成分可以是名词、动词或形容词。
+examples:
+- text: ออกมา​จาก​ทั้ง​ตู้​เก็บ​ของ​และ​ตู้เย็น
+  reading: ''
+  annot: ออกมา​จาก​ทั้ง​ตู้​เก็บ​ของ​และ​ตู้เย็น
+  translation_zh: 从储物柜和冰箱里（都）拿了出来
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 接续
+- 并列连词
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

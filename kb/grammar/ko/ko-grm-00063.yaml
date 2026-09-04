@@ -1,0 +1,32 @@
+id: ko-grm-00063
+language: ko
+type: grammar
+level: TOPIK5
+level_rank: 5
+title: -는 것은 물론이고：别说……就连……
+structure: 동사·형용사 + -는 것은 물론이고
+structure_pattern: V/A + -는(관형사형 전성어미) + 것(의존명사) + 은 + 물론이고
+explanation_zh: -는 것은 물론이고 表示前项自不待言，后项程度更甚，相当于中文的"别说……就连……"。字面为"~这件事不用说（勿论），而且……"，后句常与
+  도 呼应。片段中强调魔石产量不足时，不仅产业崩溃，连军队也无法维持。
+examples:
+- text: 마석의 생산량이 부족하면 각종 산업이 붕괴하는 것은 물론이고 영지를 지키기 위한 군대도 유지할 수 없게 되기 때문에
+  reading: ''
+  annot: 마석의 생산량이 부족하면 각종 산업이 붕괴하는 것은 물론이고 영지를 지키기 위한 군대도 유지할 수 없게 되기 때문에
+  translation_zh: 如果魔石产量不足，别说各种产业会崩溃，就连保卫领地所需的军队也无法维持，因此……
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 递进
+- 强调
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

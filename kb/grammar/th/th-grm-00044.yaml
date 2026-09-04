@@ -1,0 +1,31 @@
+id: th-grm-00044
+language: th
+type: grammar
+level: L2
+level_rank: 2
+title: ที่关系从句：修饰语后置
+structure: 名词 + ที่ + 关系从句（ประพันธสรรพนาม นำ คุณานุประโยค）
+structure_pattern: N + ที่ + S-V
+explanation_zh: ที่是泰语的关系代词（ประพันธสรรพนาม），引导关系从句（คุณานุประโยค）修饰前面的名词。与中文最大的差异在语序：泰语修饰成分位于名词之后，「ผมที่ได้ฟัง」即「听到这话的我」。片段中「แฟนเก่าที่กำลังจะตาย」「เรื่องพูด」均属此结构。
+examples:
+- text: ผม​ที่​ได้​ฟัง​ดังนั้นก็​ถึงกับ​นั่ง​เอ๋อ​ไป​พักใหญ่
+  reading: ''
+  annot: ผม​ที่​ได้​ฟัง​ดังนั้นก็​ถึงกับ​นั่ง​เอ๋อ​ไป​พักใหญ่
+  translation_zh: 我一听这话，竟愣坐了好一会儿。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 复合句/关系从句
+- 语序
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 6
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

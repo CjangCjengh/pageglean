@@ -1,0 +1,32 @@
+id: ja-grm-00168
+language: ja
+type: grammar
+level: N2
+level_rank: 4
+title: 〜とはいえ：虽说……但是……（让步）
+structure: 終止形＋とはいえ（も）
+structure_pattern: V/A 終止形 + とはいえ（も）
+explanation_zh: 「〜とはいっても」的文言化简略形式，表示承认前项事实，但后项与之预期相反或有所不同，意为「虽说……却也……」。书面色彩较浓，口语中多说「〜といっても」。文中指虽说是遭了突袭，但自己仍不免吃惊。
+examples:
+- text: 私も近接戦には自信があったので、不意を突かれたとはいえ驚きました。
+  reading: ''
+  annot: 私[わたし]も近接戦[きんせつせん]には自信[じしん]があったので、不意[ふい]を突[つ]かれたとはいえ驚[おどろ]きました。
+  translation_zh: 我对近身战本来也颇有自信，虽说是不防被钻了空子，也确实吃了一惊。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 让步
+- 书面语
+- 接续
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

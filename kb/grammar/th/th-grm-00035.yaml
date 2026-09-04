@@ -1,0 +1,38 @@
+id: th-grm-00035
+language: th
+type: grammar
+level: L2
+level_rank: 2
+title: ช่วย…หน่อย/สิ/นะ：请求与祈使语气
+structure: ช่วย + 动词 + หน่อย / สิ / นะ（句末助词软化语气）
+structure_pattern: ช่วย + คำกริยา + หน่อย/สิ/นะ (คำลงท้าย)
+explanation_zh: 「ช่วย + 动词」表示请求对方帮忙做某事。句尾加「หน่อย」软化语气（……一下），加「สิ」带有恳请、催促意味，加「นะ」使语气亲切委婉。这些都是泰语祈使句常见的句末助词（คำลงท้าย）。
+examples:
+- text: ช่วย​มา​เจอ​ฉัน​หน่อย​สิ
+  reading: ''
+  annot: ช่วย​มา​เจอ​ฉัน​หน่อย​สิ
+  translation_zh: 请来见我一面吧。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+- text: ติดต่อ​มา​ที่​เบอร์ XXX-XXX-XXXX นะ
+  reading: ''
+  annot: ติดต่อ​มา​ที่​เบอร์ XXX-XXX-XXXX นะ
+  translation_zh: 请打这个号码联系我哦。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 祈使/请求
+- 句末助词
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 4
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

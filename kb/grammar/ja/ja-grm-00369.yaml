@@ -1,0 +1,38 @@
+id: ja-grm-00369
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 〜てくる／〜ていく：移动与变化的趋向
+structure: 動詞連用形＋て＋くる／いく（補助動詞）
+structure_pattern: V-連用形 + て + くる / いく
+explanation_zh: 補助動詞「くる／いく」接動詞連用形，除表示實際移動方向外，還表示事態變化：「〜てくる」表變化向說話點靠近或顯現，「〜ていく」表逐漸远去。「出てくる」指靈魂現身於外，「なってきた」指情緒漸漸產生。
+examples:
+- text: それが交互に表へ出てくる
+  reading: ''
+  annot: それが交互[こうご]に表[おもて]へ出[で]てくる
+  translation_zh: 那两个灵魂交替着出现在表面（掌控身体）。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+- text: 書いててすごく悲しくなってきた
+  reading: ''
+  annot: 書[か]いててすごく悲[かな]しくなってきた
+  translation_zh: 写着写着，不由得越来越难过起来。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 補助動詞
+- 体貌
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

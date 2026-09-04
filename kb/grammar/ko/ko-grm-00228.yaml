@@ -1,0 +1,39 @@
+id: ko-grm-00228
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: -다고 합니다：听说……（间接引用与传闻）
+structure: 用言语干 + 间接引用连接词尾 '-다고' + 传闻动词 '하다'（格式体 '-다고 합니다'）
+structure_pattern: V/A-다고 하다 / -다고 합니다
+explanation_zh: '''-다고''是间接引用连接词尾，后接''하다''构成传闻表达''-다고 하다''，用于转述他人所言，即“听说……”。片段中루시转述主人提供的情报时连续使用''-다고
+  합니다''（格式体），凸显信息来源的权威性。中文母语者需注意间接引用按陈述/疑问/命令等句式变换词尾，此处为陈述形。'
+examples:
+- text: 어린 시절에 마법적 처치를 받아 골격을 아다만타이트로 강화했다고 합니다.
+  reading: ''
+  annot: 어린 시절에 마법적 처치를 받아 골격을 아다만타이트로 강화했다고 합니다.
+  translation_zh: 据说她小时候接受了魔法处置，用阿达曼塔特强化了骨骼。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+- text: 두개골도 강화되어 있을 가능성이 높다고 합니다.
+  reading: ''
+  annot: 두개골도 강화되어 있을 가능성이 높다고 합니다.
+  translation_zh: 据说头盖骨也很可能已经被强化了。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 间接引用
+- 传闻
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

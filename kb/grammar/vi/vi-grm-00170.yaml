@@ -1,0 +1,40 @@
+id: vi-grm-00170
+language: vi
+type: grammar
+level: L2
+level_rank: 2
+title: đã 与 đang：完成体与进行体虚词
+structure: 主语 + đã（已然）/ đang（进行）+ 动词
+structure_pattern: S + đã/đang + V
+explanation_zh: 越南语动词不变形，时体意义靠动词前的虚词（phó từ）表示：đã 表示动作已经发生或完成，đang 表示正在进行。片段中“đã tuyên
+  bố”（已经宣布）与“đang mượn”（正借着）对照使用。语境清楚时 đã/đang 可以省略。
+examples:
+- text: Còn khi đã tán vô, nó không ngại ngần đưa tôi lên tuốt mây xanh.
+  reading: ''
+  annot: Còn khi đã tán vô, nó không ngại ngần đưa tôi lên tuốt mây xanh.
+  translation_zh: 可一旦跟着起哄，它就毫不迟疑把我捧到九霄云外。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+- text: tôi đã tuyên bố cho luôn nó bộ cờ bằng ngà
+  reading: ''
+  annot: tôi đã tuyên bố cho luôn nó bộ cờ bằng ngà
+  translation_zh: 我就当即宣布，干脆把那副象牙棋送给它了
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 体貌
+- 副词
+- 时态
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 4
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

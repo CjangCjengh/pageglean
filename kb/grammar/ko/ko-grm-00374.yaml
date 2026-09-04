@@ -1,0 +1,32 @@
+id: ko-grm-00374
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: -도 아니고, -도 아니다：既不是……也不是……
+structure: 体言 + 辅助助词 도 + 否定叙述词 아니다（两项并列全否定）
+structure_pattern: N + 도 아니다, N + 도 아니다
+explanation_zh: 辅助助词 도 与否定叙述词 아니다 搭配，表示“既不是……也不是……”，同时排除前后两个选项。前句以 -도 아니고 连接，后句以 -도
+  아니다 收尾。常与“전부/모두”等词呼应，强调完全否定。
+examples:
+- text: 마스터의 목표는 세계 정복도 아니고, 황제가 되는 것도 아니야.
+  reading: ''
+  annot: 마스터의 목표는 세계 정복도 아니고, 황제가 되는 것도 아니야.
+  translation_zh: 主人的目标既不是征服世界，也不是当皇帝。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 否定
+- 助词
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

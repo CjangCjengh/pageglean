@@ -1,0 +1,32 @@
+id: vi-grm-00206
+language: vi
+type: grammar
+level: L2
+level_rank: 2
+title: dù … vẫn …：即使……还是……
+structure: dù + 让步小句, (S) + vẫn + V
+structure_pattern: dù + clause, S + vẫn + VP（cặp quan hệ từ nhượng bộ）
+explanation_zh: 让步复句结构，相当于中文「即使/虽然……仍然……」。vẫn 是副词（phó từ），强调情况不改变。越南语可省略从句主语，如「dù
+  mở mắt thao láo」省略了 tôi。
+examples:
+- text: Nhưng dù mở mắt thao láo, tôi vẫn chẳng thấy gì trên màn ảnh.
+  reading: ''
+  annot: Nhưng dù mở mắt thao láo, tôi vẫn chẳng thấy gì trên màn ảnh.
+  translation_zh: 但即使睁大眼睛，我还是什么也没看见银幕上的东西。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 让步
+- 复句
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

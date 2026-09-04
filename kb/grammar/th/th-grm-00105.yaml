@@ -1,0 +1,32 @@
+id: th-grm-00105
+language: th
+type: grammar
+level: L2
+level_rank: 2
+title: ไม่ได้…นะ：对已然事实的否定
+structure: ไม่ได้（体貌否定标记）+ คำกริยา + นะ（句末助词，申明提醒）
+structure_pattern: ไม่ได้ + V + นะ
+explanation_zh: 「ไม่ได้」否定已经发生或既存的事实，相当于「并没有／并不是」，区别于表示一般否定的「ไม่」。句末助词「นะ」加重申明、提醒的语气。此句是人物纠正对方称呼时的强烈否认。
+examples:
+- text: ดา​ไม่ได้​ชื่อ ‘เธอ’ นะ!
+  reading: ''
+  annot: ดา​ไม่ได้​ชื่อ ‘เธอ’ นะ!
+  translation_zh: 我才不叫‘เธอ’呢！
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 体貌
+- 否定
+- 句末助词
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

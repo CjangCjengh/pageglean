@@ -1,0 +1,31 @@
+id: vi-grm-00073
+language: vi
+type: grammar
+level: L2
+level_rank: 2
+title: không + V + được：没能做成某事
+structure: 副词 không + 动词 + 结果/可能补语 được（bổ ngữ）
+structure_pattern: không + V + được
+explanation_zh: được 置于动词之后作补语，表示动作得以实现或具备可能性。否定式 không V được 相当于汉语「没能／不能……」，强调结果未达成。
+examples:
+- text: Nhưng suốt ba ngày liên tiếp, tôi không bắn được con chim nào.
+  reading: ''
+  annot: Nhưng suốt ba ngày liên tiếp, tôi không bắn được con chim nào.
+  translation_zh: 可是接连三天，我一只鸟也没打到。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 补语
+- 否定
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

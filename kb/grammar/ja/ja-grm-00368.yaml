@@ -1,0 +1,31 @@
+id: ja-grm-00368
+language: ja
+type: grammar
+level: N2
+level_rank: 4
+title: 〜以上〜しかない：既然……别无选择
+structure: 動詞終止形（多用タ形）＋以上（は）……〜しか〜ない
+structure_pattern: V-た + 以上 + V終止形 + しか + ない
+explanation_zh: 「以上（は）」接動詞終止形，表示「既然前項成立，後項理所當然」，後句多為判斷、義務或決斷。「しか〜ない」是排他性限定，意為「除……之外不……」。兩者疊用表達「事已至此，別無他法」。
+examples:
+- text: 実際にこうなった以上信じるしかなくなったらしい
+  reading: ''
+  annot: 実際[じっさい]にこうなった以上[いじょう]信[しん]じるしかなくなったらしい
+  translation_zh: （她）似乎是觉得事已至此，也只能相信了。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 接续
+- 限定
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

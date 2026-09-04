@@ -1,0 +1,32 @@
+id: ja-grm-00575
+language: ja
+type: grammar
+level: N1
+level_rank: 5
+title: 〜まい：否定意志（“不打算……”）
+structure: 动词终止形 + 助动词 まい（否定意志／否定推测）
+structure_pattern: V终止形 + まい
+explanation_zh: 「まい」是表示否定意志（“不打算……”）或否定推测的助动词，接动词终止形（一段动词也可接未然形）。语感偏书面、庄重，常见于内心独白。片段中“理由については今さらあえて語るまい”即表达不愿再提的意志。
+examples:
+- text: 理由については今さらあえて語るまい。
+  reading: ''
+  annot: 理由[りゆう]については今[いま]さらあえて語[かた]るまい。
+  translation_zh: 至于理由，事到如今我也不打算特意说出口了。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 语气
+- 助动词
+- 书面
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

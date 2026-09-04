@@ -1,0 +1,39 @@
+id: ko-grm-00555
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: 「-(으)ㄴ/는 모양이다：根据情状推测」
+structure: 용언 + 관형사형 전성어미 '-(으)ㄴ/-는' + 의존명사 '모양' + 서술격 조사 '이다'
+structure_pattern: V-는 / A-(으)ㄴ + 모양이다
+explanation_zh: 依存名词 '모양' 表示样子、情形，与冠形词形转成词尾结合表示依据观察到的迹象作出推测，相当于“看来……、似乎……”。与主观判断的
+  '-ㄴ/는 것 같다' 相比，更强调外部依据。敬语中加 주체 높임 선어말어미 '-(으)시-' 成 '-(으)신 모양이다'。
+examples:
+- text: 이런 축제를 즐기기에 금전적으로 많이 힘드신 모양이에요.
+  reading: ''
+  annot: 이런 축제를 즐기기에 금전적으로 많이 힘드신 모양이에요.
+  translation_zh: 看来要享受这样的庆典，经济上相当吃力的样子。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+- text: 애 보는 거, 귀찮은 모양이구나…….
+  reading: ''
+  annot: 애 보는 거, 귀찮은 모양이구나…….
+  translation_zh: 照看孩子，看来你是嫌麻烦啊……
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 推测
+- 依存名词
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

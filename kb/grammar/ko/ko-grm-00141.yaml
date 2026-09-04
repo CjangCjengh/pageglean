@@ -1,0 +1,39 @@
+id: ko-grm-00141
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: -잖아(요)：提醒对方已知的事实
+structure: 用言词干 + -잖아(요)（-지 않아요 的缩略）
+structure_pattern: 어간 + 종결어미 '-잖아(요)' (← -지 않- + -아요)
+explanation_zh: '''-지 않아요''的缩略形，属终结词尾，用于提醒对方已知或理应知道的事实，常带“我早说过”的语气。口语色彩强，片段对话中出现两次。'
+examples:
+- text: 싫다고 했잖아……!
+  reading: ''
+  annot: 싫다고 했잖아……!
+  translation_zh: 我说过我不愿意的嘛……！
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+- text: 말했잖아요. 오라버니는 충분히 강하다고.
+  reading: ''
+  annot: 말했잖아요. 오라버니는 충분히 강하다고.
+  translation_zh: 我说过的吧。哥哥已经足够强了。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 终结词尾
+- 语气
+- 口语
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

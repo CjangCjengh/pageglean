@@ -1,0 +1,33 @@
+id: vi-grm-00376
+language: vi
+type: grammar
+level: L4
+level_rank: 4
+title: dù…đi nữa…thì…cũng…：让步复句“即使……也……”
+structure: dù（có）…đi nữa + thì + …cũng…
+structure_pattern: dù … đi nữa + thì … cũng …
+explanation_zh: dù…đi nữa 引导让步从句，表示“即使、无论怎样”，主句用 thì…cũng 表示结果不变；动词前加 có 强调假设。此句还故意夹杂法语词（suit＝追求，fuit＝逃避，l'amour＝爱情），仿“追爱则爱逃”的谚语自嘲。
+examples:
+- text: Thực tế phũ phàng đã cho thấy là dù tôi có suit l'amour hay fuit l'amour gì
+    gì đi nữa thì l'amour nó cũng fuit tôi.
+  reading: ''
+  annot: Thực tế phũ phàng đã cho thấy là dù tôi có suit l'amour hay fuit l'amour
+    gì gì đi nữa thì l'amour nó cũng fuit tôi.
+  translation_zh: 残酷的现实已经证明：无论我是追求爱情还是逃避爱情，爱情都照样逃离我。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 让步
+- 复句
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

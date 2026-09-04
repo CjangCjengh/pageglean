@@ -1,0 +1,39 @@
+id: vi-grm-00251
+language: vi
+type: grammar
+level: L3
+level_rank: 3
+title: 一点也没有：全然否定「chẳng … gì hết / mảy may」
+structure: chẳng (+ hề) + V + gì hết / mảy may
+structure_pattern: chẳng (+ hề) + V + gì hết
+explanation_zh: chẳng 是否定副词，与 không 同义但语气更重、更书面；加 hề 构成「chẳng hề」（丝毫不、从未）。句尾用 gì hết
+  或 mảy may（丝毫）进一步加强否定，意为「完全没有／压根儿没」。相当于汉语「一点……都没有」。
+examples:
+- text: Từ bữa đó đến nay, Việt An chẳng hề nhúc nhích mảy may.
+  reading: ''
+  annot: Từ bữa đó đến nay, Việt An chẳng hề nhúc nhích mảy may.
+  translation_zh: 从那天到现在，越安连一点动静都没有。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+- text: Sao chẳng thấy Việt An động tịnh gì hết vậy mày?
+  reading: ''
+  annot: Sao chẳng thấy Việt An động tịnh gì hết vậy mày?
+  translation_zh: 怎么越安一点动静都没有啊？
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 否定
+- 语气
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

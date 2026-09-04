@@ -1,0 +1,31 @@
+id: ko-grm-00454
+language: ko
+type: grammar
+level: TOPIK6
+level_rank: 6
+title: -(으)ㄹ 법도 하다：按理也该……
+structure: 动词词干 + -(으)ㄹ 법도 하다
+structure_pattern: 관형사형 -(으)ㄹ + 의존명사 법 + 도 + 하다
+explanation_zh: 依存名词 법 表示“情理、道理”，-ㄹ 법하다 意为“合乎情理、大有可能”，加辅助词 도 后再以 -ㄴ데 收尾，表达“按理说也该……（可惜并没有）”。是书面与叙事中带有惋惜、揣测色彩的高阶表达。
+examples:
+- text: 철없는 어린 주인을 위하여 한 번쯤은 웃어 줄 법도 한데, 요나의 표정은 시종일관 무심했다.
+  reading: ''
+  annot: 철없는 어린 주인을 위하여 한 번쯤은 웃어 줄 법도 한데, 요나의 표정은 시종일관 무심했다.
+  translation_zh: 看在不懂事的小主人份上，哪怕笑一次也算合情合理，可约娜的表情自始至终都无动于衷。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 依存名词
+- 情理/推测
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

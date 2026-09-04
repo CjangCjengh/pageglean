@@ -1,0 +1,39 @@
+id: ko-grm-00320
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: -(으)로서：身份与资格
+structure: 체언 + 부사격 조사 '-(으)로서'
+structure_pattern: N-(으)로서
+explanation_zh: -(으)로서 是副词格助词，表示身份、资格或地位，相当于中文“作为……”，体言有收音接 -으로서、无收音接 -로。注意与表示手段、工具的
+  -(으)로써 区分。片段中 “무인으로서의 긍지” 用作定语，即“作为武人的尊严”。
+examples:
+- text: 무인으로서의 긍지보다 더 중요한 것이 아즐란에 대한 충성이었다.
+  reading: ''
+  annot: 무인으로서의 긍지보다 더 중요한 것이 아즐란에 대한 충성이었다.
+  translation_zh: 比身为武人的尊严更重要的，是对阿兹兰的忠诚。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+- text: 원래 아즐란은 희귀한 종족을 노예로 매매하는 조직의 협력자로서, 화이트 엘프의 마을을 습격하는 입장이었어.
+  reading: ''
+  annot: 원래 아즐란은 희귀한 종족을 노예로 매매하는 조직의 협력자로서, 화이트 엘프의 마을을 습격하는 입장이었어.
+  translation_zh: 阿兹兰原本是一个贩卖稀有种族为奴的组织的合作者，站在袭击白精灵村庄的一方。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 助词
+- 资格
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 5
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

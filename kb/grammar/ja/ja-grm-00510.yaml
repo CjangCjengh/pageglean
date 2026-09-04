@@ -1,0 +1,38 @@
+id: ja-grm-00510
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 〜てあげる・〜てくれる・〜てもらう：授受动词的恩惠方向
+structure: 动词连用形（て形）+ 授受动词「あげる／くれる／もらう」
+structure_pattern: V-て + あげる／くれる／もらう
+explanation_zh: 授受动词接动词连用形（て形）之后：「〜てあげる」为他人做，“〜てくれる”是他人“为我”做，「〜てもらう」是领受他人做某事。片段中「妹に教えてもらう」（从妹妹那里得到告知）与「起こしてもらえるなら」（可能形，若能被叫醒）都是典型用例。恩惠方向（谁为谁做）是理解关键。
+examples:
+- text: こうやって妹に教えてもらうまで、ひとりで思いつめていることすら知らなかった。
+  reading: ''
+  annot: こうやって妹[いもうと]に教[おし]えてもらうまで、ひとりで思[おも]いつめていることすら知[し]らなかった。
+  translation_zh: 直到被妹妹这样点醒之前，我甚至不知道她一个人在独自烦恼。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+- text: 明日、俺が起きた時に『おはよう、大好きだよ』って言ってあげてくれないか
+  reading: ''
+  annot: 明日[あした]、俺[おれ]が起[お]きた時[とき]に『おはよう、大好[だいす]きだよ』って言[い]ってあげてくれないか
+  translation_zh: 明天我醒来的时候，能不能对我说一句“早安，最喜欢你了”
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 授受动词
+- 敬语
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 6
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

@@ -1,0 +1,31 @@
+id: ja-grm-00470
+language: ja
+type: grammar
+level: N2
+level_rank: 4
+title: 〜やら〜やら：非穷尽列举
+structure: 体言（或用言终止形）＋并列助词「やら」（重复使用列举）
+structure_pattern: N + やら + N + やら (+ の + N)
+explanation_zh: 并列助词「やら」重复使用，列举同类事物中的若干例子，意为又是〜又是〜，暗示还有其他没列出来。比「や」「とか」语气更含糊随意，还可带眼花缭乱之感。文中「犬やら猫やらの写真」以「〜やら〜やら＋の」整体修饰后面的名词。
+examples:
+- text: 表示されるのは、犬やら猫やらの写真が詰まったホームページや通販サイト。
+  reading: ''
+  annot: 表示[ひょうじ]されるのは、犬[いぬ]やら猫[ねこ]やらの写真[しゃしん]が詰[つ]まったホームページや通販[つうはん]サイト。
+  translation_zh: （浏览历史里）显示出来的，是塞满了猫猫狗狗照片的网页啦、购物网站啦之类的。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 助词
+- 并列
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

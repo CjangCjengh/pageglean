@@ -1,0 +1,31 @@
+id: ko-grm-00443
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: 「-거든요」：说明理由
+structure: 용언 어간 + 종결어미 '-거든요'
+structure_pattern: V/A-거든요
+explanation_zh: 终结词尾'-거든요'用于向听者陈述其尚不知晓的事实或理由，带有解释说明的语气，相当于“（是因为）……”。它与提问理由的'-나요'不同，只能用于陈述而不能用于提问。片段中主人公借它说明为何要搜身。
+examples:
+- text: 조금 전에 그 남자가 우리 지갑을 훔쳐 가지고 달아났거든요.
+  reading: ''
+  annot: 조금 전에 그 남자가 우리 지갑을 훔쳐 가지고 달아났거든요.
+  translation_zh: （是因为）刚才那个男人偷了我们的钱包逃跑了。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 终结词尾
+- 理由
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

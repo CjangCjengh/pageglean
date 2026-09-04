@@ -1,0 +1,33 @@
+id: ko-grm-00076
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: -(으)ㄴ/는 모양이다：根据迹象的推测
+structure: '관형사형 전성어미 ''-(으)ㄴ/는'' + 의존명사 ''모양'' + ''이다''（과거: -았/었던 모양이다）'
+structure_pattern: V/A + -(으)ㄴ/는 + 모양이다
+explanation_zh: 根据外部迹象作出推测，相当于「看来……、似乎……」。学校文法分析为冠形词形转换词尾＋依存名词'모양'＋'이다'；已发生的事情用'-았/었던
+  모양이다'。常与'아무래도'呼应，比'-ㄴ 것 같다'更强调外在依据。
+examples:
+- text: 아무래도 레이나 르 아레이티아가 어젯밤 주인님의 암살을 시도했던 모양입니다.
+  reading: ''
+  annot: 아무래도 레이나 르 아레이티아가 어젯밤 주인님의 암살을 시도했던 모양입니다.
+  translation_zh: 看来蕾娜·勒·阿雷提亚昨晚是试图暗杀主人了。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 推测
+- 依存名词
+- 终结表现
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

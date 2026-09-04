@@ -1,0 +1,31 @@
+id: ko-grm-00349
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: 「-(으)ㄹ 리 없다：绝无可能」
+structure: 动词/形容词 + -(으)ㄹ 리 없다（依存名词 리 + 없-）
+structure_pattern: A/V-(으)ㄹ 리 없다
+explanation_zh: 依存名词'리'表示'道理、情理'，与'없다'搭配构成'-(으)ㄹ 리 없다'，断言某种情况绝不可能发生，相当于'不可能……、没有……的道理'。语气较强，多用于叙述或论断场合。
+examples:
+- text: 이 정도 명분이면 반대하는 사람이 나올 리 없다.
+  reading: ''
+  annot: 이 정도 명분이면 반대하는 사람이 나올 리 없다.
+  translation_zh: 有这种程度的名分，不可能有人站出来反对。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 依存名词
+- 推量
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

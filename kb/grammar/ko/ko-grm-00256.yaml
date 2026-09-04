@@ -1,0 +1,32 @@
+id: ko-grm-00256
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: 「-(으)ㄹ 텐데：想必会……（可惜/然而）」
+structure: 용언 + 관형사형 어미 '-(으)ㄹ' + 의존명사 '터' + 서술격 조사 '이다'의 연결형 '-ㄴ데'
+structure_pattern: V/A + -(으)ㄹ 텐데
+explanation_zh: 由依存名词'터'（推测的余地）加叙述格助词'이다'的连接形'-ㄴ데'构成，意为'想必……，可是/可惜……'。以前项推测为背景，暗示与现实相反或表达遗憾，话常留有余地。
+examples:
+- text: 그냥 후퇴하는 게 좋을 텐데…… 그렇게 하지는 않겠지?
+  reading: ''
+  annot: 그냥 후퇴하는 게 좋을 텐데…… 그렇게 하지는 않겠지?
+  translation_zh: 干脆撤退的话该多好……不过他们不会那样做吧？
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 推测
+- 语气
+- 转折
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

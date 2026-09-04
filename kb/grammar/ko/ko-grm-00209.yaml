@@ -1,0 +1,31 @@
+id: ko-grm-00209
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: 「-(으)ㄹ 테니(까)：以意志为前提」
+structure: 用言词干 + -(으)ㄹ 테니(까)
+structure_pattern: V/A- + -(으)ㄹ 터(의존명사) + -이니(까)
+explanation_zh: 由表示推测或意志的依存名词 '터' 加 '-이니(까)' 缩略而成。前句表达说话人的意志或推测，并以此为前提，后句提出命令、建议或请求，相当于“我会……，所以你……”。片段中阿兹兰以此宣告自己的决心并向对方发出挑战。
+examples:
+- text: 나는 진심으로 네 목숨을 노릴 테니 너도 진심으로 내 목숨을 노려봐.
+  reading: ''
+  annot: 나는 진심으로 네 목숨을 노릴 테니 너도 진심으로 내 목숨을 노려봐.
+  translation_zh: 我会真心实意地夺取你的性命，所以你也拿出真心来取我的性命吧。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 意志
+- 连接词尾
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 55
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

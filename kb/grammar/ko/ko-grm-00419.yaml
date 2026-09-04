@@ -1,0 +1,38 @@
+id: ko-grm-00419
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: 「-(으)ㄹ 정도로：到……的程度」
+structure: 用言 + -(으)ㄹ + 의존명사 정도（+ 조사 로/이다）
+structure_pattern: V/A-(으)ㄹ + 정도(로)
+explanation_zh: 의존명사 ‘정도’表示程度，‘-(으)ㄹ 정도로’作状语，意为「到……的程度」。也可作名词性成分，如‘이길 수 있을 정도야?’（到能赢的程度吗？）。本段借程度表达衡量塔玛的实力，是小说中比较战力时的常用结构。
+examples:
+- text: 그 새들, 내가 상대하기 벅찰 정도로 강하진 않았어.
+  reading: ''
+  annot: 그 새들, 내가 상대하기 벅찰 정도로 강하진 않았어.
+  translation_zh: 那些鸟，还没强到让我应付起来吃力的程度。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+- text: 타마 씨랑 마왕이 싸우면 마왕이 손쉽게 이길 수 있을 정도야?
+  reading: ''
+  annot: 타마 씨랑 마왕이 싸우면 마왕이 손쉽게 이길 수 있을 정도야?
+  translation_zh: （她强到）如果塔玛小姐和魔王交战，魔王能轻易取胜的程度吗？
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 程度
+- 依存名词
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 4
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

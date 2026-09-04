@@ -1,0 +1,33 @@
+id: ko-grm-00493
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: -(으)ㄹ 뻔하다：险些发生
+structure: 动词词干 + 依存名词 뻔 + 하다
+structure_pattern: V + -(으)ㄹ 뻔하다
+explanation_zh: 依存名词 뻔 指“险些出现的事态”，与 -(으)ㄹ 搭配表示“差点儿……”，即某事几乎发生但最终没有发生。常与副词 하마터면（差点儿）呼应使用。句中“하마터면
+  넘어질 뻔”即“差点儿摔倒”。
+examples:
+- text: 우와, 위험했다! 하마터면 넘어질 뻔, 아, 으아아, 마와아아아아앙?!
+  reading: ''
+  annot: 우와, 위험했다! 하마터면 넘어질 뻔, 아, 으아아, 마와아아아아앙?!
+  translation_zh: 哇，好险！差点儿摔倒了，啊，啊啊啊，魔王——？！
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 依存名词
+- 语气
+- 惯用
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 4
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

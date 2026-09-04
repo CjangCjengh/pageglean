@@ -1,0 +1,38 @@
+id: ko-grm-00471
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: 「-았/었다가」：前一动作完成后转向另一情况
+structure: 动词词干 + 过去时词尾‘-았/었-’ + 전환 연결 어미(转换连接词尾)‘-다가’
+structure_pattern: V + -았/었다가
+explanation_zh: ‘-다가’表示动作中断或方向转换；加在过去时词尾后构成‘-았/었다가’，强调前一动作已完成，随后转向另一（常为相反）的情况。与单纯并列的‘-고’不同，含“转折·取消”意味。
+examples:
+- text: 애초에 예고도 없이 찾아왔다가 자기 하고 싶은 말만 내뱉어 대고 예고도 없이 사라져 버린 여자였다.
+  reading: ''
+  annot: 애초에 예고도 없이 찾아왔다가 자기 하고 싶은 말만 내뱉어 대고 예고도 없이 사라져 버린 여자였다.
+  translation_zh: 她本就毫无预告地找来，只顾倾倒自己想说的话，又毫无预告地消失掉了，就是这样的女人。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+- text: 요나의 눈에 눈물이 고여 있었다. 눈을 감았다가 뜨면 넘쳐흐를 정도로 가득.
+  reading: ''
+  annot: 요나의 눈에 눈물이 고여 있었다. 눈을 감았다가 뜨면 넘쳐흐를 정도로 가득.
+  translation_zh: 约娜的眼中盈满泪水，满得仿佛闭上眼再睁开就会溢出来。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 连接词尾
+- 转折
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

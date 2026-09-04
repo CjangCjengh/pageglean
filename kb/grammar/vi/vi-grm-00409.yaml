@@ -1,0 +1,33 @@
+id: vi-grm-00409
+language: vi
+type: grammar
+level: L3
+level_rank: 3
+title: thế nào…cũng…：总会／肯定会……
+structure: thế nào + (主语) + cũng + V
+structure_pattern: thế nào + cũng + V
+explanation_zh: 固定格式 thế nào…cũng… 表示「不管怎样总会……、肯定会……」，用于有把握的推断或预测。thế nào 在此是疑问代词的任指用法（无论如何），副词
+  cũng 表示无条件一致。口语中十分常用。
+examples:
+- text: Bây giờ đến hè, thế nào tóc mày cũng dài ra.
+  reading: ''
+  annot: Bây giờ đến hè, thế nào tóc mày cũng dài ra.
+  translation_zh: 现在都到夏天了，你的头发肯定会长长的。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 固定结构
+- 语气
+- 副词
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

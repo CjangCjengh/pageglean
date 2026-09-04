@@ -1,0 +1,32 @@
+id: ja-grm-00447
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 「〜ておく／〜とく：事先处置」
+structure: 动词连用形＋ておく（口语缩约：とく）
+structure_pattern: V-連用形 + 接続助詞「て」 + 補助動詞「おく」（口語縮約「とく」）
+explanation_zh: 补助动词「おく」接动词连用形，表示为之后做准备而事先做某事，或让某种状态暂时保持。口语中「ておく」常缩约为「とく」，「しといた」即「しておいた」。片段中「黙っておく」「統一しといた」均为事先处置的用法。
+examples:
+- text: なんとか言い逃れの言葉を捜索してみるが、逆にボロが出そうなのでもう黙っておくことにした。
+  reading: ''
+  annot: なんとか言[い]い逃[のが]れの言葉[ことば]を捜索[そうさく]してみるが、逆[ぎゃく]にボロが出[で]そうなのでもう黙[だま]っておくことにした。
+  translation_zh: 我试着搜罗些搪塞的话，可那样反而容易露馅，索性决定保持沉默。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 体貌
+- 口语
+- 补助动词
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

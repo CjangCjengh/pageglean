@@ -1,0 +1,33 @@
+id: ko-grm-00512
+language: ko
+type: grammar
+level: TOPIK2
+level_rank: 2
+title: -ㄴ/는 것 같다：委婉的推测
+structure: 用言冠形词形 + 依存名词 것 + 같다
+structure_pattern: V/A-(으)ㄴ/는 + 것 + 같다
+explanation_zh: 由冠形词形转词尾加依存名词‘것’再接‘같다’构成，表推测或委婉判断，相当于“好像……”。时制体现在冠形词形上：现在 -는 것 같다、过去
+  -(으)ㄴ 것 같다；‘담겨 있는 것 같았다’是“状态持续 + 过去推测”的叠加。比直接断言柔和，是小说心理描写的常用形式。
+examples:
+- text: 그녀의 눈빛은 ‘의심’을 품은 나와 달리 ‘연민’이 담겨 있는 것 같았다.
+  reading: ''
+  annot: 그녀의 눈빛은 ‘의심’을 품은 나와 달리 ‘연민’이 담겨 있는 것 같았다.
+  translation_zh: 与心怀“疑心”的我不同，她的眼神似乎含着“怜悯”。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 推测
+- 依存名词
+- 委婉
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

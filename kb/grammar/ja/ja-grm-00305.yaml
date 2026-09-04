@@ -1,0 +1,31 @@
+id: ja-grm-00305
+language: ja
+type: grammar
+level: N5
+level_rank: 1
+title: 〜てる／〜てた：「ている」的口语缩约
+structure: ている → てる（ていた → てた）
+structure_pattern: V-て + いる → てる
+explanation_zh: 口语中持续体「ている／ていた」的「い」常脱落，缩约为「てる／てた」。轻小说对话中极为常见，正式书面文体中不使用。
+examples:
+- text: 戦ってる時も、ちょっとやらかしてたよね……
+  reading: ''
+  annot: 戦[たたか]ってる時[とき]も、ちょっとやらかしてたよね……
+  translation_zh: 战斗的时候，她也稍微有点乱来了吧……
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 口语
+- 体貌
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 5
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

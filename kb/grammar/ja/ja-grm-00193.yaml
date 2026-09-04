@@ -1,0 +1,39 @@
+id: ja-grm-00193
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 「〜てしまう／〜ちゃう」：完成与遗憾（口语缩约）
+structure: 動詞連用形 ＋ 接続助詞 て ＋ 補助動詞 しまう（口語縮約：ちゃう）
+structure_pattern: V-連用形 + て + しまう／ちゃう
+explanation_zh: 「動詞連用形＋てしまう」中，しまう作補助動詞，表示动作完成或带有遗憾、失控、“不小心…”的语气。口语中「てしまう」常缩约为「ちゃう」。文中“確認してしまう”是普通形式，“見ちゃう”为口语缩约，语感更随意。
+examples:
+- text: 異性の下半身を確認してしまうかもしれない、そんなリスクを負うのは誰か。
+  reading: ''
+  annot: 異性[いせい]の下半身[したはんしん]を確認[かくにん]してしまうかもしれない、そんなリスクを負[お]うのは誰[だれ]か。
+  translation_zh: 由谁来承担“可能会（不小心）看到异性下半身”的这种风险。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+- text: 男が女のを見ちゃうのと、女が男の見ちゃうの、どっちがマシかは言うまでもないでしょ？
+  reading: ''
+  annot: 男が女のを見ちゃうのと、女が男の見ちゃうの、どっちがマシかは言うまでもないでしょ？
+  translation_zh: 男人看到女人的（那种东西）和女人看到男人的，哪个还算好些，这不用我说也明白吧？
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 体貌
+- 口語
+- 補助動詞
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

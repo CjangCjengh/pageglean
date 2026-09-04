@@ -1,0 +1,40 @@
+id: ko-grm-00175
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: -던：对过去状态的追忆
+structure: 동사 어간 + 회상 선어말 어미 '-더-' + 관형사형 전성 어미 '-ㄴ' → '-던'（과거 회상은 '-았/었던'）
+structure_pattern: V-던 + 명사 / V-았/었던 + 명사
+explanation_zh: 由回忆先语末词尾 -더- 与冠形词尾形 -ㄴ 结合而成的冠形词尾形，用于追忆过去亲历或当时仍在持续的事，相当于“（当时）正在……的”“曾经……的”。与表示当前的
+  -는 形成对照。对过去事实的回忆则用 -았/었던，如“계획했던 대로（按计划的那样）”。
+examples:
+- text: 새벽까지 멀쩡히 술을 마시던 사람이 처참한 시체가 되어 발견되자, 여관은 소란스러워졌다.
+  reading: ''
+  annot: 새벽까지 멀쩡히 술을 마시던 사람이 처참한 시체가 되어 발견되자, 여관은 소란스러워졌다.
+  translation_zh: 直到凌晨还好端端喝着酒的人竟变成了凄惨的尸体被发现，旅馆一下子骚动起来。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+- text: 내일은 사전에 계획했던 대로 카이트와 세레나데에게 좋은 아이템을 얻을 수 있는 던전을 소개하자고 생각하면서, 눈을 감으려 했다.
+  reading: ''
+  annot: 내일은 사전에 계획했던 대로 카이트와 세레나데에게 좋은 아이템을 얻을 수 있는 던전을 소개하자고 생각하면서, 눈을 감으려 했다.
+  translation_zh: 我一边想着明天要按事先计划的那样，向凯特和塞蕾娜德介绍能获取好装备的副本，一边正想闭上眼睛。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 회상
+- 관형사형 전성어미
+- 시제
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

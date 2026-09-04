@@ -1,0 +1,32 @@
+id: vi-grm-00108
+language: vi
+type: grammar
+level: L3
+level_rank: 3
+title: được + 施事 + V + cho：受益被动（被…给…）
+structure: 受事主语 + có được + 施事 + V + cho + 数量短语
+structure_pattern: S[受事] + được + Agent + V + cho + NP
+explanation_zh: được 作被动标记时带有'对主语有利、如愿以偿'的语义色彩，与表不利的 bị 相对。此处的被字结构里施事（mẹ nó）放在 được
+  之后，动词后再接方向虚词 cho，表示'买给'的给予方向。整个结构可译为'被/有…给（做）…'，兼有被动与受益两层意思。
+examples:
+- text: không biết ngày mai Tiểu Li có được mẹ nó mua cho ổ bánh mì nào nữa không
+  reading: ''
+  annot: không biết ngày mai Tiểu Li có được mẹ nó mua cho ổ bánh mì nào nữa không
+  translation_zh: 不知道明天小丽还会不会有她妈妈给她买哪个面包
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 被动
+- 虚词
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 0
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

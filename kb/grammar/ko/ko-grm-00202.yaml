@@ -1,0 +1,40 @@
+id: ko-grm-00202
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: 「-(으)려고 하다：打算/想要……」
+structure: 动词词干 + -(으)려고 하다
+structure_pattern: V-(으)려고 + 하다
+explanation_zh: -(으)려고 是表示意图或目的的连接词尾，与 하다 搭配构成 -(으)려고 하다，意为「打算/想要……」。作冠形词形（관형사형）修饰名词时用
+  -려는，文中「두려고 하는 건」「진행되려는 경향」即此。「죽이려고 했었어」用 -았었- 表示过去一直持续的意图。
+examples:
+- text: 너는 지금까지 계속 나를 죽이려고 했었어.
+  reading: ''
+  annot: 너는 지금까지 계속 나를 죽이려고 했었어.
+  translation_zh: 你到现在为止，一直都在设法杀我。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+- text: 클라우가 아즐란을 용서하고 자기 곁에 두려고 한다는 것을 쉽게 이해하기 어려웠다.
+  reading: ''
+  annot: 클라우가 아즐란을 용서하고 자기 곁에 두려고 한다는 것을 쉽게 이해하기 어려웠다.
+  translation_zh: 克劳竟要原谅阿兹兰、把他留在自己身边，这一点很难让人理解。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 意图
+- 目的
+- 连接词尾
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 6
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

@@ -1,0 +1,38 @@
+id: vi-grm-00057
+language: vi
+type: grammar
+level: L2
+level_rank: 2
+title: 句末助词「rồi」：新状态的出现
+structure: 小句 + rồi（句末）
+structure_pattern: clause + rồi（trợ từ cuối câu，句末助词）
+explanation_zh: 句末「rồi」表示情况出现变化或新状态，相当于汉语语气词「了」；也常与「lắm」连用加强肯定语气。注意区别于动词前表完成的副词「đã」：「đã」侧重动作已然，「rồi」侧重当前已成的状态。
+examples:
+- text: Trán anh u một cục rồi!
+  reading: ''
+  annot: Trán anh u một cục rồi!
+  translation_zh: 你额头肿起一个包了！
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+- text: Anh nhảy được năm chục cái là giỏi lắm rồi!
+  reading: ''
+  annot: Anh nhảy được năm chục cái là giỏi lắm rồi!
+  translation_zh: 你能跳五十下就已经很厉害了！
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 时态虚词
+- 语气
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

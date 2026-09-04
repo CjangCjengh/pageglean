@@ -1,0 +1,40 @@
+id: th-grm-00066
+language: th
+type: grammar
+level: L2
+level_rank: 2
+title: 句末语气助词 นะ/ล่ะ/ไหม
+structure: ประโยค + นะ / ล่ะ / ไหม (คำลงท้าย)
+structure_pattern: ประโยค + (นะ | ล่ะ | ไหม)
+explanation_zh: นะ 置于句末，起软化语气、寻求认同或轻微叮嘱的作用，多用于亲密场合。ล่ะ 是 แหละ 的口语体，添加强调或催促回应的语气。ไหม
+  是一般疑问助词，可与 ล่ะ 连用为 ใช่ไหมล่ะ「是吧、对吧」。本段为前任间的对话，句末大量出现这些助词，显得亲切而带试探。
+examples:
+- text: แต่​ตอนนั้น​ฉัน​ไม่กล้า​ทัก​นะ
+  reading: ''
+  annot: แต่​ตอนนั้น​ฉัน
+  translation_zh: 不过那时候我没敢打招呼呢。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+- text: ไป​นั่ง​ดื่ม​กาแฟ​ที่​ร้าน LES ด้วย​ใช่​ไหม​ล่ะ
+  reading: ''
+  annot: ไป​นั่ง​ดื่ม​กาแฟ​ที่​ร
+  translation_zh: 你也去 LES 那家店坐着喝咖啡了，对吧？
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 语气
+- 疑问
+- 口语
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 6
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

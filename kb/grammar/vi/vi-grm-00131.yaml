@@ -1,0 +1,32 @@
+id: vi-grm-00131
+language: vi
+type: grammar
+level: L3
+level_rank: 3
+title: 「dù…cũng」：尽管……还是……
+structure: dù + 让步分句，主语 + cũng (+ phải) + V
+structure_pattern: dù + Clause, S + cũng + V
+explanation_zh: 「dù」引导让步状语，意为“即使、尽管”；主句用「cũng」（也）呼应，表示结果不因此改变。此处再用「phải」（不得不）强调“忍不住”。相当于中文“尽管……还是……”。
+examples:
+- text: dù đang rầu thúi ruột tôi cũng phải phì cười
+  reading: ''
+  annot: dù đang rầu thúi ruột tôi cũng phải phì cười
+  translation_zh: 尽管心里难受得要命，我还是忍不住笑出声来。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 让步
+- 转折
+- 句式
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 8
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

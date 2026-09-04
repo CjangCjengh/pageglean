@@ -1,0 +1,39 @@
+id: ja-grm-00406
+language: ja
+type: grammar
+level: N3
+level_rank: 3
+title: 〜てやがる：表轻蔑、不满的粗俗说法
+structure: 动词连用形＋て＋やがる（五段活用，表鄙视嫌恶）
+structure_pattern: V-て + やがる
+explanation_zh: やがる接在动词て形后，表示对他人行为的轻蔑或恼怒，相当于“竟然干出～”。按五段动词活用，片段中可见疑问缩约形「やがんのか」、命令形「出てきやがれ」、连用形接て的「遊びやがって」等多种形态。语气粗鲁，多为男性粗话用语，正式场合应避免。
+examples:
+- text: そのために最近筋トレしてやがんのか。生傷も絶えないと思ったら。
+  reading: ''
+  annot: そのために最近筋トレしてやがんのか。生傷も絶えないと思ったら。
+  translation_zh: 原来是为了那个最近才一直在健身啊。怪不得老是旧伤不断。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+- text: はやく出てきやがれセクシードリーム！
+  reading: ''
+  annot: はやく出[で]てきやがれセクシードリーム！
+  translation_zh: 快点给我滚出来，性感梦幻！
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 语气
+- 口语
+- 补助动词
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

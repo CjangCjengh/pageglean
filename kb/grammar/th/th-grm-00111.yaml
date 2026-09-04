@@ -1,0 +1,31 @@
+id: th-grm-00111
+language: th
+type: grammar
+level: L3
+level_rank: 3
+title: 「动词 + ไว้：结果的留存与固定」
+structure: คำกริยา + ไว้（บทเสริมบอกผลคงอยู่）
+structure_pattern: V + ไว้
+explanation_zh: ไว้ 接在动词后，表示动作的结果被留存、固定在某处或某种状态，相当于汉语“放好、留下、留着”。常与วาง（放置）、เก็บ（收存）等动词搭配。本段两处使用：วางครีม…ไว้（把沐浴露放在这儿）、วางของไว้บนชั้น（把东西放到架子上）。
+examples:
+- text: รีบ​วาง​ของ​ทั้งหมด​ใน​มือไว้​บน​ชั้น​ข้าง​ประตู
+  reading: ''
+  annot: รีบ​วาง​ของ​ทั้งหมด​ใน​มือไว้​บน​ชั้น​ข้าง​ประตู
+  translation_zh: 赶紧把手里的所有东西放在门边的架子上。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 结果补语
+- 语序
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

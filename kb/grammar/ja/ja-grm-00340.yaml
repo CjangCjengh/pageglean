@@ -1,0 +1,32 @@
+id: ja-grm-00340
+language: ja
+type: grammar
+level: N3
+level_rank: 3
+title: 〜てくれたらいいのに：埋怨式愿望
+structure: 动词连用形 + て + 助动词「た」的假定形（たら）+ いい + 终助词「のに」
+structure_pattern: V-連用形 + て + くれたら + いい + のに
+explanation_zh: 「〜てくれたらいいのに」把授受表现「てくれる」、助动词「た」的假定形「たら」与表示遗憾、责备的终助词「のに」组合在一起，意为“要是（为我）……就好了”。后项与现实相反，带有不满和抱怨的语气。原文中女生抱怨老师不多加提醒。
+examples:
+- text: 怖いよねぇ。先生がもっと注意してくれたらいいのに
+  reading: ''
+  annot: 怖[こわ]いよねぇ。先生[せんせい]がもっと注意[ちゅうい]してくれたらいいのに
+  translation_zh: 好可怕啊。要是老师能多提醒一下就好了。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 授受
+- 条件
+- 语气
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

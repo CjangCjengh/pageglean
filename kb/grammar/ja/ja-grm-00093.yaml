@@ -1,0 +1,31 @@
+id: ja-grm-00093
+language: ja
+type: grammar
+level: N2
+level_rank: 4
+title: 〜ないでもない：双重否定的委婉肯定（也不是不……）
+structure: 形容詞連用形＋ないでもない／動詞終止形＋ないでもない
+structure_pattern: A-連用形 + ないでもない
+explanation_zh: 「ないでもない」即「ない＋でもない」，用双重否定委婉地表示肯定，语气含糊、留有余地，近似「〜なくもない」。片段末尾主角观察王女的眼神，判断她「倒也不像是在奉承」，正是这种不将话说满的委婉表达。
+examples:
+- text: どうやらお世辞でもないらしい。
+  reading: ''
+  annot: どうやらお世辞[せじ]でもないらしい。
+  translation_zh: 看来（她的称赞）倒也不像是奉承。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 双重否定
+- 婉曲
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

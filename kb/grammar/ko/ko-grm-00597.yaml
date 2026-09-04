@@ -1,0 +1,39 @@
+id: ko-grm-00597
+language: ko
+type: grammar
+level: TOPIK5
+level_rank: 5
+title: -ㄹ 테니까：兼表推测的理由「反正会……所以」
+structure: 용언 어간 + 관형사형 어미 '-(으)ㄹ' + 의존명사 '터' + '이다' + 연결어미 '-니까'
+structure_pattern: V/A- + -(으)ㄹ + 터 + 이다 + -니까
+explanation_zh: '''-(으)ㄹ 테니까''是''-(으)ㄹ 터이니까''的缩略：由表推测的依存名词''터''加''이다''，再接理由词尾''-니까''构成。说话人以此作为理由，兼带自己的推测与打算。'
+examples:
+- text: 어쨌든 치고 박고 싸워서 결판을 내야, 헬로이스에 온 목적을 끝낼 수 있을 테니 말이다.
+  reading: ''
+  annot: 어쨌든 치고 박고 싸워서 결판을 내야, 헬로이스에 온 목적을 끝낼 수 있을 테니 말이다.
+  translation_zh: 总之只有大打出手、一决胜负，才能了结来到赫洛伊斯的目的啊。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+- text: 무엇보다 빈 헬로이스는 어디까지나 ‘계약자’일 테니, 기왕이면 ‘악마’로 의심되는 자를 추궁하는 게 나을 것이다.
+  reading: ''
+  annot: 무엇보다 빈 헬로이스는 어디까지나 ‘계약자’일 테니, 기왕이면 ‘악마’로 의심되는 자를 추궁하는 게 나을 것이다.
+  translation_zh: 更何况빈·헬로이스说到底也只是“契约者”，既然如此，还是去追问那个被怀疑是“恶魔”的人更好。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 추측
+- 이유
+- 의존명사
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

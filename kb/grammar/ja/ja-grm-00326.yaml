@@ -1,0 +1,32 @@
+id: ja-grm-00326
+language: ja
+type: grammar
+level: N2
+level_rank: 4
+title: 〜っぱなし：放任不管、一直保持某种状态」
+structure: 動詞連用形＋っぱなし
+structure_pattern: V-連用形 + っぱなし
+explanation_zh: 由动词「放す」的连用形「放し」演变而来的接尾辞，表示该做的事没做、放着不管，或某种状态（多为不希望出现的）一直持续。「負けっぱなし」即「一直输、老是输」。多含不满、消极的语气。
+examples:
+- text: スタートが私からだった以上、負けっぱなしは少し悔しい
+  reading: ''
+  annot: スタートが私[わたし]からだった以上[いじょう]、負[ま]けっぱなしは少[すこ]し悔[くや]しい
+  translation_zh: 既然开始是由我主动的，那一直输下去就有点不甘心。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 体貌
+- 状態継続
+- 接尾辞
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

@@ -1,0 +1,39 @@
+id: ko-grm-00373
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: -ㄴ다는 거야?：反问确认对方的意思
+structure: 动词词干 + 间接引用形 -ㄴ다고 하다 → -ㄴ다는 것 + 이야?（것→거 口语缩略）
+structure_pattern: V + -ㄴ다는 거야?
+explanation_zh: 由间接引用“-ㄴ다고 하다”加依存名词 것 构成，用来反问确认对方话语的含义，相当于“你的意思是说……吗？”。거 是 것 的口语形式，只出现在对话体中。理解这类结构对读懂韩语对话至关重要。
+examples:
+- text: 공작님이 그것 때문에 우리를 안 부른다는 거야?
+  reading: ''
+  annot: 공작님이 그것 때문에 우리를 안 부른다는 거야?
+  translation_zh: 你是说公爵大人是因为那件事才不叫我们的吗？
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+- text: 우리가 클라우 에른베스크를 못 이길까 봐 금욕 생활을 했다는 거야?
+  reading: ''
+  annot: 우리가 클라우 에른베스크를 못 이길까 봐 금욕 생활을 했다는 거야?
+  translation_zh: 你是说他怕我们打不赢克劳·恩贝斯克，才过禁欲生活的吗？
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 间接引用
+- 确认
+- 口语
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

@@ -1,0 +1,38 @@
+id: vi-grm-00284
+language: vi
+type: grammar
+level: L4
+level_rank: 4
+title: Ai lại：反问表不以为然
+structure: Ai lại + V (+ bao giờ)!（câu nghi vấn dùng để bác bỏ 否定性反问句）
+structure_pattern: Ai lại + V (+ bao giờ)
+explanation_zh: 「Ai lại + V」用反问形式表示否定、批评或惊讶，意为「哪有人……的？才不会……呢」。句末可加「bao giờ」加强「从未见过这样」的语气，口语常用。
+examples:
+- text: Ai lại viết là "yêu quí"!
+  reading: ''
+  annot: Ai lại viết là "yêu quí"!
+  translation_zh: 哪有人一上来就写「yêu quí（亲爱的）」的！
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+- text: Ai lại "Việt An thân mến" bao giờ!
+  reading: ''
+  annot: Ai lại "Việt An thân mến" bao giờ!
+  translation_zh: 哪有人管心上人叫「Việt An thân mến」的啊！
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 语气
+- 反问
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

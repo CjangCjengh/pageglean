@@ -1,0 +1,31 @@
+id: ja-grm-00600
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 〜つもりだ：意图与打算
+structure: 動詞終止形＋つもりだ
+structure_pattern: V終止形 + つもり（形式名詞） + だ（助動詞）
+explanation_zh: 形式名词「つもり」表示主观的打算、意图，后接断定助动词「だ」。片段以「死ぬつもりでいたのに」的形式出现：「つもりでいる」强调持续抱有某种打算的状态，「のに」表示与预期相反。中文可译为“明明打算……却……”。
+examples:
+- text: 俺は本気で死ぬつもりでいたのに……
+  reading: ''
+  annot: 俺[おれ]は本気[ほんき]で死[し]ぬつもりでいたのに……
+  translation_zh: 我可是真的打算去死的啊……
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 形式名詞
+- 意向
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

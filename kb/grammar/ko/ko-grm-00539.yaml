@@ -1,0 +1,31 @@
+id: ko-grm-00539
+language: ko
+type: grammar
+level: TOPIK5
+level_rank: 5
+title: -더니：回想与转折
+structure: 동사 어간（动词词干）+ -더니
+structure_pattern: 동사 어간 + 연결 어미 '-더니'
+explanation_zh: 连接词尾，带有回想语气，以前一分句亲历的事实为背景，后句出现与之不同或出乎意料的情况，相当于“（原以为……）结果却……”“……之后才发现……”。主语多为第二、第三人称，或说话者将过去的自己当作他人来叙述。
+examples:
+- text: 이상한 느낌이 들어서 눈을 떴더니, 눈앞에 거구의 여성이 검을 빼어 든 채 쳐다보고 있다는 걸 확인한 순간
+  reading: ''
+  annot: 이상한 느낌이 들어서 눈을 떴더니, 눈앞에 거구의 여성이 검을 빼어 든 채 쳐다보고 있다는 걸 확인한 순간
+  translation_zh: 我察觉到一丝异样便睁开了眼，结果只见一位魁梧的女性正握着拔出的剑盯着我——就在确认这一点的那个瞬间……
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 接续/转折
+- 时制/回想
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

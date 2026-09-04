@@ -1,0 +1,39 @@
+id: ko-grm-00205
+language: ko
+type: grammar
+level: TOPIK2
+level_rank: 2
+title: 「-(으)ㄹ 수 있다/없다：可能与否」
+structure: 用言词干 + -(으)ㄹ 수 있다/없다
+structure_pattern: V/A- + -(으)ㄹ + 수(의존명사) + 있다/없다
+explanation_zh: 依存名词（의존명사）'수' 接在用言词干的冠形词尾 -(으)ㄹ 后，与 있다/없다 搭配表示可能与否，相当于中文的“能/不能……”。片段中还叠加了过去与推测，构成
+  '-ㄹ 수 있었을 거야'（本来是能……的）。这是韩语表达可能性的最基本结构。
+examples:
+- text: 네가 정말로 마음만 먹는다면 벌써 옛날에 날 죽일 수 있었을 거야.
+  reading: ''
+  annot: 네가 정말로 마음만 먹는다면 벌써 옛날에 날 죽일 수 있었을 거야.
+  translation_zh: 如果你真的下定决心，早就在很久以前就能杀掉我了。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+- text: 하지만 그것만으로는 메울 수 없는 차이라는 게 있다는 걸, 모르는 거야?
+  reading: ''
+  annot: 하지만 그것만으로는 메울 수 없는 차이라는 게 있다는 걸, 모르는 거야?
+  translation_zh: 但是，有些差距是仅凭那些无法弥补的，你难道不知道吗？
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 依存名词
+- 可能
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 95
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

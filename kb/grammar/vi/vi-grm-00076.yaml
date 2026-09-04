@@ -1,0 +1,38 @@
+id: vi-grm-00076
+language: vi
+type: grammar
+level: L2
+level_rank: 2
+title: Sao…(vậy)?：为什么……？
+structure: 疑问词 sao + 小句 +（语气词 vậy）
+structure_pattern: sao + S + (vậy)
+explanation_zh: sao 置于动词或小句之前表示「为什么」。句尾可加语气词 vậy，使疑问语气更自然，相当于「怎么……呢」。口语中 vậy 常可省略。
+examples:
+- text: Sao anh bắn trật hoài vậy?
+  reading: ''
+  annot: Sao anh bắn trật hoài vậy?
+  translation_zh: 你怎么老是打偏呀？
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+- text: Sao kỳ vậy?
+  reading: ''
+  annot: Sao kỳ vậy?
+  translation_zh: 怎么这么奇怪？
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 疑问
+- 语气
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 6
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

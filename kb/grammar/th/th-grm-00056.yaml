@@ -1,0 +1,31 @@
+id: th-grm-00056
+language: th
+type: grammar
+level: L4
+level_rank: 4
+title: ทั้งที：难得……一次
+structure: 小句 + ทั้งที（后文接想趁机做的事）
+structure_pattern: V + ทั้งที
+explanation_zh: 「ทั้งที」接在小句之后，表示「难得……一次、好不容易才……」，强调机会难得，后文常接想趁机做的事或辩解的理由。片段中「อุตส่าห์ได้เจอ…ทั้งที」意为「难得特意相见一次」，其中อุตส่าห์表示费心、特意。语气口语化，带撒娇或辩解的色彩。
+examples:
+- text: ก็​อุตส่าห์​ได้​เจอ​คุณ​ชา​ทั้งที ขอ​สวย​หน่อย​ไม่ได้​หรือ​ไง?
+  reading: ''
+  annot: ก็​อุตส่าห์​ได้​เจอ​คุณ​ชา​ทั้ง
+  translation_zh: 难得特意见到你ชา一次，让我稍微打扮得漂亮一点也不行吗？
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 语气
+- 口语
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

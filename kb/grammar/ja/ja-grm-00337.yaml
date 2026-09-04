@@ -1,0 +1,31 @@
+id: ja-grm-00337
+language: ja
+type: grammar
+level: N3
+level_rank: 3
+title: 授受表现与敬语：「〜てくださる／〜てもらう」
+structure: 动词连用形 + 接续助词「て」+ くださる／もらう（可伴使役助动词「せる」）
+structure_pattern: V-連用形 + て + くださる / て + もらう
+explanation_zh: 「てくださる」是「てくれる」的尊敬语，用于感激他人施予的恩惠行为，后记致谢中反复出现。「てもらう」则从受益方着眼，表示“承蒙对方做某事”；「期待させてもらう」为使役助动词「せる」+「てもらう”，即“请容我期待”。「お蔭で」也常与之搭配表感谢。
+examples:
+- text: 今後も期待させてもらうさ
+  reading: ''
+  annot: 今後も期待させてもらうさ
+  translation_zh: 今后也让我抱着期待吧。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 授受表现
+- 敬语
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 5
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

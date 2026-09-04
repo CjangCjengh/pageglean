@@ -1,0 +1,31 @@
+id: ja-grm-00453
+language: ja
+type: grammar
+level: N2
+level_rank: 4
+title: 「〜にしては：以……而言」
+structure: 体言／动词终止形＋にしては
+structure_pattern: 体言 + 助詞「に」 + 「する」連用形「して」 + 係助詞「は」
+explanation_zh: 「にしては」表示“以……而言竟然……”，后项给出与该标准不相称、带有意外感的评价。由助词「に」＋动词「する」连用形「して」＋提示助词「は」构成。片段中「こいつにしては非常に珍しい」即“以那家伙而言极为罕见”。
+examples:
+- text: 俺の同意を求めるとは、こいつにしては非常に珍しい。
+  reading: ''
+  annot: 俺[おれ]の同意[どうい]を求[もと]めるとは、こいつにしては非常[ひじょう]に珍[めずら]しい。
+  translation_zh: 竟然会来征求我的同意，就那家伙而言真是稀奇。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 句型
+- 对比
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

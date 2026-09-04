@@ -1,0 +1,32 @@
+id: ja-grm-00194
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 「〜ことにする」：决定当作…（無かったことにする）
+structure: 用言連体形 ＋ 形式名詞 こと ＋ にする
+structure_pattern: V-連体形 + ことにする
+explanation_zh: 「こと」为形式名词，「〜ことにする」表示主观上决定某事，或“把…当作…来处理”。“無かったことにする”是常用搭配，意为“当作没发生过”。文中以「〜たい」的形式，表现“想把这事当作没发生”的心理。
+examples:
+- text: だけど、野郎にときめいた事実を無かった事にしたい。
+  reading: ''
+  annot: だけど、野郎[やろう]にときめいた事実[じじつ]を無[な]かった事[こと]にしたい。
+  translation_zh: 但是，我想把“竟然对男人怦然心动”的事实当作没发生过。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 形式名词
+- 决定
+- 惯用搭配
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

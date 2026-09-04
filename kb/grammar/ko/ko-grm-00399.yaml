@@ -1,0 +1,39 @@
+id: ko-grm-00399
+language: ko
+type: grammar
+level: TOPIK2
+level_rank: 2
+title: -기 때문이다：原因与理由
+structure: 谓词词干 + 名词形转成词尾'-기' + 依存名词'때문' + 서술격 조사'이다'
+structure_pattern: V/A + -았/었기 + 때문이다
+explanation_zh: 由名词形转成词尾'-기'将前句名词化，经依存名词'때문'加'이다'表示原因，相当于「因为……」。可结合过去时制词尾（-았/었기 때문에），语感比口语的'-아/어서'更正式、书面。
+examples:
+- text: 너무 간절히 바랐기 때문에 악마가 찾아왔던 것일까.
+  reading: ''
+  annot: 너무 간절히 바랐기 때문에 악마가 찾아왔던 것일까.
+  translation_zh: 是因为祈盼得太殷切，恶魔才找上门来的吗？
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+- text: 새들이 모두 검은 연기가 되어 공기 중에 녹아들었기 때문이다.
+  reading: ''
+  annot: 새들이 모두 검은 연기가 되어 공기 중에 녹아들었기 때문이다.
+  translation_zh: 那是因为鸟儿全都化作黑烟，消散在空气中了。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 因果
+- 依存名词
+- 书面语
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

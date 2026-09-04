@@ -1,0 +1,42 @@
+id: vi-grm-00221
+language: vi
+type: grammar
+level: L4
+level_rank: 4
+title: 惯常条件句：hễ（cứ）…lại…
+structure: hễ（cứ）+ 条件小句，主语 + lại + 结果小句
+structure_pattern: hễ (cứ) + Clause , S + lại + Clause
+explanation_zh: 「hễ」（加强为「hễ cứ」）构成惯常条件复句：某情况每次出现，另一情况就规律性地随之发生，后句以「lại」呼应，相当于“每当……就又……”。本段另有「cứ…bao
+  giờ…cũng…」（每次……总是……）表达同样的惯常意义。
+examples:
+- text: Bởi vì, hễ cứ tích góp được kha khá, nó lại đem ra chơi và bị tụi tôi ăn lại
+    hết.
+  reading: ''
+  annot: Bởi vì, hễ cứ tích góp được kha khá, nó lại đem ra chơi và bị tụi tôi ăn
+    lại hết.
+  translation_zh: 因为每当他攒下不少，就又拿出来玩，然后又被我们赢回去个精光。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+- text: Cứ sau mỗi giờ chơi bao giờ túi nó cũng rủng rỉnh những bi là bi.
+  reading: ''
+  annot: Cứ sau mỗi giờ chơi bao giờ túi nó cũng rủng rỉnh những bi là bi.
+  translation_zh: 每次课间过后，他口袋里总是叮当作响，全是弹珠。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 复句
+- 条件
+- 惯常
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

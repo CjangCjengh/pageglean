@@ -1,0 +1,31 @@
+id: ko-grm-00473
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: 「-(으)ㄹ 리가 없다」：按常理绝不可能
+structure: 动词/形容词词干 + 관형형 전성 어미(冠形形转成词尾)‘-(으)ㄹ’ + 의존명사(依存名词)‘리’ + 주격 조사(主格助词)‘가’
+structure_pattern: V/A + -(으)ㄹ 리가 없다
+explanation_zh: 依存名词‘리’表示“道理、可能”，整个结构按事理推断“不可能……”。文中“그런 걸 했을 리가”省略了后面的‘없다’，以断句形式表达强烈否定，是口语中常见的省略用法。
+examples:
+- text: 그 여자랑 사이좋게 그런 걸 했을 리가.
+  reading: ''
+  annot: 그 여자랑 사이좋게 그런 걸 했을 리가.
+  translation_zh: 怎么可能跟那个女人和和气气地做那种约定。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 依存名词
+- 推断
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

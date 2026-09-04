@@ -1,0 +1,31 @@
+id: th-grm-00122
+language: th
+type: grammar
+level: L3
+level_rank: 3
+title: ถูก：被动句「被……」
+structure: 受事 + ถูก + 动词 (+ โดย + 施事)
+structure_pattern: 'กรรมวาจก: บทกรรม + ''ถูก'' + คำกริยา (+ ''โดย'' + บทกรรตุ)'
+explanation_zh: ถูก 构成被动句（กรรมวาจก），施事者可用 โดย 引出，动词常带结果义如สร้างขึ้น。传统多用于不如意之事，现代书面语亦用于客观叙述。片段以此客观叙述修道院的建造。
+examples:
+- text: อารามอ​เล็กซานเดอร์เนฟ​สกี้​ถูก​สร้างขึ้น​ใน​ปี ค.ศ. 1710 โดย​พระเจ้า​ปีเตอร์​มหาราช
+  reading: ''
+  annot: อารามอ​เล็กซานเดอร์เนฟ​สกี้​ถูก​สร้างขึ้น​ใน​ปี ค.ศ. 1710 โดย​พระเจ้า​ปีเตอร์​มหาราช
+  translation_zh: 亚历山大·涅夫斯基修道院于公元1710年由彼得大帝所建。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 语态
+- 被动
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

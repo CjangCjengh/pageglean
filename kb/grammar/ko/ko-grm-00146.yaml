@@ -1,0 +1,32 @@
+id: ko-grm-00146
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: -기 때문이다：原因与理由（书面性说明）
+structure: 用言词干 + -기 때문이다（过去：-았/었기 때문이다）
+structure_pattern: 어간 + 명사형 전성어미 -기 + 때문이다
+explanation_zh: 名词形词尾 -기 加 때문이다 表示原因，带书面说明语气，多用于事后解释。与 -아/어서 不同，可接在过去时之后并用于句末收尾。
+examples:
+- text: 솔직히 소녀가 시키는 대로 제후들과 싸워서 제국을 손에 넣는다는 게 별로 내키지 않았기 때문이다.
+  reading: ''
+  annot: 솔직히 소녀가 시키는 대로 제후들과 싸워서 제국을 손에 넣는다는 게 별로 내키지 않았기 때문이다.
+  translation_zh: 因为说实话，按少女的吩咐与诸侯厮杀、夺取帝国，他心里并不情愿。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 原因
+- 名词化
+- 书面语
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

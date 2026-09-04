@@ -1,0 +1,33 @@
+id: ko-grm-00200
+language: ko
+type: grammar
+level: TOPIK5
+level_rank: 5
+title: 「설령 -다고 해도：即使……也……」
+structure: 설령 + 动词词干 + -(느)다고 해도
+structure_pattern: 설령 + V-(느)다고 + 해도 (연결어미)
+explanation_zh: 설령 是让步副词，意为「即使、纵然」，与间接引用连接词尾 -다고 해도 呼应，表示「即使……也……」，强调在极端假设下结论依然不变。接续上，动词后用
+  -(느)다고 해도，形容词用 -다고 해도，体言后用 -(이)라고 해도。该结构书面色彩浓，是高级阅读中的典型让步表达。
+examples:
+- text: 설령 아즐란이 거짓말을 하고 있는 것이라고 해도 클라우는 아즐란의 거짓말을 꿰뚫어 볼 수 없다.
+  reading: ''
+  annot: 설령 아즐란이 거짓말을 하고 있는 것이라고 해도 클라우는 아즐란의 거짓말을 꿰뚫어 볼 수 없다.
+  translation_zh: 即使阿兹兰真的在说谎，克劳也无法看穿他的谎言。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 让步
+- 间接引用
+- 副词
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

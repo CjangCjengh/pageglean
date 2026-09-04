@@ -1,0 +1,31 @@
+id: ja-grm-00284
+language: ja
+type: grammar
+level: N3
+level_rank: 3
+title: 〜限り：只要……
+structure: 用言连体形 + 限り（助词）
+structure_pattern: 用言連体形 + 助詞「限り」
+explanation_zh: 「限り」接在用言连体形后，表示“只要……（就）”的条件，强调在前项成立的范围内后项成立。此处「命がある限り」意为“只要我命还在”。
+examples:
+- text: 私の命がある限り、責任を全うする事を誓います
+  reading: ''
+  annot: 私[わたし]の命[いのち]がある限[かぎ]り、責任[せきにん]を全[まっと]うする事[こと]を誓[ちか]います
+  translation_zh: 只要我的命还在，我发誓定会尽到责任。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 条件
+- 接续
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 0
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

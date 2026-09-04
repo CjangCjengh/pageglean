@@ -1,0 +1,31 @@
+id: ja-grm-00228
+language: ja
+type: grammar
+level: N1
+level_rank: 5
+title: 〜ともなしに：不经意地、并非有意地
+structure: 动词终止形 + 格助词「と」（引用）+「もなしに」
+structure_pattern: V-終止形 + ともなしに
+explanation_zh: 接动词终止形，表示没有特意用心或没有特定对象地做某事，“不经意地……”。“誰に言うともなしに言う”指不针对特定对象、自言自语似的说出。属文学性较强的表达，小说叙述中常见。
+examples:
+- text: 放課後、帰宅途中[とちゆう]。リアは誰に言うともなしに言う。
+  reading: ''
+  annot: ''
+  translation_zh: 放学后，回家的路上。莉亚没有特意对谁，像是自言自语般说道。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 语气
+- 书面语
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

@@ -1,0 +1,39 @@
+id: ko-grm-00319
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: -지：向听者解说的终结词尾
+structure: 용언 어간 + 종결어미 '-지'（서술격 조사 '이다' + '-지' 亦可）
+structure_pattern: V/A-지
+explanation_zh: -지 是终结词尾，向听话人陈述对方尚不知晓的事情或加以补充说明，带有“跟你说、要知道……”的口吻。非敬语（반말）用 -지，敬语则用
+  -지요/-죠。本片段通篇以 반말 -지 讲述阿尔特亚的往事，口语叙述感很强。
+examples:
+- text: 그야말로 허황된 꿈이었지.
+  reading: ''
+  annot: 그야말로 허황된 꿈이었지.
+  translation_zh: 那可真是个荒唐的梦想。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+- text: 아즐란을 위해서라면 무슨 일이든 했지.
+  reading: ''
+  annot: 아즐란을 위해서라면 무슨 일이든 했지.
+  translation_zh: 如果是为了阿兹兰，她什么事都肯做。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 终结词尾
+- 语气
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 12
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

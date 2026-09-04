@@ -1,0 +1,33 @@
+id: ko-grm-00646
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: -아/어 보다与-(으)ㄹ 만하다：尝试与值得
+structure: 본용언 + 보조적 연결어미 -아/어 + 보조동사 '보다'；용언 어간 + 관형사형 전성어미 -(으)ㄹ + 의존명사 '만' + '하다'
+structure_pattern: V-아/어 보다; V-(으)ㄹ 만하다
+explanation_zh: 补助动词보다表示尝试“……试试看”；-(으)ㄹ 만하다表示“值得……/还算……”。片段中“의심해 볼 만하다”即“试着怀疑一番也值得”，也就是“值得怀疑”。后者还常以-ㄹ
+  만하지 않겠는가的反诘形式出现，语气含蓄。
+examples:
+- text: ……1초의 오차도 없이 모두들 나와 가로 쪽으로 고갤 돌렸다면, 그건 의심해 볼 만하지 않겠는가.
+  reading: ''
+  annot: ……1초의 오차도 없이 모두들 나와 가로 쪽으로 고갤 돌렸다면, 그건 의심해 볼 만하지 않겠는가.
+  translation_zh: ……如果所有人都一秒不差地朝我和加罗转过头来，那难道不值得怀疑吗？
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 补助动词
+- 评价
+- 尝试
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

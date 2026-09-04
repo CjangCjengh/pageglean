@@ -1,0 +1,33 @@
+id: ko-grm-00358
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: 「-(으)ㄹ 수밖에 없다」：只能、别无选择
+structure: 冠形词尾 -(으)ㄹ + 依存名词 수 + 补助词 밖에 + 없다
+structure_pattern: V-(으)ㄹ + 수 + 밖에 + 없다
+explanation_zh: 依存名词 수 表办法、可能，补助词 밖에 与否定词 없다 搭配，构成「只能…」「不得不…」的无奈选择结构。与 -(으)ㄹ 수 있다（能）同根，但밖에
+  限定唯一选项。片段中说话人以此表明无可奈何地接受合作。
+examples:
+- text: 오라버니가 죽었으니 당신과 협력하는 수밖에 없으니까요.
+  reading: ''
+  annot: 오라버니가 죽었으니 당신과 협력하는 수밖에 없으니까요.
+  translation_zh: 既然兄长已死，我也只能与您合作了。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 语气
+- 依存名词
+- 无奈
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

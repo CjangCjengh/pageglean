@@ -1,0 +1,31 @@
+id: ja-grm-00063
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 〜という＋名词：所谓……
+structure: 小句 + という + 名词
+structure_pattern: 文節 + という + N
+explanation_zh: 「〜という」用一句话说明或限定后面的名词，相当于"……的~""所谓……"。如「彼女を拾うという選択」即"捡回她这一选择"。口语中常说「って」；「というのが」还能引出对前情的说明。
+examples:
+- text: ここでバッタリ、というのが世に言う『お約束』だが
+  reading: ここでバッタリ、というのがよにいうおやくそくだが
+  annot: ここでバッタリ、というのが世に言う『お約束』だが
+  translation_zh: 在这种场面撞个正着，正是世人口中的『定番展开』，不过……
+  source_book: book-ja-001
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 连体修饰
+- 接续
+provenance:
+  discovered_in: book-ja-001
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

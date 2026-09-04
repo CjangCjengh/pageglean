@@ -1,0 +1,32 @@
+id: vi-grm-00180
+language: vi
+type: grammar
+level: L2
+level_rank: 2
+title: chỉ…thôi：只…而已
+structure: chỉ + V … + thôi
+structure_pattern: chỉ + V + thôi
+explanation_zh: 副词 chỉ 表示范围限制（只），句末语气词 thôi 与之呼应，表示「仅此而已」。相当于汉语「只……罢了／而已」。口语中 thôi
+  也可单独用来缓和语气。
+examples:
+- text: Mẹ anh chỉ bảo em giúp đỡ anh thôi!
+  reading: ''
+  annot: Mẹ anh chỉ bảo em giúp đỡ anh thôi!
+  translation_zh: 你妈妈只是让我帮帮你而已！
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 范围
+- 虚词
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

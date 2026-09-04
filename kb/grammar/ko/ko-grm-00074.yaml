@@ -1,0 +1,32 @@
+id: ko-grm-00074
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: -기 때문이다：原因与根据
+structure: 명사형 전성어미 '-기' + 의존명사 '때문' + 서술격 조사 '이다'
+structure_pattern: V/A + -기 + 때문이다
+explanation_zh: 表示原因或根据，相当于「是因为……」。学校文法分析为名词形转换词尾'-기'＋依存名词'때문'＋叙述格助词'이다'。多用于说明、书面语境，常用在后句交代前句结果的理由。
+examples:
+- text: 그도 그럴 것이 그녀는 인간이 아니기 때문이다.
+  reading: ''
+  annot: 그도 그럴 것이 그녀는 인간이 아니기 때문이다.
+  translation_zh: 这也难怪，因为她并不是人类。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 原因
+- 依存名词
+- 连接表现
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

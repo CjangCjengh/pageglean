@@ -1,0 +1,40 @@
+id: ko-grm-00032
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: 敬语表达：-시-、-께 与谦让语
+structure: 主体尊敬先词尾 -시- + 敬语格助词 께 + 谦让动词 올리다/섬기다
+structure_pattern: 주체높임 선어말어미 '-시-' + 특수 조사 '께' + 겸양 동사 '올리다'
+explanation_zh: 片段中蕾娜对亚兹兰使用郑重的敬语体系：用主体尊敬先词尾 -시- 尊敬对方（기뻐하실、여겨 주셨으면），用 에게 的敬语形式인 특수
+  조사 께 表示对象，并以谦让动词 올리다 压低自己、抬高对方。这种敬语阶位是理解贵族身份与礼仪语境的关键。
+examples:
+- text: 아즐란 님께 바치기 위해, 오늘까지 계속 깨끗한 몸을 유지해 왔습니다.
+  reading: ''
+  annot: 아즐란 님께 바치기 위해, 오늘까지 계속 깨끗한 몸을 유지해 왔습니다.
+  translation_zh: 为了献给亚兹兰大人，我一直保持清白之身至今。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+- text: 다시 한 번 인사 올립니다.
+  reading: ''
+  annot: 다시 한 번 인사 올립니다.
+  translation_zh: 请容我再次向您行礼。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 敬语
+- 阶位
+- 助词
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 5
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

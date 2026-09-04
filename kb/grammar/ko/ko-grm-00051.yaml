@@ -1,0 +1,33 @@
+id: ko-grm-00051
+language: ko
+type: grammar
+level: TOPIK5
+level_rank: 5
+title: 「-(으)ㄹ 터이다」：想必会……
+structure: 用言词干 + -(으)ㄹ 터이다（缩约形 -ㄹ 테-）
+structure_pattern: V/A-(으)ㄹ 터이다 / -ㄹ 테고
+explanation_zh: 의존명사'터'表示“理所当然的事理”，-(으)ㄹ 터이다 表示有根据的推测，相当于“想必……、应该会……”。连接形 -ㄹ 터이고/-터이니
+  常用，口语多说缩约形 -ㄹ 테다/-ㄹ 텐데。
+examples:
+- text: 네가 원래 살던 곳으로 돌려보내 주고 싶지만 그곳은 이미 다른 사람 손에 넘어갔을 테고 말이야.
+  reading: ''
+  annot: 네가 원래 살던 곳으로 돌려보내 주고 싶지만 그곳은 이미 다른 사람 손에 넘어갔을 테고 말이야.
+  translation_zh: 虽然想把你送回你原本住的地方，但那里想必早已落入他人之手了。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 依存名词
+- 推测
+- 接续
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

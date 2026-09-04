@@ -1,0 +1,39 @@
+id: ko-grm-00617
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: 「-(으)ㄴ/는 모양이다：根据迹象的推测」
+structure: 冠形词形 + 依存名词 모양 + 叙述格助词 이다
+structure_pattern: V/A-(으)ㄴ/는 모양이다; N-인 모양이다
+explanation_zh: 依存名词모양与叙述格助词이다结合，表示根据某种迹象对情况作出推测，相当于汉语“看来／像是”。片段中既有体言后的“정원사인 모양이다”，也有动词冠形词形后的“판단한
+  모양이었다”。语气较委婉，是基于观察的推断。
+examples:
+- text: 나는 낯선 얼굴의 중년 남자 ―옷차림이나 쥐고 있는 가위를 봐서 정원사인 모양이다.― 의 패대기에 바닥에 쓰러지며 멍하니 생각했다.
+  reading: ''
+  annot: 나는 낯선 얼굴의 중년 남자 ―옷차림이나 쥐고 있는 가위를 봐서 정원사인 모양이다.― 의 패대기에 바닥에 쓰러지며 멍하니 생각했다.
+  translation_zh: 一个陌生面孔的中年男人——看穿着打扮和他手里攥着的剪刀，大概是个园丁——把我一把掼倒在地上，我茫然地想着。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+- text: 이 상황에서 도망치는 건, 자신의 결백을 증명하는 데 아무런 도움이 되지 않을 거라고 판단한 모양이었다.
+  reading: ''
+  annot: 이 상황에서 도망치는 건, 자신의 결백을 증명하는 데 아무런 도움이 되지 않을 거라고 판단한 모양이었다.
+  translation_zh: 看来他判断，在这种状况下逃跑，对证明自己的清白毫无帮助。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 推测
+- 依存名词
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

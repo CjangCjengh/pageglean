@@ -1,0 +1,38 @@
+id: vi-grm-00027
+language: vi
+type: grammar
+level: L2
+level_rank: 2
+title: hơn 比较句：A + 形容词 + hơn + B
+structure: A + Adj + hơn + B
+structure_pattern: Adj + hơn + NP/小句
+explanation_zh: 越南语比较句的语序是“主语 + 形容词 + hơn + 比较对象”，“hơn”置于形容词之后，相当于汉语“比”字句但不用前置词。比较对象可以是名词，也可以是小句，如“hơn
+  tôi tưởng”（比我想象得更……）。
+examples:
+- text: Áy náy vì thấy Việt An lo lắng về cái áo hơn tôi tưởng.
+  reading: ''
+  annot: Áy náy vì thấy Việt An lo lắng về cái áo hơn tôi tưởng.
+  translation_zh: 看到越安为那件衣服担心得比我想象的还厉害，我心里很过意不去。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+- text: Việt An tỏ ra cởi mở với tôi hơn thường lệ.
+  reading: ''
+  annot: Việt An tỏ ra cởi mở với tôi hơn thường lệ.
+  translation_zh: 越安对我表现得比平时更敞开心扉。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 比较
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

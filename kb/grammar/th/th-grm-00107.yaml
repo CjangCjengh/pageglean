@@ -1,0 +1,38 @@
+id: th-grm-00107
+language: th
+type: grammar
+level: L2
+level_rank: 2
+title: จนเกินไป：太……、过于……
+structure: คำวิเศษณ์ + จนเกินไป（程度副词）；常见否定式 ไม่…จนเกินไป
+structure_pattern: Adj + จนเกินไป
+explanation_zh: 「เกินไป」是程度副词，表示超过适当限度，相当于「太、过于」。与「ไม่」连用表示「不太……、恰到好处」。片段以「ไม่…จนเกินไป」多角度评价食物的火候。
+examples:
+- text: ซอส​รสชาติ​มัน ๆ ไม่​เลี่ยน​จน​เกินไป
+  reading: ''
+  annot: ซอส​รสชาติ​มัน ๆ ไม่​เลี่ยน​จน​เกินไป
+  translation_zh: 酱汁口感油润，却不会过于油腻。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+- text: ไม่​นิ่ม​เกินไป​และ​ไม่​แข็ง​จน​เกินไป
+  reading: ''
+  annot: ไม่​นิ่ม​เกินไป​และ​ไม่​แข็ง​จน​เกินไป
+  translation_zh: 既不太软，也不太硬。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 程度
+- 评价表达
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 4
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

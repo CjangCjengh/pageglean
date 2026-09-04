@@ -1,0 +1,31 @@
+id: ko-grm-00350
+language: ko
+type: grammar
+level: TOPIK5
+level_rank: 5
+title: 「-는 한편：同时进行·另一方面」
+structure: 动词 + -는 한편（依存名词 한편 + 冠形形词尾）
+structure_pattern: V-는 한편
+explanation_zh: '''한편''意为''一方面、另一面''，与''-는''搭配表示两个动作或状态同时进行，或从另一角度展开论述，相当于''一边……一边……／一方面……另一方面……''。比''-면서''更书面、正式，常见于叙述与议论文。'
+examples:
+- text: 앞으로 나는 세레나데를 내세우는 한편 계속 세력을 확대해야 한다.
+  reading: ''
+  annot: 앞으로 나는 세레나데를 내세우는 한편 계속 세력을 확대해야 한다.
+  translation_zh: 今后我要一边把塞蕾娜德推上台面，一边继续扩大势力。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 连接词尾
+- 并列
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

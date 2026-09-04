@@ -1,0 +1,39 @@
+id: vi-grm-00401
+language: vi
+type: grammar
+level: L2
+level_rank: 2
+title: 「lại」：动作的重复
+structure: lại + 动词
+structure_pattern: lại (phó từ lặp lại) + V
+explanation_zh: lại 是学校语法中的重复副词（phó từ chỉ sự lặp lại），置于动词前表示动作再次发生或反复出现，相当于中文“又/再”。片段中“lại
+  đi rồi”“lại cười”均表示动作的重复。注意 lại 另有“相反/却”的语气用法，此处为重复义。
+examples:
+- text: Mẹ em lại đi rồi.
+  reading: ''
+  annot: Mẹ em lại đi rồi.
+  translation_zh: 我妈妈又走了。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+- text: Tiểu Li lại cười
+  reading: ''
+  annot: Tiểu Li lại cười
+  translation_zh: 小丽又笑了。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 体貌
+- 副词
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

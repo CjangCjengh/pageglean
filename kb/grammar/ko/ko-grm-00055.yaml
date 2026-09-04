@@ -1,0 +1,32 @@
+id: ko-grm-00055
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: 「-도록 되어 있다」：被设计/设定为……
+structure: 动词词干 + -도록 되어 있다
+structure_pattern: V-도록 + 되어 있다
+explanation_zh: 부사형 전성어미 -도록 表示目的或结果样态；되어 있다（-어 있다 表状态持续）表示已成之状态，合起来意为“被设计/设定为会……”。多用于说明机械、建筑、制度等的功能设计，片段中描写第四层黏液区的机关。
+examples:
+- text: 침입자가 4층을 돌파하더라도 그 장비를 손상시켜 전투력을 저하시키도록 되어 있다.
+  reading: ''
+  annot: 침입자가 4층을 돌파하더라도 그 장비를 손상시켜 전투력을 저하시키도록 되어 있다.
+  translation_zh: 即使入侵者突破第四层，（此处机关）也会被设计成损坏其装备、削弱其战斗力。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 样态
+- 状态
+- 说明
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

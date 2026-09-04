@@ -1,0 +1,31 @@
+id: th-grm-00069
+language: th
+type: grammar
+level: L3
+level_rank: 3
+title: สมกับ(ที่)：名副其实、不愧是
+structure: สมกับ (คำบุพบท) + คำนาม / สมกับ + ที่ + ประโยค
+structure_pattern: สมกับ(ที่) + NP/VP
+explanation_zh: สมกับ 意为「相称、配得上」，后接名词或 ที่ 引导的从句，表示某人的行为与其身份、名声相符，相当于中文「不愧是～」。多带调侃或赞叹语气。片段连用两次「สมกับ…และสมกับที่…」，形成排比以加强语气。
+examples:
+- text: สม​กับ​เป็น​หนอนหนังสือ​และ​สม​กับ​ที่​อ้าง​ตัว​ว่า​เป็นแฟน​นิยาย​ของ​ผม
+  reading: ''
+  annot: สม​กับ​เป็น​หนอนหนังสือ​และ​สม​กับ​ที่​อ้าง​ตัว​ว่า​เป็นแฟน​นิยาย​ของ​ผม
+  translation_zh: 不愧是书虫，也自称是我的小说迷，真是名副其实。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 评价
+- 固定搭配
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

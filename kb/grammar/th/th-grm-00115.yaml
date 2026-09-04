@@ -1,0 +1,39 @@
+id: th-grm-00115
+language: th
+type: grammar
+level: L2
+level_rank: 2
+title: ให้：目的与结果补语
+structure: กริยาหลัก + ให้ + กริยาเสริม (จุดประสงค์/ผลลัพธ์)
+structure_pattern: V1 + ให้ + V2
+explanation_zh: 「ให้」接在动词后引出目的或结果，相当于“以便……”“使得……”或“……到（某种结果）”。学校语法中此处「ให้」起连接作用，把动作与其目的/结果分句相连。「มองหน้าผมให้ได้」意为“设法看到我的脸”，「ทิ้งให้ผมยืนงง」意为“撇下我让我愣在原地”。
+examples:
+- text: พยายาม​ยืดตัว​ขึ้น​เพื่อ​มอง​หน้า​ผม​ให้​ได้
+  reading: ''
+  annot: พยายาม​ยืดตัว​ขึ้น​เพื่อ​มอง​หน้า​ผม​ให้​ได้
+  translation_zh: （她）努力挺直身子，想要看清我的脸。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+- text: ทิ้ง​ให้​ผม​ยืน​งง​อยู่​ตรงนั้น​อยู่​พักหนึ่ง
+  reading: ''
+  annot: ทิ้ง​ให้​ผม​ยืน​งง​อยู่​ตรงนั้น​อยู่​พักหนึ่ง
+  translation_zh: 撇下我，让我愣在那里好一会儿。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 补语
+- 目的
+- 句法
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

@@ -1,0 +1,39 @@
+id: ko-grm-00018
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: -기 때문이다：是因为……
+structure: 用言词干 + -기 때문이다
+structure_pattern: V/A + -기 + 때문이다 (의존명사 때문)
+explanation_zh: 名词形转成词尾 -기 将谓词名词化，再与依存名词 때문이다 搭配，表示原因与根据，是书面语中说明理由的典型表达。片段中既有用于句中的
+  -기 때문에，也有用于句末结句的 -기 때문이다。相当于中文『是因为……』。
+examples:
+- text: 아즐란은 작중 인물 중에서 다섯 손가락 안에 드는 뛰어난 마법사이기 때문에 전투력이 높고,
+  reading: ''
+  annot: 아즐란은 작중 인물 중에서 다섯 손가락 안에 드는 뛰어난 마법사이기 때문에 전투력이 높고,
+  translation_zh: 阿兹兰是作品中数一数二的杰出魔法师，因此战斗力很高，
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+- text: 무엇보다 뛰어난 지략을 지니고 있어 어떤 위기라도 손쉽게 빠져나갔기 때문이다.
+  reading: ''
+  annot: 무엇보다 뛰어난 지략을 지니고 있어 어떤 위기라도 손쉽게 빠져나갔기 때문이다.
+  translation_zh: 更因为他有过人的智谋，任何危机都能轻松化解，正是因为这个缘故。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 연결어미
+- 인과
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

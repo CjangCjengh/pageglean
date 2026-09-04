@@ -1,0 +1,31 @@
+id: ja-grm-00484
+language: ja
+type: grammar
+level: N2
+level_rank: 4
+title: 「〜げ」：带有些许……的样子（样态）
+structure: イ形容词词干 ＋ げ（な／に）
+structure_pattern: イ形容詞語幹 + げ(な)
+explanation_zh: 接尾辞「げ」接在形容词词干等之后，构成形容动词性词语，表示「带着～的样子、看起来～」，属文语残留，语感偏文学化。「ヤバげな雰囲気」即「ヤバそうな雰囲気」。与样态助動詞「そうだ」近义，但更具书面气息。
+examples:
+- text: なんかヤバげな雰囲気だな。
+  reading: ''
+  annot: なんかヤバげな雰囲気[ふんいき]だな。
+  translation_zh: 总觉得气氛有点不妙啊。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 样态
+- 接尾辞
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

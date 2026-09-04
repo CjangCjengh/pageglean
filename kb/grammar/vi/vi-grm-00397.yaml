@@ -1,0 +1,31 @@
+id: vi-grm-00397
+language: vi
+type: grammar
+level: L2
+level_rank: 2
+title: Adj + hơn：比较句
+structure: 形容词 + 比较连接词 hơn + 比较对象（可带数量差补语）
+structure_pattern: S + Adj + hơn + NP (+ 数量补语)
+explanation_zh: 越南语比较句的基本结构是“形容词 + hơn + 比较对象”，hơn 相当于“比……更”。差距可用数量短语直接补出，如 lớn hơn
+  tôi vài ba tuổi（比我大两三岁），无需介词。
+examples:
+- text: Đứa chị lớn hơn tôi vài ba tuổi
+  reading: ''
+  annot: Đứa chị lớn hơn tôi vài ba tuổi
+  translation_zh: 姐姐比我大两三岁
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 比较
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

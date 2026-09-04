@@ -1,0 +1,30 @@
+id: ja-grm-00390
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 「〜ながら・〜つつ」：一边……一边……
+structure: 动词连用形 ＋ 接续助词「ながら」（文语同义形：「つつ」）
+structure_pattern: V-連用形 + ながら
+explanation_zh: “动词连用形＋接续助词ながら”表示同一主体同时进行两个动作，即“一边……一边……”，文中多次出现（吠えながら、言いながら）。文语色彩的「つつ」与之同义，文中「叫びつつ」即是。轻小说常二者混用以调节节奏。
+examples:
+- text: ぜえぜえ言いながら俺はノートを広げる。
+  reading: ''
+  annot: ぜえぜえ言[い]いながら俺[おれ]はノートを広[ひろ]げる。
+  translation_zh: 我一边呼哧呼哧地喘着气，一边摊开笔记本。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 接续
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 4
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

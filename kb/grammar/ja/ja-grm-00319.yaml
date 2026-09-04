@@ -1,0 +1,31 @@
+id: ja-grm-00319
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 〜ちまう：「〜てしまう」的粗豪口语缩约
+structure: 動詞連用形（音便形）＋ちまう（＝てしまうの縮約）
+structure_pattern: V-連用形 + ちまう
+explanation_zh: 「〜てしまう」在男性化粗豪口语中音便缩约为「〜ちまう」（「〜でしまう」则缩约成「〜じまう」）。表示事情已然发生、无法挽回，常带懊恼或豁出去的口吻。轻小说中多见于情绪激动的角色，属典型口语表现。
+examples:
+- text: 釣られて惚れ返しちまったじゃねぇか責任取りやがれ!!
+  reading: ''
+  annot: 釣[つ]られて惚[ほ]れ返[かえ]しちまったじゃねぇか責任[せきにん]取[と]りやがれ!!
+  translation_zh: 都被你钓得反过来动了心，还不都怪你吗！给我负责啊!!
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 体貌
+- 口语
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

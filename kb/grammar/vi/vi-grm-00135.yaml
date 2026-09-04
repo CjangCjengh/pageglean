@@ -1,0 +1,39 @@
+id: vi-grm-00135
+language: vi
+type: grammar
+level: L2
+level_rank: 2
+title: bị + V：不如意被动
+structure: bị + V（被动虚词，表遭受不利）
+structure_pattern: bị + V
+explanation_zh: 「bị」是被动句的核心虚词（hư từ bị động），加在动词前构成被动式，强调主语遭受不利或不情愿的事情，相当于中文「被……」。与表示获益的「được」相对，如「bị
+  mắc lừa」即「被骗、上当」。
+examples:
+- text: Bấy giờ, Tiểu Li mới biết là mình bị mắc lừa.
+  reading: ''
+  annot: Bấy giờ, Tiểu Li mới biết là mình bị mắc lừa.
+  translation_zh: 这时，小丽才知道自己上当了。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+- text: không bị té chảy máu, không bị ốm liệt giường, không những giọt nước mắt...
+  reading: ''
+  annot: không bị té chảy máu, không bị ốm liệt giường, không những giọt nước mắt...
+  translation_zh: 不摔得流血，不病倒卧床，不掉一滴眼泪……
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 语态
+- 被动
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

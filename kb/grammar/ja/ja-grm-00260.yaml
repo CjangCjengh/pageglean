@@ -1,0 +1,31 @@
+id: ja-grm-00260
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 〜ている→〜てる：口语中的状态缩约
+structure: 動詞連用形＋接続助詞「て」＋動詞「いる」→ 口語縮約「〜てる」
+structure_pattern: V-連用形 + て + いる → V-てる
+explanation_zh: 「ている」表示动作结果的持续或状态，学校文法分析为动词连用形＋接续助词「て」＋动词「いる」。口语中「いる」的「い」常脱落为「〜てる」（懐いている→懐いてる、受けている→受けてる），轻小说对话中极常见。中文母语者可对应“已经…了／…着”的结果体来理解。
+examples:
+- text: 悪い待遇は受けてないだろうし。
+  reading: ''
+  annot: 悪[わる]い待遇[たいぐう]は受[う]けてないだろうし。
+  translation_zh: （她）应该也没有受到什么不好的待遇吧。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 体貌
+- 口語
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 5
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

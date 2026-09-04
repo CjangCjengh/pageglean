@@ -1,0 +1,40 @@
+id: ko-grm-00204
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: 「-아/어 버리다：……掉了（彻底完成）」
+structure: 动词词干 + -아/어 버리다（버리다 作보조동사）
+structure_pattern: V-아/어 + 버리다 (보조동사)
+explanation_zh: -아/어 버리다 中 버리다 作补助动词（보조동사），表示前一动作彻底完成，常带摆脱、遗憾或痛快的语气，相当于中文「……掉了」「……光了」。文中「그
+  생각을 지워 버렸다」即「把那个念头从脑海里抹掉了」，强调彻底清除、不再留存。
+examples:
+- text: 하지만 나는 곧바로 머릿속에서 그 생각을 지워 버렸다.
+  reading: ''
+  annot: 하지만 나는 곧바로 머릿속에서 그 생각을 지워 버렸다.
+  translation_zh: 但我立刻把那个念头从脑海中抹掉了。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+- text: 기다리기 지루해서, 네 여자들 전부 죽여 버렸잖아.
+  reading: ''
+  annot: 기다리기 지루해서, 네 여자들 전부 죽여 버렸잖아.
+  translation_zh: 因为等得无聊，就把你的女人们全都给杀掉了啊。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 补助动词
+- 完成
+- 语气
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

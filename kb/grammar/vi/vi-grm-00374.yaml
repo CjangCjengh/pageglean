@@ -1,0 +1,32 @@
+id: vi-grm-00374
+language: vi
+type: grammar
+level: L3
+level_rank: 3
+title: （chỉ có）…mới…：唯一条件下“才”
+structure: （chỉ có）+ 条件 + mới + 结果
+structure_pattern: chỉ có X + mới + V
+explanation_zh: mới 表示结果只有在某一条件下才实现，相当于汉语“才”，常与 chỉ có 呼应。句中“chỉ có muối mặt mới dám
+  gặp nó”意为只有豁出脸皮才敢见对方。
+examples:
+- text: Sau một "tai họa" như thế, chỉ có muối mặt mới dám gặp nó.
+  reading: ''
+  annot: Sau một "tai họa" như thế, chỉ có muối mặt mới dám gặp nó.
+  translation_zh: 经过这么一场“浩劫”，只有厚着脸皮才敢再见她。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 副词
+- 条件
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

@@ -1,0 +1,31 @@
+id: vi-grm-00059
+language: vi
+type: grammar
+level: L3
+level_rank: 3
+title: 不如意被动：bị + V
+structure: 主语 + bị + V（不利遭遇）
+structure_pattern: bị + V（câu bị động，被动句）
+explanation_zh: 「bị + 动词」构成表不如意的被动，主语遭受不利之事；表有利遭遇则用「được + V」。「ăn đòn」为口语「挨打」。本句还套用反问框架「Bộ…hả」加强责备语气。
+examples:
+- text: Bộ mày muốn tao bị ăn đòn hả?
+  reading: ''
+  annot: Bộ mày muốn tao bị ăn đòn hả?
+  translation_zh: 你想让我挨打吗？
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 被动
+- 虚词bị
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

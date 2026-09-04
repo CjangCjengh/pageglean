@@ -1,0 +1,40 @@
+id: ko-grm-00546
+language: ko
+type: grammar
+level: TOPIK2
+level_rank: 2
+title: 感叹形终结词尾：-는구나/-군（感叹法）
+structure: 감탄형 종결어미 '-는구나 / -군(요), -구나'（서법 중 감탄법）
+structure_pattern: V-는구나 / A-구나; V-는군 / A-군
+explanation_zh: 感叹形终结词尾表示新发现、惊讶或感慨，属学校语法“感叹法”的范畴。动词接 -는구나/-는군，形容词接 -구나/-군，其中 -군(요)
+  语气更接近轻声自语。文中商贩惊叹“나타났구나!”与主角心想“훈훈하군”，分别体现强烈的惊叹与淡淡的自语。
+examples:
+- text: 올해도 어김없이 나타났구나!
+  reading: ''
+  annot: 올해도 어김없이 나타났구나!
+  translation_zh: 今年也如期出现了啊！
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+- text: 동지가 있어서 마음이 좀 훈훈하군.
+  reading: ''
+  annot: 동지가 있어서 마음이 좀 훈훈하군.
+  translation_zh: 有同志在，心里还挺暖的。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 语气
+- 终结词尾
+- 感叹
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 4
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

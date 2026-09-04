@@ -1,0 +1,38 @@
+id: ko-grm-00380
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: 「-며/-면서」：同时进行
+structure: 动词 + 대등적 연결어미 -며（-면서 的书面缩略形）
+structure_pattern: V-며 / V-면서
+explanation_zh: -며与-면서是表示两个动作同时进行的连接词尾，学校语法中归为并列（대등적）连接词尾，-며语体更偏书面。小说叙述常用它描写伴随场景，如片段中"一边交谈一边举杯"。
+examples:
+- text: 그렇게 대화를 나누며, 두 사람은 느긋한 기분으로 술잔을 기울였다.
+  reading: ''
+  annot: 그렇게 대화를 나누며, 두 사람은 느긋한 기분으로 술잔을 기울였다.
+  translation_zh: 两人这样交谈着，怀着悠闲的心情举杯饮酒。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+- text: 김서진은 채시연이 집에 있기를 바라며 계단을 올라갔다.
+  reading: ''
+  annot: 김서진은 채시연이 집에 있기를 바라며 계단을 올라갔다.
+  translation_zh: 金瑞珍盼着蔡诗妍在家，走上了楼梯。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 接续
+- 并列
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

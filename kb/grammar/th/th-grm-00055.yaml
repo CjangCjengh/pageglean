@@ -1,0 +1,32 @@
+id: th-grm-00055
+language: th
+type: grammar
+level: L3
+level_rank: 3
+title: ฝาก + V + หน่อยได้ไหม：拜托……可以吗
+structure: ฝาก + V +（宾语）+ หน่อย + ได้ไหม
+structure_pattern: ฝาก + V + NP + หน่อย + ได้ไหม
+explanation_zh: ฝาก本义是「托付、寄存」，后接动词表示「拜托对方做某事」。句末的หน่อย使语气柔和，ได้ไหม构成「可以吗」的委婉询问，整句是非常地道的托人句式。片段中是母亲郑重拜托对方照顾自己的女儿。
+examples:
+- text: ฝาก​ดูแลญาดา​ลูกสาว​ฉัน​หน่อย​ได้​ไหม
+  reading: ''
+  annot: ฝาก​ดูแลญาดา​ลูกสาว​ฉัน​หน่อย​ได้​ไหม
+  translation_zh: 可以拜托你照顾一下我的女儿ญาดา（雅达）吗？
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 请求
+- 疑问
+- 语气软化
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

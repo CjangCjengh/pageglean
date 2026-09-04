@@ -1,0 +1,33 @@
+id: ko-grm-00491
+language: ko
+type: grammar
+level: TOPIK2
+level_rank: 2
+title: -거든(요)：说明原因的终结词尾
+structure: 用言词干 + -(으)ㄴ/는 + 依存名词 것(口语 거) + 서술격 조사 이- + 终结词尾 -거든
+structure_pattern: V/A + -(으)ㄴ/는 것이거든 (口语缩略：-ㄴ/는 거거든)
+explanation_zh: -거든是口语中交代原因、根据的终结词尾，相当于“因为……呀”，常带说明或辩解的语气。句中“처음 와 본 거거든”即“것+이+거든”的组合，直译为“因为是第一次来呀”。比
+  -아/어서 更口语化，多用于对话。
+examples:
+- text: 나 헬로이스엔 처음 와 본 거거든!
+  reading: ''
+  annot: 나 헬로이스엔 처음 와 본 거거든!
+  translation_zh: 我可是第一次来海洛伊斯呢！（所以才这么兴奋呀）
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 终结词尾
+- 原因
+- 口语
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 4
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

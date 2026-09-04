@@ -1,0 +1,31 @@
+id: ja-grm-00179
+language: ja
+type: grammar
+level: N3
+level_rank: 3
+title: 〜ばかりか：不仅～
+structure: 用言连体形（或体言）＋ ばかりか
+structure_pattern: V-連体形 / N + ばかりか
+explanation_zh: 「ばかりか」接在用言连体形或体言之后，表示“不仅……”，后项常有「も」「まで」等呼应，构成递进关系。片段中“不仅顺利缔结了停战协定，不同立场的人还要同住一个屋檐下”，语意层层推进。
+examples:
+- text: 無事に休戦協定も結べたばかりか、異なる立場の者が一つ屋根の下で暮らす事になったのだ。
+  reading: ''
+  annot: 無事[ぶじ]に休戦協定[きゅうせんきょうてい]も結[むす]べたばかりか、異[こと]なる立場[たちば]の者[もの]が一[ひと]つ屋根[やね]の下[した]で暮[く]らす事[こと]になったのだ。
+  translation_zh: 不仅顺利缔结了停战协定，而且不同立场的人还要同住一个屋檐下了。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 接续
+- 递进
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

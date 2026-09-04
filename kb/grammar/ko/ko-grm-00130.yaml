@@ -1,0 +1,33 @@
+id: ko-grm-00130
+language: ko
+type: grammar
+level: TOPIK5
+level_rank: 5
+title: -(으)ㄴ다면：与事实相反的假设
+structure: 动词词干 + -(으)ㄴ다면 … -았/었을 것이다
+structure_pattern: 동사 어간 + 연결어미 -(으)ㄴ다면 + -았/었을 것이다
+explanation_zh: 「-(으)ㄴ다면」表示假设，常与'-았/었을 것이다'呼应，构成与事实相反的假设句，相当于『如果……就会……』。'왔다면 … 사망했을
+  것이다'暗示事实并非如此，是书面叙述中常见的反事实推理句式。
+examples:
+- text: 베크류 지하 묘지에 들르지 않고 이곳에 왔다면 나는 클라우의 공격을 받고 바로 사망했을 것이다.
+  reading: ''
+  annot: 베크류 지하 묘지에 들르지 않고 이곳에 왔다면 나는 클라우의 공격을 받고 바로 사망했을 것이다.
+  translation_zh: 如果我没有去贝克留地下墓地而直接来到这里，恐怕早就遭到克劳的攻击当场毙命了。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 假设
+- 连接
+- 反事实
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

@@ -1,0 +1,40 @@
+id: ko-grm-00025
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: -기 때문이다：陈述原因
+structure: 谓词词干 + -기 때문이다（名词形转成词尾 -기 + 依存名词 때문）
+structure_pattern: V/A-기 + 때문이다
+explanation_zh: 名词形转成词尾 -기 把前面的小句名词化，再接 때문이다 陈述原因、理由，相当于“是因为……”。比 -아/어서 更书面、正式，常用于说明或辩解。片段中反复用来交代主人公的判断与情节因果，还可构成“…
+  때문이 아니라 … 때문이다”的对照句式。
+examples:
+- text: 그녀의 옷차림에 흥분했기 때문이 아니라, 순전히 그녀의 미모에 넋을 잃었기 때문이다.
+  reading: ''
+  annot: 그녀의 옷차림에 흥분했기 때문이 아니라, 순전히 그녀의 미모에 넋을 잃었기 때문이다.
+  translation_zh: 并不是因为对她的衣着感到兴奋，而纯粹是因为被她的美貌夺去了心神。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+- text: 아즐란이 레이나의 가문을 무너뜨리고 그녀를 강제로 약혼자로 삼았기 때문이다.
+  reading: ''
+  annot: 아즐란이 레이나의 가문을 무너뜨리고 그녀를 강제로 약혼자로 삼았기 때문이다.
+  translation_zh: 是因为亚兹兰毁掉了蕾娜的家族，并强行将她立为自己的未婚妻。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 原因/理由
+- 依存名词
+- 名词形词尾
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

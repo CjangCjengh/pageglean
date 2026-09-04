@@ -1,0 +1,32 @@
+id: ko-grm-00468
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: 「-아/어야 하나 말아야 하나：该……还是不该……」
+structure: 动词词干 + -아/어야 하나 + 말아야 하나
+structure_pattern: V-아/어야 하나 말아야 하나
+explanation_zh: 将‘-아/어야 하다’（必须……）的疑问形式‘-아/어야 하나’重复使用，再以‘말다’取反，构成“该做……还是不该做……”的内心抉择。常与‘망설이다、고민하다’等心理动词搭配。也可省略为‘-아/어야
+  하나’。
+examples:
+- text: 나는 내 정체를 솔직하게 밝혀야 하나 말아야 하나 잠시 망설였다.
+  reading: ''
+  annot: 나는 내 정체를 솔직하게 밝혀야 하나 말아야 하나 잠시 망설였다.
+  translation_zh: 我一时犹豫起来：到底该不该如实说出自己的真实身份。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 选择疑问
+- 心理描写
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

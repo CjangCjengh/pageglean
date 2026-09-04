@@ -1,0 +1,31 @@
+id: vi-grm-00241
+language: vi
+type: grammar
+level: L3
+level_rank: 3
+title: chẳng lẽ：难道（反问语气）
+structure: tình thái từ（语气副词）chẳng lẽ + 主语 + 动词，构成反问句
+structure_pattern: chẳng lẽ + S + V + ?
+explanation_zh: chẳng lẽ 是置于句首的语气副词，构成反问，表示说话人难以置信或不愿相信某事，相当于汉语的“难道”。句中常含惊讶、质疑或反驳的语气。后接完整小句，句末用问号。
+examples:
+- text: Chẳng lẽ mày xúi tao dọn nhà đi nơi khác?
+  reading: ''
+  annot: Chẳng lẽ mày xúi tao dọn nhà đi nơi khác?
+  translation_zh: 难道你是要怂恿我搬家去别处？
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 语气
+- 反问
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

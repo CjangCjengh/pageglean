@@ -1,0 +1,38 @@
+id: ja-grm-00459
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 〜ばかり・ばっかり：净是、光是
+structure: 体言・動詞連用形＋て ＋ ばかり（口语：ばっかり）
+structure_pattern: 体言 / V-連用形+て + ばかり(ばっかり)
+explanation_zh: 副助詞「ばかり」表示“净是、光是”，口语中常强化为「ばっかり」。可接体言（「いたずらばっかり」＝净搞恶作剧），也可接动词连用形＋接続助詞「て」（「困らせてばかり」＝老是让人为难）。文中主角连珠炮似地抱怨对方“劣迹”，口语色彩浓厚。
+examples:
+- text: いつもいつも俺を困らせてばかりで、うんざりすることもしょっちゅうだ。
+  reading: ''
+  annot: いつもいつも俺[おれ]を困[こま]らせてばかりで、うんざりすることもしょっちゅうだ。
+  translation_zh: 总是总是让我为难，让我厌烦的事也是家常便饭。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+- text: いたずらばっかりするバカな奴なんだ。
+  reading: ''
+  annot: いたずらばっかりするバカな奴[やつ]なんだ。
+  translation_zh: 是个净搞恶作剧的笨蛋家伙。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 副助词
+- 口语
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 4
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

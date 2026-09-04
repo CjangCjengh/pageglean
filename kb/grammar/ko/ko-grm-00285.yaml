@@ -1,0 +1,39 @@
+id: ko-grm-00285
+language: ko
+type: grammar
+level: TOPIK1
+level_rank: 1
+title: 「-(으)ㄹ 수 없다」：依存名词 수 表不可能
+structure: 用言词干 + 冠形词形转成词尾 -(으)ㄹ + 依存名词 수 + 없다
+structure_pattern: V/A-(으)ㄹ + 수 + 없다
+explanation_zh: 冠形词形转成词尾 -(으)ㄹ 修饰依存名词 수（『…的可能/办法』），再接 없다 构成『不能…』。肯定式为 -(으)ㄹ 수 있다。本片段中反复出现，是表达客观条件限制的核心结构。
+examples:
+- text: 이 자리에서 본격적인 치료를 할 수는 없다.
+  reading: ''
+  annot: 이 자리에서 본격적인 치료를 할 수는 없다.
+  translation_zh: 在这里是无法进行正式治疗的。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+- text: 마법사인 마이시아의 힘으로는 클라우를 뿌리칠 수 없었다.
+  reading: ''
+  annot: 마법사인 마이시아의 힘으로는 클라우를 뿌리칠 수 없었다.
+  translation_zh: 凭身为魔法师的米希亚的力量，无法甩开克劳。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 可能/不可能
+- 依存名词
+- 转成词尾
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 6
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

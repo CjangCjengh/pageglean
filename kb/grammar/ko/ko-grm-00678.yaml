@@ -1,0 +1,32 @@
+id: ko-grm-00678
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: 「-아/어 버리다」：彻底完成与遗憾语气
+structure: 用言 + 补助连接词尾 '-아/어' + 补助动词 '버리다'（补助用言结构）
+structure_pattern: V/A-아/어 버리다
+explanation_zh: 「-아/어 버리다」由补助连接词尾「-아/어」接补助动词「버리다」构成，表示动作彻底完成，或出现令人遗憾、懊悔的结果。相当于中文的“……（彻底）……掉了”。片段中以冠形词形「쉬어
+  버린」修饰“嗓音”，带出无奈感。
+examples:
+- text: 악을 지르느라 쉬어 버린 목소리
+  reading: ''
+  annot: 악을 지르느라 쉬어 버린 목소리
+  translation_zh: 因为拼命嘶喊而彻底哑掉的嗓音
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 补助动词
+- 体貌
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

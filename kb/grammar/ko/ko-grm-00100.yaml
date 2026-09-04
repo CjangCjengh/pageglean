@@ -1,0 +1,39 @@
+id: ko-grm-00100
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: 「-(으)며 / -면서：同时进行的两个动作」
+structure: 谓词词干 + 对等连接词尾 -(으)며 / -면서
+structure_pattern: V-(으)며 / V-면서
+explanation_zh: -(으)며 与 -면서 都是表示两个动作同时进行的连接词尾，属学校语法中的对等连接词尾，前后主语一般须一致。-(으)며 多用于叙述性文体，-면서
+  更口语化。片段中「빛내며 바라보다」与「부르면서 둘러보기 시작했다」均描写同时发生的两个动作。
+examples:
+- text: 비어 있는 눈구멍을 빛내며 가만히 나를 바라보던 그는, 잠시 후 천천히 말했다.
+  reading: ''
+  annot: 비어 있는 눈구멍을 빛내며 가만히 나를 바라보던 그는, 잠시 후 천천히 말했다.
+  translation_zh: 他空洞的眼眶闪着光，静静地注视着我，过了一会儿才缓缓开口。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+- text: 틸프는 지금까지 들고 있던 검을 바닥에 내팽개치고 콧노래를 부르면서 주위를 둘러보기 시작했다.
+  reading: ''
+  annot: 틸프는 지금까지 들고 있던 검을 바닥에 내팽개치고 콧노래를 부르면서 주위를 둘러보기 시작했다.
+  translation_zh: 蒂尔芙把手里一直拿着的剑扔到地上，哼着小曲开始四处张望。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 接续
+- 同时动作
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

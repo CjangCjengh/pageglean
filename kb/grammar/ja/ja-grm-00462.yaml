@@ -1,0 +1,39 @@
+id: ja-grm-00462
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 「〜ということにしておこう」：就当作…吧（ことにする＋ておく）
+structure: 用言连体形 + ということ + に + しておく（意志形：おこう）
+structure_pattern: V-連体形 + ということ + に + して + おく
+explanation_zh: 「ことにする」表示主观决定把情况认定为某种状态；叠加补助动词「ておく」（预先处置）再变为意志形「おこう」，就成了自我说服的口吻「就当作…吧」。「って」是口语助词「と」的引用形式。句中以「这个程度就算了」表现无奈的妥协；「ことにした」也可单独表示做出决定。
+examples:
+- text: ……この程度で済んだってことにしておこう
+  reading: ''
+  annot: ……この程度[ていど]で済[す]んだってことにしておこう
+  translation_zh: ……就当作只损失了这点程度，算了吧。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+- text: 早速実験を行うことにした
+  reading: ''
+  annot: 早速[さっそく]実験[じっけん]を行[おこな]うことにした
+  translation_zh: （我）当即决定动手做实验。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 决定
+- 复合动词
+- 准备
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

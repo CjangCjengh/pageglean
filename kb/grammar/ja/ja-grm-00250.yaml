@@ -1,0 +1,39 @@
+id: ja-grm-00250
+language: ja
+type: grammar
+level: N3
+level_rank: 3
+title: 〜っぽい：感觉像是……
+structure: 名詞・形容詞語幹＋っぽい（接尾語）
+structure_pattern: N/Adj語幹 + っぽい
+explanation_zh: 接尾辞「っぽい」接名词或形容词語幹后，表示说话人主观上觉得「有……的感觉、像是……」，语感随意口语化，不同于客观推测的「〜らしい／〜ようだ」。片段中另有近似的样态接尾辞「〜げ」（ヤバげな，一副危险的样子），二者都带有轻小说口语色彩。
+examples:
+- text: ヤバげな状態っぽいのにツッコミ忘れないとか流石だな、愚息よ
+  reading: ''
+  annot: ヤバげな状態[じょうたい]っぽいのにツッコミ忘[わす]れないとか流石[さすが]だな、愚息[ぐそく]よ
+  translation_zh: 明明像是很危险的状态，居然还没忘了吐槽，真行啊，傻儿子。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+- text: さっきまで決闘っぽいことやってきた
+  reading: ''
+  annot: さっきまで決闘[けっとう]っぽいことやってきた
+  translation_zh: 直到刚才我还在做类似决斗的事。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 接尾词
+- 口语
+- 样态
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

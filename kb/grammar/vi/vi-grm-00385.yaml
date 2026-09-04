@@ -1,0 +1,31 @@
+id: vi-grm-00385
+language: vi
+type: grammar
+level: L4
+level_rank: 4
+title: 「chẳng lẽ」：难道……？
+structure: 情态副词 chẳng lẽ + 分句（反问句）
+structure_pattern: phó từ 'chẳng lẽ' + mệnh đề — câu hỏi tu từ
+explanation_zh: 「chẳng lẽ」以反问形式表示揣测，相当于汉语「难道……不成」，暗示说话人担心这个猜测是真的。用于独白或对话中表达难以置信的推测。
+examples:
+- text: Chẳng lẽ nó tới chửi "bổ sung" cái chuyện đưa thư bữa trước?
+  reading: ''
+  annot: Chẳng lẽ nó tới chửi "bổ sung" cái chuyện đưa thư bữa trước?
+  translation_zh: 难道她是来把上次送信那件事再「补骂」一顿？
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 反问
+- 语气
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

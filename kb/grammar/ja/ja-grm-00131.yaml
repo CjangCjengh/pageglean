@@ -1,0 +1,32 @@
+id: ja-grm-00131
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 〜のだ／〜んだ：解释语气（口语）
+structure: 用言连体形＋形式名词「の」＋判断助动词「だ」（口语中「の」音变为「ん」）
+structure_pattern: 用言-連体形 + のだ / んだ
+explanation_zh: 用言连体形后接形式名词「の」再加助动词「だ」，口语中「の」变为「ん」。用于说明原因、情况或向对方求证，是轻小说对话中极高频的解释语气。片段中「つもりなんだろ？」「気持ちいいんじゃないかな」等都带有这种语气。
+examples:
+- text: ネットやらゲームやらのせいで感覚麻痺してるんだろうけど……
+  reading: ''
+  annot: ネットやらゲームやらのせいで感覚[かんかく]麻痺[まひ]してるんだろうけど……
+  translation_zh: 和希你啊……大概是因为网络和游戏而搞得感觉都麻痹了吧……
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 句末语气
+- 口语
+- 说明
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 5
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

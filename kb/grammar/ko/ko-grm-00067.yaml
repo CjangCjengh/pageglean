@@ -1,0 +1,39 @@
+id: ko-grm-00067
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: 「-면서/-며：两个动作同时进行」
+structure: 动词词干 + 连接词尾 -면서（书面缩略形 -며）
+structure_pattern: V-면서 / V-며
+explanation_zh: 连接词尾「-면서」表示同一主体的两个动作同时进行，相当于“一边……一边……”。“-며”是其缩略形，多见于书面语。片段中既有描写主体动作的「되새기면서」，也有描写伴随场景的「문이
+  열리며」。注意与表示转折的「-는데」区分。
+examples:
+- text: 나는 내가 기억하고 있는 프린세스 컨퀘스트의 설정과 스토리를 되새기면서, 앞으로 어떻게 행동해야 할지를 머릿속으로 정리했다.
+  reading: ''
+  annot: 나는 내가 기억하고 있는 프린세스 컨퀘스트의 설정과 스토리를 되새기면서, 앞으로 어떻게 행동해야 할지를 머릿속으로 정리했다.
+  translation_zh: 我一边回味着自己所记得的《公主征服》的设定与剧情，一边在脑海中整理今后该如何行动。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+- text: 지도를 대충 정리하며 기다리고 있자, 문이 열리며 사람들이 들어왔다.
+  reading: ''
+  annot: 지도를 대충 정리하며 기다리고 있자, 문이 열리며 사람들이 들어왔다.
+  translation_zh: 我大致收拾着地图等待，门开了，人们走了进来。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 连接词尾
+- 同时动作
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 4
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

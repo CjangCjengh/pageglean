@@ -1,0 +1,38 @@
+id: ja-grm-00529
+language: ja
+type: grammar
+level: N3
+level_rank: 3
+title: 「〜しか〜ない」：唯一、只有
+structure: 体言・用言連体形 + 係助詞「しか」 + 否定表現
+structure_pattern: N／V連体形 + しか + ない
+explanation_zh: 系助词「しか」提示限定，要求谓语用否定形式，意为“只有……”“除了……都不……”。片段或以它写别无选择（泣くしかなくなった），或以它写程度之低（強がりしかできない）。注意不可与肯定谓语搭配。
+examples:
+- text: あいつは泣くしかなくなったんだ。
+  reading: ''
+  annot: あいつは泣[な]くしかなくなったんだ。
+  translation_zh: 那家伙已经除了哭什么都做不了了。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+- text: 不器用な強がりしかできなくて。
+  reading: ''
+  annot: 不器用[ぶきよう]な強[つよ]がりしかできなくて。
+  translation_zh: 只能笨拙地逞强。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 助词
+- 语气
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

@@ -1,0 +1,31 @@
+id: ja-grm-00170
+language: ja
+type: grammar
+level: N3
+level_rank: 3
+title: 「〜させていただく」：使役＋授受的谦让表达（请求允许做某事）
+structure: 動詞未然形 ＋ 助動詞「せる・させる」（連用形）＋ て ＋ いただく
+structure_pattern: V-未然形 + せる/させる(連用形) + て + いただく
+explanation_zh: 学校文法上由使役助動詞「せる／させる」的連用形接て，再加补助动词「いただく」（「貰う」的谦让语）构成，表示领受对方允许而做某事，语气恭敬。句中「見させていただこうかと」以「〜ようと思う」的省略形结尾，用引助词「と」收束，使提议显得委婉。现代口语使用频率极高，但过度使用会被视为赘语。
+examples:
+- text: 少しの間、様子を見させていただこうかと
+  reading: ''
+  annot: 少しの間、様子を見させていただこうかと
+  translation_zh: 我想（承蒙允许的话）先观察一段时间的情况。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 敬语
+- 使役
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

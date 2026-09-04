@@ -1,0 +1,32 @@
+id: ko-grm-00470
+language: ko
+type: grammar
+level: TOPIK6
+level_rank: 6
+title: 「-기 이를 데 없다：……得无以复加」
+structure: 形容词词干 + 名词形转成词尾 -기 + 이를 데 없다
+structure_pattern: A-기 이를 데 없다
+explanation_zh: 形容词词干后接名词形转成词尾‘-기’，再加惯用型‘이르다(到达)的冠形词形＋依存名词 데＋없다’，字面为“没有可达之处”，表示程度达到极点，“……得无以复加、……极了”。书面色彩较浓。片段以‘난감하기
+  이를 데가 없다’写为难到极点。
+examples:
+- text: 이것 참, 난감하기 이를 데가 없다.
+  reading: ''
+  annot: 이것 참, 난감하기 이를 데가 없다.
+  translation_zh: 这可真是让人为难到了极点。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 程度
+- 惯用型
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

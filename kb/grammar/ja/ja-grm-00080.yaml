@@ -1,0 +1,31 @@
+id: ja-grm-00080
+language: ja
+type: grammar
+level: N3
+level_rank: 3
+title: 「〜ようとした時だった」：正要做某事之际
+structure: 动词未然形 + 意志助動詞「う/よう」＋とする（〜ようとした時だった：正要……的瞬间）
+structure_pattern: V-未然形 + 助動詞「う/よう」 + とした時だった
+explanation_zh: 「う/よう」是表示意志的助動詞，接在动词未然形后（一段动词用「よう」），「〜ようとする」表示正要着手做某事。「〜ようとした時だった」是小说中常见的叙事句式，意为“正要做……就在这时”，用于在动作即将发生之际突然插入转折。
+examples:
+- text: そう気楽に考え、買い物に出かけようと――した時だった。
+  reading: ''
+  annot: そう気楽に考え、買い物に出かけようと――した時だった。
+  translation_zh: 我正这么轻松地想着、准备出门购物——就在那一刻。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 时体
+- 语气
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

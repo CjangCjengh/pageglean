@@ -1,0 +1,31 @@
+id: ja-grm-00522
+language: ja
+type: grammar
+level: N3
+level_rank: 3
+title: 尊敬语动词〜なさる・〜くださる（敬语）
+structure: 动词连用形 + 尊敬语特殊动词なさる／くださる
+structure_pattern: V-连用形 + くださる／なさる
+explanation_zh: 学校文法中尊敬语可由特殊尊敬动词构成：动词连用形后接なさる或くださる，其命令形分别是なさい、ください。片段里「怯えなさっている」是尊敬与ている叠加，描写夫人的状态；「教えてくださる？」用くださる以疑问形式委婉提出请求。
+examples:
+- text: ね、お名前教えてくださる？
+  reading: ''
+  annot: ね、お名前[なまえ]教[おし]えてくださる？
+  translation_zh: 呐，能告诉我你的名字吗？
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 敬语
+- 语气
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

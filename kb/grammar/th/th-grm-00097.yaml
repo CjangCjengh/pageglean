@@ -1,0 +1,39 @@
+id: th-grm-00097
+language: th
+type: grammar
+level: L2
+level_rank: 2
+title: 动词 + ออกมา/มา：趋向补语
+structure: 动词 + ออก/เข้า/ขึ้น/ลง + มา/ไป
+structure_pattern: V + ออก/เข้า/ขึ้น/ลง + มา/ไป
+explanation_zh: 泰语把趋向动词 ออก/เข้า/ขึ้น/ลง 与 มา/ไป 接在主要动词后作补语，相当于中文的趋向补语「出来／进来」。มา 表示朝向说话人，ไป
+  表示远离。片段中 พูดออกมา＝说出来、ทำออกมา＝做出来、ลอยมา＝飘过来。
+examples:
+- text: แถม​ยัง​ทำ​ออกมา​ได้​อย่าง​รวดเร็ว​อีกด้วย
+  reading: ''
+  annot: แถม​ยัง​ทำ​ออกมา​ได้​อย่าง​รวดเร็ว​อีกด้วย
+  translation_zh: 而且还能如此迅速地做出来。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+- text: กลิ่น​หอม ๆ ของ​ครีม​สีขาว​ข้น​ใน​หม้อ​ใบ​เล็ก​ลอย​มา​เตะจมูก
+  reading: ''
+  annot: กลิ่น​หอม ๆ ของ​ครีม​สีขาว​ข้น​ใน​หม้อ​ใบ​เล็ก​ลอย​มา​เตะจมูก
+  translation_zh: 白色浓稠奶油的香气从小锅里飘来扑鼻。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 趋向补语
+- 复合动词
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

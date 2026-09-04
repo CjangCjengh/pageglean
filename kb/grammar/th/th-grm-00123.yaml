@@ -1,0 +1,31 @@
+id: th-grm-00123
+language: th
+type: grammar
+level: L3
+level_rank: 3
+title: บ้างก็…ไม่ก็…：列举「有时……要不就……」
+structure: บ้างก็ + 小句①，ไม่ก็ + 小句②
+structure_pattern: '''บ้างก็'' + อนุประโยค + ''ไม่ก็'' + อนุประโยค (สันธานบอกความเลือก)'
+explanation_zh: บ้างก็…ไม่ก็… 用于列举交替出现的几种情况，相当于「有时……要不就……」。บ้าง意为「有的/有时候」，ก็起承接，ไม่ก็引出备选。片段用来列举假日的不同去处。
+examples:
+- text: บ้างก็​ไป​ห้องสมุด พิพิธภัณฑ์ ไม่ก็​ไป​ต่างเมือง
+  reading: ''
+  annot: บ้างก็​ไป​ห้องสมุด พิพิธภัณฑ์ ไม่ก็​ไป​ต่างเมือง
+  translation_zh: 有时去图书馆、博物馆，要不就去别的城市。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 接续
+- 列举
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

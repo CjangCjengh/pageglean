@@ -1,0 +1,38 @@
+id: vi-grm-00328
+language: vi
+type: grammar
+level: L3
+level_rank: 3
+title: không thể không：双重否定表必然
+structure: không thể không + 动词（phủ định kép）
+structure_pattern: không thể không + V
+explanation_zh: “không thể không + 动词”是双重否定结构（cấu trúc phủ định kép），字面“不能不”，实际表示“必定会、不得不”，语气比肯定句更强。文中连用四次，把同行、聊天、递信、收信、喜欢都推演成不可避免的环节，幽默感由此而生。
+examples:
+- text: Nói chuyện thì không thể không... đưa thư.
+  reading: ''
+  annot: Nói chuyện thì không thể không... đưa thư.
+  translation_zh: 说上话就不能不……递信。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+- text: Nhận thì không thể không... yêu.
+  reading: ''
+  annot: Nhận thì không thể không... yêu.
+  translation_zh: （她）收下就不能不……喜欢上（我）。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 否定
+- 语气
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 4
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

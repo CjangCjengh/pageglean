@@ -1,0 +1,31 @@
+id: ja-grm-00582
+language: ja
+type: grammar
+level: N2
+level_rank: 4
+title: 〜とは：意外的惊叹（后项省略）
+structure: 用言终止形＋引用助词「と」＋提示助词「は」（省略后接的“思わなかった”等）
+structure_pattern: 用言(終止形) + とは
+explanation_zh: 引用助词「と」加提示助词「は」，后续成分（如“思わなかった”）被省略，用以表达出乎意料的惊叹，相当于“没想到竟然……”。常与「まさか」呼应。文中表现主人公对妹妹几天内写满整本笔记的震惊。
+examples:
+- text: まさかたった数日で大学ノートをほぼ全部埋め尽くすとは。
+  reading: ''
+  annot: まさかたった数日[すうじつ]で大学[だいがく]ノートをほぼ全部[ぜんぶ]埋[う]め尽[つ]くすとは。
+  translation_zh: 没想到她竟然只用几天就把大学笔记本几乎全部写满了。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 咏叹
+- 引用
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

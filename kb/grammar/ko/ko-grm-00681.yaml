@@ -1,0 +1,40 @@
+id: ko-grm-00681
+language: ko
+type: grammar
+level: TOPIK2
+level_rank: 2
+title: 「-(으)니까：原因与根据」
+structure: 形容词/动词 + -(으)니까（原因、根据）
+structure_pattern: Adj/V-(으)니까
+explanation_zh: 表示原因或根据的连接词尾，相当于中文的“因为……”，后句常为命令、建议或推断。与-아/어서不同，-니까前句可以带时制词尾，后句也允许命令句和共动句。片段用“다른
+  문제이니까”“생각이 없으니까”交代理由。
+examples:
+- text: 죽은 시체를 움직이는 것과, 살아 있는 사람을 움직이는 것은 완전히 다른 문제이니까.
+  reading: ''
+  annot: 죽은 시체를 움직이는 것과, 살아 있는 사람을 움직이는 것은 완전히 다른 문제이니까.
+  translation_zh: 因为操纵死去的尸体和操纵活着的人，完全是两回事。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+- text: 난 죽을 생각이 없으니까 소용없는 가정이지만.
+  reading: ''
+  annot: 난 죽을 생각이 없으니까 소용없는 가정이지만.
+  translation_zh: 我没有想死的打算，所以这只是个没用的假设。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 连接词尾
+- 原因
+- 接续
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

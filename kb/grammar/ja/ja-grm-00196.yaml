@@ -1,0 +1,31 @@
+id: ja-grm-00196
+language: ja
+type: grammar
+level: N2
+level_rank: 4
+title: 「〜までもない」：自不待言、用不着
+structure: 動詞終止形 ＋ 副助詞 まで ＋ も ＋ ない
+structure_pattern: V-終止形 + までもない
+explanation_zh: 「まで」为副助词，表示程度的极限；「〜までもない」表示“连…的程度都达不到”，即“用不着…、…自不待言”。“言うまでもない”是固定表达，意为“不用说、不言而喻”。文中“どっちがマシかは言うまでもない”即此用法。
+examples:
+- text: 男が女のを見ちゃうのと、女が男の見ちゃうの、どっちがマシかは言うまでもないでしょ？
+  reading: ''
+  annot: 男が女のを見ちゃうのと、女が男の見ちゃうの、どっちがマシかは言うまでもないでしょ？
+  translation_zh: 男人看到女人的（那种东西）和女人看到男人的，哪个还算好些，这不用我说也明白吧？
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 惯用表达
+- 语气
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

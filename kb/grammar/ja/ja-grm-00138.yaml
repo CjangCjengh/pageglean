@@ -1,0 +1,38 @@
+id: ja-grm-00138
+language: ja
+type: grammar
+level: N3
+level_rank: 3
+title: 「〜まま」：状态的保持（保持着……的样子）
+structure: 体言／動詞連体形＋まま（形式名詞）＋（で／に）＋後項動作
+structure_pattern: 体言/V-連体形 + まま + (で/に) + 後項動作
+explanation_zh: 形式名詞「まま」表示前项状态原样保持，后项动作在此状态下发生，相当于汉语“保持着……、在……状态下”。片段中反复出现（無言のまま、俯いたまま、手を乗せたまま等），是静态场景描写的核心手段。「連体形＋まま」中的助動詞「た」表示结果状态的存续，而非单纯过去。
+examples:
+- text: 無言のまま、驚いた表情の顔を合わせる俺とリア。
+  reading: ''
+  annot: 無言[むごん]のまま、驚[おどろ]いた表情[ひようじよう]の顔[かお]を合[あ]わせる俺[おれ]とリア。
+  translation_zh: 我和莉亚面面相觑，谁都没有说话，彼此脸上都带着惊讶的表情。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+- text: その頭に手を乗せたまま、一緒に行く俺。
+  reading: ''
+  annot: その頭[あたま]に手[て]を乗[の]せたまま、一緒[いつしよ]に行[い]く俺[おれ]。
+  translation_zh: 我就这样把手搭在她头上，和她一起走。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 形式名词
+- 体貌
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 8
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

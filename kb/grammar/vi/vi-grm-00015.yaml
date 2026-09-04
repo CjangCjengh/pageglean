@@ -1,0 +1,40 @@
+id: vi-grm-00015
+language: vi
+type: grammar
+level: L2
+level_rank: 2
+title: 持续语气：cứ + V
+structure: cứ + 动词（只管/一个劲儿地……）
+structure_pattern: cứ + V
+explanation_zh: cứ 是副词（phó từ），置于动词前，表示『只管/一个劲儿地』做某事，强调动作持续或不顾他人。可译为『只顾、尽管』。如『Nó cứ
+  cắm cúi bươi cát』即『她只顾埋头扒沙』。
+examples:
+- text: Nó cứ cắm cúi bươi cát.
+  reading: ''
+  annot: Nó cứ cắm cúi bươi cát.
+  translation_zh: 她只顾埋头扒拉沙子。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+- text: Bây giờ là nhà tao thì mày cứ kêu là nhà tao!
+  reading: ''
+  annot: Bây giờ là nhà tao thì mày cứ kêu là nhà tao!
+  translation_zh: 现在这是我的家，你就尽管叫它我家好了！
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 体貌
+- 语气
+- 虚词
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 4
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

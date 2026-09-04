@@ -1,0 +1,31 @@
+id: ja-grm-00499
+language: ja
+type: grammar
+level: N2
+level_rank: 4
+title: 〜にも関わらず：尽管……却……
+structure: V-連体形 + にも関わらず（逆接）
+structure_pattern: V-終止形 + にも関わらず
+explanation_zh: 「〜にも関わらず」是偏书面语的逆接表达，意为“尽管……却……”，后项多为与前项预期相反的结果。片段中“尽管疏于防备，『复讐』这个词却清晰地传进了耳朵”，制造剧情转折。口语中一般用「のに」。
+examples:
+- text: 油断していたにも関わらず、ハッキリとその単語は耳に飛びこんできた。
+  reading: ''
+  annot: 油断[ゆだん]していたにも関[かか]わらず、ハッキリとその単語[たんご]は耳[みみ]に飛[と]びこんできた。
+  translation_zh: 尽管我毫无防备，那个词却清清楚楚地传进了耳朵里。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 接续/逆接
+- 书面语
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

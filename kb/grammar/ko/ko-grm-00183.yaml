@@ -1,0 +1,40 @@
+id: ko-grm-00183
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: -(으)ㄹ 뿐이다：仅此而已
+structure: 用言词干 + 冠形词形转成词尾 -(으)ㄹ + 依存名词 뿐 + 叙述格助词 이다
+structure_pattern: 용언 어간 + 관형사형 전성어미 -(으)ㄹ + 의존명사 뿐 + 서술격 조사 이다
+explanation_zh: 依存名词 뿐 表示限定，相当于中文“只是、只不过”。结合先语末词尾可构成过去限定 -았/었을 뿐이다。文中用 말할 뿐이었다、잔소리
+  좀 했을 뿐이에요 表现人物克制、轻描淡写的态度。
+examples:
+- text: 레이나는 그저 나를 지그시 바라보면서, 차분한 목소리로 말할 뿐이었다.
+  reading: ''
+  annot: 레이나는 그저 나를 지그시 바라보면서, 차분한 목소리로 말할 뿐이었다.
+  translation_zh: 蕾娜只是静静地凝视着我，用平静的语气说话。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+- text: 당신이 너무 침울해 보여서 잔소리 좀 했을 뿐이에요.
+  reading: ''
+  annot: 당신이 너무 침울해 보여서 잔소리 좀 했을 뿐이에요.
+  translation_zh: 只是因为您看起来太消沉了，我才唠叨了几句而已。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 限定
+- 依存名词
+- 语气
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

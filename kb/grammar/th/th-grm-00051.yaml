@@ -1,0 +1,31 @@
+id: th-grm-00051
+language: th
+type: grammar
+level: L2
+level_rank: 2
+title: หน่อยได้ไหม：礼貌请求
+structure: 动词 + หน่อย + ได้ไหม（ประโยคคำถามเชิงขอร้อง）
+structure_pattern: V + หน่อย + ได้ไหม
+explanation_zh: หน่อย意为「一点点」，起缓和语气的作用；与能性疑问结构ได้ไหม（可以吗）连用，构成委婉的请求。「มาหาหน่อยได้ไหม」即「能来见我一下吗」。这是泰语日常口语中最常用的请求句式之一。
+examples:
+- text: อยาก​เจอ​จัง มาหา​หน่อย​ได้​ไหม?
+  reading: ''
+  annot: อยาก​เจอ​จัง มาหา​หน่อย​ได้​ไหม?
+  translation_zh: 好想见你，能来见我一下吗？
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 疑问/请求
+- 语气
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

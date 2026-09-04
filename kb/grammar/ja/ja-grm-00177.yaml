@@ -1,0 +1,38 @@
+id: ja-grm-00177
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 被动助动词「れる／られる」：受身文
+structure: 动词未然形 + 受身助动词「れる／られる」（动作主用「に」标示）
+structure_pattern: V-未然形 + 助動詞「れる/られる」
+explanation_zh: 学校文法把被动处理为受身助动词「れる／られる」，接在动词未然形之后（五段动词接「れる」、下一段动词接「られる」）。「イスカに怒られる」即“被伊丝卡责骂”，动作的发出者由助词「に」标记。句末「ぞ」为加强语气的终助词，多用于男性口语。
+examples:
+- text: それ以上やるとイスカに怒られるぞ？
+  reading: ''
+  annot: それ以上[いじょう]やるとイスカに怒[おこ]られるぞ？
+  translation_zh: 再闹下去的话，可是会被伊丝卡骂的哦？
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+- text: 昨日のは違うの！ その、おねえちゃんに頼まれて！
+  reading: ''
+  annot: 昨日のは違うの！ その、おねえちゃんに頼まれて！
+  translation_zh: 昨天那次不是那样的！那个，是被姐姐拜托（才去的）！
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 被动
+- 助动词
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

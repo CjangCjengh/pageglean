@@ -1,0 +1,30 @@
+id: vi-grm-00391
+language: vi
+type: grammar
+level: L4
+level_rank: 4
+title: bao nhiêu...bấy nhiêu：比例呼应
+structure: bao nhiêu + N … bấy nhiêu (N)
+structure_pattern: bao nhiêu + N + bấy nhiêu
+explanation_zh: bao nhiêu（多少）与 bấy nhiêu（那么多）前后呼应，构成比例对应，表示「多少……就多少……」。疑问词在此虚指任指数量，是越南语有特色的修辞句式。
+examples:
+- text: Rót nhanh quá rồi lại than "đổ bao nhiêu nước ra ngoài bấy nhiêu!".
+  reading: ''
+  annot: Rót nhanh quá rồi lại than "đổ bao nhiêu nước ra ngoài bấy nhiêu!".
+  translation_zh: 倒得那么快，回头又要抱怨「倒多少水就洒出去多少！」
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 修辞/比例
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

@@ -1,0 +1,34 @@
+id: vi-grm-00303
+language: vi
+type: grammar
+level: L3
+level_rank: 3
+title: mỗi ngày một + 形容词：越来越……
+structure: mỗi + 时间名词 + một + 形容词
+structure_pattern: mỗi ngày + một + Adj
+explanation_zh: 「mỗi ngày một + 形容词」表示程度逐日加深，相当于汉语「一天比一天……、越来越……」。由 mỗi + 时间名词与「một
+  + 形容词」组合而成，是叙述中描写渐变的高频句式。
+examples:
+- text: Tôi rượt theo một quãng, thấy khoảng cách giữa tôi với nó mỗi ngày một xa,
+    bèn đứng lại thở dốc.
+  reading: ''
+  annot: Tôi rượt theo một quãng, thấy khoảng cách giữa tôi với nó mỗi ngày một xa,
+    bèn đứng lại thở dốc.
+  translation_zh: 我追了一段路，眼看我和他之间的距离越来越远，只好停下来喘粗气。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 比较
+- 时间表达
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

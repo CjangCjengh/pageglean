@@ -1,0 +1,39 @@
+id: ko-grm-00388
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: 「-던데」：回忆转述与反差
+structure: 用言词干 + 회상 선어말어미（回忆先语末词尾）-던 + 연결어미 -데
+structure_pattern: V/A- + -던데
+explanation_zh: 由回忆先语末词尾'-던'与连接词尾'-데'结合，追忆自己亲历或耳闻的状况，多暗示后文与之相反或出乎意料。'…다고 하던데'转述传闻时同样带有'听说是这样，但实际上……'的意味。可译为'听说/当时……可是……'。
+examples:
+- text: 처음에는 다들 아파한다고 하던데, 별로 그렇지도 않았네요.
+  reading: ''
+  annot: 처음에는 다들 아파한다고 하던데, 별로 그렇지도 않았네요.
+  translation_zh: 一开始听大家都说会很疼，我倒也没觉得有多疼。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+- text: 첫날밤이었는데 오늘은 좀 그만 끝냈으면 싶다.
+  reading: ''
+  annot: 첫날밤이었는데 오늘은 좀 그만 끝냈으면 싶다.
+  translation_zh: 明明才初夜，今天真希望能就此收场。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 连接词尾
+- 回忆/传述
+- 语气
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

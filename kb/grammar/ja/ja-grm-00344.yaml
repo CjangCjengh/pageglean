@@ -1,0 +1,31 @@
+id: ja-grm-00344
+language: ja
+type: grammar
+level: N3
+level_rank: 3
+title: 〜んじゃなかった：后悔自语（口语）
+structure: 動詞連用形 ＋ んじゃなかった（＝のではなかった）
+structure_pattern: V-連用形 + んじゃなかった
+explanation_zh: 「のではなかった」的口语缩约：「の」变「ん」、「ては」变「じゃ」。表示对已做之事的后悔自责，“本不该〜的”。多用于自言自语，书面语一般写作「〜べきではなかった」。
+examples:
+- text: 思わず口からこぼれた言葉に、自分で気落ちする。言うんじゃなかった。
+  reading: ''
+  annot: 思[おも]わず口[くち]からこぼれた言葉[ことば]に、自分[じぶん]で気落[きお]ちする。言[い]うんじゃなかった。
+  translation_zh: 话语不经意脱口而出，我自己都沮丧起来。真不该说出口的。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 口语
+- 语气
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

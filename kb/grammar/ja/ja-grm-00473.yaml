@@ -1,0 +1,39 @@
+id: ja-grm-00473
+language: ja
+type: grammar
+level: N3
+level_rank: 3
+title: 比况助动词「ようだ」：宛如、好像
+structure: 用言连体形＋比况助动词「ようだ」（连体形「ような」修饰体言）
+structure_pattern: V連体形 + ようだ / ような + N
+explanation_zh: 比况助动词「ようだ」接用言连体形，表示比喻或不确定的判断，意为好像、宛如。「後ろ髪を引かれるようだ」形容恋恋不舍的样子；其后「が」为轻转折的接续助词。连体形「ような」修饰名词，如「思い出したような灰色の空」。
+examples:
+- text: 後ろ髪を引かれるようだが、強引に開き直ってインターネットに接続。
+  reading: ''
+  annot: 後[うし]ろ髪[がみ]を引[ひ]かれるようだが、強引[ごういん]に開[ひら]き直[なお]ってインターネットに接続[せつぞく]。
+  translation_zh: 虽然（对文件夹）恋恋不舍，我还是干脆豁出去，连上了网。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+- text: 青さを思い出したような灰色の空。
+  reading: ''
+  annot: 青[あお]さを思[おも]い出[だ]したような灰色[はいいろ]の空[そら]。
+  translation_zh: 像是回想起了青色一般的灰色天空。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 助动词
+- 比况
+- 接续
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

@@ -1,0 +1,38 @@
+id: ko-grm-00107
+language: ko
+type: grammar
+level: TOPIK2
+level_rank: 2
+title: 「-기 때문이다」：因为……（原因·理由）
+structure: 명사형 전성어미 '-기' + '때문이다'
+structure_pattern: V/A- + -기 + 때문이다
+explanation_zh: 名词形转成词尾'-기'将谓词名词化，后接'때문이다'表示原因、理由，相当于'因为……'。多用于书面或说明性语体，口语中常说'-아/어서'。片段中两次出现，均用于解释缘由。
+examples:
+- text: 언데드는 화염에 약한 편이기 때문에 이 묘지를 공략하려던 모험가가 갖고 들어왔을 것이다.
+  reading: ''
+  annot: 언데드는 화염에 약한 편이기 때문에 이 묘지를 공략하려던 모험가가 갖고 들어왔을 것이다.
+  translation_zh: 因为不死族比较怕火，所以这应该是打算攻略这座墓地的冒险者带进来的。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+- text: 물건을 감정할 수도 있기 때문이다.
+  reading: ''
+  annot: 물건을 감정할 수도 있기 때문이다.
+  translation_zh: 因为还可以用来鉴定物品。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 原因/理由
+- 名词形词尾
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

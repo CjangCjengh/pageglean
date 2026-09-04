@@ -1,0 +1,31 @@
+id: ja-grm-00258
+language: ja
+type: grammar
+level: N2
+level_rank: 4
+title: それどころか：哪里谈得上……、非但如此反而……
+structure: 名词／句子＋どころか
+structure_pattern: N/句 + どころか（それどころか）
+explanation_zh: 由「〜どころではない」（远谈不上……）派生而来。「それどころか」是接续性惯用表达，表示「非但如此，反而更甚」，用于推翻前项预期并递进。此处强调对方的压迫感远超想象。
+examples:
+- text: ――それどころかこのプレッシャー……全力のイスカ以上!?
+  reading: ''
+  annot: ――それどころかこのプレッシャー……全力[ぜんりょく]のイスカ以上[いじょう]!?
+  translation_zh: ――非但如此，这股压迫感……竟在全力的伊斯卡之上！？
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 接续
+- 语气
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

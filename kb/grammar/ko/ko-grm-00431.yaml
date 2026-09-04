@@ -1,0 +1,32 @@
+id: ko-grm-00431
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: -기 때문이다：因为……
+structure: 용언 어간 + -기 때문이다
+structure_pattern: 어간 + -기 + 때문이다
+explanation_zh: 名词形转成词尾'-기'与'때문이다'结合，表示原因、理由。与'-아/어서'不同，它把整个谓词短语名词化后明示原因，语气较为客观，多用于说明文与独白；体词后则用'(으)ㄴ/는
+  때문에'。
+examples:
+- text: 반대되는 성질이기 때문에 밀어내는 힘이 확실하게 와 닿기 때문이다.
+  reading: ''
+  annot: 반대되는 성질이기 때문에 밀어내는 힘이 확실하게 와 닿기 때문이다.
+  translation_zh: 因为性质相反，那股排斥的力量能够被真切地感受到。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 이유·원인
+- 명사형 전성어미
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

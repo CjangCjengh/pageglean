@@ -1,0 +1,30 @@
+id: ja-grm-00362
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 〜ぶりの：时隔……的
+structure: 時間を表す体言＋ぶりの＋体言（副詞的用法：ぶりに）
+structure_pattern: N(時間) + ぶりの + N / N(時間) + ぶりに
+explanation_zh: 接在时间词后，表示隔了一段时间之后再次进行某事，中文译为“时隔……”。例文『二日ぶりの学校』指时隔两天再去学校。也可作副词性用法，如「三日ぶりに会う」。
+examples:
+- text: そこだけに感謝しながら、俺は二日ぶりの学校へと急いだ。
+  reading: ''
+  annot: そこだけに感謝[かんしゃ]しながら、俺[おれ]は二日[ふつか]ぶりの学校[がっこう]へと急[いそ]いだ。
+  translation_zh: 我一边只对此心存感激，一边匆匆赶往时隔两天才回的学校。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 时间
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

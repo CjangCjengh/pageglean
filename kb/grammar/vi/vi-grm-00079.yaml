@@ -1,0 +1,39 @@
+id: vi-grm-00079
+language: vi
+type: grammar
+level: L1
+level_rank: 1
+title: đã…rồi：动作已然完成
+structure: đã + V + rồi（副词 phó từ đã + 句末助词 rồi）
+structure_pattern: đã + V + rồi
+explanation_zh: đã 是置于动词前的副词（phó từ），表示动作已经发生或完成；句末再加 rồi 强调「已经、已了结」的语气，两者构成越南语最常见的完成体表达。相当于汉语「已经……了」，动词本身不变形，全靠虚词标示时体。位置固定：đã
+  紧贴动词前，rồi 位于句末。
+examples:
+- text: Khi nãy tao đã nói với mày rồi!
+  reading: ''
+  annot: Khi nãy tao đã nói với mày rồi!
+  translation_zh: 刚才我已经跟你说过了！
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+- text: Tôi đã "giải quyết" khúc bánh mì của tôi từ lâu rồi
+  reading: ''
+  annot: Tôi đã "giải quyết" khúc bánh mì của tôi từ lâu rồi
+  translation_zh: 我已经把自己的那块面包「解决」掉很久了。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 时态
+- 体貌
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

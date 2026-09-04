@@ -1,0 +1,31 @@
+id: ja-grm-00222
+language: ja
+type: grammar
+level: N2
+level_rank: 4
+title: 〜以上：既然……就……
+structure: 动词连体形 + 形式名词「以上（は）」
+structure_pattern: V-連体形 + 以上（は）
+explanation_zh: 形式名词「以上」接动词连体形，表示以前项既成事实为前提，“既然……就……”。后项多为由此推出的必然结论、义务或判断。此处意为既然住在一起，翻找的机会自然要多少有多少。
+examples:
+- text: 考えてみれば――一緒に暮らしている以上、調べる機会はいくらでも……!?
+  reading: ''
+  annot: 考[かんが]えてみれば――一緒[いっしょ]に暮[く]らしている以上[いじょう]、調[しら]べる機会[きかい]はいくらでも……!?
+  translation_zh: 仔细想想——既然住在一起，（她）翻查的机会要多少有多少……!?
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 接续
+- 条件
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

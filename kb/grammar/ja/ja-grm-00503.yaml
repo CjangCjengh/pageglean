@@ -1,0 +1,38 @@
+id: ja-grm-00503
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: って：口语引用（口语）
+structure: 引用文 + って（引用助詞「と」の口語形）
+structure_pattern: 引用文 + って
+explanation_zh: 「って」是引用助詞「と」的口语形，在轻小说对话中高频出现。既可表传闻引用（「顔してるって」＝听说……），也可表内容引用（「復讐って言ったのか」）。还能与「こと」组合成「〜ってこと」使句子名词化。
+examples:
+- text: 今、復讐って言ったのかこいつ？
+  reading: ''
+  annot: 今[いま]、復讐[ふくしゆう]って言[い]ったのかこいつ？
+  translation_zh: 刚才，这家伙说的是“复讐”吗？
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+- text: 男の子が好きそうな顔してるってな。
+  reading: ''
+  annot: 男の子[おとこのこ]が好[す]きそうな顔[かお]してるってな。
+  translation_zh: （说）我长着一张男孩子会喜欢的脸。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 助词/引用
+- 口语
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 4
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

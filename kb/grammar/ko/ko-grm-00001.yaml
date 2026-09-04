@@ -1,0 +1,39 @@
+id: ko-grm-00001
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: 「-아/어 버리다」：彻底完成与情感色彩
+structure: 동사 어간 + -아/어 + 보조동사 '버리다'
+structure_pattern: V-아/어 + 버리다
+explanation_zh: 补助动词结构，接在动词词干后，表示动作彻底完成。与中文「……掉了/……光了」相近，常带有惋惜、遗憾或反而痛快的感情色彩。片段反复用于「把角色写死」「索性关掉电脑」，凸显说话者的强烈情绪。
+examples:
+- text: 독자가 캐릭터에 빠져들면 처참하게 죽여 버리는 거…… 그것도 모르고 이 작가 소설 봤어요?
+  reading: ''
+  annot: 독자가 캐릭터에 빠져들면 처참하게 죽여 버리는 거…… 그것도 모르고 이 작가 소설 봤어요?
+  translation_zh: 读者一旦对角色投入感情，（他）就把角色悲惨地写死……你们不知情还看这位作家的小说吗？
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+- text: 나는 다시금 한숨을 내쉬면서 컴퓨터를 아예 꺼 버렸다.
+  reading: ''
+  annot: 나는 다시금 한숨을 내쉬면서 컴퓨터를 아예 꺼 버렸다.
+  translation_zh: 我再次叹了口气，索性把电脑彻底关掉了。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 补助动词
+- 体貌
+- 语气
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 5
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

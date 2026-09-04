@@ -1,0 +1,40 @@
+id: ko-grm-00485
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: -았/었던 모양이다：对过去情况的推测
+structure: 용언 어간 + 선어말어미 '-았/었-' + 관형사형 전성어미 '-던' + 의존명사 '모양' + 서술격 조사 '이다'
+structure_pattern: V/A-았/었던 + 모양이다
+explanation_zh: 表示对过去已发生之事的推测或传闻，相当于中文的“看来是……”“好像……了”。모양 为依存名词，前接过去时制先语末词尾 -았/었- 与回想冠形词形转成词尾
+  -던，构成回想性推测。语气比 -ㄴ 것 같다 更带间接推断意味。
+examples:
+- text: 완전히 내 착각이었던 모양이다.
+  reading: ''
+  annot: 완전히 내 착각이었던 모양이다.
+  translation_zh: 看来完全是我的错觉。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+- text: 8년 전 전염병이 돌던 때에 죽은 모양이에요.
+  reading: ''
+  annot: 8년 전 전염병이 돌던 때에 죽은 모양이에요.
+  translation_zh: 好像是在八年前传染病流行时去世的。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 推测
+- 时制
+- 终结词尾
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 4
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

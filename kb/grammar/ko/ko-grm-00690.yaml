@@ -1,0 +1,40 @@
+id: ko-grm-00690
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: 「-던：追忆冠形词形词尾」
+structure: 用言词干 + -던（회상 선어말어미 -더- + 冠形词形词尾 -ㄴ）
+structure_pattern: V/A + -던
+explanation_zh: 学校语法分析为追忆先语末词尾 '-더-' 与冠形词形词尾 '-ㄴ' 的结合，回想过去正在进行或持续的状态来修饰体言，相当于“当时在……的、曾……的”。与单纯表示过去完成的
+  '-(으)ㄴ' 不同，'-던' 强调当时尚未结束的延续性，如 '서 있던' '이어져 있던'。
+examples:
+- text: 멍하니 주변에 서 있던 가면의 무리 중 일부는 흔적도 없이 재가 되어 사라져 버렸다.
+  reading: ''
+  annot: 멍하니 주변에 서 있던 가면의 무리 중 일부는 흔적도 없이 재가 되어 사라져 버렸다.
+  translation_zh: 原本呆立在周围的面具人群中，一部分化为灰烬，消失得无影无踪。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+- text: 자신에게 이어져 있던 꼭두각시 줄을 끊어 버렸다.
+  reading: ''
+  annot: 자신에게 이어져 있던 꼭두각시 줄을 끊어 버렸다.
+  translation_zh: 斩断了那根一直连在自己身上的傀儡线。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 冠形词形词尾
+- 追忆
+- 定语
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 4
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

@@ -1,0 +1,32 @@
+id: ja-grm-00481
+language: ja
+type: grammar
+level: N3
+level_rank: 3
+title: 「〜っけ」：回忆与确认的句末语气
+structure: 体言・用言终止形 ＋ っけ
+structure_pattern: N/用言終止形 + っけ
+explanation_zh: 終助詞「っけ」表示追忆、唤起记忆或向对方确认，常以「〜だっけ？」的形式自问自答。体言需借助助動詞「だ」接续（喫茶店だっけ），用言则以终止形直接连接。轻小说中常用于表现独自沉吟、搜寻记忆的口吻。
+examples:
+- text: ……ああー、そういやあいつと会ったの先週か。えーと、どこの喫茶店だっけ？
+  reading: ''
+  annot: ……ああー、そういやあいつと会[あ]ったの先週[せんしゅう]か。えーと、どこの喫茶店[きっさてん]だっけ？
+  translation_zh: ……啊——这么说来，和那家伙见面是上周吧。呃，是哪家咖啡店来着？
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 语气
+- 口语
+- 終助詞
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

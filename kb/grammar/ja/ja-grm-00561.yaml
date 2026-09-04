@@ -1,0 +1,39 @@
+id: ja-grm-00561
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 〜のに／なのに：明明……却……
+structure: 用言连体形＋形式名词「の」＋助词「に」；体言/助动词「だ」后接「なのに」
+structure_pattern: V/A連体形 + のに / なのに
+explanation_zh: 表示让步转折，“明明……却……”，带有意外、不满或遗憾的情绪。「なのに」可独立用于句首承接上文。本段用其突出光的不离不弃与残酷现实之间的反差，如“明明被欺负，却被女生保护”。
+examples:
+- text: なにもしなければ平和に過ごせるのに。
+  reading: ''
+  annot: なにもしなければ平和[へいわ]に過[す]ごせるのに。
+  translation_zh: 明明什么都不做就能平安度日的。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+- text: ただでさえいじめられているのに女に守られたんだぞ？
+  reading: ''
+  annot: ただでさえいじめられているのに女[おんな]に守[まも]られたんだぞ？
+  translation_zh: 本来就已经被人欺负了，居然还得靠女生来保护，像话吗？
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 接续
+- 语气
+- 形式名词
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 4
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

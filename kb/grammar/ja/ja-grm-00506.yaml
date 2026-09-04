@@ -1,0 +1,31 @@
+id: ja-grm-00506
+language: ja
+type: grammar
+level: N3
+level_rank: 3
+title: 〜どころではない：哪顾得上……
+structure: 体言／動詞終止形＋どころではない
+structure_pattern: N/V-終止形 + どころではない
+explanation_zh: 形式名词「どころ」表示程度或场合，「〜どころではない」意为『根本不是……的时候／程度』。文中「それどころではない」指事态远比『风城是否为前男友』严重，顾不上担心这些。
+examples:
+- text: 風城が夢前光の元彼なのか。そんな心配をしていた俺だが、どうもそれどころではないらしい。
+  reading: ''
+  annot: 風城[かぜしろ]が夢前光[ゆめさきひかり]の元彼[もとかれ]なのか。そんな心配[しんぱい]をしていた俺[おれ]だが、どうもそれどころではないらしい。
+  translation_zh: 风城是梦前光的前男友吗？本来还在担心这个的我，看来眼下根本不是顾得上这些的时候。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 形式名词
+- 语气
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

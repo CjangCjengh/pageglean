@@ -1,0 +1,39 @@
+id: ja-grm-00434
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: のだ・なのです：解释与断言语气
+structure: 用言终止形 + 形式名词 の + 判断助动词 だ／です
+structure_pattern: 终止形 + のだ / なのです
+explanation_zh: 形式名词の（准体助词）与判断助动词组合，表解释说明或加强断言语气，だ为常体，です为敬体。文中妹妹通篇使用「なのです」，语气稚气又一本正经，是塑造人物口癖的典型手段。
+examples:
+- text: 重要なシーンなのでしっかりイラストにしなければダメなのです！
+  reading: ''
+  annot: 重要[じゅうよう]なシーンなのでしっかりイラストにしなければダメなのです！
+  translation_zh: 因为是重要的场景，所以必须好好画成插图才行！
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+- text: 誤解なのです！ 待つのです！
+  reading: ''
+  annot: 誤解[ごかい]なのです！ 待[ま]つのです！
+  translation_zh: 是误会！给我站住！
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 语气
+- 形式名词
+- 口语
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 10
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

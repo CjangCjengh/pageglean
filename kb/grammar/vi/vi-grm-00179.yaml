@@ -1,0 +1,39 @@
+id: vi-grm-00179
+language: vi
+type: grammar
+level: L3
+level_rank: 3
+title: 句末语气词 mà：申明与不服
+structure: 小句 + mà！
+structure_pattern: S + V + mà
+explanation_zh: 句末的 mà 是语气词，表示事情显而易见或要求对方认同，带解释、不服气的口吻，相当于汉语句末的「嘛」。与作转折连词的 mà 是不同的词。例中动词后的
+  được 为可能补语，表示「能、可以」。
+examples:
+- text: Con đi một mình được mà!
+  reading: ''
+  annot: Con đi một mình được mà!
+  translation_zh: 我可以自己一个人去嘛！
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+- text: Nó yêu mày mà!
+  reading: ''
+  annot: Nó yêu mày mà!
+  translation_zh: 她喜欢你嘛！（这不是明摆着吗）
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 语气词
+- 口语
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

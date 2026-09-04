@@ -1,0 +1,32 @@
+id: ja-grm-00468
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 〜ておく：事先准备（口语缩约「〜とく」）
+structure: 动词连用形＋接续助词「て」＋补助动词「おく」（口语缩约为「とく」）
+structure_pattern: V連用形 + て + おく → とく
+explanation_zh: 动词连用形＋「て」＋补助动词「おく」表示预先做好某事以备后用。口语中「ておく」常缩约为「とく」。文中「ごまかしとけ」是「ごまかしておけ」的缩约命令形，配合终助词「よ」构成带命令口吻的吐槽：先用朋友之类的说法糊弄过去再说。
+examples:
+- text: そこは友達とかでごまかしとけよ！
+  reading: ''
+  annot: そこは友達[ともだち]とかでごまかしとけよ！
+  translation_zh: 那种地方就该用"朋友"之类的说法糊弄过去啊！
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 体貌
+- 口语
+- 命令形
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

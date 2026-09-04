@@ -1,0 +1,32 @@
+id: vi-grm-00333
+language: vi
+type: grammar
+level: L3
+level_rank: 3
+title: 「bị：不如意/受损义被动」
+structure: N + bị + V/Adj（被动句，主语受影响且不如意）
+structure_pattern: N + bị + V
+explanation_zh: bị 是越南语被动句的主要标记之一，专指对主语不利、不如意的事，与表受益的 được 相对。片段中 đang bị hỏng 即“（不巧）正坏着”，bị
+  可与进行体 đang 连用。bị 也可表遭受，如 bị phạt（挨罚）。
+examples:
+- text: Có lẽ chiếc xe đang bị hỏng một bộ phận nào đó.
+  reading: ''
+  annot: Có lẽ chiếc xe đang bị hỏng một bộ phận nào đó.
+  translation_zh: 大概这辆车的某个部件出了故障。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 被动
+- 句式
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

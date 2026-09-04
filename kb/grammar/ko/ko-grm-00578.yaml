@@ -1,0 +1,33 @@
+id: ko-grm-00578
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: -ㄹ 리가 없다：不可能……
+structure: 用言词干 + -(으)ㄹ 리가 없다
+structure_pattern: V-(으)ㄹ（관형형 전성어미）+ 의존명사 '리' + 주격조사 '가' + '없다'
+explanation_zh: 依存名词 '리' 表事理或可能性，'-ㄹ 리가 없다' 意为『不可能……/哪会……』，表示对某事发生的可能性加以坚决否定。本段用『무서울
+  리가 없잖아』强调这东西根本没什么可怕的。
+examples:
+- text: 애초에 귀신의 집도 아니고, 이런 게 무서울 리가 없잖아.
+  reading: ''
+  annot: 애초에 귀신의 집도 아니고, 이런 게 무서울 리가 없잖아.
+  translation_zh: 本来就不是鬼屋，这种东西哪有什么可怕的嘛。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 推测
+- 否定
+- 依存名词
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

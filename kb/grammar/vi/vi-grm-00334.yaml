@@ -1,0 +1,34 @@
+id: vi-grm-00334
+language: vi
+type: grammar
+level: L5
+level_rank: 5
+title: 「A thì A：让步转折『……归……，还是……』」
+structure: A + thì + A，… + vẫn + V（让步复句）
+structure_pattern: A + thì + A, S + vẫn + V
+explanation_zh: 同一谓词重复、中间加 thì，构成让步小句，相当于汉语“怕归怕”“说归说”，先承认某一事实再引出转折。正句常有 vẫn（仍然），形成“虽
+  A 仍 B”的格局。该句式口语与文学语言中都常见，语气生动。
+examples:
+- text: Nhưng sợ thì sợ, tôi vẫn căng mắt ra hồi hộp theo dõi diễn biến cuộc gặp gỡ
+    "định mệnh" kia
+  reading: ''
+  annot: Nhưng sợ thì sợ, tôi vẫn căng mắt ra hồi hộp theo dõi diễn biến cuộc gặp
+    gỡ "định mệnh" kia
+  translation_zh: 不过怕归怕，我还是瞪大眼睛，紧张地关注着那场“命中注定”的会面如何发展。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 让步
+- 复句
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

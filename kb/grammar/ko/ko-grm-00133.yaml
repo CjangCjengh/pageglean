@@ -1,0 +1,40 @@
+id: ko-grm-00133
+language: ko
+type: grammar
+level: TOPIK2
+level_rank: 2
+title: 「-(으)ㄹ게」：说话人的承诺与意志
+structure: 动词词干 + -(으)ㄹ게(요)
+structure_pattern: V-(으)ㄹ게
+explanation_zh: 종결어미 -(으)ㄹ게 表示向听话人承诺某行为或表明说话人意志，属非格式（반말）终结表达，相当于中文"我会……／这就……"。片段中身居高位的克劳对下属使用，体现其随意的说话姿态。注意与单纯表推测的
+  -ㄹ 거야 相区分。
+examples:
+- text: 귀찮다. 본론부터 이야기할게.
+  reading: ''
+  annot: 귀찮다. 본론부터 이야기할게.
+  translation_zh: 真麻烦。我直接说正题吧。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+- text: 그럼 오늘 회의는 이걸로 마칠게.
+  reading: ''
+  annot: 그럼 오늘 회의는 이걸로 마칠게.
+  translation_zh: 那今天的会议就到此为止。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 终结词尾
+- 意志/承诺
+- 非敬语
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

@@ -1,0 +1,39 @@
+id: vi-grm-00260
+language: vi
+type: grammar
+level: L2
+level_rank: 2
+title: Tại 引因：辩解与归因
+structure: Tại + 主语 + 谓语（可独立成句）
+structure_pattern: Tại + S + V
+explanation_zh: 「Tại」表示原因，与「vì」近义，但口语中常用于申辩、解释托词，带有「是因为……、都怪……」的口吻。结构为「Tại + 主谓」，也可像片段中那样单独成句。主人公先后用「Tại
+  tôi bận」「Tại tôi bắt chước người Pháp」为自己辩解。
+examples:
+- text: Tại tôi bận.
+  reading: ''
+  annot: Tại tôi bận.
+  translation_zh: 是因为我忙。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+- text: Tại tôi bắt chước người Pháp.
+  reading: ''
+  annot: Tại tôi bắt chước người Pháp.
+  translation_zh: 是因为我在模仿法国人。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 因果
+- 口语
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

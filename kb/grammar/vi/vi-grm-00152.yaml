@@ -1,0 +1,32 @@
+id: vi-grm-00152
+language: vi
+type: grammar
+level: L4
+level_rank: 4
+title: không những…mà còn…：递进「不但…而且…」
+structure: không những + A + mà còn + B
+structure_pattern: không những + A + mà còn + B（quan hệ từ tăng tiến）
+explanation_zh: 这是表递进关系的关联结构，意为「不但…而且…」，后项意思比前项更进一步。片段中作者以「mềm」（心软）到「nát」（稀碎）递进，戏谑地表达对
+  Việt An 的着迷。注意此处的 mà 是连词，与条件句的 mà 不同。
+examples:
+- text: Việt An cũng làm tôi mềm lòng, không những "mềm" mà còn... "nát" nữa.
+  reading: ''
+  annot: Việt An cũng làm tôi mềm lòng, không những "mềm" mà còn... "nát" nữa.
+  translation_zh: 越安也让我心软，不光是「软」，简直都要「碎」了。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 递进
+- 关联词
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 0
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

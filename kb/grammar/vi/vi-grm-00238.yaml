@@ -1,0 +1,34 @@
+id: vi-grm-00238
+language: vi
+type: grammar
+level: L2
+level_rank: 2
+title: nếu… thì…：条件复句
+structure: quan hệ từ（关联词）nếu 引导条件分句，thì 引导结果分句
+structure_pattern: nếu + clause1, (thì) + clause2
+explanation_zh: nếu… thì… 是越南语条件复句的基本关联词（quan hệ từ），nếu 引出假设条件，thì 引出结果，其中 thì 可以省略。与汉语“如果……就……”一一对应，中文母语者易掌握。注意
+  thì 后必须接结果小句。
+examples:
+- text: Nếu mày để Việt An và tụi bạn của nó bắt gặp mày nhìn trộm thì kế hoạch của
+    tụi mình sẽ phá sản ngay lập tức.
+  reading: ''
+  annot: Nếu mày để Việt An và tụi bạn của nó bắt gặp mày nhìn trộm thì kế hoạch của
+    tụi mình sẽ phá sản ngay lập tức.
+  translation_zh: 如果你让越安和她的朋友们撞见你偷看，咱们的计划马上就会泡汤。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 复句
+- 条件
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

@@ -1,0 +1,38 @@
+id: ja-grm-00419
+language: ja
+type: grammar
+level: N3
+level_rank: 3
+title: 「〜つつ／つつある：书面语的'一边〜'与渐进变化」
+structure: 動詞の連用形＋接続助詞「つつ」；「つつある」表示变化的逐渐进行
+structure_pattern: V-連用形 + つつ（ある）
+explanation_zh: 接续助词「つつ」接动词连用形，表示两个动作同时进行，相当于口语的「ながら」，但语体偏书面。「つつある」表示某种状态逐渐变化并持续。中文可译为「一边……」「正逐渐……」。
+examples:
+- text: その後も、一日中彼女はぶつぶつと何かを呟きながら、時折舌足らずに嚙みつつ、一生懸命に話しかけてくれた。
+  reading: ''
+  annot: その後[あと]も、一日中[いちにちじゅう]彼女[かのじょ]はぶつぶつと何[なに]かを呟[つぶや]きながら、時折[ときおり]舌足[したた]らずに嚙[か]みつつ、一生懸命[いっしょうけんめい]に話[はな]しかけてくれた。
+  translation_zh: 此后一整天，她一边小声嘀咕着什么，一边偶尔咬到舌头，拼命地找话跟我搭话。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+- text: そのたびにクラスの温度が上昇しつつあるのに疲れ果てたけどな。
+  reading: ''
+  annot: そのたびにクラスの温度[おんど]が上昇[じょうしょう]しつつあるのに疲[つか]れ果[は]てたけどな。
+  translation_zh: 每遇到一次那样的事，班里的气氛就会升一次温，搞得我疲惫不堪。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 接续
+- 书面语
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

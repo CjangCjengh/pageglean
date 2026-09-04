@@ -1,0 +1,31 @@
+id: ko-grm-00456
+language: ko
+type: grammar
+level: TOPIK6
+level_rank: 6
+title: -던 차：正当……的时候
+structure: 动词词干 + -(으)ㄴ/는/던 차(에)
+structure_pattern: 관형사형 -(으)ㄴ/던 + 의존명사 차
+explanation_zh: 依存名词 차 表示“时机、当口”，以定语形修饰后多与助词 에 搭配，表示正值做某事之际。片段用 -던 차 表示“正在想着……的时候”，随后事态出现转机，是书面叙事中的高阶时间表达。
+examples:
+- text: 말 그대로 정말 뜬금없는 인사라고 생각하던 차, 나는 그녀가 입에 담은 이름을 듣고 나서야 그 인사의 의미를 깨달았다.
+  reading: ''
+  annot: 말 그대로 정말 뜬금없는 인사라고 생각하던 차, 나는 그녀가 입에 담은 이름을 듣고 나서야 그 인사의 의미를 깨달았다.
+  translation_zh: 我正暗自觉得这问候真是名副其实地唐突，直到听清她口中说出的名字，才领悟到其中的含义。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 依存名词
+- 时机
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

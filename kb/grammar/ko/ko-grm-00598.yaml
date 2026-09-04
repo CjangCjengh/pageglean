@@ -1,0 +1,31 @@
+id: ko-grm-00598
+language: ko
+type: grammar
+level: TOPIK5
+level_rank: 5
+title: -는 이상：前提条件「既然……就……」
+structure: 동사 어간 + 관형사형 어미 '-는' + 의존명사 '이상'
+structure_pattern: V- + -는 + 이상
+explanation_zh: 动词词干接冠形词尾'-는'再加依存名词'이상'，以前项既成事实为前提，推出后项的结论或决心，相当于'既然……'。强调在该前提下理应如此。
+examples:
+- text: 이 동전이 다시 키이리에게 가지 않는 이상, 그 ‘표적’은 나로 바뀐다.
+  reading: ''
+  annot: 이 동전이 다시 키이리에게 가지 않는 이상, 그 ‘표적’은 나로 바뀐다.
+  translation_zh: 只要这枚硬币不再回到基莉那里，那个“目标”就会换成我。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 전제·조건
+- 의존명사
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

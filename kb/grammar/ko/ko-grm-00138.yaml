@@ -1,0 +1,40 @@
+id: ko-grm-00138
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: 「-(으)ㄴ/는다면」：假设性条件
+structure: 动词/形容词 + -(으)ㄴ/는다면
+structure_pattern: V/A-(으)ㄴ/는다면
+explanation_zh: 表示假设条件的连接词尾，由间接引用形 -다고 + 하면 缩略而来，把某一假定作为条件提出，后句引出该假定下的结果或判断。相当于中文"如果……的话"，比单纯的
+  -(으)면 假定意味更强。
+examples:
+- text: 하지만 황제에게 자식이 있었다면, 다음 황제가 될 자격이 있는 정통 후계자가 존재한다면 상황이 달라진다.
+  reading: ''
+  annot: 하지만 황제에게 자식이 있었다면, 다음 황제가 될 자격이 있는 정통 후계자가 존재한다면 상황이 달라진다.
+  translation_zh: 但如果皇帝有子嗣，存在有资格继位的正统继承人，情况就会不同。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+- text: 만약 정말로 그런 인물이 존재한다면, 제가 책임지고 그를 생포해서 클라우 님 앞에 데리고 오겠습니다.
+  reading: ''
+  annot: 만약 정말로 그런 인물이 존재한다면, 제가 책임지고 그를 생포해서 클라우 님 앞에 데리고 오겠습니다.
+  translation_zh: 如果真的存在那样的人物，我会负责将他生擒，带到克劳大人面前。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 连接词尾
+- 假定/条件
+- 接续
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 4
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

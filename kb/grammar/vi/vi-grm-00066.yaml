@@ -1,0 +1,31 @@
+id: vi-grm-00066
+language: vi
+type: grammar
+level: L2
+level_rank: 2
+title: Nếu… thì…：假设条件复句
+structure: Nếu + 条件分句, thì + 结果分句
+structure_pattern: Nếu + 条件, thì + 结果
+explanation_zh: 越南语最基本的假设句式，nếu 提出条件，thì 引出结果，相当于“如果……就……”。本例是与事实相反的假设（实际摔了），越南语无需特殊虚拟形式，靠语境即可表达。
+examples:
+- text: Nếu nhảy bằng dây thun thì bữa nay tao đâu có té.
+  reading: ''
+  annot: Nếu nhảy bằng dây thun thì bữa nay tao đâu có té.
+  translation_zh: 要是（当时）用橡皮筋跳，今天我哪会摔跤。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 条件
+- 复句
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

@@ -1,0 +1,39 @@
+id: ja-grm-00399
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 形式名词「の」：名词化与准分裂强调句
+structure: 用言連体形＋形式名詞「の」＋助詞「は」（提示焦点）
+structure_pattern: V-連体形 + のは（準分裂文）
+explanation_zh: 形式名词「の」将前面的用言短语名词化，再用助词「は」提示，构成“……的是……”的准分裂句，用于引出焦点信息。与「こと」功能相近但口语感更强，叙述中常用来制造悬念。片段中多处使用，如“递过来的是一张照片”。
+examples:
+- text: そう言いながら差しだされたのは、一枚の写真。
+  reading: ''
+  annot: そう言[い]いながら差[さ]しだされたのは、一枚[いちまい]の写真[しゃしん]。
+  translation_zh: 她这么说着递过来的，是一张照片。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+- text: 写っているのは、顔を半分ほど手で隠した女の子の自画撮り写真。
+  reading: ''
+  annot: 写っているのは、顔を半分ほど手で隠した女の子の自画撮り写真。
+  translation_zh: 照片里拍的，是一个用手遮住半边脸的女孩的自拍。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 形式名词
+- 名词化
+- 口语
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 4
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

@@ -1,0 +1,39 @@
+id: ja-grm-00324
+language: ja
+type: grammar
+level: N3
+level_rank: 3
+title: 〜ちまう／〜ちゃう：「〜てしまう」的口语音便」
+structure: 動詞連用形（音便形）＋ちまう／ちゃう（＝てしまう）
+structure_pattern: V-連用形(音便) + ちまう / ちゃう
+explanation_zh: 「ちまう／ちゃう」是补助动词「〜てしまう」在口语中的缩约，表示完了或「不由得……、到头来……」的无奈语气；「〜でしまう」则变为「じまう」。粗豪的男性语多用「ちまう」，日常随意会话多用「ちゃう」。
+examples:
+- text: 釣られて惚れ返しちまったじゃねぇか責任取りやがれ!!
+  reading: ''
+  annot: 釣[つ]られて惚[ほ]れ返[かえ]しちまったじゃねぇか責任[せきにん]取[と]りやがれ!!
+  translation_zh: （我）被带得反过来喜欢上你了，给我负责啊!!
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+- text: まぁ、あんだけ暴走しちゃったからなー……。
+  reading: ''
+  annot: まぁ、あんだけ暴走[ぼうそう]しちゃったからなー……。
+  translation_zh: 嘛，毕竟刚才那样失控了一番啊……
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 体貌
+- 口語
+- 音便
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

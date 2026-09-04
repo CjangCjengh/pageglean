@@ -1,0 +1,44 @@
+id: vi-grm-00171
+language: vi
+type: grammar
+level: L2
+level_rank: 2
+title: nếu…(thì)…(sẽ)…：假设条件句
+structure: Nếu + 条件分句，（thì）+ 主句 + sẽ + 动词
+structure_pattern: Nếu + clause, (thì) + S + sẽ + V
+explanation_zh: nếu 引导条件分句，相当于“如果、要是”，主句常用 thì 承接，并用将来虚词 sẽ 表示结果；也可与 chắc（想必）呼应，表示对未来结果的推测。“sẽ
+  không…đâu”中句末的 đâu 加强否定与反驳语气。
+examples:
+- text: Nếu không có một tình cảm đặc biệt, Việt An sẽ không cho mày chép bài giùm
+    đâu!
+  reading: ''
+  annot: Nếu không có một tình cảm đặc biệt, Việt An sẽ không cho mày chép bài giùm
+    đâu!
+  translation_zh: 要是没有特别的交情，越安才不会帮你抄笔记呢！
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+- text: Nếu nó nghỉ thêm một tuần nữa, chắc tôi phải ngồi chép đến cụp xương sống
+    mất!
+  reading: ''
+  annot: Nếu nó nghỉ thêm một tuần nữa, chắc tôi phải ngồi chép đến cụp xương sống
+    mất!
+  translation_zh: 要是她再请假一个星期，我恐怕要抄到脊背都弯了不可！
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 条件复句
+- 虚词
+- 语气
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

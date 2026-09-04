@@ -1,0 +1,39 @@
+id: ko-grm-00264
+language: ko
+type: grammar
+level: TOPIK2
+level_rank: 2
+title: -(으)ㄹ 수 없다 / -지 못하다：无法……
+structure: 动词词干 + -(으)ㄹ 수 없다（依存名词 수 表可能）；动词词干 + -지 못하다（长形否定）
+structure_pattern: V-어간 + -(으)ㄹ 수 없다 / -지 못하다
+explanation_zh: 两者都表示能力或可能性的否定。-(으)ㄹ 수 없다 以依存名词 수 构成，较为正式；-지 못하다 是否定副词 못 的长形，语气略强。片段中多次用于描写被控制者“无法抵抗、无法警戒”的处境。
+examples:
+- text: 실제로 남자는 아무런 저항도 하지 못했다.
+  reading: ''
+  annot: 실제로 남자는 아무런 저항도 하지 못했다.
+  translation_zh: 实际上，那个男人一点反抗都没能做到。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+- text: ……그래서 주위를 제대로 경계하지 못했다.
+  reading: ''
+  annot: ……그래서 주위를 제대로 경계하지 못했다.
+  translation_zh: ……所以（露西）没能好好警戒周围。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 否定
+- 可能性
+- 依存名词
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 5
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

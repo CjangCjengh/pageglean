@@ -1,0 +1,39 @@
+id: ja-grm-00569
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: のだ／んだ（のです）：解释语气
+structure: 用言连体形／体言 + 形式名词 の（口语转为 ん）+ 助动词 だ／です
+structure_pattern: V/A + のだ/んだ（のです）
+explanation_zh: 「のだ」接用言连体形或体言后，表示解释、说明的语气，口语中「の」常变为「ん」构成「んだ」，礼貌体为「のです」。片段中主人公独白多用「なんだが」「〜んだよ」，妹妹则句句以「なのです」收尾，呈现口语语体的角色差异。
+examples:
+- text: だからこそ、夢前光の協力が不可欠なんだが……。
+  reading: ''
+  annot: だからこそ、夢前光[ゆめさきひかり]の協力[きょうりょく]が不可欠[ふかけつ]なんだが……。
+  translation_zh: 正因如此，梦前光的配合才是不可或缺的，可是……
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+- text: 「……なんでそんなことを？ そもそも風城さんとは誰なのです？」
+  reading: ''
+  annot: 「……なんでそんなことを？ そもそも風城[かぜしろ]さんとは誰[だれ]なのです？」
+  translation_zh: 「……为什么要做那种事？说起来，风城这个人到底是谁呢？」
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 语气
+- 口语
+- 形式名词
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 8
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

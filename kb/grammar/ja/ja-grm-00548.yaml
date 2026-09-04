@@ -1,0 +1,31 @@
+id: ja-grm-00548
+language: ja
+type: grammar
+level: N2
+level_rank: 4
+title: 「〜たところで」：即使…也徒劳
+structure: 動詞連用形＋助動詞「た」（連体形）＋助詞「ところで」
+structure_pattern: V連用形+た+ところで
+explanation_zh: 接动词た形（学校文法：助動詞「た」連体形）之后，表示“即使做了也…”，后项几乎必接否定或表示徒劳的表达。比「〜ても」语气更强，带有“做也白做”的语感。
+examples:
+- text: ここで「やめろ」だの「なにがあった」だの言ったところでどうにかなるわけがない。
+  reading: ''
+  annot: ここで「やめろ」だの「なにがあった」だの言[い]ったところでどうにかなるわけがない。
+  translation_zh: 就算在这里说什么“住手”“发生什么了”之类的话，也根本无济于事。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 接续
+- 语气
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

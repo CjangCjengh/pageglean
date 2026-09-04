@@ -1,0 +1,32 @@
+id: ja-grm-00601
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 〜のだ／〜んだ：解释与强调语气
+structure: 用言終止形＋のだ（口語：んだ）
+structure_pattern: 用言終止形 + の（準体助詞） + だ（助動詞）；口語：んだ
+explanation_zh: 由准体助词「の」加断定助动词「だ」构成，表示解释说明或带有断言、说服的语气；口语形为「んだ」。片段中旁白用书面化的「強いのだ」，台词用口语的「悪いんだ」，反映文体差异。与单纯结句的「だ」相比，「のだ」重在向对方说明缘由。
+examples:
+- text: 開き直った腐女子は強いのだ。
+  reading: ''
+  annot: 開[お]き直[なお]った腐女子[ふじょし]は強[つよ]いのだ。
+  translation_zh: 豁出去的腐女子是很强的。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 準体助詞
+- 語気
+- 文体差
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 4
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

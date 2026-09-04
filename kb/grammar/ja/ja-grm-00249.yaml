@@ -1,0 +1,38 @@
+id: ja-grm-00249
+language: ja
+type: grammar
+level: N3
+level_rank: 3
+title: 〜はずだった：本该如此却落空
+structure: 用言終止形＋はず／はずだった（形式名詞）
+structure_pattern: V-終止形 + はず + だった
+explanation_zh: 形式名词「はず」表示依据事理「理应如此」的期待与推测，「应该……」。其过去式「はずだった」表示「本应如此，实际上却没有实现」，暗含落空之意。片段中「蹴散らせたはず」是基于能力的肯定推测，「受けるはずだった変化」则指本应由镜子承受却转而反弹的变化。
+examples:
+- text: その気になれば警官なんて蹴散らせたはず。
+  reading: ''
+  annot: その気[き]になれば警官[けいかん]なんて蹴散[けち]らせたはず。
+  translation_zh: 只要她有心，连警察都能轻松打倒。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+- text: 『鏡』が受けるはずだった変化を術者に返す。
+  reading: ''
+  annot: 『鏡[かがみ]』が受[う]けるはずだった変化[へんか]を術者[じゅつしゃ]に返[かえ]す。
+  translation_zh: 把本应由『镜子』承受的变化反弹给施术者。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 形式名词
+- 期待
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

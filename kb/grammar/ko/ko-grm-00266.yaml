@@ -1,0 +1,38 @@
+id: ko-grm-00266
+language: ko
+type: grammar
+level: TOPIK2
+level_rank: 2
+title: 「-(으)며 / -(으)면서：动作同时进行」
+structure: 용언 어간 + -(으)며 / -(으)면서（연결 어미）
+structure_pattern: 용언 어간 + -(으)며
+explanation_zh: -(으)며是接在用言词干后的连接词尾，表示两个动作或状态同时进行，是-(으)면서的缩略形。在叙事文体中多用-며，使句子简洁、节奏紧凑。对应中文的"一边……一边……"或"……着"。
+examples:
+- text: 그 방심한 틈을 노려야겠다고 생각하며, 루시는 클라우에게 쇄도했다.
+  reading: ''
+  annot: 그 방심한 틈을 노려야겠다고 생각하며, 루시는 클라우에게 쇄도했다.
+  translation_zh: 露西心想必须瞄准那大意的破绽下手，随即向克劳猛冲过去。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+- text: 클라우가 루시를 바라보며 음흉한 미소를 짓고 있었을 때, 갑옷을 입은 기사가 대검을 들고 돌격했다.
+  reading: ''
+  annot: 클라우가 루시를 바라보며 음흉한 미소를 짓고 있었을 때, 갑옷을 입은 기사가 대검을 들고 돌격했다.
+  translation_zh: 正当克劳望着露西露出阴险笑容时，身穿铠甲的骑士举着大剑冲了过来。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 连接词尾
+- 同时动作
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 9
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

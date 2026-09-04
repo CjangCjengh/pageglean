@@ -1,0 +1,38 @@
+id: vi-grm-00075
+language: vi
+type: grammar
+level: L2
+level_rank: 2
+title: Vừa…vừa…：一边……一边……／又……又……
+structure: 连接词（kết từ）vừa + A, vừa + B
+structure_pattern: vừa + A + vừa + B
+explanation_zh: 用于连接同时发生的两个动作或并存的状态。接心理状态相当于「又……又……」，接具体动作相当于「一边……一边……」。
+examples:
+- text: Vừa mắc cỡ, vừa bực mình, tôi gắt
+  reading: ''
+  annot: Vừa mắc cỡ, vừa bực mình, tôi gắt
+  translation_zh: 我又害羞又恼火，没好气地嚷道。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+- text: Vừa nói, tôi vừa ném cái ná vô bụi cây trước vẻ mặt ngơ ngác của Tiểu Li.
+  reading: ''
+  annot: Vừa nói, tôi vừa ném cái ná vô bụi cây trước vẻ mặt ngơ ngác của Tiểu Li.
+  translation_zh: 我边说边把弹弓扔进树丛，小丽一脸茫然。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 并列
+- 体貌
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

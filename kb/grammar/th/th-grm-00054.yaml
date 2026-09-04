@@ -1,0 +1,30 @@
+id: th-grm-00054
+language: th
+type: grammar
+level: L3
+level_rank: 3
+title: V + จน + 结果：……到……的地步
+structure: V + จน + 结果/程度补语
+structure_pattern: V + จน + ผลลัพธ์
+explanation_zh: 「V + จน + 结果」表示动作达到某种结果或程度，相当于「……到……的地步」。「ฟังจนเบื่อแล้ว」即「听到都烦了／听腻了」。结果成分作程度补语，说明前面动作造成的状态。
+examples:
+- text: ฟัง​จน​เบื่อ​แล้ว
+  reading: ''
+  annot: ฟัง​จน​เบื่อ​แล้ว
+  translation_zh: （这种话）听得都腻了。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 程度/结果
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

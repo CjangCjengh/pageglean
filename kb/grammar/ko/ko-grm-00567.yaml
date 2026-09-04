@@ -1,0 +1,33 @@
+id: ko-grm-00567
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: 「-고 말다」：不由自主、终竟如此
+structure: 动词词干 + -고 + 补助动词 말다
+structure_pattern: V-고 + 보조용언 말다
+explanation_zh: 本动词后接连接词尾'-고'再加补助动词'말다'，表示事情终于发生、无法挽回，多含遗憾、后悔或无奈之意。与近义的'-아/어 버리다'相比，'-고
+  말다'更偏书面、语气更含蓄。过去时'-고 말았다'在小说叙述中高频出现。
+examples:
+- text: 어쩐지 즉각적으로 키이리를 변명하고 말았다.
+  reading: ''
+  annot: 어쩐지 즉각적으로 키이리를 변명하고 말았다.
+  translation_zh: 不知怎的，我竟立刻替基里辩解起来。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 补助动词
+- 体貌
+- 语气
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

@@ -1,0 +1,39 @@
+id: vi-grm-00317
+language: vi
+type: grammar
+level: L3
+level_rank: 3
+title: 被动标记 bị / được：受损与受益
+structure: 受事 + bị/được + 施事 + 动词
+structure_pattern: N + bị/được + (N) + V
+explanation_zh: 越南语用 bị 表示受损、不如意的被动，用 được 表示受益、如意的被动，褒贬色彩由标记本身体现。片段中「我」挨打一律用 bị；结尾「được
+  mẹ tôi bổ sung thêm một trận đòn」故意用得益标记 được 写挨打，形成幽默反讽。
+examples:
+- text: Đến lượt tôi bị nó cỡi lên người và bị nó giáng những quả tối tăm mày mặt.
+  reading: ''
+  annot: Đến lượt tôi bị nó cỡi lên người và bị nó giáng những quả tối tăm mày mặt.
+  translation_zh: 轮到我被他骑在身下，被他一拳拳打得眼冒金星。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+- text: tôi sẽ được mẹ tôi "bổ sung" thêm một trận đòn khác.
+  reading: ''
+  annot: tôi sẽ được mẹ tôi "bổ sung" thêm một trận đòn khác.
+  translation_zh: 我还会「被」妈妈「补上」另一顿揍。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 被动
+- 语义色彩
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

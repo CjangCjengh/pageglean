@@ -1,0 +1,31 @@
+id: ja-grm-00332
+language: ja
+type: grammar
+level: N3
+level_rank: 3
+title: 〜と申します：谦让语自我介绍
+structure: 名＋引用助詞「と」＋「言う」的謙譲語「申す」
+structure_pattern: 名 + と申す（謙譲語）
+explanation_zh: 「申す」是「言う」的謙譲語，通过压低自己来向对方表示敬意，引用助词「と」提示自我介绍的内容。本段中伊斯卡郑重谦恭的「イスカと申します」与父亲随意的「和彦だ」形成语体反差，人物性格对比鲜明。同段还可见敬称「お父上」与礼貌应答「かしこまりました」。
+examples:
+- text: あ、っと、和希のお父上ですよね？ ――イスカと申します。
+  reading: ''
+  annot: あ、っと、和希のお父上[ちちうえ]ですよね？ ――イスカと申[もう]します。
+  translation_zh: 啊，那个，您是和希的父亲大人吧？——我叫伊丝卡。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 敬语
+- 谦让语
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

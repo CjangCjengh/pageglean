@@ -1,0 +1,38 @@
+id: th-grm-00016
+language: th
+type: grammar
+level: L3
+level_rank: 3
+title: ทำให้：致使结构「使得／弄得」
+structure: ทำให้（กริยาช่วย แสดงเหตุ-ผล）+ 结果小句
+structure_pattern: ทำให้ + V/Adj
+explanation_zh: ทำให้ 表示“使得、导致”，引出因果结构，后面接结果状态或事件。原因可以是整件事或某种情况，汉语可译为“弄得……、害得……”。片段中出现两次，是书面叙述常用的因果表达方式。
+examples:
+- text: เพราะ​ความ​ที่​เป็น​คน​พูด​ไม่​เก่ง​นี่​ล่ะ​นะ ทำให้​ไม่มี​เพื่อน​เลย​แม้แต่​คน​เดียว
+  reading: ''
+  annot: เพราะ​ความ​ที่​เป็น​คน​พูด​ไม่​เก่ง​นี่​ล่ะ​นะ ทำให้​ไม่มี​เพื่อน​เลย​แม้แต่​คน​เดียว
+  translation_zh: 正因为我不善言辞啊，结果连一个朋友都没有。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+- text: ทำให้​กลาย​เป็น​เด็ก​ที่​ไม่มี​เพื่อน
+  reading: ''
+  annot: ทำให้​กลาย​เป็น​เด็ก​ที่​ไม่มี​เพื่อน
+  translation_zh: 使得（我）变成了没有朋友的孩子。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 致使
+- 因果
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

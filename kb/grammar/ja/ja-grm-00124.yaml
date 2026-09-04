@@ -1,0 +1,31 @@
+id: ja-grm-00124
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 「〜てはどうだ」：不如……怎么样
+structure: 動詞連用形 ＋ て ＋ は ＋ どうだ
+structure_pattern: V連用形 + て + は + どうだ
+explanation_zh: 「〜てはどうだ（どうだろう）」表示提议，意为"……怎么样？／不如……吧"。结构为动词连用形＋接续助词「て」＋副助词「は」。是日常口语中常用的建议句式，也可说「〜てはどうか」。
+examples:
+- text: どうせなら魔眼を試してみてはどうだ？
+  reading: ''
+  annot: どうせなら魔眼[まがん]を試[ため]してみてはどうだ？
+  translation_zh: 反正都这样了，不如试试魔眼怎么样？
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 提议
+- 语气
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 4
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

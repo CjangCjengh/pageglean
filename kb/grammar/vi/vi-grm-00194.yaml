@@ -1,0 +1,39 @@
+id: vi-grm-00194
+language: vi
+type: grammar
+level: L2
+level_rank: 2
+title: 疑问结构：疑问词（gì / đâu / chi）+ vậy
+structure: Gì/Chi + vậy?；疑问词置于介词/动词之后提问
+structure_pattern: Q-word (+ vậy)? / S + Q-word + VP?
+explanation_zh: 越南语疑问词（gì「什么」、đâu「哪里」）可置于介词或动词之后提问（Mực ở đâu…?「墨水从哪儿…？」）；追问情况时常用「疑问词
+  + vậy」，如 Gì vậy?（怎么了？）。chi 是中部方言的 gì，vô 是南方口语的 vào（进、到）。
+examples:
+- text: Gì vậy Tiểu Li?
+  reading: ''
+  annot: Gì vậy Tiểu Li?
+  translation_zh: 怎么了，小李？
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+- text: Mực ở đâu dính vô đây?
+  reading: ''
+  annot: Mực ở đâu dính vô đây?
+  translation_zh: 墨水是从哪儿沾到这儿来的？
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 疑问句
+- 方言词
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

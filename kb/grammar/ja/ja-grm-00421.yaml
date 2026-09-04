@@ -1,0 +1,31 @@
+id: ja-grm-00421
+language: ja
+type: grammar
+level: N3
+level_rank: 3
+title: 「〜わけではない：并非〜」
+structure: 用言の終止形・連体形＋形式名詞「わけ」＋断定の助動詞「だ」の否定形「ではない」
+structure_pattern: V(終止形/連体形) + わけではない
+explanation_zh: 形式名词「わけ」表示缘由、道理，「わけではない」是对它的否定，属于部分否定，即事情并非如对方所想那样。它不否认事实本身，而是纠正对方的理解或印象。中文译为「并不是说……」「并非……」。
+examples:
+- text: 悪いことをしているわけではないので、文句も言いにくい。
+  reading: ''
+  annot: 悪[わる]いことをしているわけではないので、文句[もんく]も言[い]いにくい。
+  translation_zh: 毕竟也不是在做什么坏事，所以也很难抱怨。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 形式名词
+- 部分否定
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

@@ -1,0 +1,31 @@
+id: ja-grm-00616
+language: ja
+type: grammar
+level: N2
+level_rank: 4
+title: たとえ〜ても：即使……也
+structure: たとえ + 动词连用形 + ても（接续助词「て」+ 系助词「も」）
+structure_pattern: たとえ + V-連用形 + て + も
+explanation_zh: 「たとえ〜ても」是让步条件的固定搭配：「たとえ」提出极端假设，「ても」表示转折让步，意为「即使〜也〜」。句尾「なんだから」（=「なのだから」）带解释、叮嘱的口吻。本句还叠加了「死んでしまう」，「しまう」强调事态的完成。
+examples:
+- text: たとえ死んでしまっても、おまえたちは親子なんだから──。
+  reading: ''
+  annot: たとえ死[し]んでしまっても、おまえたちは親子[おやこ]なんだから──。
+  translation_zh: 即使死了，你们终究是骨肉至亲啊──。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 让步
+- 接续
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

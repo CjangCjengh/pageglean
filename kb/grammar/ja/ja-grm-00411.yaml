@@ -1,0 +1,32 @@
+id: ja-grm-00411
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 〜なければならない：义务（口语「しなきゃなんねぇ」）
+structure: 动词未然形（否定形）+ なければ + ならない → 口语约音 なきゃ + なんない
+structure_pattern: V-未然形 + なきゃ + なんない
+explanation_zh: 标准形式为〜なければならない，表示义务，「必须做……」。口语中なければ约音为なきゃ，ならない变为なんない，粗鲁的男性语进一步说成ねぇ。片段中主人公硬着头皮吼出这句话给自己壮胆。
+examples:
+- text: しなきゃなんねぇんだ
+  reading: ''
+  annot: しなきゃなんねぇんだ
+  translation_zh: （我）不干不行啊！
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 义务
+- 口语约音
+- 接续
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

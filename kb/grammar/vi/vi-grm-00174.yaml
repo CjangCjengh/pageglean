@@ -1,0 +1,33 @@
+id: vi-grm-00174
+language: vi
+type: grammar
+level: L4
+level_rank: 4
+title: chưa kịp…thì…đã…：还没来得及……就……
+structure: ……chưa kịp + 动1 + thì + ……đã + 动2
+structure_pattern: S + chưa kịp + V1 + thì + S + đã + V2
+explanation_zh: chưa kịp 意为“还没来得及”，与表示已然的 đã、连接词 thì 搭配，强调前一动作尚未完成，后一动作已突然发生，相当于汉语“还没……就……”。chưa、đã
+  均属副词（phó từ）。
+examples:
+- text: 'Tôi chưa kịp hiểu ra chuyện gì thì cô Hường đã đọc to lên:'
+  reading: ''
+  annot: 'Tôi chưa kịp hiểu ra chuyện gì thì cô Hường đã đọc to lên:'
+  translation_zh: 我还没弄明白是怎么回事，香老师已经大声念了出来：
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 体貌
+- 复句
+- 副词
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

@@ -1,0 +1,32 @@
+id: ko-grm-00189
+language: ko
+type: grammar
+level: TOPIK2
+level_rank: 2
+title: -ㄴ 지：经过的时间「已经……了」
+structure: 动词词干 + -ㄴ 지 + 时间段
+structure_pattern: V + -ㄴ 지 (관형사형 전성 어미 + 의존 명사) + 기간
+explanation_zh: 지是依存名词，接在动词冠形词形-ㄴ之后，表示自某事件发生以来经过的时间，后面常跟“수십여 년”等时间段。片段中「몰락을 시작한 지
+  수십여 년」意为“开始没落已数十年”。注意与表示时间点的助词에相区分。
+examples:
+- text: 수많은 미궁을 지배하고 있던 드라페스트 공작 가문이 몰락을 시작한 지 수십여 년……
+  reading: ''
+  annot: 수많은 미궁을 지배하고 있던 드라페스트 공작 가문이 몰락을 시작한 지 수십여 년……
+  translation_zh: 曾支配无数迷宫的德拉佩斯特公爵家，开始没落已经数十年……
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 의존 명사
+- 시간
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

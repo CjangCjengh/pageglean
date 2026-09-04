@@ -1,0 +1,38 @@
+id: ko-grm-00267
+language: ko
+type: grammar
+level: TOPIK2
+level_rank: 2
+title: 「-지만：转折与对比」
+structure: 용언 어간 + -지만（역접 연결 어미）
+structure_pattern: 용언 어간 + -지만
+explanation_zh: -지만是表示转折的连接词尾，后句内容与前句相反或出乎意料。本段战斗描写中反复用该结构强调攻击被挫败的落差。动词、形容词词干后均可直接接-지만。
+examples:
+- text: 대부분의 촉수가 클라우의 검에 절단되었지만, 그래도 적지 않은 숫자의 촉수들이 빈틈을 파고들며 클라우의 머리를 향해 쇄도했다.
+  reading: ''
+  annot: 대부분의 촉수가 클라우의 검에 절단되었지만, 그래도 적지 않은 숫자의 촉수들이 빈틈을 파고들며 클라우의 머리를 향해 쇄도했다.
+  translation_zh: 大部分触手被克劳的剑斩断了，但仍有不少触手钻进空隙，朝克劳的头部猛冲过去。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+- text: 클라우가 집어 던진 칼날이 알테아의 몸에 정통으로 꽂혔지만, 마법적으로 강화된 갑옷에 꽂혔을 뿐 알테아의 몸을 꿰뚫지는 못했다.
+  reading: ''
+  annot: 클라우가 집어 던진 칼날이 알테아의 몸에 정통으로 꽂혔지만, 마법적으로 강화된 갑옷에 꽂혔을 뿐 알테아의 몸을 꿰뚫지는 못했다.
+  translation_zh: 克劳掷出的刀刃正中阿尔忒亚的身体，却只是插在魔法强化过的铠甲上，没能刺穿她的身躯。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 连接词尾
+- 转折对比
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

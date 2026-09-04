@@ -1,0 +1,32 @@
+id: ko-grm-00191
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: -(으)ㄹ 수밖에 없다：只能、不得不
+structure: 谓词词干 + -(으)ㄹ 수밖에 없다
+structure_pattern: V/A + -(으)ㄹ 수밖에 없다 (의존 명사 수 + 밖에 + 없다)
+explanation_zh: 수是表示方法、可能性的依存名词；-(으)ㄹ 수밖에 없다字面义为“没有别的办法”，即“只能……、不得不……”。片段用它说明军事规模与经济力挂钩是必然结果。可与-(으)ㄹ
+  수 있다（能够）对照记忆。
+examples:
+- text: 경제력이나 인구 등과 직결되기 때문에 군사력의 규모도 연동될 수밖에 없다.
+  reading: ''
+  annot: 경제력이나 인구 등과 직결되기 때문에 군사력의 규모도 연동될 수밖에 없다.
+  translation_zh: 由于（马纳尔）与经济力、人口等直接挂钩，军事力量的规模也只能随之联动。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 의존 명사
+- 양태
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

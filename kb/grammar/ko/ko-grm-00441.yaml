@@ -1,0 +1,38 @@
+id: ko-grm-00441
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: 「-도록」：目的与指向
+structure: 용언 어간 + 연결어미 '-도록'
+structure_pattern: V/A-도록
+explanation_zh: 连接词尾'-도록'可表示动作的目的或指向，构成目的副词节，相当于“为了……”。常与否定形式'-지 않다'搭配，表示“以免……”“不让……”。片段中两处都表示主人公不想引起他人注意的目的。
+examples:
+- text: 다른 사람들에게 들키지 않도록 속전속결로 끝내야 한다.
+  reading: ''
+  annot: 다른 사람들에게 들키지 않도록 속전속결로 끝내야 한다.
+  translation_zh: 为了不被别人发现，必须速战速决地解决。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+- text: 어느새 내 등 뒤에 다가온 가로가 나에게만 들리도록 작게 속삭였다.
+  reading: ''
+  annot: 어느새 내 등 뒤에 다가온 가로가 나에게만 들리도록 작게 속삭였다.
+  translation_zh: 不知何时来到我身后的加罗，小声耳语着，音量刚好只让我一个人听见。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 连接词尾
+- 目的
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

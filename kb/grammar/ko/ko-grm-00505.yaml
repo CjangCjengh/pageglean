@@ -1,0 +1,31 @@
+id: ko-grm-00505
+language: ko
+type: grammar
+level: TOPIK5
+level_rank: 5
+title: -ㄴ/는다기에는：要说……的话（却）
+structure: 定语词尾 -(으)ㄴ/는 + 依存名词 -기 + 补助词 -에는；体言后接 (이)라기에는
+structure_pattern: V/A-(으)ㄴ/는다기에는; N(이)라기에는
+explanation_zh: 表示"若以……来评价的话（事实却与之不符）"，前项提出一种说法，后项转折否定。体言后用 (이)라기에는，如片段中的"우연이라기에는"。中文可译为"要说……倒不如说……""说是……也太……"。
+examples:
+- text: 우연이라기에는 너무나 타이밍 좋은 그 사실이 자꾸만 마음에 걸렸다.
+  reading: ''
+  annot: 우연이라기에는 너무나 타이밍 좋은 그 사실이 자꾸만 마음에 걸렸다.
+  translation_zh: 要说是偶然，时间点也太巧了，这件事总让我耿耿于怀。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 转折
+- 评价
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

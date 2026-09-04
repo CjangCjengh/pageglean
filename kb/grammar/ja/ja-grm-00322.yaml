@@ -1,0 +1,31 @@
+id: ja-grm-00322
+language: ja
+type: grammar
+level: N3
+level_rank: 3
+title: 形式名词「わけ」：按道理／也就是说（〜なわけで）
+structure: 用言連体形＋わけだ／なわけで（形式名詞「訳」）
+structure_pattern: V-連体形 / Naな + わけだ
+explanation_zh: 形式名词「わけ」表示基于情理或已知事实得出的解释与结论，相当于“按道理是……”“也就是说……”。此处「〜なわけで」以连用形收束，句尾留有委婉余韵，是口语中常见的解释语气。
+examples:
+- text: だけどそれとは別に、リアが早い段階から想いを寄せてくれていたのは事実なわけで。
+  reading: ''
+  annot: だけどそれとは別[べつ]に、リアが早[はや]い段階[だんかい]から想[おも]いを寄[よ]せてくれていたのは事実[じじつ]なわけで。
+  translation_zh: 但撇开这个不说，莉亚从很早的阶段起就对我心生好感，这也是事实。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 形式名词
+- 语气
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

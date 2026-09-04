@@ -1,0 +1,32 @@
+id: ko-grm-00164
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: -는데도 불구하고：尽管……却……
+structure: 冠形词尾 -(으)ㄴ/는 + 依存名词 '데' + 补助词 '도' + '불구하고'（让步连接）
+structure_pattern: A/V-(으)ㄴ/는 데도 불구하고
+explanation_zh: 表示让步，相当于"尽管……却……"。结构上由冠形词尾使前面内容体词化后接依存名词 '데'、补助词 '도'，再与 '불구하고' 相连。例句中的
+  '인데도 불구하고' 是叙述格助词 '이다' 的冠形形 '(으)ㄴ' 与 '데' 的结合。
+examples:
+- text: 처음 보는 사람인데도 불구하고 친근하게 대해 주셔서, 조금 기뻤습니다.
+  reading: ''
+  annot: 처음 보는 사람인데도 불구하고 친근하게 대해 주셔서, 조금 기뻤습니다.
+  translation_zh: 尽管是初次见面的人，（您）却待我很亲切，我有点高兴。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 连接
+- 让步
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

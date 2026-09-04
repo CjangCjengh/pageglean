@@ -1,0 +1,31 @@
+id: th-grm-00116
+language: th
+type: grammar
+level: L2
+level_rank: 2
+title: ก่อน(ที่)…จะ…：在……之前
+structure: คำเชื่อม ก่อน(ที่) + อนุประโยค (…จะ + กริยา)
+structure_pattern: ก่อน(ที่) + S + จะ + V
+explanation_zh: 「ก่อน/ก่อนที่」引导时间状语从句，意为“在……之前”，从句中常与助动词「จะ」呼应。学校语法中属表示时间的连接词（สันธาน），从句可置于主句之前或之后。片段中三次使用，叙述雅妲离开前、跑回房间前等先后发生的事件。
+examples:
+- text: ก่อน​จะ​วิ่ง​หาย​เข้า​ห้อง​ตัวเอง​ไป​อย่าง​รวดเร็ว
+  reading: ''
+  annot: ก่อน​จะ​วิ่ง​หาย​เข้า​ห้อง​ตัวเอง​ไป​อย่าง​รวดเร็ว
+  translation_zh: 随后便飞快地跑回自己房间，一溜烟不见了。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 时间
+- 从句
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

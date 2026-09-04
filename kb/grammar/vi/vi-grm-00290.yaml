@@ -1,0 +1,32 @@
+id: vi-grm-00290
+language: vi
+type: grammar
+level: L3
+level_rank: 3
+title: làm cho + 补语：致使结构
+structure: làm cho + 宾语 + Adj/V
+structure_pattern: làm cho + O + A/V
+explanation_zh: 「làm cho + 宾语 + 形容词/动词」是致使结构，表示使某人/某物达到某种状态或产生某种结果，相当于“弄得…、让…变得…”。本段中还与比较级「hơn」和可能补语「được」连用。
+examples:
+- text: Mày không làm cho nó dài lẹ hơn được hả?
+  reading: ''
+  annot: Mày không làm cho nó dài lẹ hơn được hả?
+  translation_zh: 你就不能让它长得快点吗？
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 使役
+- 补语
+- 比较
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

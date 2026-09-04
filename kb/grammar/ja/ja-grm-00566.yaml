@@ -1,0 +1,31 @@
+id: ja-grm-00566
+language: ja
+type: grammar
+level: N1
+level_rank: 5
+title: 〜ものなら：“有本事就……”（接可能形的挑衅条件）
+structure: 动词可能形＋ものなら
+structure_pattern: V-可能 + ものなら
+explanation_zh: 形式名词「もの」接助动词「だ」的假定形「なら」，与可能动词搭配，以“如果你真有本事……”的口吻提出实际上极难实现的假设，后项常接命令形构成挑衅。片段中风城以此回应坂本“止められるものなら止めてみろ”。
+examples:
+- text: 止められるものなら止めてみろ。
+  reading: ''
+  annot: 止[と]められるものなら止[と]めてみろ。
+  translation_zh: 你有本事拦住我，就来试试看啊。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 条件
+- 语气
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

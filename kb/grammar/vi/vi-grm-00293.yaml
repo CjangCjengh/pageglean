@@ -1,0 +1,40 @@
+id: vi-grm-00293
+language: vi
+type: grammar
+level: L2
+level_rank: 2
+title: 「mỗi khi」：每当……的时候
+structure: Mỗi khi + 从句，主句
+structure_pattern: mỗi khi + clause, ...
+explanation_zh: 「mỗi khi」引导时间状语从句，意为「每当……」，强调每次该情况发生都会出现后句结果。多置于句首，后接主句，相当于中文「每当／每次」。
+examples:
+- text: Mỗi khi trò chuyện với mày, tao chỉ nhìn từ mắt trở xuống thôi!
+  reading: ''
+  annot: Mỗi khi trò chuyện với mày, tao chỉ nhìn từ mắt trở xuống thôi!
+  translation_zh: 每次和你聊天，我只从眼睛往下看！
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+- text: Nói vậy nhưng mỗi khi giáp mặt Tiểu Li, tôi không làm sao kìm được ý muốn
+    nhìn vô vết sẹo của nó.
+  reading: ''
+  annot: Nói vậy nhưng mỗi khi giáp mặt Tiểu Li, tôi không làm sao kìm được ý muốn
+    nhìn vô vết sẹo của nó.
+  translation_zh: 话虽这么说，但每次和小李面对面，我都忍不住想看她的伤疤。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- time_clause
+- habitual
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

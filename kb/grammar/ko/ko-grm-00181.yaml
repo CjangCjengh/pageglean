@@ -1,0 +1,40 @@
+id: ko-grm-00181
+language: ko
+type: grammar
+level: TOPIK2
+level_rank: 2
+title: -(으)ㄹ 것이다：推测与展望
+structure: 用言词干 + 冠形词形转成词尾 -(으)ㄹ + 依存名词 것 + 叙述格助词 이다
+structure_pattern: 용언 어간 + 관형사형 전성어미 -(으)ㄹ + 의존명사 것 + 서술격 조사 이다
+explanation_zh: 冠形词形转成词尾 -(으)ㄹ 修饰依存名词 것，再结合叙述格助词 이다，表示对事态的推测或展望。口语中缩略为 -(으)ㄹ 거예요。文中敬语
+  거예요 与书面体 것이다 并用，体现人物对话与独白的语体差异。
+examples:
+- text: 그 사람의 죽음을 안타까워하고 있다면, 그게 정답일 거예요.
+  reading: ''
+  annot: 그 사람의 죽음을 안타까워하고 있다면, 그게 정답일 거예요.
+  translation_zh: 如果你正为那个人的死感到痛惜，那应该就是正确答案。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+- text: 레이나는 내가 무슨 얘기를 하는지 이해하지 못할 것이다.
+  reading: ''
+  annot: 레이나는 내가 무슨 얘기를 하는지 이해하지 못할 것이다.
+  translation_zh: 蕾娜应该不会明白我在说什么。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 情态
+- 推测
+- 敬语
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

@@ -1,0 +1,39 @@
+id: vi-grm-00367
+language: vi
+type: grammar
+level: L2
+level_rank: 2
+title: không/chẳng… nữa：不再…
+structure: không/chẳng + V + nữa
+structure_pattern: không/chẳng + V + nữa
+explanation_zh: nữa 置于句末，与前面的否定词配合表示动作或状态的终止，相当于汉语“不再…”。chẳng 与 không 同义，语气更口语或书面化。片段中“không
+  buồn mắng… nữa”意为“懒得再骂／不再骂”，“buồn + V”表示“有兴致/愿意做某事”，多用于否定。
+examples:
+- text: Nhưng lần này, Hải gầy không buồn mắng tôi là con lừa nữa.
+  reading: ''
+  annot: Nhưng lần này, Hải gầy không buồn mắng tôi là con lừa nữa.
+  translation_zh: 但这一次，瘦海连骂我是头驴都懒得骂了。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+- text: chẳng còn dịp đem ra... hại bạn nữa.
+  reading: ''
+  annot: chẳng còn dịp đem ra... hại bạn nữa.
+  translation_zh: 再也没有机会拿出来……坑朋友了。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 否定
+- 体貌
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

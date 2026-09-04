@@ -1,0 +1,32 @@
+id: ko-grm-00478
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: -아/어 버리다：……掉了（完成与情绪）
+structure: 动词词干 + -아/어 + 보조동사 버리다
+structure_pattern: V-아/어 + 버리다（补助动词）
+explanation_zh: 主要动词的连接词尾 -아/어 后接补助动词 버리다，表示动作彻底完成，常带有遗憾、惋惜或如释重负等情绪色彩。相当于中文的“……掉了”“干脆……了”。
+examples:
+- text: 그러고는 부끄럽다는 듯, 무릎 위에 올려놓았던 인형을 들어 자신의 얼굴을 쏙 가려 버렸다.
+  reading: ''
+  annot: 그러고는 부끄럽다는 듯, 무릎 위에 올려놓았던 인형을 들어 자신의 얼굴을 쏙 가려 버렸다.
+  translation_zh: 然后像是害羞似的，她拿起放在膝盖上的玩偶，一下子把自己的脸遮得严严实实。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 补助动词
+- 体貌
+- 情绪
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

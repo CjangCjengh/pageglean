@@ -1,0 +1,31 @@
+id: ja-grm-00432
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 〜はじめる：动作的开始
+structure: 动词连用形 + 复合动词 はじめる
+structure_pattern: V-连用形 + はじめる
+explanation_zh: 用言连用形后接はじめる构成复合动词，表示动作开始发生，意为“开始～”。文中“育てはじめる”即“开始培育（香芹）”。与〜てしまう、〜ておく同属体貌性复合动词体系，是轻小说叙述中的高频表达。
+examples:
+- text: なぜかパセリを育てはじめるという謎采配を見せてくれた。
+  reading: ''
+  annot: なぜかパセリを育[そだ]てはじめるという謎采配[なぞさいはい]を見[み]せてくれた。
+  translation_zh: 不知为何她来了一波谜之操作——竟然开始种起了香芹。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 体貌
+- 复合动词
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

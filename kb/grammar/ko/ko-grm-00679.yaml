@@ -1,0 +1,31 @@
+id: ko-grm-00679
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: 「-았으면 좋겠다」：表达难以实现的愿望
+structure: 用言 + 过去时连接词尾 '-았으면' + '좋겠다'（形容词 '좋다' + 先语末词尾 '-겠-'）
+structure_pattern: V/A-았으면 좋겠다
+explanation_zh: 「-았으면 좋겠다」由过去时连接词尾「-았으면」加「좋겠다」构成，表示与现实相悖或难以实现的愿望。语气比「-고 싶다」更委婉，暗含期盼。相当于中文的“要是……就好了”。
+examples:
+- text: 나, 마왕이 죽었으면 좋겠어.
+  reading: ''
+  annot: 나, 마왕이 죽었으면 좋겠어.
+  translation_zh: 我啊，真希望魔王死掉就好了。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 愿望
+- 句型
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

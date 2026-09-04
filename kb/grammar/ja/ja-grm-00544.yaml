@@ -1,0 +1,32 @@
+id: ja-grm-00544
+language: ja
+type: grammar
+level: N1
+level_rank: 5
+title: 〜ずじまい：最终没能……就收场
+structure: 動詞未然形 ＋ 打消助動詞「ず」の連用形 ＋ 名詞「仕舞い」
+structure_pattern: V-未然形 + ず + じまい
+explanation_zh: 表示原本预期或理应发生的事，结果自始至终没有实现就那样收了场，带有遗憾、失望的语气。由文言打消助動詞「ず」的连用形直接接「じまい」构成，书面语色彩较强。片段中指到底没能从博客里看出对话的内容。
+examples:
+- text: 会話内容まではブログに書かれていないのでわからずじまい
+  reading: ''
+  annot: 会話内容[かいわないよう]まではブログに書[か]かれていないのでわからずじまい
+  translation_zh: 博客里没写到对话的具体内容，所以到底说了什么始终没弄明白。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 否定
+- 結果
+- 书面语
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

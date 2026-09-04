@@ -1,0 +1,32 @@
+id: ko-grm-00462
+language: ko
+type: grammar
+level: TOPIK2
+level_rank: 2
+title: 「-(으)ㄴ 적이 있다/없다：有无某种经历」
+structure: 动词词干 + -(으)ㄴ 적이 있다/없다（依存名词 적 + 있다/없다）
+structure_pattern: V-(으)ㄴ + 적(의존명사) + 있다/없다
+explanation_zh: 依存名词적表示曾经有过的时间或经历，与있다/없다搭配表示「曾经……过/从未……过」。它强调某种经历是否存在，与表示具体时点的「-(으)ㄹ
+  때」不同。片段中빈用它说明自己因健康原因多年未踏出过领地。
+examples:
+- text: 건강상의 이유로 요 몇 년간 영지 밖을 나가 본 적이 없어서 말이야.
+  reading: ''
+  annot: 건강상의 이유로 요 몇 년간 영지 밖을 나가 본 적이 없어서 말이야.
+  translation_zh: 因为身体原因，这几年我都未曾出过领地一步呢。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 依存名词
+- 经历
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 4
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

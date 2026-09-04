@@ -1,0 +1,39 @@
+id: ko-grm-00230
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: -아/어도 · -더라도：即使……也（让步）
+structure: 用言语干 + 让步连接词尾 '-아/어도'（进阶形式 '-더라도'）
+structure_pattern: V/A-아/어도; V-더라도
+explanation_zh: '''-아/어도''是让步连接词尾，表示前项情况不影响后项结果，即“即使……也……”。进阶形式''-더라도''同样表让步，语气更强且常含退一步的假设。片段用''입혀도''''묶어도''等强调任何手段都无效，''베어
+  버릴 수는 없더라도''则先承认让步再提出替代方案。'
+examples:
+- text: 어떤 상처를 입혀도 즉각 회복해 반격하는 불사신……
+  reading: ''
+  annot: 어떤 상처를 입혀도 즉각 회복해 반격하는 불사신……
+  translation_zh: 无论造成什么样的伤口都会立刻恢复并反击的不死之身……
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+- text: 밧줄이 아니라 쇠사슬로 묶어도 소용없을 거야.
+  reading: ''
+  annot: 밧줄이 아니라 쇠사슬로 묶어도 소용없을 거야.
+  translation_zh: 就算不用绳子而改用铁链捆住，也毫无用处。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 让步
+- 接续
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 6
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

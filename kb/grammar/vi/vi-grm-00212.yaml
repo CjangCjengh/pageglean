@@ -1,0 +1,32 @@
+id: vi-grm-00212
+language: vi
+type: grammar
+level: L1
+level_rank: 1
+title: 完成体虚词 rồi：已经……了
+structure: 动词 + rồi（置于动词后或句末，表示已然）
+structure_pattern: V + rồi
+explanation_zh: rồi 放在动词后或句末，表示动作已经完成或情况已经实现，相当于汉语的「了／已经……了」。与汉语「了」的位置不同，它紧跟在动词或整个句子之后，如「Tao
+  làm mất rồi」（我弄丢了）。
+examples:
+- text: Tao làm mất rồi.
+  reading: ''
+  annot: Tao làm mất rồi.
+  translation_zh: 我把它弄丢了。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 时态虚词
+- 完成体
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

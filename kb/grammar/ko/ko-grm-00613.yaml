@@ -1,0 +1,39 @@
+id: ko-grm-00613
+language: ko
+type: grammar
+level: TOPIK2
+level_rank: 2
+title: -(으)니까：因为……（理由与根据）
+structure: 谓词 + 连接词尾 -(으)니까（前句为后句的理由、根据）
+structure_pattern: V/A- + -(으)니까
+explanation_zh: -(으)니까 是表原因的终结型连接词尾，强调前句是后句判断、行为或命令的理由与依据，可译为“因为/既然……”。与 -아/어서 不同，它后面可以接祈使句、共动句，也能接在时制词尾之后（如
+  -았으니까）。本段人物多次用它自述理由，语气较主观。
+examples:
+- text: 브룬은 어딜 가든 인형을 품에서 놓은 적이 없었으니까.
+  reading: ''
+  annot: 브룬은 어딜 가든 인형을 품에서 놓은 적이 없었으니까.
+  translation_zh: 因为布鲁恩无论去哪儿，都从没放下过怀里的娃娃。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+- text: 내가 너무 강하다는 걸 스스로 잘 알고 있으니까, 힘으로 약자를 내리누르는 것이 너무나 치졸하게 느껴졌다.
+  reading: ''
+  annot: 내가 너무 강하다는 걸 스스로 잘 알고 있으니까, 힘으로 약자를 내리누르는 것이 너무나 치졸하게 느껴졌다.
+  translation_zh: 正因为我清楚地知道自己有多强，所以以力量欺压弱者，让我感到无比卑鄙。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 原因
+- 接续
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 4
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

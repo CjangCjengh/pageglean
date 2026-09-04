@@ -1,0 +1,34 @@
+id: ko-grm-00150
+language: ko
+type: grammar
+level: TOPIK6
+level_rank: 6
+title: -기에 망정이지：幸亏……否则……
+structure: 动词/形容词词干 + -기에 망정이지
+structure_pattern: V/A- + -기에 망정이지
+explanation_zh: 高级连接结构，表示“幸亏……（否则就会……）”，后句通常给出相反假设下的负面结果，带有庆幸的语气。多用于书面叙述与回顾。片段用来说明：幸亏说出了真实姓名，否则谎言马上就会被识破。
+examples:
+- text: 내가 원래 세계에서의 이름이었던 ‘채시연’을 입에 담았기에 망정이지, 아즐란 말고 다른 가명을 입에 담았으면 금방 거짓말이라는 걸 눈치채고
+    나를 경계했을 것이다.
+  reading: ''
+  annot: 내가 원래 세계에서의 이름이었던 ‘채시연’을 입에 담았기에 망정이지, 아즐란 말고 다른 가명을 입에 담았으면 금방 거짓말이라는 걸
+    눈치채고 나를 경계했을 것이다.
+  translation_zh: 幸亏我说出了在原本世界的名字“蔡施妍”，要是说出阿兹兰以外的其他化名，对方马上就会看穿这是谎话并对我加以警惕。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 接续
+- 庆幸
+- 高级表达
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

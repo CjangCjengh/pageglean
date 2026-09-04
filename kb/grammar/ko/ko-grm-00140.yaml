@@ -1,0 +1,40 @@
+id: ko-grm-00140
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: 「-아/어 놓다」：动作结果的存续
+structure: 动词 + -아/어 놓다
+structure_pattern: V-아/어 놓다
+explanation_zh: 连接词尾 -아/어 与补助动词 놓다 结合，表示动作完成后其结果状态被保留或已预先备好，相当于中文"……好/着/起来"。与偏重状态的
+  -아/어 있다 不同，-아/어 놓다 强调有人为意图地完成并留下结果。文中 감춰 놓다（藏起来）、준비해 놓다（备好）皆是。
+examples:
+- text: 설마, 네가 그놈을 감춰 놓고 있었던 건 아니겠지?
+  reading: ''
+  annot: 설마, 네가 그놈을 감춰 놓고 있었던 건 아니겠지?
+  translation_zh: 该不会，是你把那家伙藏起来的吧？
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+- text: 식사 준비해 놨으니까, 맛있게 먹고 가.
+  reading: ''
+  annot: 식사 준비해 놨으니까, 맛있게 먹고 가.
+  translation_zh: 已经备好餐了，吃好再走吧。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 补助动词
+- 体貌
+- 结果存续
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

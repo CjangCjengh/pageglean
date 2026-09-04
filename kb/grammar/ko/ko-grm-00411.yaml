@@ -1,0 +1,31 @@
+id: ko-grm-00411
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: 「-아/어 죽겠다」：……得要命
+structure: 形容词词干 + -아/어 죽겠다
+structure_pattern: 용언 어간 + 연결어미 -아/어 + '죽다' + 선어말어미 -겠-
+explanation_zh: 口语夸张表达，表示程度极高，相当于“……死了”“……得要命”。多用于疲惫、饥饿、厌烦等感受。片段中叙述者抱怨“修复接待室的活儿烦得要命”。
+examples:
+- text: 접견실 복구 작업도 귀찮아 죽겠는데, 성을 부수게 둘 수는 없지.
+  reading: ''
+  annot: 접견실 복구 작업도 귀찮아 죽겠는데, 성을 부수게 둘 수는 없지.
+  translation_zh: 接待室的修复工作已经烦得要命，可不能让他们把城堡给拆了。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 语气
+- 口语
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 0
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

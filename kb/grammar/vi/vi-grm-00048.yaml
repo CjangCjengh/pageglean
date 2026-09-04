@@ -1,0 +1,39 @@
+id: vi-grm-00048
+language: vi
+type: grammar
+level: L3
+level_rank: 3
+title: 语气词 nghen：请求/叮嘱（南方口语）
+structure: 句末 + nghen（请求、叮嘱、商量）
+structure_pattern: S + V + … + nghen
+explanation_zh: “nghen”是南方口语常用的句末语气词，表示请求、叮嘱或商量，语气亲切，相当于中文“……哦/……呗/……好吗”。片段中“cho tôi
+  mượn nghen!”（借我看看呗）、“nhớ giữ cẩn thận nghen!”（记得好好保管哦）为典型用法。
+examples:
+- text: Chừng nào coi xong Việt An cho tôi mượn nghen!
+  reading: ''
+  annot: Chừng nào coi xong Việt An cho tôi mượn nghen!
+  translation_zh: 等看完了，越安借我看看呗！
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+- text: Anh nhớ giữ cẩn thận nghen!
+  reading: ''
+  annot: Anh nhớ giữ cẩn thận nghen!
+  translation_zh: 你可要记得好好保管哦！
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 语气
+- 方言
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

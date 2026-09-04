@@ -1,0 +1,32 @@
+id: ja-grm-00439
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 〜わけじゃない：并不是……（部分否定）
+structure: 普通体 + わけじゃない
+structure_pattern: 連体形 + 形式名詞「わけ」+ 否定「じゃない」
+explanation_zh: 形式名词「わけ」表示由状况得出的道理或结论，「わけじゃない」对前项内容作部分否定，译为"并不是……、倒也谈不上……"。语气比直接否定委婉，常用于辩解、反驳。例中角色嘴硬地否认"才不是一个人瞎起劲"；口语「じゃない」对应书面的「ではない」。
+examples:
+- text: べつにひとりで盛り上がってたわけじゃないので、勘違いするななのです！
+  reading: ''
+  annot: べつにひとりで盛[も]り上[あ]がってたわけじゃないので、勘違[かんちが]いするななのです！
+  translation_zh: 才不是我一个人在那儿瞎起劲呢，别误会了！
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 形式名词
+- 否定
+- 语气
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

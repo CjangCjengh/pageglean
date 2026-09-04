@@ -1,0 +1,32 @@
+id: ko-grm-00666
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: -기로 하다：决定做某事
+structure: 动词词干 + 名词形词尾 '-기' + 副格词尾 '-로' + '하다'
+structure_pattern: V + -기로 하다
+explanation_zh: -기로 하다由名词形词尾-기、副格词尾-로与动词하다组合而成，表示主体做出决定。'고민하지 않기로 하고'以连接形式出现，意为'决定不再犹豫，于是……'。相当于中文的'决定……''说好……'。
+examples:
+- text: 나는 더 오래 고민하지 않기로 하고, 그 두 사람에게서 몸을 돌렸다.
+  reading: ''
+  annot: 나는 더 오래 고민하지 않기로 하고, 그 두 사람에게서 몸을 돌렸다.
+  translation_zh: 我决定不再多作犹豫，转身离开那两人。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 决定
+- 名词化
+- 接续
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

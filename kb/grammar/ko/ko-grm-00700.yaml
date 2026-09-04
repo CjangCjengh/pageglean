@@ -1,0 +1,40 @@
+id: ko-grm-00700
+language: ko
+type: grammar
+level: TOPIK1
+level_rank: 1
+title: -지 말다：禁止与劝阻
+structure: '동사 어간 + -지 말다（해체 종결: -지 마）'
+structure_pattern: V- + -지 말다
+explanation_zh: '''-다''에 ''말다''가 결합한 부정 구성으로, 어떤 행위를 금지할 때 쓰며 학교문법의 부정법에 해당한다. 종결형은
+  계급(높임 단계)에 따라 ''-지 마''(해체), ''-지 마세요''(합쇼체) 등으로 바뀐다. 뒤에 ''-아/어 주다''를 이어 붙이면 ''부디
+  ~하지 말아 달라''는 완곡한 요청이 된다.'
+examples:
+- text: 마왕, 죽지 마아아―!
+  reading: ''
+  annot: 마왕, 죽지 마아아―!
+  translation_zh: 魔王，你不要死啊——！
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+- text: 안 죽었으니까, 흔들지 말아 줘, 키이리.
+  reading: ''
+  annot: 안 죽었으니까, 흔들지 말아 줘, 키이리.
+  translation_zh: 我又没死，所以别摇我了，基莉。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 부정/금지
+- 명령
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

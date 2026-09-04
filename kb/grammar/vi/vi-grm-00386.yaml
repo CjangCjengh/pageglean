@@ -1,0 +1,37 @@
+id: vi-grm-00386
+language: vi
+type: grammar
+level: L1
+level_rank: 1
+title: 句末助词 thôi：限定与缓和语气
+structure: V / VP + thôi
+structure_pattern: V + thôi
+explanation_zh: thôi 是句末情态词（tình thái từ），表示「只是、不过」，限定范围或缓和祈使语气，相当于汉语「……就好、罢了」。片段中两次出现，是口语高频用法。
+examples:
+- text: Tới chơi thôi!
+  reading: ''
+  annot: Tới chơi thôi!
+  translation_zh: 只是来玩而已！
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+- text: Rót từ từ thôi!
+  reading: ''
+  annot: Rót từ từ thôi!
+  translation_zh: 慢慢倒就好！
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 语气/助词
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

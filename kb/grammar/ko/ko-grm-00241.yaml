@@ -1,0 +1,39 @@
+id: ko-grm-00241
+language: ko
+type: grammar
+level: TOPIK2
+level_rank: 2
+title: 「-는 것 같다」：似乎、好像（推测）
+structure: 용언 전성 어미 ‘-는/-(으)ㄴ’ + 의존 명사 ‘것’ + 보조 형용사 ‘같다’
+structure_pattern: V-는 것 같다 / V-(으)ㄴ 것 같다
+explanation_zh: 转成词尾将用言名词化后接依存名词“것”与补助形容词“같다”，表示不确定的推测，相当于“好像……、似乎……”。现在时用“-는”，过去时用“-(으)ㄴ”，名词后接“인
+  것 같다”。文中副官以此推断敌情，后接“-군요”时兼带感叹语气。
+examples:
+- text: 역시 미궁 안에서 농성할 생각인 것 같군요.
+  reading: ''
+  annot: 역시 미궁 안에서 농성할 생각인 것 같군요.
+  translation_zh: 看来果然是打算在迷宫里面据守啊。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+- text: 정찰병의 보고에 의하면 미궁 밖에 배치된 병력은 없다는 것 같습니다.
+  reading: ''
+  annot: 정찰병의 보고에 의하면 미궁 밖에 배치된 병력은 없다는 것 같습니다.
+  translation_zh: 据侦察兵的报告，迷宫外似乎并没有部署兵力。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 推测
+- 依存名词
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

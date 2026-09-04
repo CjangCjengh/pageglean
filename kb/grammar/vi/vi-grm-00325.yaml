@@ -1,0 +1,39 @@
+id: vi-grm-00325
+language: vi
+type: grammar
+level: L2
+level_rank: 2
+title: thì：话题—说明链
+structure: 话题/条件 + thì（quan hệ từ）+ 说明/结果
+structure_pattern: Topic/Condition + thì + Comment
+explanation_zh: “thì”是连接话题（或条件）与说明的关系词（quan hệ từ），相当于中文“……的话/就”。越南语常以“A thì B、B thì
+  C”的话题链推进叙述；文中四次出现，使“同行→聊天→递信→收信→喜欢”环环相扣。
+examples:
+- text: Đi chung thì không thể không nói chuyện.
+  reading: ''
+  annot: Đi chung thì không thể không nói chuyện.
+  translation_zh: 一起走的话，就不能不说话。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+- text: Đưa thư thì không thể không nhận. Sẽ nhận. Nhận thì không thể không... yêu.
+  reading: ''
+  annot: Đưa thư thì không thể không nhận. Sẽ nhận. Nhận thì không thể không... yêu.
+  translation_zh: 递信就不能不收。会收的。收下了，就不能不……喜欢上（我）。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 话题化
+- 复句
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 4
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

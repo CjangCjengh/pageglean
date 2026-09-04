@@ -1,0 +1,33 @@
+id: th-grm-00012
+language: th
+type: grammar
+level: L3
+level_rank: 3
+title: 连动式与趋向补语：动词 + ขึ้นมา/มา/ไป
+structure: กริยาหลัก + กริยาเสริมบอกทิศทาง (ขึ้นมา/ออก…ไป/มา)
+structure_pattern: V + ขึ้นมา/มา/ไป (+ V2)
+explanation_zh: 泰语多用连动式（กริยาซ้อน）：主要动词后接表示趋向的补充动词，如ขึ้นมา（向上朝说话者移动）、ออก…ไป（向外离开）。还可继续串联后续动作，如อุ้ม…ขึ้นมาถือไว้（抱起……拿着）。มา
+  表示朝向说话者、ไป 表示远离，方向标记比中文趋向补语更强制。
+examples:
+- text: อุ้ม​ตะกร้า​หวาย​ขึ้น​มา​ถือ​ไว้​ด้วย​สอง​มือ​ก่อน​จะ​เดิน​ออก​จาก​ห้องทำงาน​ของ​ผม​ไป
+  reading: ''
+  annot: อุ้ม​ตะกร้า​หวาย​ขึ้น​มา​ถือ​ไว้​ด้วย​สอง​ม
+  translation_zh: （她）抱起藤篮用双手拿着，然后走出了我的办公室。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 连动式
+- 趋向
+- 语序
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 4
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

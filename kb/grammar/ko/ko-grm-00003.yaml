@@ -1,0 +1,32 @@
+id: ko-grm-00003
+language: ko
+type: grammar
+level: TOPIK5
+level_rank: 5
+title: 「-아/어야 제맛」：只有……才有滋味
+structure: 동사 어간 + -아/어야 + 제맛
+structure_pattern: V-아/어야 제맛
+explanation_zh: 惯用表达，「제맛」指「真正的滋味/应有的乐趣」。整体表示「只有做某事才够味/才有意思」，相当于中文「……才有滋味/才带劲」。片段中读者反复高喊「히로인은
+  죽여야 제맛」，凸显其偏执狂热。
+examples:
+- text: 히로인은 죽여야 제맛!
+  reading: ''
+  annot: 히로인은 죽여야 제맛!
+  translation_zh: 女主角就是要写死才有滋味！
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 惯用表达
+- 语气
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 5
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

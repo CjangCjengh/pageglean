@@ -1,0 +1,39 @@
+id: ja-grm-00449
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 「助动词「れる」：被动（受身）」
+structure: 动词未然形＋れる（上一段动词・カ变动词用られる）
+structure_pattern: V-未然形 + 受身助動詞「れる／られる」
+explanation_zh: 学校文法把被动归为助动词「れる／られる」，接在动词未然形后（五段动词・サ变动词用「れる」，上一段动词・カ变动词用「られる」）。除直接被动外，日语还常用间接被动，多带受影响、受困扰的语感。片段中「気に入られる」「解放される」「惑わされる」均为被动用法。
+examples:
+- text: ったく、そもそもなんで俺はこんなに気に入られてんだ？
+  reading: ''
+  annot: ったく、そもそもなんで俺[おれ]はこんなに気[き]に入[い]られてんだ？
+  translation_zh: 真是的，说到底我为什么这么讨她喜欢啊？
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+- text: と同時に、ようやく俺は彼女の体から解放された。
+  reading: ''
+  annot: と同時[どうじ]に、ようやく俺[おれ]は彼女[かのじょ]の体[からだ]から解放[かいほう]された。
+  translation_zh: 与此同时，我终于从她的身下解脱了出来。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 语态
+- 助动词
+- 接续
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

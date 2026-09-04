@@ -1,0 +1,38 @@
+id: th-grm-00036
+language: th
+type: grammar
+level: L3
+level_rank: 3
+title: 连动式与趋向动词：กลับมา / ขึ้นมา
+structure: 动词1 + กลับ/ขึ้น/ลง + มา/ไป + 动词2（动作 → 方向 → 目的）
+structure_pattern: คำกริยา + กลับ/ขึ้น/ลง + มา/ไป + คำกริยา (คำกริยาเรียง)
+explanation_zh: 泰语连动式（คำกริยาเรียง）发达：主要动词后可接方向动词如 กลับมา（回来）、ขึ้นมา（上来），再接表示目的的第二个动词，形成『动作→方向→目的』的语序。这与中文趋向补语位置相似，但第二个动词放在最后，中文母语者需特别注意。
+examples:
+- text: จู่ ๆ จะ​ส่ง​เมล​กลับ​มาหา​แฟน​เก่า​เนี่ย
+  reading: ''
+  annot: จู่ ๆ จะ​ส่ง​เมล​กลั
+  translation_zh: 突然发封邮件回来找前女友……
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+- text: เปิด​อีเมล​ฉบับ​นั้น​ขึ้น​มา​อ่าน
+  reading: ''
+  annot: เปิด​อีเมล​ฉบับ​นั้น​ขึ้น​มา​อ่าน
+  translation_zh: 打开那封邮件来看。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 连动式
+- 趋向补语
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 6
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

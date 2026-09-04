@@ -1,0 +1,31 @@
+id: ja-grm-00334
+language: ja
+type: grammar
+level: N3
+level_rank: 3
+title: 「〜つつある」：渐进中的变化
+structure: 动词连用形 + 接续助词「つつ」+ ある
+structure_pattern: V-連用形 + つつ + ある
+explanation_zh: 接续助词「つつ」接动词连用形，表示动作、作用的进行或持续。「つつある」相当于「〜ている」，但语体偏书面，多用于描述缓慢推移的变化。「クセになりつつある」即“正在逐渐变成一种习惯”。
+examples:
+- text: バカップル書くのがクセになりつつある緋月です。
+  reading: ''
+  annot: バカップル書くのがクセになりつつある緋月です。
+  translation_zh: 我是写笨蛋情侣都快写出习惯来的绯月。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 体貌
+- 书面语
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

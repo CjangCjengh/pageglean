@@ -1,0 +1,39 @@
+id: vi-grm-00286
+language: vi
+type: grammar
+level: L2
+level_rank: 2
+title: đã…rồi：已然与完成
+structure: đã + V/A（动词前副词）；… + rồi（句末语气/体貌词）
+structure_pattern: đã + V ; V/A + rồi
+explanation_zh: 「đã」是动词前的副词（phó từ），表示动作已发生或状态已实现，相当于中文的“了、过”。句末的「rồi」表示动作完成或情况已经变化，相当于句末“了”。两者可分别使用，也可呼应出现，口语中常只用「rồi」表示完成。
+examples:
+- text: Tiểu Li đã hết sốt và đi học lại bình thường.
+  reading: ''
+  annot: Tiểu Li đã hết sốt và đi học lại bình thường.
+  translation_zh: 小丽已经退烧，又照常去上学了。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+- text: Vậy là mày bằng lòng rồi hén?
+  reading: ''
+  annot: Vậy là mày bằng lòng rồi hén?
+  translation_zh: 这么说，你已经答应了咯？
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 体貌
+- 时态虚词
+- 语气
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 5
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

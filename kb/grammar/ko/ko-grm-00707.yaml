@@ -1,0 +1,31 @@
+id: ko-grm-00707
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: -(으)ㄹ지도 모르다：或许会……（担忧性推测）
+structure: 用言 + 冠形词形语尾 -(으)ㄹ + 补助词 도 + 모르다
+structure_pattern: V-(으)ㄹ지도 모르다
+explanation_zh: 表示对某种可能性的推测，多用于令人不安的负面假设，相当于“说不定会……、也许会……”。与中性推测「-(으)ㄹ 것이다」相比，主观担忧色彩更强。可后接「-다는」作定语修饰名词。
+examples:
+- text: 그녀가 극단적인 선택을 하게 될지도 모른다는 불안감이 밀려왔다.
+  reading: ''
+  annot: 그녀가 극단적인 선택을 하게 될지도 모른다는 불안감이 밀려왔다.
+  translation_zh: 一阵不安涌上心头：她也许会做出极端的选择。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 推测
+- 样态
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

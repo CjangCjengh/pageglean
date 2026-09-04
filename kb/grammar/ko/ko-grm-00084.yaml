@@ -1,0 +1,38 @@
+id: ko-grm-00084
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: -잖아요：唤起已知事实（这不是……嘛）
+structure: 용언 어간 + -잖아요（종결 표현, ‘-지 않아요’의 축약）
+structure_pattern: V/A-잖아요
+explanation_zh: “-지 않아요”的缩略形，作为终结表达提醒对方双方已知的事实，并以此作为理由或反驳，语气相当于中文“这不是……嘛”。口语对话中使用频率极高。
+examples:
+- text: 리치는 기본적으로 해골 뼈다귀잖아요!
+  reading: ''
+  annot: 리치는 기본적으로 해골 뼈다귀잖아요!
+  translation_zh: 巫妖基本上就是骷髅骨头嘛！
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+- text: 그러면 공작님의 그곳도 없어지는 거잖아요!
+  reading: ''
+  annot: 그러면 공작님의 그곳도 없어지는 거잖아요!
+  translation_zh: 那公爵大人的那个部位不也就没了吗！
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 终结词尾
+- 语气
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

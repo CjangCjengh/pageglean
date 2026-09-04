@@ -1,0 +1,31 @@
+id: vi-grm-00126
+language: vi
+type: grammar
+level: L2
+level_rank: 2
+title: 「đã không còn…nữa」：不再……了
+structure: đã + không còn + 谓词 + nữa
+structure_pattern: đã + không_còn + V/Adj + nữa
+explanation_zh: 「đã」标示已然，「không còn」表“不再”，句末「nữa」（再、还）与之呼应，强调某状态过去已不复存在。整体相当于中文“已经不再……了”。三者配合是越南语表达“不再”的典型格式。
+examples:
+- text: Nhưng Việt An đã không còn ở đó nữa.
+  reading: ''
+  annot: Nhưng Việt An đã không còn ở đó nữa.
+  translation_zh: 但越安已经不在那里了。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 时态
+- 否定
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 8
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

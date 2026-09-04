@@ -1,0 +1,31 @@
+id: vi-grm-00064
+language: vi
+type: grammar
+level: L1
+level_rank: 1
+title: 介词 bằng：表示工具与手段
+structure: V + bằng + 工具/材料名词
+structure_pattern: V + bằng + N(工具)
+explanation_zh: bằng 引出动作所凭借的工具、材料或手段，相当于中文的“用、以”。“chơi nhảy dây bằng dây thun”即“用橡皮筋跳绳”。与汉语语序一致，介词短语放在动词之后作补语。
+examples:
+- text: Với lại người ta chơi nhảy dây bằng dây thun chứ ai nhảy dây bằng dây thừng!
+  reading: ''
+  annot: Với lại người ta chơi nhảy dây bằng dây thun chứ ai nhảy dây bằng dây thừng!
+  translation_zh: 再说，人家玩跳绳用的都是橡皮筋，哪有人用粗绳来跳的！
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 介词
+- 方式手段
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

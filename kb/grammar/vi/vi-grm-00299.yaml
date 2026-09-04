@@ -1,0 +1,39 @@
+id: vi-grm-00299
+language: vi
+type: grammar
+level: L2
+level_rank: 2
+title: cứ + 动词：「只管」与「不停地」
+structure: cứ + 动词 (+ 语气词 đi)
+structure_pattern: cứ + V (+ đi)
+explanation_zh: cứ 是情态副词，置于动词之前。一是鼓励对方放心去做，相当于汉语「只管、尽管」；二是表示动作、状态持续不断或反复出现，有「一个劲儿地」之意。与语气词
+  đi 连用时催促、应允的意味更浓。
+examples:
+- text: Mày cứ ăn đi!
+  reading: ''
+  annot: Mày cứ ăn đi!
+  translation_zh: 你只管吃吧！
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+- text: Những ước muốn ấy cứ tràn ngập lấy tôi
+  reading: ''
+  annot: Những ước muốn ấy cứ tràn ngập lấy tôi
+  translation_zh: 那些心愿不停地涌上我的心头
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 情态虚词
+- 语气
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

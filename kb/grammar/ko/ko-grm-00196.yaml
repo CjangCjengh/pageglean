@@ -1,0 +1,32 @@
+id: ko-grm-00196
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: 「-곤 하다：反复与习惯」
+structure: 용언 어간 + 연결어미 -고 + 보조사 -는 + 보조동사 '하다'（缩略为 -곤 하다）
+structure_pattern: V-곤 하다
+explanation_zh: '''-곤 하다'' 是 ''-고는 하다'' 的缩略，表示某一情况反复发生，相当于「常常……」「总是……」。片段「돌파구가 생기곤
+  한다」回忆写小说时突破口屡屡出现的规律。与过去时制 ''-았-'' 结合（''-곤 했다''）则专指过去反复发生的事。'
+examples:
+- text: 하지만 막상 클라이맥스가 다가오면, 마치 등장인물들이 사건의 진상을 밝혀내듯이 돌파구가 생기곤 한다.
+  reading: ''
+  annot: 하지만 막상 클라이맥스가 다가오면, 마치 등장인물들이 사건의 진상을 밝혀내듯이 돌파구가 생기곤 한다.
+  translation_zh: 然而当高潮真正临近时，就像登场人物们揭开了事件的真相一样，突破口往往会自然而然地出现。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 반복·습관
+- 보조동사
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

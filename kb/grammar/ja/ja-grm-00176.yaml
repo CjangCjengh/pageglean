@@ -1,0 +1,31 @@
+id: ja-grm-00176
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 〜ことになる：事态的结果与决定
+structure: 动词连体形 + 形式名词「こと」+ になる
+structure_pattern: V-連体形 + 形式名詞「こと」 + に + なる
+explanation_zh: 形式名词「こと」把动词连体形名词化，「ことになる」表示由客观情势或他人决定所形成的结果，相当于中文“变得……/就决定……”。与表示主观决定的「ことにする」不同，它强调事态自然而然落到某个结果。此处指同住一事已成定局，「のだ」增添解释说明的语气。
+examples:
+- text: 異なる立場の者が一つ屋根の下で暮らす事になったのだ。
+  reading: ''
+  annot: 異[こと]なる立場[たちば]の者[もの]が一[ひと]つ屋根[やね]の下[した]で暮[く]らす事[こと]になったのだ。
+  translation_zh: 不同立场的人竟然要在同一个屋檐下生活了。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 形式名词
+- 接续
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

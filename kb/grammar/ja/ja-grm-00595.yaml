@@ -1,0 +1,39 @@
+id: ja-grm-00595
+language: ja
+type: grammar
+level: N3
+level_rank: 3
+title: 「〜とは：意外的感叹」
+structure: … ＋ とは（詠嘆・意外，後続の述語は省略されることが多い）
+structure_pattern: … + とは
+explanation_zh: 句末的「とは」表示出乎意料的惊讶与感叹，相当于“竟然……！”，其后的谓语（如「思わなかった」）常省略。文中「ツッコミをするとは！」「こんな趣味があったとは」都表达强烈的意外。
+examples:
+- text: おお、このカタブツがツッコミをするとは！
+  reading: ''
+  annot: おお、このカタブツがツッコミをするとは！
+  translation_zh: 哦哦，没想到这块木头居然会吐槽！
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+- text: まさかおまえにこんな趣味があったとはな（笑）
+  reading: ''
+  annot: まさかおまえにこんな趣味[しゅみ]があったとはな（笑）
+  translation_zh: 没想到你竟然有这样的爱好啊（笑）
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 语气
+- 句末
+- 感叹
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

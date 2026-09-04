@@ -1,0 +1,32 @@
+id: ja-grm-00160
+language: ja
+type: grammar
+level: N2
+level_rank: 4
+title: 「〜ずに済む」：免于做某事（“不用……就行了”）
+structure: V-未然形＋ずに済む
+structure_pattern: V(未然形) + ずに済む
+explanation_zh: 否定助动词「ず」接动词未然形（サ变动词用「せ」），「〜ずに済む」表示“没做……就解决了／得以免于……”，含庆幸语气。与「〜ないで済む」同义而语体略偏书面。片段中伊斯卡庆幸自己不必做出忘恩负义之举。
+examples:
+- text: 恩知らずな行動を取らずに済み、助かります
+  reading: ''
+  annot: 恩[おん]知[し]らずな行動[こうどう]を取[と]らずに済[す]み、助[たす]かります
+  translation_zh: 不必做出忘恩负义的举动就解决了，真是松了一口气。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 助动词ず
+- 庆幸
+- 书面语
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

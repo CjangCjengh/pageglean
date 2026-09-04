@@ -1,0 +1,32 @@
+id: ja-grm-00423
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 「〜すぎる：过于〜／〜过头」
+structure: 動詞の連用形＋上一段動詞「過ぎる」（複合動詞）
+structure_pattern: V-連用形 + すぎる
+explanation_zh: 动词连用形后接动词「過ぎる」构成复合动词，表示动作的程度过头。口语中常直接以连用形结句，如文中「抱きしめすぎ！」，语气直白随意。形容词词干也可直接接「過ぎる」。
+examples:
+- text: くっつきすぎ！ 坂本くん抱きしめすぎ！
+  reading: ''
+  annot: くっつきすぎ！ 坂本くん抱きしめすぎ！
+  translation_zh: 贴得太近了啦！你抱坂本同学也抱得太紧了吧！
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 复合动词
+- 程度
+- 口语
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

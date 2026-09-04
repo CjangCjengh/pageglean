@@ -1,0 +1,31 @@
+id: ko-grm-00550
+language: ko
+type: grammar
+level: TOPIK2
+level_rank: 2
+title: 「-기로 하다：决定做某事」
+structure: 동사 어간 + 명사형 전성어미 '-기' + 부사격 조사 '로' + 동사 '하다'
+structure_pattern: V-기 + 로 + 하다
+explanation_zh: 명사형 전성어미 '-기' 把动词短语名词化，再接副词格助词 '로' 和动词 '하다'，表示决定做某事，相当于汉语“决定……”。主语为第一人称时表示自己的决定，与过去时连用表示当时作出的决定。
+examples:
+- text: 결국 나는 광장 계단에 앉아서 휴식을 취하기로 했다.
+  reading: ''
+  annot: 결국 나는 광장 계단에 앉아서 휴식을 취하기로 했다.
+  translation_zh: 最终我决定坐在广场的台阶上休息。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 意志/决定
+- 接续
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

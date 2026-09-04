@@ -1,0 +1,32 @@
+id: ko-grm-00023
+language: ko
+type: grammar
+level: TOPIK5
+level_rank: 5
+title: -(으)ㄹ 모양이다：看来像是……
+structure: 用言词干 + -(으)ㄹ 모양이다
+structure_pattern: V/A + -(으)ㄹ + 모양이다 (의존명사 모양)
+explanation_zh: 依存名词 모양 表示『样子、情形』，-(으)ㄹ 모양이다 根据观察到的情况作出推测，相当于中文『看来、似乎』。이다 和形容词用 -(으)ㄴ
+  모양이다，如『취침 시간인 모양이다』。常与 아무래도 搭配，表示『怎么看都……』。
+examples:
+- text: 아무래도 아즐란의 취침 시간인 모양이다.
+  reading: ''
+  annot: 아무래도 아즐란의 취침 시간인 모양이다.
+  translation_zh: 看来已经是阿兹兰的就寝时间了。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 의존명사
+- 추측
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

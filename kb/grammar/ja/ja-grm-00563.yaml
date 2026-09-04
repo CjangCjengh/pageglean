@@ -1,0 +1,32 @@
+id: ja-grm-00563
+language: ja
+type: grammar
+level: N3
+level_rank: 3
+title: まるで〜ようだ：简直像……一样
+structure: 副词「まるで」＋体言＋「の/みたいな」＋形式名词「ようだ」；或用言连体形＋「ようだ」
+structure_pattern: まるで + N + のようだ / V連体形 + ようだ
+explanation_zh: 形式名词「よう」表样子，与副词「まるで」呼应构成比喻，“简直像……一样”。既可接“体言＋の/みたいな”，也可接用言连体形。本段用它渲染沉重氛围，如“仿佛在拒绝活下去”。
+examples:
+- text: まるで遺書みたいなメールだったよ。
+  reading: ''
+  annot: まるで遺書[いしょ]みたいなメールだったよ。
+  translation_zh: 那简直就是一封遗书般的邮件。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 比喻
+- 语气
+- 形式名词
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

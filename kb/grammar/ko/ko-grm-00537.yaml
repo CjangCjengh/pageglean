@@ -1,0 +1,38 @@
+id: ko-grm-00537
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: -아/어 버리다：彻底完成与遗憾
+structure: 동사 어간（动词词干）+ -아/어 버리다
+structure_pattern: 본용언 어간 + 연결 어미 '-아/어' + 보조 용언 '버리다'
+explanation_zh: 补助动词（보조 용언）结构，表示动作彻底完成或成为既成事实，常附带遗憾、无奈或如释重负的语气。相当于汉语的“（干脆）……掉了”“……してしまった”。片段中反复出现，体现说话人的心理波动。
+examples:
+- text: 침대로 가자……. 얼른 의식을 놓고 잠들어 버리는 게 좋을 것 같다.
+  reading: ''
+  annot: 침대로 가자……. 얼른 의식을 놓고 잠들어 버리는 게 좋을 것 같다.
+  translation_zh: 去床上吧……我觉得最好赶紧放空意识，干脆一睡了之。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+- text: 그렇게 스스로에게 변명하며, 키이리를 안은 채 방 안으로 서둘러 들어가 버렸다.
+  reading: ''
+  annot: 그렇게 스스로에게 변명하며, 키이리를 안은 채 방 안으로 서둘러 들어가 버렸다.
+  translation_zh: 就这样一边自我安慰，我一边抱着基里急匆匆地进房间里去了。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 体貌/完成
+- 补助动词
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

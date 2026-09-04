@@ -1,0 +1,31 @@
+id: vi-grm-00159
+language: vi
+type: grammar
+level: L3
+level_rank: 3
+title: đành + V：只好，只得
+structure: đành + V
+structure_pattern: đành + V
+explanation_zh: 「đành＋动词」表示“只好、只得”，强调因无可奈何而勉强为之，含有不情愿的意味。前文常交代被迫接受的原因或前提。
+examples:
+- text: 'Không thể tránh né, tôi đành thở dài:'
+  reading: ''
+  annot: 'Không thể tránh né, tôi đành thở dài:'
+  translation_zh: 没法回避，我只好叹了口气：
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 语气
+- 情态
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

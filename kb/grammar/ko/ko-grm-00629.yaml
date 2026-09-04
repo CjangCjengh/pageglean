@@ -1,0 +1,40 @@
+id: ko-grm-00629
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: -던：追忆过去未完成的状态
+structure: 用言词干 + -던（回想冠形词形转成词尾）
+structure_pattern: V/A-던 (관형사형 전성어미)
+explanation_zh: -던 是表“回想”的冠形词形转成词尾，修饰名词时追忆过去持续、反复但未完成或已中断的状态。与表已完成的 -(으)ㄴ 不同，“보여 주던
+  태도”强调“那时一贯表现出的态度”。片段用“박살내던 현장”“보여 주던 태도”回溯当时情景。
+examples:
+- text: 내가 거울 미로를 박살내던 그 현장에는 요나도 있었으니까.
+  reading: ''
+  annot: 내가 거울 미로를 박살내던 그 현장에는 요나도 있었으니까.
+  translation_zh: 因为我砸碎镜子迷宫的那个现场，约拿也在场。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+- text: 어느 누구와도 소통하지 않는 요나가 빈 헬로이스에게만 보여 주던 살가운 태도.
+  reading: ''
+  annot: 어느 누구와도 소통하지 않는 요나가 빈 헬로이스에게만 보여 주던 살가운 태도.
+  translation_zh: 不与任何人交流的约拿，唯独向빈·헬로이스表现出的那种亲切态度。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 冠形词形词尾
+- 回想
+- 定语
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

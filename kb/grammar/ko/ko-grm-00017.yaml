@@ -1,0 +1,31 @@
+id: ko-grm-00017
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: -는데：转折与对照
+structure: 用言词干 + -는데
+structure_pattern: V/A + -는데 (연결어미)
+explanation_zh: 连接词尾 -는데 表示背景铺垫或转折对照，此处用『理性上理解，感情上却难以接受』体现前后反差，相当于中文『虽然……但是……』。它也可用于句末，先交代背景再引出下文。
+examples:
+- text: 머리로는 이해하고 있는데, 가슴으로는 받아들이기 어렵습니다.
+  reading: ''
+  annot: 머리로는 이해하고 있는데, 가슴으로는 받아들이기 어렵습니다.
+  translation_zh: 理性上我能够理解，但感情上却难以接受。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 연결어미
+- 대조
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

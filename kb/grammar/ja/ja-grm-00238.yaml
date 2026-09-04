@@ -1,0 +1,39 @@
+id: ja-grm-00238
+language: ja
+type: grammar
+level: N1
+level_rank: 5
+title: 「もろとも（に）」：连同……一起（文语表达）
+structure: N ＋ もろとも（に）＋ V（把前项一并卷入同一动作）
+structure_pattern: N + もろとも + V
+explanation_zh: 「もろとも」是文语残留的表达，相当于现代日语的「〜も一緒に」「〜ごと」，表示将前项连同后项一并卷入同一动作。它直接接在名词之后作副词性修饰，语感庄重、文学色彩浓，多见于小说等书面语。本片段两次使用，强调光把冰块／话语连同人物一起吞没。
+examples:
+- text: リアが描いた魔法陣の発光と同時に、イスカを戒める氷塊もろとも包み込み
+  reading: ''
+  annot: リアが描[か]いた魔法陣[まほうじん]の発光[はっこう]と同[どう]時[じ]に、イスカを戒[いまし]める氷塊[ひょうかい]もろとも包[つつ]み込[こ]み
+  translation_zh: 与莉亚所画的魔法阵发光的同时，（光）连同束缚依斯卡的冰块一起包了进去
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+- text: 魔法陣から生まれた光が、言葉もろともリアを包み込んだ。
+  reading: ''
+  annot: 魔法陣[まほうじん]から生[う]まれた光[ひかり]が、言葉[ことば]もろともリアを包[つつ]み込[こ]んだ。
+  translation_zh: 从魔法阵中诞生的光，连同话语一起把莉亚吞没了。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 文语表达
+- 书面语
+- 副词用法
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

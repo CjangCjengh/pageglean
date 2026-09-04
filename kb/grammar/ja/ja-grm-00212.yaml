@@ -1,0 +1,31 @@
+id: ja-grm-00212
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 〜たばかり：刚刚做完
+structure: 動詞連用形 + 助動詞「た」（連体形） + 副助詞「ばかり」
+structure_pattern: V-た + ばかり
+explanation_zh: 接动词た形（连用形＋助动词「た」连体形）之后，表示动作刚刚完成；时间判断是主观的，即使客观上已隔一段时间仍可使用。句末「ではないですか」为修辞性疑问，用于向对方确认、寻求认同。
+examples:
+- text: いえ。この学園、去年に制服を変えたばかりではないですか？
+  reading: ''
+  annot: いえ。この学園[がくえん]、去年[きょねん]に制服[せいふく]を変[か]えたばかりではないですか？
+  translation_zh: 不，咱们学园不是去年才刚换过制服吗？
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 副助詞
+- 時間
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

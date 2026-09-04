@@ -1,0 +1,39 @@
+id: vi-grm-00228
+language: vi
+type: grammar
+level: L2
+level_rank: 2
+title: chứ không phải (là)：是A而不是B
+structure: A + chứ không phải (là) + B（表对立关系的关联词）
+structure_pattern: A + chứ không phải (là) + B
+explanation_zh: 越南语学校语法中归为表对立关系的关联词（quan hệ từ），肯定前项A、否定后项B，相当于汉语「是……而不是……」。“是”可随谓语省略，语气较为强烈。片段中两次出现，用于纠正对方的说法。
+examples:
+- text: Nhiệm vụ chuyên môn của mày là giải đáp chứ không phải là đặt câu hỏi.
+  reading: ''
+  annot: Nhiệm vụ chuyên môn của mày là giải đáp chứ không phải là đặt câu hỏi.
+  translation_zh: 你的专业任务是解答，而不是提出问题。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+- text: Vấn đề là ở Việt An chứ không phải ở Hồng Hoa và Chiêu Minh.
+  reading: ''
+  annot: Vấn đề là ở Việt An chứ không phải ở Hồng Hoa và Chiêu Minh.
+  translation_zh: 问题出在越安身上，而不是红花和招明。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 对比
+- 否定
+- 复句
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

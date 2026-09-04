@@ -1,0 +1,31 @@
+id: ja-grm-00534
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 「〜てやる／〜てあげる」：施予恩惠
+structure: 動詞連用形＋接続助詞「て」＋補助動詞「やる／あげる」（授受表現）
+structure_pattern: V連用形 + て + やる/あげる(補助動詞)
+explanation_zh: 「てやる」「てあげる」都是授受补助动词，表示说话人一方给予他人恩惠。「やる」语感较粗，多用于对晚辈或内心独白；「あげる」较为客气。片段中主人公连用「〜てやる／てあげる」，凸显他想替死去的朋友做点什么却无法如愿的执念。
+examples:
+- text: 俺のかわりに、あいつの涙を拭ってあげてください。
+  reading: ''
+  annot: 俺[おれ]のかわりに、あいつの涙[なみだ]を拭[ぬぐ]ってあげてください。
+  translation_zh: 请代替我，替那孩子擦去泪水吧。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 授受表現
+- 補助動詞
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 5
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

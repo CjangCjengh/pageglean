@@ -1,0 +1,39 @@
+id: ko-grm-00650
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: -았/었다가：完成后转向反面
+structure: 용언 어간 + 과거 선어말어미 '-았/었-' + 연결어미 '-다가'
+structure_pattern: V-았/었다가
+explanation_zh: 过去时制词尾 -았/었- 加连接词尾 -다가，表示前一动作完成后随即转向另一（多为相反）状态。强调状态短暂出现又消失、往复变化。文中“升起又熄灭”“染上又褪去”均体现此用法。
+examples:
+- text: 멀리서 피어오르는 축제의 불꽃이 큰 소리를 내며 피어올랐다가 식었다.
+  reading: ''
+  annot: 멀리서 피어오르는 축제의 불꽃이 큰 소리를 내며 피어올랐다가 식었다.
+  translation_zh: 远处绽放的节日烟花发出巨大声响，升腾之后又暗了下去。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+- text: 불꽃이 필 때마다 너의 흰 피부 위로 온갖 색이 물들었다가 지워졌다.
+  reading: ''
+  annot: 불꽃이 필 때마다 너의 흰 피부 위로 온갖 색이 물들었다가 지워졌다.
+  translation_zh: 每当烟花绽放，你白皙的肌肤上便染上各种颜色，随后又褪去。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 体貌
+- 接续/转换
+- 连接词尾
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

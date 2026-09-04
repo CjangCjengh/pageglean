@@ -1,0 +1,40 @@
+id: ko-grm-00070
+language: ko
+type: grammar
+level: TOPIK2
+level_rank: 2
+title: 「-아/어 주다：恩惠及请求表达」
+structure: 动词词干 + 连接词尾 -아/어 + 补助动词 주다（敬语形 주시다）
+structure_pattern: V-아/어 주다 / V-아/어 주시다
+explanation_zh: 补助动词「주다」表示某动作为他人而做，带有给予恩惠的含义；对长辈或上级则用敬语形「주시다」。片段中「해 줘」是主人对下属的半语请求，「기다려
+  주시길」是「주시기를」的省略，为礼貌的托付表达。注意敬语阶位随说话对象切换。
+examples:
+- text: 아, 그래? 그렇게 해 줘.
+  reading: ''
+  annot: 아, 그래? 그렇게 해 줘.
+  translation_zh: 啊，是吗？那就那样办吧。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+- text: 알겠습니다. 잠시만 기다려 주시길.
+  reading: ''
+  annot: 알겠습니다. 잠시만 기다려 주시길.
+  translation_zh: 明白了。请您稍等片刻。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 补助动词
+- 恩惠
+- 敬语
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

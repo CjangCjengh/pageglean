@@ -1,0 +1,40 @@
+id: ko-grm-00139
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: 「-도록 하다」：委婉的命令与指示
+structure: 动词词干 + -도록 하다
+structure_pattern: V-도록 하다
+explanation_zh: 副词形转成词尾 -도록 与动词 하다 结合，间接而正式地表示命令或共动（청유），比直接的命令式缓和，同时保留说话人的权威，常见于公开场合或上位者的指示。片段中的高백작
+  회의 장면에 「하도록 해」「하도록 하지요」「하도록 하지」 세 형태가 모두 쓰였다。
+examples:
+- text: 그놈을 숨겨 주고 있는 자가 이 자리에 있다면, 지금 이 자리에서 빨리 고백하도록 해.
+  reading: ''
+  annot: 그놈을 숨겨 주고 있는 자가 이 자리에 있다면, 지금 이 자리에서 빨리 고백하도록 해.
+  translation_zh: 如果藏匿那家伙的人在场，就趁现在赶快坦白。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+- text: 그를 비호한 자가 있다면 그것도 밝혀내도록 하지요.
+  reading: ''
+  annot: 그를 비호한 자가 있다면 그것도 밝혀내도록 하지요.
+  translation_zh: 如果有包庇他的人，那也要一并查个明白。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 命令/共动
+- 敬语阶位
+- 语气
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

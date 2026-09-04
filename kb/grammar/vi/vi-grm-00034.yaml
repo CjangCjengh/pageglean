@@ -1,0 +1,40 @@
+id: vi-grm-00034
+language: vi
+type: grammar
+level: L1
+level_rank: 1
+title: đang：进行体标记
+structure: đang（进行副词）+ 动词
+structure_pattern: đang + V
+explanation_zh: đang 表示动作正在进行，相当于汉语“正在”，直接置于动词之前。它与 đã／sẽ／mới／vừa 一起构成越南语最常用的时体虚词系统。
+examples:
+- text: Việt An đang ngồi hí hoáy chép cái gì đó trong tập.
+  reading: ''
+  annot: Việt An đang ngồi hí hoáy chép cái gì đó trong tập.
+  translation_zh: 越安正坐着埋头在本子上抄写着什么。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+- text: Nghĩ đến chuyện đáng lẽ giờ này tôi đang ngồi cạnh Việt An trong rạp hát,
+    tôi cứ tức anh ách.
+  reading: ''
+  annot: Nghĩ đến chuyện đáng lẽ giờ này tôi đang ngồi cạnh Việt An trong rạp hát,
+    tôi cứ tức anh ách.
+  translation_zh: 一想到这个时辰我本该坐在电影院里紧挨着越安，我就一阵窝火。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 体貌
+- 虚词
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

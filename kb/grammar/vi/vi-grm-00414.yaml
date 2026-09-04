@@ -1,0 +1,32 @@
+id: vi-grm-00414
+language: vi
+type: grammar
+level: L3
+level_rank: 3
+title: được：被动/受益标记
+structure: được + 动词
+structure_pattern: được + V（被动句 câu bị động）
+explanation_zh: được 作虚词置于动词前，可表被动（多指称心、中性或受益），相当于汉语的「被/得以」。它与表不如意被动的 bị 相对。「được
+  đúc ra từ một khuôn」即「从同一个模子里被铸出来」。
+examples:
+- text: hình như đều được đúc ra từ một khuôn
+  reading: ''
+  annot: hình như đều được đúc ra từ một khuôn
+  translation_zh: 好像都是从同一个模子里铸出来的
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 被动
+- 句法
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

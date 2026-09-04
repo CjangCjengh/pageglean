@@ -1,0 +1,33 @@
+id: ko-grm-00424
+language: ko
+type: grammar
+level: TOPIK5
+level_rank: 5
+title: 「-(이)ㄴ/-는 양」：依存名词表“仿佛、就像”
+structure: 体言 + (이)ㄴ / 用言 + 冠形形转成词尾 -는 + 依存名词 양（=모양, 듯）
+structure_pattern: N-인 양 / V-는 양
+explanation_zh: 依存名词 양 义同 모양、듯，以比喻或推测的方式描述情态，相当于“就像……一样、仿佛……似的”。书面语色彩浓厚，是小说中的高频修辞性表达。例中
+  목표인 양 행동하다 即“仿佛以此为目标似的行事”。
+examples:
+- text: 처음부터 끝까지 사람을 가지고 농락하는 것만이 인생의 목표인 양 행동하는 여자다.
+  reading: ''
+  annot: 처음부터 끝까지 사람을 가지고 농락하는 것만이 인생의 목표인 양 행동하는 여자다.
+  translation_zh: 她仿佛把从头到尾玩弄他人当作人生目标似的，总是这样行事。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 依存名词
+- 比喻
+- 书面语
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

@@ -1,0 +1,39 @@
+id: ja-grm-00129
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 〜つもりだ：打算～（本来打算～）
+structure: 动词终止形（辞书形）＋名词「つもり」＋判断助动词「だ」
+structure_pattern: V-終止形 + つもりだ
+explanation_zh: 动词终止形（辞书形）后接名词「つもり」加判断助动词「だ」，表示主体的打算、计划，意为“打算～”。片段中「つもりなんだろ」是对对方计划的确认；「つもりだったが」用过去时表达“本来打算…（却未实行或与对方想法相左）”。比「予定だ」主观色彩更强。
+examples:
+- text: リア、しばらくこっちに居るつもりなんだろ？
+  reading: ''
+  annot: リア、しばらくこっちに居[い]るつもりなんだろ？
+  translation_zh: 莉亚，你是打算在这边待一阵子吧？
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+- text: だが、何か不明な事があれば、ネットでググるつもりだったが？
+  reading: ''
+  annot: だが、何[なに]か不明[ふめい]な事[こと]があれば、ネットでググるつもりだったが？
+  translation_zh: 不过，如果有不明白的地方，我本来打算上网搜一下的啊？
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 语气
+- 意图
+- 时态
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

@@ -1,0 +1,32 @@
+id: ko-grm-00262
+language: ko
+type: grammar
+level: TOPIK5
+level_rank: 5
+title: -(으)ㄹ 리가 없다：不可能……
+structure: 动词词干 + -(으)ㄹ 리가 없다（依存名词 리 表情理，加以否定）
+structure_pattern: V-어간 + -(으)ㄹ 리가 없다
+explanation_zh: 리 是依存名词（의존명사），本义为“道理、情理”。-(으)ㄹ 리가 없다 表示按情理绝无可能发生，否定语气比 -지 않을 것이다 更强烈。片段中表现露西断定敌将绝不会背叛主君。
+examples:
+- text: 이 남자가 주군의 현재 위치를 함부로 발설할 리가 없다.
+  reading: ''
+  annot: 이 남자가 주군의 현재 위치를 함부로 발설할 리가 없다.
+  translation_zh: 这个男人不可能随便泄露主公现在的下落。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 依存名词
+- 推测否定
+- 语气
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

@@ -1,0 +1,40 @@
+id: ko-grm-00135
+language: ko
+type: grammar
+level: TOPIK5
+level_rank: 5
+title: 「-(으)ㄴ 채」：状态的保持
+structure: 动词词干 + -(으)ㄴ 채(로)
+structure_pattern: V-(으)ㄴ 채(로)
+explanation_zh: 依存名词 채 表示前一动作形成的状态原样保持，同时进行另一行为，相当于中文"保持着……的状态""……着"。多用于书面叙述，常以 채로
+  形式出现。本句"입을 다문 채"即"紧闭着嘴（的状态）"。
+examples:
+- text: 귀족들은 입을 다문 채 긴장된 표정으로 클라우에게 시선을 향했다.
+  reading: ''
+  annot: 귀족들은 입을 다문 채 긴장된 표정으로 클라우에게 시선을 향했다.
+  translation_zh: 贵族们紧闭双唇，带着紧张的表情把视线投向克劳。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+- text: 서로 어깨동무를 한 채 비틀비틀 계단을 올라가는 건, 다름 아닌 나와 카이트였다.
+  reading: ''
+  annot: 서로 어깨동무를 한 채 비틀비틀 계단을 올라가는 건, 다름 아닌 나와 카이트였다.
+  translation_zh: 互相勾着肩膀、摇摇晃晃上楼梯的，正是我和凯特。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 依存名词
+- 状态
+- 书面语
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

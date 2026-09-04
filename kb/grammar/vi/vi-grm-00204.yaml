@@ -1,0 +1,31 @@
+id: vi-grm-00204
+language: vi
+type: grammar
+level: L2
+level_rank: 2
+title: không chịu + V：拒绝做、不肯做
+structure: không chịu + V
+structure_pattern: không chịu + VP
+explanation_zh: không chịu 表示主观上「不肯、拒绝」做某事，区别于客观不能（không thể）。片段中常与连词 mà 连用，表示「不肯…而是…」，拒绝之后紧接另一动作。中文可译为「不肯/偏不」。
+examples:
+- text: Việt An không chịu vào ngay theo mà đứng lại bên ngoài
+  reading: ''
+  annot: Việt An không chịu vào ngay theo mà đứng lại bên ngoài
+  translation_zh: 越安不肯马上跟着进去，而是站在外面
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 否定
+- 情态
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

@@ -1,0 +1,32 @@
+id: ja-grm-00493
+language: ja
+type: grammar
+level: N2
+level_rank: 4
+title: 〜にもかかわらず：尽管……却……
+structure: 体言・用言連体形＋接続表現「にもかかわらず」
+structure_pattern: N / V-連体形 + にもかかわらず
+explanation_zh: 「にもかかわらず」接体言或用言连体形，表示与预期相反的逆接，语感比「のに」更书面、反差更强。工作日的午后本该清闲，店里却座无虚席，构成意外。中文译为“尽管……却……”。
+examples:
+- text: 平日の昼過ぎにもかかわらず席はいっぱい。
+  reading: ''
+  annot: 平日[へいじつ]の昼[ひる]過[す]ぎにもかかわらず席[せき]はいっぱい。
+  translation_zh: 尽管还是工作日的午后时分，座位却已经坐满了。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 接续
+- 逆接
+- 书面语
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

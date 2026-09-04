@@ -1,0 +1,31 @@
+id: ja-grm-00082
+language: ja
+type: grammar
+level: N3
+level_rank: 3
+title: 「まるで〜様だ」：宛如……一般（比喻）
+structure: まるで……様だ／様な＋体言／様に＋用言（比喻：简直像……）
+structure_pattern: まるで + S + 助動詞「様だ」(様な/様に)
+explanation_zh: 「様（ようだ）」是表示比喻或推测的助動詞，前接用言连体形或「体言＋の」；副词「まるで」与之呼应，强调“简直像……一样”。「様な」是连体形修饰名词，「様に」是连用形作状语。本片段连续多次用该结构渲染魔法场景，是轻小说描写的典型手法。
+examples:
+- text: そして――まるで風の通り道をなぞる様に、光が生まれる。
+  reading: ''
+  annot: そして――まるで風の通り道をなぞる様に、光が生まれる。
+  translation_zh: 然后——宛如描摹风的通道一般，光浮现出来。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 比喩
+- 助動詞
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 8
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

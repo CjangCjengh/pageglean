@@ -1,0 +1,39 @@
+id: th-grm-00013
+language: th
+type: grammar
+level: L2
+level_rank: 2
+title: ได้ + 动词：过去／完成体标记
+structure: ได้（คำกริยาช่วย，过去体助动词）+ V
+structure_pattern: ได้ + V
+explanation_zh: ได้ 置于主要动词之前，表示动作已经发生或完成，相当于汉语的“了／过”，属学校语法中的助动词（คำกริยาช่วย）表过去。与口语中常省略体标记相比，用
+  ได้ 的叙述显得更书面、更正式。片段中“ผมได้ซื้อบ้าน”即“我买了一栋房子”。
+examples:
+- text: ผม​ได้​ซื้อ​บ้านเล็ก ๆ และ​ย้าย​มา​อยู่​บน​เกาะ​ล้าน​แห่ง​นี้​เพียงลำพัง
+  reading: ''
+  annot: ผม​ได้​ซื้อ​บ้านเล็ก ๆ และ​ย้าย​มา​อ
+  translation_zh: 我买了一栋小房子，独自搬来阁兰岛上住。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+- text: ความ​ประทับใจ​ที่​ได้​เห็น​ชุดชั้นใน​ของ​เด็กผู้หญิง​อายุ 12 ปี
+  reading: ''
+  annot: ความ​ประทับใจ​ที่​ได้​เห็น​ชุดชั้นใน​ของ​เด็กผู้หญิง​อายุ 12 ปี
+  translation_zh: （我）看到12岁女孩内衣时所留下的那份印象
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 体貌
+- 时制
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

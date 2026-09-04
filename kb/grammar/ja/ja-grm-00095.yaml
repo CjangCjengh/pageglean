@@ -1,0 +1,31 @@
+id: ja-grm-00095
+language: ja
+type: grammar
+level: N3
+level_rank: 3
+title: 〜わけだ：根据情理得出结论（难怪……／当然会……）
+structure: 用言・助動詞連体形＋わけだ
+structure_pattern: V/A-連体形 + わけだ
+explanation_zh: 「わけだ」接连体形，依据事实或常理推出顺理成章的结论，可译为「难怪……」「当然……」。与「わけではない」（部分否定）构成一对常用表达。片段中主角以「二人毫无紧张感、看不出将死的迹象」为由，得出「难怪能那么淡定」的结论。
+examples:
+- text: だってあの緊張感の無い二人、死にそうな気配が全く無いんだもん。
+  reading: ''
+  annot: だってあの緊張感[きんちょうかん]の無[な]い二人[ふたり]、死[し]にそうな気配[けはい]が全[まった]く無[な]いんだもん。
+  translation_zh: 毕竟那两个毫无紧张感的家伙，根本一点快要死掉的样子都没有嘛。（难怪那么淡定）
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 语气
+- 推论
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

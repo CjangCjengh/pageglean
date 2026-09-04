@@ -1,0 +1,38 @@
+id: ko-grm-00536
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: -(으)ㄴ 채(로)：保持某种状态
+structure: 동사 어간（动词词干）+ -(으)ㄴ 채(로)
+structure_pattern: 동사 어간 + 관형형 전성 어미 '-(으)ㄴ' + 의존 명사 '채' + (부사격 조사 '로')
+explanation_zh: 依存名词'채'表示前句动作形成的状态原样保持，在此状态下进行后一动作，相当于“保持着……的样子（做某事）”。后面的'로'可省略。中文可译为“（保持）……着”“以……的状态”。
+examples:
+- text: 키이리가 양손으로 입을 가린 채 울먹울먹한 눈으로 말했다.
+  reading: ''
+  annot: 키이리가 양손으로 입을 가린 채 울먹울먹한 눈으로 말했다.
+  translation_zh: 基里用双手捂着嘴，眼泪汪汪地开口说道。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+- text: 눈앞에 거구의 여성이 검을 빼어 든 채 쳐다보고 있다는 걸 확인한 순간
+  reading: ''
+  annot: 눈앞에 거구의 여성이 검을 빼어 든 채 쳐다보고 있다는 걸 확인한 순간
+  translation_zh: （就在）确认眼前一位魁梧的女性正握着拔出的剑盯着我看的那一刻……
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 体貌/状态持续
+- 依存名词
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

@@ -1,0 +1,32 @@
+id: ja-grm-00437
+language: ja
+type: grammar
+level: N3
+level_rank: 3
+title: 〜ず（に）：否定助动词ず的连用形（不……而）
+structure: 动词未然形 + 否定助动词 ず（文语性否定），连用形为 ず／ずに
+structure_pattern: V-未然形 + ず（に）
+explanation_zh: 否定助动词ず是文语性否定，其连用形ず／ずに相当于口语的ないで（不……而）。较ないで更书面、正式，多用于内心独白或叙述。サ变动词接ず时形式为せず（せず〔に〕）。
+examples:
+- text: あまりファッションに気を配らずに生きてきた分、おしゃれをしている自分がどこか新鮮に映る。
+  reading: ''
+  annot: あまりファッションに気[き]を配[くば]らずに生[い]きてきた分[ぶん]、おしゃれをしている自分[じぶん]がどこか新鮮[しんせん]に映[うつ]る。
+  translation_zh: 也许是因为一直以来都没怎么在穿着打扮上花心思，如今稍加打扮的自己看起来竟有种说不出的新鲜感。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 否定
+- 接续
+- 书面语
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

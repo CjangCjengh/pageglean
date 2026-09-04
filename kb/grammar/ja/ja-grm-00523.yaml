@@ -1,0 +1,31 @@
+id: ja-grm-00523
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 〜てあげる：为对方做某事
+structure: 动词连用形＋て＋あげる
+structure_pattern: V-連用形 + て + あげる
+explanation_zh: 授受补助动词，表示说话人或己方为对方做某事，动作指向受益对象。上对下、亲昵场合使用；对长辈或陌生人用会显得失礼，此时宜用〜てさしあげる。本片段中母亲调侃地用来指替女儿『把头发弄得蓬蓬的』。
+examples:
+- text: あの子かわいかったでしょ？ ワサワサしてあげた？
+  reading: ''
+  annot: あの子かわいかったでしょ？ ワサワサしてあげた？
+  translation_zh: 那孩子很可爱吧？你有帮她把头发弄得蓬蓬松松的吗？
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 授受
+- 敬语
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

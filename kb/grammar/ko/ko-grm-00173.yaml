@@ -1,0 +1,39 @@
+id: ko-grm-00173
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: 使动派生词尾 -이-/-우-：使役含义
+structure: 동사 어근 + 사동 파생 접미사 '-이-/-히-/-리-/-우-' (먹다→먹이다, 자다→재우다, 죽다→죽이다)
+structure_pattern: V-이-/히-/리-/우- (사동 파생)
+explanation_zh: 在词根后添加使动派生词尾构成使动词，表示使他人做某事，如 먹다→먹이다（喂食）、자다→재우다（使入睡）、죽다→죽이다（杀死）。学校语法中属于派生法（파생법）范畴。主人公“灌酒”“哄睡”凯特的使动行为，正是悲剧发生的直接原因。
+examples:
+- text: 게다가 술을 먹여서 잠까지 재워 주고 말이야…… 진짜로 아즐란은 유능해.
+  reading: ''
+  annot: 게다가 술을 먹여서 잠까지 재워 주고 말이야…… 진짜로 아즐란은 유능해.
+  translation_zh: 而且你还灌他喝酒，甚至让他睡了过去……阿兹兰真是能干啊。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+- text: 살려내라고! 이 미친 작가 놈아……!
+  reading: ''
+  annot: 살려내라고! 이 미친 작가 놈아……!
+  translation_zh: 给我把他救活！你这个疯了的作家……！
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 파생법(사동)
+- 품사 파생
+- 접미사
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 5
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

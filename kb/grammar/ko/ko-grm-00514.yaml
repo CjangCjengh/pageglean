@@ -1,0 +1,39 @@
+id: ko-grm-00514
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: -단 말이다：强调申辩“我是说……”
+structure: -(ㄴ/는)다는 말이다 的缩略；体言 + -(이)란 말이다
+structure_pattern: V-(ㄴ/는)단 + 말이다; N-(이)란 + 말이다
+explanation_zh: ‘-단 말이다’是‘-다는 말이다’的缩略（动词 -ㄴ/는다고 → -단；体言 + -(이)라 → -란），用于强调或辩解地重申自己的话，相当于“（我）是说……啊”。带有申辩、撒娇或不耐烦的情绪色彩，多用于口语。片段中儿童角色布伦两次使用，正突出其娇憨语气。
+examples:
+- text: 나, 이렇게 여럿이서 노는 거, 처음이란 말이야.
+  reading: ''
+  annot: 나, 이렇게 여럿이서 노는 거, 처음이란 말이야.
+  translation_zh: 我、像这样跟大家一起玩，还是头一回呢。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+- text: 브룬은 잘생긴 오빠랑 같이 조금이라도 더 놀고 싶단 말이야!
+  reading: ''
+  annot: 브룬은 잘생긴 오빠랑 같이 조금이라도 더 놀고 싶단 말이야!
+  translation_zh: 布伦是想跟帅气的哥哥哪怕再多玩一会儿嘛！
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 口语
+- 强调
+- 缩略形
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

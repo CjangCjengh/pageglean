@@ -1,0 +1,40 @@
+id: vi-grm-00055
+language: vi
+type: grammar
+level: L2
+level_rank: 2
+title: 比喻结构「như／như thể」
+structure: V/A + như (thể) + B（biện pháp tu từ so sánh）
+structure_pattern: như / như thể + NP
+explanation_zh: 「như」是最常用的比喻词（biện pháp so sánh），相当于「像／如同」；「như thể」书面色彩更重，意为「宛如／仿佛」。「xỉu
+  như bún」（蔫得像煮熟的面条）和「như thể cầm một giấc mơ」（仿佛捧着一个梦）都是生动的明喻。
+examples:
+- text: Nghĩ trong đầu thì hung hăng như vậy, hôm sau gặp Việt An, tôi xìu như bún.
+  reading: ''
+  annot: Nghĩ trong đầu thì hung hăng như vậy, hôm sau gặp Việt An, tôi xìu như bún.
+  translation_zh: 心里想得那么凶，第二天见到越安，我却像煮熟的面条一样蔫了。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+- text: Tôi cầm lấy cuốn sách mà như thể cầm một giấc mơ, không hiểu hư thực thế nào.
+  reading: ''
+  annot: Tôi cầm lấy cuốn sách mà như thể cầm một giấc mơ, không hiểu hư thực thế
+    nào.
+  translation_zh: 我接过那本书，却仿佛捧着一个梦，不知是真是幻。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 比较
+- 修辞
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

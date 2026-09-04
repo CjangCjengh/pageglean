@@ -1,0 +1,31 @@
+id: ja-grm-00359
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 〜てもしかたがない：……也没用
+structure: 動詞連用形＋接続助詞「ても」＋しかたがない
+structure_pattern: V-連用形(て) + も + しかたがない
+explanation_zh: 表示“即使……也无济于事、没有意义”，多用于自我宽慰后转而行动；也可表示程度之深（不由得……）。口语中「しかたがない」常说成「しょーがない」。例文中主角自语“抱怨也没用”，随即起身收拾。
+examples:
+- text: 愚痴っていてもしかたがない。
+  reading: ''
+  annot: 愚痴[ぐち]っていてもしかたがない。
+  translation_zh: 抱怨也没有用。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 语气
+- 惯用表达
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

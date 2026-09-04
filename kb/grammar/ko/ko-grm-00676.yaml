@@ -1,0 +1,38 @@
+id: ko-grm-00676
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: 「-자 / -자마자」：一……就立刻……
+structure: 动词词干 + 时间连接词尾 '-자' / '-자마자'（表示后一动作紧接着发生）
+structure_pattern: V- + -자 / -자마자
+explanation_zh: 连接词尾「-자」表示前一动作或状态刚发生，后一动作随即发生。「-자마자」在其后加依存名词「마자」，强调“刚一……马上……”，语气更紧。相当于中文的“……之后立刻”。
+examples:
+- text: 내가 신경질적으로 소리치자, 요나가 뒷말을 삼켰다.
+  reading: ''
+  annot: 내가 신경질적으로 소리치자, 요나가 뒷말을 삼켰다.
+  translation_zh: 我神经质地一吼，约娜便把后面的话咽了回去。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+- text: 팔이 자유로워지자마자 요나는 양팔을 들어 황급히 눈을 가린 채 소리 내어 울기 시작했다.
+  reading: ''
+  annot: 팔이 자유로워지자마자 요나는 양팔을 들어 황급히 눈을 가린 채 소리 내어 울기 시작했다.
+  translation_zh: 双臂刚一获得自由，约娜就抬起双手慌忙遮住眼睛，放声哭了起来。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 接续
+- 时间
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

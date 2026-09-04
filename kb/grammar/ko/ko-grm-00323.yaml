@@ -1,0 +1,31 @@
+id: ko-grm-00323
+language: ko
+type: grammar
+level: TOPIK5
+level_rank: 5
+title: -(으)ㄹ 테니(까)：推测性的理由
+structure: 추측 표현 '-(으)ㄹ 터' + 연결어미 '-니까'
+structure_pattern: V-(으)ㄹ 테니(까)
+explanation_zh: 由表推测或意志的「-(으)ㄹ 터」加连接词尾「-니까」构成，表示「想必会……所以……」，以前句的推测作为后句的理由或根据。口语和叙述中都常用。片段中说话人以「说来话长」为由自然地带过话题。
+examples:
+- text: 여기에는 상당히 복잡한 사정이 있는데…… 뭐, 얘기가 길어질 테니 생략하고.
+  reading: ''
+  annot: 여기에는 상당히 복잡한 사정이 있는데…… 뭐, 얘기가 길어질 테니 생략하고.
+  translation_zh: 这里面有相当复杂的隐情……算了，说来话长，就省略吧。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 接续
+- 理由
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

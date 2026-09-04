@@ -1,0 +1,38 @@
+id: ko-grm-00276
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: -기 때문이다：原因与理由
+structure: 用言词干 + -기 때문이다（명사형 전성어미 -기 + 때문이다）
+structure_pattern: '용언 어간 + 명사형 전성어미 -기 + 때문이다（과거: -았/었기 때문이다）'
+explanation_zh: 名词化词尾 -기 加 때문이다 说明原因，相当于中文的“是因为……”，多用于叙述和说明性文体，语气客观。过去时用 -았/었기 때문이다。片段在揭示结果后倒叙式地补出原因，如解释刀刃为何没有刺中。
+examples:
+- text: 틸프가 살짝 발을 움직여 옆으로 이동했기 때문이었다.
+  reading: ''
+  annot: 틸프가 살짝 발을 움직여 옆으로 이동했기 때문이었다.
+  translation_zh: 那是因为蒂尔芙轻轻挪动脚步，闪到了旁边。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+- text: 클라우의 공격에 제대로 반응할 수 있는 게 틸프뿐이었기 때문이다.
+  reading: ''
+  annot: 클라우의 공격에 제대로 반응할 수 있는 게 틸프뿐이었기 때문이다.
+  translation_zh: 因为能够对克劳的攻击做出有效反应的，只有蒂尔芙而已。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 原因
+- 名词化
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

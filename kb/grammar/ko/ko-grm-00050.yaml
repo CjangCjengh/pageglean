@@ -1,0 +1,33 @@
+id: ko-grm-00050
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: 「-뿐만 아니라」：不仅……，而且……
+structure: 体言 + 뿐만 아니라（后句常与 -도 呼应）
+structure_pattern: N + 뿐만 아니라 + N(도)
+explanation_zh: '''뿐만 아니라''表示“不仅……”，由의존명사''뿐''加보조사''만''再扩展否定构成，后句常与 도、까지 呼应。谓词可用 -ㄹ
+  뿐만 아니라、-는 뿐만 아니라 形式连接两个分句。片段中表示露西和蕾娜都露出了惊讶的表情。'
+examples:
+- text: 루시뿐만 아니라 레이나도 놀란 표정을 지었다.
+  reading: ''
+  annot: 루시뿐만 아니라 레이나도 놀란 표정을 지었다.
+  translation_zh: 不仅露西，蕾娜也露出了惊讶的表情。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 助词
+- 递进
+- 接续
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

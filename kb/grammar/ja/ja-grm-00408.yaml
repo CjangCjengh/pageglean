@@ -1,0 +1,31 @@
+id: ja-grm-00408
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 〜ちゃあしょうがない：～可就没办法了（「ては」的口语缩约）
+structure: 动词连用形＋て＋は＋しょうがない（口语中「ては」缩约为「ちゃあ」）
+structure_pattern: V-て + は + しょうがない（縮約：ちゃあ）
+explanation_zh: 口语里接续助词て加提示助词は常缩约为「ちゃ（あ）」，しょうがない表示“没有办法、无可奈何”。整体意为“要是～的话也就认命了”。ちゃあ的拉长加重语气，带粗犷的男性语感。
+examples:
+- text: バレちゃあしょうがない！ 俺がセクシードリームだぁ！
+  reading: ''
+  annot: バレちゃあしょうがない！ 俺[おれ]がセクシードリームだぁ！
+  translation_zh: 要是暴露了也没办法！我就是性感梦幻！
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 口语
+- 接续
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

@@ -1,0 +1,40 @@
+id: vi-grm-00068
+language: vi
+type: grammar
+level: L3
+level_rank: 3
+title: 强调否定：đâu có + V 与 có… đâu
+structure: đâu có + V ／ có + V + đâu
+structure_pattern: đâu có + V / có + V + đâu
+explanation_zh: 两种同义的强调否定格式，表示“根本没……、哪会……”，带有反驳或申辩语气。đâu có 置于动词前（đâu có biết＝哪会知道），có…
+  đâu 则把动词夹在中间（có té đâu＝根本没摔）。口语中出现频率极高。
+examples:
+- text: Em nhảy hoài mà có té đâu!
+  reading: ''
+  annot: Em nhảy hoài mà có té đâu!
+  translation_zh: 我一直跳，可从来没摔过呀！
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+- text: Anh không nói trước, em đâu có biết.
+  reading: ''
+  annot: Anh không nói trước, em đâu có biết.
+  translation_zh: 你没事先告诉我，我哪里知道嘛。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 否定
+- 强调
+- 语气
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

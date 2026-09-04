@@ -1,0 +1,40 @@
+id: ko-grm-00609
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: -더라/-던데：回忆中的所见所感（回叙）
+structure: 谓词词干 + 회상 선어말어미（回想先语末词尾）'-더-' + 终结词尾（-라 / -ㄴ데 / -라고）
+structure_pattern: V/A- + -더- + -라 → -더라；V/A- + -더- + -ㄴ데 → -던데
+explanation_zh: -더라 由回叙先语末词尾 '-더-' 加终结词尾构成，表示说话人回忆并转述自己过去亲眼所见、亲身所感，叙述生动、现场感强。-던데（-더-
+  + -ㄴ데）则提示回忆中的背景或带感叹，常为下文铺垫。中文可译为“（当时一看/感觉）竟然……/……呢”，多用于口语。
+examples:
+- text: 천장에도 인형이 주렁주렁 매달려 있는데, 솔직히 좀 기괴하더라.
+  reading: ''
+  annot: 천장에도 인형이 주렁주렁 매달려 있는데, 솔직히 좀 기괴하더라.
+  translation_zh: 天花板上也挂满了一串串娃娃，说实话真有点瘆人。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+- text: 거기에 흠집이……. 꿰맨 자국 같은 게 있더라.
+  reading: ''
+  annot: 거기에 흠집이……. 꿰맨 자국 같은 게 있더라.
+  translation_zh: 那里有道伤痕……像是缝合过似的痕迹。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 时态/回叙
+- 语气
+- 口语叙述
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 6
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

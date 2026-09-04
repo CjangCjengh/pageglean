@@ -1,0 +1,38 @@
+id: vi-grm-00074
+language: vi
+type: grammar
+level: L2
+level_rank: 2
+title: không…nữa：不再……
+structure: 副词 không + 动词 + 副词 nữa
+structure_pattern: không + V + nữa
+explanation_zh: 句末副词 nữa 与前头的否定词 không 呼应，表示某动作或状态从此停止，相当于汉语「不再……」。
+examples:
+- text: Vậy ngày mai em ở nhà, không đi theo anh nữa.
+  reading: ''
+  annot: Vậy ngày mai em ở nhà, không đi theo anh nữa.
+  translation_zh: 那我明天待在家里，不再跟着你了。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+- text: Không bắn chim nữa thì mình chơi trò gì?
+  reading: ''
+  annot: Không bắn chim nữa thì mình chơi trò gì?
+  translation_zh: 不打鸟的话，那我们玩什么呢？
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 体貌
+- 否定
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

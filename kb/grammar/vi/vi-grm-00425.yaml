@@ -1,0 +1,31 @@
+id: vi-grm-00425
+language: vi
+type: grammar
+level: L4
+level_rank: 4
+title: phải chăng：莫非、难道（揣测疑问）
+structure: phải chăng + câu（疑问语气结构 tình thái từ nghi vấn，表揣测）
+structure_pattern: phải chăng + S + V ?
+explanation_zh: 「phải chăng」是表揣测的疑问语气结构（tình thái từ nghi vấn），相当于“莫非/难道”，提出说话人有所猜测但不敢肯定的问题，语体偏书面。本段在人物内心独白中两次使用，营造将信将疑的心理。
+examples:
+- text: Phải chăng tên đó là Việt An?
+  reading: ''
+  annot: Phải chăng tên đó là Việt An?
+  translation_zh: 那个名字莫非就是越安？
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 疑问
+- 语气
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

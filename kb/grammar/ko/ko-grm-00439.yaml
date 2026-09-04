@@ -1,0 +1,39 @@
+id: ko-grm-00439
+language: ko
+type: grammar
+level: TOPIK2
+level_rank: 2
+title: 「-아/어 있다・-고 있다」：结果与状态的持续
+structure: 동사 어간 + 연결어미 '-아/어' / '-고' + 보조동사 '있다'
+structure_pattern: V-아/어 + 있다; V-고 + 있다
+explanation_zh: 补助动词（보조동사）'있다'与连接词尾'-아/어'结合，表示动作完成后结果状态的持续；与'-고'结合时多用于입다·쓰다等穿戴动词，表示状态的持续。相当于中文的“穿着”“躺着”。片段中'뻗어
+  있다''입고 있다''안고 있다'反复出现，是叙事描写的高频结构。
+examples:
+- text: 그러고 보니 메이드복을 입고 있다.
+  reading: ''
+  annot: 그러고 보니 메이드복을 입고 있다.
+  translation_zh: 这么一看，（她）正穿着女仆装。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+- text: 완전히 뻗어 있는 남자의 모습에 잠깐이지만 덜컥 겁이 났다.
+  reading: ''
+  annot: 완전히 뻗어 있는 남자의 모습에 잠깐이지만 덜컥 겁이 났다.
+  translation_zh: 看到彻底瘫倒在地上的那个男人的样子，虽然只是一瞬间，我还是不由得害怕起来。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 补助动词
+- 体貌
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 5
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

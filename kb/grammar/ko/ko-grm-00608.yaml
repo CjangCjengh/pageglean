@@ -1,0 +1,39 @@
+id: ko-grm-00608
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: 「-든…-든 상관없이：无论……还是……」
+structure: 体言 + 助词 -(이)든（用言则接连接词尾 -든），并列两项 + 상관없이
+structure_pattern: N-(이)든 + N-(이)든 + 상관없이
+explanation_zh: 助词/词尾 -든 并列两种以上情况，表示无论选择哪一种，后面的结论都不变。与 상관없이 呼应时，意为“不管是A还是B都无所谓／都照旧”。
+examples:
+- text: 네가 악마든 인간이든 상관없이 여기서 아예 뭉개 버리는 수가 있으니까 제대로 말해.
+  reading: ''
+  annot: 네가 악마든 인간이든 상관없이 여기서 아예 뭉개 버리는 수가 있으니까 제대로 말해.
+  translation_zh: 不管你是恶魔还是人类，我可都可能直接把你在这儿碾碎，所以给我老实交代。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+- text: 만약 내가 미처 눈치채기 전에 키이리에게 무슨 일이 생겼다면, 나는 요나가 인간이든 악마이든 상관없이 참지 못했을 것이다.
+  reading: ''
+  annot: 만약 내가 미처 눈치채기 전에 키이리에게 무슨 일이 생겼다면, 나는 요나가 인간이든 악마이든 상관없이 참지 못했을 것이다.
+  translation_zh: 万一在我察觉之前基伊里出了什么事，那么不管约娜是人还是恶魔，我都绝不会善罢甘休。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 助词
+- 让步
+- 无条件
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

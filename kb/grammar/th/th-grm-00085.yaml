@@ -1,0 +1,32 @@
+id: th-grm-00085
+language: th
+type: grammar
+level: L2
+level_rank: 2
+title: ลอง + V：试着做（尝试体）
+structure: ลอง + V
+structure_pattern: ลอง + คำกริยา
+explanation_zh: ลอง 置于主要动词之前，表示“试着做～、尝试～”。汉语常说“试着V、V一下看看”，泰语则把动词 ลอง 放在动作之前。片段中还出现惯用搭配
+  ไม่ถูกปาก（不合口味）。
+examples:
+- text: แต่​กลัว​ไม่​ถูกปาก​คุณ​ชา​เลย​ลอง​ถาม​ดูก่อน​ว่า​ชอบ​ไหม
+  reading: ''
+  annot: แต่​กลัว​ไม่​ถูกปาก​คุณ​ชา​เลย​ลอง​ถาม​ดูก่อน​ว่า​ชอบ​ไหม
+  translation_zh: 但怕不合茶先生的口味，所以先试着问问喜不喜欢。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 体貌
+- 尝试态
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

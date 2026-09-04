@@ -1,0 +1,32 @@
+id: ja-grm-00317
+language: ja
+type: grammar
+level: N2
+level_rank: 4
+title: 〜たはいいが：做了倒是做了，可是……
+structure: 動詞連用形＋助動詞「た」＋はいいが
+structure_pattern: V-た + はいいが
+explanation_zh: 表示某事虽然做了，却由此引出了棘手的问题，后项常带有为难、无奈的语气。「はいいが」先用系助词「は」姑且肯定前项，再用接续助词「が」转折。口语和书面都常用。
+examples:
+- text: 憧れ＆一目惚れでハイになった勢いで憧れのシチュに持っていったはいいが、ずっと頭の中で『私は何を!?』と『グッジョブ、私！』が交互に繰り返されて……
+  reading: ''
+  annot: 憧れ＆一目惚れでハイになった勢いで憧れのシチュに持っていったはいいが、ず
+  translation_zh: 仗着憧憬和一见钟情的兴奋劲头，顺势把气氛带到了向往的场景，这倒还好，可脑子里『我这是在干什么!?』和『干得漂亮，我！』两句话却交替刷屏……
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 转折
+- 口语
+- 复合句
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

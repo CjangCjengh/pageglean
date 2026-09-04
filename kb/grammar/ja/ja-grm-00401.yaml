@@ -1,0 +1,39 @@
+id: ja-grm-00401
+language: ja
+type: grammar
+level: N3
+level_rank: 3
+title: 〜まくる：过度地反复做（口语）
+structure: 動詞連用形＋まくる（接尾動詞）
+structure_pattern: V-連用形 + まくる
+explanation_zh: まくる接动词连用形，表示高频或过度地反复做某事，汉译「一个劲儿地～、～个不停」。文中无茶ブリをしまくる（一直强人所难）、ケンカを売りまくる（四处挑衅打架）均后接ている／てる表示持续状态。
+examples:
+- text: あいつがこの子に無茶ブリをしまくっているということだ。
+  reading: ''
+  annot: あいつがこの子[こ]に無茶[むちゃ]ブリをしまくっているということだ。
+  translation_zh: 也就是说，那家伙一直在对这女孩强人所难。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+- text: 俺らにケンカ売りまくってる『セクシードリーム』とかいうのがこのクラスにいるんだろ！
+  reading: ''
+  annot: 俺[おれ]らにケンカ売[う]りまくってる『セクシードリーム』とかいうのがこのクラスにいるんだろ！
+  translation_zh: 一直找我们打架的那个叫什么『性感之梦』的，就在这个班里对吧！
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 体貌
+- 口语
+- 复合动词
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

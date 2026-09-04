@@ -1,0 +1,31 @@
+id: ja-grm-00556
+language: ja
+type: grammar
+level: N2
+level_rank: 4
+title: 「〜あげく：……到最后（多指坏结果）」
+structure: 动词连体形（た形） + 形式名词「あげく（挙げ句）」
+structure_pattern: V-た + あげく（に）
+explanation_zh: 表示经过一段时间或一番过程之后，最终导致（多为不好的）结果，「……到最后竟然……」。前接动词た形或「名词＋の」。多含消极评价。
+examples:
+- text: 男同士の喧嘩にほうきをもって乱入したあげくヒートアップさせたり
+  reading: ''
+  annot: 男[おとこ]同士[どうし]の喧嘩[けんか]にほうきをもって乱入[らんにゅう]したあげくヒートアップさせたり
+  translation_zh: （她）拿着扫帚冲进男生之间的打架，结果反而让场面更加白热化。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 结果/消极
+- 形式名词
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

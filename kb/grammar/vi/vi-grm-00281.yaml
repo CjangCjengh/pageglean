@@ -1,0 +1,31 @@
+id: vi-grm-00281
+language: vi
+type: grammar
+level: L3
+level_rank: 3
+title: Hay là：提出替代建议
+structure: Hay là + V／分句（liên từ đề xuất 提议连词）？
+structure_pattern: Hay là + mệnh đề ?
+explanation_zh: 「Hay là」用于提出另一个建议或备选方案，意为「要不……？还是……吧？」，常置于句首构成疑问句。是口语中协商、商量时的高频说法。
+examples:
+- text: Hay là đổi thành "yêu thương"?
+  reading: ''
+  annot: Hay là đổi thành "yêu thương"?
+  translation_zh: 要不改成「yêu thương（爱）？」
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 语气
+- 提议
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

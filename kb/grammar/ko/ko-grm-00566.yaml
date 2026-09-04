@@ -1,0 +1,32 @@
+id: ko-grm-00566
+language: ko
+type: grammar
+level: TOPIK5
+level_rank: 5
+title: 「-다고 해야 할까」：迟疑中的措辞」
+structure: 形容词/动词 + -다고 해야 할까；名词/이다 + -(이)라고 해야 할까
+structure_pattern: A/V-다고 해야 할까 / N-(이)라고 해야 할까
+explanation_zh: 由间接引用词尾'-다고 하다'加'-어야 할까'构成，表示说话者拿不准该用什么说法来形容，相当于中文的'该说……呢，还是该说……呢'。常用于两个分句并举、自我斟酌的场合，语气柔和且带有自言自语感，是小说与日常口语中都很典型的修辞性表达。
+examples:
+- text: 다채롭다고 해야 할까, 감정 표현이 정말 극적이라고 해야 할까…….
+  reading: ''
+  annot: 다채롭다고 해야 할까, 감정 표현이 정말 극적이라고 해야 할까…….
+  translation_zh: 该说丰富多彩呢，还是该说情感表达真的十分戏剧化呢……
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 引用
+- 修辞
+- 语气
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

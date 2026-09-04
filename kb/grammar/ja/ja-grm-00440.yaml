@@ -1,0 +1,32 @@
+id: ja-grm-00440
+language: ja
+type: grammar
+level: N2
+level_rank: 4
+title: 动词辞书形＋なり：刚一……就……
+structure: V-辞书形 + なり
+structure_pattern: V-連体形 + 助詞「なり」
+explanation_zh: 助词「なり」接动词连体形，表示前项动作刚一发生，后项情况紧接着出现，相当于"一……就……"。例中"刚到校就被香澄以惊人的气势缠上诉说"，强调两个事件紧密相接。是轻小说叙述中常见的偏书面表达。
+examples:
+- text: 登校するなりかすみちゃんにえっらい勢いで訴えられる。
+  reading: ''
+  annot: 登校[とうこう]するなりかすみちゃんにえっらい勢[いきお]いで訴[うった]えられる。
+  translation_zh: 刚一到校，就被香澄以惊人的气势缠上诉苦。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 接续
+- 时间关系
+- 书面语
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

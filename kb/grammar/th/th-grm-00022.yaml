@@ -1,0 +1,38 @@
+id: th-grm-00022
+language: th
+type: grammar
+level: L2
+level_rank: 2
+title: ทำให้+小句：使役结构「使／让……」
+structure: ประธาน（主语）+ ทำให้ + กรรม（宾语）+ คำกริยา/คำวิเศษณ์（动词/形容词作补语）
+structure_pattern: ประธาน + ทำให้ + กรรม + กริยา/วิเศษณ์
+explanation_zh: ทำให้是使役结构：ประธาน（主语）+ ทำให้ + กรรม（宾语）+ กริยา/วิเศษณ์（补语），相当于中文“使／让……”。补语说明宾语产生的变化或结果，如ทำให้เราสองคนคุยกันมากขึ้น（使我们俩聊得更多）。可与ที่连用（…ที่ทำให้…）强调原因，常见于叙事。
+examples:
+- text: และ​นั่นก็​ทำให้​เรื่องราว​ของ​หนังสือ​ต่าง ๆ ได้​กลาย​มา​เป็นหัวข้อ
+  reading: ''
+  annot: และ​นั่นก็​ทำให้​เรื่องราว​ของ​หนั
+  translation_zh: 而那也让各种书的故事变成了（我们的）话题。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+- text: ด้วย​เหตุ​นั้น​เอง​ที่​ทำให้​เธอ​บอกเลิก​กับ​ผม
+  reading: ''
+  annot: ด้วย​เหตุ​นั้น​เอง​ที่​ทำให้​เธอ​บอกเลิก​กับ​ผม
+  translation_zh: 正是因为那个原因，她才向我提出了分手。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 使役
+- 句法结构
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 4
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

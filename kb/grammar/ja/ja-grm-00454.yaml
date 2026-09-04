@@ -1,0 +1,31 @@
+id: ja-grm-00454
+language: ja
+type: grammar
+level: N2
+level_rank: 4
+title: 〜にしては：以…来说却…
+structure: 体言 ＋ にしては ＋（与预期相反的表述）
+structure_pattern: 体言 + にしては
+explanation_zh: 「にしては」是复合助词（助詞「に」＋「する」連用形「し」＋接続助詞「て」＋係助詞「は」），接在体言后，表示以该标准衡量，后项与预期相反，意为“以…来说却…”。句中意为“竟然来征求我的同意，以这家伙的一贯作风来说实在罕见”，强调事情出乎意料。
+examples:
+- text: 俺の同意を求めるとは、こいつにしては非常に珍しい。
+  reading: ''
+  annot: 俺[おれ]の同意[どうい]を求[もと]めるとは、こいつにしては非常[ひじょう]に珍[めずら]しい。
+  translation_zh: 竟然来征求我的同意，对这家伙来说真是非常罕见。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 助词
+- 逆接
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

@@ -1,0 +1,31 @@
+id: ja-grm-00088
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 「って」：口语引用（＝格助詞「と」）
+structure: 引用節（用言終止形）＋引用助詞「って」（口语）／「と」（书面）＋言う・名乗る等の動詞
+structure_pattern: 引用節 + って（= と） + 言う
+explanation_zh: 「って」是引用格助詞「と」的口语形式，接在用言終止形后引出话语内容，与「言う・名乗る」等动词搭配。轻小说会话中几乎全用「って」；例2同时出现书面化的「と」，可对照两者的语体差异。
+examples:
+- text: さっき『しばらくこの地に留まる』って言ったけど、どこに泊まる気だ？
+  reading: ''
+  annot: さっき『しばらくこの地[ち]に留[と]まる』って言[い]ったけど、どこに泊[と]まる気[き]だ？
+  translation_zh: 你刚才说“要在这片地方逗留一阵子”，那你打算住哪里？
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 助词
+- 口语
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

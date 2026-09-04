@@ -1,0 +1,32 @@
+id: vi-grm-00186
+language: vi
+type: grammar
+level: L3
+level_rank: 3
+title: 结果补语：V + mất / được / ra
+structure: V + 结果补语（mất / được / ra / lên …）
+structure_pattern: V + resultative (mất/được/ra/lên)
+explanation_zh: 越南语动词后可直接带结果补语，构成“V＋结果成分”：đánh rơi mất（掉落而丢失）、viết được（写得出来），类似中文的“弄丢、写出”。được
+  作补语表动作可行或成功，mất 表失去，ra／lên 表方向兼结果。否定在动词前加 không，如 không viết được（写不出来）。
+examples:
+- text: Đi học đến ngày thứ ba, tôi đánh rơi mất lọ mực.
+  reading: ''
+  annot: Đi học đến ngày thứ ba, tôi đánh rơi mất lọ mực.
+  translation_zh: 上学到第三天，我把墨水瓶弄丢了。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 补语
+- 动补结构
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 5
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

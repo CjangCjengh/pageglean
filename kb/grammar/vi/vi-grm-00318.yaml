@@ -1,0 +1,31 @@
+id: vi-grm-00318
+language: vi
+type: grammar
+level: L3
+level_rank: 3
+title: càng… càng…：越……越……
+structure: càng + 动词/形容词，càng + 动词/形容词
+structure_pattern: càng + V/Adj , càng + V/Adj
+explanation_zh: càng 意为「越发」，两个分句连用表示两个动作或程度同步递增，即汉语的「越……越……」。càng 直接放在动词或形容词之前，不需要其他虚词。
+examples:
+- text: Tiểu Li càng la, Lợi sứt giã tôi càng khỏe.
+  reading: ''
+  annot: Tiểu Li càng la, Lợi sứt giã tôi càng khỏe.
+  translation_zh: Tiểu Li 越喊，Lợi sứt 打我就越凶。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 比较句
+- 递进
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

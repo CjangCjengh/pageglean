@@ -1,0 +1,39 @@
+id: ko-grm-00043
+language: ko
+type: grammar
+level: TOPIK2
+level_rank: 2
+title: 「-아/어도：即使……也……」
+structure: 谓词词干 + 连接词尾 -아/어도（让步）
+structure_pattern: V/A-아/어도
+explanation_zh: 连接词尾 -아/어도 表示让步，即前项情况不影响后项的结果或判断，常与副词 아무리（无论多么）呼应使用。相当于中文的「即使……也……」。片段中还与
+  조금도 … -지 않다（一点也不）搭配，加强否定语气。
+examples:
+- text: 아무리 불행한 일을 겪어도 조금도 퇴색되지 않는 너의 고결함을, 나는 좋아했다.
+  reading: ''
+  annot: 아무리 불행한 일을 겪어도 조금도 퇴색되지 않는 너의 고결함을, 나는 좋아했다.
+  translation_zh: 无论经历怎样的不幸都丝毫不褪色的你的高洁，我曾深深喜欢过。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+- text: 아무리 공작님이 색골이라고 해도 황녀님은 안 건드릴 거야.
+  reading: ''
+  annot: 아무리 공작님이 색골이라고 해도 황녀님은 안 건드릴 거야.
+  translation_zh: 就算公爵再怎么好色，也不会对皇女殿下出手的。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 连接词尾
+- 让步
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

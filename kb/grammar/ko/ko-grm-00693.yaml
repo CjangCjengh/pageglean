@@ -1,0 +1,40 @@
+id: ko-grm-00693
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: -았/었을 것이다：对过去的肯定推测
+structure: 用言词干 + -았/었을 것이다（理由形：-(으)ㄹ 테니까）
+structure_pattern: V/A-았/었을 것이다; V/A-(으)ㄹ 테니까
+explanation_zh: -(으)ㄹ 것이다表示说话人对情况的肯定推测，相当于「想必……」「应该会……」。与过去时制词尾结合成-았/었을 것이다，用于推测已经发生的事情；-(으)ㄹ
+  테니까则以推测性理由解释原因。本段叙述者反复用它揣测过去的心思，语气笃定而带反省。
+examples:
+- text: 처음에는 그 말에 전적으로 동의했을 것이다.
+  reading: ''
+  annot: 처음에는 그 말에 전적으로 동의했을 것이다.
+  translation_zh: 起初，（他）想必是完全认同那句话的。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+- text: 백 개의 생명이 한 개의 생명보다 더 중요하다고, 단순하게 계산할 수 있을 나이였을 테니까.
+  reading: ''
+  annot: 백 개의 생명이 한 개의 생명보다 더 중요하다고, 단순하게 계산할 수 있을 나이였을 테니까.
+  translation_zh: 因为那还是一个能简单地认为一百条生命比一条生命更重要、能如此计算的年纪。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 语气
+- 推测
+- 时制
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 4
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

@@ -1,0 +1,40 @@
+id: ko-grm-00250
+language: ko
+type: grammar
+level: TOPIK2
+level_rank: 2
+title: -(으)ㄹ 때：时间背景「……的时候」
+structure: 용언 + 관형사형 전성어미 -(으)ㄹ + 의존명사 때 (+ 부사격 조사 에)
+structure_pattern: (V/A)-(으)ㄹ + 때
+explanation_zh: 의존명사 '때' 受前面관형사형 전성어미修饰，表示事件发生的时间点，相当于「……的时候」。已然之事用 '-았/었을 때'，后可添부사격
+  조사 -에。文中两个 '-았/었을 때' 小句并列，回溯过去经历的战场危机。
+examples:
+- text: 작전 수행 중 아무런 준비 없이 에픽 어보미네이션과 맞닥뜨렸을 때
+  reading: ''
+  annot: 작전 수행 중 아무런 준비 없이 에픽 어보미네이션과 맞닥뜨렸을 때
+  translation_zh: 在执行作战途中毫无准备地与「Epic Abomination」遭遇的时候……
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+- text: 알테아는 성궤검을 발동시켰을 때를 제외하면 다른 사람들에 비해 개인 전투력이 떨어진다.
+  reading: ''
+  annot: 알테아는 성궤검을 발동시켰을 때를 제외하면 다른 사람들에 비해 개인 전투력이 떨어진다.
+  translation_zh: 阿尔忒亚除了发动星溃剑的时候之外，与其他人相比个人战斗力较低。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 依存名词
+- 时间
+- 接续
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

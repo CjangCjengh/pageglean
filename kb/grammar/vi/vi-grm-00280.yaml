@@ -1,0 +1,31 @@
+id: vi-grm-00280
+language: vi
+type: grammar
+level: L2
+level_rank: 2
+title: Đừng + 动词：禁止与劝阻
+structure: Đừng + V（tình thái từ cầu khiến 祈使情态词）(+ nữa)
+structure_pattern: Đừng + V (+ nữa)
+explanation_zh: 「đừng」是表禁止、劝阻的祈使情态词（tình thái từ cầu khiến），置于动词前，相当于「别、不要」。句末加「nữa」表示「别再……了」，要求停止已在进行或持续的行为。
+examples:
+- text: Đừng mơ tưởng đến nó nữa!
+  reading: ''
+  annot: Đừng mơ tưởng đến nó nữa!
+  translation_zh: 别再对她想入非非了！
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 语气
+- 祈使
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

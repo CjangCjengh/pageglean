@@ -1,0 +1,41 @@
+id: th-grm-00086
+language: th
+type: grammar
+level: L3
+level_rank: 3
+title: พอ…ก็… 与 หลังจากที่…แล้ว：时间小句
+structure: พอ + V，(S) + ก็ + V；หลังจากที่ + S+V + แล้ว，S + ก็ + V
+structure_pattern: พอ + คำกริยา , ประธาน + ก็ + คำกริยา | หลังจากที่ + ประโยค + แล้ว
+  , ประธาน + ก็ + คำกริยา
+explanation_zh: พอ + 动词 表示“刚一……就……”，主句常用 ก็ 呼应，强调两个动作紧接发生。หลังจากที่…แล้ว 表示“在……之后”，แล้ว
+  位于小句末尾标记完成。两者在学校文法中都属于时间อนุประโยค（时间从句）结构。
+examples:
+- text: ญาดา​ที่​ยืน​ฟัง​ผม​อย่าง​ตั้งใจ​นั้น พอ​ฟัง​จบ​เธอก็​สามารถ​ใช้​เครื่อง​ซักผ้า​ของ​ผม​ได้​ทันที
+  reading: ''
+  annot: ญาดา​ที่​ยืน​ฟัง​ผม​อย่าง​ตั้งใจ​นั้น พอ​ฟัง​จบ​เธอก็​สามารถ​ใช้​เครื่อง​ซักผ้า​ของ​ผม​ได้​ทันที
+  translation_zh: 站着认真听我讲解的雅达，刚一听完就能马上使用我的洗衣机了。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+- text: หลังจากที่ญาดา​สำรวจ​ส่วน​อื่น ๆ ของ​บ้าน​ต่อ​จน​พอใจ​แล้ว ผมก็​กลับ​ไป​นั่ง​ปั่น​งาน​ต่อ​ที่​ห้องอาหาร
+  reading: ''
+  annot: หลังจากที่ญาดา​สำรวจ​ส่วน​อื่น ๆ ของ​บ้าน​ต่อ​จน​พอใจ​แล้ว ผมก็​กลับ​ไป​นั่ง​ปั่น​งาน​ต่อ​ที่​ห้องอาหาร
+  translation_zh: 雅达把房子其余地方参观尽兴之后，我便回到餐厅继续赶工作。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 时间小句
+- 连词
+- 体貌
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

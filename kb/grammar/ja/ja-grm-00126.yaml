@@ -1,0 +1,38 @@
+id: ja-grm-00126
+language: ja
+type: grammar
+level: N3
+level_rank: 3
+title: 「〜っぽい」：像是……的（口语接尾辞）
+structure: 名詞 ＋ っぽい（接尾語）
+structure_pattern: N + っぽい
+explanation_zh: 「〜っぽい」是接尾辞，接名词或动词连用形后构成形容词性表达，表示"有……的感觉／像是……"，带轻微随意、口语色彩。句中「中二病っぽい」即"像中二病似的"。相当于「〜らしい」的口语说法。
+examples:
+- text: 『中二病（≒邪気眼）』っぽい、日本語＆ルビの組み合わせ。
+  reading: ''
+  annot: 『中二病[ちゅうにびょう]（≒邪気眼[じゃきがん]）』っぽい、日本語[にほんご]＆ルビの組[く]み合[あ]わせ。
+  translation_zh: 像是"中二病（≒邪气眼）"风格的、日语与注音假名的组合。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+- text: ボクサーパンツっぽいやつ。身体にピッタリとフィットするタイプ
+  reading: ''
+  annot: ボクサーパンツっぽいやつ。身体[からだ]にピッタリとフィットするタイプ
+  translation_zh: 像平角内裤的那种。是紧贴身体的款式。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 口语
+- 接尾辞
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 4
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

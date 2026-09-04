@@ -1,0 +1,39 @@
+id: ko-grm-00145
+language: ko
+type: grammar
+level: TOPIK5
+level_rank: 5
+title: -(ㄴ/는)다는 게·-다는 점이다：转述性名词化与评价
+structure: 动词词干 + -(ㄴ/는)다는 것/게；-(았/었)다는 점이다
+structure_pattern: 어간 + 관형사형 전성어미 -(ㄴ/는)다는 + 의존명사 '것/점'
+explanation_zh: “-(느)ㄴ다고 하는 것이”的缩略，把整个事件名词化后加以评价；-다는 점이다 常与 문제는 搭配，表“问题在于……”。属中高级叙事核心结构，片段前后两处呼应。
+examples:
+- text: 문제는 너무 효과적이었다는 점이다.
+  reading: ''
+  annot: 문제는 너무 효과적이었다는 점이다.
+  translation_zh: 问题是（这修炼法）实在太有效了。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+- text: 제국을 손에 넣는다는 게 별로 내키지 않았다
+  reading: ''
+  annot: '제국을 손에 넣는다는 '
+  translation_zh: （他觉得）夺取帝国这档子事，自己实在提不起劲。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 名词化
+- 转述
+- 评价
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

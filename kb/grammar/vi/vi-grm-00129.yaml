@@ -1,0 +1,32 @@
+id: vi-grm-00129
+language: vi
+type: grammar
+level: L3
+level_rank: 3
+title: 「vừa mới…đã」：刚……就……
+structure: vừa mới + V1 + (thì) đã + V2
+structure_pattern: vừa_mới + V1 + đã + V2
+explanation_zh: 「vừa mới」表“刚刚”，「đã」在此表“已经”而非过去。两个动作紧密衔接，表示前一个刚发生，后一个紧接着就出现。相当于中文“刚……就……”。
+examples:
+- text: Nhưng tôi vừa mới bước ra ngoài hiên đã nghe tiếng hú cất lên trong nhà.
+  reading: ''
+  annot: Nhưng tôi vừa mới bước ra ngoài hiên đã nghe tiếng hú cất lên trong nhà.
+  translation_zh: 可我刚一步出门廊，屋里就传来了呼喊声。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 时间
+- 体貌
+- 句式
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 8
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

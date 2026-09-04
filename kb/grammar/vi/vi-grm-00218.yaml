@@ -1,0 +1,39 @@
+id: vi-grm-00218
+language: vi
+type: grammar
+level: L3
+level_rank: 3
+title: 被动标记 bị / được：不如意与如愿
+structure: 受事主语 + bị / được +（施事）+ 动词
+structure_pattern: S + bị / được + (Agent) + V
+explanation_zh: 越南语被动用虚词标记：「bị」引出不如意的被动态，相当于“被”；「được」引出如愿、得益的被动态。两者后面可带施事（bị cô giáo
+  phạt），也可省略（bị mất）。「được」另可作补语表示动作达成，如“tích góp được”（攒到）。
+examples:
+- text: Nhưng để dép trong lớp lại thường bị mất nên tụi tôi phải nhờ Lợi sứt giữ.
+  reading: ''
+  annot: Nhưng để dép trong lớp lại thường bị mất nên tụi tôi phải nhờ Lợi sứt giữ.
+  translation_zh: 可是把凉鞋放在教室里又常常丢，所以我们只好请豁牙利帮忙看管。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+- text: nó lại đem ra chơi và bị tụi tôi ăn lại hết.
+  reading: ''
+  annot: nó lại đem ra chơi và bị tụi tôi ăn lại hết.
+  translation_zh: 他又拿出来玩，结果又被我们赢了个精光。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 被动
+- 语态
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 6
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

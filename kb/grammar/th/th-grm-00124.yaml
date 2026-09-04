@@ -1,0 +1,31 @@
+id: th-grm-00124
+language: th
+type: grammar
+level: L4
+level_rank: 4
+title: เสียแล้ว：已然语气「竟已……了」
+structure: 动词/数量短语 + เสียแล้ว
+structure_pattern: คำกริยา + คำวิเศษณ์ 'เสีย' + 'แล้ว' (ท้ายประโยค บอกความสำเร็จ/สำนึก)
+explanation_zh: เสียแล้ว 置于句末，表示事情已然发生或达到某种程度，常带轻微意外、感叹的语气。其中เสีย加强语气，แล้ว表示已然。片段中「เกือบค่อนวันเสียแล้ว」意为不知不觉竟已近大半天。
+examples:
+- text: รู้สึกตัว​อีกทีก็​ไป​เดิน​เรื่อยเปื่อย​ใน​นั้น​เกือบ​ค่อนวัน​เสีย​แล้ว
+  reading: ''
+  annot: รู้สึกตัว​อีกทีก็​ไป​เดิน​เรื่อยเปื่อย​ใน​นั้น​เกือบ​ค่อนวัน​เสีย​แล้ว
+  translation_zh: 等再回过神来，竟已在里面漫无目的地逛了快大半天了。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 语气
+- 体貌
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

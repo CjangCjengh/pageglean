@@ -1,0 +1,31 @@
+id: ja-grm-00405
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 〜なきゃ：必须……（口语省略形）
+structure: 動詞未然形＋否定助動詞ないの仮定形なければ → なきゃ
+structure_pattern: V-未然形 + なければ → なきゃ
+explanation_zh: 否定助动词ない的假定形（仮定形）なければ在口语中缩约为なきゃ，后接ならない／いけない等成分常省略，单独表示「必须……」。文中もどらなきゃ即「得回去了」；同类还有なくちゃ，均为口语高频表达。
+examples:
+- text: あ、もどらなきゃ。さ、先に行くね、ばいばい
+  reading: ''
+  annot: あ、もどらなきゃ。さ、先[さき]に行[い]くね、ばいばい
+  translation_zh: 啊，我得回去了。那、我先走了哦，拜拜～
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 义务
+- 口语缩约
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

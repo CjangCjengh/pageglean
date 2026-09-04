@@ -1,0 +1,38 @@
+id: ko-grm-00326
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: -기 때문에 / -기에：理由与原因
+structure: 动/形词干 + -기 때문에；书面语中可紧缩为 -기에
+structure_pattern: V/A-기 + 의존명사 '때문' + 조사 '에' / V/A-기에
+explanation_zh: -기 때문에 用名词化词尾 -기 加依存名词 때문 表示原因，语气郑重。-기에 是其书面紧缩形式，多见于小说和正式文体。两者强调客观原因，相当于“因为……”“由于……”。
+examples:
+- text: 그렇기 때문에 파훼법도 다양하지.
+  reading: ''
+  annot: 그렇기 때문에 파훼법도 다양하지.
+  translation_zh: 正因如此，破解的方法也多种多样。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+- text: 아무런 소리도 나지 않았기에 주위는 고요하기만 했다.
+  reading: ''
+  annot: 아무런 소리도 나지 않았기에 주위는 고요하기만 했다.
+  translation_zh: 因为一点声音也没有发出，四周只是一片寂静。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 连接词尾
+- 理由
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 4
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

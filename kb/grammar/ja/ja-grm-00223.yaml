@@ -1,0 +1,32 @@
+id: ja-grm-00223
+language: ja
+type: grammar
+level: N3
+level_rank: 3
+title: 〜ずに：不……就…… / 没有……而
+structure: 动词未然形 + 打消助动词「ず」（连用形「ずに」）
+structure_pattern: V-未然形 + ずに
+explanation_zh: 「ず」是带有文言色彩的打消助动词，接动词未然形；其连用形「ずに」相当于口语的「ないで」，表示前项未进行而直接做后项。语感比「ないで」更书面、凝练，轻小说叙述中常见。此处“答えずに言い出す”即“不回答反而说”。
+examples:
+- text: が、リアはそれには答えずに……ある意味、もっとタチの悪い事を言い出した。
+  reading: ''
+  annot: が、リアはそれには答[こた]えずに……ある意味[いみ]、もっとタチの悪[わる]い事[こと]を言[い]い出[だ]した。
+  translation_zh: 但是，莉亚并没有回答，反而说出了某种意义上更加棘手的事情。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 否定
+- 接续
+- 书面语
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

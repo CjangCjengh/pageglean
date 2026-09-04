@@ -1,0 +1,38 @@
+id: ja-grm-00234
+language: ja
+type: grammar
+level: N3
+level_rank: 3
+title: 「〜ようとする」：试图、正要做……
+structure: V-未然形 + 意志の助動詞「う／よう」 + 格助詞「と」 + 「する」
+structure_pattern: V-未然形 + う/よう + とする
+explanation_zh: 表示"试图做某事、正要做某事"。意志助动词「う／よう」接动词未然形表意志或即将，格助词「と」提示动作内容，后接「する」。片段中三度出现，描写战斗中"欲缠住双脚""欲卷开剑刃""欲突围"等意图。
+examples:
+- text: リアの方に抜けようとするイスカを狙うが、回避される。
+  reading: ''
+  annot: リアの方[ほう]に抜[ぬ]けようとするイスカを狙[ねら]うが、回避[かいひ]される。
+  translation_zh: 我瞄准想朝莉亚那边突围的伊斯卡，却被她躲开了。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+- text: まるで会社帰りの旦那をいたわる若奥様のような動きで、彼女は俺のカバンを預かろうとする。
+  reading: ''
+  annot: まるで会社帰[かいしゃがえ]りの旦那[だんな]をいたわる若奥様[わかくさま]のような動[うご]きで、彼女[かのじょ]は俺[おれ]のカバンを預[あず]かろうとする。
+  translation_zh: 她用宛如慰劳下班回家的丈夫的年轻妻子般的动作，伸手想接过我的包。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 体貌
+- 助动词
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

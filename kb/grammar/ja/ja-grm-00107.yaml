@@ -1,0 +1,31 @@
+id: ja-grm-00107
+language: ja
+type: grammar
+level: N3
+level_rank: 3
+title: 〜ものではない：并非能……的事（常理否定）
+structure: 動詞連体形＋形式名詞「もの」＋ではない
+structure_pattern: V-連体形 + もの + ではない
+explanation_zh: 形式名词「もの」表示普遍常理或事物的本质，「〜ものではない」表示"按常理不应该是~"或"不是能~的事"。片段中意为"（魔法）不是能够抗拒的东西"，即常理上谁都抗拒不了。比单纯的否定更具普遍性与断定性。
+examples:
+- text: 元中二病という過去が無くとも逃せるものではない
+  reading: ''
+  annot: 元[もと]中二病[ちゅうにびょう]という過去[かこ]が無[な]くとも逃[のが]せるものではない
+  translation_zh: 即使没有过中二病的过去，也不是能够抗拒的东西。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 语气
+- 形式名词
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

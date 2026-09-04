@@ -1,0 +1,32 @@
+id: ko-grm-00425
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: -(으)면：假设条件
+structure: 용언 어간 + -(으)면（过去假设：-았/었-면）
+structure_pattern: 어간 + -(으)면
+explanation_zh: '''-(으)면''是学校语法中表示假设、条件的连接词尾。本句中它接在过去时制词尾''-았/었-''后构成''없었다면''，表示与现实相反的假设（假如没有……）。常与''-(으)ㄹ지도
+  모른다''等推测表达呼应，构成虚拟性叙述。'
+examples:
+- text: 아마 키이리가 없었다면 나 역시 물에 술 탄 듯, 술에 물 탄 듯 그녀에게 넘어가 하룻밤의 무용담을 만들어 냈을지도 모른다.
+  reading: ''
+  annot: 아마 키이리가 없었다면 나 역시 물에 술 탄 듯, 술에 물 탄 듯 그녀에게 넘어가 하룻밤의 무용담을 만들어 냈을지도 모른다.
+  translation_zh: 如果基伊里不在，我大概也会糊里糊涂地拜倒于她，造就一段可供吹嘘的一夜风流韵事吧。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 연결어미
+- 가정·조건
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

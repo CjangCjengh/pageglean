@@ -1,0 +1,34 @@
+id: vi-grm-00288
+language: vi
+type: grammar
+level: L4
+level_rank: 4
+title: chứ có phải…đâu：反驳性否定
+structure: chứ + có phải + … + đâu
+structure_pattern: chứ + có phải + P + đâu
+explanation_zh: 这是用于反驳的否定句式，借「chứ…đâu」框架否定对方的看法，相当于“又不是…、哪里只是…呢”。中间的「có phải」加强反问语气，全句带有辩解、纠正的意味。
+examples:
+- text: Mày xao xuyến dài dài tới tận bây giờ chứ có phải chỉ xao xuyến một lần thôi
+    đâu!
+  reading: ''
+  annot: Mày xao xuyến dài dài tới tận bây giờ chứ có phải chỉ xao xuyến một lần thôi
+    đâu!
+  translation_zh: 你一直心动到现在，又不是只心动过那么一次！
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 否定
+- 反问
+- 语气
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

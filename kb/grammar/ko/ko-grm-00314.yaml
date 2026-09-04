@@ -1,0 +1,40 @@
+id: ko-grm-00314
+language: ko
+type: grammar
+level: TOPIK2
+level_rank: 2
+title: -아/어 주다·드리다：为他人而做
+structure: 동사 어간 + -아/어 주다/드리다
+structure_pattern: V-아/어 주다/드리다
+explanation_zh: 补助动词'주다/드리다'接在动词连接形后，表示动作是为他人而做，含施惠、受益意味。'드리다'是'주다'的谦让形，敬语层级更高。文中'묻어
+  주다''만들어 드리다''가르쳐 주다'都是为他人着想的表达。
+examples:
+- text: 일이 대충 정리되면, 오라버니를 제대로 땅에 묻어 주고 싶어요.
+  reading: ''
+  annot: 일이 대충 정리되면, 오라버니를 제대로 땅에 묻어 주고 싶어요.
+  translation_zh: 等事情大致处理好，我想好好地安葬兄长。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+- text: 당신을 제대로 된 마법사로 만들어 드리겠습니다.
+  reading: ''
+  annot: 당신을 제대로 된 마법사로 만들어 드리겠습니다.
+  translation_zh: 我会把您培养成一名真正的魔法师的。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 보조용언
+- 수혜
+- 경어법
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 5
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

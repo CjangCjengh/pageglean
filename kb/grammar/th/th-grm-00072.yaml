@@ -1,0 +1,31 @@
+id: th-grm-00072
+language: th
+type: grammar
+level: L1
+level_rank: 1
+title: ก็เลย：于是、所以（因果承接）
+structure: คำสันธาน ก็เลย + คำกริยา (ส่วนผล)
+structure_pattern: ก็เลย + VP
+explanation_zh: ก็เลย 是口语中表示结果的连词，相当于「于是、所以」，前句说明原因，ก็เลย 引出结果或后续行动，也可单用 เลย。叙述文中高频出现，用于推进情节的因果衔接。
+examples:
+- text: ก็​เลย​ยัง​รอ​เธอ​คน​นั้น​มาตลอด​ยี่สิบ​ปี
+  reading: ''
+  annot: ก็​เลย​ยัง​รอ​เธอ​คน​นั้น​มาตลอด​ยี่สิบ​ปี
+  translation_zh: 于是一直等待着她，等了整整二十年。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 接续
+- 因果
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

@@ -1,0 +1,31 @@
+id: ja-grm-00351
+language: ja
+type: grammar
+level: N3
+level_rank: 3
+title: 受身助动词「れる・られる」：被动与受害被动（迷惑の受身）
+structure: 动词未然形＋受身助动词「れる・られる」（五段・サ変接れる，一段・カ変接られる）
+structure_pattern: V-未然形 + れる/られる（受身助動詞）
+explanation_zh: 学校文法将被动态处理为助动词「れる・られる」：五段动词和サ变动词接未然形＋れる，一段动词和カ变动词接未然形＋られる。文中「乗っ取られる」是直接被动（被夺走），而「嫌がられる」由表示不悦的动词构成所谓“受害被动（迷惑の受身）”，表示主语遭受了令其为难的行为。
+examples:
+- text: 急に妹のことが愛おしく見えてしまった俺は、嫌がられるのを覚悟で抱きしめた。
+  reading: ''
+  annot: 急[きゅう]に妹[いもうと]のことが愛[いと]おしく見[み]えてしまった俺[おれ]は、嫌[いや]がられるのを覚悟[かくご]で抱[だ]きしめた。
+  translation_zh: 突然觉得妹妹变得惹人怜爱起来的我，做好了被嫌弃的觉悟，紧紧抱住了她。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 语态
+- 助动詞
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

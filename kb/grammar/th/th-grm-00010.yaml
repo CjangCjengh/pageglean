@@ -1,0 +1,32 @@
+id: th-grm-00010
+language: th
+type: grammar
+level: L1
+level_rank: 1
+title: กำลัง + 动词：进行体「正在……」
+structure: กำลัง + กริยา (คำช่วยกริยาวิเศษณ์บอกความต่อเนื่อง)
+structure_pattern: กำลัง + V
+explanation_zh: กำลัง 是表示动作正在进行或持续的助动词（学校文法称คำช่วยกริยาวิเศษณ์，即动词辅助副词），相当于中文的「正在……」。它直接置于主要动词之前，语序与中文一致。本片段用它交代回忆中赶稿的背景场景。
+examples:
+- text: ใน​ช่วง​ที่​ผม​กำลัง​ปั่น​ต้นฉบับ​อย่าง​เอา​เป็น​เอาตาย
+  reading: ''
+  annot: ใน​ช่วง​ที่​ผม​กำลัง​ปั่น​ต้นฉบับ​อย่าง​เอา​เป็น​เอาตาย
+  translation_zh: 在我正拼命赶稿的那段时间
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 体貌
+- 进行体
+- 语序
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

@@ -1,0 +1,38 @@
+id: ja-grm-00360
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 〜のせいで：都怪……（归咎原因）
+structure: 体言（名詞）＋のせいだ／のせいで
+structure_pattern: N + のせいで / N + のせいだ
+explanation_zh: 「せい」表示导致消极结果的原因，带有归咎、抱怨的语气，相当于中文的“都怪……”“……害的”，与中性偏褒义的「おかげで」相对。例文中『おまえのせいだぞ』『あのアホのせいで』都是把责任推给对方。
+examples:
+- text: 先生に怒られたらおまえのせいだぞ！
+  reading: ''
+  annot: 先生[せんせい]に怒[おこ]られたらおまえのせいだぞ！
+  translation_zh: 要是被老师骂，可都是你的错！
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+- text: 本当なら家でゆっくり見たかったのだが、あのアホのせいでそんな暇もない。
+  reading: ''
+  annot: 本当[ほんとう]なら家[いえ]でゆっくり見[み]たかったのだが、あのアホのせいでそんな暇[ひま]もない。
+  translation_zh: 本来想在家里慢慢看的，都怪那个笨蛋，连那点工夫都没有。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 因果
+- 语气
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

@@ -1,0 +1,40 @@
+id: ko-grm-00028
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: -는지 알다/모르다：间接疑问
+structure: 动词 + -는지 / 形容词·이다 + -(으)ㄴ지 + 알다/모르다
+structure_pattern: V-는지 / A·'이다'-(으)ㄴ지 + 알다/모르다
+explanation_zh: 间接疑问结构：学校文法一般分析为冠形词形转成词尾 -는 加依存名词 지，与 알다/모르다 搭配表示“知道/不知道是否……”。动词词干后用
+  -는지，形容词与 이다 后用 -(으)ㄴ지。片段中用于主人公对时点及对方用心的揣测。
+examples:
+- text: 그녀의 등장과 함께 나는 지금이 어떤 시점인지를 이해했다.
+  reading: ''
+  annot: 그녀의 등장과 함께 나는 지금이 어떤 시점인지를 이해했다.
+  translation_zh: 随着她的登场，我明白了现在正处于什么样的时间点。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+- text: 아직 수줍은 소녀로서의 행동인지, 아니면 남자를 유혹하기 위한 계산적인 행동인지는 알 수 없었다.
+  reading: ''
+  annot: 아직 수줍은 소녀로서의 행동인지, 아니면 남자를 유혹하기 위한 계산적인 행동인지는 알 수 없었다.
+  translation_zh: 究竟是少女尚且害羞的举止，还是为了诱惑男人而刻意为之的举动，我无从分辨。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 间接疑问
+- 依存名词
+- 接续
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

@@ -1,0 +1,39 @@
+id: vi-grm-00329
+language: vi
+type: grammar
+level: L2
+level_rank: 2
+title: 「một cách + 形容词：副词化结构『……地』」
+structure: V（+ 宾语）+ một cách + 形容词（状语后置）
+structure_pattern: V + một cách + Adj
+explanation_zh: một cách 字面义为“一种方式”，把形容词转化为修饰动词的状语，相当于汉语“……地”，是书面描写常用的副词化手段。该结构置于动词（及宾语）之后，体现越南语修饰成分后置的特点。口语中常可省略
+  một cách，直接用形容词作补语。
+examples:
+- text: Tôi dòm dỏ bốn phía một cách tuyệt vọng.
+  reading: ''
+  annot: Tôi dòm dỏ bốn phía một cách tuyệt vọng.
+  translation_zh: 我绝望地四处张望。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+- text: khiến tôi mở miệng một cách khó khăn
+  reading: ''
+  annot: khiến tôi mở miệng một cách khó khăn
+  translation_zh: 让我艰难地开口
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 状语
+- 语序
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

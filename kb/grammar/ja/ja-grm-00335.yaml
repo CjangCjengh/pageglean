@@ -1,0 +1,31 @@
+id: ja-grm-00335
+language: ja
+type: grammar
+level: N3
+level_rank: 3
+title: 「〜わけではなく」：形式名词「わけ」的部分否定
+structure: 用言连体形／体言 + 形式名词「わけ」+ ではない
+structure_pattern: V-連体形 / N + わけ + ではない
+explanation_zh: 形式名词「わけ」表示道理、原委，「わけではない」对其加以否定，意为“并不是说……”“未必……”，是一种委婉的部分否定。此处用于澄清“并非一开始就打算写成笨蛋情侣作品”。句中「気だった」表示“曾有那个打算”，可一并留意。
+examples:
+- text: 実は最初からバカップル物にする気だったわけではなく。
+  reading: ''
+  annot: 実は最初からバカップル物にする気だったわけではなく。
+  translation_zh: 其实我也并非一开始就打算写成笨蛋情侣题材。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 形式名词
+- 否定
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

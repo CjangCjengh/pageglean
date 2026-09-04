@@ -1,0 +1,33 @@
+id: ko-grm-00720
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: 「-다니：惊愕、感叹的引用」
+structure: 用言 + 连接词尾 -다니（间接引用 -다고 하니 的缩略）；体言 + -(이)라니
+structure_pattern: V/A + -다니 / N + -(이)라니
+explanation_zh: 学校文法将 -다니 分析为间接引用连接词尾 -다고 하니 的缩略形。用于感叹句时，表示对前面提到的内容感到意外、难以置信或感慨；后接分句时则以所引内容为根据。体言后接
+  -(이)라니。片段中贝拉正是用「식사라니」表达对『狗在用餐』一事的震惊。
+examples:
+- text: 개…… 식사라니, 대체 뭘 먹었기에…….
+  reading: ''
+  annot: 개…… 식사라니, 대체 뭘 먹었기에…….
+  translation_zh: 狗……居然说什么用餐，到底吃了什么呀……
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 인용
+- 감탄
+- 연결어미
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

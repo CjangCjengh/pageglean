@@ -1,0 +1,30 @@
+id: th-grm-00058
+language: th
+type: grammar
+level: L3
+level_rank: 3
+title: อยู่ ๆ …ก็…：突然、无缘无故地
+structure: อยู่ ๆ / อยู่ดี ๆ + ก็ + 小句
+structure_pattern: อยู่ ๆ + ก็ + ประโยค
+explanation_zh: อยู่ ๆ 是副词（คำวิเศษณ์），表示“突然、无缘无故地”，常与 ก็ 呼应，强调事情出乎意料。อยู่ดี ๆ 是其变体，意为“本来好好的，突然就…”。
+examples:
+- text: อยู่ ๆ แฟนเก่าก็เรียกมาหา
+  reading: ''
+  annot: อยู่ ๆ แฟนเก
+  translation_zh: 前女友突然把我叫了过去。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 副词
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

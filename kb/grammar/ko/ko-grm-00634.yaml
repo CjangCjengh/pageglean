@@ -1,0 +1,39 @@
+id: ko-grm-00634
+language: ko
+type: grammar
+level: TOPIK2
+level_rank: 2
+title: -아/어 보다：试着做、做做看
+structure: 동사 어간 + 연결어미 '-아/어' + 보조동사 '보다'（시도/경험）
+structure_pattern: V-아/어 보다
+explanation_zh: 补助动词 ‘보다’ 接在 -아/어 后，表示尝试做某事，译为“……看看、试着……”。与 -ㄴ 적이 있다 连用（와 본 적이 있다）则表示过去的经历。本片段中反复出现，是叙事文中的高频结构。
+examples:
+- text: 브룬의 방은 이전에도 한 번 와 본 적이 있다.
+  reading: ''
+  annot: 브룬의 방은 이전에도 한 번 와 본 적이 있다.
+  translation_zh: 布鲁恩的房间，我以前也来过一次。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+- text: 나는 손을 뻗어 남자 인형의 상처 자국을 만져 보았다.
+  reading: ''
+  annot: 나는 손을 뻗어 남자 인형의 상처 자국을 만져 보았다.
+  translation_zh: 我伸出手，摸了摸男人人偶身上的伤痕印记。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 补助动词
+- 尝试
+- 经历
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 6
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

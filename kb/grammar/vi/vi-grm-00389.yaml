@@ -1,0 +1,31 @@
+id: vi-grm-00389
+language: vi
+type: grammar
+level: L3
+level_rank: 3
+title: bị：不如意被动句
+structure: S + bị + 施事 + V
+structure_pattern: bị + N + V
+explanation_zh: bị 构成被动句（câu bị động），引出施事者，表示对主语而言不利或不情愿的动作，与表示获益的 được 相对。「bị tôi
+  chê lên chê xuống」即「被我挑三拣四地嫌弃」。
+examples:
+- text: Nó làm quân sư cho tôi, bị tôi chê lên chê xuống
+  reading: ''
+  annot: Nó làm quân sư cho tôi, bị tôi chê lên chê xuống
+  translation_zh: 它（他）给我当军师，被我嫌弃了一通又一通
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 被动
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

@@ -1,0 +1,39 @@
+id: ko-grm-00701
+language: ko
+type: grammar
+level: TOPIK2
+level_rank: 2
+title: -는데：铺垫背景与引出转折
+structure: 용언 어간 + -는데
+structure_pattern: V/A- + -는데
+explanation_zh: 연결어미 '-는데'는 배경이나 상황을 먼저 제시한 뒤 전환·대조 또는 후속 내용을 이끌어내며, 학교문법에서는 종속 연결어미로
+  분류한다. 중국어의 '（虽然）……但是……'에 가깝다. 문장 끝에 놓여 완곡하게 되묻거나 여운을 남기기도 한다.
+examples:
+- text: 심지어 나는 잠도 오지 않는데 키이리 손에 이끌려 침대 위로 올라가야 했다.
+  reading: ''
+  annot: 심지어 나는 잠도 오지 않는데 키이리 손에 이끌려 침대 위로 올라가야 했다.
+  translation_zh: 甚至我一点睡意都没有，却还是被基莉拉着手拽上了床。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+- text: 뭐야, 왜 우는데.
+  reading: ''
+  annot: 뭐야, 왜 우는데.
+  translation_zh: 干嘛啊，怎么哭了呀。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 연결어미
+- 배경/대조
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

@@ -1,0 +1,32 @@
+id: ko-grm-00630
+language: ko
+type: grammar
+level: TOPIK5
+level_rank: 5
+title: -(으)ㄴ 채(로)：保持着某种状态
+structure: 动词词干 + -(으)ㄴ 채(로)（依存名词 채）
+structure_pattern: V-(으)ㄴ 채(로) (의존 명사 '채')
+explanation_zh: 依存名词 채 表示“保持某种状态不变”，前接动词冠形词形 -(으)ㄴ，后句动作即在该状态下进行。片段“무시한 채 해결하려고 했다”意为“维持着无视违和感的状态去处理要务”。强调前一状态的持续，而非动作的先后。
+examples:
+- text: 나는 그 위화감을 무시한 채 우선순위를 해결하려고 했을 뿐이다.
+  reading: ''
+  annot: 나는 그 위화감을 무시한 채 우선순위를 해결하려고 했을 뿐이다.
+  translation_zh: 我只是无视那种违和感，想先把更优先的事情解决掉而已。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 依存名词
+- 状态
+- 接续
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

@@ -1,0 +1,32 @@
+id: ko-grm-00696
+language: ko
+type: grammar
+level: TOPIK5
+level_rank: 5
+title: -(으)ㄴ 통에：都怪……
+structure: 动词词干 + -(으)ㄴ 통에
+structure_pattern: V-(으)ㄴ 통에
+explanation_zh: -(으)ㄴ 통에表示由于前句的事态导致了不好的结果，含抱怨、无奈语气，相当于「都怪……」「因为……（才）……」。文中指偏偏紧接着就被绮莉刺伤，所以没工夫一直惦记刚才看到的人。该结构只用于已然的事情，后句不能接命令、共动。
+examples:
+- text: 그 직후, 바로 키이리에게 찔리는 통에 오래 신경을 쓰고 있을 틈도 없었고 말이다.
+  reading: ''
+  annot: 그 직후, 바로 키이리에게 찔리는 통에 오래 신경을 쓰고 있을 틈도 없었고 말이다.
+  translation_zh: 偏偏在那之后紧接着就被绮莉刺伤，连一直惦记这事的工夫都没有。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 连接词尾
+- 原因
+- 负面结果
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

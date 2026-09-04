@@ -1,0 +1,31 @@
+id: ja-grm-00597
+language: ja
+type: grammar
+level: N3
+level_rank: 3
+title: 〜わけにはいかない：因情理而不能做
+structure: 動詞終止形＋わけにはいかない
+structure_pattern: V終止形 + わけ（形式名詞） + には + いかない
+explanation_zh: 由形式名词「わけ」加助词「には」与动词「いく」构成的惯用表现，表示因情理、立场或客观情况而不能做某事，与个人能力无关。中文可译为“不能……”“不可以……”。片段中梦前光表示不能让重要的风城君去死，因此决定坦白。
+examples:
+- text: 大切な風城くんを死なせるわけにはいかないからカミングアウトすることにしたのだ！
+  reading: ''
+  annot: 大切[たいせつ]な風城[かぜしろ]くんを死[し]なせるわけにはいかないからカミングアウトすることにしたのだ！
+  translation_zh: 我不能让重要的风城君去死，所以决定把秘密坦白（come out）！
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 形式名詞
+- 慣用表現
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

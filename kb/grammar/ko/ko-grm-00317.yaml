@@ -1,0 +1,38 @@
+id: ko-grm-00317
+language: ko
+type: grammar
+level: TOPIK2
+level_rank: 2
+title: -게 되다：变化的实现
+structure: 동사 어간 + '-게 되다'（연결어미 '-게' + 동사 '되다'）
+structure_pattern: V-게 되다
+explanation_zh: 动词词干后接 -게 되다，表示某种情况因外部因素而发生变化或得以实现，相当于中文的“变得……、终于……起来”。这种变化并非出于主语自身意志，多由环境或他人促成。片段中用它描述阿尔特亚渐渐萌生梦想、最终实现梦想的过程。
+examples:
+- text: ……그러다 꿈꾸게 되었어.
+  reading: ''
+  annot: ……그러다 꿈꾸게 되었어.
+  translation_zh: ……就这样，她萌生了梦想。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+- text: 실제로 알테아는 꿈을 이루게 돼.
+  reading: ''
+  annot: 실제로 알테아는 꿈을 이루게 돼.
+  translation_zh: 实际上，阿尔特亚将会实现梦想。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 体貌
+- 变化
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 5
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

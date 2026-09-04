@@ -1,0 +1,39 @@
+id: vi-grm-00273
+language: vi
+type: grammar
+level: L2
+level_rank: 2
+title: bằng：手段方式与「bằng cách nào」
+structure: V + bằng + 名词；bằng cách nào?（凭什么方式？）
+structure_pattern: V + bằng + NP / bằng cách nào
+explanation_zh: bằng 引出动作凭借的手段、工具或方式，相当于汉语「用、以、通过」。疑问形式 bằng cách nào 用于询问「怎么、用什么办法」。如「bày
+  tỏ bằng lời」即「用言语表达」。
+examples:
+- text: Thoát ra bằng cách nào?
+  reading: ''
+  annot: Thoát ra bằng cách nào?
+  translation_zh: 要怎样才能脱身呢？
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+- text: Những gì không thể bày tỏ bằng lời thì người ta viết thư.
+  reading: ''
+  annot: Những gì không thể bày tỏ bằng lời thì người ta viết thư.
+  translation_zh: 没法用言语表达的东西，人们就写信（说出来）。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 疑问结构
+- 状语
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

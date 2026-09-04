@@ -1,0 +1,39 @@
+id: th-grm-00067
+language: th
+type: grammar
+level: L2
+level_rank: 2
+title: ยัง(คง)…อยู่：状态的持续「仍然～着」
+structure: คำวิเศษณ์ ยัง (＋คง) + คำกริยา/คำวิเศษณ์ + คำวิเศษณ์ อยู่
+structure_pattern: ยัง + V/Adj + อยู่
+explanation_zh: 泰语中副词 ยัง（还）置于动词或形容词之前、อยู่ 置于其后，构成「ยัง…อยู่」框架，表示状态或动作仍在持续，相当于中文「还～着」。加上
+  คง 可加强「依旧、仍然」的语气。该结构在叙述中常用于描写心理状态的持续。
+examples:
+- text: ผม​ยังคง​งง​อยู่​ว่า​เธอ​พูด​อะไร​กัน​แน่
+  reading: ''
+  annot: ผม​ยังคง​งง​อยู่​ว่า​เธอ​พูด​อะไร​กัน​แน่
+  translation_zh: 我还是没弄明白她到底在说什么。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+- text: ลึก ๆ ในใจ​พระเอก​ยัง​หวัง​ให้​นางเอก​กลับ​มาหา​ตัวเอง​อยู่
+  reading: ''
+  annot: ลึก ๆ ในใจ​พระเอก​ยัง​หวัง​ให้​นางเอก​กลับ​มาหา​ตัวเอง​อยู่
+  translation_zh: 内心深处，男主角仍希望女主角回到自己身边。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 体貌
+- 语序
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

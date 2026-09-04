@@ -1,0 +1,31 @@
+id: ja-grm-00207
+language: ja
+type: grammar
+level: N2
+level_rank: 4
+title: 〜といった：比况举例
+structure: 体言 ＋ 格助詞「と」＋ 動詞「言う」＋ 助動詞「た」（連体形）
+structure_pattern: N + と + いった + N
+explanation_zh: 「といった」由格助詞「と」＋動詞「言う」＋助動詞「た」连体形构成，举出典型例子来描述事物，相当于“……那样的”“……之类的”。与「いかにも」呼应，表示“俨然一副……的样子”，书面与口语皆常见。
+examples:
+- text: 俺も初めて見た、いかにも『王女』といった優雅な所作で一礼。
+  reading: ''
+  annot: 俺[おれ]も初[はじ]めて見[み]た、いかにも『王女[おうじょ]』といった優雅[ゆうが]な所作[しょさ]で一礼[いちれい]。
+  translation_zh: （她）以一个连我也是头一次见到、俨然一派“王女”风范的优雅举止行了一礼。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 引用
+- 例示
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

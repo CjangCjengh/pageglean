@@ -1,0 +1,40 @@
+id: ko-grm-00149
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: -ㄴ 채：状态的保持
+structure: 动词词干 + -(으)ㄴ 채(로)
+structure_pattern: V- + -(으)ㄴ 채(로)
+explanation_zh: 依存名词 채 接在动词的冠词形词尾 -(으)ㄴ 之后，表示前一动作形成的状态原样保持，相当于中文“保持着……的状态”。常加添意助词
+  (으)로 构成 -ㄴ 채(로)，在句中作状语。片段中“숨긴 채”“걸친 채”分别表示隐瞒身份、身穿平民服装的状态。
+examples:
+- text: 나는 지금 아즐란이라는 정체를 숨긴 채 카이트를 만나러 온 것이었다.
+  reading: ''
+  annot: 나는 지금 아즐란이라는 정체를 숨긴 채 카이트를 만나러 온 것이었다.
+  translation_zh: 我此刻正是隐瞒着“阿兹兰”这一身份前来见凯特的。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+- text: 아즐란이 입고 있던 화려한 옷들을 버리고 이 지역의 일반적인 평민들이 입을 만한 옷을 걸친 채.
+  reading: ''
+  annot: 아즐란이 입고 있던 화려한 옷들을 버리고 이 지역의 일반적인 평민들이 입을 만한 옷을 걸친 채.
+  translation_zh: （他）脱掉原本穿着的华丽衣服，换上了这个地区普通平民也穿得出来的衣服。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 状态
+- 依存名词
+- 接续
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

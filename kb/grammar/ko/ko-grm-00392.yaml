@@ -1,0 +1,32 @@
+id: ko-grm-00392
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: 「-는 데」：依存名词「데」表方面、事情
+structure: 动词词干 + 관형사형 전성어미 -는 + 의존명사（依存名词）데
+structure_pattern: V- + -는 데
+explanation_zh: 依存名词'데'此处不指场所，而指'某方面、某事'，接在冠形词尾后充当评价的对象，'…는 데'即'在做……这方面'。'데 능숙하다'就是'擅长做某事'。注意书写：依存名词'데'须与前面的词尾分写，区别于其他用法。
+examples:
+- text: 여자 후리는 데 능숙하군요.
+  reading: ''
+  annot: 여자 후리는 데 능숙하군요.
+  translation_zh: 你勾搭女人很有一套呢。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 依存名词
+- 名词化
+- 评价
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

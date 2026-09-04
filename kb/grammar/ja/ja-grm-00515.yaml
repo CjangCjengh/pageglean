@@ -1,0 +1,32 @@
+id: ja-grm-00515
+language: ja
+type: grammar
+level: N3
+level_rank: 3
+title: 〜わけがない：按常理绝无可能
+structure: 普通形 + わけ + が + ない
+structure_pattern: 普通形 + わけ + が + ない
+explanation_zh: 形式名词「わけ」本义为"道理、缘由"，加上主格助词「が」与否定，构成强烈否定推断，意为"按道理不可能~"，语气远强于单纯的「〜ない」。中文可译为"不可能~""哪能~"。注意与表示解释说明的「〜わけだ」区分。
+examples:
+- text: だけど、だからといってそれを見過ごすなんてできるわけがない。
+  reading: ''
+  annot: だけど、だからといってそれを見過ごすなんてできるわけがない。
+  translation_zh: 但是，就算如此，我也绝不可能对那件事视而不见。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 形式名詞
+- 語気
+- 否定
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

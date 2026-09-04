@@ -1,0 +1,41 @@
+id: vi-grm-00142
+language: vi
+type: grammar
+level: L3
+level_rank: 3
+title: vừa… vừa…：两个动作同时进行
+structure: Vừa + V1 + vừa + V2（quan hệ đồng thời）
+structure_pattern: vừa + V1 + vừa + V2
+explanation_zh: 成对关联词 vừa… vừa… 表示两个动作同时发生、同时进行，相当于汉语“一边……一边……”。片段中“Vừa nói tôi vừa
+  nhìn thẳng vào mặt Tiểu Li”（我一边说一边直视小丽的脸）。主语可置于句首或 hai 个 vừa 之间。
+examples:
+- text: Vừa nói tôi vừa nhìn thẳng vào mặt Tiểu Li.
+  reading: ''
+  annot: Vừa nói tôi vừa nhìn thẳng vào mặt Tiểu Li.
+  translation_zh: 我一边说着，一边直盯着小丽的脸。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+- text: Tôi chạy qua mặt Tiểu Li, vừa chạy vừa hát "là lá la" ra cái điều được nghỉ
+    chơi với nó tôi rất vui.
+  reading: ''
+  annot: Tôi chạy qua mặt Tiểu Li, vừa chạy vừa hát "là lá la" ra cái điều được nghỉ
+    chơi với nó tôi rất vui.
+  translation_zh: 我从小黎面前跑过去，一边跑一边“啦啦啦”地唱，摆出一副不跟她玩我特别高兴的样子。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 并列
+- 同时态
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

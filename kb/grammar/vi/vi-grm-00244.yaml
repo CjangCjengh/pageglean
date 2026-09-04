@@ -1,0 +1,31 @@
+id: vi-grm-00244
+language: vi
+type: grammar
+level: L3
+level_rank: 3
+title: có ... đâu：强调否定“哪有/并没有”
+structure: có + V + (O) + đâu
+structure_pattern: có + V … đâu
+explanation_zh: 强调性否认结构：có 提引动词、句末用 đâu 呼应，共同否定某一事实，相当于“根本没有……”。语气比单纯用 không 更强，常用于辩解或反驳对方。
+examples:
+- text: Tao có cười với tụi nó đâu.
+  reading: ''
+  annot: Tao có cười với tụi nó đâu.
+  translation_zh: 我哪有帮助她们啊。（我根本没对她们笑。）
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 否定
+- 语气
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 0
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

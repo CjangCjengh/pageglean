@@ -1,0 +1,38 @@
+id: ja-grm-00285
+language: ja
+type: grammar
+level: N2
+level_rank: 4
+title: 〜以上：既然……就……
+structure: 用言连体形 + 以上（助词）
+structure_pattern: 用言連体形 + 助詞「以上」
+explanation_zh: 「以上」接在用言连体形后，表示“既然……就……”，强调前项为既成事实或既定前提，后项理应如此。多用于书面或较正式的推理。本段两处均表基于既定情况作出判断。
+examples:
+- text: 負けた場合は意識を保っている可能性が高くない以上、先に言っておく必要がある。
+  reading: ''
+  annot: 負[ま]けた場合[ばあい]は意識[いしき]を保[たも]っている可能性[かのうせい]が高[たか]くない以上[いじょう]、先[さき]に言[い]っておく必要[ひつよう]がある。
+  translation_zh: 既然输了的情况下很可能保不住清醒的意识，就有必要先把话说在前面。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+- text: 手数で押してくる以上、迂闊に剣で弾こうとすると隙を生む。
+  reading: ''
+  annot: 手数[てかず]で押[お]してくる以上[いじょう]、迂闊[うかつ]に剣[けん]で弾[はじ]こうとすると隙[すき]を生[う]む。
+  translation_zh: 既然对方靠连番进攻压制，贸然用剑去拨开就会露出破绽。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 理由
+- 接续
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 0
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

@@ -1,0 +1,33 @@
+id: ko-grm-00594
+language: ko
+type: grammar
+level: TOPIK6
+level_rank: 6
+title: -(으)ㄴ 한이 있더라도：不惜代价也要
+structure: 용언 관형사형 -(으)ㄴ + 의존명사 한 + 이 있다 + 양보 연결어미 -더라도
+structure_pattern: V-(으)ㄴ 한이 있더라도
+explanation_zh: 该结构表示"即使有再大的艰难或遗恨也要……"，强调不计代价、务必实现后项的强烈决心，是高级让步表达，多见于文学作品。文中"멱살을 틀어쥐는
+  한이 있더라도"即刻画出不惜揪住对方衣领也要问个明白的决意。
+examples:
+- text: 그들의 멱살을 틀어쥐는 한이 있더라도 솔직하게 털어놓게 만들면 될 테니까.
+  reading: ''
+  annot: 그들의 멱살을 틀어쥐는 한이 있더라도 솔직하게 털어놓게 만들면 될 테니까.
+  translation_zh: 因为哪怕是不惜揪住他们的衣领，只要让他们老老实实和盘托出就行了。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 让步
+- 依存名词
+- 决心
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

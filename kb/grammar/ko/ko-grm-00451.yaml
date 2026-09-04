@@ -1,0 +1,39 @@
+id: ko-grm-00451
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: -아/어 주다：为对方做某事的补助动词
+structure: 动词词干 + -아/어 주다
+structure_pattern: 본용언 -아/어 + 보조용언 주다
+explanation_zh: 补助动词（보조용언），表示动作是为他人而做、施惠于人，汉语近似“给（某人）做……”。片段中多以定语形 -아/어 줄 + 名词的形式出现，如“놀아
+  줄 시간”“중개해 준 것”。
+examples:
+- text: 너랑 이러고 놀아 줄 시간이 없단다?
+  reading: ''
+  annot: 너랑 이러고 놀아 줄 시간이 없단다?
+  translation_zh: （我们）可没时间陪你在这儿玩呀？
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+- text: 악마를 중개해 준 것이 가장 최근의 일이었다고 했다.
+  reading: ''
+  annot: 악마를 중개해 준 것이 가장 최근의 일이었다고 했다.
+  translation_zh: （它）说替人把恶魔引介过来，已是最近才有的事了。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 补助动词
+- 授受
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

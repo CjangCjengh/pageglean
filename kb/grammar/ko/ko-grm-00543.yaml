@@ -1,0 +1,32 @@
+id: ko-grm-00543
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: -ㄴ/는다고 하다：传闻与转述
+structure: '간접 인용문: 관형사형 어미 ''-ㄴ/는다'' + 인용 조사 ''고'' + ''하다'''
+structure_pattern: V-ㄴ/는다고 하다
+explanation_zh: 用于转述他人陈述或传达听来的消息，相当于“据说/听说……”。动词现在时用 -ㄴ/는다고 하다，形容词用 -다고 하다。小说常借此间接交代背景信息，避免作者直接断言。
+examples:
+- text: 몇 주간 이어지던 축제가 오늘로 끝이 나고, 내일이면 ‘가면 축제’가 새롭게 시작된다고 했다.
+  reading: ''
+  annot: 몇 주간 이어지던 축제가 오늘로 끝이 나고, 내일이면 ‘가면 축제’가 새롭게 시작된다고 했다.
+  translation_zh: 持续了几周的节日今天就结束了，据说明天将有新的“假面节”开始。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 间接引用
+- 传闻
+- 接续
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

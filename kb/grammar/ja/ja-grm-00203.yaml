@@ -1,0 +1,31 @@
+id: ja-grm-00203
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 〜んだが：解释铺垫与委婉转折（「のだ」口语形＋接续助词が）
+structure: 用言终止形＋助动词「のだ」（口语变为「んだ」）＋接续助词「が」
+structure_pattern: V/A終止形 + のだ(→んだ) + が
+explanation_zh: 形式名词「の」在口语中变为「ん」，后接断定的助动词「だ」与接续助词「が」，用于先解释缘由或状况，再引出后文请求或转折，语气较委婉。片段中父亲多次用「〜んだが」铺垫正事，是典型的男性随意口语。相当于中文「其实是……不过……」。
+examples:
+- text: 「こっちからも用事があるんだが、先にそっちの用件から頼む」
+  reading: ''
+  annot: 「こっちからも用事[ようじ]があるんだが、先[さき]にそっちの用件[ようけん]から頼[たの]む」
+  translation_zh: 我这边也有事要说，不过先拜托你处理你们那边的事吧。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 语气
+- 接续
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 6
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

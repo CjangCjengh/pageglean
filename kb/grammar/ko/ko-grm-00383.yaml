@@ -1,0 +1,38 @@
+id: ko-grm-00383
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: 「-는 것처럼：比喻，好像……一样」
+structure: 동사 어간 + 관형사형 전성 어미 '-는' + 의존명사 '것' + 부사격 조사 '처럼'
+structure_pattern: V-는 것처럼
+explanation_zh: 动词词干后接冠形词形转换词尾-는，修饰依存名词것，再带副词格助词처럼，表示比喻，相当于"好像……一样"。形容词则用-(으)ㄴ 것처럼。本段连用多个처럼句，细腻刻画人物的感受与揣测。
+examples:
+- text: 망가질까 봐 걱정하는 것처럼, 조심스럽게 다뤘다.
+  reading: ''
+  annot: 망가질까 봐 걱정하는 것처럼, 조심스럽게 다뤘다.
+  translation_zh: 仿佛怕弄坏似的，动作小心翼翼。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+- text: 세상에서 가장 사랑하는 여자를 품에 안는 것처럼, 상냥하게 대했다.
+  reading: ''
+  annot: 세상에서 가장 사랑하는 여자를 품에 안는 것처럼, 상냥하게 대했다.
+  translation_zh: 像拥抱着世上最深爱的女子一样，温柔地相待。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 接续
+- 比喻
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 4
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

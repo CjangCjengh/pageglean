@@ -1,0 +1,40 @@
+id: ko-grm-00339
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: 연결어미 -면서：表面与实际的转折
+structure: 用言词干 + 연결어미 '-면서'（同时·让步）
+structure_pattern: V/A- + -면서
+explanation_zh: '''-면서''是연결어미，连接两个小句，可表示动作同时进行，也可表示转折让步，相当于"虽然……却……"。本片段两处均用于同一主语下相反情况的对照：''아니면서''（并非皇族却要登上皇位）、''협력하는
+  척하면서''（表面合作实则守护皇族）。学习时需结合语境区分其"同时"与"转折"两种用法。'
+examples:
+- text: 하지만 황족도 아니면서 새로운 황제 자리에 오른다는 건 사람들에게는 여전히 거부감을 느끼게 하는 일이었다.
+  reading: ''
+  annot: 하지만 황족도 아니면서 새로운 황제 자리에 오른다는 건 사람들에게는 여전히 거부감을 느끼게 하는 일이었다.
+  translation_zh: 然而，明明不是皇族却要登上新的皇帝之位，这件事仍让人们感到难以接受。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+- text: 겉으로는 클라우 에른베스크에게 협력하는 척하면서, 실제로는 황족의 혈통을 지키려고 분골쇄신하고 있던 것이오!
+  reading: ''
+  annot: 겉으로는 클라우 에른베스크에게 협력하는 척하면서, 실제로는 황족의 혈통을 지키려고 분골쇄신하고 있던 것이오!
+  translation_zh: 表面上假装与克劳·恩贝斯克合作，实际上却为守护皇族血统而粉身碎骨！
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 连接词尾
+- 转折
+- 同时
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

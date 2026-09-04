@@ -1,0 +1,33 @@
+id: ko-grm-00479
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: -(으)ㄹ 뻔하다：差点儿就……
+structure: 动词词干 + -(으)ㄹ + 뻔하다
+structure_pattern: V-(으)ㄹ + 뻔하다（依存名词 뻔 + 하다）
+explanation_zh: 依存名词 ‘뻔’ 与 하다 搭配，表示某事差一点发生而实际上并未发生，即“差点儿……”。叙述已经过去的情况时用 -(으)ㄹ 뻔했다
+  的形式。
+examples:
+- text: 심지어 제 아버지가 악마와 계약할 뻔했다는 얘기를 어떻게 생각할지도 모를 일이고.
+  reading: ''
+  annot: 심지어 제 아버지가 악마와 계약할 뻔했다는 얘기를 어떻게 생각할지도 모를 일이고.
+  translation_zh: 更何况，她听到亲生父亲差点和恶魔签了契约这件事会作何感想，也是未知数。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 依存名词
+- 样态
+- 推测
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

@@ -1,0 +1,31 @@
+id: ko-grm-00450
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: -더니：回想所见，引出后变
+structure: 动词词干 + -더니
+structure_pattern: V-더니 (연결어미)
+explanation_zh: 连接词尾，表示说话人回想起自己先前观察到的事实，后句多出现随之而来的变化或对比结果，主语通常为第三人称，是小说叙事的高频接续。汉语近似“（刚才还）……接着/结果却……”。
+examples:
+- text: 브룬이 대뜸 내 옷자락을 꽉 움켜잡더니, 그렁그렁한 얼굴로 나를 올려다보았다.
+  reading: ''
+  annot: 브룬이 대뜸 내 옷자락을 꽉 움켜잡더니, 그렁그렁한 얼굴로 나를 올려다보았다.
+  translation_zh: 布鲁恩冷不丁死死攥住我的衣角，随即抬起泪眼汪汪的脸望着我。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 连接词尾
+- 回想
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

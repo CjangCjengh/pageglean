@@ -1,0 +1,38 @@
+id: vi-grm-00357
+language: vi
+type: grammar
+level: L2
+level_rank: 2
+title: 进行时助词 đang
+structure: đang + 动词（表示进行）
+structure_pattern: đang + động từ
+explanation_zh: đang 置于动词前表示动作正在进行，相当于“正在”。它可出现在分句之首，如 “Đang nói” 即“正说着”。
+examples:
+- text: 'Đang nói, bỗng dưng nó rụt cổ:'
+  reading: ''
+  annot: 'Đang nói, bỗng dưng nó rụt cổ:'
+  translation_zh: 正说着，她忽然缩起脖子：
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+- text: Chắc nó đang nghĩ cách làm hòa với tôi.
+  reading: ''
+  annot: Chắc nó đang nghĩ cách làm hòa với tôi.
+  translation_zh: 她准是在想怎么跟我和好。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 体貌
+- 时态
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

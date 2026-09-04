@@ -1,0 +1,31 @@
+id: ja-grm-00404
+language: ja
+type: grammar
+level: N3
+level_rank: 3
+title: 〜ことになる：事态的发展与结果
+structure: 動詞辞書形＋形式名詞こと＋になる
+structure_pattern: V-辞書形 + ことになる
+explanation_zh: 形式名词こと将后接句子名词化，配上になる表示事态自然发展为某种结果或决定，常带回顾性的预示语气。文中後悔することになる即「结果必将后悔」，与表主观决定的ことにする相对。
+examples:
+- text: そして、俺はさっそく後悔することになる。
+  reading: ''
+  annot: そして、俺[おれ]はさっそく後悔[こうかい]することになる。
+  translation_zh: 然后，我马上就将追悔莫及。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 形式名词
+- 语气
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

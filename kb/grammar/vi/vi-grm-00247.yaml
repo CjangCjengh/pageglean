@@ -1,0 +1,31 @@
+id: vi-grm-00247
+language: vi
+type: grammar
+level: L2
+level_rank: 2
+title: Phải ... không?：是不是……？
+structure: Phải + VP + không?
+structure_pattern: Phải + VP + không?
+explanation_zh: phải ... không 是一般疑问句框架：phải 提出肯定性推测，không 请求对方证实，相当于中文“是不是……？”。口语中也可只用
+  “... không?”。
+examples:
+- text: Phải liếc tao không?
+  reading: ''
+  annot: Phải liếc tao không?
+  translation_zh: 是看我吗？（她瞟的是我吗？）
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 疑问
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 0
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

@@ -1,0 +1,32 @@
+id: ko-grm-00048
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: 「-(으)ㄹ 줄 몰랐다」：没想到竟……
+structure: 用言词干 + -(으)ㄹ 줄 몰랐다
+structure_pattern: V/A-(으)ㄹ 줄 + 모르다
+explanation_zh: 관형사형 전성어미 -(으)ㄹ 后接의존명사'줄'，指代某一事实；-(으)ㄹ 줄 몰랐다 表示事后才意识到，相当于“没想到竟然……”。多用于道歉、检讨等郑重语境，句中'줄은'带主题助词은，起强调作用。
+examples:
+- text: 교육에 부족함이 있었을 줄은 몰랐습니다.
+  reading: ''
+  annot: 교육에 부족함이 있었을 줄은 몰랐습니다.
+  translation_zh: 我没有察觉到在教育上竟有不足之处。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 依存名词
+- 语气
+- 敬语
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

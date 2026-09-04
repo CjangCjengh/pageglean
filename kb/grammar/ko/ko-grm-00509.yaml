@@ -1,0 +1,31 @@
+id: ko-grm-00509
+language: ko
+type: grammar
+level: TOPIK5
+level_rank: 5
+title: -(으)ㄹ 따름이다：只是……罢了
+structure: 未来定语词尾 -(으)ㄹ + 依存名词 따름 + 叙述格助词 이다
+structure_pattern: V/A-(으)ㄹ 따름이다
+explanation_zh: 表示"只是……而已、仅此而已"，排除其他情况，语气较为庄重，书面语色彩强。片段中是女仆对领主的恭敬回答，凸显其恭谨郑重的语体。
+examples:
+- text: 저 역시, 영주님께 도움을 드릴 수 있어 기쁠 따름입니다.
+  reading: ''
+  annot: 저 역시, 영주님께 도움을 드릴 수 있어 기쁠 따름입니다.
+  translation_zh: 我也一样，能为领主大人帮上忙，只是感到高兴罢了。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 限定
+- 语气
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

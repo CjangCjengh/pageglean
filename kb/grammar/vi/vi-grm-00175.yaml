@@ -1,0 +1,40 @@
+id: vi-grm-00175
+language: vi
+type: grammar
+level: L4
+level_rank: 4
+title: V + đến + 补语：程度/结果补语
+structure: 动词 + đến + 结果/程度补语
+structure_pattern: V + đến + result complement (bổ ngữ)
+explanation_zh: 动词后用 đến 引出结果或程度补语（bổ ngữ），相当于汉语“……到……”，如“chép đến rả cả tay”（抄到手发酸）。“rả
+  cả tay”中的 cả 强调整个、全部；句末语气词 mất 表示担心或不希望发生的结果。
+examples:
+- text: như một con ong thợ chăm chỉ, tôi lao vào chép bài đến rả cả tay.
+  reading: ''
+  annot: như một con ong thợ chăm chỉ, tôi lao vào chép bài đến rả cả tay.
+  translation_zh: 我像一只勤劳的工蜂，埋头抄笔记抄到双手发酸。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+- text: chắc tôi phải ngồi chép đến cụp xương sống mất!
+  reading: ''
+  annot: chắc tôi phải ngồi chép đến cụp xương sống mất!
+  translation_zh: 我怕是得抄到脊背都弯了不可！
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 补语
+- 程度
+- 结果
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

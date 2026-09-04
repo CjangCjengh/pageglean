@@ -1,0 +1,38 @@
+id: ja-grm-00141
+language: ja
+type: grammar
+level: N3
+level_rank: 3
+title: 助動詞「ず」：书面语否定（〜ない的书面形式）
+structure: 動詞未然形＋ず（助動詞・連用形可作中止法）
+structure_pattern: V-未然形 + ず
+explanation_zh: 助動詞「ず」是「ない」的书面语形式，接動詞未然形。其連用形可直接衔接下文或结句（中止法），相当于“不……就……”。片段以独白文体为主，“脱がず”“なれず”等书面否定营造出克制内敛的叙述语气。
+examples:
+- text: お互い外出用のコートも脱がず、リアの頭に乗せた俺の手もそのままに、無言でソファーに並んで座る。
+  reading: ''
+  annot: お互[たが]い外出用[がいしゆつよう]のコートも脱[ぬ]がず、リアの頭[あたま]に乗[の]せた俺[おれ]の手[て]もそのままに、無言[むごん]でソファーに並[なら]んで座[すわ]る。
+  translation_zh: 我俩谁也没脱外出的大衣，我搭在莉亚头上的手也保持原样，就这样默默地在沙发上并排坐下。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+- text: 起こす気にはなれず……そのまま頭を撫で続けると、すぐに穏やかな寝息が聞こえ始めた――
+  reading: ''
+  annot: 起[お]こす気[き]にはなれず……そのまま頭[あたま]を撫[な]で続[つづ]けると、すぐに穏[おだ]やかな寝息[ねいき]が聞[き]こえ始[はじ]めた――
+  translation_zh: 我提不起叫醒她的念头……就这样一直抚着她的头，很快就听到了她安稳的呼吸声——
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 助动词
+- 书面语
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

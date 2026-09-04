@@ -1,0 +1,31 @@
+id: ko-grm-00535
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: -ㄹ 걸 그랬다：后悔与“本应该”
+structure: 동사 어간（动词词干）+ -(으)ㄹ 걸 그랬다
+structure_pattern: 동사 어간 + 관형형 전성 어미 '-(으)ㄹ' + 의존 명사 '것(걸)' + '그렇다'
+explanation_zh: 表示对没有做某事的后悔，是'-(으)ㄹ 것을 그랬다'的口语缩略形式，相当于“本该……（却没做）”。片段中后接推测表达'-나 보다'，语气更委婉。中文可译为“早知道就……好了”。
+examples:
+- text: 이럴 줄 알았으면 끈으로 푸는 야한 잠옷 챙겨 올 걸 그랬나 봐.
+  reading: ''
+  annot: 이럴 줄 알았으면 끈으로 푸는 야한 잠옷 챙겨 올 걸 그랬나 봐.
+  translation_zh: 早知道会这样，我本该带一件用绳带系的性感睡衣过来的。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 语气/后悔
+- 依存名词
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

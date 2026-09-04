@@ -1,0 +1,32 @@
+id: ko-grm-00090
+language: ko
+type: grammar
+level: TOPIK5
+level_rank: 5
+title: -았/으면 좋았을 텐데：要是当时~就好了
+structure: 谓词词干 + 连接词尾 -았/으면 + '좋다' 的过去推测形 좋았을 터 + 서술격 조사 '이다' 的连接词尾 -ㄴ데
+structure_pattern: 용언 어간 + -았/으면 좋았을 텐데
+explanation_zh: 表示对过去未实现之事的遗憾与惋惜，相当于'本来要是~就好了'，结尾 '-ㄴ데' 留下余韵、暗示与现实的落差。常与 '조금만/좀' 搭配，是口语中埋怨、讨救兵时的高频句式。
+examples:
+- text: 조, 조금만 도와주시면 좋았을 텐데요…… 헥…….
+  reading: ''
+  annot: 조, 조금만 도와주시면 좋았을 텐데요…… 헥…….
+  translation_zh: 哪怕稍微帮我一下就好了……呼……
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 遗憾
+- 假设
+- 语气
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

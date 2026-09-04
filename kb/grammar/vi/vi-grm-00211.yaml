@@ -1,0 +1,39 @@
+id: vi-grm-00211
+language: vi
+type: grammar
+level: L1
+level_rank: 1
+title: 分类词（loại từ）：cái / viên / lọ
+structure: 数词/指示词 + 分类词 + 名词（如 hai viên mực、cái ly）
+structure_pattern: NUM/DEM + CLF(cái|viên|lọ) + N
+explanation_zh: 越南语和汉语一样有分类词（学校语法称 loại từ / danh từ chỉ đơn vị），数词或指示词修饰名词时必须加分类词，如
+  hai viên mực（两粒墨块）。选词按名词的语义类别：cái 用于无生命器物，viên 用于小而圆的颗粒状物，lọ 用于瓶状容器。口语中「cái + 名词」单独使用还可表示确指（那个杯子）。
+examples:
+- text: Trả cái ly cho em!
+  reading: ''
+  annot: Trả cái ly cho em!
+  translation_zh: 把杯子还给我！
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+- text: Mày muốn chấm chung với tao, mày phải góp vào hai viên mực.
+  reading: ''
+  annot: Mày muốn chấm chung với tao, mày phải góp vào hai viên mực.
+  translation_zh: 你想跟我一起蘸墨水，就得交两粒墨块。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 分类词
+- 名词短语
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 12
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

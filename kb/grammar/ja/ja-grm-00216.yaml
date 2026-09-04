@@ -1,0 +1,38 @@
+id: ja-grm-00216
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 補助動詞「〜てくる・〜ていく」：移动与变化
+structure: 動詞連用形 ＋ て ＋ くる／いく
+structure_pattern: V-て + くる/いく
+explanation_zh: 「〜てくる・〜ていく」由動詞連用形＋接続助詞「て」＋補助動詞「くる・いく」构成，表示动作伴随移动朝向或离开说话人，也可表示状态变化的出现与发展。本段「戻ってきた」「出て行く」「出てきた」均以之描写人物进出教室及本性显现。
+examples:
+- text: 教室に戻ってきた担任教師と……
+  reading: ''
+  annot: 教室[きょうしつ]に戻[もど]ってきた担任教師[たんにんきょうし]と……
+  translation_zh: 和回到教室里来的班主任……
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+- text: 言いながら、早足で教室を出て行く腐れ果てた教師。
+  reading: ''
+  annot: 言[い]いながら、早足[あしばや]で教室[きょうしつ]を出[で]て行[い]く腐[くさ]れ果[は]てた教師[きょうし]。
+  translation_zh: 一边说着，一边快步走出教室的那位彻底“腐化”的老师。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 体貌
+- 复合动词
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 5
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

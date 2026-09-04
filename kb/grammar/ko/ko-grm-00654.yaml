@@ -1,0 +1,31 @@
+id: ko-grm-00654
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: -는 척하다：假装
+structure: 动词冠形形 -는 + 의존명사（依存名词）'척' + 하다
+structure_pattern: V-는 척하다 / A-(으)ㄴ 척하다
+explanation_zh: '''-는 척하다''表示假装某种动作或状态，相当于''装作……''。动词后用''-는 척하다''，形容词后用''-(으)ㄴ 척하다''。片段中哥哥以反问句当面戳穿女孩假装的关心。'
+examples:
+- text: 뭘 걱정하는 척하냐. 가증스럽게.
+  reading: ''
+  annot: 뭘 걱정하는 척하냐. 가증스럽게.
+  translation_zh: 装什么担心啊，真是又可憎又可怜。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 依存名词
+- 样态
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 65
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

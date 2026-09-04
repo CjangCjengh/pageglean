@@ -1,0 +1,31 @@
+id: ja-grm-00472
+language: ja
+type: grammar
+level: N3
+level_rank: 3
+title: 形式名词「まま」：〜ままに・任凭
+structure: 动词连体形＋形式名词「まま」＋助词「に」（保持原样、听任）
+structure_pattern: V連体形 + まま + に
+explanation_zh: 形式名词「まま」表示保持原样的状态；「动词连体形＋ままに」意为任凭〜、随〜。「思いつくままに」指想到什么就敲什么。同句的「叩いてみるも」中的「も」是带书面色彩的接续助词，表示虽然〜却。
+examples:
+- text: とりあえず思いつくままにあらゆるワードを叩いてみるも、すべてエラー表示。
+  reading: ''
+  annot: とりあえず思[おも]いつくままにあらゆるワードを叩[たた]いてみるも、すべてエラー表示[ひょうじ]。
+  translation_zh: 总之先想到什么就敲什么词试了试，结果全是错误提示。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 形式名词
+- 接续
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

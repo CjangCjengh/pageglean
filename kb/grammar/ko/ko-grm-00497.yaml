@@ -1,0 +1,31 @@
+id: ko-grm-00497
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: -(으)ㄴ 채로：保持某种状态不变
+structure: 动词词干 + -(으)ㄴ 채로
+structure_pattern: V-(으)ㄴ 채로
+explanation_zh: 依存名词（의존명사）「채」表示状态的保持，加助词「-로」作状语，意为「保持着……的样子（就那样）」。后项动作常在不该持续的状态下发生，隐含本应处理却未处理之意。
+examples:
+- text: 뭐야. 젖은 채로 돌아다니니까 온몸이 모래투성이잖아, 너.
+  reading: ''
+  annot: 뭐야. 젖은 채로 돌아다니니까 온몸이 모래투성이잖아, 너.
+  translation_zh: 什么嘛。就这么湿淋淋地到处乱跑，你看你，弄得满身都是沙子。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 依存名词
+- 状态维持
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

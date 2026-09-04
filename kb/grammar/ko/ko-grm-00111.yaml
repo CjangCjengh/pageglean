@@ -1,0 +1,39 @@
+id: ko-grm-00111
+language: ko
+type: grammar
+level: TOPIK2
+level_rank: 2
+title: 「-아/어 주다」：补助动词，为（某人）做……
+structure: 본용언 + 연결어미 '-아/어' + 보조동사 '주다'
+structure_pattern: V- + -아/어 + 보조동사_주다
+explanation_zh: 连接词尾'-아/어'后接补助动词'주다'，表示该动作使他人受益，即'给（某人）做……'。对长辈或需尊敬的对象改用'-아/어 드리다'。片段中'해설해
+  줬다''되돌려 준다'均属此结构。
+examples:
+- text: 새로운 등장인물이 등장할 때마다 그 능력을 해설해 줬다.
+  reading: ''
+  annot: 새로운 등장인물이 등장할 때마다 그 능력을 해설해 줬다.
+  translation_zh: 每当有新角色登场，（她）都会解说其能力。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+- text: 동일한 대미지의 공격을 적에게 되돌려 준다.
+  reading: ''
+  annot: 동일한 대미지의 공격을 적에게 되돌려 준다.
+  translation_zh: 把同等伤害的攻击反弹回给敌人。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 补助动词
+- 恩惠
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

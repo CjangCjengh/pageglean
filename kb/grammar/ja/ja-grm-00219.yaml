@@ -1,0 +1,30 @@
+id: ja-grm-00219
+language: ja
+type: grammar
+level: N3
+level_rank: 3
+title: 敬語：謙譲語「いたす」与尊敬語「お〜なさる」
+structure: お ＋ サ変動詞語幹 ＋ いたす／お ＋ 体言 ＋ になさる
+structure_pattern: お + N + いたす; お + N + になさる
+explanation_zh: 「いたす」是「する」的謙譲語，用于自己或己方的动作以抬高对方；「なさる」是「する」的尊敬動詞，「お気になさる」即「気にする」的尊敬表达。句末「お気になさらず」以助動詞「ず」委婉收尾，是客气的劝阻说法。
+examples:
+- text: 「どうかお気になさらず」
+  reading: ''
+  annot: 「どうかお気[き]になさらず」
+  translation_zh: “请千万不要放在心上。”
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 敬语
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

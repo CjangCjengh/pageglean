@@ -1,0 +1,39 @@
+id: ko-grm-00449
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: -는데：铺垫背景，话锋轻转
+structure: 动词词干 + -는데 / 形容词·体言 + -(으)ㄴ데
+structure_pattern: V-는데 / A·N-(으)ㄴ데 (연결어미)
+explanation_zh: 连接词尾，先铺陈一个背景事实，再顺势引出后句的话题、对比或轻微转折。形容词、体言后接 -(으)ㄴ데，动词后接 -는데，语气比 -지만
+  柔和。汉语近似“倒是……”“……不过……”。
+examples:
+- text: 우리 집 되게 좋은데! 짱 부자야!
+  reading: ''
+  annot: 우리 집 되게 좋은데! 짱 부자야!
+  translation_zh: 我家可好啦！超级有钱的！
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+- text: 난 오빠가 좋은데, 왜 오빠는 내 말을 안 들어?
+  reading: ''
+  annot: 난 오빠가 좋은데, 왜 오빠는 내 말을 안 들어?
+  translation_zh: 我明明这么喜欢哥哥，哥哥为什么不听我的话？
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 连接词尾
+- 背景/转折
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

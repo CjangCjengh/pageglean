@@ -1,0 +1,32 @@
+id: ko-grm-00287
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: 「-는 것도 아니고 ~는 것도 아닌」：双重否定式描写
+structure: 动词词干 + 冠形词形转成词尾 -는 + 依存名词 것 + -도 아니고/-도 아닌
+structure_pattern: V-는 것도 아니고 + V-는 것도 아닌
+explanation_zh: 用冠形词形转成词尾 -는 将动作名词化为 것，再以 -도 아니다 并列否定两者，表达『既不是…也不是…』的中间状态。常用于细腻描摹表情、气氛等难以归类的样态。
+examples:
+- text: 웃는 것도 아니고 우는 것도 아닌, 여러 가지 감정이 섞인 듯한 표정이었다.
+  reading: ''
+  annot: 웃는 것도 아니고 우는 것도 아닌, 여러 가지 감정이 섞인 듯한 표정이었다.
+  translation_zh: 那是一张既非在笑、也非在哭，仿佛交织着种种感情的表情。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 否定
+- 依存名词
+- 描写
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

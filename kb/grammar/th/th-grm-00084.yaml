@@ -1,0 +1,39 @@
+id: th-grm-00084
+language: th
+type: grammar
+level: L2
+level_rank: 2
+title: V + เป็น：学会、会做（掌握性能力）
+structure: V + เป็น (+ 宾语)
+structure_pattern: คำกริยา + เป็น (ทำได้/ชำนาญ)
+explanation_zh: เป็น 作助动词置于动词之后，表示经过学习而掌握、会做某事，如 ใช้เครื่องซักผ้าเป็น（会用洗衣机）、ทำอาหารเป็น（会做饭）。它与后置
+  ได้ 的细微差别（เป็น 强调掌握，ได้ 强调当下能否做到）是中文母语者的常见难点。
+examples:
+- text: เด็ก​อายุ 12 ปี สามารถ​ใช้​เครื่อง​ซักผ้า​เป็น​ตั้งแต่​ครั้งแรก​เลย
+  reading: ''
+  annot: เด็ก​อายุ 12 ปี สามารถ​ใช้​เครื่อง​ซักผ้า​เป็น​ตั้งแต่​ครั้งแรก​เลย
+  translation_zh: 一个12岁的孩子第一次就会使用洗衣机了。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+- text: ทำอาหาร​เป็น​ด้วย​เหรอ?
+  reading: ''
+  annot: ทำอาหาร​เป็น​ด้วย​เหรอ?
+  translation_zh: 你还会做饭呀？
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 助动词
+- 能力表达
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

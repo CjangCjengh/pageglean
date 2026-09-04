@@ -1,0 +1,40 @@
+id: ko-grm-00484
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: -잖아(요)：不是……嘛（提醒已知事实）
+structure: 动词/形容词 + -지 않나(요) 的缩略形 -잖아(요)
+structure_pattern: V/A-잖다 ← V/A-지 않다 + -나(요)（终结词尾）
+explanation_zh: -잖아(요) 是 -지 않나(요) 的口语缩略形，用于提醒对方已知或显而易见的事实以寻求认同，常带辩解、强调或抱怨的语气。例中 아니시잖아요
+  还叠加了主体敬语词尾 -시-，体现对主人的敬语阶位。
+examples:
+- text: 주인님은 어차피 주인님 돈으로 먹고 노는 거 아니시잖아요.
+  reading: ''
+  annot: 주인님은 어차피 주인님 돈으로 먹고 노는 거 아니시잖아요.
+  translation_zh: 主人反正不也是用自己的钱吃喝玩乐嘛。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+- text: 저게 더 멋지잖아? 폼 나잖아?
+  reading: ''
+  annot: 저게 더 멋지잖아? 폼 나잖아?
+  translation_zh: 那个不是更帅嘛？不是更有派头吗？
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 口语
+- 终结词尾
+- 敬语
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

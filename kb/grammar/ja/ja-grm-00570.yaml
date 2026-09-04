@@ -1,0 +1,38 @@
+id: ja-grm-00570
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 〜てしまう：完了与遗憾
+structure: 动词连用形 + 接续助词 て + 复合动词 しまう
+structure_pattern: V连用形 + て + しまう
+explanation_zh: 「しまう」接动词连用形后的接续助词「て」之后，表示动作完成，或出现无法挽回、令人遗憾的结果。片段中「発覚してしまった」「途絶えてしまっている」都以无可奈何的语气描写既成事实。口语约音形式为「ちゃう／じゃう」。
+examples:
+- text: さらに、ここにきて最大級の問題が発覚してしまった。
+  reading: ''
+  annot: さらに、ここにきて最大級[さいだいきゅう]の問題[もんだい]が発覚[はっかく]してしまった。
+  translation_zh: 而且事到如今，竟然暴露出了一个天大的问题。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+- text: それ以来、夢前光からの返事は途絶えてしまっている。
+  reading: ''
+  annot: それ以来[いらい]、夢前光[ゆめさきひかり]からの返事[へんじ]は途絶[とだ]えてしまっている。
+  translation_zh: 从那以后，梦前光那边就再也没有回音了。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 体貌
+- 复合动词
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

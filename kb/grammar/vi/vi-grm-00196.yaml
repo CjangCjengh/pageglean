@@ -1,0 +1,32 @@
+id: vi-grm-00196
+language: vi
+type: grammar
+level: L3
+level_rank: 3
+title: 假设句：nếu…（结果连词可省）
+structure: nếu + 条件小句，(thì / chắc) + 结果小句
+structure_pattern: nếu + Clause, (thì/chắc) + Clause
+explanation_zh: nếu 引导假设条件从句，相当于「如果、要是」；结果句常用 thì 或推测副词 chắc 呼应，口语中常省略而直接连接两个小句。本例配合
+  đã…rồi 表示对过去情况的假设推断。
+examples:
+- text: Khi nãy nếu nó không "cứu" tôi chắc tôi đã bị phạt thay cho nó rồi.
+  reading: ''
+  annot: Khi nãy nếu nó không "cứu" tôi chắc tôi đã bị phạt thay cho nó rồi.
+  translation_zh: 刚才要不是它「救」了我，我肯定已经替它挨罚了。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 复句
+- 假设
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

@@ -1,0 +1,40 @@
+id: ko-grm-00662
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: -아/어 오다：朝向说话者的动作
+structure: 본용언 + 연결어미 ‘-아/어’ + 보조동사 ‘오다’
+structure_pattern: V-아/어 + 오다
+explanation_zh: “-아/어 오다”是本用言接连接词尾‘-아/어’后加补助动词‘오다’的补助用言结构，表示动作或状态朝着说话人（或当前局面）移动，也可表示某状态一直持续至今。片段中“달라붙어
+  왔다”“공격을 해 오면서도”描写攻击向主人公逼近的方向性，汉语可译为“……过来”。
+examples:
+- text: 더구나 사방에서는 끊임없이 군중들이 달라붙어 왔다.
+  reading: ''
+  annot: 더구나 사방에서는 끊임없이 군중들이 달라붙어 왔다.
+  translation_zh: 而且四面八方的人群还不断贴附过来。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+- text: 쉴 새 없이 공격을 해 오면서도 말하는 목소리 톤이 일정하고 평화로웠다.
+  reading: ''
+  annot: 쉴 새 없이 공격을 해 오면서도 말하는 목소리 톤이 일정하고 평화로웠다.
+  translation_zh: 尽管一刻不停地攻过来，她说话的语调却始终平稳而安详。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 补助动词
+- 方向
+- 体貌
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 4
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

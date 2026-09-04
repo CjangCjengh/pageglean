@@ -1,0 +1,32 @@
+id: ja-grm-00572
+language: ja
+type: grammar
+level: N3
+level_rank: 3
+title: 〜ことから：推断的依据
+structure: 用言连体形 + 形式名词 こと + 助词 から
+structure_pattern: V/A + ことから
+explanation_zh: 「ことから」以前项事实作为推断的依据，后项引出判断或结论，相当于“从……来看”“鉴于……”。语感偏书面，口语中可换用「から」。片段中用于由风城的发言推断其行动时间。
+examples:
+- text: 時間がわからないのは痛いが、注目を集めたいと風城が言っていたことから推測すると、おそらく昼間か夕方だろう。
+  reading: ''
+  annot: 時間[じかん]がわからないのは痛[いた]いが、注目[ちゅうもく]を集[あつ]めたいと風城[かぜしろ]が言[い]っていたことから推測[すいそく]すると、おそらく昼間[ひるま]か夕方[ゆうがた]だろう。
+  translation_zh: 虽然弄不清时间有点棘手，但从风城说过想引人注目这一点来推测，大概会是白天或傍晚吧。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 推断
+- 形式名词
+- 书面
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

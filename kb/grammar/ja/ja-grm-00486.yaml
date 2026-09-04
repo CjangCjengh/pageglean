@@ -1,0 +1,31 @@
+id: ja-grm-00486
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 〜ちゃう：「〜てしまう」的口语音便（完成・遗憾）
+structure: 動詞連用形 + てしまう →（口语缩约）ちゃう／んじゃう
+structure_pattern: V-てしまう → V-ちゃう
+explanation_zh: 动词连用形接接续助词「て」再加补助动词「しまう」，表示完成或遗憾，口语中音便缩约为「ちゃう」（ぬ・む・ぶ后为「じゃう」）。「拒否っちゃった」即「拒否してしまった」，含懊悔语气。轻小说口语中极高频，值得整体记忆。
+examples:
+- text: お、おもわず拒否っちゃったけど、これってオトナな作家になれる大チャンスだったんじゃ……
+  reading: ''
+  annot: お、おもわず拒否[きょひ]っちゃったけど、これってオトナな作家[さっか]になれる大[だい]チャンスだったんじゃ……
+  translation_zh: 我、我不假思索就拒绝了，但这本来可是成为成熟作家的大好机会啊……
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 体貌
+- 口语
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 4
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

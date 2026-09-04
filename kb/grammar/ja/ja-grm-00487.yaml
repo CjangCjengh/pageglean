@@ -1,0 +1,32 @@
+id: ja-grm-00487
+language: ja
+type: grammar
+level: N1
+level_rank: 5
+title: 〜なり：刚一……就……（后续动作紧接着发生）
+structure: 動詞終止形 + なり + 后项动作
+structure_pattern: V-終止形 + なり + V
+explanation_zh: 助词「なり」接动词终止形，表示后一动作在前一动作发生后立刻出现，多用于令人意外的事态，偏书面。同句「出ては」的助词「は」表示动作反复，两处搭配描写学生的习惯性反应。
+examples:
+- text: 校門を出ては俺を見るなり避ける
+  reading: ''
+  annot: 校門[こうもん]を出[で]ては俺[おれ]を見[み]るなり避[さ]ける
+  translation_zh: （学生们）一出校门，一看见我就立刻躲开。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 接续
+- 助词
+- 书面语
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

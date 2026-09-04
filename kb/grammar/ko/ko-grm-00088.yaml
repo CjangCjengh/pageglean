@@ -1,0 +1,33 @@
+id: ko-grm-00088
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: -(ㄴ/는)다고 해도：即使~也
+structure: 谓词词干 + 间接引用连接词尾 -(ㄴ/는)다고 + 添意助词 도
+structure_pattern: 용언 어간 + -(ㄴ/는)다고 + 보조사 '도'
+explanation_zh: 由间接引用连接词尾 '-(ㄴ/는)다고' 后接添意助词 '도' 构成，字面为'即使说是~'，表示让步性假设，后句结论不受前句影响。比基本让步连接词尾
+  '-아/어도'（싸워도 이길 수 있을까）假设意味更强、语感更书面。
+examples:
+- text: 9개의 시련이 정확히 어떤 건지는 모르지만, 그것에 도전한다고 해도 마스터의 실력이면 충분히 통과할 수 있겠지.
+  reading: ''
+  annot: 9개의 시련이 정확히 어떤 건지는 모르지만, 그것에 도전한다고 해도 마스터의 실력이면 충분히 통과할 수 있겠지.
+  translation_zh: 虽然不清楚九个试炼究竟是什么，但即使去挑战，凭主人的实力也应该足以通过吧。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 让步
+- 连接词尾
+- 间接引用
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

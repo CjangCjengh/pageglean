@@ -1,0 +1,31 @@
+id: ja-grm-00261
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 助詞「し」：列举理由
+structure: 用言終止形＋終助詞「し」（体言には「だ」を添える）
+structure_pattern: 用言終止形 + し / N + だ + し
+explanation_zh: 终助词「し」用于列举理由，暗示“除此之外还有其他理由”，体言接续时需加「だ」。片段以「懐いてるし」推出“不会受坏待遇”，进而得出“不必生气”的结论。大致相当于中文的“又…（而且…）”。
+examples:
+- text: それにその子、リアちゃん。凄く和希に懐いてるし。
+  reading: ''
+  annot: それにその子[こ]、リアちゃん。凄[すご]く和希に懐[なつ]いてるし。
+  translation_zh: 而且那孩子，莉亚酱，非常亲近和希呢。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 助詞
+- 理由
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

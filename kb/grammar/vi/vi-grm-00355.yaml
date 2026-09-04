@@ -1,0 +1,39 @@
+id: vi-grm-00355
+language: vi
+type: grammar
+level: L1
+level_rank: 1
+title: 将来时助词 sẽ
+structure: sẽ + 动词（表示将来）
+structure_pattern: sẽ + động từ
+explanation_zh: sẽ 置于动词前表示动作尚未发生，相当于“将、要”，常与 ngày mai 等时间词呼应。越南语动词本身不变形，时态由此类副词（phó
+  từ）承担。
+examples:
+- text: Ngày mai tao sẽ làm một chiếc vợt.
+  reading: ''
+  annot: Ngày mai tao sẽ làm một chiếc vợt.
+  translation_zh: 明天我要做一只捕虫网。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+- text: Tao sẽ bắt bướm cho mày ép vào tập.
+  reading: ''
+  annot: Tao sẽ bắt bướm cho mày ép vào tập.
+  translation_zh: 我会捉蝴蝶给你夹进本子里。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 时态
+- 虚词
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 4
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

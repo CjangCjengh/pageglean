@@ -1,0 +1,32 @@
+id: th-grm-00106
+language: th
+type: grammar
+level: L2
+level_rank: 2
+title: อย่าง…／重叠副词：……地（方式状语）
+structure: คำกริยา + อย่าง + คำวิเศษณ์（可重叠）；重叠式亦可直接作状语（ค่อย ๆ、เบา ๆ）
+structure_pattern: V + อย่าง + Adj(REDUP) / V + Adv(REDUP)
+explanation_zh: 「อย่าง＋形容词」构成方式状语，相当于中文「……地」；形容词重叠（ช้า ๆ）表示程度轻微或状态持续。重叠式也可直接作状语，如「ค่อย
+  ๆ」（慢慢地）、「เบา ๆ」（轻轻地）。片段借此细腻描摹动作。
+examples:
+- text: ยิ้ม​อย่าง​มี​ความ​สุข
+  reading: ''
+  annot: ยิ้ม​อย่าง​มี​ความ​สุข
+  translation_zh: 幸福地微笑着
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 方式状语
+- 重叠
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 5
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

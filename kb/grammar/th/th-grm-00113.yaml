@@ -1,0 +1,31 @@
+id: th-grm-00113
+language: th
+type: grammar
+level: L2
+level_rank: 2
+title: 「อย่าง + 形容词：方式状语后置」
+structure: คำกริยา + อย่าง + คำวิเศษณ์（กริยาวิเศษณ์วลี เรียงหลังกริยา）
+structure_pattern: V + อย่าง + Adj
+explanation_zh: อย่าง 置于形容词前构成方式状语，整体位于动词之后（泰语修饰语后置），相当于汉语“…地”。本段出现两处：เข้าอย่างจัง（目光）撞了个正着、ปิดประตูอย่างเร็ว（飞快地）关上门。是泰语副词化最典型的手段之一。
+examples:
+- text: รีบ​ปิดประตู​ห้องน้ำ​อย่าง​เร็ว
+  reading: ''
+  annot: รีบ​ปิดประตู​ห้
+  translation_zh: 赶紧飞快地关上了浴室门。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 状语
+- 语序
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

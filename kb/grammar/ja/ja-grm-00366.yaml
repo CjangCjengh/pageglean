@@ -1,0 +1,38 @@
+id: ja-grm-00366
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 〜のだ／〜んだ：解释说明语气
+structure: 用言終止形＋のだ（口語：んだ）
+structure_pattern: V/A 終止形 + のだ → (口) んだ
+explanation_zh: 形式名詞「の」加斷定助動詞「だ」，表示解釋、說明緣由，帶有把事情說給對方（或自己）聽的語感。口語中「のだ」說成「んだ」。本文敘述用「のだ」、內心獨白用「んだ」，文體層次分明，值得對照體會。
+examples:
+- text: 予想外のことが起こったのだ
+  reading: ''
+  annot: 予想外[よそうがい]のことが起[お]こったのだ
+  translation_zh: 发生了预料之外的事情。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+- text: ただでさえやっかいな生活になったんだ
+  reading: ''
+  annot: ただでさえやっかいな生活[せいかつ]になったんだ
+  translation_zh: 生活本来就已经够麻烦的了啊。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 语气
+- 说明
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 4
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

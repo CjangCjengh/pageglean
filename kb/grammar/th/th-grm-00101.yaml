@@ -1,0 +1,32 @@
+id: th-grm-00101
+language: th
+type: grammar
+level: L4
+level_rank: 4
+title: เพื่อที่ว่า…จะได้…：为了……、好让……
+structure: เพื่อที่ว่า + 目的小句 + จะได้ + 动词
+structure_pattern: เพื่อที่ว่า + clause + จะได้ + V
+explanation_zh: เพื่อที่ว่า…จะได้… 引导目的状语从句，意为「为了／好让……」，从句中用 จะ/จะได้ 表示目的中的可能或将来。与简单的
+  เพื่อ＋动词 相比，它强调以一个完整事件作为目的。
+examples:
+- text: ดา​เลย​ต้อง​พยายาม​ทำอาหาร​ให้​เก่ง ๆ เพื่อ​ที่ว่า​แม่นัน​จะ​ได้​ไม่​อดตาย​น่ะ​ค่ะ
+  reading: ''
+  annot: ดา​เลย​ต้อง​พยายาม​ทำอาหาร​ให้​เก่ง ๆ เพื่อ​ที่ว่า​แม่นัน​จะ​ได้​ไม่​อดตาย​น่ะ​ค่ะ
+  translation_zh: 所以达必须努力把饭做好，好让兰妈妈不至于饿肚子。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 目的从句
+- 接续
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

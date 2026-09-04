@@ -1,0 +1,41 @@
+id: vi-grm-00216
+language: vi
+type: grammar
+level: L2
+level_rank: 2
+title: 类别词（量词）：viên / cái / tiếng
+structure: 数词 + 类别词 + 名词；动词 + một + 动量词
+structure_pattern: Num + CL + N ; V + một + CL
+explanation_zh: 越南语计数名词必须带类别词（即量词，loại từ）：小而圆的物体用「viên」（viên mực 墨锭、viên bi 弹珠），容器用「chén」（chén
+  cơm），呼吸用「hơi」。动作也能计量：“看一眼”说 nhìn một cái，“哼一声”说 “hứ” một tiếng，与汉语动量词“一下、一声”相当。
+examples:
+- text: Chép bài giùm là hai viên bi.
+  reading: ''
+  annot: Chép bài giùm là hai viên bi.
+  translation_zh: 帮忙抄笔记的报酬是两颗玻璃弹珠。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+- text: Tôi rất muốn nhìn nó một cái để xem vẻ mặt nó như thế nào nhưng tôi kềm lại
+    được.
+  reading: ''
+  annot: Tôi rất muốn nhìn nó một cái để xem vẻ mặt nó như thế nào nhưng tôi kềm lại
+    được.
+  translation_zh: 我很想看她一眼，瞧瞧她脸上的表情，但我还是忍住了。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 量词
+- 数词
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 8
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

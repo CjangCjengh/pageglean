@@ -1,0 +1,38 @@
+id: vi-grm-00364
+language: vi
+type: grammar
+level: L2
+level_rank: 2
+title: chỉ … thôi：只是……而已
+structure: chỉ + 动词 …（句末加 thôi 呼应）
+structure_pattern: chỉ + V … + thôi
+explanation_zh: chỉ 意为「只」，置于动词之前；句末常加语气词 thôi 与之呼应，表示「只是……而已/罢了」。thôi 也可省略，基本意思不变。
+examples:
+- text: Em không ăn đâu. Em chỉ ép nó vào tập thôi.
+  reading: ''
+  annot: Em không ăn đâu. Em chỉ ép nó vào tập thôi.
+  translation_zh: 我不吃的。我只是把它压进本子里罢了。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+- text: Em chỉ nghe mẹ em nói vậy.
+  reading: ''
+  annot: Em chỉ nghe mẹ em nói vậy.
+  translation_zh: 我只是听我妈妈这么说。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 副词
+- 语气词
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

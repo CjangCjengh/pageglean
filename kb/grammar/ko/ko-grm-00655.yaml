@@ -1,0 +1,38 @@
+id: ko-grm-00655
+language: ko
+type: grammar
+level: TOPIK2
+level_rank: 2
+title: -에게 / -에게서：对象与来源
+structure: 体言 + -에게（对象/方向）/ -에게서（来源）（부사격 조사 副词格助词）
+structure_pattern: N-에게 / N-에게서
+explanation_zh: '''-에게''接在有生名词后表示动作的对象或方向，''-에게서''则表示人或动物来源，相当于''从……（那里）''。片段中''주다''类动词配''-에게''、''빼앗다''配''-에게서''，对比典型；中文都说''给/从''，需注意韩语的格标记区分。'
+examples:
+- text: 창조물에게 자유 의지 따위를 주니까 그런 거야.
+  reading: ''
+  annot: 창조물에게 자유 의지 따위를 주니까 그런 거야.
+  translation_zh: 就是因为给了被造物自由意志之类的东西，才会变成那样。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+- text: 그래서 넌 그 미학을 갖추기 위하여 인간에게서 자유 의지를 빼앗았다……?
+  reading: ''
+  annot: 그래서 넌 그 미학을 갖추기 위하여 인간에게서 자유 의지를 빼앗았다……?
+  translation_zh: 所以你是为了具备那种美，而从人类那里夺走了自由意志……？
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 助词
+- 格助词
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 80
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

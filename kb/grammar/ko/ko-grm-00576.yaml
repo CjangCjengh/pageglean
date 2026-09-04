@@ -1,0 +1,39 @@
+id: ko-grm-00576
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: -든(지)：无论……还是……
+structure: 用言词干 + -든
+structure_pattern: V-든 + V-든（연결어미 '-든'의 나열）
+explanation_zh: 连接词尾 '-든' 并列使用，表示在两个或多个选项中任选其一，意为『无论……还是……』。本段两处用『……하든 ……하든 하나만 해』的句式，表达说话者希望对方在两种行为中选定一种的无奈心情。
+examples:
+- text: 그나저나 가로 녀석, 연애를 응원하든 방해하든 하나만 해 줬으면 좋겠는데.
+  reading: ''
+  annot: 그나저나 가로 녀석, 연애를 응원하든 방해하든 하나만 해 줬으면 좋겠는데.
+  translation_zh: 话说加罗那家伙，恋爱嘛，不管是加油还是捣乱，倒希望他只挑一样做。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+- text: 위로를 하든, 잔소리를 하든, 하나만 해 다오, 키이리.
+  reading: ''
+  annot: 위로를 하든, 잔소리를 하든, 하나만 해 다오, 키이리.
+  translation_zh: 不管是安慰我，还是唠叨我，就挑一样来吧，绮绮。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 选择
+- 让步
+- 连接词尾
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 4
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

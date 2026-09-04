@@ -1,0 +1,34 @@
+id: ko-grm-00574
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: -다는 이유로：以……为理由
+structure: 用言词干 + -(ㄴ/는)다는 이유로
+structure_pattern: V-(ㄴ/는)다 + 의존명사 '이유' + 조사 '로'（간접인용 + 이유）
+explanation_zh: '''-(ㄴ/는)다는 이유로'' 通过间接引用将前句内容名词化为理由，意为『以……为理由/借口』。本段用三个并列分句反复使用此结构，交代众人退出迷宫探险的各自缘由，是表达借口的典型句式。书面语和口语均可使用。'
+examples:
+- text: 브룬은 피곤하다는 이유로, 요나는 그런 브룬의 뒤치다꺼리를 이유로, 가로는 키이리의 연애를 응원한다는 이유로 거울 미로 탐방은 나와
+    키이리 두 사람만 하게 됐다.
+  reading: ''
+  annot: 브룬은 피곤하다는 이유로, 요나는 그런 브룬의 뒤치다꺼리를 이유로, 가로는 키이리의 연애를 응원한다는 이유로 거울 미로 탐방은 나와
+    키이리 두 사람만 하게 됐다.
+  translation_zh: 布伦以累了为理由，约娜以要替那样的布伦收拾烂摊子为理由，加罗以要为绮绮的恋爱加油为理由，最后镜屋迷宫的探索就只有我和绮绮两人去做了。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 间接引用
+- 理由
+- 复句
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

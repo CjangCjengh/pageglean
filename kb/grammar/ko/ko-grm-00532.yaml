@@ -1,0 +1,39 @@
+id: ko-grm-00532
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: 미처 -지 못하다：未能及时……
+structure: 副词 미처 + 动词词干 + 长形否定 -지 못하다
+structure_pattern: 미처 + V + -지 못하다
+explanation_zh: 副词 미처 意为“来得及（之前）”，必须与 -지 못하다 等否定叙述搭配使用。多用于后悔、遗憾的语境，文中以对偶句式两次出现。对应中文“没能及时……／未及……”。
+examples:
+- text: 내가 이브를 미처 막지 못했던 것처럼.
+  reading: ''
+  annot: 내가 이브를 미처 막지 못했던 것처럼.
+  translation_zh: 就像当初我没能及时阻止夏娃那样。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+- text: 내가 헤이젤을 미처 구하지 못했던 것처럼.
+  reading: ''
+  annot: 내가 헤이젤을 미처 구하지 못했던 것처럼.
+  translation_zh: 就像当初我没能及时救下黑泽尔那样。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 副词搭配
+- 否定
+- 语气
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

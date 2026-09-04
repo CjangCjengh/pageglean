@@ -1,0 +1,31 @@
+id: ja-grm-00591
+language: ja
+type: grammar
+level: N1
+level_rank: 5
+title: 〜ようが〜まいが：无论……与否
+structure: 动词意志形（未然形＋う／よう）＋ が ＋ 否定推量形（〜まい）＋ が
+structure_pattern: V-意志形 + が + V-否定推量形(まい) + が
+explanation_zh: 动词意志形（学校文法视为未然形＋推量助动词「う／よう」）与否定推量「まい」各带助词「が」对举，表示“无论～还是不～”，结论不受影响。「いようがいまいが」即「いる」的「いよう」与「いまい」并列。语气强硬，书面语和戏剧性独白中常见。
+examples:
+- text: だが、そんなもんがいようがいまいが関係ない。
+  reading: ''
+  annot: だが、そんなもんがいようがいまいが関係[かんけい]ない。
+  translation_zh: 不过，那种东西在也好不在也好，都与我无关。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 接续
+- 并列
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

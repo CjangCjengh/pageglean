@@ -1,0 +1,38 @@
+id: vi-grm-00330
+language: vi
+type: grammar
+level: L2
+level_rank: 2
+title: 「V + khỏi：离开、脱离某处」
+structure: V（rời/chui/đi…）+ khỏi + 处所名词（趋向补语）
+structure_pattern: V + khỏi + NP
+explanation_zh: khỏi 表示“离开、脱离”，常紧跟在动词之后作补语并引出处所，如 rời khỏi（离开）、ra khỏi（出来）、đi khỏi（走开）。它与汉语“离、出”对应，但位置在主要动词之后，属越南语的补语结构。
+examples:
+- text: tôi rời khỏi quán cà phê và dáo dác tìm một chỗ ẩn nấp kín đáo
+  reading: ''
+  annot: tôi rời khỏi quán cà phê và dáo dác tìm một chỗ ẩn nấp kín đáo
+  translation_zh: 我离开咖啡馆，慌张地寻找一个隐蔽的藏身处。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+- text: Hải gầy chui ra khỏi quán, rảo cẳng đuổi theo.
+  reading: ''
+  annot: Hải gầy chui ra khỏi quán, rảo cẳng đuổi theo.
+  translation_zh: 瘦子 Hải 从店里钻出来，撒腿追了上去。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 趋向补语
+- 空间
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

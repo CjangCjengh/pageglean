@@ -1,0 +1,38 @@
+id: vi-grm-00147
+language: vi
+type: grammar
+level: L2
+level_rank: 2
+title: vừa…vừa…：两个动作同时进行
+structure: vừa + V1 + vừa + V2
+structure_pattern: vừa + V + vừa + V
+explanation_zh: vừa…vừa… 表示两个动作同时发生，相当于汉语的「一边…一边…」。两个 vừa 后接的动词地位平等，可表动作也可表状态。越南语将其归入表并列的关联结构。
+examples:
+- text: Vừa nói nó vừa dòm dáo dác chung quanh.
+  reading: ''
+  annot: Vừa nói nó vừa dòm dáo dác chung quanh.
+  translation_zh: 它一边说，一边警惕地四处张望。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+- text: Vừa nói tôi vừa liếc chừng Việt An, trong lòng thấp thỏm sợ nó từ chối.
+  reading: ''
+  annot: Vừa nói tôi vừa liếc chừng Việt An, trong lòng thấp thỏm sợ nó từ chối.
+  translation_zh: 我一边说一边偷偷看越安的脸色，心里忐忑不安，怕她拒绝。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 体貌
+- 并列
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 0
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

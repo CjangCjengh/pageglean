@@ -1,0 +1,31 @@
+id: ja-grm-00062
+language: ja
+type: grammar
+level: N2
+level_rank: 4
+title: 〜ずに・〜ず：不……而……
+structure: Vない形（去ない）+ ずに／ず
+structure_pattern: V-ない → ずに／ず
+explanation_zh: 「〜ずに」相当于「〜ないで」，表示不做前项就进行后项，带书面色彩。「構わず」由「構う＋ず」固化而来，意为"不顾、不管"。口语中一般用「〜ないで」，轻小说叙述里「〜ず」系列能营造简洁的书面感。
+examples:
+- text: 俺は構わずそのまま再び走る。
+  reading: おれはかまわずそのままふたたびはしる
+  annot: 俺は構わずそのまま再び走る。
+  translation_zh: 我毫不在意，就这样再次跑起来。
+  source_book: book-ja-001
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 否定
+- 文体
+provenance:
+  discovered_in: book-ja-001
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

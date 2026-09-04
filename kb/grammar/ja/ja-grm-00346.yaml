@@ -1,0 +1,31 @@
+id: ja-grm-00346
+language: ja
+type: grammar
+level: N3
+level_rank: 3
+title: 〜ことになる：归结为〜、自然得出的结论
+structure: 体言／用言連体形 ＋ ということになる
+structure_pattern: N/用言-連体形 + ことになる
+explanation_zh: 形式名词「こと」加「になる」，表示由某个前提自然推出某种结论或结果，“那就算〜、就成了〜”。此处指若报道属实，手中的手帐便顺理成章地成了遗品。与表示主观决定的「ことにする」相区别。
+examples:
+- text: 新聞の記事が正しければ、俺の手元にあるこの手帳は遺品ということになる。
+  reading: ''
+  annot: 新聞[しんぶん]の記事[きじ]が正[ただ]しければ、俺[おれ]の手元[てもと]にあるこの手帳[てちょう]は遺品[いひん]ということになる。
+  translation_zh: 如果报纸的报道属实，那我手上这本手帐就算是遗物了。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 形式名词
+- 推断
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

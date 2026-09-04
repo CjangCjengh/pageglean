@@ -1,0 +1,34 @@
+id: vi-grm-00229
+language: vi
+type: grammar
+level: L2
+level_rank: 2
+title: cứ / vẫn cứ：一直、一个劲儿地
+structure: cứ / vẫn cứ + V（副词作谓语状语）
+structure_pattern: phó từ cứ / vẫn cứ + V
+explanation_zh: 副词（phó từ）cứ 表示动作不顾情况地持续或反复，相当于「一直、老是」；vẫn cứ 连用更强调「仍旧照旧」。它修饰谓语（vị
+  ngữ），常带无奈、抱怨的语气。片段中反复出现。
+examples:
+- text: Hồng Hoa và Chiêu Minh tụi nó cứ đi theo tò tò như vậy thì thánh cũng chịu
+    thua!
+  reading: ''
+  annot: Hồng Hoa và Chiêu Minh tụi nó cứ đi theo tò tò như vậy thì thánh cũng chịu
+    thua!
+  translation_zh: 红花和招明他们老是这么紧跟着，那真是神仙也没辙！
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 体貌
+- 副词
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

@@ -1,0 +1,31 @@
+id: ko-grm-00396
+language: ko
+type: grammar
+level: TOPIK5
+level_rank: 5
+title: 「-다 보니：做着做着，不知不觉就……」
+structure: 동사 어간 + 연결어미 '-다(가) 보니'
+structure_pattern: V + -다 보니
+explanation_zh: '''-다 보니''表示在持续前一动作的过程中，出现了未曾预料的结果，相当于"……着……着，不知不觉就……"。它强调结果的非意图性，与表目的的''-(으)려고''不同。'
+examples:
+- text: 눈 둘 곳을 찾다 보니 의도치 않게 여기저기 세심하게 훑어보았을 뿐이다.
+  reading: ''
+  annot: 눈 둘 곳을 찾다 보니 의도치 않게 여기저기 세심하게 훑어보았을 뿐이다.
+  translation_zh: 找眼睛该往哪儿放，结果不知不觉就无意间仔仔细细地四处打量了一番。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 연결어미
+- 경과/결과
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

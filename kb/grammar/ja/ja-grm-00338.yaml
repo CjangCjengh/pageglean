@@ -1,0 +1,31 @@
+id: ja-grm-00338
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 「〜ばいい」：愿望与期盼
+structure: 用言假定形 + 助词「ば」+ いい
+structure_pattern: V-仮定形 + ば + いい
+explanation_zh: 助词「ば」接用言假定形表假定条件，与「いい」搭配表示“要是……就好了”的愿望、期盼。「忘れられていなければいい」由被动助动词「られる」+持续态「ている」+假定形构成，意为“没被忘掉就好了”。句末常带轻松的自言自语口吻。
+examples:
+- text: 忘れられていなければいいなー、などと思っていますが。
+  reading: ''
+  annot: 忘れられていなければいいなー、などと思っていますが。
+  translation_zh: 要是还没被大家忘掉就好了——我如此想着。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 愿望
+- 假定
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

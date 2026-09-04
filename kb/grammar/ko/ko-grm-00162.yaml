@@ -1,0 +1,32 @@
+id: ko-grm-00162
+language: ko
+type: grammar
+level: TOPIK6
+level_rank: 6
+title: -기 그지없다：……至极
+structure: 形容词词干 + 名词形转成词尾 -기 + 形容词 그지없다（无尽、至极）
+structure_pattern: A-기 그지없다
+explanation_zh: 名词形词尾 -기 与形容词 그지없다（没有尽头）结合的固定表达，表示程度极高，“再……不过了”。多用于书面叙述语体。可用冠形形 그지없는
+  修饰名词。
+examples:
+- text: 테이블에 차려져 있는 요리는 빵과 감자 수프라는 조촐하기 그지없는 메뉴였다.
+  reading: ''
+  annot: 테이블에 차려져 있는 요리는 빵과 감자 수프라는 조촐하기 그지없는 메뉴였다.
+  translation_zh: 桌上摆好的饭菜，是面包加土豆汤这种简朴得不能再简朴的菜单。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 程度
+- 固定表达
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

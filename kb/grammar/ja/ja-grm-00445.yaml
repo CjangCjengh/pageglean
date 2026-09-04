@@ -1,0 +1,31 @@
+id: ja-grm-00445
+language: ja
+type: grammar
+level: N3
+level_rank: 3
+title: 假装……：〜ふりをする
+structure: 连体修饰＋名词ふり＋する
+structure_pattern: V-連体形 + ふりをする
+explanation_zh: 「ふり」为名词，意为“样子、姿态”，前接连体修饰语，与「する」搭配表示装出某种样子。「興味ないふり」即假装不感兴趣。文中主角借此描写自己刻意装作漫不经心的样子。
+examples:
+- text: あくまでさりげなく。興味ないふりを演じて。
+  reading: ''
+  annot: あくまでさりげなく。興味ないふりを演じて。
+  translation_zh: 务必显得不经意。装出一副不感兴趣的样子。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 表达
+- 样态
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

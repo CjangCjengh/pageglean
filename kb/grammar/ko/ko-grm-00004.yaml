@@ -1,0 +1,32 @@
+id: ko-grm-00004
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: 「-느라」：因……（而产生不好的结果）
+structure: 동사 어간 + -느라 (연결어미)
+structure_pattern: V-느라
+explanation_zh: 连接词尾，表示前句是后句的原因，且后句多为不如意、消极的结果。相当于中文「因为（忙于）……而……」。片段中「모니터를 보느라 피로가
+  쌓이다」即「因一直盯着显示器而积累了疲劳」。
+examples:
+- text: 계속 모니터를 보느라 피로가 쌓인 눈을 문지르며, 나는 마우스 패드 옆으로 시선을 향했다.
+  reading: ''
+  annot: 계속 모니터를 보느라 피로가 쌓인 눈을 문지르며, 나는 마우스 패드 옆으로 시선을 향했다.
+  translation_zh: 我揉了揉因一直盯着显示器而疲惫的眼睛，把视线转向鼠标垫一旁。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 连接词尾
+- 原因
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

@@ -1,0 +1,31 @@
+id: ja-grm-00321
+language: ja
+type: grammar
+level: N3
+level_rank: 3
+title: 〜せいで：都怪……（消极原因）
+structure: 用言連体形＋せいで（形式名詞「所為」）
+structure_pattern: V-連体形 / イ形 / Naな + せいで
+explanation_zh: 形式名词「せい」（汉字作“所為”）表示导致不良结果的原因，带有归咎、不满的语气。「〜せいで」作状语，「〜せいだ」作谓语。中文可译为“都怪……”“因为……（而遭殃）”。
+examples:
+- text: 会った当初から意味不明な好意向けられたせいで散々意識させられて、なのに手を出したらハルマゲドンって言うから
+  reading: ''
+  annot: 会った当初から意味不明な好意向けられたせいで散々意識させられて、なのに手を出したらハルマゲドンって言うから
+  translation_zh: 从见面一开始就因为莫名其妙的示好而被弄得患得患失，可一旦我出手就说要“世界末日”，结果害得我全力克制、心猿意马……
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 形式名词
+- 因果关系
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

@@ -1,0 +1,33 @@
+id: ko-grm-00719
+language: ko
+type: grammar
+level: TOPIK5
+level_rank: 5
+title: 「-치고는：就……而言、作为……来说」
+structure: 体言/依存名词 것 + 依存名词 치 + 补助词 는
+structure_pattern: N + 치는 / 것치고는
+explanation_zh: 依存名词 치 表示「在某类对象当中」，与补助词 는 搭配意为「作为~来说、就~而言」，后文多接与对该类事物的一般预期不相符的内容，含对比评价的语气。片段中「그런
+  것치고는」两次出现，起承转作用。对应汉语「就……而言／作为……来说」。
+examples:
+- text: 그런 것치고는 고급스러운 재질로 만들어진 것 같았다.
+  reading: ''
+  annot: 그런 것치고는 고급스러운 재질로 만들어진 것 같았다.
+  translation_zh: 就那样看来，它似乎是用相当贵重的材质制成的。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 의존명사
+- 대조
+- 평가
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

@@ -1,0 +1,32 @@
+id: ko-grm-00668
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: -는데도：尽管如此却……
+structure: 用言词干 + 连接词尾 '-는데' + 添意词尾 '도'
+structure_pattern: V/A + -는데도
+explanation_zh: 连接词尾-인데/-는데后添意词尾도，构成让步转折'尽管如此却……'，后句结果与前句预期相反。'그런데도 악마는 찾아온다'意为'即便如此，恶魔依然降临'，承接上文善意的选择却招致恶果。常用于叙述中引出与预期相反的局面。
+examples:
+- text: 그런데도 악마는 찾아온다.
+  reading: ''
+  annot: 그런데도 악마는 찾아온다.
+  translation_zh: 即便如此，恶魔还是会找上门来。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 连接词尾
+- 让步
+- 转折
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

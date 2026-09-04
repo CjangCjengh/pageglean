@@ -1,0 +1,38 @@
+id: ja-grm-00375
+language: ja
+type: grammar
+level: N2
+level_rank: 4
+title: あげく（の果てに）：到头来……
+structure: 動詞連体形（或名词＋の）＋あげく／あげくの果てに
+structure_pattern: V連体形 + あげく（の果てに）
+explanation_zh: 接动词连体形（或名词＋の）后，表示经过一段时间或过程，最终招致负面结果，可译为"……到最后""到头来"。「あげくの果てに」语气更强烈。本段两处出现，都用于描述事件恶化至顶点的情节。
+examples:
+- text: あげくの果てには『へへ、やわこいの～』とか言いながら触ったと。
+  reading: ''
+  annot: あげくの果[は]てには『へへ、やわこいの～』とか言[い]いながら触[さわ]ったと。
+  translation_zh: 最后竟然还一边说着"嘿嘿，好软哦～"一边摸人家。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+- text: まったくわけのわからない言いわけを並べたあげく逃走したと聞いている。
+  reading: ''
+  annot: まったくわけのわからない言[い]いわけを並[なら]べたあげく逃走[とうそう]したと聞[き]いている。
+  translation_zh: 我听说她甩出一堆莫名其妙的借口之后竟然逃跑了。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 结果表现
+- 复合句
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

@@ -1,0 +1,32 @@
+id: ko-grm-00042
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: 「-아/어야 하는데：本该……可是……」
+structure: 谓词词干 + -아/어야 하다（义务） + 连接词尾 -는데（转折）
+structure_pattern: V-아/어야 + 하다 + -는데
+explanation_zh: 由表示义务的 -아/어야 하다 加上转折连接词尾 -는데 构成，表示「本该做某事，但实际上却……」。常用于表达与现实相反的期待、义务未实现的遗憾或内心矛盾。片段中「本该羞辱她却想温暖她」正是人物立场与情感冲突的写照。
+examples:
+- text: 아즐란이라면 그녀를 조롱하고 모욕해야 하는데, 그녀에게 따뜻한 말을 건네주고 싶어졌다.
+  reading: ''
+  annot: 아즐란이라면 그녀를 조롱하고 모욕해야 하는데, 그녀에게 따뜻한 말을 건네주고 싶어졌다.
+  translation_zh: 如果是阿兹兰的话，本该嘲讽她、羞辱她，可我却变得想对她说些温暖的话。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 连接词尾
+- 义务
+- 转折
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 5
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

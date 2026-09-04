@@ -1,0 +1,40 @@
+id: ko-grm-00331
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: -아/어 놓다/두다：动作结果的存续
+structure: 动词词干 + -아/어 놓다/두다
+structure_pattern: V-아/어 + 보조용언 '놓다/두다'
+explanation_zh: 补助动词 놓다/두다 接在连接词尾 -아/어 后，表示动作完成后其结果状态被保留下来，即“……好、放着”。놓다 强调有意的安排，두다
+  语气较为中性。与 -아/어 있다 相比，更强调“做完并保持”。
+examples:
+- text: 마치 아무 일도 없었다는 것처럼 푸른 하늘을 되돌려 놓았다.
+  reading: ''
+  annot: 마치 아무 일도 없었다는 것처럼 푸른 하늘을 되돌려 놓았다.
+  translation_zh: 仿佛什么事情都没有发生过一样，把蓝天恢复了原样。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+- text: 불사신의 육체를 남겨 두고 영원히 잠들어라, 클라우 에른베스크.
+  reading: ''
+  annot: 불사신의 육체를 남겨 두고 영원히 잠들어라, 클라우 에른베스크.
+  translation_zh: 留着不死之身，永远沉睡吧，克劳·恩贝斯克。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 补助动词
+- 体貌
+- 结果存续
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

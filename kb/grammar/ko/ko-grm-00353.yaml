@@ -1,0 +1,39 @@
+id: ko-grm-00353
+language: ko
+type: grammar
+level: TOPIK2
+level_rank: 2
+title: 「-기 때문이다」：表示原因
+structure: 用言词干 + 名词化词尾 -기 + 依存名词 때문 + 이다
+structure_pattern: V-기 + 때문이다
+explanation_zh: 名词化词尾 -기 把前面的小句变成名词性成分，再经依存名词 때문 和 이다 谓述，表示原因、缘故，可用于时制词尾之后（-았/었기 때문이다）。多用于说明性叙述和辩解语气。片段连用两次，先否定、后肯定，形成对照。
+examples:
+- text: 오빠가 죽은 게 슬펐기 때문이 아니야.
+  reading: ''
+  annot: 오빠가 죽은 게 슬펐기 때문이 아니야.
+  translation_zh: 并不是因为哥哥去世而伤心。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+- text: 몇 년에 걸쳐서 주도면밀하게 준비해 온 계획이 모조리 수포로 돌아갔기 때문이지.
+  reading: ''
+  annot: 몇 년에 걸쳐서 주도면밀하게 준비해 온 계획이 모조리 수포로 돌아갔기 때문이지.
+  translation_zh: 而是因为花了好几年周密准备起来的计划全都化为泡影啊。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 原因
+- 接续
+- 名词化
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

@@ -1,0 +1,40 @@
+id: ko-grm-00046
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: 「-기 위해서：为了……」
+structure: 谓词词干 + 依存名词 기 + 依存名词 위(해서)
+structure_pattern: V-기 + 위해(서)
+explanation_zh: 依存名词 기 将动作名词化后，接 위(해서) 表示行为的目的，相当于中文的「为了……」。与 -(으)려고 相比，-기 위해서 更书面、更正式，也可作定语（-기
+  위한 + 体言）。片段中叙述与台词里均有出现。
+examples:
+- text: 레이나라는 캐릭터를 완성시키기 위해서는 목숨까지 버리는 고결함을 묘사해 내야 했다.
+  reading: ''
+  annot: 레이나라는 캐릭터를 완성시키기 위해서는 목숨까지 버리는 고결함을 묘사해 내야 했다.
+  translation_zh: 为了把蕾娜这个角色塑造完整，必须描绘出她连生命都可以舍弃的高洁。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+- text: 많은 사람들을 구원하기 위한 것이야.
+  reading: ''
+  annot: 많은 사람들을 구원하기 위한 것이야.
+  translation_zh: 那是为了拯救许多人。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 依存名词
+- 目的
+- 书面语
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

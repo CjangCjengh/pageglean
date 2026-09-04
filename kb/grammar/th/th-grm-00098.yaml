@@ -1,0 +1,31 @@
+id: th-grm-00098
+language: th
+type: grammar
+level: L3
+level_rank: 3
+title: จน：直到……、以至于……
+structure: 小句 + จน + 结果小句
+structure_pattern: clause + จน + clause
+explanation_zh: จน 连接两个小句，表示前一情况持续发展、累积到产生后面的结果，相当于中文的「直到……／以至于……」。其后的小句多为程度累积导致的结果。
+examples:
+- text: ลอย​มา​เตะจมูก​จน​กระเพาะ​จอม​เกเร​ของ​ผม​เริ่ม​ส่งเสียง​ประท้วง
+  reading: ''
+  annot: ลอย​มา​เตะจมูก​จน​กระเพาะ​จอม​เกเร​ของ​ผม​เริ่ม​ส่งเสียง​ประท้วง
+  translation_zh: （香气）飘来扑鼻，直到我那捣蛋的胃开始发出抗议声。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 结果
+- 接续
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

@@ -1,0 +1,32 @@
+id: vi-grm-00046
+language: vi
+type: grammar
+level: L2
+level_rank: 2
+title: vừa…vừa…：又……又……/一边……一边……
+structure: vừa + A + vừa + B
+structure_pattern: vừa + X + vừa + Y
+explanation_zh: “vừa…vừa…”表示两种状态或动作同时存在、同时进行，相当于中文“又……又……”或“一边……一边……”。片段中“vừa mừng
+  vừa lo”即“又高兴又担心”。可连接形容词，也可连接动词。
+examples:
+- text: Nghĩ đến hành động táo tợn của mình, tôi vừa mừng vừa lo.
+  reading: ''
+  annot: Nghĩ đến hành động táo tợn của mình, tôi vừa mừng vừa lo.
+  translation_zh: 想到自己这大胆的举动，我又高兴又担心。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 体貌
+- 并列
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

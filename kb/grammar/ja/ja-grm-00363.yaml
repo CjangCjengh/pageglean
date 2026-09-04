@@ -1,0 +1,39 @@
+id: ja-grm-00363
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 〜てしまう：完成与遗憾（口语约音 ちまう／ちゃう）
+structure: 動詞連用形＋て＋しまう（口語音便形：〜ちまう／〜ちゃう）
+structure_pattern: V-連用形 + て + しまう → (口) ちまう / ちゃう
+explanation_zh: 補助動詞「しまう」接動詞連用形（て形），表示動作完成或帶有遺憾、無可奈何的語氣。口語中常音便為「〜ちまう」（粗豪、偏男性）與「〜ちゃう」（通用）。本段兩種變體並用，是輕小說口語的典型寫法。
+examples:
+- text: いきなり見知らぬ男の体になっちまったらこうなるのもしかたないわな
+  reading: ''
+  annot: いきなり見知[みし]らぬ男[おとこ]の体[からだ]になっちまったらこうなるのもしかたないわな
+  translation_zh: 冷不丁变成了陌生男人的身体，会这样也是没办法的事嘛。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+- text: 事故で死んじゃったんだ
+  reading: ''
+  annot: 事故[じこ]で死[し]んじゃったんだ
+  translation_zh: （原来是）出事故死掉了啊。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 体貌
+- 口语
+- 音便
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 4
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

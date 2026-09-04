@@ -1,0 +1,39 @@
+id: vi-grm-00014
+language: vi
+type: grammar
+level: L3
+level_rank: 3
+title: 不屑语气：không thèm + V
+structure: không thèm + 动词（不屑于/懒得……）
+structure_pattern: không thèm + V
+explanation_zh: không thèm + 动词 表示『不屑于/懒得做某事』，带轻蔑或赌气的情绪，区别于中性的 không + V。片段中两度使用（不回答、不再央求），生动刻画人物的赌气与矜持。
+examples:
+- text: Tiểu Li không thèm trả lời.
+  reading: ''
+  annot: Tiểu Li không thèm trả lời.
+  translation_zh: 小丽懒得搭理。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+- text: Tôi buông thõng một câu và lạnh lùng bỏ đi, không thèm liếc nó một cái.
+  reading: ''
+  annot: Tôi buông thõng một câu và lạnh lùng bỏ đi, không thèm liếc nó một cái.
+  translation_zh: 我撂下一句话，冷冷地走开，连看都懒得看她一眼。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 否定
+- 语气
+- 口语
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

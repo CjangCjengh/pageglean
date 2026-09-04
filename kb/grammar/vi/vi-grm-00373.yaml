@@ -1,0 +1,38 @@
+id: vi-grm-00373
+language: vi
+type: grammar
+level: L1
+level_rank: 1
+title: 分类词 lá / con / cái：名词的量词搭配
+structure: 分类词（loại từ）+ 名词
+structure_pattern: Cl + N
+explanation_zh: 越南语名词计量或指称时通常须加分类词（loại từ），类似汉语量词但搭配严格：lá 用于扁平薄片物（lá thư“信”），con
+  用于动物（con cừu“绵羊”），cái 用于一般无生命物（cái bảng“黑板”）。分类词加名词也可单独起指称作用。
+examples:
+- text: Nó đã ném trả lá thư vô mặt mình thì mình phải biết điều mà rút lui chứ sao!
+  reading: ''
+  annot: Nó đã ném trả lá thư vô mặt mình thì mình phải biết điều mà rút lui chứ sao!
+  translation_zh: 人家都已经把信甩回我脸上了，那我当然得识趣点退出来啦！
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+- text: Tôi chỉ là con cừu ngu ngốc trong truyện của Rabelais.
+  reading: ''
+  annot: Tôi chỉ là con cừu ngu ngốc trong truyện của Rabelais.
+  translation_zh: 我只不过是拉伯雷故事里的一头蠢绵羊罢了。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 量词
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 4
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

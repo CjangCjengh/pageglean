@@ -1,0 +1,31 @@
+id: ja-grm-00521
+language: ja
+type: grammar
+level: N3
+level_rank: 3
+title: 〜以外ない：只有……、别无他法
+structure: 动词连体形 + 形式名词以外 + 形容词ない
+structure_pattern: V-辞书形 + 以外（は）ない
+explanation_zh: 动词连体形后接以外ない，表示除此之外没有别的办法，只剩……一条路，与しかない同义而语气更决绝。片段中「縋る以外ない」写主人公走投无路、只能依靠对方。句尾叠加んだよ以强调解释口吻。
+examples:
+- text: だけど、もうこの人に縋る以外ないんだよ。
+  reading: ''
+  annot: だけど、もうこの人[ひと]に縋[すが]る以外[いがい]ないんだよ。
+  translation_zh: 可是，我现在已经只能依靠这个人了啊。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 限定
+- 表达
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

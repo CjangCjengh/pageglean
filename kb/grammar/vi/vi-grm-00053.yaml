@@ -1,0 +1,32 @@
+id: vi-grm-00053
+language: vi
+type: grammar
+level: L4
+level_rank: 4
+title: 「chẳng lẽ…chăng」揣测反问
+structure: Chẳng lẽ + P + chăng?（câu nghi vấn tu từ – phỏng đoán）
+structure_pattern: chẳng lẽ + clause + chăng
+explanation_zh: 「chẳng lẽ」置于句首，相当于「难道／莫非」，与句末文言语气词「chăng」呼应，构成揣测性反问，表示说话人自己也不敢确定的猜测。属较文的书面语体。
+examples:
+- text: Chẳng lẽ cuốn sách bị rách chỗ nào, Việt An không chịu nhận chăng?
+  reading: ''
+  annot: Chẳng lẽ cuốn sách bị rách chỗ nào, Việt An không chịu nhận chăng?
+  translation_zh: 莫非书哪里被撕破了，越安不肯收下吗？
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 疑问句
+- 语气词
+- 揣测
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

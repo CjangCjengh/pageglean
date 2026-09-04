@@ -1,0 +1,32 @@
+id: ja-grm-00446
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 「〜てしまう／〜ちゃう：完了与遗憾」
+structure: 动词连用形＋てしまう（口语缩约：ちゃう）
+structure_pattern: V-連用形 + 接続助詞「て」 + 補助動詞「しまう」（口語縮約「ちゃう」）
+explanation_zh: 补助动词「しまう」接动词连用形，表示动作彻底完成，或带有遗憾、后悔的语气。口语中「てしまう」常缩约为「ちゃう」（拨音便后作「じゃう」）。片段中「逸らしてしまった」表遗憾，「出しちゃいそう」为口语缩约形后接样态助动词「そうだ」的用法。
+examples:
+- text: なんだかそのうち、自分の命まで『はいどーぞ』って言いながら差し出しちゃいそう。
+  reading: ''
+  annot: なんだかそのうち、自分[じぶん]の命[いのち]まで『はいどーぞ』って言[い]いながら差[さ]し出[だ]しちゃいそう。
+  translation_zh: 总觉得再这样下去，哪天你连自己的命都会一边说着“给，请笑纳”一边拱手让人。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 体貌
+- 口语
+- 补助动词
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

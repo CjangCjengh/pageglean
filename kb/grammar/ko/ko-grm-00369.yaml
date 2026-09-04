@@ -1,0 +1,32 @@
+id: ko-grm-00369
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: 「-잖아요：提醒对方已知的事实」
+structure: 용언 어간 + -지 않다 → 축약 -잖아요
+structure_pattern: V/A + -잖아요 (= -지 않다)
+explanation_zh: “-지 않다”的缩略形式“-잖다”，用于提起双方都知道的事实，借此说明理由或背景。语气上常带一点提醒、轻微的责怪或确认，口语中使用频率很高。
+examples:
+- text: 그래, 그 약혼녀한테도 결국 손을 안 대셨잖아?
+  reading: ''
+  annot: 그래, 그 약혼녀한테도 결국 손을 안 대셨잖아?
+  translation_zh: 对啊，毕竟连那位未婚妻，他最终都没碰过，不是吗？
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 종결어미
+- 축약
+- 상기
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

@@ -1,0 +1,39 @@
+id: vi-grm-00287
+language: vi
+type: grammar
+level: L2
+level_rank: 2
+title: V + giùm：请对方帮忙做某事
+structure: V + giùm（+ 宾语）
+structure_pattern: V + giùm (+ O)
+explanation_zh: 「giùm」是南部口语中「giúp」的说法，置于动词之后，表示请求对方帮忙做某事，相当于“替（我）…、帮忙…”。结构为 V + giùm（+
+  宾语），语气比正式说法更随意。
+examples:
+- text: Mày gửi giùm tao đi!
+  reading: ''
+  annot: Mày gửi giùm tao đi!
+  translation_zh: 你替我寄吧！
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+- text: Tao gửi giùm, nó tưởng tao yêu nó, nó yêu lại tao thì kẹt!
+  reading: ''
+  annot: Tao gửi giùm, nó tưởng tao yêu nó, nó yêu lại tao thì kẹt!
+  translation_zh: 我要是替你寄，她会以为我爱她，她反过来爱上我就麻烦了！
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 请求/祈使
+- 南方方言
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

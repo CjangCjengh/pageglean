@@ -1,0 +1,32 @@
+id: ja-grm-00099
+language: ja
+type: grammar
+level: N3
+level_rank: 3
+title: 「〜じゃなくね」：口语缩约的反问（ではないか）（口语）
+structure: 「ではないか」的口语缩约（断定助动词「だ」的否定「じゃない」+「ないか→くね」）
+structure_pattern: N + じゃなくね（←ではないか）
+explanation_zh: 「ではないか」的口语缩约形式：「じゃない」（で+は+ない）＋「ないか→くね」，构成修辞性反问，意为“这不是……吗”。语气随便、年轻化，多用于独白或熟人之间的吐槽，是典型的轻小说口语。片段中「本人に訊く事じゃなくね」即“这不是不该问本人的事吗”。
+examples:
+- text: 話題を変えるために話してから気が付く。――本人に訊く事じゃなくね……？
+  reading: ''
+  annot: 話題[わだい]を変[か]えるために話[はな]してから気[き]が付[つ]く。――本人[ほんにん]に訊[き]く事[こと]じゃなくね……？
+  translation_zh: 为了转移话题才开了口，说完才反应过来——这话不该直接问本人的吧……？
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 口语
+- 语气
+- 修辞反问
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

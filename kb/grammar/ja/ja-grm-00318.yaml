@@ -1,0 +1,32 @@
+id: ja-grm-00318
+language: ja
+type: grammar
+level: N2
+level_rank: 4
+title: 使役受身：被弄得……／被迫……（惚れさせられた）
+structure: 動詞語幹＋使役助動詞「せる／させる」＋受身助動詞「られる」（口語で「ら」脱落あり）
+structure_pattern: V-使役形(せる/させる) + 受身助動詞(られる)
+explanation_zh: 使役助动词「せる／させる」后接受身助动词「られる」，表示“被弄得……”“被迫……”，强调当事人不由自主、不知不觉陷入某种状态。口语中「られる」的「ら」常脱落，即所谓“ら抜き”。此处「惚れさせられた」意为“（被对方）弄得不知不觉喜欢上了”。
+examples:
+- text: ――つーか。 『惚れさせられた』のは。 むしろ。 俺の方だよな……!?
+  reading: ''
+  annot: ――つーか。 『惚れさせられた』のは。 むしろ。 俺の方だよな……!?
+  translation_zh: ——话说回来。被弄得喜欢上对方的，反而是我这边吧……!?
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 助动词
+- 使役
+- 受身
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

@@ -1,0 +1,32 @@
+id: ja-grm-00190
+language: ja
+type: grammar
+level: N3
+level_rank: 3
+title: 「〜に決まっている：肯定、一定是」
+structure: 用言終止形・体言＋に決まっている
+structure_pattern: 普通形(終止形) + に決まっている
+explanation_zh: 表示说话人确信不疑的判断，“一定是……”“肯定是……”。「決まっている」是「決まる＋ている」，字面即“已经定下来了”。口语中常省去「い」说成「決まってる」，配合「でしょ」带有理所当然、不容置疑的语气。
+examples:
+- text: どこからどう見ても 『 男 』 に決まってるでしょ？
+  reading: ''
+  annot: どこからどう見[み]ても 『 男[おとこ] 』 に決[き]まってるでしょ？
+  translation_zh: 无论从哪个角度看，都肯定是男生吧？
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 语气
+- 断定
+- 口语
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

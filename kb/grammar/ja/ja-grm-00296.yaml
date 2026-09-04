@@ -1,0 +1,38 @@
+id: ja-grm-00296
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 助動詞「れる／られる」：被动・自发・可能
+structure: 五段動詞未然形＋れる／一段・サ変動詞未然形＋られる（受身・自発・可能・尊敬の四用法）
+structure_pattern: V-未然形 + れる／られる
+explanation_zh: 学校文法将「れる／られる」视为同一助動詞，具被动、自发、可能、尊敬四种用法；五段動詞接「れる」，一段・サ変動詞接「られる」。本片段「弾かれる」「呑まれた」表被动，「見られない」表自发（看不出）。中文无对等形态，需依语境分别翻译。
+examples:
+- text: イスカの剣が、金属音を立てて弾かれる。
+  reading: ''
+  annot: イスカの剣が、金属音を立てて弾かれる。
+  translation_zh: 伊斯卡的剑发出金属声响，被弹开了。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+- text: そう訴えてくる姿に、ウソや誇張を言っている様子は見られない。
+  reading: ''
+  annot: そう訴[うった]えてくる姿[すがた]に、ウソや誇張[こちょう]を言[い]っている様子[ようす]は見[み]られない。
+  translation_zh: 看她那样恳求的样子，看不出有说谎或夸张的成分。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 助動詞
+- 受身/自発
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 5
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

@@ -1,0 +1,40 @@
+id: ko-grm-00312
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: -아/어 본 적이 있다/없다：经历
+structure: 동사 어간 + -아/어 보다 + -ㄴ 적이 있다/없다
+structure_pattern: V-아/어 보다 + -ㄴ 적이 있다/없다
+explanation_zh: 补助动词'보다'表示尝试经历，后接依存名词'적'，表示'有过/没有过……的经历'，对应中文'曾经/从没……过'。文中用'단 한 번도
+  ~해 본 적이 없다'加强语气，表示'一次都不曾做过'。
+examples:
+- text: 하지만 나는 단 한 번도 마법회로를 사용해 본 적이 없다.
+  reading: ''
+  annot: 하지만 나는 단 한 번도 마법회로를 사용해 본 적이 없다.
+  translation_zh: 但我一次都未曾使用过魔法回路。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+- text: 태어나서 말을 한 번도 해 본 적이 없는 사람이 말을 배운다는 건 쉬운 일이 아니다.
+  reading: ''
+  annot: 태어나서 말을 한 번도 해 본 적이 없는 사람이 말을 배운다는 건 쉬운 일이 아니다.
+  translation_zh: 出生后从未说过话的人要学会说话，并非易事。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 경험
+- 의존명사
+- 보조용언
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

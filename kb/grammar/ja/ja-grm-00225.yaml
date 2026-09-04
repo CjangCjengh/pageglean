@@ -1,0 +1,31 @@
+id: ja-grm-00225
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 〜てある：人为结果的状态存续
+structure: 他动词连用形 + 接续助词「て」+ 补助动词「ある」
+structure_pattern: 他V-連用形 + て + ある
+explanation_zh: 他动词连用形＋接续助词「て」＋补助动词「ある」，表示某人有意图地做完某事后，其结果状态仍在持续。与单纯表状态的「ている」不同，「てある」强调人为准备的目的性。此处指为防备“搜查”而事先藏好、维持着该状态。
+examples:
+- text: 利便性を捨て、完璧[かんぺき]な隠し場所にしまってある……！
+  reading: ''
+  annot: ''
+  translation_zh: （我）舍弃了取用的便利，已经收在完美的藏匿地点……！
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 体貌
+- 补助动词
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

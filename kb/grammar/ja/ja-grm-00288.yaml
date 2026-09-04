@@ -1,0 +1,31 @@
+id: ja-grm-00288
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 〜合う：相互动作
+structure: 动词连用形 + 合う（相互复合动词）
+structure_pattern: V連用形 + 動詞「合う」（相互の複合動詞）
+explanation_zh: 动词连用形后接「合う」构成复合动词，表示相互做某事，即“互相……”“彼此……”。如「向け合う」意为“互相指向”。本段「構えあう」「向け合う」均属此用法。
+examples:
+- text: 全く同じ構えで剣を向け合う俺達。
+  reading: ''
+  annot: 全[まった]く同[おな]じ構[かま]えで剣[けん]を向[む]け合[あ]う俺[おれ]達[たち]。
+  translation_zh: 我们以完全相同的架势将剑指向彼此。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 复合动词
+- 相互
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 0
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

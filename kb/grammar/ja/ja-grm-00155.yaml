@@ -1,0 +1,31 @@
+id: ja-grm-00155
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 「〜んで」「〜んだが」：口语的原因与委婉开场
+structure: 「ので／のだ」の口語形：終止形＋ん（＝の）＋で／だが
+structure_pattern: 終止形 + んで(=ので) / んだが(=のだが)
+explanation_zh: 「ん」是形式名词「の」的口语音便：「〜んで」相当于表示原因的「〜ので」，语气比「から」更柔和随意；「〜んだが」则以解释说明的口吻开场，并用接续助词「が」委婉留白、引出请求。两者都是会话高频的口语形式，本句连用构成『先说明原因、再客气提出请求』的地道搭话模式。
+examples:
+- text: 事情がサッパリ分からないんで、説明頼みたいんだが？
+  reading: ''
+  annot: 事情[じじょう]がサッパリ分[わ]からないんで、説明[せつめい]頼[たの]みたいんだが？
+  translation_zh: 我完全搞不清状况，能麻烦你说明一下吗？
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 口语
+- 接续
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 4
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

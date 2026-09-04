@@ -1,0 +1,40 @@
+id: vi-grm-00009
+language: vi
+type: grammar
+level: L3
+level_rank: 3
+title: 人称与称谓：anh-em 与 tao-mày 的语体转换
+structure: 人称代词（đại từ xưng hô）借亲属称谓指代双方：anh-em（哥-妹，礼貌）、tao-mày（我-你，亲昵或粗率）、nó（他/她）
+structure_pattern: anh-em | tao-mày | nó
+explanation_zh: 越南语的人称代词（đại từ xưng hô）没有统一形式，须按双方年龄、性别、亲疏选用亲属称谓。礼貌或初识用 anh（哥/你）-em（妹/我），熟稔后可转用
+  tao（我）-mày（你），后者亲昵但较粗率。片段中两人从 anh-em 转为 tao-mày，正体现关系由生疏变亲密。
+examples:
+- text: Mày cho tao chơi chung với nghen?
+  reading: ''
+  annot: Mày cho tao chơi chung với nghen?
+  translation_zh: 让我跟你一块儿玩，好吗？
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+- text: Anh làm em sợ hết hồn!
+  reading: ''
+  annot: Anh làm em sợ hết hồn!
+  translation_zh: 哥哥你吓死我了！
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 称谓
+- 人称代词
+- 语用
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 5
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

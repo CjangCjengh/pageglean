@@ -1,0 +1,31 @@
+id: ja-grm-00426
+language: ja
+type: grammar
+level: N2
+level_rank: 4
+title: まくる：过度地做某事
+structure: 动词连用形 ＋ まくる
+structure_pattern: V連用形 + 複合動詞「まくる」
+explanation_zh: 「〜まくる」是接在动词连用形后的复合动词，表示动作被反复、过度地进行，带有『过头、不像话』的语感。文中两次出现：『ナンパしまくって』与『磨きがかかりまくっている』，均强调程度之甚。可译为『拼命地……／……得不得了』。
+examples:
+- text: 女の子をナンパしまくって何をするつもりだったのか訊ねてみると
+  reading: ''
+  annot: 女[おんな]の子[こ]をナンパしまくって何[なに]をするつもりだったのか訊[たず]ねてみると
+  translation_zh: 顺便问了一下到处搭讪女孩子究竟是想干什么，
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 複合動詞
+- 程度
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

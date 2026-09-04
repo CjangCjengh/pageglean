@@ -1,0 +1,39 @@
+id: ko-grm-00588
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: -는구나：感叹与醒悟
+structure: 용언 + 감탄형 종결어미 -구나（형용사-구나 / 동사-는구나 / 과거-았/었구나）
+structure_pattern: A-구나 / V-는구나 / V-았/었구나
+explanation_zh: '''-구나''是感叹型终结词尾，表示说话人新近意识到某事而发出的感叹：形容词接-구나，动词接-는구나，过去时接-았/었구나。文中反复用于"恍然领悟"的瞬间。属平语（해체），用于自语或亲密对象。'
+examples:
+- text: 아, 실수하면 정말 안 되는 거구나, 하고.
+  reading: ''
+  annot: 아, 실수하면 정말 안 되는 거구나, 하고.
+  translation_zh: （那孩子心想：）啊，原来真的千万不能出错。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+- text: 내가 못해 본 것들이 이렇게나 많았구나, 하는 생각을 했어.
+  reading: ''
+  annot: 내가 못해 본 것들이 이렇게나 많았구나, 하는 생각을 했어.
+  translation_zh: 我不禁想：原来没能尝试过的事情竟然有这么多。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 感叹
+- 终结词尾
+- 领悟
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

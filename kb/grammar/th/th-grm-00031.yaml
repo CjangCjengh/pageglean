@@ -1,0 +1,31 @@
+id: th-grm-00031
+language: th
+type: grammar
+level: L3
+level_rank: 3
+title: ถ้าหาก…ล่ะก็：如果……的话
+structure: ถ้าหาก + 条件从句 + ล่ะก็，结果句
+structure_pattern: ถ้าหาก + Clause + ล่ะก็ + Clause
+explanation_zh: 「ถ้าหาก……ล่ะก็」引导假设条件从句（ประโยคเงื่อนไข），相当于“如果……的话”。ถ้าหาก比ถ้า稍正式，ล่ะも加强假设语气，多用于口语。本例与แล้ว搭配，表达与事实相反的假设。
+examples:
+- text: ถ้าหาก​ผม​ไม่​นั่ง​ฟุ้งซ่าน​อยู่​แบบนั้น​ล่ะก็ เสร็จ​ตั้งแต่​ก่อน​ห้า​โมง​เย็น​แล้ว
+  reading: ''
+  annot: ถ้าหาก​ผม​ไม่​นั่ง​ฟุ้งซ่าน​อยู่​แบบนั้น​ล่ะก็ เสร็จ​ตั้งแต่​ก่อน​ห้า​โมง​เย็น​แล้ว
+  translation_zh: 要是我当时没有那样坐着胡思乱想的话，早在下午五点之前就做完了。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 条件
+- 接续
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 4
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

@@ -1,0 +1,38 @@
+id: ja-grm-00428
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: ておく／とく：事先处置与口语约音
+structure: 动词连用形 ＋ ておく（口语约音：〜とく）
+structure_pattern: V連用形 + て + 補助動詞「おく」（口語約音：とく）
+explanation_zh: 「〜ておく」由动词连用形＋接续助词「て」＋补助动词「おく」构成，表示事先做好某事或暂且采取某种处置。口语中常约音为「〜とく」：『いっとけ＝言っておけ』『見といて＝見ておいて』。文中完整形与约音形同时出现，可对照掌握。
+examples:
+- text: とりあえず『硬派でいっとけ』と書いておいたら
+  reading: ''
+  annot: とりあえず『硬派[こうは]でいっとけ』と書[か]いておいたら
+  translation_zh: 我姑且回了一句『先走硬汉路线吧』，结果……
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+- text: あんなエロエロ動画見といて硬派とか
+  reading: ''
+  annot: あんなエロエロ動画[どうが]見[み]といて硬派[こうは]とか
+  translation_zh: 『看了那种色色的视频还说什么硬派……』
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 体貌
+- 口語約音
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

@@ -1,0 +1,39 @@
+id: ko-grm-00347
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: 「-아/어 놓다·두다：预备与状态存续」
+structure: 动词 + -아/어 놓다 / -아/어 두다（补助用言）
+structure_pattern: V-아/어 놓다; V-아/어 두다
+explanation_zh: '''놓다/두다''作补助用言接在''-아/어''后，表示动作预先完成、其结果状态持续存在，强调''事先准备好''或''放着不管''。''놓다''侧重有目的地安排好，''두다''侧重搁置、留存。''해
+  놓았다''即''早已布置妥当''。'
+examples:
+- text: 소설에서 아즐란은 클라우가 죽기 전부터 치밀한 공작을 하여, 그녀가 죽으면 바로 자신에게 권력이 이양되도록 해 놓았다.
+  reading: ''
+  annot: 소설에서 아즐란은 클라우가 죽기 전부터 치밀한 공작을 하여, 그녀가 죽으면 바로 자신에게 권력이 이양되도록 해 놓았다.
+  translation_zh: 在小说里，阿兹兰从克劳死之前就进行周密的谋划，安排好了以便她一死权力就立刻移交给自己。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+- text: 클라우 에른베스크를 왜 살려 둔 건가요?
+  reading: ''
+  annot: 클라우 에른베스크를 왜 살려 둔 건가요?
+  translation_zh: 为什么要留着克劳·恩贝斯克的性命呢？
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 补助用言
+- 体貌
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

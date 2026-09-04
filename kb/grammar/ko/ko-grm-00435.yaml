@@ -1,0 +1,39 @@
+id: ko-grm-00435
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: 「-아/어 버리다：完成与不情愿」
+structure: 用言 + 보조적 연결어미 ‘-아/어’ + 보조용언 ‘버리다’
+structure_pattern: V/A-아/어 + 버리다
+explanation_zh: 学校文法中的보조용언（补助动词）结构：本用言经补助连接词尾‘-아/어’连接보조용언‘버리다’，表示动作彻底完成，或带来意外、为难、遗憾的心情。相当于中文“（……）掉了”“竟然……完了”。片段分别接在‘확신하다’与‘헛기침이
+  나다’后，传达“已经如此、无可奈何”的语感。
+examples:
+- text: 이미 많은 것을 혼자 상상하고, 추측하고, 예상하고, 재생산하여 확신해 버린 눈빛이다.
+  reading: ''
+  annot: 이미 많은 것을 혼자 상상하고, 추측하고, 예상하고, 재생산하여 확신해 버린 눈빛이다.
+  translation_zh: 那眼神已经独自想象、推测、预判并加以脑补，最终深信不疑了。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+- text: 딱히 양심에 찔릴 만한 일을 한 건 아니지만, 어쩐지 헛기침이 나와 버렸다.
+  reading: ''
+  annot: 딱히 양심에 찔릴 만한 일을 한 건 아니지만, 어쩐지 헛기침이 나와 버렸다.
+  translation_zh: 虽说并没做什么愧对良心的事，却不知为何还是咳了一声干嗽。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 补助动词
+- 体貌/语气
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

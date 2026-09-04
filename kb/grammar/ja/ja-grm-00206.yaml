@@ -1,0 +1,31 @@
+id: ja-grm-00206
+language: ja
+type: grammar
+level: N3
+level_rank: 3
+title: 〜まま：保持原状·任凭
+structure: 連体形・体言 ＋ 形式名詞「まま」
+structure_pattern: V-連体形 + まま / N + (の) + まま
+explanation_zh: 形式名詞「まま」表示维持原有状态不变，或顺着某种情势行动。「促されるまま」即“任由别人催促着（照做）”，「無言・無表情のまま」即“保持着沉默、面无表情的样子”。中文可译为“保持……”“任凭……”。
+examples:
+- text: 俺は無言・無表情のまま、リアだけを見つめる。
+  reading: ''
+  annot: 俺[おれ]は無言[むごん]・無表情[むひょうじょう]のまま、リアだけを見[み]つめる。
+  translation_zh: 我保持着沉默、面无表情，只是注视着莉亚。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 形式名詞
+- 状态
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

@@ -1,0 +1,38 @@
+id: ja-grm-00339
+language: ja
+type: grammar
+level: N3
+level_rank: 3
+title: 终助词「かな」：自问与委婉推测（口语）
+structure: 终止形 + 终助词「かな」
+structure_pattern: 終止形 + かな
+explanation_zh: 终助词「かな」接文句终止形，表示自问、不确定的推测或轻微的愿望，语气柔和、避免断言。片段中既用于独白式推测「心配する必要はないかな」，也用于引用内心疑问「これでいいのかな？」。口语中常拉长写作「かなー」，是轻小说高频语气表达。
+examples:
+- text: 現状はそう心配する必要はないかな
+  reading: ''
+  annot: 現状はそう心配する必要はないかな
+  translation_zh: 目前来看，应该还不至于那么让人担心吧。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+- text: 『この台詞でいいのかな？』といった様子で
+  reading: ''
+  annot: 『この台詞でいいのかな？』といった様子で
+  translation_zh: 带着一副“这句台词这样行吗？”的样子。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 句末语气
+- 口语
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

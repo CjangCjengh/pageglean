@@ -1,0 +1,39 @@
+id: ko-grm-00282
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: -기로 하다：决定做某事
+structure: V-기로 하다（명사형 전성 어미 ‘-기’ + 조사 ‘로’ + ‘하다’）
+structure_pattern: V-기로 하다
+explanation_zh: 名词化词尾‘-기’加助词‘로’再接‘하다’，表示经过考虑后作出决定，即“决定做某事”。与表示打算的‘-(으)려고 하다’相比，‘-기로
+  하다’强调决定已经作出。日常对话常用‘~기로 했어’。
+examples:
+- text: 그래서 다른 것을 얼리기로 했어.
+  reading: ''
+  annot: 그래서 다른 것을 얼리기로 했어.
+  translation_zh: 所以我决定冻别的东西。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+- text: 그 갈등은 잠시 미뤄 두고 결국엔 브룬을 슬쩍 떠보기로 했다.
+  reading: ''
+  annot: 그 갈등은 잠시 미뤄 두고 결국엔 브룬을 슬쩍 떠보기로 했다.
+  translation_zh: 我把这份纠结暂时搁到一边，最终还是决定悄悄试探一下布룬。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 决定
+- 意志表达
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

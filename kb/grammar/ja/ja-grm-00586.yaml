@@ -1,0 +1,31 @@
+id: ja-grm-00586
+language: ja
+type: grammar
+level: N2
+level_rank: 4
+title: 〜さえ〜ば：只要……就……
+structure: 体言＋副助词「さえ」（举出极端条件）＋用言否定条件「なければ」
+structure_pattern: N + さえ + V(未然形) + なければ
+explanation_zh: 副助词「さえ」举出唯一的关键条件，与后续的条件表达呼应，构成“只要……就……”。句中「さえ」取代了宾格助词「を」，凸显“时机”是唯一要点。全句意为“只要时机不错，计划就能成功”。
+examples:
+- text: タイミングさえ間違えなければうまくいくだろう。
+  reading: ''
+  annot: タイミングさえ間違[まちが]えなければうまくいくだろう。
+  translation_zh: 只要时机不出错，应该就能顺利吧。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 条件
+- 强调
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

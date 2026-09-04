@@ -1,0 +1,39 @@
+id: vi-grm-00277
+language: vi
+type: grammar
+level: L2
+level_rank: 2
+title: đừng (có) + V：禁止祈使
+structure: đừng + V／đừng có + V
+structure_pattern: đừng (có) + V
+explanation_zh: đừng 加动词表示祈使性的禁止，相当于「别、不要」。口语中常说 đừng có + 动词，语气更重，带有「别给我……」的意味，如「đừng
+  có trù ẻo tao」。
+examples:
+- text: Mày đừng có trù ẻo tao!
+  reading: ''
+  annot: Mày đừng có trù ẻo tao!
+  translation_zh: 你别咒我（乌鸦嘴）！
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+- text: Mày đừng lo!
+  reading: ''
+  annot: Mày đừng lo!
+  translation_zh: 你别担心！
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 祈使
+- 语气
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

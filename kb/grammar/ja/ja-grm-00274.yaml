@@ -1,0 +1,31 @@
+id: ja-grm-00274
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 〜てしまう：补助动词表无意的完成与遗憾
+structure: 动词连用形＋接续助词「て」＋补助动词「しまう」
+structure_pattern: V-連用形 + て + しまう(補助動詞)
+explanation_zh: 接续助词「て」后接补助动词「しまう」，表示动作完成，或无意中做出了令人遗憾、无可奈何之事。此处「思わず素で返してしまった」指不知不觉就用本性（真实的口吻）回了话。口语中常约音为「〜ちゃう」。
+examples:
+- text: 紅音のペースに巻き込まれ、現状を忘れて思わず素で返してしまったイスカ。
+  reading: ''
+  annot: 紅音[あかね]のペースに巻[ま]き込[こ]まれ、現状[げんじょう]を忘[わす]れて思[おも]わず素[す]で返[かえ]してしまったイスカ。
+  translation_zh: 被红音的节奏带跑、忘了现状而不由得用真实口吻回了话的伊丝卡。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 体貌
+- 补助动词
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

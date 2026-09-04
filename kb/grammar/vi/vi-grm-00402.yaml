@@ -1,0 +1,32 @@
+id: vi-grm-00402
+language: vi
+type: grammar
+level: L2
+level_rank: 2
+title: 「vừa…vừa…」：两个动作同时进行
+structure: vừa + V1 + vừa + V2
+structure_pattern: vừa + V + vừa + V (quan hệ từ đồng thời)
+explanation_zh: vừa…vừa… 是学校语法中表示并列同时性的关联结构（quan hệ từ），连接两个同时进行的动作或状态，相当于中文“一边…一边…”。片段中“vừa
+  đáp vừa cười”意为“边回答边笑”。两个动词短语共享同一主语，描述并行动作。
+examples:
+- text: Tiểu Li vừa đáp vừa cười.
+  reading: ''
+  annot: Tiểu Li vừa đáp vừa cười.
+  translation_zh: 小丽一边回答一边笑。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 接续
+- 并列
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

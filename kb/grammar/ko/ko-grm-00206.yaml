@@ -1,0 +1,39 @@
+id: ko-grm-00206
+language: ko
+type: grammar
+level: TOPIK5
+level_rank: 5
+title: 「-(느)ㄴ다든가：列举代表性情况」
+structure: 动词词干 + -(느)ㄴ다든가 / -든가
+structure_pattern: V- + -(느)ㄴ다든가; V- + -든가
+explanation_zh: 连接词尾，列举若干代表性情况以暗示“诸如……之类”，相当于中文“……啦，……啦”。动词现在时用 -(느)ㄴ다든가；片段后半还出现其选择列举变体
+  '-든가'（내가 죽든가, 네가 죽든가），表示“要么……要么……”。
+examples:
+- text: 다른 부하들을 데리고 나를 습격한다든가, 아예 군대를 움직여 내 미궁으로 쳐들어온다든가.
+  reading: ''
+  annot: 다른 부하들을 데리고 나를 습격한다든가, 아예 군대를 움직여 내 미궁으로 쳐들어온다든가.
+  translation_zh: 比如带着其他部下来袭击我，或者干脆出动军队攻进我的迷宫之类的。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+- text: 그래. 내가 죽든가, 네가 죽든가.
+  reading: ''
+  annot: 그래. 내가 죽든가, 네가 죽든가.
+  translation_zh: 对。要么我死，要么你死。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 连接词尾
+- 列举
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 40
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

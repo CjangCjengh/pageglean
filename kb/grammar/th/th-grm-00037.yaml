@@ -1,0 +1,31 @@
+id: th-grm-00037
+language: th
+type: grammar
+level: L2
+level_rank: 2
+title: จะ…ดีไหม：要不要做某事
+structure: จะ + 动词 + ดีไหม（自问或商量是否该做某事）
+structure_pattern: จะ + V + ดีไหม
+explanation_zh: 「จะ」是表示意愿或将来的助动词（泰国学校文法称 คำกริยาช่วย）。「จะ+动词+ดีไหม」用来商量或自问“做……好吗、要不要……”。片段中主角犹豫要不要打电话，正是这种左右为难的用法。
+examples:
+- text: จะ​โทร​ไป​ดี​ไหม...
+  reading: ''
+  annot: จะ​โทร​ไป​ดี​ไหม...
+  translation_zh: 打个电话过去好吗……
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 语气
+- 疑问
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

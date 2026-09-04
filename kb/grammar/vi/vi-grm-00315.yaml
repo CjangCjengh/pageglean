@@ -1,0 +1,33 @@
+id: vi-grm-00315
+language: vi
+type: grammar
+level: L5
+level_rank: 5
+title: Cho mày hết…nè！：惩罚性口语句式
+structure: Cho + 人 + hết + V + nè
+structure_pattern: '''cho'' + đại từ + ''hết'' + động từ + tình thái từ ''nè''（câu
+  cảm thán）'
+explanation_zh: 这是惩罚对方时边打边骂的口语句式：「cho」带「叫、让」意味，「hết＋V」表示「让…不再发生」，整体可译为「让你再～！」。「nè」是句末语气词，加强宣泄语气。文中两句连用，语气粗野，仅见于口语打闹场合，学习者了解即可，不宜模仿使用。
+examples:
+- text: Cho mày hết nói bậy nè! Cho mày hết mất dạy nè!
+  reading: ''
+  annot: Cho mày hết nói bậy nè! Cho mày hết mất dạy nè!
+  translation_zh: 让你再胡说八道！让你再没教养！
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 口语
+- 感叹句
+- 语气词
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

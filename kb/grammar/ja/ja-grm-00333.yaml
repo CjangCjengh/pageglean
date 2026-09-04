@@ -1,0 +1,39 @@
+id: ja-grm-00333
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 「〜てしまう／ちゃう」：完成与遗憾
+structure: 动词连用形 + 接续助词「て」+ 补助动词「しまう」（口语缩约形「〜ちゃう」）
+structure_pattern: V-連用形 + て + しまう / 〜ちゃう
+explanation_zh: 补助动词「しまう」接续助词「て」后，表示动作彻底完成或出现不如意、遗憾的结果。口语中「てしまう」缩约为「ちゃう」，如「変えてしまった」→「換えちゃった」。轻小说作者后记等口语性文本中缩约形高频出现，值得掌握。
+examples:
+- text: 服装の設定等も丸投げしてしまったのに、素晴らしいイラストを描き上げてくださった
+  reading: ''
+  annot: 服装の設定等も丸投げしてしまったのに、素晴らしいイラストを描き上げてくださった
+  translation_zh: 明明连服装等设定都全权丢给了对方不管，（画师）却还是画出了那么棒的插画。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+- text: ヒロイン一人の性別換えちゃったのが
+  reading: ''
+  annot: ヒロイン一人の性別換えちゃったのが
+  translation_zh: （把其中一位女主角的性别给换了——）
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 复合动词
+- 体貌
+- 口语
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

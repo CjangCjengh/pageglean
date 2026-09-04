@@ -1,0 +1,32 @@
+id: ja-grm-00280
+language: ja
+type: grammar
+level: N5
+level_rank: 1
+title: 引用助词「って」：口语中的引用与体言化
+structure: 引用文 ＋ って ＋ 言う／名詞
+structure_pattern: 引用 + って + 言う/名詞
+explanation_zh: 「って」是口语中的引用助词，功能相当于书面语的「と」，可与动词「言う」搭配引用话语。它还能把动词短语体言化后直接修饰名词，如「『連れてこい』って指令」。轻小说对话中高频出现，是口语引用的标志。
+examples:
+- text: 今回の『リアを連れてこい』って指令、なんで受けたの？
+  reading: ''
+  annot: 今回[こんかい]の『リアを連[つ]れてこい』って指令[しれい]、なんで受[う]けたの？
+  translation_zh: 这次那个「把莉亚带来」的指令，你为什么要接受？
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 助詞
+- 引用
+- 口語
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 5
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

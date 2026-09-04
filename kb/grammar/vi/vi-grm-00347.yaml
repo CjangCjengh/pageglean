@@ -1,0 +1,31 @@
+id: vi-grm-00347
+language: vi
+type: grammar
+level: L4
+level_rank: 4
+title: 「không còn cách nào khác hơn là」：别无选择，只能……
+structure: không còn cách nào khác hơn là + V
+structure_pattern: không còn cách nào khác hơn là + V
+explanation_zh: 表示无奈情境下唯一的选择，即“没有别的办法，只能……”。其中「hơn」为比较标记，字面义为“没有比……更好的办法”。常用于描写被迫采取某举动。
+examples:
+- text: tôi không còn cách nào khác hơn là nằm bẹp xuống sàn xe
+  reading: ''
+  annot: tôi không còn cách nào khác hơn là nằm bẹp xuống sàn xe
+  translation_zh: 我别无他法，只能趴平在车地板上。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 比较
+- 句式
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

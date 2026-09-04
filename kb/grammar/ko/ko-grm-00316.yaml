@@ -1,0 +1,33 @@
+id: ko-grm-00316
+language: ko
+type: grammar
+level: TOPIK5
+level_rank: 5
+title: -ㄴ 채로：保持某种状态
+structure: 동사 어간 + -ㄴ 채 + 로
+structure_pattern: V-ㄴ 채로
+explanation_zh: 冠词形词尾'-ㄴ'加依存名词'채'，再续助词'로'，表示保持某种状态做某事或持续处于该状态，相当于'……着、保持着……的状态'。文中'쓰러진
+  채로'意为'保持着倒地的状态'。
+examples:
+- text: 하지만 바닥에 쓰러진 채로 조금도 움직이지 못했다.
+  reading: ''
+  annot: 하지만 바닥에 쓰러진 채로 조금도 움직이지 못했다.
+  translation_zh: 但他保持着倒在地板上的姿势，一动也动不了。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 상태
+- 의존명사
+- 관형형 전성어미
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

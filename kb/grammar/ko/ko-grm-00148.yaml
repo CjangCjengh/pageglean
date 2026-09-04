@@ -1,0 +1,39 @@
+id: ko-grm-00148
+language: ko
+type: grammar
+level: TOPIK2
+level_rank: 2
+title: 敬语阶位：합쇼체 与 해요체 的切换
+structure: 尊敬阶终结词尾：-ㅂ니다/습니다（平叙）·-읍시다（共动）；非格式尊敬阶：-아/어요
+structure_pattern: '종결어미: 합쇼체(-ㅂ니다/-읍시다) vs. 해요체(-아/어요)'
+explanation_zh: 합쇼체 是格式尊敬阶，해요체 是非格式尊敬阶。少女平时对哥哥用格式体，情急撒娇时换成 해요체，语域切换细腻传达情绪变化，中文需靠语气体会。
+examples:
+- text: 이제 충분합니다, 오라버니. 산을 내려가서 다섯 명의 여제후들을 때려잡읍시다.
+  reading: ''
+  annot: 이제 충분합니다, 오라버니. 산을 내려가서 다섯 명의 여제후들을 때려잡읍시다.
+  translation_zh: 已经足够了，哥哥。咱们下山去把那五个女诸侯痛打一顿吧。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+- text: 오라버니! 이제 그만 산에서 내려가요! 그 정도면 됐다고요!
+  reading: ''
+  annot: 오라버니! 이제 그만 산에서 내려가요! 그 정도면 됐다고요!
+  translation_zh: 哥哥！差不多得了，快下山吧！那样就已经够了！
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 敬语
+- 阶位
+- 终结词尾
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 8
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

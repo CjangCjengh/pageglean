@@ -1,0 +1,32 @@
+id: ko-grm-00547
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: 「看来……」：推测表达 -나 보다
+structure: 의문형 어미 '-나 / -(으)ㄴ가' + '보다'（보조적 표현, 표정이나 정황을 근거로 추측）
+structure_pattern: V-나 보다 / A-(으)ㄴ가 보다 / -았/었나 보다
+explanation_zh: -나 보다 由疑问形词尾 -나/-(으)ㄴ가 加 보다 构成，表示依据眼前情状作出推测，相当于“看来、好像”。动词用 -나 보다，形容词用
+  -(으)ㄴ가 보다，过去时用 -았/었나 보다。文中商贩看到对方带着幸运硬币，推测“平时一定做了不少好事”。
+examples:
+- text: 행운의 동전을 갖고 있다니, 너무 부러워요! 평소에 좋은 일을 많이 하셨나 봐!
+  reading: ''
+  annot: 행운의 동전을 갖고 있다니, 너무 부러워요! 평소에 좋은 일을 많이 하셨나 봐!
+  translation_zh: 竟然有幸运硬币，真让人羡慕！看来您平时一定做了很多好事！
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 推测
+- 样态
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

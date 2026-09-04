@@ -1,0 +1,31 @@
+id: ko-grm-00365
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: 「-아/어 두다：事先做好并保持」
+structure: 본용언 어간 + -아/어 + 보조동사 두다
+structure_pattern: V + -아/어 두다
+explanation_zh: 补助动词“두다”表示提前做完某动作并让结果保留下来，类似“先……好”。口语中可用“-아/어 놓다”替换。“말해 두다”意为“事先说清楚”，在对话中很常见。
+examples:
+- text: 말해 두지만, 당신을 사랑해서 이런 행동을 취하는 건 아닙니다.
+  reading: ''
+  annot: 말해 두지만, 당신을 사랑해서 이런 행동을 취하는 건 아닙니다.
+  translation_zh: 先说清楚，我这么做并不是因为爱你。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 보조동사
+- 상
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

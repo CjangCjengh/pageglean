@@ -1,0 +1,34 @@
+id: ko-grm-00068
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: 「-기 때문이다：原因说明」
+structure: 用言 + 名词化词尾 -기 + 때문이다（可构成 -는 것은 … -기 때문이다 强调句式）
+structure_pattern: A/V-기 때문이다
+explanation_zh: 名词化词尾「-기」将前句名词化，后接「때문이다」表示原因，相当于“因为……”。书面语常以「-는 것은 …-기 때문이다」的强调句式出现，先抛出结果再解释原因。片段中还叠加推测词尾，说成「-기
+  때문일 것이다」（大概是因为……）。
+examples:
+- text: 그럼에도 불구하고 그녀의 모습에서 무시할 수 없는 존재감이 느껴지는 것은, 그녀의 움직임 하나하나가 조금의 흐트러짐도 없이 절도가 있었기
+    때문일 것이다.
+  reading: ''
+  annot: 그럼에도 불구하고 그녀의 모습에서 무시할 수 없는 존재감이 느껴지는 것은, 그녀의 움직임 하나하나가 조금의 흐트러짐도 없이 절도가
+    있었기 때문일 것이다.
+  translation_zh: 尽管如此，仍能从她身上感到一股不可小觑的存在感，这大概是因为她的一举一动都一丝不苟、毫无紊乱。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 原因
+- 名词化
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

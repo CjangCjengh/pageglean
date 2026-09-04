@@ -1,0 +1,38 @@
+id: ja-grm-00152
+language: ja
+type: grammar
+level: N2
+level_rank: 4
+title: 「〜以上」：既然……就……
+structure: 動詞連体形（多用〜た形）＋形式名詞「以上」
+structure_pattern: V-た + 以上
+explanation_zh: 形式名词「以上」接在动词连体形之后，表示以前项既成事实为前提推出应有的结论，相当于『既然……就……』，语气比「から」更强，后项多为判断、义务或决心。文中以『伊丝卡动弹不得』为前提，推断它不会再反抗。注意它与表示数量程度『超出』的「以上」（如文中「聞いていた以上だった」）同形异义。
+examples:
+- text: イスカが動けない以上、暴れる気はないらしい。
+  reading: ''
+  annot: イスカが動[うご]けない以上[いじょう]、暴[あば]れる気[き]はないらしい。
+  translation_zh: 既然伊丝卡动弹不得，它似乎也没有要闹腾的意思。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+- text: こうして話が出てしまった以上、訊くしかないわけで……
+  reading: ''
+  annot: こうして話[はなし]が出[で]てしまった以上[いじょう]、訊[き]くしかないわけで……
+  translation_zh: 话既然都说到这份上了，也就只能开口问了……
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 接续
+- 语气
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

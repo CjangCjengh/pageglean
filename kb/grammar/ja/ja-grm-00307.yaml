@@ -1,0 +1,31 @@
+id: ja-grm-00307
+language: ja
+type: grammar
+level: N2
+level_rank: 4
+title: 〜としよう：设定一个假设前提
+structure: 終止形 + 格助詞「と」+ 「する」未然形 + 意志の助動詞「よう」
+structure_pattern: 終止形 + と + する未然形 + よう
+explanation_zh: 引用助词「と」加「する」的意志形「しよう」，用于主动设定一个假设前提，常与「仮に」「もし」呼应。多用于推理、说服时的思想实验，带有书面语感。
+examples:
+- text: 仮に、和希がイスカと同じ状況だったとしよう。
+  reading: ''
+  annot: 仮[かり]に、和希がイスカと同[おな]じ状況[じょうきょう]だったとしよう。
+  translation_zh: 假如，假设和希处在和伊斯卡相同的境况。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 语气
+- 书面语
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

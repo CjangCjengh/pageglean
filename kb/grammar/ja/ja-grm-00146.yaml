@@ -1,0 +1,31 @@
+id: ja-grm-00146
+language: ja
+type: grammar
+level: N3
+level_rank: 3
+title: 「〜わけではない」：并非……（形式名词わけ的部分否定）
+structure: 終止形＋形式名詞「わけ」＋ではない（部分否定）
+structure_pattern: 終止形 + わけではない
+explanation_zh: 形式名词「わけ」表示道理、缘由，「〜わけではない」字面是“并非有那样的道理”，用于部分否定或纠正误解，比直接否定更委婉。片段中「〜わけではないらしい」再叠加表推测的助動詞「らしい」。口语里常说成「〜ってわけじゃない」。
+examples:
+- text: 入って来ようとしている……わけではないらしい。
+  reading: ''
+  annot: 入[はい]って来[こ]ようとしている……わけではないらしい。
+  translation_zh: 它像是要进来……又似乎并不是那么回事。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 形式名詞
+- 否定
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 0
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

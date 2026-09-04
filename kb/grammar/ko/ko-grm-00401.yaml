@@ -1,0 +1,40 @@
+id: ko-grm-00401
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: -(으)ㄴ/는 탓에：消极归因「都怪……」
+structure: 谓词 + 冠词形转成词尾'-(으)ㄴ/는' + 依存名词'탓' + 副词格助词'에'
+structure_pattern: V/A + -(으)ㄴ/는 탓에
+explanation_zh: '''탓''是依存名词，专指导致坏结果的原因，''-(으)ㄴ/는 탓에''相当于「都怪……／由于……（才）」，只用于消极语境。片段中两次出现（전개한
+  탓에、그 탓에），是叙述不幸缘由的高频表达。'
+examples:
+- text: 갑작스럽게 전개한 탓에 방어벽의 크기를 정확히 지정하지 못해
+  reading: ''
+  annot: 갑작스럽게 전개한 탓에 방어벽의 크기를 정확히 지정하지 못해
+  translation_zh: 由于仓促展开（防御魔法），没能准确指定防御壁的大小，
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+- text: 그 탓에 햇빛이 가려 방 안이 어두워진 것이다.
+  reading: ''
+  annot: 그 탓에 햇빛이 가려 방 안이 어두워진 것이다.
+  translation_zh: 正因如此，阳光被遮挡，房间里才暗了下来。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 因果
+- 依存名词
+- 消极语义
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

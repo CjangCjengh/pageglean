@@ -1,0 +1,38 @@
+id: ja-grm-00466
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 〜てしまう：完成与遗憾（动词连用形＋て＋补助动词）
+structure: 动词连用形＋接续助词「て」＋补助动词「しまう」
+structure_pattern: V連用形 + て + しまう
+explanation_zh: 学校文法视作动词连用形＋接续助词「て」＋补助动词「しまう」，表示动作完成或带有不巧、遗憾的语气。文中「気づいてしまった」传达不情愿却察觉到的懊恼；「のぞけてしまう」则接可能助动词，表示会不小心窥见到。口语中常缩约成「〜ちゃう／〜じゃう」。
+examples:
+- text: 俺は気づいてしまった。
+  reading: ''
+  annot: 俺[おれ]は気[き]づいてしまった。
+  translation_zh: 我（竟然）察觉到了。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+- text: プライベートをのぞけてしまうわけで。
+  reading: ''
+  annot: プライベートをのぞけてしまうわけで。
+  translation_zh: 也就是说就会不小心窥见人家的隐私。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 体貌
+- 语气
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

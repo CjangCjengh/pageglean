@@ -1,0 +1,39 @@
+id: ja-grm-00448
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 「〜のだ／〜んだ：解释说明与强调语气」
+structure: 用言终止形／体言・ナ形容词词干＋だ＋のだ（口语：んだ）
+structure_pattern: V終止形・体言/ナ語幹+だ + 形式名詞「の」 + 助動詞「だ」（口語「んだ」）
+explanation_zh: 「のだ（口语作「んだ」）」用于解释原因、说明情况或加强断定语气。体言与ナ形容词须先接助动词「だ」再加「のだ」；疑问形「〜んだ？」带有追问口吻，比「〜か」更随意。它是本片段对话与独白口语的基调语气。
+examples:
+- text: くそ、なんなんだよ。なんでそんな微妙な顔してんだよ。
+  reading: ''
+  annot: くそ、なんなんだよ。なんでそんな微妙[びみょう]な顔[かお]してんだよ。
+  translation_zh: 可恶，到底是怎么回事啊。干嘛摆出那么微妙的表情啊。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+- text: 忘れろ！ 忘れるんだ俺！
+  reading: ''
+  annot: 忘[わす]れろ！ 忘[わす]れるんだ俺[おれ]！
+  translation_zh: 忘掉！忘掉吧，我自己！
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 语气
+- 口语
+- 形式名词
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 6
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

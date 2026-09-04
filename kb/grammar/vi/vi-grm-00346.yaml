@@ -1,0 +1,31 @@
+id: vi-grm-00346
+language: vi
+type: grammar
+level: L3
+level_rank: 3
+title: 「trước khi… kịp V」：在……来得及之前
+structure: trước khi + S + kịp + V（趁……还没来得及……）
+structure_pattern: trước khi + S + kịp + V
+explanation_zh: 「trước khi」表“在……之前”；「kịp」意为“来得及、赶得上”。两者连用强调抢在对方来得及做某事之前行动，带紧迫感。
+examples:
+- text: giấu mình sau cánh cửa gió trước khi Việt An kịp nhìn thấy
+  reading: ''
+  annot: giấu mình sau cánh cửa gió trước khi Việt An kịp nhìn thấy
+  translation_zh: 赶在越安来得及看见之前，我把自己藏到通风门后面。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 时间
+- 副词
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

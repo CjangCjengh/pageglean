@@ -1,0 +1,39 @@
+id: ko-grm-00286
+language: ko
+type: grammar
+level: TOPIK2
+level_rank: 2
+title: 「-면서」：连接词尾表同时动作
+structure: 用言词干 + 连接词尾 -면서
+structure_pattern: V-면서(연결어미)
+explanation_zh: 连接词尾 -면서 表示两个动作同时进行，相当于『一边…一边…』，前后主语须一致。片段中多处描写人物边做某事边做另一事，是叙事中刻画动作的高频连接词尾。
+examples:
+- text: 클라우가 나른하다는 듯이 하품을 하면서 천천히 걸어 나왔다.
+  reading: ''
+  annot: 클라우가 나른하다는 듯이 하품을 하면서 천천히 걸어 나왔다.
+  translation_zh: 克劳一副慵懒的样子，一边打着哈欠一边慢慢走了出来。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+- text: 발버둥 치면서 클라우의 손을 뿌리치려 했지만 마법사인 마이시아의 힘으로는 클라우를 뿌리칠 수 없었다.
+  reading: ''
+  annot: 발버둥 치면서 클라우의 손을 뿌리치려 했지만 마법사인 마이시아의 힘으로는 클라우를 뿌리칠 수 없었다.
+  translation_zh: 她一边拼命挣扎一边想甩开克劳的手，但凭魔法师米希亚的力量无法甩开他。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 连接词尾
+- 同时动作
+- 接续
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 6
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

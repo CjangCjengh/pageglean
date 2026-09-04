@@ -1,0 +1,39 @@
+id: ja-grm-00417
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 口语助词「って」：引用与提示主题
+structure: 引用内容＋って＋动词（＝格助词「と」）；名词・小句＋って（＝提示助词「は」）
+structure_pattern: 引用節 + って + V / N・節 + って
+explanation_zh: 「って」是引用助词「と」的口语形式，后接说话、行为类动词；也可代替提示助词「は」提示话题。属会话体用法，正式书面语不用。片段中的网络引文与对话大量使用这两种用法。
+examples:
+- text: 【で、出た～！ 不良の本性がバレてクラスメートから白い目で見られてる奴～】ってスレ立ててやったぜ！
+  reading: ''
+  annot: 【で、出[で]た～！ 不良[ふりょう]の本性[ほんしょう]がバレてクラスメートから白[しろ]い目[め]で見[み]られてる奴[やつ]～】ってスレ立[た]ててやったぜ！
+  translation_zh: 我发了个帖子，标题就叫【出来啦！不良本性败露、被同学翻白眼的家伙～】！
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+- text: 不良って生きてるだけでゴミだよねー
+  reading: ''
+  annot: 不良[ふりょう]って生[い]きてるだけでゴミだよねー
+  translation_zh: 不良这种家伙，光是活着就是垃圾嘛——
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 助词
+- 引用
+- 口语
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 8
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

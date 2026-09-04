@@ -1,0 +1,32 @@
+id: ja-grm-00330
+language: ja
+type: grammar
+level: N2
+level_rank: 4
+title: AはおろかBすら〜ない：别说A，连B都不
+structure: 名A＋はおろか＋名B＋すら／も＋〜ない
+structure_pattern: 名A + はおろか + 名B + すら/も + ない
+explanation_zh: 「AはおろかBも／すら〜ない」表示“别说A了，连更进一步、程度更极端的B都不……”，通过举出极端项来强调全面否定。「すら」是提示助词“连、甚至”，与否定呼应使用，语义比「も」更强烈。近义表达还有「〜どころか」「さえ」。
+examples:
+- text: その知らせがもっと早くに届いていれば、勝敗はおろか、戦う必要すらなかったわけで。
+  reading: ''
+  annot: その知[し]らせがもっと早[はや]くに届[とど]いていれば、勝敗[しょうはい]はおろか、戦[たたか]う必要[ひつよう]すらなかったわけで。
+  translation_zh: 要是那个消息能更早传达的话，胜负自不必说，连战斗的必要都没有。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 助词
+- 强调
+- 否定
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

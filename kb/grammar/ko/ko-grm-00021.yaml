@@ -1,0 +1,31 @@
+id: ko-grm-00021
+language: ko
+type: grammar
+level: TOPIK5
+level_rank: 5
+title: -(으)ㄴ 척하다：假装……
+structure: 形容词 + -(으)ㄴ 척하다；动词 + -는 척하다
+structure_pattern: A + -(으)ㄴ / V + -는 + 척 + 하다 (의존명사 척)
+explanation_zh: 依存名词 척 表示『装作、假装的样子』，与 -하다 搭配构成『假装……』。形容词接 -(으)ㄴ 척，动词接 -는 척。片段中主人公为掩饰心虚而『故作镇定』，是典型的心理描写场景。
+examples:
+- text: 나는 애써 태연한 척하며 루시에게 물었다.
+  reading: ''
+  annot: 나는 애써 태연한 척하며 루시에게 물었다.
+  translation_zh: 我竭力装作若无其事的样子，向露西问道。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 의존명사
+- 심리
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

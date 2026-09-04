@@ -1,0 +1,33 @@
+id: ko-grm-00606
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: 「-고 말다：终究还是……了」
+structure: 动词词干 + 连接词尾 -고 + 补助动词 말다
+structure_pattern: V-고 + 말다
+explanation_zh: 补助动词 말다 接在连接词尾 -고 之后，表示某事最终发生并告终，多带遗憾、无可奈何的语气，强调“终究还是落到这一步”。与 -아/어
+  버리다 相比更突出“最终还是……”的结果感。
+examples:
+- text: 어떻게든 감추고 숨기고 자신은 아니라며 부정만 하는 요나의 태도에, 결국 나는 화가 치밀어 오르고 말았다.
+  reading: ''
+  annot: 어떻게든 감추고 숨기고 자신은 아니라며 부정만 하는 요나의 태도에, 결국 나는 화가 치밀어 오르고 말았다.
+  translation_zh: 面对约娜想方设法遮掩、一口否认说与自己无关的态度，我的怒火终究还是涌了上来。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 补助动词
+- 体貌
+- 语气
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

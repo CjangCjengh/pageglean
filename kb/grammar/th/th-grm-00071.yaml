@@ -1,0 +1,31 @@
+id: th-grm-00071
+language: th
+type: grammar
+level: L3
+level_rank: 3
+title: ทั้งที่：让步「明明～却……」
+structure: ประโยคหลัก + คำสันธาน ทั้งที่ + ประโยครอง
+structure_pattern: VP1 + ทั้งที่ + VP2
+explanation_zh: ทั้งที่ 是连接从句的连词，把已然的事实作为让步背景提出，意为「明明～却……」，表示主句情况与该条件相悖。与中文「虽然……但是……」相比，更强调意外、遗憾的语气。
+examples:
+- text: พระเอก​กับ​นางเอก​ต้อง​จากกัน​ไป​ทั้งที่​เพิ่ง​คบกัน​ได้​ไม่นาน
+  reading: ''
+  annot: พระเอก​กับ​นางเอก​ต้อง​จากกัน​ไป​ทั้งที่​เพิ่ง​คบกัน​ได้​ไม่นาน
+  translation_zh: 男主角和女主角不得不分开，明明才刚交往没多久。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 让步
+- 复句
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

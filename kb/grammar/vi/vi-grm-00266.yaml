@@ -1,0 +1,39 @@
+id: vi-grm-00266
+language: vi
+type: grammar
+level: L2
+level_rank: 2
+title: bị：遭受义被动句
+structure: 主语 + bị + 动词/名词（被动句 câu bị động，多表不如意）
+structure_pattern: S + bị + V/N
+explanation_zh: 「bị」构成被动/遭受句，主语是动作的承受者，且多指不如意的事：bị đuổi học（被开除）、bị phạt（被罚）、bị té（摔倒）、bị
+  sốt（发烧）。它与表“获得、受益”的「được」相对，是越南语被动句（câu bị động）的两大标记之一。本片段高频出现，值得重点掌握。
+examples:
+- text: Nó bị đập đầu vô cạnh bàn.
+  reading: ''
+  annot: Nó bị đập đầu vô cạnh bàn.
+  translation_zh: 她一头撞在了桌角上。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+- text: Em bảo là em bị té.
+  reading: ''
+  annot: Em bảo là em bị té.
+  translation_zh: 我就说是自己摔的。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 被动
+- 遭受
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 6
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

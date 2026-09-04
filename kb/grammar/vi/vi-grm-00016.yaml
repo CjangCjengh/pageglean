@@ -1,0 +1,39 @@
+id: vi-grm-00016
+language: vi
+type: grammar
+level: L2
+level_rank: 2
+title: 叠音词（từ láy）：摹状与弱化
+structure: 叠音构词：A → AA，增添『有点儿、微微』的口语色彩
+structure_pattern: 'từ láy: AA (quê quê, hay hay)'
+explanation_zh: 叠音词（từ láy）是越南语极富特色的构词法，通过重叠音节来摹状或弱化语气，如 quê quê（有点尴尬）、hay hay（挺好玩）。重叠后常带『有点儿、微微』的意味，比单用更生动、更口语化。
+examples:
+- text: Tiểu Li làm tôi hơi quê quê.
+  reading: ''
+  annot: Tiểu Li làm tôi hơi quê quê.
+  translation_zh: 小丽让我有点不好意思。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+- text: Khi nào mày có trò gì hay hay, nhớ rủ tao chơi với nghen!
+  reading: ''
+  annot: Khi nào mày có trò gì hay hay, nhớ rủ tao chơi với nghen!
+  translation_zh: 你什么时候有什么好玩的游戏，记得叫上我一起玩啊！
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 构词法
+- 重叠
+- 口语
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 4
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

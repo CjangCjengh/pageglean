@@ -1,0 +1,32 @@
+id: ko-grm-00656
+language: ko
+type: grammar
+level: TOPIK5
+level_rank: 5
+title: -기 무섭다：刚一……马上……
+structure: 动词 + 名词化词尾 -기 + 形容词 무섭다（补助连接结构）
+structure_pattern: V-기 + 무섭다
+explanation_zh: 由名词化词尾“-기”与形容词“무섭다”结合而成的惯用型（补助连接结构），表示前项刚结束、后项几乎同时发生，强调间隔短得“令人害怕”。相当于“刚一……马上……”，多用于叙述性文体，语感比-자更紧迫生动。
+examples:
+- text: 명령이 떨어지기 무섭게 고통에 찬 비명을 내지르며 나를 향해 내달렸다.
+  reading: ''
+  annot: 명령이 떨어지기 무섭게 고통에 찬 비명을 내지르며 나를 향해 내달렸다.
+  translation_zh: 命令刚一落下，她便发出充满痛苦的惨叫，朝我疾冲过来。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 连接词尾
+- 时间
+- 书面语
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

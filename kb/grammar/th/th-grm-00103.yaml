@@ -1,0 +1,32 @@
+id: th-grm-00103
+language: th
+type: grammar
+level: L1
+level_rank: 1
+title: ลอง…ดู：试着……看
+structure: คำกริยาช่วย「ลอง」+ คำกริยา +「ดู」（尝试义）+ คำท้ายประโยค「สิ」「คะ」
+structure_pattern: ลอง + V + ดู (+ สิ + คะ)
+explanation_zh: 「ลอง」作前置助动词、「ดู」紧跟动词后，构成「试着做……看」的尝试体。句末「สิ」表示劝诱、催促，「คะ」是女性使用的礼貌助词。整句是请对方尝试时的典型说法。
+examples:
+- text: ลอง​ทาน​ดู​สิคะ
+  reading: ''
+  annot: ลอง​ทาน​ดู​สิคะ
+  translation_zh: 尝一尝看吧。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 体貌
+- 句末助词
+- 劝诱
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

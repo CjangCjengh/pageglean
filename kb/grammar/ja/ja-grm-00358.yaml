@@ -1,0 +1,38 @@
+id: ja-grm-00358
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 〜てやる：为（晚辈等）做某事
+structure: 動詞連用形＋接続助詞「て」＋補助動詞「やる」
+structure_pattern: V-連用形(て) + やる
+explanation_zh: 授受表现之一，接动词连用形，表示说话人为他人（多为晚辈、动植物或关系亲近者）做某事。语感比「てあげる」随便、粗豪，男性多用。例文中用于哥哥嘱托守护妹妹，体现亲昵的口吻。
+examples:
+- text: 妹を守ってやってくれ。命よりも大切な妹なんだ。
+  reading: ''
+  annot: 妹[いもうと]を守[まも]ってやってくれ。命[いのち]よりも大切[たいせつ]な妹[いもうと]なんだ。
+  translation_zh: 替我守护好妹妹。她是比我的命还重要的妹妹。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+- text: 〝おまえの寿命の半分で、彼女をたすけてやろうか〟
+  reading: ''
+  annot: 〝おまえの寿命[じゅみょう]の半分[はんぶん]で、彼女[かのじょ]をたすけてやろうか〟
+  translation_zh: “用你一半的寿命，要不要我救救她呢？”
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 授受表现
+- 补助动词
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

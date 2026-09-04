@@ -1,0 +1,39 @@
+id: ko-grm-00007
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: 「-아/어 오다」：一直……过来
+structure: 동사 어간 + -아/어 오다 (보조동사)
+structure_pattern: V-아/어 오다
+explanation_zh: 补助动词，表示某动作或状态从过去一直持续到现在，相当于中文「一直……过来」。片段中「욕을 먹어 왔다」表示「一直以来都在挨骂」，强调动作的延续性。
+examples:
+- text: 그리고 그렇게 캐릭터를 죽일 때마다 나는 욕을 먹어 왔다.
+  reading: ''
+  annot: 그리고 그렇게 캐릭터를 죽일 때마다 나는 욕을 먹어 왔다.
+  translation_zh: 而且，每次那样写死角色，我一直都在挨（读者的）骂。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+- text: 고대부터 존재해 온 괴기스러운 악마들 ‘에픽 어보미네이션’!
+  reading: ''
+  annot: 고대부터 존재해 온 괴기스러운 악마들 ‘에픽 어보미네이션’!
+  translation_zh: 自远古起便一直存在的诡异恶魔——“史诗级憎恶”！
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 补助动词
+- 体貌
+- 持续
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

@@ -1,0 +1,33 @@
+id: ko-grm-00494
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: -고 말다：事与愿违，最终还是……
+structure: 动词词干 + 连接词尾 -고 + 보조동사 '말다'
+structure_pattern: V + -고 말다
+explanation_zh: 보조동사 말다 用于 -고 之后，表示虽然不希望或不曾预料，某结果最终还是发生了，常含无奈、惋惜的语气，近似“终究还是……了”。句中“울음을
+  터뜨리고 마는”即“到底还是哭了出来”。强调形态可用 -고야 말다。
+examples:
+- text: 기어코 울음을 터뜨리고 마는 이 맹한 아가씨를 향하여, 나는 분노와 쪽팔림이 뒤섞인 목소리로 버럭 소리를 내질렀다.
+  reading: ''
+  annot: 기어코 울음을 터뜨리고 마는 이 맹한 아가씨를 향하여, 나는 분노와 쪽팔림이 뒤섞인 목소리로 버럭 소리를 내질렀다.
+  translation_zh: 冲着这位终究还是哇地哭出来的迷糊大小姐，我带着愤怒与难堪交织的声音怒吼道。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 补助动词
+- 体貌
+- 语气
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 4
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

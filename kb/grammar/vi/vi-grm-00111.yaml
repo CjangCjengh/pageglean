@@ -1,0 +1,32 @@
+id: vi-grm-00111
+language: vi
+type: grammar
+level: L3
+level_rank: 3
+title: V + nổi：可能补语'…得了'
+structure: （chẳng thể nào）+ V + nổi + 宾语
+structure_pattern: V + nổi；chẳng thể nào V nổi
+explanation_zh: nổi 是置于动词之后的情态虚词，表示'有能力做到、承受得了'，相当于汉语的'…得了/…得动'；否定时说 V không nổi 或用
+  chẳng thể nào V nổi，表示'怎么也…不了'。片段中 dùng 它强调问题太大、无力解答。
+examples:
+- text: tôi cũng chẳng thể nào giải đáp nổi một vấn đề "tầm cỡ" như vậy
+  reading: ''
+  annot: tôi cũng chẳng thể nào giải đáp nổi một vấn đề "tầm cỡ" như vậy
+  translation_zh: 我也根本解答不了这样一个'有分量'的问题
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 情态
+- 虚词
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 0
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

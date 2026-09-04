@@ -1,0 +1,40 @@
+id: ko-grm-00244
+language: ko
+type: grammar
+level: TOPIK2
+level_rank: 2
+title: 관형사형 전성어미 -(으)ㄴ/-는/-(으)ㄹ：名词的时态修饰
+structure: 용언 + 관형사형 전성어미 (과거 -(으)ㄴ / 현재 -는 / 미래 -(으)ㄹ) + 체언
+structure_pattern: (V/A)-(으)ㄴ/-는/-(으)ㄹ + N
+explanation_zh: 관형사형 전성어미接在용언后，使其修饰后面的체언（名词），相当于中文的「的」。过去用 -(으)ㄴ，动词现在时用 -는，将来用 -(으)ㄹ。本段中「쓰러지는
+  보스」（现在）与「쓰러질 잔챙이」（将来）连用，通过形态差异体现时态对照。
+examples:
+- text: 클라우 에른베스크는 1권에서 쓰러지는 첫 번째 보스다.
+  reading: ''
+  annot: 클라우 에른베스크는 1권에서 쓰러지는 첫 번째 보스다.
+  translation_zh: 克劳斯·恩贝斯克是在第1卷中被打倒的第一个BOSS。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+- text: 7천 명 전부, 네임드 캐릭터 앞에서 순식간에 쓰러질 잔챙이에 불과하다.
+  reading: ''
+  annot: 7천 명 전부, 네임드 캐릭터 앞에서 순식간에 쓰러질 잔챙이에 불과하다.
+  translation_zh: 全部七千人，不过是有名角色面前瞬间就会被击倒的小喽啰而已。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 句法
+- 连体修饰
+- 时制
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 15
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

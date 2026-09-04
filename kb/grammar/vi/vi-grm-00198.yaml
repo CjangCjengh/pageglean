@@ -1,0 +1,38 @@
+id: vi-grm-00198
+language: vi
+type: grammar
+level: L2
+level_rank: 2
+title: 句末语气词 đi / nghen：催促与请求
+structure: V + đi! / V + nghen!
+structure_pattern: V + đi / V + nghen
+explanation_zh: 句末语气词 đi 用于祈使、催促句，使命令语气变得柔和，相当于中文的“吧”。nghen 是南方口语语气词，相当于 nhé，用于征询对方同意或叮嘱，语气亲切。两者在口语对话中都极常用。
+examples:
+- text: Thôi, anh vào mua vé đi!
+  reading: ''
+  annot: Thôi, anh vào mua vé đi!
+  translation_zh: 好了，你进去买票吧！
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+- text: Anh nhớ mua bốn vé nghen!
+  reading: ''
+  annot: Anh nhớ mua bốn vé nghen!
+  translation_zh: 你记得买四张票哦！
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 语气
+- 虚词
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

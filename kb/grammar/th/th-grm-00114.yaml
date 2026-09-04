@@ -1,0 +1,31 @@
+id: th-grm-00114
+language: th
+type: grammar
+level: L1
+level_rank: 1
+title: หรือเปล่า：是非疑问句
+structure: ภาคแสดง + หรือเปล่า (+ คำลงท้าย คะ/ค่ะ)
+structure_pattern: VP + หรือไม่ + (คะ|ค่ะ)?
+explanation_zh: 「หรือเปล่า」置于陈述句之后构成是非问句，相当于汉语的“……吗”，口语中比「หรือไม่」更常用。句末可叠加礼貌助词คะ/ค่ะ，问句末尾用คะ、陈述句末尾用ค่ะ。回答时对句中谓词作肯定或否定即可。
+examples:
+- text: คุณ​ชา​เป็น​อะไร​หรือ​เปล่า​คะ?
+  reading: ''
+  annot: คุณ​ชา​เป็น​อะไ
+  translation_zh: 沙先生，您没事吧？
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 疑问
+- 语气
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

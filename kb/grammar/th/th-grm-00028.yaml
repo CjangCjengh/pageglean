@@ -1,0 +1,31 @@
+id: th-grm-00028
+language: th
+type: grammar
+level: L3
+level_rank: 3
+title: ถูก＋动词：被动句
+structure: 受事主语 + ถูก + 动词（+ 施事）
+structure_pattern: NP(受事) + ถูก + V
+explanation_zh: 「ถูก + 动词」构成被动句，主语是动作的承受者，即传统文法所说的กรรมวาจก（被动语态）。ถูก 字句多用于不如意或非企盼的事情，此处指邮件“被发送来”。近义词โดน构成的被动更口语化。
+examples:
+- text: อีเมล​ฉบับ​หนึ่ง​ที่​ถูก​ส่ง​มา​เมื่อวาน​ตอนเย็น​อยู่​ใน​กล่อง​จดหมาย​ที่​ยัง​ไม่ได้​เปิด​อ่าน
+  reading: ''
+  annot: อีเมล​ฉบับ​หนึ่ง​ที่​ถูก​ส่ง​มา​เมื่อวาน​ตอนเย็น​อยู่​ใน​กล่อง​จดหมาย​ที่​ยัง​ไม่ได้​เปิด​อ่าน
+  translation_zh: 一封昨天傍晚被发送来的邮件，躺在还没有打开阅读的收件箱里。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 被动
+- 语态
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 4
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

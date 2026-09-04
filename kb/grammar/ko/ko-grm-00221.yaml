@@ -1,0 +1,39 @@
+id: ko-grm-00221
+language: ko
+type: grammar
+level: TOPIK2
+level_rank: 2
+title: -(으)ㄹ 수 있다/없다：能力与可能
+structure: 용언 '-(으)ㄹ' + 의존명사 '수' + '있다/없다'
+structure_pattern: V/A-(으)ㄹ + 수 + 있다/없다
+explanation_zh: 用言加定语形词尾-(으)ㄹ修饰依存名词수，再以있다/없다作谓语，表示能力或可能性。있으면表可能，없으면表不可能。对应中文的“能/可以……”或“不能……”。
+examples:
+- text: 틸프보다 강하다는 건, 적어도 근접전에서는 우리들 중 누구도 이길 수 없다는 의미다.
+  reading: ''
+  annot: 틸프보다 강하다는 건, 적어도 근접전에서는 우리들 중 누구도 이길 수 없다는 의미다.
+  translation_zh: 比蒂尔普更强，这意味着至少在近身战中我们之中谁也赢不了。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+- text: 웬만한 공격으로는 그녀를 쓰러뜨릴 수 없어.
+  reading: ''
+  annot: 웬만한 공격으로는 그녀를 쓰러뜨릴 수 없어.
+  translation_zh: 凭一般的攻击是打不倒她的。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 依存名词
+- 可能/能力
+- 定语形
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

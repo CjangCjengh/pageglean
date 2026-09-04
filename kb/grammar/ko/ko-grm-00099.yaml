@@ -1,0 +1,40 @@
+id: ko-grm-00099
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: -(으)ㄴ/는 것이 아니다：否定并对举更正
+structure: 用言词干 + 冠形词形转成词尾 -(으)ㄴ/는 + 依存名词 것 + 否定叙述 아니다
+structure_pattern: V/A-(으)ㄴ/는 것이 아니다 (= -ㄴ/는 게 아니다)
+explanation_zh: 冠形词形转成词尾加依存名词 것 再接否定叙述 아니다，用以否定前项并引出真正的后项，形成对照。口语中 것이 缩略为 게，作 -ㄴ/는
+  게 아니다。典型用于纠正对方误解的对话场面，片段中反复出现。
+examples:
+- text: 너는 자진해서 지하 묘지에 은거한 게 아니라, 500년 전 너를 토벌하려고 했던 성기사와 성녀에게 여기에 봉인당한 거야.
+  reading: ''
+  annot: 너는 자진해서 지하 묘지에 은거한 게 아니라, 500년 전 너를 토벌하려고 했던 성기사와 성녀에게 여기에 봉인당한 거야.
+  translation_zh: 你并非自愿隐居于地下墓穴，而是被五百年前前来讨伐你的圣骑士与圣女封印在此的。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+- text: 9개의 시련은 후계자의 자격이 있는지 테스트하기 위한 것이 아니야.
+  reading: ''
+  annot: 9개의 시련은 후계자의 자격이 있는지 테스트하기 위한 것이 아니야.
+  translation_zh: 九项试炼并不是为了测试继承者有没有资格。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 否定
+- 对照
+- 依存名词
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

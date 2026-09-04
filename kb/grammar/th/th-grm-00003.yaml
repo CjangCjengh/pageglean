@@ -1,0 +1,31 @@
+id: th-grm-00003
+language: th
+type: grammar
+level: L2
+level_rank: 2
+title: ก่อน(ที่)…จะ…：在做某事之前
+structure: ก่อนที่ + ประธาน + จะ + กริยา (บุพบทเชื่อมความบอกเวลา + คำช่วยกริยาบอกอนาคต)
+structure_pattern: ก่อนที่ + S + จะ + V
+explanation_zh: ก่อนที่引导时间状语从句，表示主句动作发生在从句动作之前，从句动词前用助动词จะ表示将然。口语中ที่常省略，直接说“ก่อนจะ…”。片段末尾连用两个“ก่อน(ที่)จะ…”，描写ญาดา一连串先后动作。
+examples:
+- text: ญาดา​ยิ้ม​อย่าง​พึงพอใจ​ก่อน​ที่​จะ​พูดต่อ
+  reading: ''
+  annot: ญาดา​ยิ้ม​อย่าง​พึงพอ
+  translation_zh: ญาดา满意地笑了笑，然后继续说话。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 时间从句
+- 助动词
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

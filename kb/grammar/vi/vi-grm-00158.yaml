@@ -1,0 +1,31 @@
+id: vi-grm-00158
+language: vi
+type: grammar
+level: L4
+level_rank: 4
+title: thử V coi：试着……看看
+structure: thử + V + coi（xem）
+structure_pattern: thử + V + coi
+explanation_zh: 「thử＋动词＋coi」是口语祈使结构，意为“试着……看看”，劝对方尝试或换位体验。「coi」是南方话的“看”，相当于北方话的「xem」。
+examples:
+- text: Mày thử ở trong trường hợp tao coi!
+  reading: ''
+  annot: Mày thử ở trong trường hợp tao coi!
+  translation_zh: 你试着换成我的处境看看！（你设身处地为我想想！）
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 祈使
+- 口语
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

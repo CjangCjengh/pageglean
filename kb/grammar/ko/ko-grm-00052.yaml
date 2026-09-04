@@ -1,0 +1,40 @@
+id: ko-grm-00052
+language: ko
+type: grammar
+level: TOPIK2
+level_rank: 2
+title: 「-아/어 주다」：为（对方）做……、请……
+structure: 动词词干 + -아/어 주다
+structure_pattern: V-아/어 + 주다
+explanation_zh: 보조적 연결어미 -아/어 后接보조동사 주다，表示动作为他人带来恩惠。向对方提出请求时用 -아/어 주다（敬语 -아/어 주세요），片段中主人对下属使用半语
+  -아/어 줘，体现阶位差异。中文可译为“帮忙……、给（我）……”。
+examples:
+- text: 루시, 저택 안에 적당한 방을 마련해 주고, 최대한 편의를 봐줘.
+  reading: ''
+  annot: 루시, 저택 안에 적당한 방을 마련해 주고, 최대한 편의를 봐줘.
+  translation_zh: 露西，在宅子里准备一间合适的房间，并尽量给她行个方便。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+- text: 정치적인 이유도 있으니까, 좀 이해해 줘.
+  reading: ''
+  annot: 정치적인 이유도 있으니까, 좀 이해해 줘.
+  translation_zh: 因为也有政治上的原因，你就理解一下吧。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 补助动词
+- 授受
+- 请求
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 7
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

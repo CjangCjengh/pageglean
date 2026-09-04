@@ -1,0 +1,40 @@
+id: ko-grm-00627
+language: ko
+type: grammar
+level: TOPIK2
+level_rank: 2
+title: -아/어 보다：尝试做某事
+structure: 动词词干 + -아/어 + 보다（补助动词）；让步式 -아/어 봐야
+structure_pattern: V-아/어 + 보다 (보조 동사)
+explanation_zh: 动词词干后接连接词尾 -아/어 再接补助动词 보다，表示“尝试做某事”，口语中常缩为 봐。后接 -야（봐야）构成让步，即“即使试着……也……”，常与
+  소용없다 呼应。相当于中文的“试试看”。
+examples:
+- text: 나를 이런 밧줄이나 허술해 빠진 지하 창고에 가둬 봐야 소용없다는 것 정도는 알고 있었을 거라고 생각한다.
+  reading: ''
+  annot: 나를 이런 밧줄이나 허술해 빠진 지하 창고에 가둬 봐야 소용없다는 것 정도는 알고 있었을 거라고 생각한다.
+  translation_zh: 我认为他至少应该明白，把我用这种绳子捆住或是关在破破烂烂的地下仓库里也是没用的。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+- text: 직접 확인해 보고 싶은 게 있어.
+  reading: ''
+  annot: 직접 확인해 보고 싶은 게 있어.
+  translation_zh: 我有想亲自确认一下的事情。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 补助动词
+- 尝试
+- 接续
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 4
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

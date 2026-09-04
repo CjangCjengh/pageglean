@@ -1,0 +1,33 @@
+id: ko-grm-00572
+language: ko
+type: grammar
+level: TOPIK6
+level_rank: 6
+title: 「-ㄴ단/는단 말인가」：困惑与难以置信的反问
+structure: -는다는 말인가 的缩略形
+structure_pattern: A/V-는다는 말인가 → -ㄴ단/는단 말인가
+explanation_zh: 由间接引用'-는다는 말인가'缩略而来，以反问表达困惑、难以置信或不服，并非真正求答。动词现在时用'-는단 말인가'，形容词用'-ㄴ단
+  말인가'，过去时用'-았/었단 말인가'。文中'염려한단 말인가'即'염려한다는 말인가'，情绪强烈，是内心独白的典型句尾。
+examples:
+- text: 그런 그녀가, 대체 뭐라고 이 큰 도시의 완벽함이 깨지는 것을 염려한단 말인가.
+  reading: ''
+  annot: 그런 그녀가, 대체 뭐라고 이 큰 도시의 완벽함이 깨지는 것을 염려한단 말인가.
+  translation_zh: 那样的她，究竟凭什么，竟担忧起这座大城市完美的崩塌？
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 终结词尾
+- 修辞性疑问
+- 语气
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

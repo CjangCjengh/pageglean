@@ -1,0 +1,39 @@
+id: ko-grm-00348
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: 「连接词尾 -자：前后紧接」
+structure: 动词 + -자（连接词尾）
+structure_pattern: V-자
+explanation_zh: '''-자''是连接词尾，表示前一事件刚发生，后一事件随即出现，相当于''一……就……''。只能接在动词后，且不能再加过去时制先语末词尾。片段中''대꾸하자''''대답하지
+  않자''都用于紧凑衔接前后两个动作。'
+examples:
+- text: 내가 대꾸하자, 세레나데는 나를 지그시 쳐다보며 물었다.
+  reading: ''
+  annot: 내가 대꾸하자, 세레나데는 나를 지그시 쳐다보며 물었다.
+  translation_zh: 我一回话，塞蕾娜德就定定地望着我问道。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+- text: 내가 대답하지 않자 그녀는 다시금 물었다.
+  reading: ''
+  annot: 내가 대답하지 않자 그녀는 다시금 물었다.
+  translation_zh: 见我不回答，她又再问了一遍。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 连接词尾
+- 接续
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

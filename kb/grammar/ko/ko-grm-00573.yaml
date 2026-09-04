@@ -1,0 +1,33 @@
+id: ko-grm-00573
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: 「-았/었으면 좋겠다」：希望……就好了
+structure: 动词过去形 + -(으)면 좋겠다
+structure_pattern: V-았/었으면 + 좋겠다
+explanation_zh: 表示对尚未实现之事的愿望，相当于中文的'希望……'。'좋겠다'中的先词尾'-겠-'弱化断言、使语气委婉。正式礼貌场合换用'-았/었으면
+  좋겠습니다'，文中人物即以此敬语阶位向对方提出请求。
+examples:
+- text: 마왕 씨. 저는 당신들이 빨리 이 도시를 떠났으면 좋겠습니다.
+  reading: ''
+  annot: 마왕 씨. 저는 당신들이 빨리 이 도시를 떠났으면 좋겠습니다.
+  translation_zh: 魔王大人，我希望你们尽快离开这座城市。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 表现
+- 敬语
+- 愿望
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

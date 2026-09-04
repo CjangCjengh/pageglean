@@ -1,0 +1,33 @@
+id: ko-grm-00544
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: -라도/-이라도：退而求其次的选择
+structure: 체언 + 보조사 '-라도/이라도'（有收音后接 -이라도）
+structure_pattern: N-라도/이라도
+explanation_zh: 补助词 라도/이라도 表示在不够理想或不满意的情况下姑且选择此项，含“哪怕……也好”“……也行”之意。例句指“哪怕只打听到节日的小建议也好”。与表示选择的
+  -라도 呼应，口语中极常用。
+examples:
+- text: 저는 그러면 요나 씨를 만나서 축제에 대한 팁이라도 알아 오겠습니다!
+  reading: ''
+  annot: 저는 그러면 요나 씨를 만나서 축제에 대한 팁이라도 알아 오겠습니다!
+  translation_zh: 那我去找约娜小姐，哪怕打听点关于节日的建议也好！
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 助词
+- 选择
+- 语气
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

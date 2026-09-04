@@ -1,0 +1,38 @@
+id: ja-grm-00514
+language: ja
+type: grammar
+level: N3
+level_rank: 3
+title: 复合动词：〜こむ・〜ぬく・〜放つ
+structure: 前项动词连用形 + 后项动词作接尾（こむ・ぬく・放つ・詰める等）
+structure_pattern: V-连用形 + こむ／ぬく／はなつ
+explanation_zh: 复合动词由前项动词连用形接后项动词构成，后项动词语义虚化作接尾成分：「こむ」表“往深处、在心里……”（抱えこむ）；「ぬく」表“彻底……”（見ぬく）；「放つ」表“不顾及地……出去”（言い放つ）。片段中复合动词密集出现，是轻小说叙述的核心词汇手段。
+examples:
+- text: ひとりで抱えこむなんて、やっぱり辛すぎるんだ
+  reading: ''
+  annot: ひとりで抱[かか]えこむなんて、やっぱり辛[つら]すぎるんだ
+  translation_zh: 一个人独自承受，果然还是太难受了
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+- text: 俺は妹の目を見据え、力強く言い放った。
+  reading: ''
+  annot: 俺[おれ]は妹[いもうと]の目[め]を見据[みす]え、力強[ちからづよ]く言[い]い放[はな]った。
+  translation_zh: 我直视着妹妹的眼睛，语气坚定地说完。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 复合动词
+- 体貌
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 11
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

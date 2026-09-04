@@ -1,0 +1,39 @@
+id: ko-grm-00346
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: 「间接引用：陈述 -(ㄴ/는)다고 / 命令 -(으)라고」
+structure: 动词/形容词词干 + -(ㄴ/는)다고 하다；动词词干 + -(으)라고 하다
+structure_pattern: A/V-(ㄴ/는)다고 하다; V-(으)라고 하다
+explanation_zh: 韩国学校语法把引用分为直接引用与间接引用，间接引用按句子类型变换词尾：陈述用'-(ㄴ/는)다고 (하다)'，命令用'-(으)라고 (하다)'。引语中的主语和时制常可省略。片段中'없다고
+  유명하다'与'제공하라고 명령을 내리다'分别是两者的典型用例。
+examples:
+- text: 흑요석 첨탑에서 나오는 음식은 맛이 없다고 유명했지만,
+  reading: ''
+  annot: 흑요석 첨탑에서 나오는 음식은 맛이 없다고 유명했지만,
+  translation_zh: 虽然黑曜石尖塔供应的食物出了名地难吃，
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+- text: 아즐란은 그들에게 요리와 음료를 제공하라고 명령을 내렸다.
+  reading: ''
+  annot: 아즐란은 그들에게 요리와 음료를 제공하라고 명령을 내렸다.
+  translation_zh: 阿兹兰下令给他们提供饮食。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 引用
+- 语气
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

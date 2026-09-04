@@ -1,0 +1,32 @@
+id: ko-grm-00429
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: -거든：说明理由的口语终结词尾
+structure: 용언 어간 + -거든（해체/반말）
+structure_pattern: 어간 + -거든
+explanation_zh: '''-거든''是表示理由的终结词尾，主要用于口语半语（해체），向对方说明自己言行背后的原因。与''-아/어서''''-니까''相比，带有解释、辩解的口吻，且句子到此终结，后面不再接续分句。'
+examples:
+- text: 나, 지금까지 자기처럼 마력이 강한 인간은 본 적이 없거든.
+  reading: ''
+  annot: 나, 지금까지 자기처럼 마력이 강한 인간은 본 적이 없거든.
+  translation_zh: 我呀，至今为止还没见过魔力像你这么强的人呢。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 종결어미
+- 이유
+- 구어
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

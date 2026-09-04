@@ -1,0 +1,32 @@
+id: ja-grm-00568
+language: ja
+type: grammar
+level: N3
+level_rank: 3
+title: 〜まくる：拼命地做、做个不停（复合动词）
+structure: 动词连用形＋まくる
+structure_pattern: V-连用形 + まくる
+explanation_zh: 复合动词后项「まくる」接动词连用形，表示不受节制地、反复彻底地做某事，程度感强烈。片段采用“考えに考えまくった”这一动词叠用式（连用形＋に＋同动词），进一步强化反复苦思的语气。属口语用法。
+examples:
+- text: 風城を止める作戦を考えに考えまくった。
+  reading: ''
+  annot: 風城[かぜしろ]を止[と]める作戦[さくせん]を考[かんが]えに考[かんが]えまくった。
+  translation_zh: 我翻来覆去地苦想阻止风城的办法。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 复合动词
+- 体貌
+- 口语
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

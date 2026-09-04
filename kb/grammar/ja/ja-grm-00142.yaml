@@ -1,0 +1,38 @@
+id: ja-grm-00142
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 复合动词「〜始める・〜続ける・〜出す」：动作的开始·持续·突发
+structure: 動詞連用形＋始める／続ける／出す（複合動詞・後項要素）
+structure_pattern: V-連用形 + 始める/続ける/出す
+explanation_zh: 動詞連用形后接「始める」「続ける」「出す」构成复合动词，分别表示动作的开始、持续与突然发生，属体貌范畴。片段中“聞こえ始めた”“語り始めた”“撫で続けると”“歩きだす”等推动场景展开。中文可译为“……起来”“一直……”“开始……”。
+examples:
+- text: 俺が無言でいると、続きを語り始めたリア。
+  reading: ''
+  annot: 俺[おれ]が無言[むごん]でいると、続[つづ]きを語[かた]り始[はじ]めたリア。
+  translation_zh: 见我沉默不语，莉亚便又开口讲了下去。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+- text: 言いながらリアは歩きだす。
+  reading: ''
+  annot: 言[い]いながらリアは歩[ある]きだす。
+  translation_zh: 莉亚一边说着，一边迈步走了起来。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 复合动词
+- 体貌
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 5
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

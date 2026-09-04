@@ -1,0 +1,32 @@
+id: th-grm-00052
+language: th
+type: grammar
+level: L2
+level_rank: 2
+title: 句末助词 นะ 与 สิ
+structure: ประโยค + นะ / สิ
+structure_pattern: Clause + นะ / สิ
+explanation_zh: นะ置于句末使语气柔和，多用于请求、劝慰或叮嘱，近似中文的「吧／啊」。สิ表示招呼或催促，促使对方行动。「มาทางนี้สิ」是招呼「过来这边」，「ใจเย็น
+  ๆ ก่อนนะ」是劝慰「先冷静一下」。
+examples:
+- text: ใจเย็น ๆ ก่อนนะ
+  reading: ''
+  annot: ใจเย็น ๆ ก
+  translation_zh: 先冷静一下，好吗。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 语气
+- 助词
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 4
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

@@ -1,0 +1,31 @@
+id: ja-grm-00290
+language: ja
+type: grammar
+level: N3
+level_rank: 3
+title: 〜たびに：每当……就……
+structure: V終止形／体言＋形式名詞「度（たび）」＋（に）
+structure_pattern: V終止形 + たび（に）
+explanation_zh: 形式名词「たび（度）」表示前项一发生，后项便随之反复，相当于"每当……就……"。前接动词终止形或名词。本片段中两度出现，是描写战斗反复进行的高频句式。
+examples:
+- text: それでも高速の剣閃がかすめる度、確かな斬線が刻まれる。
+  reading: ''
+  annot: それでも高速[こうそく]の剣閃[けんせん]がかすめる度[たび]、確[たし]かな斬線[ざんせん]が刻[きざ]まれる。
+  translation_zh: 但即便如此，每当高速的剑光擦身而过，都会刻下清晰的斩痕。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 形式名词
+- 接续
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

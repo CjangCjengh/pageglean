@@ -1,0 +1,33 @@
+id: ko-grm-00079
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: -는 것을 보니(까)：推断的依据
+structure: '관형사형 전성어미 ''-는'' + 의존명사 ''것''（구어: 걸） + 동사 ''보다'' + 연결어미 ''-니''（근거）'
+structure_pattern: V + -는 + 것을 보니(까)
+explanation_zh: 以亲眼所见或察觉到的情况为依据进行推断，相当于「看……的样子，想必……」。学校文法分析为冠形词形转换词尾'-는'＋依存名词'것'（口语缩为'걸'）＋'보다'＋表示根据的连接词尾'-니'。后句常接'-ㄴ
+  것 같다/겠다'等推测表达。
+examples:
+- text: 마스터도 루시도 딱히 부정하지 않는 걸 보니, 어젯밤에 문제가 있었던 건 맞는 것 같네.
+  reading: ''
+  annot: 마스터도 루시도 딱히 부정하지 않는 걸 보니, 어젯밤에 문제가 있었던 건 맞는 것 같네.
+  translation_zh: 看主人和露西都没有明确否认，昨晚想必确实出了问题。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 推测依据
+- 依存名词
+- 连接表现
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

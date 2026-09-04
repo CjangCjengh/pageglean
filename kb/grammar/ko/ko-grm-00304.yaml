@@ -1,0 +1,31 @@
+id: ko-grm-00304
+language: ko
+type: grammar
+level: TOPIK5
+level_rank: 5
+title: -다고 해도：即使……也……
+structure: 形容词词干/이다 + -다고 해도（常与아무리搭配）
+structure_pattern: A-다고 / N-(이)라고 해도
+explanation_zh: 由间接引用形-다고加让步词尾-도构成，表示「即使……也……」，常与아무리呼应。它强调即使承认前句事实，后句结论依然不变。原文以此强调就算阿兹兰是强大的魔导师，自己也发挥不出其实力。
+examples:
+- text: 아무리 아즐란이 강력한 마도사라고 해도, 내가 마법을 쓰는 방법을 모르니 아즐란의 마법 실력을 전혀 활용할 수 없더라고.
+  reading: ''
+  annot: 아무리 아즐란이 강력한 마도사라고 해도, 내가 마법을 쓰는 방법을 모르니 아즐란의 마법 실력을 전혀 활용할 수 없더라고.
+  translation_zh: 即使阿兹兰是强大的魔导师，因为我不知道施展魔法的方法，也完全发挥不出阿兹兰的魔法实力。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 让步
+- 间接引用
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

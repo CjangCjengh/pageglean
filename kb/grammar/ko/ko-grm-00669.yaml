@@ -1,0 +1,31 @@
+id: ko-grm-00669
+language: ko
+type: grammar
+level: TOPIK5
+level_rank: 5
+title: -아/어 대다：不停、过度地做
+structure: 动词词干 + -아/어 + 보조 용언 '대다'
+structure_pattern: V-아/어 + 대다
+explanation_zh: 补助动词，表示动作反复、过度或激烈地进行，带有嫌恶或夸张语气，相当于'不停地……''一个劲儿地……'。'또 휘둘러 대면'即'要是再这么乱挥'。
+examples:
+- text: 또 휘둘러 대면 곤란하므로, 그 칼을 집어서 멀리 내던져 버렸다.
+  reading: ''
+  annot: 또 휘둘러 대면 곤란하므로, 그 칼을 집어서 멀리 내던져 버렸다.
+  translation_zh: 要是再这么胡乱挥舞就麻烦了，我便捡起那把刀，远远扔掉了。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 补助动词
+- 体貌
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

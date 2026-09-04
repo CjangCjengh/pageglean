@@ -1,0 +1,32 @@
+id: vi-grm-00109
+language: vi
+type: grammar
+level: L2
+level_rank: 2
+title: chẳng hề / chẳng ... nào：否定副词 chẳng 与完全否定
+structure: chẳng + （hề）+ V … / chẳng + V + （từ/hề）+ nào
+structure_pattern: chẳng (+ hề) + VP；chẳng … nào
+explanation_zh: chẳng 是否定副词，意义同 không 但书面与文学色彩更浓，常与 hề、nào 连用加强语气：chẳng hề 表示'从未、根本不'，chẳng
+  ... nào 构成完全否定'一点也（没）…'。课文中反复用 chẳng 来强调叙述者此前对感情问题的毫不关心。
+examples:
+- text: Từ trước đến nay, tôi chẳng hề quan tâm đến chuyện này.
+  reading: ''
+  annot: Từ trước đến nay, tôi chẳng hề quan tâm đến chuyện này.
+  translation_zh: 从以前到现在，我根本没关心过这件事。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 否定
+- 虚词
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 0
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

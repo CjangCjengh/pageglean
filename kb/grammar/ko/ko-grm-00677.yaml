@@ -1,0 +1,31 @@
+id: ko-grm-00677
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: 「-느라」：因忙于前事而招致后果
+structure: 动词词干 + 原因连接词尾 '-느라'
+structure_pattern: V- + -느라
+explanation_zh: 连接词尾「-느라」表示因为持续进行前句的动作而导致了后句的结果，且后句多为消极、否定性的结果。前后主语必须一致，一般只接动词。可译为“因为忙于……（所以）”。
+examples:
+- text: 악을 지르느라 쉬어 버린 목소리가 목구멍을 스치며 새어 나왔다.
+  reading: ''
+  annot: 악을 지르느라 쉬어 버린 목소리가 목구멍을 스치며 새어 나왔다.
+  translation_zh: 因为拼命嘶喊而变得沙哑的声音，擦过喉咙漏了出来。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 接续
+- 因果
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

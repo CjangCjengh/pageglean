@@ -1,0 +1,31 @@
+id: ja-grm-00535
+language: ja
+type: grammar
+level: N3
+level_rank: 3
+title: 使役依頼文「〜せてください」：请求允许
+structure: 動詞未然形＋使役の助動詞「せる・させる」連用形＋接続助詞「て」＋補助動詞「くださる」命令形「ください」
+structure_pattern: V未然形 + せる/させる(助動詞)連用形 + て + ください
+explanation_zh: 使役助动词「せる・させる」接动词未然形表示使役；后接「て」加补助动词「くださる」的命令形「ください」，构成请求对方允许的使役依頼文。相当于中文“请让我做……”，兼有使役与敬语两层。片段中即主人公请求允许自己前来佛堂。
+examples:
+- text: あいつを支えてやれるほど強くなれるまで、ここに来させてください。
+  reading: ''
+  annot: あいつを支[ささ]えてやれるほど強[つよ]くなれるまで、ここに来[こ]させてください。
+  translation_zh: 在我变得强大到足以支撑那孩子之前，请允许我到这里来。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 使役
+- 敬语
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

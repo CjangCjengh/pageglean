@@ -1,0 +1,38 @@
+id: ja-grm-00551
+language: ja
+type: grammar
+level: N3
+level_rank: 3
+title: 倒置：先说结论，后补成分（口语）
+structure: 述語（終止）＋読点・終止符＋主語・修飾語（通常語順の倒置）
+structure_pattern: 述語+、／。+主語・修飾語
+explanation_zh: 口语中常把谓语或结论先说出口，再后置补充主语或修饰成分，以制造临场感、强调或笑点。片段中「大変だよ、あいつとの共同生活は」先抛感想再补主语；「悪い意味で」则后置补充限定，属典型的独白式倒置。阅读时须把后置部分补回前句理解。
+examples:
+- text: 大変だよ、あいつとの共同生活は。
+  reading: ''
+  annot: 大変[たいへん]だよ、あいつとの共同生活[きょうどうせいかつ]は。
+  translation_zh: 和那家伙一起生活，可真够折腾的。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+- text: 俺だって顔には自信がある。悪い意味で。
+  reading: ''
+  annot: 俺[おれ]だって顔[かお]には自信[じしん]がある。悪[わる]い意味[いみ]で。
+  translation_zh: 我对自己的长相也挺有自信的。当然，是贬义上的。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 口语
+- 语气
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

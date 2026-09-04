@@ -1,0 +1,31 @@
+id: ja-grm-00248
+language: ja
+type: grammar
+level: N2
+level_rank: 4
+title: 〜ない限り：只要不……
+structure: 動詞未然形＋ない＋限り（形式名詞）
+structure_pattern: V-未然形 + ない + 限り
+explanation_zh: 「限り」在此为形式名词，表示「在……的范围内」，「〜ない限り」即「只要不……、除非……」，限定后项结论成立的条件。后项多为客观判断或一般性结论。片段中用于说明精神系法术「术者不解除则效果持续」的规律。
+examples:
+- text: 精神系って、術者が解かない限り効果が続くってのが多いんだわ
+  reading: ''
+  annot: 精神系[せいしんけい]って、術者[じゅつしゃ]が解[と]かない限[かぎ]り効果[こうか]が続[つづ]くってのが多[おお]いんだわ
+  translation_zh: 所谓精神系的法术，大多是只要术者不解除，效果就会一直持续。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 条件
+- 形式名词
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

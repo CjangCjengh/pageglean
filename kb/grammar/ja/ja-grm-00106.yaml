@@ -1,0 +1,31 @@
+id: ja-grm-00106
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 〜た方がいい：最好……（劝告）
+structure: 動詞連用形＋助動詞「た」連体形＋形式名詞「方」＋がいい
+structure_pattern: V-連用形 + た + 方が + いい
+explanation_zh: 形式名词「方」表示比较两方中的一方，「〜た方がいい」意为"做~比较好"，是委婉的劝告表达。与命令形相比语气柔和得多，常与「もう少し」搭配使用。句末语气助词「ぞ」带有男性化的提醒口吻。
+examples:
+- text: もう少し自分の身の危険を考えた方がいいぞ？
+  reading: ''
+  annot: もう少[すこ]し自[じ]分[ぶん]の身[み]の危[き]険[けん]を考[かんが]えた方[ほう]がいいぞ？
+  translation_zh: 你最好再多考虑一下自身处境的危险哦？
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 劝告
+- 比较
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

@@ -1,0 +1,33 @@
+id: ko-grm-00045
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: 「-ㄴ/는지：不知该……还是……」
+structure: 谓词词干 + 连接词尾 -ㄴ/는지（间接疑问） + 아니면 + -ㄴ/는지
+structure_pattern: V-ㄴ/는지 + 아니면 + V-ㄴ/는지
+explanation_zh: 连接词尾 -ㄴ/는지 引导间接疑问，常以「-ㄴ/는지, 아니면 -ㄴ/는지」的形式并列两个选项，表示在两者之间犹豫不决。后接 망설이다、모르다
+  等表示心理状态的动词。相当于中文的「不知道该……还是……」。
+examples:
+- text: 다시 덤벼들어야 하는지, 아니면 도망쳐야 하는지 망설이고 있는 듯한 표정이다.
+  reading: ''
+  annot: 다시 덤벼들어야 하는지, 아니면 도망쳐야 하는지 망설이고 있는 듯한 표정이다.
+  translation_zh: 那副神情像是在犹豫，不知是该再次扑过来，还是该逃走。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 连接词尾
+- 间接疑问
+- 选择
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

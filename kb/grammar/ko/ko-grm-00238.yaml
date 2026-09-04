@@ -1,0 +1,38 @@
+id: ko-grm-00238
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: -(으)며：一边～一边…（书面同时动作）
+structure: 用言 + 对等连接词尾 -(으)며（相当于 '-면서' 的书面形式）
+structure_pattern: V/A-며
+explanation_zh: 对等连接词尾-(으)며表示两个动作同时进行或两种状态并存，功能与'-면서'相当，但书面语色彩更强，在小说叙述中尤为常见。片段中'내쉬며''상상하며''중얼거리며'等反复出现，用于描写主要动作的伴随动作。中文可译为'一边……一边……'或处理为连动结构。
+examples:
+- text: 알테아가 한숨을 내쉬며 고개를 절레절레 흔들었다.
+  reading: ''
+  annot: 알테아가 한숨을 내쉬며 고개를 절레절레 흔들었다.
+  translation_zh: 阿尔忒娅叹着气，连连摇头。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+- text: 그런 비현실적인 존재를 상상하며, 네 사람은 동시에 한숨을 내쉬었다.
+  reading: ''
+  annot: 그런 비현실적인 존재를 상상하며, 네 사람은 동시에 한숨을 내쉬었다.
+  translation_zh: 想象着那种不现实的存在，四个人同时叹了口气。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 连接词尾
+- 同时动作
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 4
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

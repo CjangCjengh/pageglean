@@ -1,0 +1,33 @@
+id: ko-grm-00093
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: -(으)ㄹ 테니까：反正会~，所以
+structure: 谓词词干 + 冠形词形转成词尾 -(으)ㄹ + 依存名词 '터' + 서술격 조사 '이다' + 原因连接词尾 -니까
+structure_pattern: 용언 어간 + -(으)ㄹ 터이니까 → -(으)ㄹ 테니까
+explanation_zh: 由表推测的依存名词 '터' 与原因连接词尾 '-니까' 缩合而成，说话者以自己确信的推测作为理由，后句多为建议、命令或不以为意。片段中与表示二选一的连接词尾
+  '-거나'（不是…就是…）连用。
+examples:
+- text: 마주치는 순간 기절하거나 도망치거나 할 테니까.
+  reading: ''
+  annot: 마주치는 순간 기절하거나 도망치거나 할 테니까.
+  translation_zh: 反正一打照面，（她）不是吓晕过去就是逃走。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 推测
+- 原因
+- 连接词尾
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

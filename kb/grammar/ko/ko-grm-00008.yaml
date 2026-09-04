@@ -1,0 +1,32 @@
+id: ko-grm-00008
+language: ko
+type: grammar
+level: TOPIK5
+level_rank: 5
+title: 「-는 것은 물론」：不仅……而且……
+structure: 동사 관형사형 '-는' + 의존명사 '것' + 보조사 '은 물론'
+structure_pattern: V-는 것은 물론
+explanation_zh: 「-는 것」名词化后加「은 물론」，表示「不仅……而且……」，用于递进，强调后项更进一步。片段中「검색해 보는 것은 물론, 커뮤니티를
+  정주행하면서」表示不只在网站搜索，还逐条刷遍社区。
+examples:
+- text: 각종 포털 사이트와 SNS에 제목을 넣고 검색해 보는 것은 물론, 라이트 노벨 감상이 많이 올라오는 커뮤니티나 게시판을 정주행하면서
+  reading: ''
+  annot: 각종 포털 사이트와 SNS에 제목을 넣고 검색해 보는 것은 물론, 라이트 노벨 감상이 많이 올라오는 커뮤니티나 게시판을 정주행하면서
+  translation_zh: 不仅在各大门户网站和SNS上输入书名搜索，还按顺序刷遍那些发布轻小说阅读感的社区和留言板……
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 连接
+- 递进
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

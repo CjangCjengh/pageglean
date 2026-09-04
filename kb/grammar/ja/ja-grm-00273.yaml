@@ -1,0 +1,38 @@
+id: ja-grm-00273
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 〜そう：样态助动词「そうだ」（看上去～）
+structure: イ形容词词干（去「い」）／动词连用形＋样态助动词「そうだ」
+structure_pattern: イAdj語幹(去い) / V-連用形 + 助動詞「そうだ」(様態)
+explanation_zh: 样态助动词「そうだ」接在イ形容词去掉「い」的词干及动词连用形后，表示凭视觉印象判断「看起来～」。うれしそうだ＝看起来很高兴，心配そうだ＝显得很担心。连用形「〜そうに／そうな」可作状语修饰后项动词。
+examples:
+- text: 嬉しそうに抱きついてくるリア。
+  reading: ''
+  annot: 嬉[うれ]しそうに抱[だ]きついてくるリア。
+  translation_zh: 莉亚一副开心的样子扑过来抱住我。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+- text: 自分を心配そうに見上げるフェルの頭を撫でる。
+  reading: ''
+  annot: 自分[じぶん]を心配[しんぱい]そうに見上[みあ]げるフェルの頭[あたま]を撫[な]でる。
+  translation_zh: （伊丝卡）抚摸着担心地抬头望着自己的菲尔的头。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 助动词
+- 推测
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

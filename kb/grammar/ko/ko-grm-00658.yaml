@@ -1,0 +1,40 @@
+id: ko-grm-00658
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: -아/어 주다与-시겠어요?：恩惠补助动词与礼貌请求
+structure: 动词 + 连接词尾 -아/어 + 补助动词 주다（+ 主体敬语先语末词尾 -시- + 终结词尾 -겠어요）
+structure_pattern: V-아/어 + 주다 / V-아/어 + 주시겠어요
+explanation_zh: “주다”作补助动词，表示该行为使对方受益，即“为（我/你）做……”。叠加主体敬语先语末词尾-시-与终结词尾-겠어요，即成礼貌的请求，“죽어
+  주시겠어요?”字面是“能请您去死吗”，语带讽刺。同段另有半语形式“해 줘”，可对比敬语阶位差异。
+examples:
+- text: 이번엔 부디 흠집이 많이 나지 않도록 해 줘.
+  reading: ''
+  annot: 이번엔 부디 흠집이 많이 나지 않도록 해 줘.
+  translation_zh: 这次请务必别让它多出很多伤痕。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+- text: 결국 이렇게 됐으니 죽어 주시겠어요?
+  reading: ''
+  annot: 결국 이렇게 됐으니 죽어 주시겠어요?
+  translation_zh: 反正都到这个地步了，能请您去死吗？
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 补助动词
+- 敬语阶位
+- 请求
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 4
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

@@ -1,0 +1,39 @@
+id: vi-grm-00358
+language: vi
+type: grammar
+level: L2
+level_rank: 2
+title: 是非问句：có…không 与 V+chưa
+structure: có + 动词 + không？；动词 + chưa？
+structure_pattern: có + động từ + không; động từ + chưa
+explanation_zh: có…không 是最基本的是非问框架（câu nghi vấn），có 强调动作的发生；句末加 chưa 则问“已经……了吗”，回答用
+  rồi。片段中还出现附加问句“…phải không”，同样表示求证。
+examples:
+- text: Anh có ép nó trong tập không?
+  reading: ''
+  annot: Anh có ép nó trong tập không?
+  translation_zh: 你有把它夹在本子里吗？
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+- text: Mày ép nó vào tập chưa?
+  reading: ''
+  annot: Mày ép nó vào tập chưa?
+  translation_zh: 你把它夹进本子里了吗？
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 疑问句
+- 虚词
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 4
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

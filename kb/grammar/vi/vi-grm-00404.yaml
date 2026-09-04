@@ -1,0 +1,39 @@
+id: vi-grm-00404
+language: vi
+type: grammar
+level: L2
+level_rank: 2
+title: 「hơn」：比较结构
+structure: 形容词 + hơn (+ 比较对象)
+structure_pattern: Tính từ + hơn (câu so sánh hơn)
+explanation_zh: 越南语比较级（cấu trúc so sánh hơn）由形容词加后置的 hơn 构成，比较对象可省略或用 hơn + 名词引出，相当于中文“比…更…”。片段中“dài
+  hơn hôm trước”即“比之前更长”。越南语无形态变化，比较意义全靠虚词 hơn 表达。
+examples:
+- text: Anh thấy tóc em có dài hơn hôm trước không?
+  reading: ''
+  annot: Anh thấy tóc em có dài hơn hôm trước không?
+  translation_zh: 你看我头发是不是比之前长了？
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+- text: Dài hơn, nhưng chưa che được vết sẹo.
+  reading: ''
+  annot: Dài hơn, nhưng chưa che được vết sẹo.
+  translation_zh: 长了，但还遮不住伤疤。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 比较
+- 句式
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

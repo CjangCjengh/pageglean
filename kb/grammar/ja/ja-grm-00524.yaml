@@ -1,0 +1,31 @@
+id: ja-grm-00524
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 〜ばっかり：净是、总是（口语）
+structure: 动词连用形＋て＋ばっかり／名词＋ばっかり
+structure_pattern: V-連用形 + て + ばっかり | N + ばっかり
+explanation_zh: 限定助词ばかり的口语音变形式，表示『净是、总是、尽是』，常带有消极、抱怨的语感。本片段反复出现，是轻小说口语的典型用法。
+examples:
+- text: 強がってはしゃいで、無茶ばっかりする子だったけれど。
+  reading: ''
+  annot: 強[つよ]がってはしゃいで、無茶[むちゃ]ばっかりする子[こ]だったけれど。
+  translation_zh: 虽然她总是逞强、闹腾着胡来的孩子。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 口语
+- 助词
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 4
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

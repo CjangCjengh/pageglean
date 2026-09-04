@@ -1,0 +1,32 @@
+id: ja-grm-00619
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 口语引用助词「って」：「と」的口语形
+structure: 引用内容 + 「って」（引用格助词「と」的口语形式）
+structure_pattern: '[引用] + って (= 格助詞「と」)'
+explanation_zh: 口语中，表示引用的格助词「と」说成「って」，后接「言う」等动词，或省略动词直接结句。结句时带有「说什么〜」的口气，多用于转述命令、传闻。轻小说对话中极为常见。
+examples:
+- text: おまえ、よく死にたいって言うだろ
+  reading: ''
+  annot: おまえ、よく死[し]にたいって言[い]うだろ
+  translation_zh: 你不是经常说什么「好想死」嘛。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 口语
+- 引用
+- 助词
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 5
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

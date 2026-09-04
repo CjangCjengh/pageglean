@@ -1,0 +1,40 @@
+id: ko-grm-00335
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: -아/어 주다：恩惠授受的补助动词
+structure: 主动词词干 + 连接词尾 -아/어 + 补助动词 주다
+structure_pattern: V + -아/어 주다
+explanation_zh: 补助动词结构，表示该动作为他人而做、施予恩惠。否定形'-아/어 주지 않다'表示'不（替对方）做某事'，常含拒绝的意味，本段'맞잡아
+  주거나 하지 않았다'即是。'귀담아듣다'与'-아/어 주다'连用已成惯用搭配，意为'认真倾听'。
+examples:
+- text: 귀담아들어 줘야 할 이유가 없다.
+  reading: ''
+  annot: 귀담아들어 줘야 할 이유가 없다.
+  translation_zh: 也没有理由非要去认真倾听。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+- text: 하지만 나는 그 손을 맞잡아 주거나 하지 않았다.
+  reading: ''
+  annot: 하지만 나는 그 손을 맞잡아 주거나 하지 않았다.
+  translation_zh: 但我并没有去握住那只手。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 补助动词
+- 恩惠
+- 敬语
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 4
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

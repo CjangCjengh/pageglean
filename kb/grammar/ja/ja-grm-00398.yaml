@@ -1,0 +1,39 @@
+id: ja-grm-00398
+language: ja
+type: grammar
+level: N3
+level_rank: 3
+title: 〜ているうちに：在……过程中不知不觉
+structure: 動詞連用形＋接続助詞「て」＋補助動詞「いる」＋形式名詞「うち」＋に
+structure_pattern: V-ている + うちに
+explanation_zh: 形式名词「うち」表示“在……的期间内”；「〜ているうちに」指在某种状态持续的过程中，不知不觉发生了别的变化。中文可译为“……着……着，就……”。
+examples:
+- text: のろのろ歩いているうちに、結構時間がやばくなってきたので駆け足で校舎へと急ぐ。
+  reading: ''
+  annot: のろのろ歩[ある]いているうちに、結構[けっこう]時間[じかん]がやばくなってきたので駆[か]け足[あし]で校舎[こうしゃ]へと急[いそ]ぐ。
+  translation_zh: 磨磨蹭蹭地走着走着，时间就变得相当紧张了，于是小跑着赶往校舍。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+- text: 娘の自慢話をしているうちにだんだんとハイになってきた
+  reading: ''
+  annot: 娘[むすめ]の自慢話[じまんばなし]をしているうちにだんだんとハイになってきた
+  translation_zh: （她）炫耀着女儿的事，说着说着情绪渐渐高涨起来。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 形式名词
+- 接续
+- 时间
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

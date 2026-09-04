@@ -1,0 +1,40 @@
+id: ko-grm-00332
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: -게 되다：状态与情况的变化
+structure: 用言词干 + 副词形词尾 -게 + 补助动词 되다
+structure_pattern: V/A + -게 되다
+explanation_zh: 用言后接副词形词尾'-게'再结合补助动词'되다'，表示状态转变为新的局面，相当于中文的'变得……'。与表自然变化的'-아/어지다'相比，'-게
+  되다'更强调变化的达成，常暗示外部原因。本段以'느껴지지 않게 되었다''알 수 없게 되었다'连用，描写人物逐渐丧失情感与自我认知的过程。
+examples:
+- text: 감정 같은 게, 제대로 느껴지지, 않게 되었어.
+  reading: ''
+  annot: 감정 같은 게, 제대로 느껴지지, 않게 되었어.
+  translation_zh: 感情什么的，已经没办法正常感受到了。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+- text: 그런데 언제부터인가, 죽이고 싶다는 생각만, 자꾸 들게 되었어.
+  reading: ''
+  annot: 그런데 언제부터인가, 죽이고 싶다는 생각만, 자꾸 들게 되었어.
+  translation_zh: 可不知从什么时候起，心里就总是冒出想要杀人的念头。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 体貌
+- 补助动词
+- 变化
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

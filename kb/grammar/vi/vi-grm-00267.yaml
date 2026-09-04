@@ -1,0 +1,38 @@
+id: vi-grm-00267
+language: vi
+type: grammar
+level: L2
+level_rank: 2
+title: phải：不得不——义务情态动词
+structure: 主语 + phải + 动词（情态动词 động từ tình thái）；否定：không phải + V
+structure_pattern: S + phải + V
+explanation_zh: 「phải」作情态动词表示客观情势下“必须、不得不”做某事，常含被迫、不情愿的意味。否定形式为「không phải + V」，意为“不必、不用……”。本片段中均为此用法，与形容词「phải」（正确）无关。
+examples:
+- text: Còn tôi, lẽ dĩ nhiên, phải đưa đầu chịu trận.
+  reading: ''
+  annot: Còn tôi, lẽ dĩ nhiên, phải đưa đầu chịu trận.
+  translation_zh: 至于我，理所当然，只好硬着头皮挨罚。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+- text: Sáng hôm sau, nó phải nghỉ học.
+  reading: ''
+  annot: Sáng hôm sau, nó phải nghỉ học.
+  translation_zh: 第二天一早，她只好休学。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 情态
+- 义务
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

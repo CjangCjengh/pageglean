@@ -1,0 +1,40 @@
+id: ko-grm-00390
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: 「-았/었으면 좋겠다」：期盼如愿
+structure: 用言词干 + 연결어미 -(으)면（假设） + 좋겠다 / 싶다
+structure_pattern: V/A- + -았/었으면 + 좋겠다/싶다
+explanation_zh: 连接词尾'-(으)면'假设一种状况，再以'좋다/싶다'加以评价，整体表达希望事情如愿，相当于'要是……就好了'。片段中还出现'-ㄹ
+  수 있었으면 좋겠네요'，期盼某种可能的状况能够实现；'-았으면 싶다'是更内敛的自言式表达。
+examples:
+- text: 그런 남자는 아니었으면 좋겠다.
+  reading: ''
+  annot: 그런 남자는 아니었으면 좋겠다.
+  translation_zh: 希望他不是那种男人。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+- text: 서로 터놓고 얘기할 수 있었으면 좋겠네요.
+  reading: ''
+  annot: 서로 터놓고 얘기할 수 있었으면 좋겠네요.
+  translation_zh: 真希望彼此能敞开心扉聊一聊。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 愿望
+- 接续
+- 语气
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

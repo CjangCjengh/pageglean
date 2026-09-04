@@ -1,0 +1,39 @@
+id: ja-grm-00495
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 终助词「か」：独白中的自问
+structure: 用言終止形＋終助詞「か」（独白における自問・自確認）
+structure_pattern: V-終止形 + か
+explanation_zh: 终助词「か」在独白中不表询问对方，而是自问或自我确认，是轻小说内心戏的标志性用法。「やっぱ帰るか」是跟自己商量“还是回去吧”，「やっぱ」为「やっぱり」的口语形。例句中的「ってことは」是「ということは」的口语缩略，用于顺势推理。
+examples:
+- text: 帰る？ やっぱ帰るか？
+  reading: ''
+  annot: 帰[かえ]る？ やっぱ帰[かえ]るか？
+  translation_zh: 回去？果然还是回去吧？
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+- text: ってことはあれか？ あれなのか？ あれなんですか？
+  reading: ''
+  annot: ってことはあれか？ あれなのか？ あれなんですか？
+  translation_zh: 也就是说，是那回事吗？是那回事吗？真的是那回事吗？
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 终助词
+- 口语
+- 独白
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

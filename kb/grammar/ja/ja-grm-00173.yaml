@@ -1,0 +1,31 @@
+id: ja-grm-00173
+language: ja
+type: grammar
+level: N3
+level_rank: 3
+title: 「〜はずがない」：绝不可能……
+structure: 普通形 ＋ 形式名詞「はず」＋ が ＋ ない
+structure_pattern: 普通形 + はず + が + ない
+explanation_zh: 形式名词「はず」表示基于依据的合理预期，接「がない」构成强烈的否定推断“不可能……”。相比「わけがない」，「はずがない」更侧重说话人根据情境作出的主观推测。文中另有一处肯定用法「使えるはず」（应该能用）。
+examples:
+- text: この世界でも体内魔力だけで問題なく使えるはず。
+  reading: ''
+  annot: この世界[せかい]でも体内[たいない]魔力[まりょく]だけで問題[もんだい]なく使[つか]えるはず。
+  translation_zh: 即使在这个世界，仅凭体内的魔力应该也能毫无问题地使用。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 形式名词
+- 推测
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

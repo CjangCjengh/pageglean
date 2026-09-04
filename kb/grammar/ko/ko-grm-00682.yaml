@@ -1,0 +1,38 @@
+id: ko-grm-00682
+language: ko
+type: grammar
+level: TOPIK2
+level_rank: 2
+title: 「-는 것 같다：委婉的推测」
+structure: 动词 + -는 것 같다（不太确定的推测）
+structure_pattern: V-는 것 같다 / Adj-(으)ㄴ 것 같다
+explanation_zh: 由依存名词것加形容词같다构成，表示没有十足把握的推测，相当于“好像……”。动词现在时接-는 것 같다，过去时接-(으)ㄴ 것 같다。片段用以揣测人物的内心状态与意图，语气委婉。
+examples:
+- text: 아무래도 그녀의 안에서 브룬의 명령과 본인의 의지가 뒤엉켜 혼란을 겪고 있는 것 같았다.
+  reading: ''
+  annot: 아무래도 그녀의 안에서 브룬의 명령과 본인의 의지가 뒤엉켜 혼란을 겪고 있는 것 같았다.
+  translation_zh: 恐怕在她心里，布伦的命令与本人的意志纠缠在一起，正使她陷入混乱。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+- text: 더 이상 공격할 의사는 없는 것 같았다.
+  reading: ''
+  annot: 더 이상 공격할 의사는 없는 것 같았다.
+  translation_zh: 她似乎已经没有再攻击的意思了。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 依存名词
+- 推测
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

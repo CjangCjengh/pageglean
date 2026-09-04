@@ -1,0 +1,31 @@
+id: ja-grm-00520
+language: ja
+type: grammar
+level: N3
+level_rank: 3
+title: 〜ばかり：一味……、光是……
+structure: 动词连体形（辞书形）+ 副助词ばかり
+structure_pattern: V-辞书形 + ばかり
+explanation_zh: 副助词ばかり接动词连体形后，表示某动作或状态持续反复、别无其他，意为净是……、只顾……，带有不满或无奈的语气。片段中「詰め寄るばかり」写大叔们步步进逼却毫无沟通余地。口语变体有ばっかり、ばっか。
+examples:
+- text: 必死に叫ぶが、おっさんの群れは俺に詰め寄るばかり。
+  reading: ''
+  annot: 必死[ひっし]に叫[さけ]ぶが、おっさんの群[む]れは俺[おれ]に詰[つ]め寄[よ]るばかり。
+  translation_zh: 我拼命叫喊，但那群大叔只是步步向我逼近。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 助词
+- 体貌
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

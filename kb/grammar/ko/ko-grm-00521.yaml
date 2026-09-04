@@ -1,0 +1,39 @@
+id: ko-grm-00521
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: -다니：惊讶与感叹
+structure: 用言词干 + 终结词尾 -다니；体言 + -(이)라니
+structure_pattern: 용언 어간 + -다니 / 체언 + -(이)라니
+explanation_zh: 终结词尾 -다니 表示说话人对前述内容感到意外、难以置信或发出感叹，相当于“竟然说……”“……真是……”。体言后则用 -(이)라니，语气中常含惊讶或荒唐感。
+examples:
+- text: 서글프다니. 그거, 여자의 감?
+  reading: ''
+  annot: 서글프다니. 그거, 여자의 감?
+  translation_zh: 居然说伤感。那算什么，女人的直觉吗？
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+- text: 하지만 서글픔이라니, 그 장면을 어떻게 해석하면 그런 기분이 드는 거야.
+  reading: ''
+  annot: 하지만 서글픔이라니, 그 장면을 어떻게 해석하면 그런 기분이 드는 거야.
+  translation_zh: 可居然说什么伤感，得怎么解读那个场面才会冒出那种心情啊。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 终结词尾
+- 感叹
+- 语气
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

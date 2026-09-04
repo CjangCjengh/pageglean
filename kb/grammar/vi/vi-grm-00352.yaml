@@ -1,0 +1,31 @@
+id: vi-grm-00352
+language: vi
+type: grammar
+level: L2
+level_rank: 2
+title: đã V sẵn：早已…好了
+structure: đã + V + sẵn
+structure_pattern: đã + V + sẵn
+explanation_zh: đã 表示动作完成或状态已然，sẵn 表示「预先、现成地」。两者连用强调动作早已完成、状态已经就绪，相当于汉语「早就……好了／在那儿了」。
+examples:
+- text: Hải gầy đã ngồi đợi sẵn trong phòng học của tôi.
+  reading: ''
+  annot: Hải gầy đã ngồi đợi sẵn trong phòng học của tôi.
+  translation_zh: Hải gầy早就坐在我的书房里等着了。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 虚词
+- 体貌
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

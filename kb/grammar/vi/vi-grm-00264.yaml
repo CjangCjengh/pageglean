@@ -1,0 +1,39 @@
+id: vi-grm-00264
+language: vi
+type: grammar
+level: L1
+level_rank: 1
+title: chưa：还没——未然否定
+structure: 主语 + (vẫn) + chưa + 动词/形容词（否定副词）
+structure_pattern: S + (vẫn) + chưa + V/A
+explanation_zh: 「chưa」否定到目前为止尚未发生的动作或状态，相当于“还没……”，隐含以后会实现，与单纯否定「không」不同。常与「vẫn」（仍然）连用为「vẫn
+  chưa」。也可单独成句作答，表示“还没有”。
+examples:
+- text: Tôi vẫn chưa yên tâm
+  reading: ''
+  annot: Tôi vẫn chưa yên tâm
+  translation_zh: 我还是放心不下。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+- text: Chưa. Đợi hoài không thấy mày, tao chạy qua đây.
+  reading: ''
+  annot: Chưa. Đợi hoài không thấy mày, tao chạy qua đây.
+  translation_zh: 还没。等了半天不见你来，我就跑过来了。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 否定
+- 体貌
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

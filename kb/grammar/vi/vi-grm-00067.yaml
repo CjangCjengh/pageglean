@@ -1,0 +1,31 @@
+id: vi-grm-00067
+language: vi
+type: grammar
+level: L2
+level_rank: 2
+title: Vừa… vừa…：两个动作同时进行
+structure: Vừa + V1, vừa + V2
+structure_pattern: Vừa + V1, vừa + V2
+explanation_zh: 表示两个动作同时发生或交替进行，相当于汉语“一边……一边……”。常用于叙述中描写伴随动作，两个分句之间常用逗号停顿。
+examples:
+- text: Vừa nói, tôi vừa chìa mấy hòn sỏi trong tay ra
+  reading: ''
+  annot: Vừa nói, tôi vừa chìa mấy hòn sỏi trong tay ra
+  translation_zh: 我一边说着，一边把手里的几颗石子伸到他面前。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 体貌
+- 并列
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

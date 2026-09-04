@@ -1,0 +1,34 @@
+id: vi-grm-00255
+language: vi
+type: grammar
+level: L3
+level_rank: 3
+title: thà … còn hơn …：两害相权取其轻
+structure: thà + 动词短语1 + còn hơn + 动词短语2
+structure_pattern: thà + VP1 + còn hơn + VP2
+explanation_zh: 用于在两个都不理想的选择中取舍，表示「宁可……也强过……」。「thà」引出宁愿选取的一项，「còn hơn」引出被放弃的一项。相当于中文的「与其……不如……／宁可……也不……」，带有较强的主观评价色彩。
+examples:
+- text: tôi quyết định thà "theo tình, tình trốn" còn hơn "trốn tình mà tình không
+    theo"
+  reading: ''
+  annot: tôi quyết định thà "theo tình, tình trốn" còn hơn "trốn tình mà tình không
+    theo"
+  translation_zh: 我决定：宁可“追随爱情、任爱情逃避”，也强过“逃避爱情而爱情不来追随”。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 比较
+- 选择
+- 句式
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

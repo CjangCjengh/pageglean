@@ -1,0 +1,38 @@
+id: vi-grm-00029
+language: vi
+type: grammar
+level: L1
+level_rank: 1
+title: đã：已然／过去助词
+structure: đã + V/Adj
+structure_pattern: đã + V/Adj
+explanation_zh: “đã”是完成／过去助词，置于动词或形容词之前，表示动作已经发生或状态已经实现，相当于“已经……了”。它只是前置虚词，不改变动词形态，可与时间状语配合标示过去。片段中多次用于追述已发生的事。
+examples:
+- text: Biết ơn tôi về việc tôi đã quan tâm đến cái áo của nó
+  reading: ''
+  annot: Biết ơn tôi về việc tôi đã quan tâm đến cái áo của nó
+  translation_zh: （她）感激我关心了她的衣服这件事。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+- text: khi thấy các cơ bắp nơi miệng đã đi vào hoạt động nhịp nhàng, thuần thục
+  reading: ''
+  annot: khi thấy các cơ bắp nơi miệng đã đi vào hoạt động nhịp nhàng, thuần thục
+  translation_zh: 等到觉得嘴部的肌肉已经活动得协调、熟练了。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 时态
+- 体貌
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 4
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

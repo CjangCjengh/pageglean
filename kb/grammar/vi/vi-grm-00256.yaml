@@ -1,0 +1,39 @@
+id: vi-grm-00256
+language: vi
+type: grammar
+level: L2
+level_rank: 2
+title: 时态助词 đã 与句末助词 rồi：已然与延续至今
+structure: đã + V/Adj（已然）；V + rồi（情况延续至今）
+structure_pattern: đã + V/Adj; V + rồi
+explanation_zh: 「đã」是完成体助词，置于动词或形容词前，表示动作已经实现或状态已经形成，「thì đã muộn」即「那时就已经晚了」。句末的「rồi」表示某种情况一直持续到现在，相当于中文「已经……了」。两者合用时对应中文的「已经……了」。
+examples:
+- text: lúc đó mình hối hận quay lại thì đã muộn.
+  reading: ''
+  annot: lúc đó mình hối hận quay lại thì đã muộn.
+  translation_zh: 那时候我再后悔、想回头，就已经晚了。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+- text: Như vậy anh không thèm nói chuyện với tôi mấy thế kỷ rồi?
+  reading: ''
+  annot: Như vậy anh không thèm nói chuyện với tôi mấy thế kỷ rồi?
+  translation_zh: 这么说，你都几个世纪懒得跟我说话了？
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 体貌
+- 时态
+- 虚词
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

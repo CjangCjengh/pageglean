@@ -1,0 +1,32 @@
+id: ja-grm-00268
+language: ja
+type: grammar
+level: N3
+level_rank: 3
+title: 〜たいところだが：虽然很想…（委婉转折）
+structure: 动词未然形＋助动词「たい」＋形式名词「ところ」＋だが／なんだけど
+structure_pattern: V-未然形 + たい + ところ + だが
+explanation_zh: 形式名词「ところ」在此表示『局面、场合』，「〜たいところだが」意为『虽然很想……不过……』，用于委婉转折。动词未然形接助动词「たい」表愿望，后接「ところ」使愿望名词化。是日常会话中委婉拒绝、转移话题的常用句型。
+examples:
+- text: もちろん――と、即座に返事をしたい所なんだけど……先に一つ。
+  reading: ''
+  annot: もちろん――と、即座に返事をしたい所なんだけど……先に一つ。
+  translation_zh: 虽然我是很想立刻就回答『当然』啦……不过先说一件事。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 形式名词
+- 语气
+- 委婉
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

@@ -1,0 +1,38 @@
+id: ja-grm-00265
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 〜ことにする：做出决定
+structure: 動詞連体形＋形式名詞「こと」＋助詞「に」＋動詞「する」
+structure_pattern: V-連体形 + 形式名詞「こと」 + に + する
+explanation_zh: 形式名词「こと」把前面的动词名词化，「ことにする」表示说话人自己的决定，即“决定…”。与表示客观趋势的「ことになる」相对：前者是主观做主，后者是事态使然。片段中男主决定先试探莉亚究竟退化到了什么程度。
+examples:
+- text: まずは、どれだけ幼児退行しているのか確かめる事にする。
+  reading: ''
+  annot: まずは、どれだけ幼児退行[ようじたいたいこう]しているのか確[たし]かめる事[こと]にする。
+  translation_zh: 首先，我决定先确认一下（她）究竟退化到了什么程度。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+- text: いつものスーパーにいつものお菓子を買いにいくことに。
+  reading: ''
+  annot: いつものスーパーにいつものお菓子[かし]を買[か]いにいくことに。
+  translation_zh: 决定去常去的那家超市买常买的那种零食。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 形式名詞
+- 決定
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

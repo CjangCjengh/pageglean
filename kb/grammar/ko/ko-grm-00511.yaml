@@ -1,0 +1,40 @@
+id: ko-grm-00511
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: -듯 / -는 듯：比喻与推测
+structure: 用言词干 + 连接词尾 -듯；冠形词形 + 依存名词 듯（-(으)ㄴ/는 듯）
+structure_pattern: V + -듯; V-(으)ㄴ/는 + 듯
+explanation_zh: 连接词尾‘-듯’表示后一动作像前一动作那样进行，相当于“像……似地”；冠形词形加依存名词‘듯’（‘-(으)ㄴ/는 듯’）则表推测或比喻，相当于“好像……”。两者都用于委婉地描写神态与心理，避免直接断言。‘동의를
+  구하듯’属前者，‘약속이라도 한 듯’属后者。
+examples:
+- text: 브룬이 동의를 구하듯 요나를 쳐다보았다.
+  reading: ''
+  annot: 브룬이 동의를 구하듯 요나를 쳐다보았다.
+  translation_zh: 布伦像是在征求同意似的，望向约娜。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+- text: 우리는 약속이라도 한 듯 가로의 방으로 모여들었다.
+  reading: ''
+  annot: 우리는 약속이라도 한 듯 가로의 방으로 모여들었다.
+  translation_zh: 我们像是事先约好了似的，聚到了加罗的房间。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 比喻
+- 推测
+- 依存名词
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 4
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

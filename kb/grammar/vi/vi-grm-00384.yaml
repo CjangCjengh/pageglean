@@ -1,0 +1,32 @@
+id: vi-grm-00384
+language: vi
+type: grammar
+level: L2
+level_rank: 2
+title: 「bị」：不如意／遭受义被动
+structure: 被动标记 bị + 动词／形容词短语（谓语）
+structure_pattern: động từ chỉ quan hệ bị động 'bị' + cụm động từ/tính từ — câu bị
+  động (điều không như ý, đối lập với 'được')
+explanation_zh: 「bị」是越南语被动／遭受标记，表示主体经历不如意、非自愿的情况，与表称心义的「được」相对。此处「bị hoa mắt」表示突然眼花这一不由自主的生理状况。
+examples:
+- text: Tưởng bị hoa mắt, tôi thò tay xuống gầm bàn cấu đùi mình một cái.
+  reading: ''
+  annot: Tưởng bị hoa mắt, tôi thò tay xuống gầm bàn cấu đùi mình một cái.
+  translation_zh: 以为是自己眼花了，我把手伸到桌子底下，在自己大腿上掐了一下。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 被动
+- 语态
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

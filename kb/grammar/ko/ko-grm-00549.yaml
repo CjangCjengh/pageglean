@@ -1,0 +1,39 @@
+id: ko-grm-00549
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: 「从……（来源）」：格助词 -로부터
+structure: 격조사 '-로부터'（表示动作或事物的出发点、来源）
+structure_pattern: N-로부터
+explanation_zh: -로부터 是表示出发点的格助词，强调动作或事物的起点、来源，相当于中文“从……、自……”。用于人时表示“从某人那里（得到、听到）”，比
+  -에서 更突出来源。文中两处分别表示礼物“来自店家”、欢迎“来自他人”。
+examples:
+- text: 들르지도 않은 옆 가게 주인들로부터 온갖 옷과 선물과 먹거리와, 하다못해 어린애들이나 가지고 노는 장난감 나팔까지
+  reading: ''
+  annot: 들르지도 않은 옆 가게 주인들로부터 온갖 옷과 선물과 먹거리와, 하다못해 어린애들이나 가지고 노는 장난감 나팔까지
+  translation_zh: 从没有光顾过的隔壁店家那里（收到了）各种衣服、礼物、食物，甚至连小孩子玩的玩具喇叭……
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+- text: 살면서 누군가로부터 이렇게 환영받아 본 게 처음이었으니까.
+  reading: ''
+  annot: 살면서 누군가로부터 이렇게 환영받아 본 게 처음이었으니까.
+  translation_zh: 毕竟活了这么久，从别人那里受到这样的欢迎还是头一遭。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 助词
+- 出处
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

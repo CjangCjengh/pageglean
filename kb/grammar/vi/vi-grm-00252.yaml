@@ -1,0 +1,32 @@
+id: vi-grm-00252
+language: vi
+type: grammar
+level: L3
+level_rank: 3
+title: 快要……了：将然体「sắp sửa … rồi」
+structure: sắp sửa + V + rồi
+structure_pattern: sắp sửa + V + rồi
+explanation_zh: sắp sửa 表示「快要／即将」，指动作情况马上就要发生；句尾语气词 rồi 加强「眼看就要」的语气。相当于汉语「就要……了」。片段中主人公幽默地借用英语
+  outside，自嘲即将「出局」。
+examples:
+- text: Hôm trước liếc hai cái, hôm nay còn có một, như vậy là sắp sửa outside rồi!
+  reading: ''
+  annot: Hôm trước liếc hai cái, hôm nay còn có một, như vậy là sắp sửa outside rồi!
+  translation_zh: 前天瞟了两眼，今天只剩一眼，这样下去就要出局了！
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 体貌
+- 时态虚词
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

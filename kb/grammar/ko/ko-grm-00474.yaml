@@ -1,0 +1,32 @@
+id: ko-grm-00474
+language: ko
+type: grammar
+level: TOPIK5
+level_rank: 5
+title: 「-(ㄴ/는)다는 둥」：不以为然的转述列举
+structure: 动词/形容词词干 + 引用形‘-(ㄴ/는)다고’ + 의존명사(依存名词)‘둥’
+structure_pattern: V/A + -(ㄴ/는)다는 둥
+explanation_zh: 依存名词‘둥’表示大致的列举，“……之类的”。前面接引用形，列举他人说的话或行为，常暗含说话者并不当真、不以为然的语气。文中用两个‘-다는
+  둥”并列，转述那个女人说过的话。
+examples:
+- text: 무지를 혐오한다는 둥, 호기심을 채운다는 둥 얘기했으니
+  reading: ''
+  annot: 무지를 혐오한다는 둥, 호기심을 채운다는 둥 얘기했으니
+  translation_zh: （她）说过什么厌恶无知啦、满足好奇心之类的话，所以……
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 依存名词
+- 引用
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

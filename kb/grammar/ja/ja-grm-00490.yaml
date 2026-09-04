@@ -1,0 +1,39 @@
+id: ja-grm-00490
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 口语缩约：〜ておく→〜とく、〜ている→〜てる
+structure: 動詞連用形（音便形）＋接続助詞「て」＋補助動詞「おく／いる」→口語音便「とく／てる」
+structure_pattern: V-て + おく → とく / V-て + いる → てる
+explanation_zh: 口语中，接续助词「て」后的补助动词「おく／いる」常发生缩约：「ておく」变成「とく」，「ている」变成「てる」。「来といて」即「来ておいて」，表示事先完成；「付き合ってる」即「付き合っている」。此类缩约在轻小说口语中极常见，正式书面语应还原。
+examples:
+- text: ここまで来といてなんだけど、すんげー恥ずかしくなってきた。
+  reading: ''
+  annot: ここまで来[き]といてなんだけど、すんげー恥[は]ずかしくなってきた。
+  translation_zh: 虽然人都已经走到这一步了再说不太好，但我突然觉得超级不好意思。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+- text: 今、付き合ってる人とかいるの？
+  reading: ''
+  annot: 今[いま]、付[つ]き合[あ]ってる人[ひと]とかいるの？
+  translation_zh: 现在，你有在交往的对象吗？
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 口语
+- 音便
+- 体貌
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 5
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

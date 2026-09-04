@@ -1,0 +1,33 @@
+id: ko-grm-00190
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: -(으)ㄹ 뻔하다：差点儿就……
+structure: 动词词干 + -(으)ㄹ 뻔하다
+structure_pattern: V + -(으)ㄹ 뻔하다 (의존 명사 뻔 + 하다)
+explanation_zh: -(으)ㄹ 뻔하다表示某事险些发生而实际并未发生，相当于中文的“差点儿……”。뻔是依存名词，接在动词冠形词形-(으)ㄹ之后，常与-지만等转折搭配。片段中「빼앗길
+  뻔했지만」（差点被夺走）还叠加了被动词빼앗기다。
+examples:
+- text: 다른 영주들에게 영지를 빼앗길 뻔했지만, 주인님은 자신의 능력을 발휘해 가문을 멸망에서 지켜 내셨습니다.
+  reading: ''
+  annot: 다른 영주들에게 영지를 빼앗길 뻔했지만, 주인님은 자신의 능력을 발휘해 가문을 멸망에서 지켜 내셨습니다.
+  translation_zh: 虽然差点被其他领主夺走领地，但主人发挥自己的能力，使家族免于灭亡。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 의존 명사
+- 양태
+- 피동
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

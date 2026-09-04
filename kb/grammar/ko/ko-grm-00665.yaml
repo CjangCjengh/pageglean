@@ -1,0 +1,33 @@
+id: ko-grm-00665
+language: ko
+type: grammar
+level: TOPIK2
+level_rank: 2
+title: -(으)시-：主体敬语先语末词尾
+structure: 用言词干 + 主体敬语先语末词尾 '-(으)시-' + 词尾
+structure_pattern: V/A + -(으)시-
+explanation_zh: (으)시-是学校语法所称的主体敬语先语末词尾（주체 높임 선어말어미），接在用言词干后，抬高动作主体的地位。本段卡洛对公主全程使用'하시다''계시다'等敬语形式，体现严格的敬语阶位。它可与各种终结词尾自由结合，如'않으시거든''계시기는
+  하나'。
+examples:
+- text: 비록 조종당하고 계시기는 하나, 공주님과 다시 검을 부딪칠 수 있게 되어 한없는 영광입니다!
+  reading: ''
+  annot: 비록 조종당하고 계시기는 하나, 공주님과 다시 검을 부딪칠 수 있게 되어 한없는 영광입니다!
+  translation_zh: 虽然公主殿下正受人操控，但能再次与您刀剑相击，实乃莫大的荣幸！
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 敬语
+- 先语末词尾
+- 语体
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 5
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

@@ -1,0 +1,32 @@
+id: ko-grm-00073
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: -(으)ㅁ에도/임에도 불구하고：让步
+structure: 명사형 전성어미 '-(으)ㅁ' + 조사 '에도' + '불구하고'（체언 + 이다 → 임에도 불구하고）
+structure_pattern: N + 임에도 + 불구하고 / V + -(으)ㅁ에도 + 불구하고
+explanation_zh: 表示让步，相当于「尽管……却……」。学校文法上，'-(으)ㅁ'是名词形转换词尾，将前面的内容体词化，再加'에도 불구하고'。书面色彩较浓，后句出现与前句预期相反的结果。
+examples:
+- text: 전사 계열 캐릭터임에도 불구하고 알테아하고는 대조적인 스타일이었다.
+  reading: ''
+  annot: 전사 계열 캐릭터임에도 불구하고 알테아하고는 대조적인 스타일이었다.
+  translation_zh: 尽管是战士系角色，风格却与阿尔泰娅形成鲜明对比。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 让步
+- 连接表现
+- 书面语
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

@@ -1,0 +1,31 @@
+id: ja-grm-00316
+language: ja
+type: grammar
+level: N2
+level_rank: 4
+title: 〜以上（は）：既然……就……
+structure: 用言連体形／体言＋である ＋以上（は）
+structure_pattern: V-辞書形 / Nである + 以上（は）
+explanation_zh: 接用言连体形或“体言＋である”之后，表示“既然前项成立……”。后项多为判断、义务、结论或决心，隐含“既然如此，自然……”的逻辑。书面语与口语均常见。
+examples:
+- text: 勇者が男である以上、仮に魔王が女性だった場合、その意味は……？
+  reading: ''
+  annot: 勇者[ゆうしゃ]が男[おとこ]である以上[いじょう]、仮[かり]に魔王[まおう]が女性[じょせい]だった場合[ばあい]、その意味[いみ]は……？
+  translation_zh: 既然勇者是男性，那么假如魔王是女性的话，这意思可就……？
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 接续
+- 逻辑关系
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

@@ -1,0 +1,40 @@
+id: ko-grm-00188
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: -아/어 오다：从过去一直持续到现在
+structure: 动词词干 + -아/어 오다（补助动词）
+structure_pattern: V + -아/어 오다 (보조 동사, 지속·누적)
+explanation_zh: -아/어 오다是补助动词结构，表示某动作或状态从过去持续、累积到现在，强调“一直……过来”。与单纯过去时不同，它突出过程的延续性。片段中「유지해
+  왔습니다」「힘을 길러 온 지 수년」都用于追述数年间的历史。
+examples:
+- text: 그동안 주인님은 클라우 에른베스크의 파벌에 속하여, 계속해서 양호한 관계를 유지해 왔습니다.
+  reading: ''
+  annot: 그동안 주인님은 클라우 에른베스크의 파벌에 속하여, 계속해서 양호한 관계를 유지해 왔습니다.
+  translation_zh: 一直以来，主人隶属于克劳·恩贝斯克的派系，持续保持着良好的关系。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+- text: 야심 없는 소악당의 가면을 쓴 채 클라우 에른베스크 밑에서 조용히 힘을 길러 온 지 수년……
+  reading: ''
+  annot: 야심 없는 소악당의 가면을 쓴 채 클라우 에른베스크 밑에서 조용히 힘을 길러 온 지 수년……
+  translation_zh: 戴着毫无野心之小恶党的面具，在克劳·恩贝斯克麾下悄悄积蓄力量已有数年……
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 보조 동사
+- 시제
+- 상
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

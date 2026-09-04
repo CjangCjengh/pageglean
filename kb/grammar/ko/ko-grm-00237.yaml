@@ -1,0 +1,31 @@
+id: ko-grm-00237
+language: ko
+type: grammar
+level: TOPIK5
+level_rank: 5
+title: -(으)ㅁ에도：即使～也…、尽管～却…
+structure: 用言 + 名词化词尾 -(으)ㅁ + 副词格助词 '에' + 补助词 '도'
+structure_pattern: V/A-(으)ㅁ + 에 + 도
+explanation_zh: 名词化词尾-(으)ㅁ将整个句子名词化，后接副词格助词'에'与补助词'도'，表示'即使在……的情况下也……'，是书面色彩浓厚的让步表达，常见于小说与新闻。中文对应'尽管……却……、即使……也……'。与口语形'-는데도'可对比学习。
+examples:
+- text: 그런 공적을 세웠음에도 클라우는 마크베르거를 딱히 우대해 주진 않았다.
+  reading: ''
+  annot: 그런 공적을 세웠음에도 클라우는 마크베르거를 딱히 우대해 주진 않았다.
+  translation_zh: 尽管立下了那样的功勋，克劳却并没有特别优待马克贝尔格。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 让步
+- 书面语
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

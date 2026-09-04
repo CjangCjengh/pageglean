@@ -1,0 +1,39 @@
+id: ko-grm-00675
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: 「-며」：两个动作同时进行
+structure: 动词词干 + 连接词尾 '-며'（表示同时动作/并列）
+structure_pattern: V- + -며
+explanation_zh: 连接词尾「-며」连接两个同时进行的动作或状态，作用相当于「-면서」，但更偏书面叙述。前后主语一般一致，后句常用现在时描写眼前情景。本片段的人物动作描写大量借助这一结构串联。
+examples:
+- text: 요나가 잡아먹을 듯한 표정으로 눈을 부라리며 날 노려본다.
+  reading: ''
+  annot: 요나가 잡아먹을 듯한 표정으로 눈을 부라리며 날 노려본다.
+  translation_zh: 约娜一副要把人吃掉似的表情瞪圆双眼，怒视着我。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+- text: 나는 멀찍이 떨어져서 이 사투를 관전하고 있는 브룬을 가리키며 말했다.
+  reading: ''
+  annot: 나는 멀찍이 떨어져서 이 사투를 관전하고 있는 브룬을 가리키며 말했다.
+  translation_zh: 我指着远远站在一旁观战的布伦，开口说道。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 接续
+- 同时性
+- 书面语
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 6
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

@@ -1,0 +1,39 @@
+id: ko-grm-00680
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: 「-구나：感叹与醒悟」
+structure: 形容词/动词 + -구나（感叹、醒悟）
+structure_pattern: Adj-구나 / V-는구나 / -았/었구나
+explanation_zh: 表示感叹或醒悟的终结词尾，说话人新意识到某一事实时使用，相当于中文的“原来……啊”。形容词词干直接加-구나，动词用-는구나，过去时用-았/었구나。片段中“그렇구나”反复出现，表现人物恍然大悟的情态。
+examples:
+- text: 아아……. 그렇구나.
+  reading: ''
+  annot: 아아……. 그렇구나.
+  translation_zh: 啊啊……原来是这么回事啊。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+- text: 내 긍정에 아아, 그렇구나 하고 키이리가 고갤 끄덕였다.
+  reading: ''
+  annot: 내 긍정에 아아, 그렇구나 하고 키이리가 고갤 끄덕였다.
+  translation_zh: 对我的肯定，基丽喃喃着“啊，原来如此”，点了点头。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 终结词尾
+- 语气
+- 感叹
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

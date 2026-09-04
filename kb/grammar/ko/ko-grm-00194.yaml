@@ -1,0 +1,32 @@
+id: ko-grm-00194
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: 「-ㄴ다고 하다：间接引用与传闻」
+structure: 동사 어간 + 간접인용 연결어미 -ㄴ다고 + 하다
+structure_pattern: V-ㄴ다고 하다
+explanation_zh: '''-ㄴ다고 하다'' 是间接引用结构，转述所听到或普遍流传的说法，相当于「听说……」「据说……」。动词用 ''-ㄴ다고''，形容词用
+  ''-다고''，体言用 ''-(이)라고''。片段以「상당한 시간이 걸린다고 한다」转述「学魔法需要很长时间」这一普遍说法。'
+examples:
+- text: 원래 마법을 배우려면 상당한 시간이 걸린다고 한다.
+  reading: ''
+  annot: 원래 마법을 배우려면 상당한 시간이 걸린다고 한다.
+  translation_zh: 据说原本要学魔法是需要相当长的时间的。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 인용
+- 전언
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

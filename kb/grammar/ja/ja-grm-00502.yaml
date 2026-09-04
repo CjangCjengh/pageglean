@@ -1,0 +1,31 @@
+id: ja-grm-00502
+language: ja
+type: grammar
+level: N3
+level_rank: 3
+title: 〜とは：竟然……（出乎意料）
+structure: V-終止形 + とは（驚き・意外）
+structure_pattern: V-終止形 + とは
+explanation_zh: 句末的「とは」表示对意外情况的惊讶，相当于“竟然……”“没想到……”，后续部分常省略以留余韵。片段中風城感叹“没想到只是随口一提，就被追问到这种程度”。常与「思わなかった」搭配，也可单独结句。
+examples:
+- text: あの時なんとなく口にしただけでこんなに食いつかれるとは。
+  reading: ''
+  annot: あの時[とき]なんとなく口[くち]にしただけでこんなに食[く]いつかれるとは。
+  translation_zh: 没想到只是那时随口一提，就会被这么紧追不放。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 句末/语气
+- 意外
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

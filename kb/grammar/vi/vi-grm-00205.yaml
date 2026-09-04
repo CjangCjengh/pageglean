@@ -1,0 +1,39 @@
+id: vi-grm-00205
+language: vi
+type: grammar
+level: L2
+level_rank: 2
+title: 连词 mà：转折「却、可是」
+structure: 小句 + mà + 小句
+structure_pattern: Clause + mà + Clause（quan hệ từ chỉ tương phản）
+explanation_zh: mà 此处为表转折的关联词（quan hệ từ），连接与预期相反的情况，相当于中文「却、可」。片段中反复出现：「不肯进去 mà 站在外面」「vậy
+  mà dở（那样却还说差」「xem phim mà đi tới bốn người（看电影却去了四个人）」。汉译时按语境选用「却/反而/可是」。
+examples:
+- text: Đi xem phim với phụ nữ mà ngồi ngủ, ông không biết mắc cỡ hả?
+  reading: ''
+  annot: Đi xem phim với phụ nữ mà ngồi ngủ, ông không biết mắc cỡ hả?
+  translation_zh: 跟女孩子去看电影却坐着睡觉，你不懂害羞吗？
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+- text: Dở ở chỗ... xem phim mà đi tới bốn người!
+  reading: ''
+  annot: Dở ở chỗ... xem phim mà đi tới bốn người!
+  translation_zh: 差就差在……看电影却去了四个人！
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 连词
+- 转折
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 5
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

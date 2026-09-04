@@ -1,0 +1,40 @@
+id: ko-grm-00637
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: -며：一边……一边……（동시동작）
+structure: 동사 어간 + -며（동시동작 연결어미）
+structure_pattern: V-stem + -며
+explanation_zh: 연결어미 '-며' 表示两个动作或状态同时进行（동시동작），相当于汉语的“一边……一边……”，属书面语形式，口语多用 '-면서'。片段中高频出现，如
+  '부르며 다가오다'、'물러나며 대답하다'。
+examples:
+- text: 복도 저 끝에서부터 나를 부르며 다가오는 발소리가 들렸다.
+  reading: ''
+  annot: 복도 저 끝에서부터 나를 부르며 다가오는 발소리가 들렸다.
+  translation_zh: 从走廊尽头传来了呼唤着我、渐渐走近的脚步声。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+- text: 나는 창가에서 물러나며 그렇게 대답했다.
+  reading: ''
+  annot: 나는 창가에서 물러나며 그렇게 대답했다.
+  translation_zh: 我一边从窗边后退，一边那样回答道。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 연결어미
+- 동시동작
+- 서술
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 0
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

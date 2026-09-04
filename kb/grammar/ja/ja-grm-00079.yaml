@@ -1,0 +1,31 @@
+id: ja-grm-00079
+language: ja
+type: grammar
+level: N3
+level_rank: 3
+title: 〜ようとする：正要做……
+structure: 动词辞书形 + ようとする
+structure_pattern: V-辞書形 + ようとする
+explanation_zh: 「〜ようとする」表示“正要做某事、刚要……”，描述动作即将发生的瞬间。常以「〜ようとしたとき（に）」引出意外状况。片段中“正要开门时，看到了那一幕”。
+examples:
+- text: リビングの扉を開けようとして、扉のガラス越しに『その光景』が眼に入る。
+  reading: リビングのとびらをあけようとして、とびらのガラスごしに『そのこうけい』がめにはいる。
+  annot: リビングの扉を開けようとして、扉のガラス越しに『その光景』が眼に入る。
+  translation_zh: 正要打开客厅的门时，透过门上的玻璃，“那幅光景”映入了眼帘。
+  source_book: book-ja-001
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 体貌
+- 接续
+provenance:
+  discovered_in: book-ja-001
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

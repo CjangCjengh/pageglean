@@ -1,0 +1,32 @@
+id: ja-grm-00242
+language: ja
+type: grammar
+level: N3
+level_rank: 3
+title: 「〜はしない」：强调绝不做某事
+structure: V連用形 ＋ 副助詞「は」＋ しない（强调否定）
+structure_pattern: V-連用形 + は + しない
+explanation_zh: 在动词連用形与「しない」之间插入副助詞「は」，把该动作单独提出来加以强调，表示“绝不会做～”。同句的「奪わせてもらう」为使役助動詞「せる」連用形＋て＋授受补助动词「もらう」，以“承蒙允许”的说法软化强制意味，礼貌中带着压迫感。
+examples:
+- text: ――傷付けはしない。だがその戦闘力、当分奪わせてもらう――
+  reading: ''
+  annot: ――傷付[きずつ]けはしない。だがその戦闘力[せんとうりょく]、当分[とうぶん]奪[うば]わせてもらう――
+  translation_zh: ——不会伤你的。不过你的战斗力，我就暂时收下了——
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 强调
+- 否定
+- 使役搭配
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

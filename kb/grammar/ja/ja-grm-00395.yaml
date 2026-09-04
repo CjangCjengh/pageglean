@@ -1,0 +1,38 @@
+id: ja-grm-00395
+language: ja
+type: grammar
+level: N2
+level_rank: 4
+title: 〜ようがない：想……也无从……
+structure: 動詞連用形＋形式名詞「よう（様）」＋がない（连体修饰为「〜ようのない」）
+structure_pattern: V-連用形 + ようがない
+explanation_zh: 形式名词「よう」（様）接在动词连用形之后表示方法、途径；「〜ようがない」意为“想要……也毫无办法、无从下手”。连体形「〜ようのない」可直接修饰名词，如「救いようのない」（无从挽救的、无可救药的）。
+examples:
+- text: などという、救いようのないアホな文章が書いてあったからだ。
+  reading: ''
+  annot: などという、救[すく]いようのないアホな文章[ぶんしょう]が書[か]いてあったからだ。
+  translation_zh: 因为（笔记里）竟写着诸如此类无可救药的蠢话。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+- text: そんな感じで余計としか言いようのないプライドに負けた俺は、『昔、一度だけされた。断ったけど』
+  reading: ''
+  annot: そんな感[かん]じで余計[よけい]としか言[い]いようのないプライドに負[ま]けた俺[おれ]は、『昔[むかし]、一度[いちど]だけされた。断[ことわ]ったけど』
+  translation_zh: 就这样，输给了那只能说是多余的自尊心的我，写下了“以前被告白过一次，不过我拒绝了”。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 形式名词
+- 惯用表达
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

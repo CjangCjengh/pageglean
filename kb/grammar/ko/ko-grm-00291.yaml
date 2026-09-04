@@ -1,0 +1,40 @@
+id: ko-grm-00291
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: 「-잖아(요)」：提醒显而易见的事实
+structure: 用言词干 + 终结词尾'-잖아'（'-지 않아'的缩略）
+structure_pattern: V/A + -잖아(요)
+explanation_zh: '''-잖아(요)''是''-지 않아요''的缩略，用于提醒对方已知或显而易见的事实，相当于''不是……吗''。口语对话中使用频率极高，常带指出理由、根据的语气。本段以''불가침
+  상태잖아''''마법을 쓸 수 없잖아''提醒对方既定事实。'
+examples:
+- text: 어째서 아리네시아와 싸워야 하는 거지? 서로 불가침 상태잖아.
+  reading: ''
+  annot: 어째서 아리네시아와 싸워야 하는 거지? 서로 불가침 상태잖아.
+  translation_zh: 为什么非得和阿里尼西亚开战呢？彼此不是处于互不侵犯的状态吗。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+- text: 너, 마법을 쓸 수 없잖아.
+  reading: ''
+  annot: 너, 마법을 쓸 수 없잖아.
+  translation_zh: 你啊，不是用不了魔法吗。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 确认
+- 终结词尾
+- 口语
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

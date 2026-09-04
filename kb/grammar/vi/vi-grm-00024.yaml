@@ -1,0 +1,32 @@
+id: vi-grm-00024
+language: vi
+type: grammar
+level: L2
+level_rank: 2
+title: Adj + nhất：最高级（最……）
+structure: Adj + nhất (+ là + mệnh đề)
+structure_pattern: tính từ + nhất（so sánh hơn nhất）
+explanation_zh: 越南语最高级用“形容词 + nhất”表示，相当于中文“最……”，属学校语法比较范畴（so sánh hơn nhất）中的最高级形式。文中“Khổ
+  nhất là…”作话题性主语，引出“最要命的是……”的内容。
+examples:
+- text: Khổ nhất là ngay từ lần đầu tiên trông thấy Việt An
+  reading: ''
+  annot: Khổ nhất là ngay từ lần đầu tiên trông thấy Việt An
+  translation_zh: 最要命的是，从第一次见到越安起……
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 比较
+- 最高级
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

@@ -1,0 +1,31 @@
+id: th-grm-00047
+language: th
+type: grammar
+level: L2
+level_rank: 2
+title: ก่อน(ที่)จะ：先于……的时间从句
+structure: ก่อน(ที่)จะ + 动词（วิเศษณานุประโยคบอกเวลา）
+structure_pattern: ก่อน(ที่) + จะ + V
+explanation_zh: ก่อน(ที่)จะ+动词是时间从句（วิเศษณานุประโยคบอกเวลา），表示「在做某事之前」或一事先于另一事发生，ที่可省略。片段中「ก่อนจะวางสาย」表示说完即挂电话；「ตีตั๋วก่อนที่จะเก็บเสื้อผ้า」则表示先买票、后收拾行李。
+examples:
+- text: เธอ​ตอบกลับ​มา​เพียง​เท่านั้น​ก่อน​จะ​วางสาย​ไป​ทันที
+  reading: ''
+  annot: เธอ​ตอบกลับ​มา​เพียง​เท่านั้น​ก่อน​จะ​วางสาย​ไป​ทันที
+  translation_zh: 她只回了这么一句，便立刻挂断了电话。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 复合句/时间从句
+- 语序
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

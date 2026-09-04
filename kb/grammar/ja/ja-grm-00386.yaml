@@ -1,0 +1,31 @@
+id: ja-grm-00386
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 命令形与禁止「な」
+structure: 五段动词え段（命令形）／终止形 + 终助词「な」（禁止）
+structure_pattern: V-命令形 / V-終止形 + な(禁止)
+explanation_zh: 命令形是学校文法六活用形之一：五段动词词尾变为え段即成（作る→作れ），语气强硬粗鲁，多用于男性愤怒时的命令。「终止形＋终助词「な」」表示禁止，如「無視するな」（别无视我）。片段中作者还自嘲地把对方升级的喊话称为『命令形』。
+examples:
+- text: 無視するな！ 友達作れ！
+  reading: ''
+  annot: 無視するな！ 友達作れ！
+  translation_zh: 别无视我！快去交朋友！
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 动词活用
+- 语气
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

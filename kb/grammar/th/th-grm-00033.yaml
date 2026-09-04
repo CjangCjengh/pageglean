@@ -1,0 +1,31 @@
+id: th-grm-00033
+language: th
+type: grammar
+level: L2
+level_rank: 2
+title: ไหม / หรือเปล่า：是非疑问句
+structure: 动词/形容词 + ไหม；陈述句 + หรือเปล่า（句末疑问标记）
+structure_pattern: คำกริยา/คำวิเศษณ์ + ไหม ; ประโยคบอกเล่า + หรือเปล่า
+explanation_zh: 「ไหม」直接接在动词或形容词后构成是非问句，相当于中文的『……吗』。「หรือเปล่า」接在陈述句之后，表示『……还是不是／该不会是……吧』，常带有揣测、怀疑的语气。两者都是泰语句末疑问结构（ประโยคคำถาม）。
+examples:
+- text: จะ​โทร​ไป​ดี​ไหม...
+  reading: ''
+  annot: จะ​โทร​ไป​ดี​ไหม...
+  translation_zh: 打个电话过去好不好呢……
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 疑问结构
+- 语气
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

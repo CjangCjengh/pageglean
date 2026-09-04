@@ -1,0 +1,31 @@
+id: ko-grm-00502
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: -는 모양이다：看样子……
+structure: 동사 어간 + 관형사형 어미 -는 + 의존 명사 '모양' + 서술격 조사 이다
+structure_pattern: V-는 모양이다
+explanation_zh: 依存名词모양表示根据观察到的外部迹象作出推测，相当于“看起来……”“似乎……”。动词现在时接-는 모양이다，过去时接-(으)ㄴ 모양이다。文中据对方反应推断两人已听到了对话。
+examples:
+- text: 둘 다 나와 요나 사이에 나눈 대화를 이미 다 들은 모양이었다.
+  reading: ''
+  annot: 둘 다 나와 요나 사이에 나눈 대화를 이미 다 들은 모양이었다.
+  translation_zh: 看来，他们俩早就把我和约娜之间的对话全听到了。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 语气
+- 依存名词
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

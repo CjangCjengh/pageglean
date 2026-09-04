@@ -1,0 +1,32 @@
+id: vi-grm-00431
+language: vi
+type: grammar
+level: L3
+level_rank: 3
+title: đến nỗi：程度之深引出结果
+structure: V/Adj + đến nỗi + 结果分句
+structure_pattern: X + đến nỗi + clause
+explanation_zh: đến nỗi 引出由程度之深导致的结果，相当于汉语「……到……地步／以至于……」；近义形式有 đến mức。本段「quen thuộc
+  đến nỗi…（熟悉到……）」强调对疤痕印象之深。
+examples:
+- text: quen thuộc đến nỗi vừa nhìn thấy tôi đã nhận ra nó ngay
+  reading: ''
+  annot: quen thuộc đến nỗi vừa nhìn thấy tôi đã nhận ra nó ngay
+  translation_zh: 熟悉到刚一看见，我就立刻认了出来。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 程度
+- 接续
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 0
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

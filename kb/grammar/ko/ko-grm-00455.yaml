@@ -1,0 +1,38 @@
+id: ko-grm-00455
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: -(으)ㄴ/는지：内嵌的疑问
+structure: 疑问词 + 用言词干 + -(으)ㄴ/는지
+structure_pattern: 의문사 + V-는지 / A-(으)ㄴ지 / V-았/었는지
+explanation_zh: 表示把疑问内容内嵌进句子里，整个从句充当主语、宾语等成分，常与疑问词 언제/무엇/어째서 等搭配，后接 알다/모르다/기억나다 等动词。汉语近似“……是什么/是否……”。
+examples:
+- text: 언제쯤이었는지는 정확히 기억나지 않는다며
+  reading: ''
+  annot: 언제쯤이었는지는 정확히 기억나지 않는다며
+  translation_zh: （它）说究竟是什么时候的事，自己也记不真切了
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+- text: 그의 어떤 소망이 자신을 이끌었는지도 모른다고 했다.
+  reading: ''
+  annot: 그의 어떤 소망이 자신을 이끌었는지도 모른다고 했다.
+  translation_zh: 还说，连自己是被他哪种愿望牵引而来的都不得而知。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 依存名词
+- 内嵌疑问
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

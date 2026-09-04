@@ -1,0 +1,31 @@
+id: th-grm-00096
+language: th
+type: grammar
+level: L2
+level_rank: 2
+title: หลังจากที่：在……之后
+structure: 主句 + หลังจากที่ + 小句（时间状语从句）
+structure_pattern: หลังจากที่ + clause
+explanation_zh: 泰语用 หลังจากที่ 引出时间状语从句，表示「在……之后」，ที่ 使其后的小句名词化作 หลัง 的补足成分。从句可置于主句之前或之后，但中文习惯先说时间再说结果，翻译时需调整语序。
+examples:
+- text: ผม​พูด​ออกมา​หลังจากที่​กลิ่น​หอม ๆ ของ​ครีม​สีขาว​ข้น​ใน​หม้อ​ใบ​เล็ก​ลอย​มา​เตะจมูก
+  reading: ''
+  annot: ผม​พูด​ออกมา​หลังจากที่​กลิ่น​หอม ๆ ของ​ครีม​สีขาว​ข้น​ใน​หม้อ​ใบ​เล็ก​ลอย​มา​เตะจมูก
+  translation_zh: 在小锅里白色浓稠的奶油香气飘来扑鼻之后，我才开了口。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 时间从句
+- 接续
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

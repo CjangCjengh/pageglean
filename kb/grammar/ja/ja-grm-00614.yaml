@@ -1,0 +1,38 @@
+id: ja-grm-00614
+language: ja
+type: grammar
+level: N3
+level_rank: 3
+title: 〜ようとする：正要做某事的瞬间
+structure: 动词未然形 + 助动词「う/よう」+ 助词「と」+ する
+structure_pattern: V-未然形 + 助動詞「う」 + と + する
+explanation_zh: 按学校文法，「う/よう」是接在动词未然形后表示意志或推量的助动词。「〜ようとする」表示某个动作正要开始，常与「時」搭配描写动作即将发生的那一瞬间。中文可译为「正要〜的时候」。
+examples:
+- text: 色あせたノートを机の中にしまおうとした時、思わず「お疲れさん」という言葉が口をついて出た。
+  reading: ''
+  annot: 色[いろ]あせたノートを机[つくえ]の中[なか]にしまおうとした時[とき]、思[おも]わず「お疲[つか]れさん」という言葉[ことば]が口[くち]をついて出[で]た。
+  translation_zh: 正要把褪色的笔记本收进桌里时，「辛苦了」这句话不知不觉脱口而出。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+- text: 陽気に敬礼して背を向けようとするその影を呼びとめる。
+  reading: ''
+  annot: 陽気[ようき]に敬礼[けいれい]して背[せ]を向[む]けようとするその影[かげ]を呼[よ]びとめる。
+  translation_zh: 我叫住了那个轻快地敬了个礼、正想转身离去的身影。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 复合表达
+- 体貌
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

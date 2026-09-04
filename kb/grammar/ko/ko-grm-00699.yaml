@@ -1,0 +1,40 @@
+id: ko-grm-00699
+language: ko
+type: grammar
+level: TOPIK1
+level_rank: 1
+title: -(으)ㄹ 수 있다/없다：可能与不可能
+structure: 동사 어간 + -(으)ㄹ 수 있다/없다
+structure_pattern: V- + -(으)ㄹ 수 있다/없다
+explanation_zh: 학교문법에서 '수'는 가능성을 나타내는 의존명사이며, 동사가 관형사형 어미 '-(으)ㄹ'로 체언을 수식하고 '있다/없다'가
+  서술하는 구조이다. 중국어의 '能/会……''不能……'에 대응한다. '-(으)ㄹ 수 있었다'처럼 과거 선어말어미를 결합하면 '본래 ~할 수 있었다'는
+  뜻을 나타낸다.
+examples:
+- text: 내가 마왕을 죽일 수 있어.
+  reading: ''
+  annot: 내가 마왕을 죽일 수 있어.
+  translation_zh: 我（说不定）会杀了魔王的。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+- text: 죽일 수 있었어!
+  reading: ''
+  annot: 죽일 수 있었어!
+  translation_zh: （我当时）真有可能杀了你的啊！
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 가능성
+- 의존명사
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 8
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

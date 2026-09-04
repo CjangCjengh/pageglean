@@ -1,0 +1,39 @@
+id: vi-grm-00399
+language: vi
+type: grammar
+level: L2
+level_rank: 2
+title: hả / đâu rồi / hồi nào：口语疑问
+structure: 小句 + 语气词 hả？/ 疑问代词 đâu + rồi？/ 疑问词 hồi nào + vậy？（câu nghi vấn）
+structure_pattern: VP + hả / S + đâu + rồi / hồi nào + vậy
+explanation_zh: 越南语口语疑问句常不借助 có...không 框架，而用句末语气词或疑问词：hả 相当于中文“吗”；đâu rồi 问“（这会儿）去哪儿了”；hồi
+  nào (vậy) 问“什么时候”。语气随便自然，用于熟人之间。
+examples:
+- text: Mày đi một mình hả?
+  reading: ''
+  annot: Mày đi một mình hả?
+  translation_zh: 你一个人来的吗？
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+- text: Mẹ mày đâu rồi?
+  reading: ''
+  annot: Mẹ mày đâu rồi?
+  translation_zh: 你妈妈去哪儿了？
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 疑问
+- 口语
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

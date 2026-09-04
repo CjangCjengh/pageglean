@@ -1,0 +1,41 @@
+id: vi-grm-00342
+language: vi
+type: grammar
+level: L4
+level_rank: 4
+title: 话题语 + thì：话题—说明结构
+structure: 话题语（khởi ngữ）+ 助词 thì + 说明分句
+structure_pattern: khởi ngữ + thì + clause
+explanation_zh: 越南语常把要评论的对象前置为话题语（khởi ngữ），再用 thì 引出评论或结果，构成“话题—说明”句式。此处动词短语“Nhảy
+  xuống／Ngồi lì tại chỗ”作话题，thì 后为假设性后果，相当于汉语“要是……（的话）就……”。
+examples:
+- text: Nhảy xuống thì chắc chắn Việt An sẽ thấy.
+  reading: ''
+  annot: Nhảy xuống thì chắc chắn Việt An sẽ thấy.
+  translation_zh: 跳下去的话，越安肯定会看见。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+- text: Ngồi lì tại chỗ thì không biết chiếc xe chết tiệc này sẽ mang tôi tới đâu
+    trên trái đất bao la này.
+  reading: ''
+  annot: Ngồi lì tại chỗ thì không biết chiếc xe chết tiệc này sẽ mang tôi tới đâu
+    trên trái đất bao la này.
+  translation_zh: 赖在原地的话，天知道这辆该死的车会把我带到这茫茫大地的哪个角落去。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 话题化
+- 语气
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 7
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

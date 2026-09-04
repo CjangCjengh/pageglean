@@ -1,0 +1,39 @@
+id: ko-grm-00649
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: -아/어 버리다：彻底做完（常含遗憾）
+structure: 용언 어간 + 연결어미 '-아/어' + 보조 용언 '버리다'
+structure_pattern: V-아/어 + 버리다 (보조 용언)
+explanation_zh: 补助动词构成，表示动作彻底完成、不留余地，常伴随遗憾、后悔或如释重负的语气。文段两处均表示“完全……掉了”，强调结果的不可逆。
+examples:
+- text: 단번에 손쉽고 깔끔하게 상대를 저 세상에 보내 버리는 지점을 알고 있다.
+  reading: ''
+  annot: 단번에 손쉽고 깔끔하게 상대를 저 세상에 보내 버리는 지점을 알고 있다.
+  translation_zh: （她）知道能一下子轻松利落地把对方送上西天的要害。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+- text: 이제는 나의 일부가 되어 버린 흰 닭을 떠올리며 씁쓸하게 웃었다.
+  reading: ''
+  annot: 이제는 나의 일부가 되어 버린 흰 닭을 떠올리며 씁쓸하게 웃었다.
+  translation_zh: 想起如今已完全成为我身体一部分的那只白鸡，我苦涩地笑了。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 补助动词
+- 体貌/完成
+- 语气
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

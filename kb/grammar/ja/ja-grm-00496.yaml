@@ -1,0 +1,38 @@
+id: ja-grm-00496
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 受身（被动）：〜に言われる
+structure: V-未然形 + 受身助動詞「れる」（動作主は「に/から」）
+structure_pattern: V-未然形 + れる（受身）
+explanation_zh: 受身（被动）由助動詞「れる／られる」表示，接在动词未然形之后，动作的发出者用「に」（或「から」）标出。片段中「言われる」「たすけられた」「食いつかれる」均为受身，且常省略动作主。中文多用“被……”或无主句对应。
+examples:
+- text: よく言われるんだよ。風城はそっち系の顔してるって
+  reading: ''
+  annot: よく言[い]われるんだよ。風城[かぜしろ]はそっち系[けい]の顔[かお]してるって
+  translation_zh: 我经常被人这么说。（说）风城是那种类型的长相。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+- text: 前に知り合いに言われたことがあるんだ。
+  reading: ''
+  annot: 前[まえ]に知[し]り合[あ]いに言[い]われたことがあるんだ。
+  translation_zh: 之前被熟人说过这么一回。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 态/被动
+- 活用
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 5
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

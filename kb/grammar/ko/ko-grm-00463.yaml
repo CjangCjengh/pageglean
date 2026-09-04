@@ -1,0 +1,31 @@
+id: ko-grm-00463
+language: ko
+type: grammar
+level: TOPIK5
+level_rank: 5
+title: 「-(으)ㄹ 따름이다：仅仅是……而已」
+structure: 谓词词干 + -(으)ㄹ 따름이다（依存名词 따름 + 이다）
+structure_pattern: V/A-(으)ㄹ + 따름(의존명사) + 이다
+explanation_zh: 依存名词따름意为「仅此而已」，-(으)ㄹ 따름이다表示「只是……、仅仅是……」，强调除此之外别无其他情形或想法。与-(으)ㄹ 뿐이다同义，但语感更书面、更郑重。片段中키이리以此作答「只是感激不尽」，尽显贵族的得体辞令。
+examples:
+- text: 오히려 갑작스럽게 방문한 저희를 환영해 주시니 감사할 따름입니다, 영주님.
+  reading: ''
+  annot: 오히려 갑작스럽게 방문한 저희를 환영해 주시니 감사할 따름입니다, 영주님.
+  translation_zh: 您反倒欢迎贸然到访的我们，我只是感激不尽，领主大人。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 依存名词组合
+- 书面语/郑重
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

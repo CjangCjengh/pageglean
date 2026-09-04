@@ -1,0 +1,40 @@
+id: ko-grm-00177
+language: ko
+type: grammar
+level: TOPIK2
+level_rank: 2
+title: -아/어야 하다：义务与责任
+structure: 用言词干 + 连接词尾 -아/어야 + 하다
+structure_pattern: 용언 어간 + 연결어미 -아/어야 + 하다
+explanation_zh: 表条件的连接词尾 -아/어야 与 하다 结合，构成“必须……”的义务表达，相当于中文“应该/得做某事”。本片段高频反复出现，强调凯特本应完成的众多使命。与先语末词尾
+  -았/었- 结合则为过去义务 -아/어야 했다。
+examples:
+- text: 카이트는 앞으로 많은 활약을 해야 했다.
+  reading: ''
+  annot: 카이트는 앞으로 많은 활약을 해야 했다.
+  translation_zh: 凯特今后本应大显身手。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+- text: 이 세계의 악당들을 쓰러뜨리고 많은 사람들을 구해야 했다.
+  reading: ''
+  annot: 이 세계의 악당들을 쓰러뜨리고 많은 사람들을 구해야 했다.
+  translation_zh: 本该打倒这个世界的恶人们，拯救许多人。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 情态
+- 义务
+- 接续
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 9
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

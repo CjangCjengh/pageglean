@@ -1,0 +1,39 @@
+id: ko-grm-00529
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: -(으)ㄴ 채(로)：保持某种状态
+structure: 动词词干 + 冠形词形词尾 -(으)ㄴ + 依存名词 채（+ 副词格助词 로，常省略）
+structure_pattern: V + -(으)ㄴ 채(로)
+explanation_zh: 依存名词 채 受冠形词形词尾 -(으)ㄴ 修饰，表示前面的状态、姿势原封不动地保持下去，同时进行后面的动作。后接副词格助词 로，但常省略。对应中文“保持着……的状态／……着”。
+examples:
+- text: 열린 문틈에서는 네글리제 차림의 키이리가 상체를 빼꼼 내민 채 나를 올려다보고 있었다.
+  reading: ''
+  annot: 열린 문틈에서는 네글리제 차림의 키이리가 상체를 빼꼼 내민 채 나를 올려다보고 있었다.
+  translation_zh: 敞开的门缝里，穿着睡裙的基里微微探出上半身，仰头看着我。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+- text: 키이리는 빨개진 얼굴을 양손으로 가린 채 내 눈치를 살폈다.
+  reading: ''
+  annot: 키이리는 빨개진 얼굴을 양손으로 가린 채 내 눈치를 살폈다.
+  translation_zh: 基里用双手捂住涨红的脸，偷偷观察我的反应。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 依存名词
+- 状态
+- 接续
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

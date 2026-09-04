@@ -1,0 +1,31 @@
+id: ja-grm-00111
+language: ja
+type: grammar
+level: N3
+level_rank: 3
+title: 「〜らしい」：看来……（有根据的推测）
+structure: 终止形 ＋ らしい
+structure_pattern: 用言・助動詞-終止形 + 助動詞「らしい」（推定）
+explanation_zh: 「らしい」是学校文法中的推定助动词，接在用言・助动词终止形之后，表示基于某种迹象作出的较有把握的推断。与表示传闻的「〜そうだ」不同，它侧重说话人自己的判断。片段三处均用于揣度对方的心理或事态。
+examples:
+- text: ……もちろん冗談半分でやっていたのだが、本気で嫌がっているらしい。
+  reading: ''
+  annot: ……もちろん冗談半分[じょうだんはんぶん]でやっていたのだが、本気[ほんき]で嫌[いや]がっているらしい。
+  translation_zh: ……我当然只是半开玩笑地闹着玩，可她似乎是真的讨厌。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 语气
+- 推定助動詞
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

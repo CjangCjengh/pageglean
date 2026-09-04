@@ -1,0 +1,38 @@
+id: ja-grm-00467
+language: ja
+type: grammar
+level: N3
+level_rank: 3
+title: 形式名词「わけ」：〜わけだ／〜わけがない
+structure: 形式名词「わけ」＋断定助动词「だ」；否定式「わけ＋が＋ない」
+structure_pattern: 普通形 + わけだ / わけ + が + ない
+explanation_zh: 形式名词「わけ」＋断定助动词「だ」表示基于事理的推断，意为也就是说、理应如此；「わけがない」表示强烈否定，即不可能、哪会。原文「わかるわけであって」以「だ」的连用形「で」接「て」悬启下文，语带保留。「わけねーだろ」是「わけがないだろう」的口语省略与音变。
+examples:
+- text: あいつが普段なにを見ているのかがわかるわけであって。
+  reading: ''
+  annot: あいつが普段[ふだん]なにを見[み]ているのかがわかるわけであって。
+  translation_zh: 也就说可以知道那家伙平时都在看什么了。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+- text: あるわけねーだろそんなもん。
+  reading: ''
+  annot: あるわけねーだろそんなもん。
+  translation_zh: 那种东西怎么可能会有啊。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 形式名词
+- 语气
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

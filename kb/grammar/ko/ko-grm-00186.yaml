@@ -1,0 +1,39 @@
+id: ko-grm-00186
+language: ko
+type: grammar
+level: TOPIK2
+level_rank: 2
+title: -아/어야 하다：义务「必须、应该」
+structure: 谓词词干 + -아/어야 하다(겠다)
+structure_pattern: V/A + -아/어야 하다 / -아/어야겠다
+explanation_zh: -아/어야 하다表示义务或必要性，相当于“必须、应该做……”。中间插入表示意志或推测的先语末词尾-겠-则成-아/어야겠다，语气为“看来得……”。片段中露西的「풀어야겠군요」再叠加感叹终结词尾-군요，表达意识到“必须解开误会”。
+examples:
+- text: 그렇다면 오해를 풀어야겠군요.
+  reading: ''
+  annot: 그렇다면 오해를 풀어야겠군요.
+  translation_zh: 那样的话，就必须解开误会了。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+- text: 부당한 오해 때문에 관계가 악화되는 것은 피해야 합니다.
+  reading: ''
+  annot: 부당한 오해 때문에 관계가 악화되는 것은 피해야 합니다.
+  translation_zh: 应当避免因为无端的误会而使关系恶化。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 의무
+- 양태
+- 연결어미
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

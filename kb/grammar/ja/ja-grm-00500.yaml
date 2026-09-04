@@ -1,0 +1,31 @@
+id: ja-grm-00500
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 〜ようになる：变得……（状态变化）
+structure: V-終止形 + ようになる
+structure_pattern: V-終止形 + ようになる
+explanation_zh: 形式名词「よう」加「になる」表示状态变化，即从“不……”变为“……”。片段中「連絡よこすようになった」指“变得会主动联系我了”。注意与「ようにする」（设法做到）区分。
+examples:
+- text: あの日以来、やたら連絡よこすようになったよな。
+  reading: ''
+  annot: あの日[ひ]以来[いらい]、やたら連絡[れんらく]よこすようになったよな。
+  translation_zh: 自从那天以来，（你）就变得老是给我发消息了呢。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 体貌/变化
+- 形式名词
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

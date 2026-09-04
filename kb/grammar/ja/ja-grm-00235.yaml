@@ -1,0 +1,37 @@
+id: ja-grm-00235
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 假定形＋「ば」：条件（一……就……）
+structure: V-仮定形 + 接続助詞「ば」
+structure_pattern: V-仮定形 + ば
+explanation_zh: 助词「ば」接动词假定形表示条件，相当于"如果……、一……就……"。与「たら」相比，「ば」更强调条件与结果的必然联系，书面色彩更强。片段以「見逃せば」「気を抜けば」（且加副助词「でも」举极端例：哪怕一瞬）强调稍有疏忽即告落败的紧迫感。
+examples:
+- text: わずかな初期動作を見逃せば、即座に見失う速度。
+  reading: ''
+  annot: わずかな初期動作[しょきどうさ]を見逃[みのが]せば、即座[そくざ]に見失[みうしな]う速度[そくど]。
+  translation_zh: 只要漏看一丝起手动作，立刻就会失去目标的速度。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+- text: 一瞬でも気を抜けば敗北は必至。
+  reading: ''
+  annot: 一瞬[いっしゅん]でも気[き]を抜[ぬ]けば敗北[はいぼく]は必至[ひっし]。
+  translation_zh: 哪怕只松懈一瞬，败北也势在必然。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 接续
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

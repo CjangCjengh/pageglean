@@ -1,0 +1,33 @@
+id: ko-grm-00418
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: 「-아/어 놓다：完成后的状态保持」
+structure: 본용언 -아/어 + 보조동사 놓다（结果状态存续）
+structure_pattern: V-아/어 + 놓다（보조용언 구성）
+explanation_zh: 보조동사 -아/어 놓다 表示动作完成后其结果状态被保持，相当于中文「（做）好」「……在那儿」，与 -아/어 두다 相近。‘운을 띄워
+  놓고’指先把话头抛出来搁在那儿，人却半天不说话，前后形成反差，也为后文的停顿作了铺垫。
+examples:
+- text: 운을 띄워 놓고 한참이나 멍한 얼굴로 말이 없던 키이리는, 이윽고 깊이 심호흡을 한 후 나를 바라보았다.
+  reading: ''
+  annot: 운을 띄워 놓고 한참이나 멍한 얼굴로 말이 없던 키이리는, 이윽고 깊이 심호흡을 한 후 나를 바라보았다.
+  translation_zh: 基里起了个话头后，却带着呆愣的神情半天不说话，不久深深吸了一口气，望向了我。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 体貌
+- 补助动词
+- 状态持续
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

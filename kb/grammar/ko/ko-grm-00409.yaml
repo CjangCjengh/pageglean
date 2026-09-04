@@ -1,0 +1,31 @@
+id: ko-grm-00409
+language: ko
+type: grammar
+level: TOPIK5
+level_rank: 5
+title: 「-기 마련이다」：理所当然，难免
+structure: 动词/形容词词干 + -기 마련이다
+structure_pattern: 용언 어간 + 명사형 전성어미 -기 + 서술 표현 '마련이다'
+explanation_zh: 表示按常理自然如此、不可避免，相当于“自然会……”“难免……”。学校语法分析为名词化词尾 -기 使谓词名词化后接“마련이다”。片段用以说明“骗子的话听久了自然会觉得像模像样”。
+examples:
+- text: 사기꾼들 얘기도 30분만 듣다 보면 다 그럴싸하게 들리기 마련이지.
+  reading: ''
+  annot: 사기꾼들 얘기도 30분만 듣다 보면 다 그럴싸하게 들리기 마련이지.
+  translation_zh: 骗子的话听上30分钟，也自然会觉得像模像样。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 语气
+- 依存名词
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 0
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

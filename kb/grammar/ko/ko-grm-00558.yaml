@@ -1,0 +1,39 @@
+id: ko-grm-00558
+language: ko
+type: grammar
+level: TOPIK2
+level_rank: 2
+title: -아/어 주다：为他人而做的恩惠补助动词
+structure: 동사 어간 + -아/어 + 주다
+structure_pattern: V + -아/어 + 주다 (보조동사)
+explanation_zh: 补助动词 주다 接在动词后，表示该动作是为他人而做的，带有恩惠、好意的语气。在学校语法中归为“补助动词”。本段反复出现，体现人物间互相照顾、为对方着想的氛围。
+examples:
+- text: 저 남자, 언제나 저 자리에서 저 마술을 보여 주니까요.
+  reading: ''
+  annot: 저 남자, 언제나 저 자리에서 저 마술을 보여 주니까요.
+  translation_zh: 那个男人总是在那个地方表演那个魔术（给我们看）。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+- text: 주변 사람들이 축하해 주듯 키이리를 향하여 환호성을 질러 주었다.
+  reading: ''
+  annot: 주변 사람들이 축하해 주듯 키이리를 향하여 환호성을 질러 주었다.
+  translation_zh: 周围的人像是祝贺一般，朝着奇莉欢呼起来。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 补助动词
+- 恩惠
+- 敬语
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 8
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

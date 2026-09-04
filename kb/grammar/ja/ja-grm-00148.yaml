@@ -1,0 +1,31 @@
+id: ja-grm-00148
+language: ja
+type: grammar
+level: N3
+level_rank: 3
+title: 〜わけにはいかない：于情于理不能……
+structure: 普通形＋わけにはいかない
+structure_pattern: V-辞書形 + わけには + いかない
+explanation_zh: 形式名词「わけ」＋助词「には」＋动词「いく」，多以否定形式表示碍于常理、情理或社会规范而「不能做〜」。原文只说「わけには」便收住，省略了后面的「いかない」，是对话中典型的省略，语义留给听者意会。表达偏书面、礼貌。
+examples:
+- text: これ以上ご迷惑をかけるわけには――
+  reading: ''
+  annot: これ以上[いじょう]ご迷惑[めいわく]をかけるわけには――
+  translation_zh: （我）不能再给您添更多麻烦了——
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 形式名詞
+- 语气
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

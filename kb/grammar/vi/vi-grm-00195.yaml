@@ -1,0 +1,39 @@
+id: vi-grm-00195
+language: vi
+type: grammar
+level: L3
+level_rank: 3
+title: 可能补语：V + không được（做不了）
+structure: 动词 + không được
+structure_pattern: V + không được
+explanation_zh: 动词后加 không được 表示该动作无法实现或不合适，相当于汉语可能补语的否定式「～不了」（viết không được「写不了」），语序与汉语一致。肯定式为
+  V + được（做得到）。
+examples:
+- text: Thưa cô, mực lợt quá, em viết không được ạ.
+  reading: ''
+  annot: Thưa cô, mực lợt quá, em viết không được ạ.
+  translation_zh: 老师，墨水太淡了，我写不了。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+- text: Cười với ai cũng không được!
+  reading: ''
+  annot: Cười với ai cũng không được!
+  translation_zh: 对谁笑都不行！
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 补语
+- 能愿
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

@@ -1,0 +1,40 @@
+id: ko-grm-00641
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: -ㄴ 채(로)：保持某种状态
+structure: 동사 어간 + -ㄴ 채(로)（의존명사 '채'）
+structure_pattern: V-ㄴ + 채(로)
+explanation_zh: 의존명사 '채' 接在动词 '-ㄴ' 形后，表示保持前一动作形成的状态去做另一件事，相当于“保持着……的样子”。与 '-(으)면서'
+  不同，'-ㄴ 채' 强调结果状态的持续，如 '막아 선 채' 即保持着挡住入口的姿势。
+examples:
+- text: 입구를 막아 선 채, 유리를 박아 넣은 가짜 눈을 도르르 굴리며 서서히 우리 쪽으로 다가오고 있었다.
+  reading: ''
+  annot: 입구를 막아 선 채, 유리를 박아 넣은 가짜 눈을 도르르 굴리며 서서히 우리 쪽으로 다가오고 있었다.
+  translation_zh: 它们保持着挡住入口的姿势，滴溜溜地转动着镶了玻璃的假眼，缓缓向我们逼近。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+- text: 우리는 자리에 우두커니 선 채 이 황당한 상황을 말없이 이해하려 했다.
+  reading: ''
+  annot: 우리는 자리에 우두커니 선 채 이 황당한 상황을 말없이 이해하려 했다.
+  translation_zh: 我们就那样呆站在原地，默默试图理解这荒唐的状况。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 의존명사
+- 상태 지속
+- 방식
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 0
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

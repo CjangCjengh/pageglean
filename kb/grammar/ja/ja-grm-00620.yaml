@@ -1,0 +1,31 @@
+id: ja-grm-00620
+language: ja
+type: grammar
+level: N2
+level_rank: 4
+title: 〜そこねる：没能做成〜
+structure: 动词连用形（ます形去掉ます）＋そこねる
+structure_pattern: V-連用形 + そこねる
+explanation_zh: 复合动词「〜そこねる」接在动词连用形之后，表示没能做成某事、错过了做某事的时机。「助けそこねる」即“没能救成”。语气上常带有遗憾与失误感，是小说叙事中常见的体貌表达。
+examples:
+- text: 俺がたすけそこねたままだった、あの──。
+  reading: ''
+  annot: 俺[おれ]がたすけそこねたままだった、あの──。
+  translation_zh: 那就是我终究没能救出的那个──。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 复合动词
+- 体貌
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

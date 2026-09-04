@@ -1,0 +1,41 @@
+id: vi-grm-00222
+language: vi
+type: grammar
+level: L3
+level_rank: 3
+title: vừa... đã...：刚发生就紧接发生
+structure: vừa + V1 …, đã + V2
+structure_pattern: vừa + V1 … đã + V2
+explanation_zh: 表示前一动作刚完成，后一动作随即发生，相当于汉语「刚……就……」。đã 强调 V2 已然发生、出乎意料地快。片段中「Tôi vừa
+  ngồi xuống, Tiểu Li đã hỏi」即「我刚坐下小梨就发问」。
+examples:
+- text: 'Tôi vừa ngồi xuống, Tiểu Li đã hỏi:'
+  reading: ''
+  annot: 'Tôi vừa ngồi xuống, Tiểu Li đã hỏi:'
+  translation_zh: 我刚坐下，小梨就问道：
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+- text: vừa nghe thấy tên Việt An tôi đã cảm thấy một cái gì đó gần gũi, thân thiết
+    vô cùng
+  reading: ''
+  annot: vừa nghe thấy tên Việt An tôi đã cảm thấy một cái gì đó gần gũi, thân thiết
+    vô cùng
+  translation_zh: 刚一听到“越安”这个名字，我就已经感到一种无比亲近、熟悉的东西。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 时态
+- 接续
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

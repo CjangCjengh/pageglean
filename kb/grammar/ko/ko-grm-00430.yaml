@@ -1,0 +1,32 @@
+id: ko-grm-00430
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: -며：同时进行与并列
+structure: 용언 어간 + -며
+structure_pattern: 어간 + -며
+explanation_zh: '''-며''是表示两个动作同时进行或单纯并列的连接词尾，意义与''-면서''相同，但更偏书面语和文学语体。本句中前一分句的动作充当后一分句的背景动作（삼키며
+  입을 다물었다）。'
+examples:
+- text: 나는 일단 분노를 삼키며 입을 다물었다.
+  reading: ''
+  annot: 나는 일단 분노를 삼키며 입을 다물었다.
+  translation_zh: 我先强压住怒火，闭上了嘴。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 연결어미
+- 동시·나열
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

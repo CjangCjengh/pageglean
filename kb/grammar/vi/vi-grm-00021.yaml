@@ -1,0 +1,34 @@
+id: vi-grm-00021
+language: vi
+type: grammar
+level: L3
+level_rank: 3
+title: không chỉ… mà ngay cả… cũng…：不仅……就连……也……
+structure: không chỉ + A, mà ngay cả + B + cũng + V/Adj
+structure_pattern: không chỉ… mà (ngay cả)… cũng…（cặp quan hệ từ tăng tiến）
+explanation_zh: 递进复句，“không chỉ… mà…”表“不仅……而且……”，插入“ngay cả”（甚至连）举出更极端的例子，再以“cũng”呼应。对应中文“不仅……就连……也……”。学校语法归为表tăng
+  tiến（递进）的成对关联词结构。
+examples:
+- text: không chỉ ánh mắt, nụ cười, mái tóc mà ngay cả cái tên Việt An đối với tôi
+    cũng trở nên gần gũi
+  reading: ''
+  annot: không chỉ ánh mắt, nụ cười, mái tóc mà ngay cả cái tên Việt An đối với tôi
+    cũng trở nên gần gũi
+  translation_zh: 不光是她的眼神、笑容、秀发，就连“越安”这个名字，在我看来也变得格外亲近。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 递进
+- 关联词对
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

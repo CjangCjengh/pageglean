@@ -1,0 +1,39 @@
+id: th-grm-00017
+language: th
+type: grammar
+level: L3
+level_rank: 3
+title: การ / ความ + 动词、形容词：名词化
+structure: อุปสรรค：การ + V ／ ความ + Adj/V → 名词短语
+structure_pattern: การ/ความ + V/Adj
+explanation_zh: การ 和 ความ 是学校语法中列于“อุปสรรค（名词化前缀）”的两个标记：การ 多接动词，ความ 多接形容词或心理动词，构成抽象名词。如
+  การอ่านหนังสือ“读书这件事”、ความเป็นคนพูดไม่เก่ง“不善言辞这一点”。名词化后可充当主语、宾语或介词宾语。
+examples:
+- text: ขลุก​อยู่​กับ​การ​อ่านหนังสือ​แทบ​ทุกวัน
+  reading: ''
+  annot: ขลุก​อยู่​กับ​การ​อ่านหนังสือ​แทบ​ทุกวัน
+  translation_zh: （我）几乎每天都沉浸在读书里。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+- text: เพราะ​ความ​ที่​เป็น​คน​พูด​ไม่​เก่ง​นี่​ล่ะ​นะ
+  reading: ''
+  annot: เพราะ​ความ​ที่​เป็น​คน​พูด​ไม่​เก่ง​นี่​ล่ะ​นะ
+  translation_zh: 正因为（我）是个不善言辞的人啊。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 名词化
+- 构词
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

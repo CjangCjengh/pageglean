@@ -1,0 +1,38 @@
+id: vi-grm-00098
+language: vi
+type: grammar
+level: L3
+level_rank: 3
+title: mới：「才」的迟实现
+structure: 时间/条件小句 + mới + V（副词，表示动作迟或经过程后才实现）
+structure_pattern: '[clause] + mới + V'
+explanation_zh: 副词 mới 置于动词前，表示动作发生得晚、或须经过前文所述过程才得以实现，相当于汉语「才」。前面常有时间或条件小句铺垫（睡到晌午→才起床；留一会儿→才吃）。另有「新、刚」义，须依语境区分。
+examples:
+- text: Tôi ngủ một mạch đến trưa trờ trưa trật mới lồm cồm bò dậy đi rửa mặt.
+  reading: ''
+  annot: Tôi ngủ một mạch đến trưa trờ trưa trật mới lồm cồm bò dậy đi rửa mặt.
+  translation_zh: 我一觉睡到大晌午，这才慢腾腾地爬起来去洗脸。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+- text: Mẹ cho em một ổ bánh mì, em để dành lát nữa mới ăn.
+  reading: ''
+  annot: Mẹ cho em một ổ bánh mì, em để dành lát nữa mới ăn.
+  translation_zh: 妈妈给了我一只面包，我留着等一会儿才吃。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 体貌
+- 副词
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

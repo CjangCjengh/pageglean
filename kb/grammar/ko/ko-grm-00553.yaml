@@ -1,0 +1,31 @@
+id: ko-grm-00553
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: 「-는 통에：因为……（导致不好的结果）」
+structure: 동사 어간 + 관형사형 전성어미 '-는' + 의존명사 '통' + 부사격 조사 '에'
+structure_pattern: V-는 + 통에
+explanation_zh: 依存名词 '통' 加副词格助词 '에' 表示原因，但只用于导致消极、不好结果的原因，带有抱怨、归咎的语气，相当于“因为……弄得……”。中性或积极的原因不能用它。
+examples:
+- text: 자신들이 무엇을 샀는지, 뭘 먹었는지, 어떤 구경을 했는지에 대해 떠들어 대는 통에 휴식을 취한다는 느낌이 전혀 안 들었지만.
+  reading: ''
+  annot: 자신들이 무엇을 샀는지, 뭘 먹었는지, 어떤 구경을 했는지에 대해 떠들어 대는 통에 휴식을 취한다는 느낌이 전혀 안 들었지만.
+  translation_zh: （她们）不停地嚷着自己买了什么、吃了什么、逛了什么，弄得我完全没有在休息的感觉。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 依存名词
+- 原因/结果
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

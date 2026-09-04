@@ -1,0 +1,39 @@
+id: ja-grm-00187
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 「〜のだ／〜んだ：解释说明的语气」
+structure: 用言・助動詞連体形＋準体助詞「の」＋断定助動詞「だ」（口语作「んだ」）
+structure_pattern: 普通形(連体形) + のだ/んだ
+explanation_zh: 学校文法分析为准体助词「の」加断定助动词「だ」，用于解释原因、说明原委，语气比直接断定更强调“事情是这样的”。口语中说成「んだ」，接过去助动词「た」成「〜たんだ」。片段中以「〜んだが」先解释一句再转折，是非常自然的口语用法。
+examples:
+- text: イスカの来訪理由、すごい適当だったんだが……？
+  reading: ''
+  annot: イスカの来訪理由[らいほうりゆう]、すごい適当[てきとう]だったんだが……？
+  translation_zh: 伊斯卡来访的理由，居然这么随便……？
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+- text: 一応、作り話も用意してたんだが……
+  reading: ''
+  annot: 一応[いちおう]、作[つく]り話[ばなし]も用意[ようい]してたんだが……
+  translation_zh: 我姑且也编好了一套说辞，结果……
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 语气
+- 句末表现
+- 口语
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 4
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

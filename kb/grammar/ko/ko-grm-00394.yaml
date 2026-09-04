@@ -1,0 +1,39 @@
+id: ko-grm-00394
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: 「-ㄴ다/는다 평서형：小说叙述的基本语域」
+structure: 용언 어간 + 평서법 종결어미 '-ㄴ다/는다'(현재), '-았/었다'(과거), 체언 + '이다'
+structure_pattern: V/A + -ㄴ다/는다; V/A + -았/었다
+explanation_zh: 韩语小说、文章的叙述部分一般采用平叙式（해라체），即'-ㄴ다/는다'（现在）、'-았/었다'（过去）等终结词尾，而对话部分则按人物关系使用不同敬语阶位。阅读时要区分叙述层与对话层的语域差异。
+examples:
+- text: 뭐가 다른 건지 모르겠다.
+  reading: ''
+  annot: 뭐가 다른 건지 모르겠다.
+  translation_zh: （我）搞不懂到底有什么不同。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+- text: 이쯤에서 가슴 사태를 끝내지 않으면 몇 시간이고 가슴 얘기만 이어질 것 같은 예감이 든다.
+  reading: ''
+  annot: 이쯤에서 가슴 사태를 끝내지 않으면 몇 시간이고 가슴 얘기만 이어질 것 같은 예감이 든다.
+  translation_zh: 我有种预感：现在不终结这场"胸部骚动"的话，接下来几个小时都会一直聊胸部的事。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 종결어미
+- 평서법
+- 문체
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 20
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

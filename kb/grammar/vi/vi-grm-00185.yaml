@@ -1,0 +1,39 @@
+id: vi-grm-00185
+language: vi
+type: grammar
+level: L2
+level_rank: 2
+title: 祈使与禁止：đừng + V 与 V + đi
+structure: đừng + V（禁止）；V + đi（祈使、催促）
+structure_pattern: đừng + V ; V + đi
+explanation_zh: 禁止祈使用“đừng + 动词”，相当于中文“别／不要做某事”。祈使句末加语气词 đi 则表催促、建议或缓和语气，相当于中文“……吧”。两者在口语对话中高频出现，如
+  đừng hỏi（别问）、đổ thêm nước vô đi（再加点水进去吧）。
+examples:
+- text: Thôi, thôi, đừng hỏi!
+  reading: ''
+  annot: Thôi, thôi, đừng hỏi!
+  translation_zh: 算了，算了，别问！
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+- text: Mày về đổ thêm nước vô đi!
+  reading: ''
+  annot: Mày về đổ thêm nước vô đi!
+  translation_zh: 你回去再往里加点水吧！
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 祈使句
+- 语气
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 4
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

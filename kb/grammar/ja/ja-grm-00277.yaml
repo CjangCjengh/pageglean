@@ -1,0 +1,38 @@
+id: ja-grm-00277
+language: ja
+type: grammar
+level: N3
+level_rank: 3
+title: 〜どころか：别说…反而…
+structure: 体言／用言连体形＋どころか
+structure_pattern: N / V-連体形 + どころか
+explanation_zh: 接在名词或动词等之后，否定前项说法，并借此强调后项的程度更进一步，意为「别说～，反而/甚至……」。「殺す気無いどころか」即非但毫无杀意，反而还想把伤害控制在最低限度。对话中常用于加强语势、推翻对方预设。
+examples:
+- text: でも殺す気無いどころか、怪我も最小限にしようとしてたよね、お互いに
+  reading: ''
+  annot: でも殺[ころ]す気[き]無[な]いどころか、怪我[けが]も最小限[さいしょうげん]にしようとしてたよね、お互[たが]いに
+  translation_zh: 可你们别说杀意了，反而还想把彼此的伤控制在最低限度，对吧。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+- text: それどころか――こんなドレスと言っても通りそうな物を日常的に着るのは
+  reading: ''
+  annot: それどころか――こんなドレスと言[い]っても通[とお]りそうな物[もの]を日常的[にちじょうてき]に着[き]るのは
+  translation_zh: 非但如此——像这种说它是礼服也不为过的衣服，日常穿着的话
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 表达
+- 对比
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

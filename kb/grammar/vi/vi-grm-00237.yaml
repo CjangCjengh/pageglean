@@ -1,0 +1,41 @@
+id: vi-grm-00237
+language: vi
+type: grammar
+level: L2
+level_rank: 2
+title: không còn… nữa：不再……
+structure: 否定框架：không (còn) + 动词 + trợ từ（句末助词）nữa
+structure_pattern: không (còn) + V + nữa
+explanation_zh: không còn… nữa 表示“不再……”，强调过去如此、现在已经停止，nữa 为句末助词。片段中另有变体 không… gì
+  nữa（再也不……了），靠语气代词 gì 与 nữa 呼应。整体对应汉语“不再……了”。
+examples:
+- text: Tan học ra, tôi không còn đi về chung với Việt An nữa.
+  reading: ''
+  annot: Tan học ra, tôi không còn đi về chung với Việt An nữa.
+  translation_zh: 放学后，我不再和越安一起同路回家了。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+- text: Chỉ cần mày lơ nó một thời gian, không có tiếp xúc, trò chuyện hay kẹo bánh
+    gì nữa.
+  reading: ''
+  annot: Chỉ cần mày lơ nó một thời gian, không có tiếp xúc, trò chuyện hay kẹo bánh
+    gì nữa.
+  translation_zh: 你只需冷落她一段时间，别再有任何接触、聊天或送糖果糕点什么的。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 否定
+- 句式
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

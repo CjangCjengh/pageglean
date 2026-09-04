@@ -1,0 +1,39 @@
+id: ja-grm-00413
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 授受动词〜てやる・〜てあげる：恩惠表达
+structure: 动词连用形 + て + やる / あげる
+structure_pattern: V-連用形 + て + やる / あげる
+explanation_zh: 授受动词作补助动词，接动词连用形＋て：〜てあげる语气柔和，〜てやる粗鲁并带男性意志色彩，也可用于威胁。してやんよ是してやるよ的口语约音。片段两句分别呈现女生温和的请求与主人公虚张声势的叫嚣。
+examples:
+- text: 返してあげてよ！
+  reading: ''
+  annot: 返してあげてよ！
+  translation_zh: 快还给她呀！
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+- text: め、めちゃくちゃにしてやんよオラぁッ！
+  reading: ''
+  annot: め、めちゃくちゃにしてやんよオラぁッ！
+  translation_zh: 看、看我不把你揍得稀巴烂，喂！
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 授受关系
+- 语气
+- 口语
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

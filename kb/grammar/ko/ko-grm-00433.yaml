@@ -1,0 +1,39 @@
+id: ko-grm-00433
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: 「-(으)ㄴ/는 듯 · -처럼：比喻“像……似的”」
+structure: 用言 + 관형사형 전성어미 -(으)ㄴ/는 + 의존명사 ‘듯’；体言 + 보조조사 ‘처럼’
+structure_pattern: V/A-(으)ㄴ/는 듯(이); N-처럼
+explanation_zh: 学校文法中，관형사형 전성어미（冠形词形转换词尾）‘-ㄴ/는’后接의존명사（依存名词）‘듯’构成比喻，表示“仿佛……似的”；体言则用보조조사（辅助助词）‘처럼’。片段中反复以“口渴的人似的”“陷入恍惚的人似的”描摹시나的神态。相当于中文的“像……一样”。
+examples:
+- text: 시나가 갈증이 난 사람처럼 윗입술을 핥으며 말했다.
+  reading: ''
+  annot: 시나가 갈증이 난 사람처럼 윗입술을 핥으며 말했다.
+  translation_zh: 시나像口渴的人一样舔着上唇说道。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+- text: 파충류를 연상시키는 그 검은 눈동자가, 모처럼 생기를 찾은 듯 번들거렸다.
+  reading: ''
+  annot: 파충류를 연상시키는 그 검은 눈동자가, 모처럼 생기를 찾은 듯 번들거렸다.
+  translation_zh: 那令人联想到爬行动物的黑色眼眸，仿佛久违地找回了生气般泛着光。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 比喻/样态
+- 依存名词
+- 接续
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 6
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

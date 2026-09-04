@@ -1,0 +1,32 @@
+id: ko-grm-00570
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: 「-(으)ㄹ 뿐이다」：只不过……而已
+structure: 谓词冠词形 -(으)ㄹ + 依存名词 뿐 + 이다
+structure_pattern: A/V-(으)ㄹ + 의존명사 뿐 + 이다
+explanation_zh: 依存名词'뿐'意为'仅、只'，'-(으)ㄹ 뿐이다'表示'只不过……罢了'，用以限定并弱化判断。可转作定语'-(으)ㄹ 뿐인'，文中即修饰'여자애'。同一句中出现两次，凸显叙述者自我说服的心理活动。
+examples:
+- text: 이 여자애는, 요나 마리온은, 그냥 내성적이라 타인에게 잘 웃어 주지 않을 뿐인, 평범한 여자애였을 뿐이었나?
+  reading: ''
+  annot: 이 여자애는, 요나 마리온은, 그냥 내성적이라 타인에게 잘 웃어 주지 않을 뿐인, 평범한 여자애였을 뿐이었나?
+  translation_zh: 这个女孩，尤娜·马里翁，难道只是因为内向、不轻易对别人笑，就只是个平凡的女孩子吗？
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 依存名词
+- 限定
+- 语气
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

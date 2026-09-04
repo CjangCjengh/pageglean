@@ -1,0 +1,31 @@
+id: ja-grm-00306
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 〜そうだ：样态，“看起来……”
+structure: 形容詞語幹（用言連用形）+ 様態の助動詞「そうだ」
+structure_pattern: A語幹 + そうだ/そうに
+explanation_zh: 样态助动词「そうだ」接形容词词干（或动词连用形）后，表示由外观作出“看起来……”的推测。「そうに」为其连用形作状语；须与传闻助动词「そうだ」（接终止形）区分。
+examples:
+- text: あんなに苦しそうに戦っていたんだろ？
+  reading: ''
+  annot: あんなに苦[くる]しそうに戦[たたか]っていたんだろ？
+  translation_zh: （你）当时打得那么痛苦，不正是这样吗？
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 语气
+- 助动词
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

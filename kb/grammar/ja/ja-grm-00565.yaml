@@ -1,0 +1,38 @@
+id: ja-grm-00565
+language: ja
+type: grammar
+level: N3
+level_rank: 3
+title: 假定形＋ば：条件假设
+structure: 动词／形容词假定形＋ば
+structure_pattern: V-假定形 + ば
+explanation_zh: 学校文法的标准条件接续：动词由终止形词尾ウ段变为エ段（書く→書け），接续助词「ば」表示“如果……就……”。本片段用“書けば”“死ねば”“明らかになれば”“そうなれば”层层推进假设推理，是议论、独白中的高频句式。
+examples:
+- text: 俺が書けばそれは真実になるんだ。
+  reading: ''
+  annot: 俺[おれ]が書[か]けばそれは真実[しんじつ]になるんだ。
+  translation_zh: 只要我写下来，那就会变成“真相”。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+- text: 光のいじめが明らかになれば、あいつの事故死に疑問を持つ人も現れるはずだ。
+  reading: ''
+  annot: 光[ひかり]のいじめが明[あき]らかになれば、あいつの事故死[じこし]に疑問[ぎもん]を持[も]つ人[ひと]も現[あらわ]れるはずだ。
+  translation_zh: 一旦光遭受霸凌的事被公开，就应该会有人对那家伙死于事故产生疑问。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 接续
+- 条件
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 4
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

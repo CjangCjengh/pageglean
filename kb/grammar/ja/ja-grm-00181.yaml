@@ -1,0 +1,31 @@
+id: ja-grm-00181
+language: ja
+type: grammar
+level: N2
+level_rank: 4
+title: 〜かと思う：差点就……（后怕与庆幸）
+structure: 用言終止形（可接过去助动词「た」）+ かと思う
+structure_pattern: 用言終止形＋助詞「か」＋「と思う」
+explanation_zh: 接用言終止形，表示“差点就……”“眼看就要……”，说话人为坏事没有真正发生而庆幸，与「〜ところだった」相近。片段中主角刚脱离被巨大肉球压身的险境，用此表达后怕。口语中常说「〜かと思った」。
+examples:
+- text: 「……このまま巨大肉球でモフり殺されるかと思った……」
+  reading: ''
+  annot: 「……このまま巨大[きょだい]肉球[にくきゅう]でモフり殺[ころ]されるかと思[おも]った……」
+  translation_zh: “……我还以为这一下就要被巨大的肉球毛茸茸地压死了呢……”
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 语气
+- 体貌
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

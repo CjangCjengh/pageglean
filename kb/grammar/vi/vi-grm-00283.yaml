@@ -1,0 +1,38 @@
+id: vi-grm-00283
+language: vi
+type: grammar
+level: L3
+level_rank: 3
+title: Cứ + 动词：执意、持续做某事
+structure: S + cứ + V（phó từ 副词，表执意／持续）
+structure_pattern: S + cứ + V
+explanation_zh: 「cứ」是副词，表示动作不顾情况地执意进行或反复持续，意为「一个劲儿地……、老是……」。本段两处「cứ」分别写两人各执己见，语气生动。
+examples:
+- text: Hải gầy cứ bắt tôi kêu Việt An là "em" cho nó tình tứ.
+  reading: ''
+  annot: Hải gầy cứ bắt tôi kêu Việt An là "em" cho nó tình tứ.
+  translation_zh: Hải gầy非要我叫Việt An作「em」，说这样才显得亲昵。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+- text: Tôi cứ kêu là Việt An là... Việt An, như thường ngày tôi vẫn xưng hô.
+  reading: ''
+  annot: Tôi cứ kêu là Việt An là... Việt An, như thường ngày tôi vẫn xưng hô.
+  translation_zh: 我还是照旧叫她Việt An……Việt An，就像平时那样称呼。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 体貌
+- 副词
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

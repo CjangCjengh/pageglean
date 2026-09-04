@@ -1,0 +1,32 @@
+id: vi-grm-00231
+language: vi
+type: grammar
+level: L3
+level_rank: 3
+title: vừa…đã…（…liền）：刚一…就…
+structure: vừa + V1，đã + V2（+ liền）（成对副词表紧接）
+structure_pattern: vừa + V1 + đã + V2 (+ liền)
+explanation_zh: 副词 vừa 与 đã 前后呼应，表示前一动作刚发生，后一动作随即发生，相当于「刚一……就……」。句末的 liền 同样表示「立刻」，与
+  vừa 配合。
+examples:
+- text: sáng hôm sau vừa gặp tôi, Hải gầy đã nhăn nhở ca vọng cổ liền
+  reading: ''
+  annot: sáng hôm sau vừa gặp tôi, Hải gầy đã nhăn nhở ca vọng cổ liền
+  translation_zh: 第二天早上一见到我，瘦海就立刻嬉皮笑脸地唱起望古调来。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 体貌
+- 时间
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

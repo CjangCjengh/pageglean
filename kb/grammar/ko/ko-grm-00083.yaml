@@ -1,0 +1,40 @@
+id: ko-grm-00083
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: -게 되다：状态的变化
+structure: 용언 어간 + -게 되다（부사형 전성 어미 -게 + 동사 되다）
+structure_pattern: V/A-게 되다
+explanation_zh: 副词形词尾-게加动词되다，表示由一种状态转变为另一种状态，多暗示该变化非出于本人意愿，相当于中文“变得……／落到……的地步”。片段中用于描写因试炼或诅咒而变成巫妖、亡灵的过程。
+examples:
+- text: 9개의 시련을 전부 통과하면 리치가 되어 데우미나스의 힘을 이어받게 되지만, 하나라도 실패하면 언데드가 되어 영원히 묘지 안을 헤매게
+    된다고 해.
+  reading: ''
+  annot: 9개의 시련을 전부 통과하면 리치가 되어 데우미나스의 힘을 이어받게 되지만, 하나라도 실패하면 언데드가 되어 영원히 묘지 안을 헤매게
+    된다고 해.
+  translation_zh: 据说如果通过全部九个试炼，就能成为巫妖并继承德乌米纳斯的力量；但只要失败一个，就会变成亡灵，永远在墓地里徘徊。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+- text: 목소리를 내는 방법만 알면 일단 다른 사람과 의사소통은 할 수 있게 될 것이다.
+  reading: ''
+  annot: 목소리를 내는 방법만 알면 일단 다른 사람과 의사소통은 할 수 있게 될 것이다.
+  translation_zh: 只要懂得发声的方法，应该就能与他人进行沟通了。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 状态变化
+- 体貌
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

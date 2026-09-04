@@ -1,0 +1,39 @@
+id: ko-grm-00098
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: -(으)ㄹ 테니까：以推测或意志为理由
+structure: 用言词干 + 冠形词形转成词尾 -(으)ㄹ + 依存名词 터 + 叙述格助词 이다 + 连接词尾 -니까（缩略）
+structure_pattern: V/A-(으)ㄹ 터이다 + 니까 → -(으)ㄹ 테니까
+explanation_zh: 由冠形词形转成词尾 -(으)ㄹ、依存名词 터（表推测或意志）、叙述格助词 이다 与连接词尾 -니까 缩略而成的构型。以说话者的推测或意志为根据，引出后句的理由。片段中的“테니”是同一构型的另一种缩略。
+examples:
+- text: 아니, 그럴 생각은 없어. 내가 리치가 되면 많은 아가씨들이 탄식할 테니까 말이야.
+  reading: ''
+  annot: 아니, 그럴 생각은 없어. 내가 리치가 되면 많은 아가씨들이 탄식할 테니까 말이야.
+  translation_zh: 不，我可没那个打算。因为我要是成了巫妖，不知会有多少姑娘伤心叹息呢。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+- text: 그놈의 머리를 잘라서 너한테 가져다줄 테니 그 뒤는 알아서 해.
+  reading: ''
+  annot: 그놈의 머리를 잘라서 너한테 가져다줄 테니 그 뒤는 알아서 해.
+  translation_zh: 我会把那家伙的脑袋砍下来带给你，之后的事你自己看着办吧。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 推测与意志
+- 连接词尾
+- 缩略
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

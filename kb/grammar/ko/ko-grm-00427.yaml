@@ -1,0 +1,39 @@
+id: ko-grm-00427
+language: ko
+type: grammar
+level: TOPIK5
+level_rank: 5
+title: -(으)ㄴ/는 듯(이)：像……似的
+structure: 관형사형 전성어미 + 의존명사 '듯' + (부사격 조사 '이')
+structure_pattern: 관형사형 전성어미 + 듯 + (이)
+explanation_zh: '''듯''是依存名词，意为''像……一样''，接在冠形词形转成词尾后表示比喻或推测。加副词格助词''-이''构成''듯이''，在句中作状语；''아니라는
+  듯이''是引用冠形形''-다는''与''듯''的结合。与''-(으)ㄴ/는 양''意思相近，但''듯''更常用、更中性。'
+examples:
+- text: 하지만 시나는 큰 문제가 아니라는 듯이 고갤 갸웃했다.
+  reading: ''
+  annot: 하지만 시나는 큰 문제가 아니라는 듯이 고갤 갸웃했다.
+  translation_zh: 但希娜却歪着头，一副没什么大不了的样子。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+- text: 가까이 확인한 그녀의 눈동자는 그런 그녀의 속성을 증명하듯 어딘가 불투명했다.
+  reading: ''
+  annot: 가까이 확인한 그녀의 눈동자는 그런 그녀의 속성을 증명하듯 어딘가 불투명했다.
+  translation_zh: 凑近细看，她的眼眸仿佛在印证她的本性一般，透着几分浑浊。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 의존명사
+- 비유·추측
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

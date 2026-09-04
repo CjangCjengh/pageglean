@@ -1,0 +1,31 @@
+id: ja-grm-00618
+language: ja
+type: grammar
+level: N1
+level_rank: 5
+title: 〜とばかりに：仿佛在说……似的
+structure: 引用内容 + 引用助词「と」+ 副助词「ばかり」+「に」
+structure_pattern: '[句] + とばかりに'
+explanation_zh: 「とばかりに」表示「仿佛在说〜似的」，描写不用言语、仅凭动作态度就把意思表露无遗的样子。可分析为引用助词「と」+ 副助词「ばかり」+「に」构成的惯用形。是小说叙述中常用的书面表达。
+examples:
+- text: 話は終わりとばかりに、黒ローブは背を向けて歩き去っていく。
+  reading: ''
+  annot: 話[はなし]は終[お]わりとばかりに、黒[くろ]ローブは背[せ]を向[む]けて歩[ある]き去[さ]っていく。
+  translation_zh: 仿佛在说「到此为止」似的，黑袍人转过身，迈步离去。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 惯用句
+- 书面语
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

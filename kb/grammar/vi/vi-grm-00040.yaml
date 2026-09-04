@@ -1,0 +1,32 @@
+id: vi-grm-00040
+language: vi
+type: grammar
+level: L2
+level_rank: 2
+title: 分类词（loại từ）：thằng、con、cái、kiểu
+structure: 数词/限定词 + 分类词 + 名词；“cái + 数 + cái”可将动作名词化
+structure_pattern: Num/Det + Cl + N ; V + một cái
+explanation_zh: 越南语名词计数或指称时一般须带分类词（学校语法称 danh từ chỉ đơn vị）。thằng 用于男性（口语），con 用于动物或口语中称女性，kiểu
+  表示种类、样式。还常用 cái 把动作名词化，如 nguýt một cái（瞪了一眼）。
+examples:
+- text: Nhưng tôi kệ xác nó, con nhỏ lắm điều này!
+  reading: ''
+  annot: Nhưng tôi kệ xác nó, con nhỏ lắm điều này!
+  translation_zh: 但我才不管她呢，这个多嘴多舌的丫头！
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 分类词
+- 词类
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 8
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

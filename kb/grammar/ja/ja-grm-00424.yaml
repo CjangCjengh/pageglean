@@ -1,0 +1,32 @@
+id: ja-grm-00424
+language: ja
+type: grammar
+level: N1
+level_rank: 5
+title: 「言わんこっちゃない：我不是说了嘛」
+structure: 動詞の未然形＋文語の打消の助動詞「ぬ」の撥音便「ん」＋「こっちゃない（＝ことではない）」
+structure_pattern: V-未然形 + ん + こっちゃない（= ことではない）
+explanation_zh: 「言わんこっちゃない」由「言わないことではない」演变而来，是看到结果后说「我早就说了吧」的惯用责备语。其中「ん」是文语否定助动词「ぬ」的音便残留（与「知らん」同源），「こっちゃない」是「ことではない」的口语缩约。属口语惯用句。
+examples:
+- text: 言わんこっちゃない！
+  reading: ''
+  annot: 言[い]わんこっちゃない！
+  translation_zh: 看吧，我不是说了嘛！
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 惯用句
+- 口语
+- 文语残留
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

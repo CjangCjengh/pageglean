@@ -1,0 +1,31 @@
+id: vi-grm-00151
+language: vi
+type: grammar
+level: L2
+level_rank: 2
+title: cho tới：时间终点「直到」
+structure: 动作 + cho tới + 时间点
+structure_pattern: V + cho tới + thời điểm
+explanation_zh: cho tới（也可说 đến）表示动作或状态延续到某个时间点为止，相当于「直到」。常与表示持续、等待的动词搭配，划定时间的终点。
+examples:
+- text: Mẹ bắt em ngồi trên đi-văng cho tới giờ cơm, không được bước chân xuống đất.
+  reading: ''
+  annot: Mẹ bắt em ngồi trên đi-văng cho tới giờ cơm, không được bước chân xuống đất.
+  translation_zh: 妈妈罚我坐在长沙发上直到吃饭的时候，脚不许落地。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 介词
+- 时间
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 0
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

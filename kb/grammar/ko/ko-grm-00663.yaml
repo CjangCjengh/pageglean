@@ -1,0 +1,40 @@
+id: ko-grm-00663
+language: ko
+type: grammar
+level: TOPIK2
+level_rank: 2
+title: -아/어야 (만) 하다：不得不……
+structure: 연결어미 ‘-아/어야’ (+ 보조사 ‘만’) + ‘하다’
+structure_pattern: V-아/어야 (만) 하다
+explanation_zh: “-(으)아/어야 하다”表示必要性（“必须……、得……”），连接词尾‘-아/어야’表示前句是后句成立的条件。加上补助词‘만’构成‘-아/어야만
+  하다’，强调“只有……才行、不得不”，语气更强。片段中“막아 내야만 했다/떼어 놓아야만 했다/벗어나야 했다”反复出现，表现主人公别无选择的处境。
+examples:
+- text: 요나를 물러나게 했으니, 이제는 달라붙는 가면의 군중들을 어떻게든 떼어 놓아야만 했다.
+  reading: ''
+  annot: 요나를 물러나게 했으니, 이제는 달라붙는 가면의 군중들을 어떻게든 떼어 놓아야만 했다.
+  translation_zh: 既然已经逼退了约娜，现在就必须想办法甩开这些贴上来的人群。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+- text: 가장 빠르게 이 사람들에게서 벗어나야 했다.
+  reading: ''
+  annot: 가장 빠르게 이 사람들에게서 벗어나야 했다.
+  translation_zh: （我）得以最快的速度摆脱这些人。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 必要
+- 义务
+- 强调
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 4
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

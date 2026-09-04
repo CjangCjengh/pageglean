@@ -1,0 +1,31 @@
+id: ja-grm-00210
+language: ja
+type: grammar
+level: N3
+level_rank: 3
+title: 〜べき：理应如此（助動詞「べし」）
+structure: 動詞終止形（辞書形） + べき（助動詞「べし」連体形）
+structure_pattern: V-辞書形 + べき
+explanation_zh: 学校文法中助动词「べし」在现代语中的继承形式，接动词终止形（辞书形），表示理应如此、“应当……”，语气郑重、书面色彩较浓。「べきか」用于独白，表示自问是否应当这样做。
+examples:
+- text: 何か、手を打っておくべきか。
+  reading: ''
+  annot: 何[なに]か、手[て]を打[う]っておくべきか。
+  translation_zh: 是不是该事先采取点什么措施呢。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 助動詞
+- 語気
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

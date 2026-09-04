@@ -1,0 +1,31 @@
+id: ja-grm-00396
+language: ja
+type: grammar
+level: N2
+level_rank: 4
+title: 〜かと思うと：刚一……就……（出乎意料）
+structure: 動詞終止形（多用タ形）＋助詞「か」＋動詞「思う」＋接続助詞「と」
+structure_pattern: V-終止形(タ形) + かと思うと
+explanation_zh: 表示前项刚一发生，后项紧接着出现令人意外的变化，译为“刚一……就……”。结构上可分析为动词终止形（多为过去形）＋疑问助词「か」＋动词「思う」＋接续助词「と」。多用于叙述场面，强调变化之快令人来不及反应。
+examples:
+- text: もじもじしていたその子は、真っ赤な顔で大きく息を吸いこんだかと思うと──。
+  reading: ''
+  annot: もじもじしていたその子は、真っ赤な顔で大きく息を吸いこんだかと思うと──。
+  translation_zh: 那个一直扭扭捏捏的女孩涨红了脸深深吸了一口气，紧接着就——。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 接续
+- 惯用表达
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

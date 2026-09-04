@@ -1,0 +1,31 @@
+id: ko-grm-00236
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: -곤 했다：过去常常～
+structure: 动词 + 辅助连接词尾 -고 + 补助词 '는' + 补助动词 '하-' 过去形（'-고는 했다' 的缩略）
+structure_pattern: V-곤 했다 (= V-고는 했다)
+explanation_zh: '''-곤 했다''是''-고는 했다''的缩略形式，连接词尾-고后加补助词는和补助动词하-的过去形，表示过去反复出现的动作或习惯性行为，意为''常常～、总是～''。多用于回忆性叙述。中文对应''常常……、每每……''。'
+examples:
+- text: 인상을 찡그리며 고개를 숙이곤 했다.
+  reading: ''
+  annot: 인상을 찡그리며 고개를 숙이곤 했다.
+  translation_zh: （他）常常皱起眉头，低下头去。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 时相
+- 习惯/反复
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

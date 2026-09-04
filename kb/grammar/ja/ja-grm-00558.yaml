@@ -1,0 +1,31 @@
+id: ja-grm-00558
+language: ja
+type: grammar
+level: N3
+level_rank: 3
+title: 「〜ようとする：正想要……」
+structure: 动词意志形（助动词「う・よう」终止形） + 格助词「と」 + 「する」
+structure_pattern: V-意志形 + とする
+explanation_zh: 表示正要做某事、试图做某事，动作即将发生或正在尝试，「正要……／想要……」。由动词意志形接引用助词「と」再加「する」构成。常用于叙述动作的起点。
+examples:
+- text: そのまま俺に背を向けて去って行こうとする風城。
+  reading: ''
+  annot: そのまま俺[おれ]に背[せ]を向[む]けて去[さ]って行[い]こうとする風城[かぜしろ]。
+  translation_zh: 风城就这样背对着我，正打算离去。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 体貌/尝试
+- 意志表現
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

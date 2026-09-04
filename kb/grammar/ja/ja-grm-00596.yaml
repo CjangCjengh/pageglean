@@ -1,0 +1,31 @@
+id: ja-grm-00596
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 「〜つもり：打算与意图」
+structure: 動詞辞書形 ＋ 形式名詞「つもり」
+structure_pattern: V-辞書形 + つもり
+explanation_zh: 形式名词「つもり」接动词辞书形，表示主观的打算或意图，“打算……／本以为……”。文中「死ぬつもりで」意为“本已抱着去死的决心”，与「てっきり（满以为）」呼应，突显事与愿违的反差。
+examples:
+- text: 俺、死ぬつもりで……てっきり……
+  reading: ''
+  annot: 俺[おれ]、死[し]ぬつもりで……てっきり……
+  translation_zh: 我本来都打算去死了……我还满以为……
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 形式名词
+- 意图
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

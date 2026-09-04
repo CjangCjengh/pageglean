@@ -1,0 +1,31 @@
+id: ja-grm-00247
+language: ja
+type: grammar
+level: N2
+level_rank: 4
+title: 〜た上で：在……之后再……
+structure: 動詞連体形（助動詞「た」）＋上で
+structure_pattern: V-た(連体形) + 上で
+explanation_zh: 助動詞「た」的連体形接形式名词「上（うえ）」，表示在前项完成的基础上进行后项，「在……之后再……、……的前提下……」，比「〜てから」语感更书面、正式。注意与「名詞＋の上で」（在……方面）用法区分。
+examples:
+- text: おそらく精神を幼児退行させた上で、肉体も精神に引きずられる様に変異させる、そんな術だろ。
+  reading: ''
+  annot: おそらく精神[せいしん]を幼児退行[ようじたいたいこう]させた上[うえ]で、肉体[にくたい]も精神[せいしん]に引[ひ]きずられる様[よう]に変異[へんい]させる、そんな術[じゅつ]だろ。
+  translation_zh: 恐怕是先让精神幼儿退行，再让肉体受精神牵引而变异的术吧。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 接续
+- 时间先后
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

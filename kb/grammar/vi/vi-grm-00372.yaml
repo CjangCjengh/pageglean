@@ -1,0 +1,33 @@
+id: vi-grm-00372
+language: vi
+type: grammar
+level: L4
+level_rank: 4
+title: “đã”的虚拟用法：本来早就会…
+structure: 假设条件小句, 主语 + đã + V
+structure_pattern: (Gặp/Nếu...) + 条件, S + đã + V
+explanation_zh: đã 通常表示已然或过去，但与未实现的条件搭配时，表示与事实相反的假设结果，相当于汉语“（要是…）早就…了”。片段“Gặp lúc
+  khác, tôi đã xấu hổ quay mặt đi”意为“换了别的场合，我早就羞得转过脸去了”，下句以“Nhưng lúc này”（可此刻）转回现实，形成虚实对照。
+examples:
+- text: Gặp lúc khác, tôi đã xấu hổ quay mặt đi.
+  reading: ''
+  annot: Gặp lúc khác, tôi đã xấu hổ quay mặt đi.
+  translation_zh: 要是换了别的时候，我早就羞得转过脸去了。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 时态虚词
+- 虚拟
+- 语气
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

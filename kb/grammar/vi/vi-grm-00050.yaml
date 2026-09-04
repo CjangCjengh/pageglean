@@ -1,0 +1,42 @@
+id: vi-grm-00050
+language: vi
+type: grammar
+level: L3
+level_rank: 3
+title: 「nếu…thì…」条件复句：假设与虚拟
+structure: Nếu + điều kiện + thì + kết quả（câu ghép chính phụ；虚拟语气配 đã…rồi）
+structure_pattern: nếu + clause + thì + clause (+ đã…rồi)
+explanation_zh: 「nếu…thì…」是越南语条件复句（câu ghép chính phụ）的关联词对，相当于汉语「如果……就……」；「có…thì」为强调变体。配合完成体助词「đã…rồi」可表示与事实相反的虚拟，如「Nếu
+  có thể chui được xuống đất thì tôi đã chui rồi」。
+examples:
+- text: Nếu có thể chui được xuống đất thì tôi đã chui rồi.
+  reading: ''
+  annot: Nếu có thể chui được xuống đất thì tôi đã chui rồi.
+  translation_zh: 要是能钻进地里，我早就钻进去了。（形容羞愧至极）
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+- text: Lần sau có thấy thơ hay thì anh chép vô sách của anh chứ đừng chép vô sách
+    của tôi!
+  reading: ''
+  annot: Lần sau có thấy thơ hay thì anh chép vô sách của anh chứ đừng chép vô sách
+    của tôi!
+  translation_zh: 下次再看到好诗，你就抄到自己的书里去，别抄到我的书上！
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 复句
+- 条件
+- 虚拟
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

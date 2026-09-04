@@ -1,0 +1,32 @@
+id: vi-grm-00394
+language: vi
+type: grammar
+level: L3
+level_rank: 3
+title: cứ ... hoài：动作的反复与持续
+structure: 副词 cứ + 动词 + 句末 hoài（表示重复、持续的体貌）
+structure_pattern: S + cứ + VP + hoài
+explanation_zh: 副词 cứ 表示动作、状态不断重复或持续不变，句末再加 hoài 强调“没完没了”，常带无奈、嗔怪的语气。整体相当于中文“老是……个不停”。
+examples:
+- text: 'Thấy tôi cứ "tôi, tôi" hoài, Việt An nhắc giùm:'
+  reading: ''
+  annot: 'Thấy tôi cứ "tôi, tôi" hoài, Việt An nhắc giùm:'
+  translation_zh: 见我老是“我、我”个没完，越安便好心地替我提示道：
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 体貌
+- 语气
+- 口语
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

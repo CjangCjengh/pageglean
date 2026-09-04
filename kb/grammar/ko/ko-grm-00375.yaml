@@ -1,0 +1,31 @@
+id: ko-grm-00375
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: -게 만들다：使、让（使动结构）
+structure: 用言词干 + 副词形词尾 -게 + 动词 만들다（使动构成，与 -게 하다 同义）
+structure_pattern: V/A + -게 만들다
+explanation_zh: 使动结构，表示使某人处于某种状态或做出某行为，相当于“使/让……”。与 -게 하다 意思相近，但 만들다 更强调“导致某种结果”。是韩语表达使役义的常用手段之一。
+examples:
+- text: 이 세계에서 가장 신분이 높은 여자들을 모조리 취해서, 자기 앞에 무릎 꿇게 만드는 거야.
+  reading: ''
+  annot: 이 세계에서 가장 신분이 높은 여자들을 모조리 취해서, 자기 앞에 무릎 꿇게 만드는 거야.
+  translation_zh: 把这个世界里身份最高的女人们全部据为己有，让她们跪在自己面前。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 使动
+- 接续
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

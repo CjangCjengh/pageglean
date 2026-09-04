@@ -1,0 +1,39 @@
+id: th-grm-00002
+language: th
+type: grammar
+level: L2
+level_rank: 2
+title: ที่：名词后的定语从句
+structure: นาม + ที่ + อนุประโยค (คำสรรพนามเชื่อมความ ส่วนขยายตามหลังนาม)
+structure_pattern: N + ที่ + clause
+explanation_zh: ที่相当于汉语的“……的”，引导定语从句修饰前面的名词；泰语的定语一律后置，从句跟在名词之后。片段里描写人物、头发、衣物的长定语都由ที่引出，是书面泰语中最高频的结构之一。
+examples:
+- text: เธอ​คน​นี้​เป็น​เด็กผู้หญิง​ที่​ผม​รับ​มา​ดูแล​ชั่วคราว​ด้วย​เหตุผล​บางอย่าง
+  reading: ''
+  annot: เธอ​คน​นี้​เป็น​เด็กผู้หญิง​ที่​ผม​รับ​มา​ดูแล​ชั่วคราว​ด้วย​เหตุผล​บางอย่าง
+  translation_zh: 这个女孩是我因为某些原因暂时接来照顾的孩子。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+- text: เอา​ผ้า​ที่​ใส่​แล้ว​ใส่​ลง​ไป​ใน​ตะกร้า
+  reading: ''
+  annot: เอา​ผ้า​ที่​ใส่​แล้ว
+  translation_zh: 把穿过的衣服放进篮子里。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 关系从句
+- 修饰语后置
+- 语序
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 10
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

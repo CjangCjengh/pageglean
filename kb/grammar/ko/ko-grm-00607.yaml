@@ -1,0 +1,39 @@
+id: ko-grm-00607
+language: ko
+type: grammar
+level: TOPIK5
+level_rank: 5
+title: 「-기 마련이다：按其规律必然如此」
+structure: 用言词干 + 名词化词尾 -기 + 依存名词 마련 + 叙述格助词 이다
+structure_pattern: V/A-기 + 마련이다
+explanation_zh: 依存名词 마련 意为“注定的道理、当然的规律”，与名词化词尾 -기 搭配，表示按其本性必然如此、在所难免。多用于书面语与说理语境，相当于中文“自然会／难免／理所当然”。
+examples:
+- text: 고인 것은 썩어 가기 마련이다.
+  reading: ''
+  annot: 고인 것은 썩어 가기 마련이다.
+  translation_zh: 停滞不流的东西，自然会慢慢腐坏。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+- text: 마지막은 원래 허망하고 허탈하기 마련인 걸까.
+  reading: ''
+  annot: 마지막은 원래 허망하고 허탈하기 마련인 걸까.
+  translation_zh: 结局，原本就注定是虚无而怅然的吗？
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 依存名词
+- 语气
+- 书面语
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

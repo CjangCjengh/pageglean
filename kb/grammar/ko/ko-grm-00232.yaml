@@ -1,0 +1,38 @@
+id: ko-grm-00232
+language: ko
+type: grammar
+level: TOPIK2
+level_rank: 2
+title: '''-ㅂ니다''格式体：郑重的敬语阶位'
+structure: 终结词尾对比：格式体(합쇼체) '-ㅂ니다/습니다' 与 非格式体(해요체) '-아/어요'
+structure_pattern: V/A-ㅂ니다/습니다 vs. V/A-아/어요
+explanation_zh: 韩国学校语法按格式把终结词尾分为格式体（합쇼체 '-ㅂ니다'）与非格式体（해요체 '-아/어요'）等。片段中其他人物均以非格式体交谈，唯独루시全程使用'-ㅂ니다'体（'불가능합니다''됩니다'），塑造其郑重、一丝不苟的形象。学习者应注意按场合与对象保持语体统一，避免混用。
+examples:
+- text: 유감스럽게도, 그건 불가능합니다.
+  reading: ''
+  annot: 유감스럽게도, 그건 불가능합니다.
+  translation_zh: 很遗憾，那是不可能的。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+- text: 아니요, 목을 자르는 것 자체가 불가능하다는 겁니다.
+  reading: ''
+  annot: 아니요, 목을 자르는 것 자체가 불가능하다는 겁니다.
+  translation_zh: 不，（我的意思是）砍脖子这件事本身就不可能。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 敬语阶位
+- 终结词尾
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 8
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

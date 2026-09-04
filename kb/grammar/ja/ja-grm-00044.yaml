@@ -1,0 +1,32 @@
+id: ja-grm-00044
+language: ja
+type: grammar
+level: N2
+level_rank: 4
+title: 〜ことから：由于（事实原因）
+structure: 小句 + ことから
+structure_pattern: 普通形 + ことから
+explanation_zh: 表示原因、根据，意为“由于…（这一事实）”，多用于书面叙述，比「から」「ので」更正式。句中「出来ず」是「できない」的文言否定连用形「ず」，同样带有书面色彩。
+examples:
+- text: この道は帰り道である事から無視することも出来ず、街灯の陰になっていた場所に目を向ける。
+  reading: このみちはかえりみちであることからむしすることもできず、がいとうのかげになっていたばしょにめをむける。
+  annot: この道は帰り道である事から無視することも出来ず、街灯の陰になっていた場所に目を向ける。
+  translation_zh: 因为这条路正是回家的路，没法视而不见，我便把目光投向路灯的阴影处。
+  source_book: book-ja-001
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 接续
+- 因果
+- 书面语
+provenance:
+  discovered_in: book-ja-001
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

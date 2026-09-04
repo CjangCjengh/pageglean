@@ -1,0 +1,33 @@
+id: ko-grm-00589
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: -기는 하다：承认中的转折
+structure: 용언 어간 + 명사형 전성어미 -기 + 보조사 -는 + 보조동사 하다（축약형 -긴 하다）
+structure_pattern: V/A-기는 하다
+explanation_zh: 由名词形转成어미'-기'加补助词'-는'再接补助动词하다构成，承认某一事实属实，同时暗示与另一情况的对照，相当于"……倒是……"。口语中常缩略为'-긴
+  하다'。文中"잠이 안 오긴 했지"承认"确实睡不着"，为后文的转折埋下伏笔。
+examples:
+- text: 뭐, 행사를 떠나는 전날이면 조마조마해서 잠이 안 오긴 했지.
+  reading: ''
+  annot: 뭐, 행사를 떠나는 전날이면 조마조마해서 잠이 안 오긴 했지.
+  translation_zh: 怎么说呢，每逢出发参加活动的前一天，我总会紧张得睡不着觉——倒确是这样。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 让步
+- 对照
+- 补助用言
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

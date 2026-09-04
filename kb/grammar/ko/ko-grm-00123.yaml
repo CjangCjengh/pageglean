@@ -1,0 +1,39 @@
+id: ko-grm-00123
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: 「-다니：惊讶与难以置信的感叹」
+structure: 动词 + -다니（종결어미，表感叹）
+structure_pattern: V-다니
+explanation_zh: -다니是종결어미，用于说话者对某一事实感到惊讶、赞叹或不满而发出感叹。多用于对自己亲眼所见、亲耳所闻之事难以置信的场合，中文近似"竟然……（真是……）"。
+examples:
+- text: 잠들어 있는 리치의 반지를 몰래 훔치다니, 저주 받을 것 같네요.
+  reading: ''
+  annot: 잠들어 있는 리치의 반지를 몰래 훔치다니, 저주 받을 것 같네요.
+  translation_zh: 竟然偷偷窃取沉睡中的巫妖的戒指，感觉会遭到诅咒呢。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+- text: 감히 ‘흑의 클라우’에게 덤빌 생각을 하다니 말입니다.
+  reading: ''
+  annot: 감히 ‘흑의 클라우’에게 덤빌 생각을 하다니 말입니다.
+  translation_zh: 竟然胆敢对“黑衣克劳”出手，真是没想到啊。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 语气
+- 终结词尾
+- 情感
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

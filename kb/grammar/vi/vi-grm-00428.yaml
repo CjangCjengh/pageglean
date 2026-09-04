@@ -1,0 +1,33 @@
+id: vi-grm-00428
+language: vi
+type: grammar
+level: L2
+level_rank: 2
+title: không… mà…：不是……而是……
+structure: không + V1 + mà + V2
+structure_pattern: không + V1 + mà + V2
+explanation_zh: 先否定前一分句，再用连接词 mà 引出相反或替代的事实，相当于汉语「不是……而是……」。mà 在此标记转折与对照，是越南语最常用的转折连接手段之一。
+examples:
+- text: tôi không bay lượn chung quanh Việt An mà lặng lẽ và hồi hộp đi vòng tới trước
+    mặt nó
+  reading: ''
+  annot: tôi không bay lượn chung quanh Việt An mà lặng lẽ và hồi hộp đi vòng tới
+    trước mặt nó
+  translation_zh: 我没有绕着越安飞来飞去，而是默默地、怀着忐忑绕到它面前。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 否定
+- 接续
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 0
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

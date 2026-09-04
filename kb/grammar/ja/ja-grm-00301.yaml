@@ -1,0 +1,31 @@
+id: ja-grm-00301
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 〜させてもらう：使役与授受的结合
+structure: 動詞未然形＋使役の助動詞「せる／させる」連用形＋接続助詞「て」＋補助動詞「もらう」
+structure_pattern: V-未然形 + せる／させる + て + もらう
+explanation_zh: 学校文法中「せる／させる」为使役助動詞，接「てもらう」后表示“承蒙允许做某事/让我来做某事”，多用于借机行事或略带自谦的场合。此处「利用させてもらう」是主角自述“我就借用一下这个局势了”，配合前文「イスカには悪いけど」传达歉疚之意。
+examples:
+- text: イスカには悪いけど、この状況を利用させてもらう……！
+  reading: ''
+  annot: イスカには悪[わる]いけど、この状況[じょうきょう]を利用[りよう]させてもらう……！
+  translation_zh: 虽然对伊斯卡过意不去，但这个局势我就借用一下了……！
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 使役
+- 授受表現
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

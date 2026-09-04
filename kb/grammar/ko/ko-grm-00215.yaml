@@ -1,0 +1,40 @@
+id: ko-grm-00215
+language: ko
+type: grammar
+level: TOPIK5
+level_rank: 5
+title: -ㄴ 채(로)：保持原状态
+structure: 动词词干 + 冠形词形 -ㄴ/은 + 依存名词 채(로)
+structure_pattern: V-ㄴ 채(로)
+explanation_zh: 채是依存名词，接在动词冠形词形 -ㄴ/은 后，表示“保持前一动作造成的状态不变”去做后一动作，相当于中文“保持着……的样子”。后面常加格助词
+  로，也可省略。本句描写克劳身体陷在靠垫里的状态一直保持。
+examples:
+- text: 쿠션에 몸을 파묻은 채 나른한 표정을 지으며, 무방비한 모습으로 허공을 쳐다보고 있었다.
+  reading: ''
+  annot: 쿠션에 몸을 파묻은 채 나른한 표정을 지으며, 무방비한 모습으로 허공을 쳐다보고 있었다.
+  translation_zh: （她）把身体埋在靠垫里，带着慵懒的表情，毫无防备地望着空中。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+- text: 요나는 침통한 표정으로 양손을 모아 쥔 채 서 있을 뿐, 더 이상 공격할 의사는 없는 것 같았다.
+  reading: ''
+  annot: 요나는 침통한 표정으로 양손을 모아 쥔 채 서 있을 뿐, 더 이상 공격할 의사는 없는 것 같았다.
+  translation_zh: 优娜神情沉痛，双手合拢握着，只是站在那儿，似乎已经没有再攻击的意思了。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 依存名词
+- 状态保持
+- 接续
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

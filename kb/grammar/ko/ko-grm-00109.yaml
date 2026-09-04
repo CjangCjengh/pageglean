@@ -1,0 +1,38 @@
+id: ko-grm-00109
+language: ko
+type: grammar
+level: TOPIK2
+level_rank: 2
+title: 「-아/어야 하다」：必须、得（义务·必要）
+structure: '연결어미 ''-아/어야'' + ''하다''（다짐: ''-아/어야지/-아야겠다''）'
+structure_pattern: V/A- + -아/어야 + 하다
+explanation_zh: 连接词尾'-아/어야'后接'하다'，表示义务或必要，即'必须……''得……'。在独白中以'-아/어야지''-아야겠지'收尾时，表示说话人的自我决心或打算。片段中多次出现。
+examples:
+- text: 그렇기 때문에 전투력을 보강할 수 있는 장비를 갖춰야 한다.
+  reading: ''
+  annot: 그렇기 때문에 전투력을 보강할 수 있는 장비를 갖춰야 한다.
+  translation_zh: 因此，必须配备能够增强战斗力的装备。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+- text: 일단 기습에 대비할 수 있어야겠지.
+  reading: ''
+  annot: 일단 기습에 대비할 수 있어야겠지.
+  translation_zh: 首先，得能防备偷袭才行吧。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 义务/必要
+- 独白语气
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 4
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

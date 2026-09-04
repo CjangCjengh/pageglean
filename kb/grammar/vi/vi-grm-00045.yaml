@@ -1,0 +1,37 @@
+id: vi-grm-00045
+language: vi
+type: grammar
+level: L2
+level_rank: 2
+title: 是非问：Adj + không? / …hay không
+structure: 形容词/小句 + (hay) không?
+structure_pattern: ADJ/CL + (hay) không
+explanation_zh: 形容词或句子后加“không”构成是非问，如“Hay không?”（好看吗？）；“hay không”也可表“……与否/是否”。片段两种用法均出现。分别对应中文的“……吗？”与“是否……”。
+examples:
+- text: Hay không?
+  reading: ''
+  annot: Hay không?
+  translation_zh: （这本书）好看吗？
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+- text: xem thử nó có thái độ gì khác lạ hay không.
+  reading: ''
+  annot: xem thử nó có thái độ gì khác lạ hay không.
+  translation_zh: 看看她的态度有没有什么异样。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 疑问
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

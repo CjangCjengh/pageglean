@@ -1,0 +1,30 @@
+id: ja-grm-00182
+language: ja
+type: grammar
+level: N3
+level_rank: 3
+title: 〜気がする：觉得、隐约感觉
+structure: 用言連体形 + 気がする（也可作连体修饰：〜気がする＋名词）
+structure_pattern: 用言連体形＋形式名詞「気」＋格助詞「が」＋動詞「する」
+explanation_zh: 表示“觉得……”“有……的感觉”，是把握不大的直觉判断，比「と思う」更主观、依据更弱。「〜ていた気がする」表示隐约觉得曾经……；「気がする」还可连体修饰名词，如片段中的「垂涎な死に方の気もする」。
+examples:
+- text: 「……ハッキリとは覚えていないが――フリーザ様になってた気がする」
+  reading: ''
+  annot: 「……ハッキリとは覚[おぼ]えていないが――フリーザ様[さま]になってた気[き]がする」
+  translation_zh: “……虽然记得不太清楚——但感觉我好像变成弗利萨大人了。”
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 语气
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

@@ -1,0 +1,39 @@
+id: ko-grm-00490
+language: ko
+type: grammar
+level: TOPIK5
+level_rank: 5
+title: -다니：惊讶与反问
+structure: 용언 어간 + 연결어미 '-다니'
+structure_pattern: V/A-다니
+explanation_zh: 连接词尾，表示对对方所说内容感到惊讶、意外或不满，并由此引出后文的反应或反问。相当于中文的“竟然说……”“说什么……”。常用于对话中表达说话人的情绪反应。
+examples:
+- text: 미묘해 보였다니, 한마디로 그냥 네 녀석의 '감'이라는 거냐?
+  reading: ''
+  annot: 미묘해 보였다니, 한마디로 그냥
+  translation_zh: 你说“看起来微妙”，说白了不就是凭你这家伙的“直觉”吗？
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+- text: 행운의 동전을 갖고 있다니, 너무 부러워요!
+  reading: ''
+  annot: 행운의 동전을 갖고 있다니, 너무 부러워요!
+  translation_zh: 竟然拥有幸运之币，真让人羡慕啊！
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 连接词尾
+- 情感
+- 反问
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

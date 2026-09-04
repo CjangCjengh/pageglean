@@ -1,0 +1,39 @@
+id: ko-grm-00387
+language: ko
+type: grammar
+level: TOPIK2
+level_rank: 2
+title: 「-는데(요)」：背景铺垫与委婉转折
+structure: 用言词干 + 연결어미（连接词尾）-는데(요)（배경·대조）
+structure_pattern: V/A- + -는데(요)
+explanation_zh: 学校文法中表背景·对照的连接词尾：先交代前一状况作为铺垫，或引出与之相对的内容。也可用'-는데(요)'单独结句，欲言又止、语气委婉，留给对方回应余地。中文可译为'……倒是……''虽然……但是……'。
+examples:
+- text: 그런 건 별로 필요 없는데, 이상한 감정이라도 품은 걸까.
+  reading: ''
+  annot: 그런 건 별로 필요 없는데, 이상한 감정이라도 품은 걸까.
+  translation_zh: 那种东西倒是不太需要，（他）该不会是怀抱着什么奇怪的感情吧。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+- text: 네 명의 직속 부하들하고도 육체관계가 있는 것 같은데, 그녀들하고는 어떤 방식으로 하는 걸까.
+  reading: ''
+  annot: 네 명의 직속 부하들하고도 육체관계가 있는 것 같은데, 그녀들하고는 어떤 방식으로 하는 걸까.
+  translation_zh: （他）好像和四名直属部下也有肉体关系，和她们又是用什么方式做的呢？
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 连接词尾
+- 背景/转折
+- 语气
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

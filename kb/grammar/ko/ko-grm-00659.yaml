@@ -1,0 +1,32 @@
+id: ko-grm-00659
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: -아/어 달라고：转述请求的间接引用
+structure: 动词 + 连接词尾 -아/어 + 달라（请求）+ 引用助词 고 + 말씀드리다（客体敬语）
+structure_pattern: V-아/어 + 달라고 + 말씀드리다
+explanation_zh: 间接引用结构：-아/어 달라是请求听者为说话者做某事的청유형（“请给我……”），加引用助词-고即可转述该请求内容。“말씀드리다”是말하다的客体敬语形式，体现对听者的抬举。句末连接词尾-는데留下未尽之意。
+examples:
+- text: 그러게 그만 이 도시에서 꺼져 달라고 말씀드렸는데.
+  reading: ''
+  annot: 그러게 그만 이 도시에서 꺼져 달라고 말씀드렸는데.
+  translation_zh: 我不是都说了嘛，请赶紧从这座城市消失……
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 间接引用
+- 敬语阶位
+- 连接词尾
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

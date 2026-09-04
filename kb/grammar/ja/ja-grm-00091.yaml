@@ -1,0 +1,38 @@
+id: ja-grm-00091
+language: ja
+type: grammar
+level: N5
+level_rank: 1
+title: 〜のだ／〜んだ：解释说明与确认语气
+structure: 用言・助動詞連体形＋のだ／んだ
+structure_pattern: V/A-連体形 + のだ/んだ
+explanation_zh: 由形式名词「の」＋断定助动词「だ」构成，口语中「の」变为「ん」。用于说明原因、解释情况，或向对方寻求确认，带有解释口吻而非单纯陈述。片段中多次出现，如「初対面で間違い無いと思うのだが」以委婉语气寻求对方确认。
+examples:
+- text: それは閃光防御じゃなくて紫外線対策だよなぁ!?
+  reading: ''
+  annot: それは閃光[せんこう]防御[ぼうぎょ]じゃなくて紫外線[しがいせん]対策[たいさく]だよなぁ!?
+  translation_zh: 那根本不是什么闪光防御，而是防紫外线措施吧！？
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+- text: 俺もこんな印象的な子と会っていたら、忘れるとは思えない。だから初対面で間違い無いと思うのだが
+  reading: ''
+  annot: 俺[おれ]もこんな印象的[いんしょうてき]な子[こ]と会[あ]っていたら、忘[わす]れるとは思[おも]えない。だから初対面[しょたいめん]で間違[まちが]い無[な]いと思[おも]うのだが
+  translation_zh: 我要是见过这么让人印象深刻的孩子，不可能忘记。所以我想应该是初次见面没错……
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 语气
+- 说明・确认
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 6
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

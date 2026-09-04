@@ -1,0 +1,39 @@
+id: ko-grm-00559
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: -더니：回忆所见并引出转折
+structure: 용언 어간 + -더니
+structure_pattern: 용언 + -더니 (연결어미)
+explanation_zh: 连接词尾 더니 表示说话人回忆自己亲眼所见的过去情形，且该情形与后文形成对照或成为其原因。多与第三人称主语搭配，用于表现人物动作、情况的突然转变。
+examples:
+- text: 요나가 피식 코웃음을 치더니 고갤 푹 숙였다.
+  reading: ''
+  annot: 요나가 피식 코웃음을 치더니 고갤 푹 숙였다.
+  translation_zh: 约娜扑哧一声冷笑了一下，随即深深低下了头。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+- text: 키이리가 내 손을 잡아끌더니, 내 손바닥 위에 척 하고 동전을 올려놓았다.
+  reading: ''
+  annot: 키이리가 내 손을 잡아끌더니, 내 손바닥 위에 척 하고 동전을 올려놓았다.
+  translation_zh: 奇莉拉着我的手，啪地一下把硬币放在了我的手心上。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 连接词尾
+- 回想
+- 转折
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

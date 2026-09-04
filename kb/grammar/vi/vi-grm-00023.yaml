@@ -1,0 +1,32 @@
+id: vi-grm-00023
+language: vi
+type: grammar
+level: L3
+level_rank: 3
+title: như thể：仿佛……、好像……（虚拟比较）
+structure: … như thể + mệnh đề
+structure_pattern: như thể（quan hệ từ so sánh giả định）+ mệnh đề
+explanation_zh: “như thể”引导比喻或假设性比较分句，意为“仿佛、好像”，后接内容常为虚拟或与事实相反的想象。文中与“đã… đâu”连用，调侃“仿佛我上辈子就已经爱上了这个名字”。
+examples:
+- text: gần gũi, thân thiết lạ lùng như thể tôi đã yêu cái tên ấy đâu từ... kiếp trước
+  reading: ''
+  annot: gần gũi, thân thiết lạ lùng như thể tôi đã yêu cái tên ấy đâu từ... kiếp
+    trước
+  translation_zh: 亲近、亲切得不可思议，仿佛我……上辈子就已经爱上了这个名字似的。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 比较
+- 虚拟
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

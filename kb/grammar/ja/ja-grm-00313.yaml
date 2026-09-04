@@ -1,0 +1,39 @@
+id: ja-grm-00313
+language: ja
+type: grammar
+level: N2
+level_rank: 4
+title: 「〜やがる」：竟然……（轻蔑・口语）
+structure: 動詞連用形＋やがる（補助動詞）
+structure_pattern: V-連用形 + やがる
+explanation_zh: 补助动词「やがる」接动词连用形，表示说话人对他人行为的轻蔑、不满或恼怒，是粗鲁的口语用法。文中表现主角恼火红音明知敏感却故意重提旧事。勿与表示施惠的「〜てやる」混淆。
+examples:
+- text: 紅音のヤツ、わかってて蒸し返しやがった……！
+  reading: ''
+  annot: 紅音[あかね]のヤツ、わかってて蒸[む]し返[かえ]しやがった……！
+  translation_zh: 红音那家伙，明明心里有数还故意翻旧账……！
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+- text: わかったらさっさと飯を作りやがれなのです。
+  reading: ''
+  annot: わかったらさっさと飯[めし]を作りやがれなのです。
+  translation_zh: 明白了的话，就赶紧给我做饭！（命令语气）
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 语气
+- 口语
+- 补助动词
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

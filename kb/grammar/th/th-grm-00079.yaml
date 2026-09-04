@@ -1,0 +1,31 @@
+id: th-grm-00079
+language: th
+type: grammar
+level: L2
+level_rank: 2
+title: 「连动式：动词直接连用」
+structure: V1 + V2（+ V3）动词连用，无需连词
+structure_pattern: V + V (+ V) (连动)
+explanation_zh: 泰语可以把几个动词直接连用构成连动式，中间不需要连词。如 กลับมาอยู่ 由“回＋来＋住”叠加，表示回来并住下；พูดออกมา（说出来）也是动词加方向补语的连动结构。
+examples:
+- text: เธอ​พูด​ออกมา​ด้วย​ความ​มุ่งมั่น
+  reading: ''
+  annot: เธอ​พูด​ออกมา​ด้วย​ความ​มุ่งมั่น
+  translation_zh: 她语气坚定地说出来。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 连动式
+- 句法
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

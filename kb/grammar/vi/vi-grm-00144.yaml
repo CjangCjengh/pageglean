@@ -1,0 +1,39 @@
+id: vi-grm-00144
+language: vi
+type: grammar
+level: L1
+level_rank: 1
+title: 分类词 cái / chiếc
+structure: 分类词（loại từ）+ 名词（cái/chiếc 用于无生命事物）
+structure_pattern: cái/chiếc + N
+explanation_zh: 越南语名词被指称或计数时通常要带分类词（danh từ chỉ loại）。cái 是无生命事物的通称分类词，chiếc 强调单个、可分离的物件。片段中“cái
+  lon”（易拉罐）、“chiếc dép”（拖鞋）反复出现；同一个罐子也偶见说“chiếc lon”，可见文学语言中选择有弹性。
+examples:
+- text: Nói xong, tôi bước ra sân vẻ một vòng tròn rồi đặt cái lon vào chính giữa.
+  reading: ''
+  annot: Nói xong, tôi bước ra sân vẻ một vòng tròn rồi đặt cái lon vào chính giữa.
+  translation_zh: 说完，我到院子里画了一个圈，把易拉罐放在正中间。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+- text: Chiếc dép bay "vù" một cái, đập xuống đất thật mạnh rồi bắn vọt ra xa.
+  reading: ''
+  annot: Chiếc dép bay "vù" một cái, đập xuống đất thật mạnh rồi bắn vọt ra xa.
+  translation_zh: 拖鞋“嗖”地飞出去，重重砸在地上，又弹到远处。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 量词
+- 分类词
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 7
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

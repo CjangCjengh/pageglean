@@ -1,0 +1,31 @@
+id: ja-grm-00403
+language: ja
+type: grammar
+level: N3
+level_rank: 3
+title: 〜からといって：虽说……也不能……
+structure: 文（普通形）＋からといって（後件は逆接）
+structure_pattern: 普通形 + からといって
+explanation_zh: 接在表示理由的从句之后，后项加以否定或转折，意为「虽说……也不能就……／并不代表……」。常与いくら搭配，批评以前项为理由的后项做法；文中即「就算救过她，也不能让她拍这种照片」。
+examples:
+- text: いくらたすけたからといって、こんなきわどい写真を撮らせるとはなんてけしからん話だ。
+  reading: ''
+  annot: いくらたすけたからといって、こんなきわどい写真[しゃしん]を撮[と]らせるとはなんてけしからん話[はなし]だ。
+  translation_zh: 就算说救过人家，也不能让人家拍这种出格的照片啊，真是岂有此理。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 接续
+- 让步
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

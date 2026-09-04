@@ -1,0 +1,38 @@
+id: vi-grm-00039
+language: vi
+type: grammar
+level: L2
+level_rank: 2
+title: đi、hả：句末祈使与反诘语气词（情态词）
+structure: 祈使句（câu cầu khiến）+ đi ／ 疑问句（câu nghi vấn）+ hả
+structure_pattern: Clause + đi! / Clause + hả?
+explanation_zh: đi 是祈使句的情态词（tình thái từ），置于句末表示催促、鼓励对方行动，接近汉语的“吧”。hả 是疑问情态词，表示质问或带有惊讶的反诘，口语色彩强、语气直接。
+examples:
+- text: Ông lại đây nói chuyện với Việt An đi!
+  reading: ''
+  annot: Ông lại đây nói chuyện với Việt An đi!
+  translation_zh: 你过来跟越安说说话吧！
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+- text: Chuyện rõ ràng vậy mà ông còn chối đây đẩy nữa hả!
+  reading: ''
+  annot: Chuyện rõ ràng vậy mà ông còn chối đây đẩy nữa hả!
+  translation_zh: 事情都明明白白了，你竟然还这样矢口抵赖吗！
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 语气词
+- 情态
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

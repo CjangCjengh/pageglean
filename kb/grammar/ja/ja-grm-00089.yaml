@@ -1,0 +1,31 @@
+id: ja-grm-00089
+language: ja
+type: grammar
+level: N3
+level_rank: 3
+title: 「〜はずはない」：不可能、绝不会
+structure: 用言連体形＋形式名詞「はず」＋係助詞「は」＋ない
+structure_pattern: V-連体形 + はず + は + ない
+explanation_zh: 形式名詞「はず」表示基于道理的推测“理应……”，「はずはない」强烈否定某种可能性，意为“不可能……”。文中「わかっていないハズは無い」用双重否定表达“不可能不明白＝一定明白”的强烈肯定。
+examples:
+- text: わかっていないハズは無い。頭の回転は相当良さそうだし、世間知らずのような、ズレた感じも無い。
+  reading: ''
+  annot: わかっていないハズは無い。頭[あたま]の回転[かいてん]は相当[そうとう]良[よ]さそうだし、世間知[せけんし]らずのような、ズレた感[かん]じも無い。
+  translation_zh: 他不可能不明白。他脑子转得相当快，也没有那种不谙世事、脱线的感觉。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 形式名词
+- 语气
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

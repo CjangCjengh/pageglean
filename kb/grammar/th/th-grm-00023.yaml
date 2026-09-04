@@ -1,0 +1,38 @@
+id: th-grm-00023
+language: th
+type: grammar
+level: L3
+level_rank: 3
+title: แม้ว่าจะ…ก็ตาม：让步连词「尽管……也……」
+structure: คำสันธาน（连词）แม้ว่า + อนุประโยค（从句）+ ก็ตาม，前后呼应表让步
+structure_pattern: แม้ว่า(สันธาน) + อนุประโยค … ก็ตาม
+explanation_zh: แม้ว่า…ก็ตาม是成对使用的คำสันธาน（连词），引导让步从句，相当于“尽管……也……”，从句中常带助动词จะ（แม้ว่าผมจะ…ก็ตาม）。从句位置可前可后，本段两次都置于主句之后，起补充转折的作用。简化形式为แม้…ก็。
+examples:
+- text: เธอ​บอกเลิก​กับ​ผม​แม้ว่า​ผม​จะ​พยายาม​บอก​เธอ​ว่า​ผม​ไม่สนใจ​เรื่อง​ระยะทาง​ที่​ห่างกัน​ก็ตาม
+  reading: ''
+  annot: เธอ​บอกเลิก​กับ​ผม​แม้ว่า​ผม​จะ​พยายาม​บอก​เธอ​ว่า​ผม​ไม่สนใจ​เรื่อง​ระยะทาง​ที่​ห่างกัน​ก็ตาม
+  translation_zh: 尽管我努力告诉她我不在意相隔的距离，她还是和我分手了。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+- text: แม้ว่า​ในใจ​ตอนนั้น​มัน​จะ​รับ​ไม่ค่อย​ได้ก็​เถอะ
+  reading: ''
+  annot: แม้ว่า​ในใจ​ตอนนั้น​มัน​จะ​รับ​ไม่ค่อย​ได้ก็​เถอะ
+  translation_zh: 尽管那时心里其实不太能接受。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 让步
+- 连词
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

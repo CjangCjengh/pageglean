@@ -1,0 +1,39 @@
+id: vi-grm-00275
+language: vi
+type: grammar
+level: L3
+level_rank: 3
+title: 话题结构：话题 + thì 与双主语句
+structure: 话题 + thì + 说明；名词短语 + 代词复指 + 谓语
+structure_pattern: Topic + thì + Comment / NP + Pron + VP
+explanation_zh: 越南语是话题优先型语言：话题常置于句首，用 thì 提顿（如「còn viết sao thì tùy mày」，至于怎么写就随你）。也可以在谓语部分用代词（如
+  nó）复指前面的话题，构成双主语句（如「tụi con gái nó khó mở miệng lắm」）。còn…thì 则表示「至于……则……」。
+examples:
+- text: Tao chỉ gợi ý vậy thôi, còn viết sao thì tùy mày!
+  reading: ''
+  annot: Tao chỉ gợi ý vậy thôi, còn viết sao thì tùy mày!
+  translation_zh: 我只是提个建议而已，至于怎么写就随你啦！
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+- text: Mà những chuyện như thế này, tụi con gái nó khó mở miệng lắm.
+  reading: ''
+  annot: Mà những chuyện như thế này, tụi con gái nó khó mở miệng lắm.
+  translation_zh: 而像这种事情，女孩子家是很难开口的。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 话题结构
+- 句法
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

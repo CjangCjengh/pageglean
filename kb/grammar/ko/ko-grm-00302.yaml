@@ -1,0 +1,32 @@
+id: ko-grm-00302
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: -는 듯하다：仿佛……似的
+structure: 动词词干 + -는 듯(하다)，常与마치搭配
+structure_pattern: V-는 듯하다 / V-는 듯한 + N
+explanation_zh: 依存名词듯表示「好像、仿佛」，常与副词마치搭配构成比喻。动词后接-는 듯(하다)可作谓语，也可转成「-는 듯한+名词」作定语。原文「마치…듯한
+  느낌」写出刺空时那种不真实的触感。
+examples:
+- text: 마치 아즐란의 그림을 찌르는 듯한 느낌이었다.
+  reading: ''
+  annot: 마치 아즐란의 그림을 찌르는 듯한 느낌이었다.
+  translation_zh: 就像刺中的是阿兹兰的画像一样。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 比况
+- 推测
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

@@ -1,0 +1,38 @@
+id: ko-grm-00322
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: -다가：动作的中断与转换
+structure: 연결어미 '-다가'(동작의 중단·전환)
+structure_pattern: V-다가
+explanation_zh: 连接词尾-다가表示前一动作或状态在进行中中断、转为另一情况，相当于汉语「正在……的时候（却）……」。只接动词，后半句多为中途遭遇的事件。片段中「탐색하다가」「싸우다가」都引出行动中途发生的变故。
+examples:
+- text: 아즐란의 명령으로 설원 지대의 미궁을 탐색하다가 고향 마을의 생존자를 만나고
+  reading: ''
+  annot: 아즐란의 명령으로 설원 지대의 미궁을 탐색하다가 고향 마을의 생존자를 만나고
+  translation_zh: 奉阿玆兰的命令探索雪原地带的迷宫时，遇到了故乡村庄的幸存者，……
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+- text: 카이트 일행과 싸우다가 부상을 입지.
+  reading: ''
+  annot: 카이트 일행과 싸우다가 부상을 입지.
+  translation_zh: 在和凯特一行人战斗的途中负了伤。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 连接词尾
+- 转折
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

@@ -1,0 +1,32 @@
+id: ko-grm-00125
+language: ko
+type: grammar
+level: TOPIK5
+level_rank: 5
+title: 「-(느)ㄴ다는 것은：命题名词化作话题」
+structure: 动词 + -(느)ㄴ다 + 의존명사 것 +（은），관형사형 전성어미引用整个命题
+structure_pattern: V-(느)ㄴ다는 것
+explanation_zh: 用관형사형 전성어미 -(느)ㄴ다引用一个完整命题，再经依存名词'것'名词化，使其充当句子的话题或主语。用于对某一事实整体加以评论，是论述文与书面叙述的高频结构，中文可译"……这件事（是……）"。
+examples:
+- text: 강력한 마도사로 유명한 아즐란이 마법을 쓰지 않고 부하에게 모든 전투를 맡긴다는 건 부자연스럽다.
+  reading: ''
+  annot: 강력한 마도사로 유명한 아즐란이 마법을 쓰지 않고 부하에게 모든 전투를 맡긴다는 건 부자연스럽다.
+  translation_zh: 以强大魔法师著称的阿兹兰却不使用魔法、把所有战斗都交给部下，这是不自然的。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 接续
+- 名词化
+- 书面语
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

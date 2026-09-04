@@ -1,0 +1,31 @@
+id: ja-grm-00191
+language: ja
+type: grammar
+level: N2
+level_rank: 4
+title: 「〜どころか：别说……、岂止……」
+structure: 用言連体形・体言＋どころか（形式名詞「どころ」＋助詞「か」）
+structure_pattern: V-連体形 + どころか
+explanation_zh: 「どころか」彻底否定前项，并引出程度更甚的后项，“别说……就连/反而……”。学校文法上可分析为形式名词「どころ」加助词「か」。片段中先否定“有女装的意识”，再递进到“连这个词本身都不理解”，语势强烈。
+examples:
+- text: 女装しているという意識が無いどころか――その単語自体を理解してない可能性も。
+  reading: ''
+  annot: 女装[じょそう]しているという意識[いしき]が無[な]いどころか――その単語自体[たんごじたい]を理解[りかい]してない可能性[かのうせい]も。
+  translation_zh: 别说有“自己在女装”的意识了——搞不好连这个词本身都不理解。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 接续
+- 强调
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

@@ -1,0 +1,39 @@
+id: vi-grm-00187
+language: vi
+type: grammar
+level: L3
+level_rank: 3
+title: 被动标记：bị 与 được
+structure: bị / được + V（表被动或遭遇）
+structure_pattern: bị / được + V
+explanation_zh: bị 和 được 是越南语最主要的被动／遭遇标记：bị + V 多指不如意的事（bị mắng 被骂），được + V 指如愿、受益或获得机会（được
+  giúp đỡ 得以帮助）。两者也可实义使用，分别相当于“遭受”和“得到”。与中文“被”字句对应，但褒贬分工更明确。
+examples:
+- text: Không dám nói mẹ, sợ bị mắng, tôi đành phải chấm chung lọ mực của Tiểu Li.
+  reading: ''
+  annot: Không dám nói mẹ, sợ bị mắng, tôi đành phải chấm chung lọ mực của Tiểu Li.
+  translation_zh: 我不敢跟妈妈说，怕挨骂，只好跟小丽共用一瓶墨水。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+- text: Có dịp được "giúp đỡ" tôi, Tiểu Li mừng lắm.
+  reading: ''
+  annot: Có dịp được "giúp đỡ" tôi, Tiểu Li mừng lắm.
+  translation_zh: 一有机会能“帮助”我，小丽高兴极了。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 被动
+- 虚词
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

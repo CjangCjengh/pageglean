@@ -1,0 +1,39 @@
+id: ja-grm-00282
+language: ja
+type: grammar
+level: N5
+level_rank: 1
+title: 授受表现「〜てもらう／〜てくれる」：恩惠关系
+structure: 動詞連用形 ＋ て ＋ もらう／くれる
+structure_pattern: V-連用形 + て + もらう/くれる
+explanation_zh: 「〜てもらう」以接受者为主语，表示领受他人恩惠（请／得到别人为自己做……）；「〜てくれる」以施惠者为主语，表示对方主动为己方做某事。片段中伊斯卡叙述父母「言ってくれた」「育ててもらった恩」，是中文母语者易混的高频考点。
+examples:
+- text: 育ててもらった恩を返すためにも、引き受けることにしたんだよ
+  reading: ''
+  annot: 育[そだ]ててもらった恩[おん]を返[かえ]すためにも、引[ひ]き受[う]けることにしたんだよ
+  translation_zh: 也是为了报答养育之恩，我才决定接受（这个委托）。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+- text: 忙しい両親を支えようと、家事や料理を習ったりもした
+  reading: ''
+  annot: 忙[いそが]しい両親[りょうしん]を支[ささ]えようと、家事[かじ]や料理[りょうり]を習[なら]ったりもした
+  translation_zh: 为了支撑忙碌的父母，我也学了家务和料理。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 授受表現
+- 助動詞
+- 敬語
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 4
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

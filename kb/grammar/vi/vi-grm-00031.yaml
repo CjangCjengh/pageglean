@@ -1,0 +1,31 @@
+id: vi-grm-00031
+language: vi
+type: grammar
+level: L3
+level_rank: 3
+title: vừa…(đã/ngay)…：刚…就…
+structure: vừa + V1，(đã / ngay) + V2
+structure_pattern: vừa + V … ngay/đã + V
+explanation_zh: 此处“vừa”意为“刚刚”，表示前一动作刚发生，后句常以“đã”“ngay”呼应，相当于汉语“刚……就……”，强调两件事在时间上紧接。注意与表示并行的“vừa…vừa…”区分：本结构中两个动作一先一后，几乎无缝衔接。
+examples:
+- text: Vừa ló đầu vô lớp, tôi gặp ngay Hồng Hoa.
+  reading: ''
+  annot: Vừa ló đầu vô lớp, tôi gặp ngay Hồng Hoa.
+  translation_zh: 我刚把头探进教室，立刻就碰上了红花。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 连词
+- 承接
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

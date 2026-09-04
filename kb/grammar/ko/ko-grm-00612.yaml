@@ -1,0 +1,32 @@
+id: ko-grm-00612
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: -ㄹ 테니(까)：想来会……所以（推测性原因）
+structure: 谓词 + 冠形词尾 -ㄹ + 의존명사 터 + 서술격 조사（叙述格助词）-이- + 连接词尾 -니(까)
+structure_pattern: V/A-ㄹ 터이- + -니(까) → -ㄹ 테니(까)
+explanation_zh: 터 是表“事理、情理”的依存名词，-ㄹ 터이니(까) 缩略为 -ㄹ 테니(까)，表示基于推测或意志的前提性原因，相当于“想来会……所以/既然……”。主语为第一人称时表意志，其余情况多表对状况的推测。句中
+  '인간일 테니' 意为“（对方）终究是人类，所以……”。
+examples:
+- text: 빈 헬로이스는 어디까지나 인간일 테니, 죽을 위기에 처하면 뭐든 솔직해지지 않겠어?
+  reading: ''
+  annot: 빈 헬로이스는 어디까지나 인간일 테니, 죽을 위기에 처하면 뭐든 솔직해지지 않겠어?
+  translation_zh: 宾·海洛伊丝说到底也是人，一旦面临生死危机，不是什么都肯老实交代吗？
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 推测
+- 原因/接续
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

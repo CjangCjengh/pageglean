@@ -1,0 +1,31 @@
+id: ja-grm-00237
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 「〜らしい」：传闻（据说……）
+structure: 終止形 + 伝聞の助動詞「らしい」
+structure_pattern: 終止形 + らしい（伝聞）
+explanation_zh: 助动词「らしい」接终止形表传闻，意为"据说、听说……"，与表客观推测的「らしい」（像是……）相区别。片段中和希说「俺は勇者らしい」，用"据说是勇者"自嘲，暗示自己并无实感。口语中后接「し」列举理由，语气轻松。
+examples:
+- text: 一応、俺は勇者らしいし？
+  reading: ''
+  annot: 一応[いちおう]、俺[おれ]は勇者[ゆうしゃ]らしいし？
+  translation_zh: 好歹（据说）我也算个勇者嘛？
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 助动词
+- 语气
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

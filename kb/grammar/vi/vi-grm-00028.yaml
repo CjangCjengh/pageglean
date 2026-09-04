@@ -1,0 +1,34 @@
+id: vi-grm-00028
+language: vi
+type: grammar
+level: L3
+level_rank: 3
+title: nhờ…mà…：多亏…才…
+structure: nhờ + 原因 + mà + 结果
+structure_pattern: nhờ + NP/VP + mà + VP
+explanation_zh: “nhờ”表示原因，意为“多亏、由于”，“mà”为引出结果的连词，整体相当于“多亏……才／因此……”，多用于引出有利结果。“nhờ
+  vậy mà…”（多亏如此才……）是高频固定搭配。
+examples:
+- text: nhờ vậy mà tôi được đi chung với Việt An và trò chuyện với nó một cách "hợp
+    pháp"
+  reading: ''
+  annot: nhờ vậy mà tôi được đi chung với Việt An và trò chuyện với nó một cách "hợp
+    pháp"
+  translation_zh: 多亏了这样，我才得以和越安同行，并且“名正言顺”地跟她聊天。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 连词
+- 因果
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

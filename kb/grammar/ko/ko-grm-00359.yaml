@@ -1,0 +1,32 @@
+id: ko-grm-00359
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: -기 때문에：原因与理由
+structure: 용언 어간 + 명사형 어미 '-기' + 부사격 조사 '때문에'
+structure_pattern: V/A-기 때문에
+explanation_zh: 由名词化词尾“-기”将谓词转为名词性成分，再加副词格助词“때문에”表示原因，相当于“因为……所以……”。比口语的“-아/어서”更书面，强调逻辑上的因果关系。“그렇기
+  때문에”（正因如此）是高频固定搭配。
+examples:
+- text: 그렇기 때문에 세레나데는 7권에서 죽는다.
+  reading: ''
+  annot: 그렇기 때문에 세레나데는 7권에서 죽는다.
+  translation_zh: 正因如此，塞蕾娜黛在第7卷中死去。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 因果
+- 依存名词
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

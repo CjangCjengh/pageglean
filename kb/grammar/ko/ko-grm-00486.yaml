@@ -1,0 +1,40 @@
+id: ko-grm-00486
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: -는 듯 / -(으)ㄴ 듯：好像、仿佛
+structure: '동사 어간 + 관형사형 전성어미 ''-는'' + 의존명사 ''듯''；형용사·과거: ''-(으)ㄴ'' + ''듯'''
+structure_pattern: V-는 듯 / A·V-(으)ㄴ 듯
+explanation_zh: 依存名词 듯 表示推测或比喻，相当于中文的“好像……”“仿佛……似的”。动词现在时用 -는 듯，形容词和过去时用 -(으)ㄴ 듯。也可与过去时制词尾结合为
+  -았/었던 듯，表示对过去情况的回想性推测。
+examples:
+- text: 각자의 생각을 추측하고 정리하는 듯 서로 시선만 교환했다.
+  reading: ''
+  annot: 각자의 생각을 추측하고 정리하는 듯 서로 시선만 교환했다.
+  translation_zh: 仿佛在各自揣摩和整理想法，两人只是交换了一下眼神。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+- text: 내 생각을 이미 짐작하고 있었던 듯, 키이리의 말투는 침착했다.
+  reading: ''
+  annot: 내 생각을 이미 짐작하고 있었던 듯, 키이리의 말투는 침착했다.
+  translation_zh: 似乎已经猜到了我的想法，基里的语气很沉稳。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 推测
+- 比喻
+- 依存名词
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 4
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

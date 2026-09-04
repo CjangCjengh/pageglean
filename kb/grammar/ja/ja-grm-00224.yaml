@@ -1,0 +1,38 @@
+id: ja-grm-00224
+language: ja
+type: grammar
+level: N3
+level_rank: 3
+title: 复合动词〜出す／〜始める／〜かける：动作的起始之相
+structure: 动词连用形 + 复合动词「出す／始める／かける」（表起始的相）
+structure_pattern: V-連用形 + 出す／始める／かける
+explanation_zh: 接动词连用形构成复合动词，表示动作起始的体貌（相）：「〜出す」表动作骤然发生，「〜始める」表动作开始，「〜かける」表刚起步尚未完成。片段围绕同一个「言う」连用三种形式，细腻刻画场面的推进，是轻小说常见的叙事手法。
+examples:
+- text: それぞれの席に着席し、『さ、さーて自習、自習……！』などと言い始める。
+  reading: ''
+  annot: それぞれの席[せき]に着席[ちゃくせき]し、『さ、さーて自習[じしゅう]、自習……！』などと言[い]い始[はじ]める。
+  translation_zh: （男生们）纷纷坐到各自的座位上，说着“那、那么，自习、自习……！”之类的话。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+- text: と、正直な意見を言いかけて……リアを見て一旦、言葉を止める。
+  reading: ''
+  annot: と、正直[しょうじき]な意見[いけん]を言[い]いかけて……リアを見[み]て一旦[いったん]、言葉[ことば]を止[と]める。
+  translation_zh: 说着，我刚开口要给出直率的看法……看了莉亚一眼，便暂时停下了话头。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 体貌
+- 复合动词
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

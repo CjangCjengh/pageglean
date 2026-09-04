@@ -1,0 +1,31 @@
+id: ko-grm-00119
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: 「-아/어 놓다：结果状态的留存」
+structure: 动词词干 + -아/어 놓다（보조적 연결어미 + 보조용언）
+structure_pattern: V-아/어 + 놓다
+explanation_zh: 补助动词'놓다'表示动作完成后其结果状态被保留下来，强调"事先做好、存着"。与强调彻底完结的-아/어 버리다形成对照：-아/어 놓다侧重结果留存，中文可译"……好、……着"。
+examples:
+- text: 데우미나스가 지하 묘지에 저장해 둔 걸 전부 챙겨 갈 수 있도록 허락을 받았는데
+  reading: ''
+  annot: 데우미나스가 지하 묘지에 저장해 둔 걸 전부 챙겨 갈 수 있도록 허락을 받았는데
+  translation_zh: 我已经得到许可，可以把德乌米纳斯存放在地下墓穴里的东西全部带走
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 体貌
+- 补助动词
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

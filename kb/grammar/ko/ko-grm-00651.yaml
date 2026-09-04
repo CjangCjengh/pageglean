@@ -1,0 +1,32 @@
+id: ko-grm-00651
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: -기 마련이다：难免、理所当然
+structure: 용언 어간 + 명사형 전성어미 '-기' + 의존명사 '마련' + 서술격 조사 '이다'
+structure_pattern: V-기 + 마련이다
+explanation_zh: 名词化词尾 -기 接依存名词 마련 与 서술격 조사 이다，表示某事理所当然、必然如此，相当于中文“难免……”“总会……”。用于陈述普遍规律或不可避免的结果。
+examples:
+- text: 애쓰며 살아와도 후회할 일을 남기기 마련이니까.
+  reading: ''
+  annot: 애쓰며 살아와도 후회할 일을 남기기 마련이니까.
+  translation_zh: 因为即使拼命活着，也难免会留下令人后悔的事。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 依存名词
+- 语气/必然
+- 名词化
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

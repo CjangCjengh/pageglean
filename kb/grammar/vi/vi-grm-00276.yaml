@@ -1,0 +1,31 @@
+id: vi-grm-00276
+language: vi
+type: grammar
+level: L3
+level_rank: 3
+title: để：目的从句
+structure: 主句 + để + 目的小句
+structure_pattern: Clause + để + Clause
+explanation_zh: để 连接目的从句，表示前一分句的动作是「为了」后一分句的目的，相当于汉语「为了、以便」。常与 khỏi (phải) 搭配，表示「免得（费心/辛苦）做某事」。
+examples:
+- text: Để chờ mày gởi qua là nó gởi lại liền.
+  reading: ''
+  annot: Để chờ mày gởi qua là nó gởi lại liền.
+  translation_zh: （她）等着你把信寄过去，就马上回寄过来。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 复句
+- 目的
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

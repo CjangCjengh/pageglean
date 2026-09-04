@@ -1,0 +1,39 @@
+id: vi-grm-00316
+language: vi
+type: grammar
+level: L2
+level_rank: 2
+title: 比较句 hơn：A 比 B 更……
+structure: 形容词 + hơn + 比较对象
+structure_pattern: Adj + hơn + N/Pron
+explanation_zh: 越南语比较句把 hơn（更、比）放在形容词之后，语序恰与汉语「比……更……」相反，翻译时需整体调序。比较对象可以省略，如「gắn bó
+  với nhau hơn」（彼此更加亲密）。
+examples:
+- text: Nhưng Lợi sứt vốn khỏe hơn tôi.
+  reading: ''
+  annot: Nhưng Lợi sứt vốn khỏe hơn tôi.
+  translation_zh: 但 Lợi sứt 本来就比我壮。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+- text: cái chiến công bất đắc dĩ kia đã khiến chúng tôi gắn bó với nhau hơn.
+  reading: ''
+  annot: cái chiến công bất đắc dĩ kia đã khiến chúng tôi gắn bó với nhau hơn.
+  translation_zh: 那次迫不得已的「战功」，反倒让我们更加亲密。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 比较句
+- 语序
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

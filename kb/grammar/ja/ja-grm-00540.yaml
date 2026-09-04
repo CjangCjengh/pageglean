@@ -1,0 +1,31 @@
+id: ja-grm-00540
+language: ja
+type: grammar
+level: N3
+level_rank: 3
+title: 连用形中止法：书面语中的句子并列（口语「て形」的书面说法）
+structure: 動詞連用形による中止法（接続助詞「て」を用いない並列接続）
+structure_pattern: V連用形(中止法)
+explanation_zh: 中止法指以动词连用形（而非「て」）连接句子的书面接续方式，语气比「て」更凝练、更具文学性。片段以一连串连用形中止法回顾相册中少女成长的瞬间，营造出回忆般的抒情节奏。轻小说叙事段落中常见的书面语接续。
+examples:
+- text: 泣きながら生まれ、口を開けて眠り、無垢に笑いながら立ちあがり、
+  reading: ''
+  annot: 泣[な]きながら生[う]まれ、口[くち]を開[あ]けて眠[ねむ]り、無垢[むく]に笑[わら]いながら立[た]ちあがり、
+  translation_zh: 啼哭着降生，张着嘴熟睡，天真无邪地笑着站立起来，
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 接续
+- 书面语
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 5
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

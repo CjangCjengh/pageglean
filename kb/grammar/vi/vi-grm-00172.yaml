@@ -1,0 +1,41 @@
+id: vi-grm-00172
+language: vi
+type: grammar
+level: L3
+level_rank: 3
+title: 定语后置：名词 + 修饰语（của 领属、省略 mà 的关系从句）
+structure: 名词 + 形容词/介词短语/（của + 领属者）/（省略 mà 的）从句
+structure_pattern: N + modifier; N + của + possessor; N + clause (mà 省略)
+explanation_zh: 越南语定语位于名词之后：形容词作定语（cuốn tập bê bối 乱七八糟的笔记本）、介词短语（bộ cờ bằng ngà 象牙制的棋）、用
+  của 表示领属（tập của tôi 我的本子）。关系从句同样后置，关系代词 mà 常可省略，如“bộ cờ …(mà) nó đang mượn của
+  tôi”。
+examples:
+- text: Cô lặng lẽ kiểm tra tiếp cuốn tập bê bối của tôi.
+  reading: ''
+  annot: Cô lặng lẽ kiểm tra tiếp cuốn tập bê bối của tôi.
+  translation_zh: 她默默地继续检查我那本乱七八糟的笔记本。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+- text: bộ cờ bằng ngà hiện nó đang mượn của tôi
+  reading: ''
+  annot: bộ cờ bằng ngà hiện nó đang mượn của tôi
+  translation_zh: 那副它眼下正从我这儿借走的象牙棋
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 定语
+- 语序
+- 从句
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 6
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

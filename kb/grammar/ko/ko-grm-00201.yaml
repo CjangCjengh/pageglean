@@ -1,0 +1,40 @@
+id: ko-grm-00201
+language: ko
+type: grammar
+level: TOPIK2
+level_rank: 2
+title: 「-(으)면서：一边……一边……」
+structure: 动词词干 + -(으)면서（연결어미）
+structure_pattern: V-(으)면서 (연결어미)
+explanation_zh: -(으)면서 是连接词尾（연결어미），表示前后两个动作同时进行，相当于「一边……一边……」，前后主语须一致。文中「웃으면서 대답했다」即「笑着回答」。也可表示伴随状态，如「이곳에
+  있으면서 계속 내 곁에 있는 거야」（待在这里，一直留在我身边）。
+examples:
+- text: 내 질문에, 클라우는 웃으면서 대답했다.
+  reading: ''
+  annot: 내 질문에, 클라우는 웃으면서 대답했다.
+  translation_zh: 面对我的提问，克劳笑着作了回答。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+- text: 나는 그렇게 농담을 던지면서 이 상황을 이해하려 했다.
+  reading: ''
+  annot: 나는 그렇게 농담을 던지면서 이 상황을 이해하려 했다.
+  translation_zh: 我一边这样开着玩笑，一边试图理解眼下的状况。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 连接词尾
+- 同时动作
+- 接续
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

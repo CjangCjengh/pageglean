@@ -1,0 +1,33 @@
+id: th-grm-00032
+language: th
+type: grammar
+level: L4
+level_rank: 4
+title: …ได้แท้ๆ แต่ดัน…：明明……却偏偏……
+structure: 动词 + ได้แท้ ๆ，แต่ + ดัน + 动词
+structure_pattern: V + ได้แท้ ๆ + แต่ + ดัน + V
+explanation_zh: 「动词 + ได้แท้ ๆ」表示“明明能做到／明明是……”，强调事实确凿。后接「แต่ + ดัน + 动词」引出相反结果，ดัน
+  意为“竟然、偏偏”，含事与愿违的语气。整个句式多用于自嘲或抱怨。
+examples:
+- text: จำ​ชื่อแฟน​คน​แรก​ของ​ตัวเอง​ได้​แท้ ๆ แต่​ดัน​จำ​นามสกุล​ของ​เธอ​ไม่ได้
+  reading: ''
+  annot: จำ​ชื่อแฟน​คน​แรก​ของ​ตัวเอง​ได้​แท้ ๆ แต่​ดัน​จำ​นามสกุล​ของ​เธอ​ไม่ได้
+  translation_zh: 明明记得自己初恋女友的名字，却偏偏想不起她的姓。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 转折
+- 语气
+- 口语表达
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

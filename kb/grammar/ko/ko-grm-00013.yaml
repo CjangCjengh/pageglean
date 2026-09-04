@@ -1,0 +1,40 @@
+id: ko-grm-00013
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: -(으)ㄹ 뿐이다：只是……而已
+structure: 동사 어간 + -(으)ㄹ + 의존명사 '뿐' + 이다
+structure_pattern: 동사 어간 + -(으)ㄹ 뿐이다(의존명사 '뿐')
+explanation_zh: 依存名词 뿐 表示仅此无他，相当于“只是……罢了”。用来限定、弱化前文所述的内容。
+examples:
+- text: 그냥 독자들이 모이는 공간에서 욕할 뿐이지, 작가한테 직접적으로 욕하는 사람은 거의 없다.
+  reading: ''
+  annot: 그냥 독자들이 모이는 공간에서 욕할 뿐이지, 작가한테 직접적으로 욕하는 사람은 거의 없다.
+  translation_zh: 大家只是在读者聚集的地方骂骂罢了，几乎没人会直接对作家本人开骂。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+- text: 너는 네 머릿속에 있는 소설 속 인물을 불행하게 만들었을 뿐이라 생각하겠지만, 그건 살아 있는 진짜 인간을 불행하게 만드는 것과 별
+    차이 없어.
+  reading: ''
+  annot: 너는 네 머릿속에 있는 소설 속 인물을 불행하게 만들었을 뿐이라 생각하겠지만, 그건 살아 있는 진짜 인간을 불행하게 만드는 것과 별
+    차이 없어.
+  translation_zh: 你也许以为自己只是让脑海里的小说人物不幸罢了，但那跟让一个活生生的真实的人不幸没什么两样。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 限定
+- 语气
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

@@ -1,0 +1,39 @@
+id: ja-grm-00599
+language: ja
+type: grammar
+level: N3
+level_rank: 3
+title: 〜じゃん：寻求认同的口语终助词
+structure: 用言終止形＋じゃん
+structure_pattern: 用言終止形 + じゃん（終助詞、「じゃない」の縮約）
+explanation_zh: 终助词，由「じゃない」缩约而来，属口语用法。用于向对方确认或提醒双方共知的事实，语气轻松随意，相当于中文的“……嘛”“……不是吗”。轻小说会话中高频出现，正式文体中应避免使用。
+examples:
+- text: それに、その、は、恥ずかしいじゃん。
+  reading: ''
+  annot: それに、その、は、恥[は]ずかしいじゃん。
+  translation_zh: 而且，那个，这、这多难为情嘛。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+- text: 買ったばかりの傘とか靴ってすぐに使いたくなるじゃん！
+  reading: ''
+  annot: 買[か]ったばかりの傘[かさ]とか靴[くつ]ってすぐに使[つか]いたくなるじゃん！
+  translation_zh: 刚买的伞啊鞋子什么的，大家不都是想马上用起来嘛！
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 終助詞
+- 口語
+- 語気
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

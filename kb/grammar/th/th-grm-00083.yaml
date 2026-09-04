@@ -1,0 +1,32 @@
+id: th-grm-00083
+language: th
+type: grammar
+level: L3
+level_rank: 3
+title: ได้ 的两种位置：前置表实现，后置表能力
+structure: ได้ + V（已实现）；V + ได้（有能力）
+structure_pattern: ได้ + คำกริยา (สำเร็จ) | คำกริยา + ได้ (สามารถ)
+explanation_zh: ได้ 在动词前表示动作已经实现或完成，相当于汉语的“已经……了”；在动词后则表示能力或可能性，相当于“能、会”。片段中“ได้ทำการอธิบาย”是前者，“ใช้ได้ทันที”是后者。同一个词因位置不同而意义不同，是泰语体貌系统的经典难点。
+examples:
+- text: พอ​ฟัง​จบ​เธอก็​สามารถ​ใช้​เครื่อง​ซักผ้า​ของ​ผม​ได้​ทันที
+  reading: ''
+  annot: พอ​ฟัง​จบ​เธอก็​สามารถ​ใช้​เครื่อง​ซักผ้า​ของ​ผม​ได้​ทันที
+  translation_zh: 刚听完，她就能马上使用我的洗衣机了。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 体貌
+- 助动词
+- 语序
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 4
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

@@ -1,0 +1,40 @@
+id: ko-grm-00182
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: -면 되다：条件充足与建议
+structure: 用言词干 + 连接词尾 -면 + 되다
+structure_pattern: 용언 어간 + 연결어미 -면 + 되다
+explanation_zh: 表条件的连接词尾 -면 与 되다 搭配，表示“只要……就行、足够”。蕾娜用 하면 되지 않을까요 委婉地提出建议，语气柔和。也可表示满足条件即可，如
+  살리면 돼。
+examples:
+- text: 그 역할을 당신이 하면 되지 않을까요.
+  reading: ''
+  annot: 그 역할을 당신이 하면 되지 않을까요.
+  translation_zh: 那个角色由您来担当不就可以了吗。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+- text: 그리고 다른 캐릭터들 몇 명만 더 살리면 돼.
+  reading: ''
+  annot: 그리고 다른 캐릭터들 몇 명만 더 살리면 돼.
+  translation_zh: 然后只要再多救活几个其他角色就行了。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 接续
+- 建议
+- 条件
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

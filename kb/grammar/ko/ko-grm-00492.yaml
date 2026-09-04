@@ -1,0 +1,39 @@
+id: ko-grm-00492
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: -더니：回想与转折的连接词尾
+structure: 用言词干 + 连接词尾 -더니（表回想，兼作终结词尾）
+structure_pattern: V/A + -더니
+explanation_zh: -더니是以说话人亲身经历为依据的连接词尾，先回想过去观察到的事实，后句引出与之相对或随之产生的结果，近似汉语“（当时）……结果/却……”。本段两处均以说话人亲眼所见引出后续结果，主观回想色彩浓厚。注意主语一般为说话人以外的第三者或“你”。
+examples:
+- text: 위험하게 앉아 있더니, 이 사달이 날 줄 알았지.
+  reading: ''
+  annot: 위험하게 앉아 있더니, 이 사달이 날 줄 알았지.
+  translation_zh: （你）坐得那么危险，我就知道会出这档子事。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+- text: 키이리가 내 옆에 주저앉더니, 울먹거리며 내 몸을 마구 흔들어 대기 시작했…….
+  reading: ''
+  annot: 키이리가 내 옆에 주저앉더니, 울먹거리며 내 몸을 마구 흔들어 대기 시작했…….
+  translation_zh: 绮绮在我身旁一屁股坐下，接着就哽咽着开始胡乱摇晃我的身体……
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 连接词尾
+- 回想
+- 转折
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 4
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

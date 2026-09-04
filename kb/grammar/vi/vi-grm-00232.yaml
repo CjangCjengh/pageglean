@@ -1,0 +1,31 @@
+id: vi-grm-00232
+language: vi
+type: grammar
+level: L3
+level_rank: 3
+title: đâu có + V：哪有、根本没
+structure: S + đâu có + V/A（口语强调否定）
+structure_pattern: S + đâu có + V/A
+explanation_zh: 口语中用 đâu có 加动词或形容词表示强调否定，相当于「哪（儿）有、根本没」，常带反驳或申辩的语气，比 không 更生动。片段中出现在条件复句（nếu…thì…）的结果分句里，以反问语气收尾。
+examples:
+- text: Nếu Việt An không rủ thì tụi kia đâu có đi theo.
+  reading: ''
+  annot: Nếu Việt An không rủ thì tụi kia đâu có đi theo.
+  translation_zh: 如果越安不招呼，他们哪会跟着去呢。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 否定
+- 语气
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

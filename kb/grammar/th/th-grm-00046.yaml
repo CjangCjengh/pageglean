@@ -1,0 +1,37 @@
+id: th-grm-00046
+language: th
+type: grammar
+level: L2
+level_rank: 2
+title: เพื่อ(ที่)จะ：目的从句
+structure: เพื่อ(ที่)จะ + 动词（วิเศษณานุประโยคแสดงความมุ่งหมาย）
+structure_pattern: เพื่อ(ที่) + จะ + V
+explanation_zh: เพื่อ(ที่)จะ+动词引导目的从句（学校语法称วิเศษณานุประโยคแสดงความมุ่งหมาย），相当于中文「为了……、以便……」。其中的ที่可省略，如片段中的「เพื่อยืนยัน」。文中用「เพื่อที่จะขอเลื่อน」「เพื่อที่จะออกเดินทาง」连续交代动作目的。
+examples:
+- text: ผม​ตัดสินใจ​โทรศัพท์​ไป​หา​ผู้ดูแล​เพื่อที่จะ​ขอ​เลื่อน​กำหนด​ส่ง​บทความ​ถัดไป
+  reading: ''
+  annot: ผม​ตัดสินใจ​โทรศัพท์​ไป​หา​ผู้ดูแล​เพื่อที่จะ​ขอ​เลื่อน​กำหนด​ส่ง​บทความ​ถัดไป
+  translation_zh: 我决定打电话给管理员，请求推迟下一篇文章的截稿期限。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+- text: รีบ​ทะยาน​ไป​ที่​ท่าเรือ​หน้าบ้าน​เพื่อที่จะ​ออก​เดินทาง​จาก​เกาะ​ล้าน
+  reading: ''
+  annot: รีบ​ทะยาน​ไป​ที่​ท่าเรือ​หน้าบ้าน​เพื่อที่จะ​ออก​เดินทาง​จาก​เกาะ​ล้าน
+  translation_zh: （他）急忙冲向家门前的码头，以便从兰岛出发。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 复合句/目的从句
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

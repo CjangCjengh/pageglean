@@ -1,0 +1,32 @@
+id: ja-grm-00328
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 〜ているんじゃない（口语「〜てんじゃねぇ」）：反诘与责备
+structure: V連用形＋補助動詞「ている」＋形式名詞「の」＋ではない → 口语缩约形
+structure_pattern: V-連用形 + て + いる + のではない → 口語縮約形
+explanation_zh: 「〜ているのではない（〜ているんじゃない）」用反诘语气表示责备、制止或确认；口语中の→ん、ではない→じゃねぇ，缩约为「〜てんじゃねぇ」，语气粗鲁，多为男性使用。助動詞「いる」接动词連用形构成持续体（进行或结果状态），形式名词「の」将其名词化。可理解为汉语的“别正在……啊”“不是正……吗”。
+examples:
+- text: 出るの遅ぇ！ イチャついてんじゃねぇよ!!
+  reading: ''
+  annot: 出[で]るの遅[おそ]ぇ！ イチャついてんじゃねぇよ!!
+  translation_zh: 你们出来得也太慢了！别在那儿卿卿我我啊!!
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 口语
+- 体貌
+- 语气
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

@@ -1,0 +1,32 @@
+id: ja-grm-00546
+language: ja
+type: grammar
+level: N3
+level_rank: 3
+title: 「らしい・ようだ・みたいだ」：推测与传闻
+structure: 用言終止形＋助動詞「らしい」／用言連体形＋助動詞「ようだ」／（口語）用言終止形＋みたいだ
+structure_pattern: 用言終止形+らしい／用言連体形+ようだ／用言終止形+みたいだ
+explanation_zh: 「らしい」是助動詞，表基于传闻或客观迹象的推测；「ようだ」也是助動詞，接用言連体形，表主观比喩或推测；「みたいだ」是口語中相当于「ようだ」的说法。片段中它们反复出现（含连用中止形「らしく」），呈现叙述者边观察边揣测的语气。
+examples:
+- text: どうやらマジに怒ったみたいだ。わかるだろ？
+  reading: ''
+  annot: どうやらマジに怒[おこ]ったみたいだ。わかるだろ？
+  translation_zh: 看来是真生气了。看得出来吧？
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 助动词
+- 语气
+- 口语
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 7
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

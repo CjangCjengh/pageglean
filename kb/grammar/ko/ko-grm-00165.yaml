@@ -1,0 +1,33 @@
+id: ko-grm-00165
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: -ㄴ다고 해서：即使……也不一定……
+structure: 动词冠形词尾 -ㄴ다고（引用/假设）+ 해서 + 后句否定
+structure_pattern: V-ㄴ다고 해서 + -지 않다
+explanation_zh: 引用某一行为或事实并加以假设，后句通常否定其结果，相当于"就算……也不一定……"。例句中 '목의 친다고 해서' 与 '해결되지는
+  않는다' 前后呼应，是议论文和说理性对话中的常见句式。
+examples:
+- text: 하지만 무작정 나쁜 놈을 찾아가 목을 친다고 해서 모든 문제가 해결되지는 않는다.
+  reading: ''
+  annot: 하지만 무작정 나쁜 놈을 찾아가 목을 친다고 해서 모든 문제가 해결되지는 않는다.
+  translation_zh: 但并不是说一味地去找坏家伙、砍下他们的脑袋，所有问题就都能解决。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 连接
+- 否定
+- 引用
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

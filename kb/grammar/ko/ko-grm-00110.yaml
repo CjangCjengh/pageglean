@@ -1,0 +1,38 @@
+id: ko-grm-00110
+language: ko
+type: grammar
+level: TOPIK2
+level_rank: 2
+title: 「-(으)ㄹ 것이다」：应该会……（推测）
+structure: 관형사형 전성어미 '-(으)ㄹ' + 의존명사 '것' + 서술격 조사 '이다'
+structure_pattern: V/A-(으)ㄹ + 의존명사_것 + 이다
+explanation_zh: 冠形词形词尾'-(으)ㄹ'加依存名词'것'，表示对情况的推测，相当于'应该会……'。对已发生之事的推测用'-았/었을 것이다'。片段中多次用于主人公的内心推断。
+examples:
+- text: 그녀에겐 내가 보고 있는 화면이 보이지 않을 것이다.
+  reading: ''
+  annot: 그녀에겐 내가 보고 있는 화면이 보이지 않을 것이다.
+  translation_zh: 她应该是看不见我正看着的这块屏幕的。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+- text: 여기서 마법 무기를 가져가게 하면 보완할 수 있을 것이다.
+  reading: ''
+  annot: 여기서 마법 무기를 가져가게 하면 보완할 수 있을 것이다.
+  translation_zh: 如果让她从这里带一件魔法武器走，应该就能弥补不足了。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 推测
+- 冠形词形词尾
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 4
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

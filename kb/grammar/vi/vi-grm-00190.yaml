@@ -1,0 +1,40 @@
+id: vi-grm-00190
+language: vi
+type: grammar
+level: L1
+level_rank: 1
+title: 礼貌用语：dạ / thưa… + 称谓 … ạ
+structure: Dạ, + 应答内容 + ạ；Thưa + 称谓, + 内容 + ạ
+structure_pattern: Dạ, … ạ / Thưa + N(address), … ạ
+explanation_zh: 越南语敬语靠称谓词加语气小词配合：应答长辈时先说 dạ 表示恭敬（相当于「是／在」）；开口称呼用 thưa + 称谓（thưa cô「老师」）；句末加
+  ạ 表示对长辈、上级的礼貌。学生对老师说话几乎句句都带这些成分。
+examples:
+- text: Dạ, không có gì ạ.
+  reading: ''
+  annot: Dạ, không có gì ạ.
+  translation_zh: （老师，）没什么事。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+- text: Thưa cô, em lỡ tay làm rớt ạ.
+  reading: ''
+  annot: Thưa cô, em lỡ tay làm rớt ạ.
+  translation_zh: 老师，是我不小心弄掉的。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 敬语/礼貌
+- 语气词
+- 称谓
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

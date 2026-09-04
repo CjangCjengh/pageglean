@@ -1,0 +1,35 @@
+id: vi-grm-00314
+language: vi
+type: grammar
+level: L4
+level_rank: 4
+title: như thể：仿佛、好像（虚拟比拟）
+structure: như thể + 分句（mệnh đề）
+structure_pattern: quan hệ từ so sánh 'như thể' + mệnh đề
+explanation_zh: 「như thể」引出比较分句，意为「仿佛、好像」，多描绘不真实或近乎不真实的情形，带书面色彩。文中连用两个「như thể」分句，形成排比强化比拟。它与「không
+  còn…nữa」（不再…）搭配，写出「我」变得不像自己的微妙心理。
+examples:
+- text: bẽn lẽn như thể tôi không còn là tôi nữa, như thể một người nào đang sống
+    thay tôi.
+  reading: ''
+  annot: bẽn lẽn như thể tôi không còn là tôi nữa, như thể một người nào đang sống
+    thay tôi.
+  translation_zh: 忸忸怩怩，仿佛我已不再是我，仿佛有另一个人正在替我活着。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 比拟
+- 连词
+- 书面
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

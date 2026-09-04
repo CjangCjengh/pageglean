@@ -1,0 +1,39 @@
+id: ja-grm-00615
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 〜ておく（口语「〜とく」）：事先做好准备
+structure: 动词连用形 + て + 补助动词「おく」；口语约音为「〜とく／〜といた」
+structure_pattern: 'V-連用形 + て + おく → 口語: V-とく'
+explanation_zh: 「〜ておく」表示为某种目的事先完成某动作，学校文法分析为动词连用形 + て + 补助动词「おく」。口语中「ておく」约音为「とく」，过去式为「といた」，文中「しといた」即「しておいた」。这是轻小说对话中极常见的口语形。
+examples:
+- text: 大丈夫、おまえがこじらせた関係は俺がなんとかしといたから。
+  reading: ''
+  annot: 大丈夫[だいじょうぶ]、おまえがこじらせた関係[かんけい]は俺[おれ]がなんとかしといたから。
+  translation_zh: 没关系，你搞僵的关系我已经替你设法处理好了。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+- text: さすがにこれだけは訊いておかないと。
+  reading: ''
+  annot: さすがにこれだけは訊[き]いておかないと。
+  translation_zh: 唯独这一点，果然还是得事先问清楚才行。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 补助动词
+- 体貌
+- 口语
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

@@ -1,0 +1,39 @@
+id: ko-grm-00506
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: -(으)ㄴ/는 편이 낫다：还是……比较好
+structure: 动词定语形 -(으)ㄴ/는 + 依存名词 편 + 主格助词 이 + 낫다
+structure_pattern: V-(으)ㄴ/는 편이 낫다
+explanation_zh: 表示比较之后认为前者更好、更可取，相当于"还是……比较好"。편 是依存名词，表示"相对来说的一方"。片段后文又出现同义结构"마리온의
+  손을 빌리는 것이 낫지"（것이 낫다），可对照学习。
+examples:
+- text: 요나에게는 나중에 사과하는 편이 낫겠지.
+  reading: ''
+  annot: 요나에게는 나중에 사과하는 편이 낫겠지.
+  translation_zh: 还是之后向约娜道歉比较好吧。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+- text: 이런 건 나보다 마리온의 손을 빌리는 것이 낫지.
+  reading: ''
+  annot: 이런 건 나보다 마리온의 손을 빌리는 것이 낫지.
+  translation_zh: 这种事，比起找我，还是借玛丽翁的手更好。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 比较
+- 选择
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

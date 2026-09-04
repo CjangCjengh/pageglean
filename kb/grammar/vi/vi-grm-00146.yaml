@@ -1,0 +1,39 @@
+id: vi-grm-00146
+language: vi
+type: grammar
+level: L3
+level_rank: 3
+title: bị：不如意被动句（被…）
+structure: 主语 + bị + 动词/名词短语
+structure_pattern: S + bị + V/N（被动标记 câu bị động）
+explanation_zh: bị 是越南语的被动标记词，引出对主语不利或不愉快的事（如 bị phạt「被处罚」），与表示获益的 được 相对。本片段中人物的挨罚、受牵连都用
+  bị 表达。它也可直接带名词，如 bị phạt。
+examples:
+- text: Hồi sáng em không làm toán, bây giờ bị phạt.
+  reading: ''
+  annot: Hồi sáng em không làm toán, bây giờ bị phạt.
+  translation_zh: 上午我没做数学题，现在被（妈妈）罚了。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+- text: Thấy vì tôi mà nó bị phạt, bụng tôi đâm ra áy náy.
+  reading: ''
+  annot: Thấy vì tôi mà nó bị phạt, bụng tôi đâm ra áy náy.
+  translation_zh: 看到它因为我而挨罚，我心里不禁愧疚起来。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 被动
+- 语义色彩
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 0
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

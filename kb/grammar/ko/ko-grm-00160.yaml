@@ -1,0 +1,39 @@
+id: ko-grm-00160
+language: ko
+type: grammar
+level: TOPIK2
+level_rank: 2
+title: -아/어 주다：恩惠补助动词
+structure: 动词词干 + 连接词尾 -아/어 + 补助动词 주다（恩惠・授与）
+structure_pattern: V-아/어 주다
+explanation_zh: 补助动词 주다 表示该动作为他人带来好处，是他人为我（或为某人）做某事。命令形 -아/어 줘 常用于请求、吩咐。与尊敬先语末词尾 -시-
+  结合时用 -아/어 주시다（如片段中 데려가셔도 됩니다）。
+examples:
+- text: 주인장, 이 식당에서 가장 비싸고 맛있는 요리들을 종류별로 전부 차려 줘.
+  reading: ''
+  annot: 주인장, 이 식당에서 가장 비싸고 맛있는 요리들을 종류별로 전부 차려 줘.
+  translation_zh: 老板，把这家店里最贵最好吃的菜按种类全都上一遍。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+- text: 아, 주인장. 시원한 맥주도 준비해 줘.
+  reading: ''
+  annot: 아, 주인장. 시원한 맥주도 준비해 줘.
+  translation_zh: 啊，老板。再准备点冰凉的啤酒来。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 补助动词
+- 恩惠
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

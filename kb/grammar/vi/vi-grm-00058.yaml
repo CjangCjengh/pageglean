@@ -1,0 +1,39 @@
+id: vi-grm-00058
+language: vi
+type: grammar
+level: L3
+level_rank: 3
+title: 结果补语「được」＋数量＋分类词「cái」
+structure: V + được + 数词 + cái；cái thứ + 数词（第…下）
+structure_pattern: V + được + số từ + cái（补语 + 分类词）
+explanation_zh: 动词后的「được」作结果补语，表示动作得以实现或达到某一数量。计数动作次数时用分类词「cái」：「nhảy được bảy cái」＝跳成了七下；序数说「cái
+  thứ + 数词」。语序与汉语不同（动词＋được＋数量＋cái），须注意。
+examples:
+- text: Mày đếm thử xem tao nhảy được mấy trăm cái nghen!
+  reading: ''
+  annot: Mày đếm thử xem tao nhảy được mấy trăm cái nghen!
+  translation_zh: 你数数看我跳得了几百下吧！
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+- text: Nhưng tôi chỉ nhảy được bảy cái.
+  reading: ''
+  annot: Nhưng tôi chỉ nhảy được bảy cái.
+  translation_zh: 可我只跳成了七下。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 结果补语
+- 分类词
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 5
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

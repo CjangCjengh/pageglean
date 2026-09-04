@@ -1,0 +1,31 @@
+id: ko-grm-00683
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: 「-(으)려 하다：意图与将然」
+structure: 动词 + -(으)려 하다（打算、正要做某事）
+structure_pattern: V-(으)려(고) 하다
+explanation_zh: 表示意图或将然的补助性构成，是-(으)려고 하다的缩短形式，相当于“打算……”“正要……”。“하려 했다”表示当时正要做某事但未必完成。片段描写基丽“正要”把剑刺入自己腹部的惊险一幕。
+examples:
+- text: 키이리는 그대로 검을 자신의 복부에 쑤셔 넣으려 했다.
+  reading: ''
+  annot: 키이리는 그대로 검을 자신의 복부에 쑤셔 넣으려 했다.
+  translation_zh: 基丽就那样想把剑刺进自己的腹部。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 连接词尾
+- 意图
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

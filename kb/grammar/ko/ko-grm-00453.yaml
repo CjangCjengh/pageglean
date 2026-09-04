@@ -1,0 +1,31 @@
+id: ko-grm-00453
+language: ko
+type: grammar
+level: TOPIK5
+level_rank: 5
+title: -고 나서야：等到……之后才
+structure: 动词词干 + -고 나서 + 辅助词 -야
+structure_pattern: V-고 + 보조동사 나다 + 보조사 야
+explanation_zh: 连接词尾 -고 나서 表示前一动作完成，再追加辅助词 야 强调“直到此时才……”，后句多为领悟、发现等迟来的结果。汉语近似“……之后这才……”。
+examples:
+- text: 나는 그녀가 입에 담은 이름을 듣고 나서야 그 인사의 의미를 깨달았다.
+  reading: ''
+  annot: 나는 그녀가 입에 담은 이름을 듣고 나서야 그 인사의 의미를 깨달았다.
+  translation_zh: 直到听清她口中道出的名字，我才领悟到那声问候的含义。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 连接词尾
+- 时间/强调
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

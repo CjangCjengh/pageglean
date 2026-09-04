@@ -1,0 +1,39 @@
+id: ja-grm-00400
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 〜ちゃう／〜ちゃ：〜てしまう与〜ては的口语缩约
+structure: 動詞連用形＋てしまう → ちゃう；接続助詞て＋は → ちゃ
+structure_pattern: V-連用形 + てしまう → ちゃう / V-て + は → ちゃ
+explanation_zh: ちゃう为口语缩约形，本片段出现两种来源：一是补助动词「てしまう」缩为「ちゃう」，表示完成或不情愿之事发生（見えちゃう＝見えてしまう）；一是接续助词「て」加助词「は」缩为「ちゃ」，表示消极条件（見せちゃイヤ＝見せては嫌だ）。两者在轻小说对话中高频出现，需结合语境区分。
+examples:
+- text: 他の人には絶対に見せちゃイヤだからね……？
+  reading: ''
+  annot: 他[ほか]の人[ひと]には絶対[ぜったい]に見[み]せちゃイヤだからね……？
+  translation_zh: 绝对不能给其他人看哦……？
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+- text: さすがにあれやると、その、見えちゃうから……
+  reading: ''
+  annot: さすがにあれやると、その、見[み]えちゃうから……
+  translation_zh: 毕竟要是做那个的话，那个、会被看到的……
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 体貌
+- 口语缩约
+- 语气
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

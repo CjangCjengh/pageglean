@@ -1,0 +1,31 @@
+id: ko-grm-00037
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: -ㄹ 뻔하다：差点儿发生（某坏事）
+structure: 用言词干 + 관형사형 어미 '-(으)ㄹ' + 의존명사 '뻔' + 하다
+structure_pattern: V/A + -(으)ㄹ 뻔하다
+explanation_zh: 由冠形词尾'-(으)ㄹ'加依存名词'뻔'构成，表示差一点发生某种（多为不好的）事情，相当于『差点儿……』。常与'자칫하면』（稍不留神）等副词呼应使用。后接转折句时，暗含『幸好没有真的发生』。
+examples:
+- text: 자칫하면 시작하자마자 목에서 피를 뿜으며 죽을 뻔했지만, 소설 속에 짤막하게 언급되고 지나갈 뿐인 설정을 생각해 내서 목숨을 건졌다.
+  reading: ''
+  annot: 자칫하면 시작하자마자 목에서 피를 뿜으며 죽을 뻔했지만, 소설 속에 짤막하게 언급되고 지나갈 뿐인 설정을 생각해 내서 목숨을 건졌다.
+  translation_zh: 稍不留神就会从一开始便颈中喷血而死，但我想起小说里只是被简短提及的设定，这才捡回一条命。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 依存名词
+- 语气
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

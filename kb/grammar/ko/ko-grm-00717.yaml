@@ -1,0 +1,33 @@
+id: ko-grm-00717
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: 「-았/었었다：过去的过去」
+structure: 用言词干 + 先末词尾 -았/었-（重复两次）+ 终结词尾 -다
+structure_pattern: V/A + -았/었었- + -다
+explanation_zh: 学校文法称之为「과거의 과거」：先末词尾 -았/었- 重叠使用，前一 -았/었- 表示事件曾在过去发生，后一表示该状态到参照时点已经终结或发生了变化。与单过去
+  -았/었다 相比，强调「当时如此、如今已非」。中文可用「曾／当时……过」对应。
+examples:
+- text: 벨라는 거의 폭발할 것 같은 얼굴을 숨김없이 드러냈었다.
+  reading: ''
+  annot: 벨라는 거의 폭발할 것 같은 얼굴을 숨김없이 드러냈었다.
+  translation_zh: 贝拉当时曾毫不掩饰地露出仿佛随时要爆炸的表情。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 시제
+- 선어말어미
+- 상
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

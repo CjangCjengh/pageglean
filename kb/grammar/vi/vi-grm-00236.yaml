@@ -1,0 +1,39 @@
+id: vi-grm-00236
+language: vi
+type: grammar
+level: L1
+level_rank: 1
+title: đã / đang / sẽ / rồi：时体虚词
+structure: phó từ chỉ thời-thể（时体副词）đã / đang / sẽ + 动词；句末可带 trợ từ（助词）rồi
+structure_pattern: đã/đang/sẽ + V (+ rồi)
+explanation_zh: 越南语动词不变位，时态与体貌由虚词（hư từ）承担：đã 表已然，đang 表进行，sẽ 表未然，均直接置于动词之前。句末助词 rồi
+  常与 đã 呼应，强调动作已经实现或情况已发生变化。其位置与汉语副词相近，便于中文母语者迁移。
+examples:
+- text: Thế giới đã "nhất trí" vấn đề này rồi.
+  reading: ''
+  annot: Thế giới đã "nhất trí" vấn đề này rồi.
+  translation_zh: 全世界在这个问题上已经“达成共识”了。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+- text: Tụi nó sẽ biết ngay là mày đang đóng kịch.
+  reading: ''
+  annot: Tụi nó sẽ biết ngay là mày đang đóng kịch.
+  translation_zh: 他们马上就会知道你是在演戏。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 体貌
+- 时态
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 7
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

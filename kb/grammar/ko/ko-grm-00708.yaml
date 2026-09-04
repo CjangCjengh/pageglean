@@ -1,0 +1,39 @@
+id: ko-grm-00708
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: -(느)ㄴ다는 것：间接引用名词化
+structure: 句子 + 间接引用冠形词形 -(느)ㄴ다고 하는（缩约 -다는）+ 依存名词 것/뜻/점
+structure_pattern: S-(느)ㄴ다는 것
+explanation_zh: 「-다고 하는」缩约为「-다는」，把一整个陈述转成修饰体言的定语，意为“……这件事、……这一点”。是韩语书面语和新闻中的高频结构，也是读懂长句的关键。后接名词可以是
+  것、뜻、점、희망 等。
+examples:
+- text: 어, 그 말은 계약이 끊어졌다는 뜻 아니야?
+  reading: ''
+  annot: 어, 그 말은 계약이 끊어졌다는 뜻 아니야?
+  translation_zh: 咦，你那话的意思不是契约已经断了吗？
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+- text: 악마를 없애고 계약을 해지할 수 있다는 희망을 찾아냈으니까 성과가 아주 없었던 건 아니네.
+  reading: ''
+  annot: 악마를 없애고 계약을 해지할 수 있다는 희망을 찾아냈으니까 성과가 아주 없었던 건 아니네.
+  translation_zh: 既然找到了能消灭恶魔、解除契约的希望，成果也不能说完全没有。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 间接引用
+- 名词化
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 7
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

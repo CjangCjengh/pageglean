@@ -1,0 +1,32 @@
+id: vi-grm-00184
+language: vi
+type: grammar
+level: L2
+level_rank: 2
+title: 是非问句：phải … không？
+structure: phải + 命题 + không?
+structure_pattern: phải + clause + không
+explanation_zh: “phải … không”是典型的是非问框架：phải 引出待确认的命题，句末 không 表疑问，相当于中文“……是不是／……吗”。语气中性，期待对方证实。文中
+  coi thử phải ý mẹ anh là như vậy không 即“看看你妈妈的意思是不是这样”。
+examples:
+- text: Để chiều nay em về hỏi lại mẹ anh coi thử phải ý mẹ anh là như vậy không.
+  reading: ''
+  annot: Để chiều nay em về hỏi lại mẹ anh coi thử phải ý mẹ anh là như vậy không.
+  translation_zh: 今天下午我回去再问问你妈妈，看她是不是这个意思。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 疑问句
+- 虚词
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

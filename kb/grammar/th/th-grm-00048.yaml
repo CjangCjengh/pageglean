@@ -1,0 +1,31 @@
+id: th-grm-00048
+language: th
+type: grammar
+level: L3
+level_rank: 3
+title: ก็：顺承与承接连词
+structure: เมื่อ…ก็…；状语 + ก็ + 动词（สันธาน/คำเชื่อม）
+structure_pattern: เมื่อ + Clause, … ก็ + V
+explanation_zh: ก็是泰语使用频率最高的连接词（สันธาน/คำเชื่อม），表示前后动作、事件的顺承或结果，相当于中文「就、便」。常见框架「เมื่อ…ก็…」连接时间从句与主句；也可紧跟状语，如「ปุบปับก็ตัดบท」。片段大量使用ก็推进叙事，是地道泰语叙述的标志。
+examples:
+- text: คิด​ยังไง​มันก็​ประหลาด​จริง ๆ นั่น​ล่ะ
+  reading: ''
+  annot: คิด​ยังไง​มันก็​ประหลาด​จริง ๆ นั่น​ล่ะ
+  translation_zh: 怎么想都确实很奇怪。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 连接词/话语
+- 复合句
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 5
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

@@ -1,0 +1,33 @@
+id: ko-grm-00062
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: -기에：因为、由于（书面语原因词尾）
+structure: 동사·형용사 + -기에
+structure_pattern: V/A + -기에(이유 연결 어미)
+explanation_zh: -기에 是表示原因的连接词尾（연결 어미），意义与 -기 때문에 相近，但语体更书面、更正式。后句常接说明该原因足以得出某种判断或适宜性的评价性表达，如片段中的"하기에
+  알맞다"（适于……）。多见于说明性文体。
+examples:
+- text: 미궁은 성이나 요새 역할을 하기에 알맞은 구조이기 때문에 각지를 지배하는 영주들은 이 미궁을 본거지로 삼고 있다.
+  reading: ''
+  annot: 미궁은 성이나 요새 역할을 하기에 알맞은 구조이기 때문에 각지를 지배하는 영주들은 이 미궁을 본거지로 삼고 있다.
+  translation_zh: 由于迷宫的结构适合起到城或要塞的作用，统治各地的领主们都把这座迷宫作为根据地。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 因果
+- 接续
+- 书面语
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

@@ -1,0 +1,31 @@
+id: ko-grm-00242
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: 「-든」：无论……都……（无关让步）
+structure: 용언 어간 + 연결 어미 ‘-든(지)’
+structure_pattern: V/A-든(지)
+explanation_zh: 连接词尾“-든(지)”表示无条件让步，常与疑问冠形词“어떤”“무슨”或疑问代词呼应，意为“无论……都……”。后句多用“상관없다”“관계없다”等呼应。文中马克贝格断言敌方无论准备什么计策都无关紧要。
+examples:
+- text: 악마공작이 어떤 책략을 준비했든 상관없다.
+  reading: ''
+  annot: 악마공작이 어떤 책략을 준비했든 상관없다.
+  translation_zh: 无论恶魔公爵准备了什么计策，都无关紧要。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 接续
+- 让步
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

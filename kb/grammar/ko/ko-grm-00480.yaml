@@ -1,0 +1,38 @@
+id: ko-grm-00480
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: -(으)ㄴ/는 모양이다：看样子……
+structure: 动词 + -는 모양이다，形容词/이다 + -(으)ㄴ 모양이다
+structure_pattern: V-는 모양이다 / A-(으)ㄴ 모양이다（依存名词 모양 + 谓格助词 이다）
+explanation_zh: 依存名词 ‘모양’ 与谓格助词 -이다 结合，表示根据某种迹象或依据对情况作出推测，“看来/好像……”。语气比 -는 것 같다 更书面、更有旁观推断的意味。
+examples:
+- text: 반응을 보니, 다행히도 대화 내용을 거의 듣지 못한 모양이었다.
+  reading: ''
+  annot: 반응을 보니, 다행히도 대화 내용을 거의 듣지 못한 모양이었다.
+  translation_zh: 看她的反应，幸好我们的谈话内容她似乎几乎没听到。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+- text: 그런 걸 첫날부터 손에 넣다니, 엘레바도 양은 축제의 운을 타고 난 모양이군 그래.
+  reading: ''
+  annot: 그런 걸 첫날부터 손에 넣다니, 엘레바도 양은 축제의 운을 타고 난 모양이군 그래.
+  translation_zh: 居然第一天就能拿到这种东西，看来埃雷巴多小姐真是天生带着祭典的好运啊。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 推测
+- 依存名词
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

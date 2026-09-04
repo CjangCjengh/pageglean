@@ -1,0 +1,38 @@
+id: ko-grm-00009
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: -아/어 버리다：彻底完成与干脆语气
+structure: 동사 어간 + -아/어 + 보조동사 '버리다'
+structure_pattern: 동사 어간 + -아/어 + 버리다(보조동사)
+explanation_zh: 补助动词，接在动词词干后，表示动作彻底完成或做完。常带有痛快、遗憾或“干脆”的语气，中文可译为“……掉了”“干脆……了”。
+examples:
+- text: 나는 다시금 한숨을 내쉬면서 컴퓨터를 아예 꺼 버렸다.
+  reading: ''
+  annot: 나는 다시금 한숨을 내쉬면서 컴퓨터를 아예 꺼 버렸다.
+  translation_zh: 我再次叹着气，干脆把电脑彻底关掉了。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+- text: 인터넷에서 감상을 찾아보느라 평소 밥 먹는 시간이 지나 버렸다.
+  reading: ''
+  annot: 인터넷에서 감상을 찾아보느라 평소 밥 먹는 시간이 지나 버렸다.
+  translation_zh: 因为忙着在网上翻找读后感，平时吃饭的时间不知不觉就过去了。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 补助动词
+- 体貌
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

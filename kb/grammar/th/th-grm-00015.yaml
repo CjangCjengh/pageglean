@@ -1,0 +1,39 @@
+id: th-grm-00015
+language: th
+type: grammar
+level: L2
+level_rank: 2
+title: ไม่…เลย：彻底否定「根本不……」
+structure: ปฏิเสธ + เน้น：ไม่ + V/Adj + (อะไร) + เลย (+ แม้แต่…)
+structure_pattern: ไม่ + V + เลย
+explanation_zh: เลย 用于否定句句末加强否定语气，相当于“根本（不）、一点也（不）”。可与 อะไร 等疑问代词连用，如 ไม่พูดอะไรอีกเลย“再也没说什么”。与
+  แม้แต่“连”搭配时，表示“甚至连……都……”。
+examples:
+- text: คุณพ่อ​กับ​คุณแม่ก็​ไม่​พูด​อะไร​อีก​เลย
+  reading: ''
+  annot: คุณพ่อ​กับ​คุณแม่ก็​ไม่​พูด​อะไร​อีก​เลย
+  translation_zh: 爸爸妈妈也就再没说什么。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+- text: ทำให้​ไม่มี​เพื่อน​เลย​แม้แต่​คน​เดียว
+  reading: ''
+  annot: ทำให้​ไม่มี​เพื่อน​เลย​แม้แต่​คน​เดียว
+  translation_zh: 结果连一个朋友都没有。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 否定
+- 语气
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

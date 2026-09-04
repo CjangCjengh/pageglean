@@ -1,0 +1,33 @@
+id: ko-grm-00489
+language: ko
+type: grammar
+level: TOPIK5
+level_rank: 5
+title: -은커녕：别说……就连……都
+structure: 체언 + 보조사 '-은커녕'（자음 뒤 '-은커녕'，모음 뒤 '-커녕'）
+structure_pattern: N-은/커녕
+explanation_zh: 补助词，表示前项尚且不可能，后项更不必说，用于递进否定，相当于中文的“别说……就连……都……”。前后分句须都为否定含义。与 -는 고사하고
+  类似但更口语化。
+examples:
+- text: 사실 평소에 감은커녕 눈치도 없는 게 바로 나였으니까.
+  reading: ''
+  annot: 사실 평소에 감은커녕 눈치도 없는 게 바로 나였으니까.
+  translation_zh: 说实话，平时我别说是直觉了，就连眼力见儿都没有。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 补助词
+- 递进否定
+- 强调
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

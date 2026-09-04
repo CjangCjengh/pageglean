@@ -1,0 +1,39 @@
+id: ja-grm-00450
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 「命令形与禁止：〜ろ／〜な」
+structure: 动词命令形；禁止＝终止形＋な
+structure_pattern: V-命令形；V-終止形 + 助詞「な」（禁止）
+explanation_zh: 学校文法把命令形列为动词活用形之一，五段动词词尾变为エ段音（如「開く→開け」），下一段动词变为「ろ」（如「やめる→やめろ」）。表示禁止则在终止形后接助词「な」。片段独白中「開くな」「やめろ」等命令、禁止接连出现，体现男性粗豪的口语语感。
+examples:
+- text: ちょ──ミニスカでまたぐなよ……っ！ 胸元を開くな……っ！
+  reading: ''
+  annot: ちょ──ミニスカでまたぐなよ……っ！ 胸元[むなもと]を開[ひら]くな……っ！
+  translation_zh: 喂——别穿着迷你裙跨上来啊……！别敞开领口啊……！
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+- text: だから電気のヒモでボクシングするのをやめろ。
+  reading: ''
+  annot: だから電気[でんき]のヒモでボクシングするのをやめろ。
+  translation_zh: 所以说，别再拿电灯的拉绳练拳击了啊。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 语气
+- 活用
+- 口语
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 5
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

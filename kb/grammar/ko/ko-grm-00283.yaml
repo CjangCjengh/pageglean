@@ -1,0 +1,39 @@
+id: ko-grm-00283
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: -아/어 봤자：即使……也白费
+structure: V-아/어 봤자（보조적 구성 ‘-아/어 보다’ + 과거 선어말 어미 ‘-았/었-’ + 양보의 연결 성분 ‘-자’）
+structure_pattern: V-아/어 봤자
+explanation_zh: ‘-아/어 보다’的过去形加让步连接成分，表示“即使……也白费”“……也没用”，后句多接消极结论。语气比‘-아/어도’更强调徒劳。常用固定形式如‘그래
+  봤자’（就算那样也没用）。
+examples:
+- text: 그래 봤자 금방 깨부수고 나올 테니 의미 없는 일이지.
+  reading: ''
+  annot: 그래 봤자 금방 깨부수고 나올 테니 의미 없는 일이지.
+  translation_zh: 就算那样，对方马上就会砸破冰冲出来，所以毫无意义。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+- text: 팔다리를 공격해 봤자 별 의미 없지만, 상시 발동형이 아닌 마법 아이템을 쓰려면 손으로 조작해야 할 테니
+  reading: ''
+  annot: 팔다리를 공격해 봤자 별 의미 없지만, 상시 발동형이 아닌 마법 아이템을 쓰려면 손으로 조작해야 할 테니
+  translation_zh: 就算攻击四肢也没什么意义，但要使用非常驻发动型的魔法道具就得用手操作，
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 让步
+- 语气
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

@@ -1,0 +1,39 @@
+id: vi-grm-00145
+language: vi
+type: grammar
+level: L2
+level_rank: 2
+title: chẳng… đâu：全然否定
+structure: chẳng + 动词 (+ đâu)（phó từ phủ định）
+structure_pattern: chẳng + V (+ đâu)
+explanation_zh: chẳng 是否定副词，与 không 义近而语气更重、更书面或带情绪。与 đâu 呼应表示“哪儿也不、根本找不到”，如“chẳng
+  thấy Tiểu Li đâu”（哪儿也见不到小丽）。片段中“cũng chẳng nghe nó đáp lại”表示叫了好几声都没回应。
+examples:
+- text: Chiều hôm đó, tôi thơ thẩn ngoài sân cả buổi, chẳng thấy Tiểu Li đâu.
+  reading: ''
+  annot: Chiều hôm đó, tôi thơ thẩn ngoài sân cả buổi, chẳng thấy Tiểu Li đâu.
+  translation_zh: 那天下午，我在院子里徘徊了半天，哪儿也见不到小丽。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+- text: Tôi kêu tên nó mấy lần cũng chẳng nghe nó đáp lại.
+  reading: ''
+  annot: Tôi kêu tên nó mấy lần cũng chẳng nghe nó đáp lại.
+  translation_zh: 我喊了她好几遍名字，也没听见她回应。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 否定
+- 副词
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

@@ -1,0 +1,39 @@
+id: ja-grm-00118
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 受身：助动词「れる／られる」（被动）
+structure: 动词未然形 + 助动词れる／られる
+structure_pattern: V未然形 + れる/られる
+explanation_zh: 学校文法把被动处理为动词未然形后接助动词「れる／られる」。「覗かれる」是直接受身，动作主用「に」标示；「心をポッキリやられた」则是主语遭受负面影响的受身（迷惑の受身），中文常说“内心被狠狠击垮了”，这类用法在轻小说中极多。
+examples:
+- text: 早くも心をポッキリやられた感があるが、隠し扉の中を覗きこむと。
+  reading: ''
+  annot: 早[はや]くも心[こころ]をポッキリやられた感[かん]があるが、隠[かく]し扉[とびら]の中[なか]を覗[のぞ]きこむと。
+  translation_zh: 虽然已有种内心早早被彻底击垮的感觉，我还是朝暗门里面看去。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+- text: そのため無許可で他者に覗かれる事は無いから、安心してほしい
+  reading: ''
+  annot: そのため無許可[むきょか]で他者[たしゃ]に覗[のぞ]かれる事[こと]は無[な]いから、安心[あんしん]してほしい
+  translation_zh: 因此不会被他人未经许可窥看，请放心。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 動詞活用
+- 助動詞
+- 受身
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

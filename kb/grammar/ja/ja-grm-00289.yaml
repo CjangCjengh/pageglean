@@ -1,0 +1,38 @@
+id: ja-grm-00289
+language: ja
+type: grammar
+level: N3
+level_rank: 3
+title: 〜わけにはいかない：情理上的不可
+structure: V終止形＋形式名詞「わけ」＋には行かない
+structure_pattern: V終止形 + わけにはいかない
+explanation_zh: 形式名词「わけ」表示事理、情理上的依据，「〜わけにはいかない」指因立场、道义等理由而不能做某事。与表示能力上不能的「〜られない」不同，强调主观上不可为。中文译为"（于情于理）不能……"。
+examples:
+- text: だけどリアがどうなるか分からないなら、俺が譲るわけにはいかないッ……!!
+  reading: ''
+  annot: だけどリアがどうなるか分[わ]からないなら、俺[おれ]が譲[ゆず]るわけにはいかないッ……!!
+  translation_zh: 可是，如果不知道莉亚会怎样的话，我不能退让……！！
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+- text: いくら知り合いとはいえ、王女にロクデナシ押しつけるわけにもいかないだろ？
+  reading: ''
+  annot: いくら知[し]り合[あ]いとはいえ、王女[おうじょ]にロクデナシ押[お]しつけるわけにもいかないだろ？
+  translation_zh: 就算再怎么是熟人，也不能把这种没出息的家伙硬塞给王女吧？
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 形式名词
+- 语气
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

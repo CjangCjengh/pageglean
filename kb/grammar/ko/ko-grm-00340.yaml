@@ -1,0 +1,33 @@
+id: ko-grm-00340
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: 의존명사 척：假装……
+structure: 动词现在时冠形词尾 '-는' + 의존명사 '척' + '하다'
+structure_pattern: V-는 척 + 하다
+explanation_zh: 척是의존명사，意为"样子、模样"，与冠形词尾'-는/-(으)ㄴ/-(으)ㄹ'搭配构成'-는 척하다'，表示"假装……"。本句中'협력하는
+  척'后再接连결어미'-면서'，引出与事实相反的后续行为。体言后可用'명사+척(을) 하다'，近义表达还有'체하다'。
+examples:
+- text: 겉으로는 클라우 에른베스크에게 협력하는 척하면서, 실제로는 황족의 혈통을 지키려고 분골쇄신하고 있던 것이오!
+  reading: ''
+  annot: 겉으로는 클라우 에른베스크에게 협력하는 척하면서, 실제로는 황족의 혈통을 지키려고 분골쇄신하고 있던 것이오!
+  translation_zh: 表面上假装与克劳·恩贝斯克合作，实际上却为守护皇族血统而粉身碎骨！
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 依存名词
+- 假装
+- 冠形词尾
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

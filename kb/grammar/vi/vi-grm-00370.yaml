@@ -1,0 +1,39 @@
+id: vi-grm-00370
+language: vi
+type: grammar
+level: L3
+level_rank: 3
+title: “bị”被动句：表不如意
+structure: 受事 + bị +（施事）+ V
+structure_pattern: N + bị + (N) + V
+explanation_zh: 越南语被动常用 bị / được 标记：bị 多接不如意的事，接近汉语带贬义的“被”；được 多接有益、可喜的事。施事可紧跟在
+  bị 之后，也可省略。片段两处 bị 均表受挫：“bị từ chối thẳng thừng”（被断然拒绝）、“bị Hải gầy… giễu cợt”（被瘦海嘲笑）。
+examples:
+- text: lại còn bị Hải gầy suốt ngày giễu cợt
+  reading: ''
+  annot: lại còn bị Hải gầy suốt ngày giễu cợt
+  translation_zh: 还整天被瘦海（阿瘦）嘲笑。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+- text: Việc lá thư tình đầu đời của tôi bị từ chối thẳng thừng và tàn nhẫn
+  reading: ''
+  annot: Việc lá thư tình đầu đời của tôi bị từ chối thẳng thừng và tàn nhẫn
+  translation_zh: 我人生中第一封情书被如此断然、无情地拒绝。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 被动
+- 语态
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

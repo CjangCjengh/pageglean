@@ -1,0 +1,31 @@
+id: ja-grm-00507
+language: ja
+type: grammar
+level: N3
+level_rank: 3
+title: 〜ようにしか見えない：只能看成……
+structure: 〜ている＋ように＋しか＋見えない
+structure_pattern: V-ている + ように + しか + 見えない
+explanation_zh: 助词「しか」必须与否定呼应，表示『只……』；「〜ように見える」意为『看起来像……』。两者结合强调『只能看作……』，文中指这本日记怎么看都像是在请对方别再插手。
+examples:
+- text: だとすると、どう考えてもこの日記は「これ以上関わらないでくれ」と言っているようにしか見えない。
+  reading: ''
+  annot: だとすると、どう考[かんが]えてもこの日記[にっき]は「これ以上[いじょう]関[かか]わらないでくれ」と言[い]っているようにしか見[み]えない。
+  translation_zh: 这么说的话，无论怎么想，这本日记都只能看成是在说“请不要再牵扯进来了”。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 助词
+- 语气
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

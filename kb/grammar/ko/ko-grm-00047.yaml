@@ -1,0 +1,33 @@
+id: ko-grm-00047
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: 「-아/어 오다：一直持续至今」
+structure: 谓词词干 + 连接词尾 -아/어 + 补助动词 오다
+structure_pattern: V/A-아/어 + 오다
+explanation_zh: 连接词尾 -아/어 后接补助动词 오다，表示某种动作或状态从过去某一时间点一直持续到现在，强调时间上的延续性。相当于中文的「一直……到现在」。片段中「데뷔
+  이후 줄곧 그래 왔다」（出道以来一直如此）是典型搭配，줄곧（一直）常与之共现。
+examples:
+- text: 데뷔 이후 줄곧 그래 왔다.
+  reading: ''
+  annot: 데뷔 이후 줄곧 그래 왔다.
+  translation_zh: 出道以来，我一直都是这样。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 补助动词
+- 体貌
+- 持续
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

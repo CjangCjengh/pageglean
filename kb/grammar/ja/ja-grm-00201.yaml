@@ -1,0 +1,32 @@
+id: ja-grm-00201
+language: ja
+type: grammar
+level: N3
+level_rank: 3
+title: 「〜ながらも」：虽然……却……
+structure: 動詞連用形 + 接続助詞「ながら」 + 係助詞「も」
+structure_pattern: V-連用形 + ながら + も
+explanation_zh: 学校文法中，接续助词「ながら」本表两个动作同时进行，加上提示助词「も」后转为逆接，表示“虽然～却……”，带有书面语色彩。文中描写伊斯卡虽然满心疑惑，还是跟了过来。
+examples:
+- text: 首を傾げながらも、付いて来てくれるイスカ。
+  reading: ''
+  annot: 首[くび]を傾[かし]げながらも、付[つ]いて来[き]てくれるイスカ。
+  translation_zh: 伊斯卡虽然歪着头不解，还是跟了过来。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 逆接
+- 接続助詞
+- 書面語
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

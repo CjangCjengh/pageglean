@@ -1,0 +1,39 @@
+id: ko-grm-00044
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: 「-ㄹ 리가 없다：按理不可能……」
+structure: 谓词词干 + 冠形词尾 -ㄹ + 依存名词 리 + 주격 조사 가 없다
+structure_pattern: V/A-ㄹ + 리가 없다
+explanation_zh: 冠形词尾 -ㄹ 修饰依存名词 리（道理、情理），再与 가 없다 构成惯用型，表示按常理推断绝不可能发生，语气比单纯否定更强。相当于中文的「怎么可能……」「不可能……」。片段中出现两次，分别用于自我辩解和对他人反应的推测。
+examples:
+- text: 내 모든 것을 쏟아부은 소설의 인물들에게 애정이 없을 리가 없다.
+  reading: ''
+  annot: 내 모든 것을 쏟아부은 소설의 인물들에게 애정이 없을 리가 없다.
+  translation_zh: 对倾注了我一切的小说人物，我怎么可能没有感情呢。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+- text: 아니, 믿어 줄 리가 없지.
+  reading: ''
+  annot: 아니, 믿어 줄 리가 없지.
+  translation_zh: 不，（她）是不可能相信我的。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 依存名词
+- 推量
+- 否定
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

@@ -1,0 +1,31 @@
+id: ja-grm-00539
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 「のだ／んだ」：说明与强调
+structure: 用言連体形＋準体言「の」＋断定の助動詞「だ」（口語：んだ）
+structure_pattern: V連体形 + の(準体言) + だ → んだ(口語)
+explanation_zh: 「のだ」（口语「んだ」）由准体言「の」加断定助动词「だ」构成，用于说明缘由、解释情况或强调新认识。片段中「いるんです」用于向对方说明情况，「のだということを」则以郑重语气强调既成事实。是轻小说独白与对话中的高频表达。
+examples:
+- text: 俺の友達に苦しんでいる奴がいるんです。
+  reading: ''
+  annot: 俺[おれ]の友達[ともだち]に苦[くる]しんでいる奴[やつ]がいるんです。
+  translation_zh: 我的朋友中，有一个正在受苦的人。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 语气
+- 准体言
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

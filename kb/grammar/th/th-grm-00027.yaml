@@ -1,0 +1,32 @@
+id: th-grm-00027
+language: th
+type: grammar
+level: L2
+level_rank: 2
+title: ก่อนจะ…：在……之前
+structure: 主句 + ก่อน + จะ + 动词（后一动作）
+structure_pattern: VP1 + ก่อน + จะ + VP2
+explanation_zh: 「ก่อน + จะ + 动词」表示主句动作发生在另一动作之前，相当于中文的“在……之前”，作时间状语从句（อนุประโยคบอกเวลา）。จะ
+  保留“将要”义，说明从句动作尚未发生。泰语连词引导从句置于句首，语序与中文“先……再……”不同，需留意。
+examples:
+- text: เมื่อ​ผู้ดูแล​ของ​ผม​ตรวจงาน​เสร็จก็​กล่าว​ขอบคุณ​อีกครั้ง​ก่อน​จะ​วางสาย​ไป
+  reading: ''
+  annot: เมื่อ​ผู้ดูแล​ของ​ผม​ตรวจงาน​เสร็จก็​กล่าว​ขอบคุณ​อีกครั้ง​ก่อน​จะ​วางสาย​ไป
+  translation_zh: 我的主管审阅完工作之后，在挂断电话之前又向我道了一次谢。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 时间
+- 语序
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 4
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

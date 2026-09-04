@@ -1,0 +1,31 @@
+id: th-grm-00059
+language: th
+type: grammar
+level: L2
+level_rank: 2
+title: ทั้ง…ทั้ง…：并列举「又……又……」
+structure: ทั้ง + ส่วนที่ 1 + ทั้ง + ส่วนที่ 2 (+ ทั้ง + ส่วนที่ 3) — คำสันธานเชื่อมความคล้อยตามกัน
+structure_pattern: ทั้ง + XP + ทั้ง + XP (+ ทั้ง + XP)
+explanation_zh: ทั้ง…ทั้ง…是泰语学校语法中的并列连词（คำสันธาน），连接两个或多个并列成分，表示多种状态或动作同时存在，相当于中文的「又……又……」。所连接的成分可以是动词、形容词或名词短语，且可连用多项。片段中连接愤怒、伤心、同情三种情绪，强调同时涌上心头。
+examples:
+- text: ทั้ง​โกรธ ทั้ง​เสียใจ ทั้ง​เห็นใจ​เธอ
+  reading: ''
+  annot: ทั้ง​โกรธ ทั้ง​เสียใจ ทั้ง​เห็นใจ​เธอ
+  translation_zh: 又生气，又伤心，又同情她。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 连词
+- 并列结构
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

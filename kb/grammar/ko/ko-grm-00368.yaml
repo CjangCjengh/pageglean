@@ -1,0 +1,38 @@
+id: ko-grm-00368
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: 「-다고/-자고：间接引用与名词化」
+structure: 동사 어간 + -(ㄴ/는)다고 / -자고 / -냐고 + 하다
+structure_pattern: V + -(ㄴ/는)다고 / -자고 + 하다
+explanation_zh: 间接引用（간접 인용문）用来转述他人或自己的想法：陈述句用“-(ㄴ/는)다고”，共动句用“-자고”，疑问句用“-냐고”。“-다는 것/걸”把句子转成名词性从句，常作“알다、깨닫다”的宾语。
+examples:
+- text: 하지만 오라버니가 죽었다는 걸 알았을 때, 저도 잘 이해할 수 없었지만…….
+  reading: ''
+  annot: 하지만 오라버니가 죽었다는 걸 알았을 때, 저도 잘 이해할 수 없었지만…….
+  translation_zh: 可是，当我得知哥哥去世的时候，我自己也不明白那是什么感觉……
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+- text: 서로 솔직하자고 했잖아요.
+  reading: ''
+  annot: 서로 솔직하자고 했잖아요.
+  translation_zh: 我们不是说好要彼此坦诚吗。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 인용문
+- 관형절
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 4
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

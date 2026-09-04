@@ -1,0 +1,39 @@
+id: ja-grm-00166
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 〜らしい：看来……（基于观察的推测）
+structure: 用言終止形＋らしい
+structure_pattern: V/A 終止形 + らしい
+explanation_zh: 助動詞らしい接用言终止形，表示依据眼前状况或传闻作出有一定根据的推测，意为「看来……、似乎……」。可直接以连体形修饰名词，如「考えているらしいリア」。与单纯传闻的「〜そうだ」不同，らしい带有说话人自己的观察判断。片段中两次出现，均表推测。
+examples:
+- text: 話に一段落がついた事で、俺の状況に気が付いたらしい。
+  reading: ''
+  annot: 話[はなし]に一段落[いちだんらく]がついた事[こと]で、俺[おれ]の状況[じょうきょう]に気[き]が付[つ]いたらしい。
+  translation_zh: 大概是因为谈话告一段落，她似乎察觉到了我的状况。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+- text: いろいろと可能性を考えているらしいリア。
+  reading: ''
+  annot: いろいろと可能性[かのうせい]を考えているらしいリア。
+  translation_zh: 似乎正在考虑种种可能性的莉亚。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 推测
+- 助动词
+- 语气
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

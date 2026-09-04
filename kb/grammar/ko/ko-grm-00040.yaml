@@ -1,0 +1,38 @@
+id: ko-grm-00040
+language: ko
+type: grammar
+level: TOPIK2
+level_rank: 2
+title: -뿐이다：只是……而已
+structure: 体言 + 보조사 '뿐' + 서술격 조사 '이다'
+structure_pattern: N + 뿐이다 (보조사)
+explanation_zh: '''뿐''是表示限定的添意助词（보조사），''-뿐이다''相当于『只是……而已、无非是……罢了』。片段中多次出现，强调『除此之外没有别的』，常带轻描淡写或辩解的语气。可接在体言后，也可接在名词化形式后。'
+examples:
+- text: 하지만 내 눈에는 무의미한 허세처럼 보일 뿐이었다.
+  reading: ''
+  annot: 하지만 내 눈에는 무의미한 허세처럼 보일 뿐이었다.
+  translation_zh: 但在我眼里，那不过是毫无意义的虚张声势罢了。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+- text: 계약이나 협박을 통해 상대방을 굴복시킨 뒤 자진해서 몸을 바치게 만드는 것이 아즐란의 취향일 뿐이다.
+  reading: ''
+  annot: 계약이나 협박을 통해 상대방을 굴복시킨 뒤 자진해서 몸을 바치게 만드는 것이 아즐란의 취향일 뿐이다.
+  translation_zh: 通过契约或胁迫使对方屈服，再让对方主动献身，这无非是阿兹兰的癖好罢了。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 助词
+- 限定
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 4
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

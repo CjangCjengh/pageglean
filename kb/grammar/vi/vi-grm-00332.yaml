@@ -1,0 +1,32 @@
+id: vi-grm-00332
+language: vi
+type: grammar
+level: L3
+level_rank: 3
+title: 「không một + 名词：一个也没有」
+structure: không + một + N（强调否定，可省略动词）
+structure_pattern: không + một + N
+explanation_zh: không một + 名词构成强调否定，相当于汉语“一个……也没有”，语气比普通的 không có 更强，甚至可省去动词只留名词短语。片段中
+  không một bóng người 即“连一个人影都没有”，多用于描写空旷、寂静的场景。
+examples:
+- text: Trên xe không một bóng người.
+  reading: ''
+  annot: Trên xe không một bóng người.
+  translation_zh: 车上连一个人影都没有。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 否定
+- 强调
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

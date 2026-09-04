@@ -1,0 +1,33 @@
+id: ko-grm-00218
+language: ko
+type: grammar
+level: TOPIK6
+level_rank: 6
+title: -(으)ㅁ에도 불구하고：尽管……
+structure: 动词词干 + 名词化词尾 -(으)ㅁ + 에도 + 불구하다 + 连接词尾 -고
+structure_pattern: V-(으)ㅁ에도 불구하고
+explanation_zh: -(으)ㅁ是名词化词尾，把动词短语体言化；에도 불구하고表示让步，“尽管……却……”。属于正式、书面的表达，常见于新闻和叙述文体，口语中多用
+  -는데도 替代。
+examples:
+- text: 100배의 세력을 지닌 대제후와의 격돌을 앞두고 있음에도 불구하고, 그녀들 중 패배를 두려워하고 있는 사람은 아무도 없었다.
+  reading: ''
+  annot: 100배의 세력을 지닌 대제후와의 격돌을 앞두고 있음에도 불구하고, 그녀들 중 패배를 두려워하고 있는 사람은 아무도 없었다.
+  translation_zh: 尽管即将面对的是拥有百倍势力的大诸侯，她们之中却没有一个人害怕失败。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 名词化词尾
+- 让步
+- 书面语
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

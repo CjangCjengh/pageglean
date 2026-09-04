@@ -1,0 +1,40 @@
+id: ko-grm-00338
+language: ko
+type: grammar
+level: TOPIK6
+level_rank: 6
+title: 하오체 종결어미 -(으)오/소：庄重的演说语气
+structure: 用言词干 + 종결어미 '-(으)오/-소'（하오체）
+structure_pattern: V/A- + -(으)오/-(으)소
+explanation_zh: '''-(으)오/-소''是하오체的종결어미，属较为古雅的尊敬阶位，多见于史剧、演说与郑重宣言；辅音韵尾后接-소（했소），元音后接-오（없소）。可与主格敬语선어말어미''-(으)시-''连用为''-셨소''（계셨소），或与의존명사것结合成''-(으)ㄹ
+  것이오''表示强调性断定。现代口语中已多被합쇼체取代，学习者以理解辨识为主。'
+examples:
+- text: 그렇소! 지금까지 우리들을 공포로 지배해 왔던 그 미치광이 살인마 클라우 에른베스크는 이제 이 세상에 없소!
+  reading: ''
+  annot: 그렇소! 지금까지 우리들을 공포로 지배해 왔던 그 미치광이 살인마 클라우 에른베스크는 이제 이 세상에 없소!
+  translation_zh: 没错！一直以来用恐怖统治我们的那个疯子杀人魔克劳·恩贝斯克，如今已不在人世了！
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+- text: 공작 각하에게? 아니오! 우리가 충성을 바쳐야 할 분은 처음부터 정해져 있었소!
+  reading: ''
+  annot: 공작 각하에게? 아니오! 우리가 충성을 바쳐야 할 분은 처음부터 정해져 있었소!
+  translation_zh: 是献给公爵阁下吗？不！我们应当效忠的人，从一开始就已注定了！
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 敬语
+- 终结词尾
+- 语体
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 15
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

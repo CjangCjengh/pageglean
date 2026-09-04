@@ -1,0 +1,32 @@
+id: ja-grm-00463
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 「〜のだ／のです」：说明·强调语气
+structure: 用言终止形 + のだ（丁寧体：のです；口语缩约：んだ）
+structure_pattern: 用言-終止形 + のだ/のです
+explanation_zh: 「のだ／のです」接用言终止形，用于说明情况、解释原因或加强语气。句中妹妹用郑重的「です」发出「くたばるのです」（去死吧）这样粗暴的命令，礼貌形式与粗暴内容形成反差，产生赌气、娇嗔的夸张效果，是轻小说常见的口语修辞。口语中常说缩约形「んだ」。
+examples:
+- text: なにを考えているのですか、バカ兄貴！ くたばるのです！
+  reading: ''
+  annot: なにを考[かんが]えているのですか、バカ兄貴[あにき]！ くたばるのです！
+  translation_zh: 你到底在想什么啊，笨蛋老哥！给我去死！
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 语气
+- 说明
+- 口语
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

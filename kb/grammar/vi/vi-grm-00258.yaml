@@ -1,0 +1,39 @@
+id: vi-grm-00258
+language: vi
+type: grammar
+level: L3
+level_rank: 3
+title: bị/được 被动：不如意与如意的对比
+structure: bị/được + 施事 + V
+structure_pattern: bị/được + NP + V
+explanation_zh: 「bị」和「được」都是被动标记，置于动词之前；「bị」多用于不如意、受损害的事，「được」多用于如意、受益的事。片段中「bị…làm
+  phép định thân」（被施定身法）与「được giải phép」（被解法）形成对照。译成中文时不一定都用「被」，可依语境译为「遭到／得以／受到」。
+examples:
+- text: Tôi đứng chết trân như bị Tôn Hành Giả làm phép định thân.
+  reading: ''
+  annot: Tôi đứng chết trân như bị Tôn Hành Giả làm phép định thân.
+  translation_zh: 我像被孙行者施了定身法一样，呆立当场。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+- text: 'Như được giải phép, tôi vội vã chìa cuốn sách ra:'
+  reading: ''
+  annot: 'Như được giải phép, tôi vội vã chìa cuốn sách ra:'
+  translation_zh: 就像被解了法术似的，我急忙把书递过去：
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 被动
+- 句式
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

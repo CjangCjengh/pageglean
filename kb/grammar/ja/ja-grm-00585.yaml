@@ -1,0 +1,31 @@
+id: ja-grm-00585
+language: ja
+type: grammar
+level: N3
+level_rank: 3
+title: 〜ず（に）：不……、没有……
+structure: 动词未然形＋否定助动词「ず」（连用形「ずに」作状语）
+structure_pattern: V(未然形) + ず(に)
+explanation_zh: 「ず」是否定助动词，接动词未然形，其连用形「ずに」作状语，表示“没有做某事就……”，相当于口语的「ないで」。文中“とくに意識もせずに”即“并没有特别有意识地（去看）”。偏书面，常与副词「も」搭配加强语气。
+examples:
+- text: とくに意識もせずにケータイの画面を見ると──
+  reading: ''
+  annot: とくに意識[いしき]もせずにケータイの画面[がめん]を見[み]ると──
+  translation_zh: 没怎么有意识地看向手机屏幕，只见——
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 否定
+- 接续
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

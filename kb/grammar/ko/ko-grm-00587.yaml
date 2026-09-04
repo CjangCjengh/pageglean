@@ -1,0 +1,40 @@
+id: ko-grm-00587
+language: ko
+type: grammar
+level: TOPIK2
+level_rank: 2
+title: -ㄴ/은 적이 있다/없다：经历与未曾经历
+structure: 동사 어간 + 관형사형 전성어미 -ㄴ/은 + 의존명사 적 + 있다/없다
+structure_pattern: V-(으)ㄴ 적(이) 있다/없다
+explanation_zh: 依存名词적经冠形词形转成어미'-ㄴ/은'修饰后表示过去的经历，与있다/없다搭配表示"有过/没有过……的经历"。常以"-아/어 본 적(이)
+  있다/없다"的形式出现，强调"尝试做过/从未做过"。文中还可用한 번도、못等加以强调。
+examples:
+- text: 소풍을 가 본 적이 없다고?
+  reading: ''
+  annot: 소풍을 가 본 적이 없다고?
+  translation_zh: 你从来没去郊游过？
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+- text: 한 번도 직접 본 적은 없었지만, 나는 그녀의 옛날이 어땠을지 쉽게 상상해 볼 수 있었다.
+  reading: ''
+  annot: 한 번도 직접 본 적은 없었지만, 나는 그녀의 옛날이 어땠을지 쉽게 상상해 볼 수 있었다.
+  translation_zh: 虽然一次也不曾亲眼见过，但我能够轻易想象出她的过去是什么样子。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 经历
+- 依存名词
+- 叙述
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

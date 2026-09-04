@@ -1,0 +1,32 @@
+id: vi-grm-00017
+language: vi
+type: grammar
+level: L2
+level_rank: 2
+title: Vừa… vừa…：两个动作同时进行（一边……一边……）
+structure: Vừa + V1, (chủ ngữ) vừa + V2
+structure_pattern: vừa + V + vừa + V（cặp quan hệ từ chỉ quan hệ đồng thời）
+explanation_zh: 成对使用的关联结构，表示两个动作同时发生，相当于中文“一边……一边……”。越南语学校语法将其归为表示đồng thời（同时）关系的cặp
+  quan hệ từ（成对关系词），两个动词共用同一主语。注意区别于表“刚刚”的时间副词vừa。
+examples:
+- text: Vừa đọc tôi vừa liếc chừng về phía Việt An.
+  reading: ''
+  annot: Vừa đọc tôi vừa liếc chừng về phía Việt An.
+  translation_zh: 我一边读，一边朝越安那边偷偷张望。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 同时
+- 关联词对
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

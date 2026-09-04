@@ -1,0 +1,39 @@
+id: ko-grm-00531
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: -(으)ㄹ까：担忧的自问
+structure: 用言词干 + 终结词尾 -(으)ㄹ까（表疑问、推测，此处用于忧虑式自问）
+structure_pattern: V/A + -(으)ㄹ까(요)
+explanation_zh: 终结词尾 -(으)ㄹ까 表疑问与推测，在独白中常用作带着担忧的自问。文中以 -는 것일까、-는 건 아닐까 等形式反复出现，表现主人公的不安心境。对应中文“会不会……呢／……吗”。
+examples:
+- text: 혹시 내가 다시 돌아가고 나면 요나가 또 키이리를 찾아오진 않을까.
+  reading: ''
+  annot: 혹시 내가 다시 돌아가고 나면 요나가 또 키이리를 찾아오진 않을까.
+  translation_zh: 等我再回去之后，约娜会不会又来找基里呢？
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+- text: 요나는 키이리에게 무슨 짓을 하려던 것일까.
+  reading: ''
+  annot: 요나는 키이리에게 무슨 짓을 하려던 것일까.
+  translation_zh: 约娜当时是想对基里做什么呢？
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 终结词尾
+- 语气
+- 疑问
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 4
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

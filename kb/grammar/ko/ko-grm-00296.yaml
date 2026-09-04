@@ -1,0 +1,32 @@
+id: ko-grm-00296
+language: ko
+type: grammar
+level: TOPIK2
+level_rank: 2
+title: 「-지만：转折与对照」
+structure: 用言 + 连接语尾 -지만（보조사 는 加强对照）
+structure_pattern: A/V-지만
+explanation_zh: 连接语尾「-지만」表示前后内容的转折或对照，相当于「虽然……但是」。句中「-지는 못하다」用 보조사「는」加强让步对照语气，强调「虽然杀不死你」。中文母语者需注意韩语转折分句中助词与语尾叠加的语序。
+examples:
+- text: 너도 나를 완전히 죽이지는 못하겠지만, 나도 너를 제압할 수단이 없어.
+  reading: ''
+  annot: 너도 나를 완전히 죽이지는 못하겠지만, 나도 너를 제압할 수단이 없어.
+  translation_zh: 你虽然也没办法完全杀死我，但我也没有能制服你的手段。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 连接语尾
+- 转折
+- 对照
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

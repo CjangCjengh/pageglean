@@ -1,0 +1,32 @@
+id: ko-grm-00212
+language: ko
+type: grammar
+level: TOPIK5
+level_rank: 5
+title: 「-(으)ㄹ 듯이：仿佛……似的」
+structure: 动词词干 + -(으)ㄹ 듯이（常与 마치 呼应）
+structure_pattern: V- + -(으)ㄹ 듯(의존명사) + -이
+explanation_zh: 依存名词 '듯' 表示“像……那样、似乎”，加副词化词尾 '-이' 后作状语修饰谓语，常与 '마치' 呼应构成比喻，相当于中文“仿佛……似的”。片段用“마치
+  입술을 맞댈 듯이”描写两人距离之近，极具画面感。
+examples:
+- text: 마치 입술을 맞댈 듯이 가까운 거리에서, 나는 유혹하는 것처럼 속삭였다.
+  reading: ''
+  annot: 마치 입술을 맞댈 듯이 가까운 거리에서, 나는 유혹하는 것처럼 속삭였다.
+  translation_zh: 在仿佛嘴唇就要相贴般近的距离里，我像在诱惑似的低声说道。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 比喻
+- 状语
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 45
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

@@ -1,0 +1,38 @@
+id: ko-grm-00671
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: -(으)ㄹ 정도：达到……的程度
+structure: 用言词干 + -(으)ㄹ + 의존 명사 '정도'
+structure_pattern: V-(으)ㄹ 정도(이다)
+explanation_zh: 依存名词'정도'表示程度、水平，前接谓词的冠形词形（定语形），构成'达到……的程度/地步'之意。'숨을 못 쉴 정도였다'形容被打中后一瞬间呼吸困难的程度。
+examples:
+- text: 일순 숨을 못 쉴 정도였다.
+  reading: ''
+  annot: 일순 숨을 못 쉴 정도였다.
+  translation_zh: 那一瞬间到了无法呼吸的程度。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+- text: 그나마 요나도 싸움에 특화된 몸은 아니라, 견딜 만했다는 것 정도일까.
+  reading: ''
+  annot: 그나마 요나도 싸움에 특화된 몸은 아니라, 견딜 만했다는 것 정도일까.
+  translation_zh: 所幸约拿也并非擅长打斗的体质，大概也就是勉强扛得住的程度吧。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 程度
+- 依存名词
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

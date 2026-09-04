@@ -1,0 +1,32 @@
+id: ja-grm-00471
+language: ja
+type: grammar
+level: N2
+level_rank: 4
+title: 〜やがる：轻蔑与恼怒（补助动词）
+structure: 动词连用形＋补助动词「やがる」
+structure_pattern: V連用形 + やがる
+explanation_zh: 补助动词「やがる」接动词连用形，表示说话人对他人行为的轻蔑、厌恶或恼怒，近于竟然、胆敢〜。文中「出しやがって」以连用形结句，留下愤愤的余白。属粗俗口语，只用于极随便的场合，轻小说吐槽中常见。
+examples:
+- text: しかも名前まで出しやがって！
+  reading: ''
+  annot: しかも名前[なまえ]まで出[だ]しやがって！
+  translation_zh: 居然连名字都写出来了！
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 助动词
+- 语气
+- 口语
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

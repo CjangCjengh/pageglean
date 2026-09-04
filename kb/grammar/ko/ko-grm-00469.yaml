@@ -1,0 +1,32 @@
+id: ko-grm-00469
+language: ko
+type: grammar
+level: TOPIK5
+level_rank: 5
+title: 「-인지 …-인지 모르다：分不清是哪一种」
+structure: 体言/이다 + -인지；用言 + -(느)ㄴ지（多项列举）+ 모르다
+structure_pattern: N인지 N인지 모르다
+explanation_zh: ‘이다’后接‘-인지’、用言后接‘-(느)ㄴ지’，反复列举若干可能项，句末以‘모르다’收束，表示无法判断究竟是哪种情况，“分不清是……还是……”。片段连用四个‘-인지’，渲染难以名状的感叹。两项对举时说‘A인지
+  B인지’即可。
+examples:
+- text: 긍정인지 놀람인지 당황인지, 그도 아니면 비웃음인지 모를 감탄사가 되돌아왔다.
+  reading: ''
+  annot: 긍정인지 놀람인지 당황인지, 그도 아니면 비웃음인지 모를 감탄사가 되돌아왔다.
+  translation_zh: 回传过来一句分不清是肯定、惊讶、慌张还是嘲讽的感叹声。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 列举
+- 不确定
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

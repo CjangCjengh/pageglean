@@ -1,0 +1,39 @@
+id: ko-grm-00121
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: 「-(으)ㄹ 테니(까)/-ㄹ 텐데：以推测为据的理由与让步」
+structure: 动词/形容词 + -(으)ㄹ 터-이니(까)/터-인데（의존명사 터 + 연결어미）
+structure_pattern: V-(으)ㄹ 터+이니(까)/인데
+explanation_zh: 依存名词'터'表示推测的依据，与连接词尾结合构成-(으)ㄹ 테니(까)、-(으)ㄹ 텐데等，在前句提出推测，作为后句的理由或背景。语气比断言委婉，带有"应该会……所以/不过"的揣度感，对话中十分常用。
+examples:
+- text: 마스터는 쉬고 있어. 내가 처리할 테니까.
+  reading: ''
+  annot: 마스터는 쉬고 있어. 내가 처리할 테니까.
+  translation_zh: 主人您休息吧。我会处理好的。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+- text: 신성마법은 마법에 대한 조예뿐만 아니라 선량한 마음까지 갖춰야 쓸 수 있을 텐데…….
+  reading: ''
+  annot: 신성마법은 마법에 대한 조예뿐만 아니라 선량한 마음까지 갖춰야 쓸 수 있을 텐데…….
+  translation_zh: 神圣魔法不仅需要对魔法有造诣，还必须具备善良的心才能施展，可是……
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 接续
+- 推测
+- 理由
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

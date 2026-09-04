@@ -1,0 +1,31 @@
+id: ja-grm-00100
+language: ja
+type: grammar
+level: N2
+level_rank: 4
+title: 「たとえ〜ようと」：让步条件（意志助动词う/よう＋助词と）
+structure: 动词意志形（助动词「う／よう」）+ 助词「と」（常与副词「たとえ」呼应）
+structure_pattern: V-意志形(う/よう) + と
+explanation_zh: 助动词「う／よう」表意志或推量，后接助词「と」构成让步条件，意为“无论……也……”，常与副词「たとえ」呼应。「同意の上だろうと」即“即便是双方你情我愿”。后句多为不受前项影响的结论。
+examples:
+- text: たとえ同意の上だろうと魔族側がそれを口実に開戦する可能性がある
+  reading: ''
+  annot: たとえ同意[どうい]の上[うえ]だろうと魔族[まぞく]側[がわ]がそれを口実[こうじつ]に開戦[かいせん]する可能[かのう]性[せい]がある
+  translation_zh: 即便是双方你情我愿，魔族那边也有可能以此为借口开战。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 让步
+- 接续
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

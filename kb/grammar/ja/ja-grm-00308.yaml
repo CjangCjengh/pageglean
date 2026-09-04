@@ -1,0 +1,31 @@
+id: ja-grm-00308
+language: ja
+type: grammar
+level: N2
+level_rank: 4
+title: 〜つつも：虽然……（书面语逆接）
+structure: 動詞連用形 + 接続助詞「つつ」+ も
+structure_pattern: V連用形 + つつも
+explanation_zh: 接续助词「つつ」接动词连用形，此处表示逆接，相当于「けれども」，书面语色彩浓厚。同形「つつ」还可表示同时动作，相当于「ながら」。
+examples:
+- text: とは思いつつも、やはり悔しいので顔には出さないように努め、話を続ける。
+  reading: ''
+  annot: とは思いつつも、やはり悔しいので顔には出さないように努め、話を続ける。
+  translation_zh: 虽然心里这么想，但毕竟还是不甘心，于是努力不让情绪流露在脸上，继续说下去。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 接续
+- 书面语
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

@@ -1,0 +1,34 @@
+id: th-grm-00087
+language: th
+type: grammar
+level: L4
+level_rank: 4
+title: ที่/ซึ่ง 关系小句与 การที่…นั้น 名词化
+structure: 名词 + ที่/ซึ่ง + 小句；การ + ที่ + 小句 + นั้น + 谓语
+structure_pattern: คำนาม + ที่/ซึ่ง + อนุประโยค (คุณานุประโยค) | การ + ที่ + ประโยค
+  + นั้น + คำกริยา
+explanation_zh: ที่/ซึ่ง 接在名词后引导关系小句（学校文法称คุณานุประโยค），相当于汉语的“……的（那个）”。การ + ที่
+  + 小句 + นั้น 则把整件事名词化作主语（นามานุประโยค），后接评论性谓语，是泰语书面语的典型结构。片段中两种结构反复出现，值得精读。
+examples:
+- text: ผมก็​กลับ​ไป​นั่ง​ปั่น​งาน​ต่อ​ที่​ห้องอาหาร ซึ่ง​เป็น​จุด​ที่​ลมเย็น​มาก​ที่สุด​ใน​บ้าน
+  reading: ''
+  annot: ผมก็​กลับ​ไป​นั่ง​ปั่น​งาน​ต่อ​ที่​ห้องอาหาร ซึ่ง​เป็น​จุด​ที่​ลมเย็น​มาก​ที่สุด​ใน​บ้าน
+  translation_zh: 我也回到餐厅继续赶工作，那是全屋风最凉快的地方。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 关系小句
+- 名词化
+- 书面语
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 5
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

@@ -1,0 +1,39 @@
+id: ko-grm-00170
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: -아/어 버리다：动作的彻底完成与遗憾
+structure: 동사 어간 + 연결 어미 '-아/어' + 보조 동사 '버리다'（보조용언 구성）
+structure_pattern: V-아/어 버리다
+explanation_zh: 补助动词结构，连接词尾 -아/어 后接补助动词 버리다，表示动作彻底完结或结果已然形成。除单纯表示完成外，常伴随遗憾、后悔或解脱等说话人的情绪。本片段反复用于凯特之死，强调结果不可挽回的绝望感。
+examples:
+- text: 그런데 카이트가 죽어 버렸다.
+  reading: ''
+  annot: 그런데 카이트가 죽어 버렸다.
+  translation_zh: 可是，凯特竟然死了。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+- text: 카이트와 아즐란이 서로 협력한다는 스토리가 성립할 수 없게 되어 버렸다.
+  reading: ''
+  annot: 카이트와 아즐란이 서로 협력한다는 스토리가 성립할 수 없게 되어 버렸다.
+  translation_zh: 凯特与阿兹兰相互合作的剧情已经无法成立了。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 보조용언
+- 체(완결)
+- 감정 표현
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 6
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

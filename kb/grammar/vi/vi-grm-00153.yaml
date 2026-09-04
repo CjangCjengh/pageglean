@@ -1,0 +1,31 @@
+id: vi-grm-00153
+language: vi
+type: grammar
+level: L4
+level_rank: 4
+title: đã vậy…lại…：「已经这样…还…」
+structure: đã vậy, 主语 + lại + 情况
+structure_pattern: đã vậy, S + lại + V/A（kết cấu tăng tiến）
+explanation_zh: đã vậy 承接上文，表示前一种情况已然如此（多为不如意），lại 再叠加一层更甚的情况，相当于「已经这样了…还…」。是语篇层面的递进结构，带有无奈、抱怨的语气。
+examples:
+- text: 'Đã vậy, Hải gầy lại cứ đi theo tôi tò tò, hỏi gặng:'
+  reading: ''
+  annot: 'Đã vậy, Hải gầy lại cứ đi theo tôi tò tò, hỏi gặng:'
+  translation_zh: 已经够烦了，瘦海还一个劲儿地跟着我，追问个不停：
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 递进
+- 语气
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 0
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

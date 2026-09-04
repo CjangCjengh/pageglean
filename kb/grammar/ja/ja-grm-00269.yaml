@@ -1,0 +1,31 @@
+id: ja-grm-00269
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 〜もん：表理由、辩解的句末终助词（幼儿口吻）
+structure: 用言终止形（＋「んだ」）＋终助词「もん」（形式名词「もの」的口语形）
+structure_pattern: V/A + (んだ) + もん
+explanation_zh: 终助词「もん」是形式名词「もの」的口语形，用于句末表理由、辩解或撒娇，语气稚气。「〜んだもん」强调『因为是……嘛』。本段由幼年莉亚反复使用（「だもん」「しないもん」），生动体现幼儿口吻，是轻小说塑造角色的常用手法。
+examples:
+- text: わたし、かずきのお嫁さんになるんだもん。だから大きくなっても後悔しないもんっ
+  reading: ''
+  annot: わたし、かずきのお嫁[よめ]さんになるんだもん。だから大[おお]きくなっても後悔[こうかい]しないもんっ
+  translation_zh: 我，是要成为和希的新娘的呀。所以就算长大了也不会后悔的！
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 语气
+- 口语
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 4
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

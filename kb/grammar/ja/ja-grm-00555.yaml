@@ -1,0 +1,31 @@
+id: ja-grm-00555
+language: ja
+type: grammar
+level: N2
+level_rank: 4
+title: 「〜くせして：明明……却」
+structure: 连体修饰节 + 接续助词「くせに／くせして」
+structure_pattern: 連体修飾 + くせに／くせして
+explanation_zh: 「くせに」表示责备性转折，「明明……却……」，含强烈不满与轻蔑；「くせして」是其口语变体，语气稍缓但仍带责难。只用于他人，不用于自己。
+examples:
+- text: 男の子を好きそうな顔してるくせして！
+  reading: ''
+  annot: 男[おとこ]の子[こ]を好[す]きそうな顔[かお]してるくせして！
+  translation_zh: 明明长着一副像喜欢男孩子的脸，却（这样说）！
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 逆接/责备
+- 口语
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

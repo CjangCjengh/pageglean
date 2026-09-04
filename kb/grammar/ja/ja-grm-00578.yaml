@@ -1,0 +1,38 @@
+id: ja-grm-00578
+language: ja
+type: grammar
+level: N3
+level_rank: 3
+title: 「〜しかない」：只有……别无选择
+structure: 動詞終止形＋副助詞「しか」＋否定
+structure_pattern: V-終止形 + しか + ない
+explanation_zh: 副助词「しか」要求后续否定形式，「〜しかない」表示『只有……、别无选择』，语气中带有无奈或决心。片段「待つしかない」表达『事到如今只能等了』。也可接在体言之后，如『それしかない』。
+examples:
+- text: 相変わらず夢前光からの返事はないが、これはもう待つしかない。
+  reading: ''
+  annot: 相変[あいか]わらず夢前光[ゆめさきひかり]からの返事[へんじ]はないが、これはもう待[ま]つしかない。
+  translation_zh: 梦前光那边还是一如既往没有回音，但这下也只能等了。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+- text: 太陽が似合わないその人影に驚くしかない。
+  reading: ''
+  annot: 太陽[たいよう]が似合[にあ]わないその人影[ひとかげ]に驚[おどろ]くしかない。
+  translation_zh: 面对那个与太阳毫不相称的人影，只能感到惊讶。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 助词
+- 语气
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

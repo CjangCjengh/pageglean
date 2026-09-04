@@ -1,0 +1,31 @@
+id: vi-grm-00326
+language: vi
+type: grammar
+level: L2
+level_rank: 2
+title: mà：关系从句标记
+structure: 名词 + mà（quan hệ từ）+ 关系从句
+structure_pattern: N + mà + Clause
+explanation_zh: “mà”是引导关系从句（mệnh đề quan hệ）的关系词，把修饰成分接在名词之后，相当于中文“……的……”。越南语定语后置，“mà”是从句开始的重要信号；从句中与先行词重复的成分可以省略。
+examples:
+- text: Đó là những bước phát triển mà tôi đã hình dung và bố trí sẵn trong... đầu.
+  reading: ''
+  annot: Đó là những bước phát triển mà tôi đã hình dung và bố trí sẵn trong... đầu.
+  translation_zh: 那些都是我早已在……脑海里设想并布置好的“发展阶段”。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 关系从句
+- 虚词
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

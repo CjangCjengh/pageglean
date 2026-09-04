@@ -1,0 +1,32 @@
+id: vi-grm-00296
+language: vi
+type: grammar
+level: L3
+level_rank: 3
+title: 「không làm sao … được」：无法、没法
+structure: không làm sao + V + được
+structure_pattern: không làm sao + V + được
+explanation_zh: 「không làm sao … được」表示「无论如何也无法……」，语气比一般「không … được」更强烈，强调无能为力。được
+  为可能补语标记，置于动词之后。
+examples:
+- text: tôi không làm sao kìm được ý muốn nhìn vô vết sẹo của nó.
+  reading: ''
+  annot: tôi không làm sao kìm được ý muốn nhìn vô vết sẹo của nó.
+  translation_zh: 我无法克制想看她伤疤的念头。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- modality
+- ability
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

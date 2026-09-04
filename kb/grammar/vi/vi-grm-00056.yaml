@@ -1,0 +1,39 @@
+id: vi-grm-00056
+language: vi
+type: grammar
+level: L1
+level_rank: 1
+title: 是非问句：句末「không」与「có…không」
+structure: Có + V/Adj + không? 或 Adj + không?
+structure_pattern: có + V + không（câu nghi vấn，疑问句）
+explanation_zh: 句末加疑问虚词「không」构成是非问，相当于汉语「……吗」；更完整的框架是「có + 动词 + không」，其中「có」为强调动作/情况存在的焦点副词。回答可用「có
+  / không」。
+examples:
+- text: Thật không?
+  reading: ''
+  annot: Thật không?
+  translation_zh: 真的吗？
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+- text: Có chảy máu không?
+  reading: ''
+  annot: Có chảy máu không?
+  translation_zh: 有流血吗？
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 疑问结构
+- 虚词
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

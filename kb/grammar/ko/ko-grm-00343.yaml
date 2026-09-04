@@ -1,0 +1,33 @@
+id: ko-grm-00343
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: -기도 하다：又……又……（并举）
+structure: 명사형 '-기' + 보조사 '도' + '하다'
+structure_pattern: V-기 + 도 하다
+explanation_zh: '''-기도 하다''是名词化词尾''-기''后接보조사도的结构，并举多个动作或状态，意为"又……又……"。本句以''-기도 하고
+  -기도 하면서''的形式连接，描写群众鼓掌与欢呼交替的场面。该结构同样可用于形容词（如''기쁘기도 하고 슬프기도 하다''）。'
+examples:
+- text: 박수를 치기도 하고 환호성을 지르기도 하면서 격렬한 반응을 보이기 시작했다.
+  reading: ''
+  annot: 박수를 치기도 하고 환호성을 지르기도 하면서 격렬한 반응을 보이기 시작했다.
+  translation_zh: 人们时而鼓掌，时而欢呼，开始表现出激烈的反应。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 并列
+- 依存名词
+- 助词
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

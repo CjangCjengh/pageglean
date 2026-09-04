@@ -1,0 +1,32 @@
+id: ko-grm-00345
+language: ko
+type: grammar
+level: TOPIK5
+level_rank: 5
+title: 연결어미 -기에：因为……（文言因果）
+structure: 用言词干 + 연결어미 '-기에'（原因）
+structure_pattern: V/A- + -기에
+explanation_zh: '''-기에''是带文言色彩的因果연결어미，相当于''-기 때문에''，多见于演说和书面语。常与''왜냐하면''呼应，且可省略后续分句，以感叹语气收尾。本句以''있었기에!''作结，富有感染力与说服力。'
+examples:
+- text: 왜냐하면 공작 각하의 가슴에는 충의가 있었기에!
+  reading: ''
+  annot: 왜냐하면 공작 각하의 가슴에는 충의가 있었기에!
+  translation_zh: 因为公爵阁下的胸中怀着忠义啊！
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 连接词尾
+- 因果
+- 文言体
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

@@ -1,0 +1,39 @@
+id: ko-grm-00712
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: 「间接引用'-(이)라고 / -(이)라는'」
+structure: 体言 + 인용격조사『라고』+ 하다；体言 + 지정사『이다』+ 관형사형 전성어미『-는』（라는）+ 名词
+structure_pattern: N-(이)라고 하다 / N-(이)라는 + N
+explanation_zh: 体言后加引用助词『라고』与『하다』构成间接引用，如『내성적이라고 말하다』（说自己内向）。『(이)라는』是指定词『이다』的冠形词形，作定语修饰名词，如『악마라는
+  것』（是恶魔这件事）。韩语小说与日常中引用结构极为高频。
+examples:
+- text: 스스로 내성적이라고 말하는 내성적인 사람…… 좀 이상하긴 하지만.
+  reading: ''
+  annot: 스스로 내성적이라고 말하는 내성적인 사람…… 좀 이상하긴 하지만.
+  translation_zh: 自己说自己内向的内向者……虽然有点怪怪的。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+- text: 처음엔 몰랐다. 시나가 악마라는 것을.
+  reading: ''
+  annot: 처음엔 몰랐다. 시나가 악마라는 것을.
+  translation_zh: 一开始我并不知道，诗娜是恶魔这件事。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 引用
+- 接续
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

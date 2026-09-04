@@ -1,0 +1,40 @@
+id: vi-grm-00121
+language: vi
+type: grammar
+level: L1
+level_rank: 1
+title: Sẽ：将来时副词
+structure: sẽ + V（phó từ 表示将来，置于动词前）
+structure_pattern: sẽ + V
+explanation_zh: sẽ 是时态副词（phó từ），放在动词前表示动作将要发生，相当于「会、将」。越南语动词无形态变化，时态全靠 đã、đang、sẽ、rồi
+  这类虚词表达。本段中两次出现，表示说话人对后续行动的打算。
+examples:
+- text: Tao sẽ kiểm tra một lần nữa.
+  reading: ''
+  annot: Tao sẽ kiểm tra một lần nữa.
+  translation_zh: 我要再验证一次。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+- text: Lần này tao sẽ rủ đích danh!
+  reading: ''
+  annot: Lần này tao sẽ rủ đích danh!
+  translation_zh: 这次我要指名道姓地邀请她！
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- phó từ
+- 时态
+- 将来
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

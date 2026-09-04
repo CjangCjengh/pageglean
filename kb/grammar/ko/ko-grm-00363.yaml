@@ -1,0 +1,39 @@
+id: ko-grm-00363
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: -다고/-(느)냐고 하다：间接引用
+structure: 인용문 + 인용 조사 '-고' + 인용 동사 '하다'（서술형 '-(ㄴ/는)다고', 의문형 '-(느)냐고'）
+structure_pattern: V-다고 / V-(느)냐고 + 하다
+explanation_zh: 间接引用由引用助词“-고”加“하다”类动词构成：陈述内容用“-(ㄴ/는)다고”，疑问内容用“-(느)냐고”。转述他人话语或传闻时必须使用，“-다고
+  하더군요”还叠加传闻语气，表示“听说……”。片段中塞蕾娜黛转述传闻与管家的咨询，是对话推进情节的典型手法。
+examples:
+- text: 요즘 고자가 되었다는 소문이 있는데, 사실입니까?
+  reading: ''
+  annot: 요즘 고자가 되었다는 소문이 있는데, 사실입니까?
+  translation_zh: 最近有传闻说您成了太监，这是真的吗？
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+- text: 당신의 집사가 남자의 정력을 증강시키는 좋은 방법을 아느냐고 상담을 하더군요.
+  reading: ''
+  annot: 당신의 집사가 남자의 정력을 증강시키는 좋은 방법을 아느냐고 상담을 하더군요.
+  translation_zh: 您的管家竟来找我商量，问我知不知道增强男人精力的好方法。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 间接引用
+- 接续
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 5
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

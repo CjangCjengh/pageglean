@@ -1,0 +1,31 @@
+id: th-grm-00095
+language: th
+type: grammar
+level: L4
+level_rank: 4
+title: คง…มั้ง：不确定的推测
+structure: คง + ประโยค + มั้ง（คำวิเศษณ์คาดคะเน + คำลงท้ายประโยค）
+structure_pattern: คง + ข้อความ + มั้ง
+explanation_zh: คง 表示“大概、多半”，句末助词 มั้ง 表示不太确定的推测或寻求认同，相当于汉语“……吧”。二者呼应，传达说话人没有十足把握的推断。
+examples:
+- text: คง​เป็น​เพราะ​ความ​เคยชิน​ล่ะ​มั้ง
+  reading: ''
+  annot: คง​เป็น​เพราะ​ความ​เคยชิน​ล่ะ​มั้ง
+  translation_zh: 大概是因为习惯了吧
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 语气
+- 句末助词
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

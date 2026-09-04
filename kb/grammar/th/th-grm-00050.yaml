@@ -1,0 +1,31 @@
+id: th-grm-00050
+language: th
+type: grammar
+level: L3
+level_rank: 3
+title: 趋向补语：มา/ไป/กลับ/ออก
+structure: 动词 + 趋向补语（ทิศทางคำประกอบ）
+structure_pattern: V + มา/ไป/กลับ/ออก/ถึง
+explanation_zh: มา/ไป/กลับ/ออก/ถึง等紧跟主要动词作趋向补语（ทิศทางคำประกอบ），表示动作的方向，类似中文的趋向补语「回来、出去、到达」。泰语语序为动词在前、补语在后，如「ตอบกลับมา」「วางสายไป」。去/来的选择以说话人位置为参照：背离用ไป，朝向用มา。
+examples:
+- text: ออก​เดินทาง​จาก​เกาะ​ล้าน​ไป​ขึ้นฝั่ง​ที่พัท​ยา​ทันที
+  reading: ''
+  annot: ออก​เดินทาง​จาก​เกาะ​ล้าน​ไป​ขึ้นฝั่ง​ที่พัท​ยา​ทันที
+  translation_zh: 立刻从兰岛出发，到芭提雅上岸。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 补语/趋向
+- 连动式
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 5
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

@@ -1,0 +1,31 @@
+id: vi-grm-00338
+language: vi
+type: grammar
+level: L3
+level_rank: 3
+title: Càng … càng …：越……越……
+structure: 递进关联词（quan hệ từ tăng tiến）càng … càng … 前后呼应
+structure_pattern: Càng + X, càng + Y
+explanation_zh: 成对使用的关联词，表递进关系，相当于汉语“越……越……／越来越……”。“Càng lúc, … càng …”是叙事常用框架，表示随时间推移程度不断加深。
+examples:
+- text: Càng lúc, Hải gầy và Việt An càng tiến gần lại chỗ tôi nấp.
+  reading: ''
+  annot: Càng lúc, Hải gầy và Việt An càng tiến gần lại chỗ tôi nấp.
+  translation_zh: 时间越久，瘦海和越安就越靠近我躲藏的地方。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 复句
+- 递进
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 7
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

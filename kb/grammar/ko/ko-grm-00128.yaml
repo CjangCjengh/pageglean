@@ -1,0 +1,33 @@
+id: ko-grm-00128
+language: ko
+type: grammar
+level: TOPIK5
+level_rank: 5
+title: -(으)ㅁ에도 불구하고：尽管……却……
+structure: 谓词词干 + -(으)ㅁ（名词形转成词尾）+ 에도 불구하고
+structure_pattern: 용언 어간 + 명사형 전성어미 -(으)ㅁ + 에도 불구하고
+explanation_zh: 「-(으)ㅁ에도 불구하고」表示『尽管……却……』，先让步后转折，是书面色彩浓厚的正式表达。谓词词干加'-(으)ㅁ'变成名词形，再加'에도
+  불구하고'。文中也出现名词+이다的'군주임에도 불구하고'。
+examples:
+- text: 심장을 꿰뚫렸음에도 불구하고 클라우는 고개를 치켜들면서 웃고 있었다.
+  reading: ''
+  annot: 심장을 꿰뚫렸음에도 불구하고 클라우는 고개를 치켜들면서 웃고 있었다.
+  translation_zh: 尽管心脏被刺穿，克劳却仍抬起头笑着。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 连接
+- 让步
+- 书面语
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

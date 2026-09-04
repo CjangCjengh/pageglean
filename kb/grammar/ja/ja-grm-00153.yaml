@@ -1,0 +1,31 @@
+id: ja-grm-00153
+language: ja
+type: grammar
+level: N3
+level_rank: 3
+title: 「〜わけにもいかない」：碍于情理不能……
+structure: 動詞終止形＋形式名詞「わけ」＋助詞「にも」＋「いかない」
+structure_pattern: V-終止形 + わけにもいかない
+explanation_zh: 形式名词「わけ」表事理，「〜わけにはいかない」表示碍于情理、立场或现实而不能做某事，即『不能……／做不得……』。它不是能力上做不到，而是出于顾虑不便去做，与「〜られない」（能力不足）形成对照。口语中常省略「は」说成「わけにもいかない」。
+examples:
+- text: アッサリ解放するわけにもいかないだろ？
+  reading: ''
+  annot: アッサリ解放[かいほう]するわけにもいかないだろ？
+  translation_zh: 总不能就这么干脆地把她放了吧？
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 语气
+- 形式名词
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

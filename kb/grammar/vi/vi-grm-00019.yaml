@@ -1,0 +1,33 @@
+id: vi-grm-00019
+language: vi
+type: grammar
+level: L3
+level_rank: 3
+title: càng… bao nhiêu, càng… bấy nhiêu：越……越……
+structure: càng + Adj/V1 + bao nhiêu, (lại) càng + Adj/V2 + bấy nhiêu
+structure_pattern: càng + A/V + bao nhiêu, càng + A/V + bấy nhiêu（cặp quan hệ từ so
+  sánh tăng tiến）
+explanation_zh: 越南语的递进比较句，表示程度随条件递增，相当于中文“越……越……”。bao nhiêu与bấy nhiêu成对呼应起强调作用，日常也可简化为“càng…
+  càng…”。学校语法视其为表tăng tiến（递进）的成对关联词结构。
+examples:
+- text: con gái trông càng dễ ghét bao nhiêu lại càng có vẻ... dễ thương bấy nhiêu
+  reading: ''
+  annot: con gái trông càng dễ ghét bao nhiêu lại càng có vẻ... dễ thương bấy nhiêu
+  translation_zh: 女孩子看上去越是讨厌，就越显得……可爱。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 比较
+- 递进
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

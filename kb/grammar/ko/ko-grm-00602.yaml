@@ -1,0 +1,31 @@
+id: ko-grm-00602
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: -기도 하고：列举理由「既……又……」
+structure: 용언 어간 + 명사형 어미 '-기' + 보조사 '도' + '하다' + 연결어미 '-고'
+structure_pattern: V/A- + -기 + 도 + 하다 + -고
+explanation_zh: 用言词干接名词形词尾'-기'、添意助词'도'再加'하다'的连接形'-고'，用于列举理由或情况，相当于'既……也……'。后项常补充另一个原因。
+examples:
+- text: 가장 수상한 행보를 보이기도 했고, 빈보다야 만나서 이야기할 루트가 더 쉬웠다.
+  reading: ''
+  annot: 가장 수상한 행보를 보이기도 했고, 빈보다야 만나서 이야기할 루트가 더 쉬웠다.
+  translation_zh: （他）行迹最为可疑，而且比起빈，找他见面交谈的门路也更容易。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 나열·이유
+- 연결어미
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

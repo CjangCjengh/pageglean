@@ -1,0 +1,37 @@
+id: ja-grm-00229
+language: ja
+type: grammar
+level: N3
+level_rank: 3
+title: 〜込む：朝内部／到位的复合动词
+structure: 動詞連用形＋込む
+structure_pattern: V-連用形 + 込む
+explanation_zh: 「動詞連用形＋込む」构成复合动词，表示动作朝内部、深处进行（回り込む＝绕到跟前），或动作切实到位（編み込む＝编进去）。本片段三度出现，是轻小说描写动作的常用手段。
+examples:
+- text: 俺の前に回り込み、顔を覗き込むと。
+  reading: ''
+  annot: 俺[おれ]の前[まえ]に回[まわ]り込[こ]み、顔[かお]を覗[のぞ]き込[こ]むと。
+  translation_zh: （她）绕到我面前，凑近端详我的脸。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+- text: 髪もサイドを編み込む等の手を加える事で、整った顔立ちがさらに強調され。
+  reading: ''
+  annot: 髪[かみ]もサイドを編[あ]み込[こ]む等[など]の手[て]を加[くわ]える事[こと]で、整[ととの]った顔立[かおだ]ちがさらに強調[きょうちょう]され。
+  translation_zh: 头发也因把两侧发丝编进去等一番打理，令精致的五官更显突出。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 複合動詞
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

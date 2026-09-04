@@ -1,0 +1,31 @@
+id: ja-grm-00127
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 「〜ちゃ（＝ては）」：口语缩约，后接否定
+structure: 動詞連用形 ＋ ちゃ（＝ては）＋ 否定表現
+structure_pattern: V連用形 + ちゃ（ては）
+explanation_zh: 「〜ちゃ」是「ては」的口语缩约，后接否定表示禁止或不理想的结果。「見ちゃいけない」即「見てはいけない」（不能看）。句末「じゃなかろうか」是「ではないだろうか」的自问式推测，属典型轻小说口语。
+examples:
+- text: これ、見ちゃいけないものじゃなかろうか？
+  reading: ''
+  annot: これ、見[み]ちゃいけないものじゃなかろうか？
+  translation_zh: 这个，该不会是不能看的东西吧？
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 口语
+- 缩约
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 5
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

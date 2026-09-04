@@ -1,0 +1,40 @@
+id: ko-grm-00198
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: 「-아/어 주다：为（对方）做……」
+structure: 动词词干 + -아/어 주다（주다 作보조동사）
+structure_pattern: V-아/어 + 주다 (보조동사)
+explanation_zh: 주다 作补助动词（보조동사），接在连接词尾 -아/어 之后，表示主语为听话人或他人做某事，相当于中文的「替/为（某人）……」。文中「용서해
+  줄게」「죽여 줄 수 있어」都是克劳对阿兹兰的施惠式表述。甚至恶意行为也能用 -아/어 주다 说出（죽여 줄 수 있어），显得轻描淡写，是小说对话中值得注意的语气用法。
+examples:
+- text: 하지만 용서해 줄게. 죽이지 않아 준다는 거야.
+  reading: ''
+  annot: 하지만 용서해 줄게. 죽이지 않아 준다는 거야.
+  translation_zh: 不过，我会原谅你。意思就是我不会杀你。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+- text: 네가 아끼는 부하들도 아주아주 잔혹하게 죽여 줄 수 있어.
+  reading: ''
+  annot: 네가 아끼는 부하들도 아주아주 잔혹하게 죽여 줄 수 있어.
+  translation_zh: 就连你珍视的部下，我也能非常非常残忍地杀掉。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 补助动词
+- 恩惠
+- 语气
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 5
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

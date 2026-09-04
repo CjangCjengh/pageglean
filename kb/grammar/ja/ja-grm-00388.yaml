@@ -1,0 +1,38 @@
+id: ja-grm-00388
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 「〜出す・〜だす」：动作的起始（说开始就开始）
+structure: 动词连用形 ＋ 出す（だす）（复合动词后项）
+structure_pattern: V-連用形 + 出す
+explanation_zh: 复合动词“动词连用形＋出す”表示动作突然开始或刚刚发生，属起始相，相当于中文“开始～起来”。文中「電話しだした」「泣きだした」「走り出す」均为此用法。强调突发性时可译“突然…起来”，单纯起始译“开始…”。
+examples:
+- text: なんかおばちゃんがどっかに電話しだした。これいかんパターンだ。
+  reading: ''
+  annot: なんかおばちゃんがどっかに電話[でんわ]しだした。これいかんパターンだ。
+  translation_zh: 总觉得大婶已经开始往哪儿打电话了。这节奏可不妙。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+- text: そもそもこの子が勝手にストーキングして泣きだしたんだ。
+  reading: ''
+  annot: そもそもこの子が勝手にストーキングして泣きだしたんだ。
+  translation_zh: 说到底，本来就是这个孩子擅自跟踪我，还突然哭起来的。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 体貌
+- 复合动词
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

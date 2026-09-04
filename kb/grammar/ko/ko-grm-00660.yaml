@@ -1,0 +1,40 @@
+id: ko-grm-00660
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: -(으)ㄴ/는 탓에：消极结果的原因
+structure: 관형사형 전성어미 ‘-(으)ㄴ/는’ + 의존명사 ‘탓’ + 부사격조사 ‘에’
+structure_pattern: V/A-(으)ㄴ/는 + 탓에
+explanation_zh: ‘탓’是依存名词，意为“导致某（不好）事情的原因”，前面用言以冠形词尾‘-(으)ㄴ/는’修饰，再接副词格调查‘에’构成原因状语，相当于“由于……、都怪……”。与中性的‘-아/어서’不同，它多引出消极结果，带有归咎语气。名词则直接以‘N
+  탓에’接续，片段中“그 탓에”即此类用法。
+examples:
+- text: 퇴로가 막힌 탓에, 별수 없이 나는 마법을 사용하여 요나의 공격을 막아 내야만 했다.
+  reading: ''
+  annot: 퇴로가 막힌 탓에, 별수 없이 나는 마법을 사용하여 요나의 공격을 막아 내야만 했다.
+  translation_zh: 由于退路被堵住，我无可奈何，只能使用魔法挡下约娜的攻击。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+- text: 내 쪽으로 뻗어 오는 힘을 반대로 돌려 버린 탓이다.
+  reading: ''
+  annot: 내 쪽으로 뻗어 오는 힘을 반대로 돌려 버린 탓이다.
+  translation_zh: 这是因为（我）把朝我伸来的力量反向弹了回去。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 原因
+- 依存名词
+- 连接
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

@@ -1,0 +1,38 @@
+id: ja-grm-00205
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 〜始める：起始体复合动词（开始……）
+structure: 动词连用形＋动词「始める」（作接尾成分，表示动作开始）
+structure_pattern: V-連用形 + 始める
+explanation_zh: 「始める」接在动词连用形后构成复合动词，表示动作的起点，属起始体。「通い始める」即「开始通学（走读上学）」。与表示完成的「〜出す」相比，「〜始める」强调刚刚起步。
+examples:
+- text: 「今日からリアとイスカが、この学園に通い始めるわけで。」
+  reading: ''
+  annot: 「今日[きょう]からリアとイスカが、この学園[がくえん]に通[かよ]い始[はじ]めるわけで。」
+  translation_zh: 从今天起，莉亚和伊斯卡就要开始来这所学园上学了。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+- text: 一気に『男』な発言し始めたなオイ！
+  reading: ''
+  annot: 一気[いつき]に『男[おとこ]』な発言[はつげん]し始[はじ]めたなオイ！
+  translation_zh: 一下子就冒出这么有“男人味”的话来了啊，喂！
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 体貌
+- 复合动词
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

@@ -1,0 +1,39 @@
+id: ko-grm-00620
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: -(으)ㄹ까 봐：担心、害怕……
+structure: 用言词干 + 连接词尾 -(으)ㄹ까 + 补助动词 보다（表心理担忧）
+structure_pattern: V/A-(으)ㄹ까 봐(서)
+explanation_zh: 用言词干后接表推测的连接词尾「-(으)ㄹ까」，再结合虚化的动词「보다」，表示担心、忧虑某事发生，相当于「怕……」「担心会……」。本片段主人公连用三次该结构，层层递进地展现内心不安，是心理描写的典型句式。中文可用「怕……」「担心……」对应。
+examples:
+- text: 내가 행동할수록 그 누군가의 계획대로 돌아가는 것일까 봐.
+  reading: ''
+  annot: 내가 행동할수록 그 누군가의 계획대로 돌아가는 것일까 봐.
+  translation_zh: 我怕我越是行动，就越是在照那个人的计划运转。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+- text: 오히려 나쁜 결과만 나오게 될까 봐.
+  reading: ''
+  annot: 오히려 나쁜 결과만 나오게 될까 봐.
+  translation_zh: 怕只怕反而只会招来糟糕的结果。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 心理表达
+- 连接词尾
+- 担忧
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

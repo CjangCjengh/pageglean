@@ -1,0 +1,39 @@
+id: vi-grm-00093
+language: vi
+type: grammar
+level: L4
+level_rank: 4
+title: chưa kịp V…đã V：还没……就……
+structure: chưa kịp + 动词1 …… đã + 动词2
+structure_pattern: chưa kịp + V1 … đã + V2
+explanation_zh: kịp 意为"来得及"，chưa kịp V 表示还没来得及做某事，后接 đã V2 表示另一动作已抢先发生，相当于汉语"还没……就已经……"。片段两次使用该框架，中间可用
+  thì 连接，构成紧凑的时间反差句式。
+examples:
+- text: Tao định nói nhưng chưa kịp nói thì mày đã nói mất.
+  reading: ''
+  annot: Tao định nói nhưng chưa kịp nói thì mày đã nói mất.
+  translation_zh: 我是想说的，可还没来得及说你就抢着说了。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+- text: tôi chưa kịp uống xong những giọt cà phê cuối cùng, Hải gầy đã xua tay, đuổi
+  reading: ''
+  annot: tôi chưa kịp uống xong những giọt cà phê cuối cùng, Hải gầy đã xua tay, đuổi
+  translation_zh: 我还没喝完最后几滴咖啡，阿瘦已经摆手赶我走了。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 体貌
+- 复句
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

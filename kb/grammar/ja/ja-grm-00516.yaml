@@ -1,0 +1,32 @@
+id: ja-grm-00516
+language: ja
+type: grammar
+level: N3
+level_rank: 3
+title: 〜わけだ：理所应当的结论
+structure: 普通形 + わけ + だ
+structure_pattern: 普通形 + わけ + だ
+explanation_zh: 形式名词「わけ」＋断定助动词「だ」，表示根据事理推导出的结论或对缘由的解释，可换言为「つまり〜ということだ」。片段中主人公用「つまり…わけだ」整理自己的推理。与「わけがない」方向相反：一为"按常理必然"，一为"按常理不可能"。
+examples:
+- text: つまり、あいつは死んで間もない頃に俺の姿で二回ここに来ているわけだ。
+  reading: ''
+  annot: つまり、あいつは死[し]んで間[ま]もない頃[ころ]に俺[おれ]の姿[すがた]で二回[にかい]ここに来[き]ているわけだ。
+  translation_zh: 也就是说，那家伙是在死后不久，以我的样子来过这里两次的。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 形式名詞
+- 説明
+- 語気
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

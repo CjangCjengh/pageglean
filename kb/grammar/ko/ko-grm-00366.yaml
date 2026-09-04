@@ -1,0 +1,40 @@
+id: ko-grm-00366
+language: ko
+type: grammar
+level: TOPIK2
+level_rank: 2
+title: 「-(으)ㄹ게(요)：向对方许诺」
+structure: 동사 어간 + -(으)ㄹ게(요)（의지·약속의 종결어미）
+structure_pattern: V + -(으)ㄹ게(요)
+explanation_zh: 表示说话人向听者许下诺言、决心要做某事的终结词尾，语气亲切。因是面向对方的承诺，主语通常是第一人称。常与“-아/어 주다”结合，构成“해
+  줄게（我会为你做的）”。
+examples:
+- text: 알았어. 책임지고 이 세계를 정복해 줄게.
+  reading: ''
+  annot: 알았어. 책임지고 이 세계를 정복해 줄게.
+  translation_zh: 知道了。我会负起责任，把这个世界征服给你。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+- text: 한 가지 더, 말해 둘게요.
+  reading: ''
+  annot: 한 가지 더, 말해 둘게요.
+  translation_zh: 还有一点，我也先说一声。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 종결어미
+- 약속
+- 의지
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

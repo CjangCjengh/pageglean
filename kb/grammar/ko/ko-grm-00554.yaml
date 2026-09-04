@@ -1,0 +1,39 @@
+id: ko-grm-00554
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: 「-(느)ㄴ다든지：举例列举」
+structure: 용언 + 연결어미 '-든지' (구어에서는 종결어미형 '-(느)ㄴ다' 뒤에 '-든지'가 결합한 '-(느)ㄴ다든지'로 나열)
+structure_pattern: V-(느)ㄴ다든지 (대등 연결어미)
+explanation_zh: 连接词尾 '-든지' 用于罗列若干情况作为例子，常反复使用，相当于汉语“……啦……啦什么的”。后文常与 '따위/등' 呼应。本片段连用四个
+  '…준다든지' 列举孩子们送来的东西，生动传达出不堪其扰的语气。
+examples:
+- text: 하고선 꽃 모형이 달려 있는 머리띠를 씌워 준다든지.
+  reading: ''
+  annot: 하고선 꽃 모형이 달려 있는 머리띠를 씌워 준다든지.
+  translation_zh: 说着就给我戴上缀着花朵模型的发箍什么的。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+- text: 어딘가 그로테스크한 피에로 인형을 품에 안겨 준다든지.
+  reading: ''
+  annot: 어딘가 그로테스크한 피에로 인형을 품에 안겨 준다든지.
+  translation_zh: 又把某个透着怪诞的小丑玩偶塞进我怀里什么的。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 连接词尾
+- 列举
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 4
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

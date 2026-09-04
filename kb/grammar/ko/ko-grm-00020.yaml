@@ -1,0 +1,39 @@
+id: ko-grm-00020
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: -던：追忆过去未完成的状态
+structure: 用言词干 + -던 + 名词
+structure_pattern: V/A + -던 (관형사형 어미, 회상)
+explanation_zh: 冠形词形词尾 -던 用于回顾过去尚未完成或中途停止的动作、状态，修饰后面的名词。『쓰던 소설』指『当时正在写的小说』；而 썼던 是
+  -았/었- 与 -던 结合，回顾『过去曾写过』的既成事实。两者时态含义不同，是常见易混点。
+examples:
+- text: 그것도 내가 쓰던 소설 프린세스 컨퀘스트의 세계로,
+  reading: ''
+  annot: 그것도 내가 쓰던 소설 프린세스 컨퀘스트의 세계로,
+  translation_zh: 而且还是穿越进我正在写的那部小说《公主征服》的世界，
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+- text: 내가 소설에서 썼던 아즐란의 묘사를 생각하며 최대한 아즐란답게 행동했다.
+  reading: ''
+  annot: 내가 소설에서 썼던 아즐란의 묘사를 생각하며 최대한 아즐란답게 행동했다.
+  translation_zh: 我回忆着自己在小说里写过的对阿兹兰的描写，尽量做出像阿兹兰一样的举动。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 관형사형 어미
+- 회상
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

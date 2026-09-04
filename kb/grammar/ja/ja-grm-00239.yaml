@@ -1,0 +1,32 @@
+id: ja-grm-00239
+language: ja
+type: grammar
+level: N1
+level_rank: 5
+title: 「すら」：连……都（文言副助词）
+structure: N／V連体形 ＋ すら（举极端事例，相当于「さえ」）
+structure_pattern: N / V-連体形 + すら
+explanation_zh: 「すら」是文言副助词（係助詞），相当于现代日语的「さえ」，举出极端事例以暗示其他情况更不待言。常与文言表达「おろか」（＝「どころか」）呼应，构成“〜はおろか、〜すら〜ない”格式。属书面语表达，轻小说中多用于凝重、紧张的场面。
+examples:
+- text: この状態で再戦を挑まれれば、勝利はおろか、逃げる事すら出来そうにない。
+  reading: ''
+  annot: この状態[じょうたい]で再戦[さいせん]を挑[いど]まれれば、勝利[しょうり]はおろか、逃[に]げる事[こと]すら出来[でき]そうにない。
+  translation_zh: 在这种状态下若被挑了再战，别说胜利，恐怕连逃跑都做不到。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 文言副助词
+- 强调
+- 书面语
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

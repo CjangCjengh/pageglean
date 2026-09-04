@@ -1,0 +1,39 @@
+id: ko-grm-00192
+language: ko
+type: grammar
+level: TOPIK1
+level_rank: 1
+title: 「-(으)ㄹ 수 없다：能力与可能性的否定」
+structure: 용언 어간 + 관형사형 전성어미 -(으)ㄹ + 의존명사 '수' + 없다
+structure_pattern: V-(으)ㄹ 수 없다
+explanation_zh: 관형사형 어미 '-(으)ㄹ' 后接 의존명사 '수'，表示能力或可能性，'-ㄹ 수 없다' 即「不能／无法做某事」。片段中主人公用「마법을
+  사용할 수 없다」「쓸 수 없다」反复强调自己无法使用魔法，是贯穿全文的核心表达。肯定形式为 '-(으)ㄹ 수 있다'。
+examples:
+- text: 나는 마법을 사용할 수 없다.
+  reading: ''
+  annot: 나는 마법을 사용할 수 없다.
+  translation_zh: 我无法使用魔法。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+- text: 하지만 나는 여전히 마법을 쓸 수 없다.
+  reading: ''
+  annot: 하지만 나는 여전히 마법을 쓸 수 없다.
+  translation_zh: 但我仍然无法使用魔法。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 가능·능력
+- 의존명사
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 5
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

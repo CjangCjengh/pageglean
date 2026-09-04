@@ -1,0 +1,40 @@
+id: ko-grm-00089
+language: ko
+type: grammar
+level: TOPIK5
+level_rank: 5
+title: -(으)ㅁ/음에도 불구하고：尽管~
+structure: 体词/名词化短语 + 格助词 에 + 添意助词 도 + '불구하다' 的连接形
+structure_pattern: 명사(형) + 에도 불구하고
+explanation_zh: 表示'尽管~却仍然'，前后事实相反，书面语色彩浓厚。体词可直接接续，用言则须先经名词化词尾 '-(으)ㅁ/음' 转为名词短语（따라
+  해 봤음에도）。片段中两次出现，均强调不利条件下结果的反差。
+examples:
+- text: 소설 속에서 마법 발동에 대한 묘사를 어떻게 했나 되새기면서 그대로 따라 해 봤음에도 불구하고.
+  reading: ''
+  annot: 소설 속에서 마법 발동에 대한 묘사를 어떻게 했나 되새기면서 그대로 따라 해 봤음에도 불구하고.
+  translation_zh: 尽管一边回想小说里关于魔法发动的描写、一边照样模仿（魔法仍没有发动）。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+- text: 마법을 쓸 수 없다는 나름대로 치명적인 약점에도 불구하고, 나는 느긋한 심정이었다.
+  reading: ''
+  annot: 마법을 쓸 수 없다는 나름대로 치명적인 약점에도 불구하고, 나는 느긋한 심정이었다.
+  translation_zh: 尽管有着无法使用魔法这一相当致命的弱点，我的心情却颇为从容。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 让步
+- 书面语
+- 名词化
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

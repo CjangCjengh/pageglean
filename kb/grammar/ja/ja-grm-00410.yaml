@@ -1,0 +1,31 @@
+id: ja-grm-00410
+language: ja
+type: grammar
+level: N3
+level_rank: 3
+title: 〜ようとしたその瞬間だ：正要～的那一瞬间
+structure: 动词未然形＋推量助动词「う／よう」＋とする＋その瞬間だ
+structure_pattern: V-未然形 + 助動詞「う/よう」 + とした + その瞬間だ
+explanation_zh: 推量助动词「う／よう」加とする表示“正要做某事”，常与「その瞬間だ」搭配，描写动作即将发生却被打断的瞬间。是轻小说制造转折的叙事定番。此处铺垫かすみ高声喝止的场面。
+examples:
+- text: もぴりんがそう言いながら、かすみちゃんの肩に手を置こうとしたその瞬間だ。
+  reading: ''
+  annot: もぴりんがそう言[い]いながら、かすみちゃんの肩[かた]に手[て]を置[お]こうとしたその瞬間[しゅんかん]だ。
+  translation_zh: 就在莫匹林这么说着、正要把手搭上霞肩膀的那一瞬间。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 叙事
+- 助动词
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

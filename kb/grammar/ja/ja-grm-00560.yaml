@@ -1,0 +1,32 @@
+id: ja-grm-00560
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 受身（被动）：助动词「れる・られる」
+structure: 动词未然形＋助动词「れる」（五段动词）/「られる」（上一段动词）表被动
+structure_pattern: V-未然形 + れる / られる（受身）
+explanation_zh: 学校文法中被动由助动词「れる・られる」表示，接在动词未然形后。本段集中描写被欺凌的经历：“被孤立”“被抢钱”“被无视”，被动句突出主语的受害感与无力感，是叙述苦难的典型句式。
+examples:
+- text: 学校中から無視され、誰もたすけてはくれない。
+  reading: ''
+  annot: 学校中[がっこうじゅう]から無視[むし]され、誰[だれ]もたすけてはくれない。
+  translation_zh: 被全校的人无视，谁也不来帮她。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 被动
+- 助動詞
+- 活用
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 9
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

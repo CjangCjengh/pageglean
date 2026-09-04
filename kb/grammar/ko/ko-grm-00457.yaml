@@ -1,0 +1,32 @@
+id: ko-grm-00457
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: 「-(으)ㄹ 수밖에 없다：别无选择，只能……」
+structure: 谓词词干 + -(으)ㄹ 수밖에 없다（依存名词 수 + 补助词 밖에 + 없다）
+structure_pattern: V/A-(으)ㄹ + 수(의존명사) + 밖에(보조사) + 없다
+explanation_zh: 依存名词수表示可能性或办法，补助词밖에限定为「只有」，与없다搭配，字面即「除了……的办法之外没有」，引申为「只能……、只好……」。用于别无选择、带有无可奈何语气的情形，比「-(으)ㄹ
+  수 없어서」的被迫感更强。
+examples:
+- text: 그런 그녀의 비웃음을 겸허하게 수용할 수밖에 없었다.
+  reading: ''
+  annot: 그런 그녀의 비웃음을 겸허하게 수용할 수밖에 없었다.
+  translation_zh: 我只能虚心接受她那样的嘲笑。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 依存名词组合
+- 样态
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 4
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

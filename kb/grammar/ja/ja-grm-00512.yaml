@@ -1,0 +1,31 @@
+id: ja-grm-00512
+language: ja
+type: grammar
+level: N2
+level_rank: 4
+title: 〜かと思えば：刚觉得……却又……
+structure: 动词过去时（た形）+ 助词「か」+ 引用助词「と」+ 思う的假定形「思えば」
+structure_pattern: V-た + かと思えば
+explanation_zh: 接动词た形，表示“刚以为……却又……”，前后举出相对照、出人意料的两种情况。文中用来罗列哥哥一反常态的表现：一会儿独自满屋转悠，一会儿又不好好吃饭。与「〜たと思ったら」语感相近，是叙述中观察他人行为时的常用表达。
+examples:
+- text: ひとりで家中をうろうろしていたかと思えば、ごはんも残すし、夜も遅くまで起きているみたいですし。
+  reading: ''
+  annot: ひとりで家中[いえじゅう]をうろうろしていたかと思[おも]えば、ごはんも残[のこ]すし、夜[よる]も遅[おそ]くまで起[お]きているみたいですし。
+  translation_zh: 刚见哥哥一个人在屋里转来转去，饭也不好好吃，晚上好像还熬夜到很晚。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 接续
+- 叙述表达
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

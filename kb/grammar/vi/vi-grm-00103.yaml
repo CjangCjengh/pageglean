@@ -1,0 +1,40 @@
+id: vi-grm-00103
+language: vi
+type: grammar
+level: L2
+level_rank: 2
+title: mặc dù … nhưng …：让步转折
+structure: Mặc dù + 分句1，nhưng + 分句2
+structure_pattern: Mặc dù + clause, nhưng + clause
+explanation_zh: mặc dù … nhưng … 对应中文的「虽然……但是……」：mặc dù 引导让步分句，nhưng 引出转折分句。与中文不同，越南语里两个关联词成对出现是常规用法。rốt
+  cuộc 意为「最终、到头来」。
+examples:
+- text: Mặc dù tôi cố bẻ cho hai phần bằng nhau nhưng rốt cuộc vẫn khúc to khúc nhỏ.
+  reading: ''
+  annot: Mặc dù tôi cố bẻ cho hai phần bằng nhau nhưng rốt cuộc vẫn khúc to khúc nhỏ.
+  translation_zh: 虽然我尽量把面包掰成一样大的两半，到头来还是一块大一块小。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+- text: Mặc dù thừa biết Hải gầy là chúa ba hoa nhưng thấy nó nhiệt tình sát cánh
+    bên tôi trong lúc “hiểm nghèo”...
+  reading: ''
+  annot: Mặc dù thừa biết Hải gầy là chúa ba hoa nhưng thấy nó
+  translation_zh: 虽然我明知道瘦子海是个吹牛大王，但看到他在我的“危难”之际仍热情地站在我身边……
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 让步
+- 复句
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

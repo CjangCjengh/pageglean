@@ -1,0 +1,39 @@
+id: ko-grm-00034
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: -(으)ㄹ 텐데：与事实相反的推测与惋惜
+structure: 用言词干 + 관형사형 어미 '-(으)ㄹ' + 의존명사 '터' + '-ㄴ데'
+structure_pattern: V/A + -(으)ㄹ 터인데
+explanation_zh: 由冠形词尾'-(으)ㄹ'加依存名词'터'（表示推测的依据）再经连接词尾'-ㄴ데'构成，整体表示与事实相反的推测加惋惜，相当于『本来会……（可惜）』。片段中均接在'-(으)면/았으면'假设句之后，强调结果本可不同。句末的'말이야'是添意助词，加强自言自语般的语气。
+examples:
+- text: 성급하게 움직이지 말고 빈틈이 생길 때를 기다렸으면 암살에 성공했을 텐데 말이야.
+  reading: ''
+  annot: 성급하게 움직이지 말고 빈틈이 생길 때를 기다렸으면 암살에 성공했을 텐데 말이야.
+  translation_zh: 要是不急躁地行动、等出现破绽的时候再动手，暗杀本来是能成功的啊。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+- text: 어차피 나를 죽여도 너는 여기서 도망치지 못하고 내 부하들에게 죽을 텐데 말이야.
+  reading: ''
+  annot: 어차피 나를 죽여도 너는 여기서 도망치지 못하고 내 부하들에게 죽을 텐데 말이야.
+  translation_zh: 反正就算你杀了我，你也逃不出这里，只会死在我部下手里啊。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 推测
+- 语气
+- 依存名词
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

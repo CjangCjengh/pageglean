@@ -1,0 +1,31 @@
+id: ja-grm-00294
+language: ja
+type: grammar
+level: N3
+level_rank: 3
+title: 「らしい」二义辨析：典型性与推测
+structure: 接尾辞「〜らしい」（体言接続）／助動詞「らしい」（終止形接続）
+structure_pattern: N + らしい / V終止形 + らしい
+explanation_zh: 接尾辞「〜らしい」接于体言，表示"有……的样子、典型"（和希らしい＝很像和希的作风）；助动词「らしい」接于终止形，表示基于根据的推测或传闻（"看来……"）。两种用法在同一片段中先后出现，是辨析的绝佳材料。
+examples:
+- text: そう長くは続かないと判断したらしい。
+  reading: ''
+  annot: そう長[なが]くは続[つづ]かないと判断[はんだん]したらしい。
+  translation_zh: （她）似乎判断这攻势不会持续太久。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 助动词
+- 接尾辞
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

@@ -1,0 +1,32 @@
+id: ko-grm-00524
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: -나 보다：看来是……
+structure: 动词词干 + -나 보다（过去时 -았/었나 보다；形容词/名词 -(으)ㄴ가 보다）
+structure_pattern: V-나 보다 / A-(으)ㄴ가 보다
+explanation_zh: 根据眼前的迹象或线索作出推测，相当于『看来、似乎』，比 -는 것 같다 更口语、更带推断语气。文中约娜由对方的质问推测出『您观察我很久了吧』，并用
+  -네요 叠加感叹。
+examples:
+- text: 꽤 오랫동안 절 관찰하셨나 보네요.
+  reading: ''
+  annot: 꽤 오랫동안 절 관찰하셨나 보네요.
+  translation_zh: 看来您观察我挺久了呢。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 推测
+- 语气
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

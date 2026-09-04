@@ -1,0 +1,38 @@
+id: ja-grm-00612
+language: ja
+type: grammar
+level: N2
+level_rank: 4
+title: 「〜損ねる／〜きれない」：没能做成与无法做到底
+structure: 動詞連用形 ＋ 複合動詞「損ねる／切る」（切る的可能形否定为「切れない」）
+structure_pattern: V連用形 + 損ねる／切る（→切れない）
+explanation_zh: 复合动词「〜損ねる」前接动词连用形，表示想做而没能做成；「〜切れない」表示无法做到底、无法完全……。「流し損ねた」指没能冲掉的东西，「あきらめきれない」指无法彻底死心。两者都是轻小说中高频的体貌表达。
+examples:
+- text: 流し損ねたものは、どうやら雨が全部流してくれたらしい。
+  reading: ''
+  annot: 流[なが]し損[そこ]ねたものは、どうやら雨[あめ]が全部[ぜんぶ]流[なが]してくれたらしい。
+  translation_zh: 没能冲掉的东西，似乎都被雨水全部冲走了。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+- text: やっぱり、あきらめきれないの。振り向いてもらえるまで、が、がんばります……
+  reading: ''
+  annot: やっぱり、あきらめきれないの。振[ふ]り向[む]いてもらえるまで、が、がんばります……
+  translation_zh: 果然，我还是没法死心。直到让他回头看我为止，我、我会加油的……
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 复合动词
+- 体貌
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

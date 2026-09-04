@@ -1,0 +1,32 @@
+id: ko-grm-00611
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: -는 대신：不做前者，而是做后者
+structure: 动词 + 冠形词尾（관형사형 어미）-는 + 의존명사（依存名词）대신（+ 에）
+structure_pattern: V-는 + 대신(에)
+explanation_zh: 대신 是依存名词，意为“代替、取而代之”，前接动词冠形词尾 -는，表示不做前者而做后者，相当于“没有……而是……”。也可直接接名词（名词
+  + 대신(에)）。注意区别于表示转折补偿的用法（前句让步、后句补偿）。
+examples:
+- text: 요나와의 일을 묻는 대신, 자기 이야기를 늘어놓기 시작했다.
+  reading: ''
+  annot: 요나와의 일을 묻는 대신, 자기 이야기를 늘어놓기 시작했다.
+  translation_zh: （他）没问约娜的事，而是开始讲起了自己的事。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 接续
+- 替代/选择
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

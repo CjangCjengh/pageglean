@@ -1,0 +1,39 @@
+id: vi-grm-00289
+language: vi
+type: grammar
+level: L3
+level_rank: 3
+title: đâu có + V：强调否定
+structure: đâu có + V/A
+structure_pattern: đâu + có + V
+explanation_zh: 「đâu có + V/形容词」是强调否定，用「đâu」加重语气，相当于“根本没…、哪会…”，带有反驳或意外的口气。口语中也常说「Đâu
+  có được!」，意为“那可不行！”。
+examples:
+- text: Nhà thơ Xuân Diệu đâu có biết tôi!
+  reading: ''
+  annot: Nhà thơ Xuân Diệu đâu có biết tôi!
+  translation_zh: 诗人春耀哪里认识我呀！
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+- text: Đâu có được!
+  reading: ''
+  annot: Đâu có được!
+  translation_zh: 那可不行！
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 否定
+- 语气
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

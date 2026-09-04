@@ -1,0 +1,39 @@
+id: ja-grm-00130
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 〜ことになる：（决定）要～、变得～
+structure: 动词终止形＋形式名词「こと」＋になる
+structure_pattern: V-終止形 + ことになる
+explanation_zh: 形式名词「こと」将前句名词化，再接「になる」表示事态的变化，整体表示某种决定、安排已经成立。决定者往往不是说话人本人，带有“（由他人或情势）已经定下来”的语感。片段中「世話になる事になった」「預かる事になった」均强调安排已定。
+examples:
+- text: この子、ウチの親父の関係者で、ウチで預かる事になったから。
+  reading: ''
+  annot: この子[こ]、ウチの親父[おやじ]の関係者[かんけいしゃ]で、ウチで預[あず]かる事[こと]になったから。
+  translation_zh: 这孩子是我爸那边的关系户，已经定下来由我们家收留。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+- text: リア同様、しばらくウチに居ることになった
+  reading: ''
+  annot: リア同様[どうよう]、しばらくウチに居[い]ることになった
+  translation_zh: 和莉亚一样，她暂时也要住在我家了。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 形式名词
+- 语气
+- 决定
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

@@ -1,0 +1,38 @@
+id: th-grm-00092
+language: th
+type: grammar
+level: L3
+level_rank: 3
+title: 动词 + ออก/มา/ขึ้น：方向补语连动式
+structure: คำกริยาหลัก + คำวิเศษณ์บอกทิศทาง（ออก/มา/ขึ้น）
+structure_pattern: คำกริยา + ออกมา/ขึ้นมา/มา
+explanation_zh: 泰语把 ออก（出）、มา（来）、ขึ้น（上）等方向词放在主要动词后作补语，构成连动式，类似汉语“说出来”“抱出来”“飘过来”。方向补语可以叠加，如“เป็นรูปเป็นร่างขึ้นมา（成形起来）”。这是泰语中心语在前、补语在后的典型语序。
+examples:
+- text: กลิ่น​หอม ๆ ของ​ครีม​สีขาว​ข้น​ใน​หม้อ​ใบ​เล็ก​ลอย​มา​เตะจมูก
+  reading: ''
+  annot: กลิ่น​หอม ๆ ของ​ครีม​สีขาว​ข้น​ใน​หม้อ​ใบ​เล็ก​ลอย​มา​เตะจมูก
+  translation_zh: 小锅里白色浓稠奶油的香气飘来扑鼻
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+- text: ก็​เริ่ม​เป็น​รูป​เป็น​ร่าง​ขึ้น​มา​อย่าง​รวดเร็ว
+  reading: ''
+  annot: ก็​เริ่ม​เป็น​รูป​เป็น​ร่าง​ขึ้น​มา​อย่าง​รวดเร็ว
+  translation_zh: （饭菜）也开始迅速成形
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 连动式
+- 方向补语
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 5
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

@@ -1,0 +1,33 @@
+id: vi-grm-00408
+language: vi
+type: grammar
+level: L2
+level_rank: 2
+title: nào…cũng…：每……都……（周遍句）
+structure: N + nào + cũng + V
+structure_pattern: Nào + cũng + V
+explanation_zh: 疑问代词 nào 与名词搭配（ngày nào = 每一天）再与副词 cũng 呼应，构成周遍句，表示「无一例外、全都如此」。学校语法中属于疑问代词任指用法。同类结构还有
+  ai cũng（谁都）、gì cũng（什么都）。
+examples:
+- text: Ngày nào em cũng soi gương mà chẳng thấy nó dài ra được bao nhiêu.
+  reading: ''
+  annot: Ngày nào em cũng soi gương mà chẳng thấy nó dài ra được bao nhiêu.
+  translation_zh: 我天天照镜子，却不见它长出多少来。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 周遍句
+- 代词
+- 副词
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

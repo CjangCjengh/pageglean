@@ -1,0 +1,31 @@
+id: ja-grm-00475
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 〜たら：假定条件（助動詞「た」的仮定形）
+structure: 動詞連用形＋助動詞「た」＋接続助詞「ら」（会えたら＝可能動詞「会える」連用形＋た＋ら）
+structure_pattern: V-連用形 + 助動詞「た」-仮定形「たら」
+explanation_zh: 学校文法把「たら」分析为助動詞「た」的仮定形，接在动词連用形之后表示假定条件。「会えたら」由可能動詞「会える」的連用形加「たら」构成。前项假设成立时，后项随之出现结果或判断。
+examples:
+- text: あいつに会えたらきっとこの気持ちに答えが出る。
+  reading: ''
+  annot: あいつに会[あ]えたらきっとこの気持[きも]ちに答[こた]えが出[で]る。
+  translation_zh: 如果能见到那家伙，这份心情一定能找到答案。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 条件
+- 活用
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

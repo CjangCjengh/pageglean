@@ -1,0 +1,31 @@
+id: ja-grm-00483
+language: ja
+type: grammar
+level: N3
+level_rank: 3
+title: 「〜限りでは」：就……的范围而言
+structure: 动词终止形 ＋ 限りでは
+structure_pattern: V終止形 + 限りでは
+explanation_zh: 形式名詞「限り」表示范围的限度，「〜限りでは」意为「在～的范围内／就～而言」，暗示结论仅基于有限信息。本句「見る限りでは」即就主页所见作出的判断。与之近似的还有「〜範囲では」。
+examples:
+- text: ＨＰを見る限りではなかなかにしゃれた雰囲気の喫茶店であり
+  reading: ''
+  annot: ＨＰを見[み]る限[かぎ]りではなかなかにしゃれた雰囲気[ふんいき]の喫茶店[きっさてん]であり
+  translation_zh: 就主页所见，那是一家格调颇为别致的咖啡店，
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 形式名词
+- 接续
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

@@ -1,0 +1,32 @@
+id: ko-grm-00103
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: 「-(으)ㄹ 걸 그랬다：后悔与惋惜」
+structure: （-았/었으면 …）冠形词形 -(으)ㄹ + 依存名词 것(걸) + 그러-
+structure_pattern: V-았/었으면 + V-(으)ㄹ 걸 그랬다
+explanation_zh: -(으)ㄹ 걸 그랬다 是依存名词 것（缩略为 걸）与 그러다 结合的表达，表示本应那样做却没做的后悔。常与回想性假设 -았/었으면
+  搭配，相当于中文「早知如此就……好了」。句首的「이럴 줄 알았으면」也是依存名词 줄 构成的惯用说法，意为「早知道会这样」。
+examples:
+- text: 이럴 줄 알았으면 갈아입을 옷도 준비하라고 할 걸 그랬다.
+  reading: ''
+  annot: 이럴 줄 알았으면 갈아입을 옷도 준비하라고 할 걸 그랬다.
+  translation_zh: 早知道会这样，就该吩咐（他们）连换洗的衣服也准备好了。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 语气
+- 依存名词
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

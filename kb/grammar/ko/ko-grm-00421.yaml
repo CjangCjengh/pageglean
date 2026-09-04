@@ -1,0 +1,39 @@
+id: ko-grm-00421
+language: ko
+type: grammar
+level: TOPIK2
+level_rank: 2
+title: 「-면서/-(으)며」：表同时进行的连接词尾
+structure: 用言词干 + 连接词尾 -면서（副词形连接，表两动作同时进行）
+structure_pattern: V-면서 / V-며 + V
+explanation_zh: 连接词尾，接动词后表示两个动作同时进行，相当于“一边……一边……”或“……的同时”，前后主语须为同一主体。书面及小说叙述中常用缩略形
+  -(으)며，本片段中多次出现（참으며、걸으며、삼키며）。
+examples:
+- text: 키이리가 누군가를 ‘그 여자’라고까지 지칭하면서 적대하는 건 처음 보는 것이라 좀 의외였다.
+  reading: ''
+  annot: 키이리가 누군가를 ‘그 여자’라고까지 지칭하면서 적대하는 건 처음 보는 것이라 좀 의외였다.
+  translation_zh: 基里竟然用“那个女人”来指称某人并表露敌意，这还是头一次见，颇有些意外。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+- text: 나는 실소를 참으며, 조용히 시동어를 읊었다.
+  reading: ''
+  annot: 나는 실소를 참으며, 조용히 시동어를 읊었다.
+  translation_zh: 我忍住苦笑，静静地低声念诵启动咒语。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 接续
+- 同时
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 5
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

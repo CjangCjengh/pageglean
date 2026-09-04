@@ -1,0 +1,38 @@
+id: vi-grm-00043
+language: vi
+type: grammar
+level: L2
+level_rank: 2
+title: rồi：动作先后承接（然后/了）
+structure: V₁ + rồi + V₂
+structure_pattern: V1 + rồi + V2
+explanation_zh: “rồi”放在前一动词后，表示该动作完成或先于后一动作发生，相当于中文“然后/……了”。片段用它叙述连续动作（点头然后低头继续看）。是越南语表示动作先后顺序的核心时态虚词。
+examples:
+- text: Việt An gật đầu rồi cúi xuống đọc tiếp.
+  reading: ''
+  annot: Việt An gật đầu rồi cúi xuống đọc tiếp.
+  translation_zh: 越安点点头，然后低头接着看。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+- text: tôi đứng lớ ngớ một hồi rồi tặc lưỡi bỏ đi.
+  reading: ''
+  annot: tôi đứng lớ ngớ một hồi rồi tặc lưỡi bỏ đi.
+  translation_zh: 我傻站了一会儿，然后咂了咂舌走开了。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 体貌
+- 时态虚词
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

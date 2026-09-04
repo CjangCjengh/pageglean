@@ -1,0 +1,31 @@
+id: ja-grm-00579
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 〜しかない：别无选择，只能……
+structure: 动词终止形＋副助词「しか」＋「ない」
+structure_pattern: V(終止形) + しか + ない
+explanation_zh: 副助词「しか」接动词终止形，要求谓语用否定形式，表示除此之外别无选择，只能如此。与客观限定的「だけ」不同，「しかない」带有无可奈何、不得不的主观语气。文中“只能等”正体现这种语气。
+examples:
+- text: これはもう待つしかない。
+  reading: ''
+  annot: これはもう待[ま]つしかない。
+  translation_zh: 事到如今，只能等了。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 限定
+- 助词
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

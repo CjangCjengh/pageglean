@@ -1,0 +1,31 @@
+id: ja-grm-00087
+language: ja
+type: grammar
+level: N3
+level_rank: 3
+title: 「〜べきだ」：理应如此
+structure: 動詞終止形＋助動詞「べし」（連体形「べき」）＋助動詞「だ」
+structure_pattern: V終止形 + べき + だ
+explanation_zh: 「べし」是文語助動詞，接在动词終止形后表示理所当然；其連体形「べき」加断定助動詞「だ」构成「べきだ」，意为“理应、应该”。语气强调事情本身的正当性，比「〜たほうがいい」更强烈。
+examples:
+- text: 誤解の余地が無いくらい、覚悟を決めてハッキリ聞いておくべきだと思った。
+  reading: ''
+  annot: 誤解[ごかい]の余地[よち]が無[な]いくらい、覚悟[かくご]を決[き]めてハッキリ聞[き]いておくべきだと思[おも]った。
+  translation_zh: （我觉得）应该做好心理准备、清楚地问个明白，不给误解留一点余地。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 助动词
+- 语气
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

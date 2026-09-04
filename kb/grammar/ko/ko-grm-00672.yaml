@@ -1,0 +1,31 @@
+id: ko-grm-00672
+language: ko
+type: grammar
+level: TOPIK2
+level_rank: 2
+title: -밖에：只、仅（与否定呼应）
+structure: 名词 + 보조사 '밖에' + 안/못 (否定呼应)
+structure_pattern: N-밖에 안/못
+explanation_zh: 补助词，表示'除此之外没有别的'，必须与'안/못/없다'等否定形式搭配使用，相当于中文'只、仅'。'열네 살밖에 안 된'即'才十四岁的'。
+examples:
+- text: 열네 살밖에 안 된 어린애가, 차라리 죽여 달라고 빌 때, 신은 뭘 하고 있었나요?!
+  reading: ''
+  annot: 열네 살밖에 안 된 어린애가, 차라리 죽여 달라고 빌 때, 신은 뭘 하고 있었나요?!
+  translation_zh: 一个才十四岁的孩子祈求干脆杀了自己的时候，神究竟在做什么呢？！
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 助词
+- 否定
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

@@ -1,0 +1,32 @@
+id: vi-grm-00298
+language: vi
+type: grammar
+level: L3
+level_rank: 3
+title: 「Dù vậy … vẫn」：尽管如此……仍然
+structure: Dù vậy, S + vẫn + V
+structure_pattern: dù vậy, S + vẫn + V
+explanation_zh: 「dù vậy」承接上文表示让步，「vẫn」强调情况不因此改变，合起来相当于「尽管如此……仍然……」。也可扩展为「dù … nhưng
+  … vẫn …」。
+examples:
+- text: Dù vậy, Tiểu Li vẫn không bỏ ý định để tóc dài.
+  reading: ''
+  annot: Dù vậy, Tiểu Li vẫn không bỏ ý định để tóc dài.
+  translation_zh: 尽管如此，小李仍然没有放弃留长发的念头。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- concession
+- connective
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

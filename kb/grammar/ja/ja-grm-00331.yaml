@@ -1,0 +1,31 @@
+id: ja-grm-00331
+language: ja
+type: grammar
+level: N2
+level_rank: 4
+title: いくら〜とはいえ：再怎么~也不能
+structure: いくら＋句（終止形）＋とはいえ
+structure_pattern: いくら + 句終止形 + とはいえ
+explanation_zh: 「いくら〜とはいえ」表示让步，“虽说确实~，但也不能因此……”，即承认前项事实的同时，否定按常理由此推出的结论。「いくら」强调程度之高、情况之极端，「といえ」为“虽然可以说”的让步接续。后件常有「も」「だが」等呼应。
+examples:
+- text: いくら知り合いとはいえ、王女にロクデナシ押しつけるわけにもいかないだろ？
+  reading: ''
+  annot: いくら知[し]り合[あ]いとはいえ、王女[おうじょ]にロクデナシ押[お]しつけるわけにもいかないだろ？
+  translation_zh: 就算再怎么是熟人，也不能把这种没出息的家伙硬塞给王女吧？
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 让步
+- 逆接
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

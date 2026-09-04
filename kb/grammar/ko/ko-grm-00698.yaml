@@ -1,0 +1,32 @@
+id: ko-grm-00698
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: -(으)ㄹ 텐데：应该会……可是……
+structure: 用言词干 + -(으)ㄹ 텐데（＝-(으)ㄹ 터인데）
+structure_pattern: V/A-(으)ㄹ 텐데
+explanation_zh: -(으)ㄹ 텐데由表示推测的依存名词结构-(으)ㄹ 터加-인데缩略而来，表示「应该会……可是……」，常含担心、惋惜或期待。「좋을 텐데」即「那样就好了」，表达与现实相反的愿望。后半句常省略，或以「말이다」收尾。
+examples:
+- text: 부디 말썽 안 피우고 얌전히 돌아간 거였다면 좋을 텐데 말이야, 그 녀석.
+  reading: ''
+  annot: 부디 말썽 안 피우고 얌전히 돌아간 거였다면 좋을 텐데 말이야, 그 녀석.
+  translation_zh: 但愿那家伙没惹出麻烦、乖乖回去了就好了。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 语气
+- 推测
+- 惋惜
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

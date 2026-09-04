@@ -1,0 +1,33 @@
+id: ko-grm-00311
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: -기만 하면：只要……就……
+structure: 动词名词形 -기 + 보조사 만 + -하면
+structure_pattern: V-기 + 만 + 하면
+explanation_zh: 动词名词化词尾‘-기’后添补助词‘만’（只、仅），再接‘-하면’，表示“只要……就……”。与一般条件‘-면’相比，强调这是唯一需要满足的条件，含有“仅此一点就足够”的意味。
+examples:
+- text: 기억을 잃었을 뿐이라면 마력이나 마법회로는 남아 있을 테고, 마법을 쓰는 방법을 습득하기만 하면 금방 과거의 마법 능력을 회복할 수
+    있을 거예요.
+  reading: ''
+  annot: 기억을 잃었을 뿐이라면 마력이나 마법회로는 남아 있을 테고, 마법을 쓰는 방법을 습득하기만 하면 금방 과거의 마법 능력을 회복할 수
+    있을 거예요.
+  translation_zh: 如果只是失去了记忆，那么魔力或魔法回路应该都还在，只要习得使用魔法的方法，就能很快恢复过去的魔法能力。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 条件
+- 补助词尾
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

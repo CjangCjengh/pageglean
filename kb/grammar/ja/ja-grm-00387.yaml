@@ -1,0 +1,31 @@
+id: ja-grm-00387
+language: ja
+type: grammar
+level: N2
+level_rank: 4
+title: 「〜ようにも〜できない」：想做却做不到
+structure: 动词意志形（意志助动词「う・よう」连用形）＋ 助词「にも」＋ 可能形／否定表达
+structure_pattern: V-意志形 + にも + 可能/否定
+explanation_zh: 由意志助动词「う・よう」的连用形＋助词「に」＋系助词「も」构成，后接可能形或否定，表示“想做也无法做到”。文中「逃げようにも…どうしようもない」即“想逃也逃不掉”。后项常用「できない／しようがない／どうしようもない」等否定表达呼应。
+examples:
+- text: 逃げようにも裾をおさえられた手前どうしようもないので、しかたなく俺はハンカチでおさげっ子の涙を適当に拭いてみる。
+  reading: ''
+  annot: 逃[に]げようにも裾[すそ]をおさえられた手前[てまえ]どうしようもないので、しかたなく俺[おれ]はハンカチでおさげっ子[こ]の涙[なみだ]を適当[てきとう]に拭[ふ]いてみる。
+  translation_zh: 想逃，可裙摆又被对方按着，碍于这状况实在没辙，我只好用毛巾胡乱擦了擦双马尾小姑娘的眼泪。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 接续
+- 语气
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

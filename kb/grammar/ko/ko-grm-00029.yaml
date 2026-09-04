@@ -1,0 +1,33 @@
+id: ko-grm-00029
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: -아/어 놓다：动作结果的存留
+structure: 动词 + -아/어 놓다（连接词尾 -아/어 + 补助动词 놓다）
+structure_pattern: V-아/어 + 보조 동사 '놓다'
+explanation_zh: 补助动词 -아/어 놓다 表示做完某动作后其结果状态留存下来，常带“事先做好准备”的意味；与 -아/어 있다 相比更突出施事者的意图。口语中
+  놓다 常缩略为 놨다。片段中与推测形 -(으)ㄹ 것이다 连用。
+examples:
+- text: 아마 루시가 미리 교육시켜 놨을 것이다. 아즐란의 취향에 맞도록.
+  reading: ''
+  annot: 아마 루시가 미리 교육시켜 놨을 것이다. 아즐란의 취향에 맞도록.
+  translation_zh: 大概是露西事先教导好的吧——好让她合乎亚兹兰的喜好。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 补助动词
+- 结果存留
+- 缩略形
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

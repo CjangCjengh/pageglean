@@ -1,0 +1,40 @@
+id: ko-grm-00648
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: -기를 바라다：希望、祈愿
+structure: 용언 어간 + 명사형 전성어미 '-기' + 목적격 조사 '를' + 서술어 '바라다'
+structure_pattern: V-기 + 를 + 바라다
+explanation_zh: 用名词化转成词尾 -기 将动词体言化，加宾格助词 를，再接动词 바라다（盼望），表示“希望……”。语气偏书面、郑重，常用于祝愿或恳切的期盼。口语中多用
+  -았/으면 좋겠다 替代。
+examples:
+- text: 나는 네가 이 일을 후회하지 않기를 바란다.
+  reading: ''
+  annot: 나는 네가 이 일을 후회하지 않기를 바란다.
+  translation_zh: 我希望你不要后悔这件事。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+- text: 이것 때문에 오래 슬퍼하지 않기를 바란다.
+  reading: ''
+  annot: 이것 때문에 오래 슬퍼하지 않기를 바란다.
+  translation_zh: 希望你不要为此难过太久。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 语气/祈愿
+- 名词化
+- 书面语
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

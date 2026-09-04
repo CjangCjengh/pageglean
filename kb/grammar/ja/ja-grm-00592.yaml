@@ -1,0 +1,32 @@
+id: ja-grm-00592
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 「〜てしまう／〜ちゃう：完成与遗憾」
+structure: 動詞連用形 ＋ て ＋ しまう（口語縮約：ちゃう／じゃう）
+structure_pattern: V-連用形 + て + しまう（ちゃう）
+explanation_zh: 补助动词「しまう」接动词连用形＋て，表示动作彻底完成，常含遗憾、后悔或无可挽回的语气。口语中「てしまう」缩约为「ちゃう」（拨音便后作「じゃう」），属典型口语。文中「死んじゃった」即“已经死掉了”，带有戏谑的遗憾感。
+examples:
+- text: 実は死んじゃったあの日、事故現場の横断歩道で偶然坂本くんとすれ違っていたのだ！
+  reading: ''
+  annot: 実[じつ]は死[し]んじゃったあの日[ひ]、事故現場[じこげんば]の横断歩道[おうだんほどう]で偶然[ぐうぜん]坂本[さかもと]くんとすれ違[ちが]っていたのだ！
+  translation_zh: 其实，在我死掉的那一天，我在事故现场的斑马线上，偶然和坂本同学擦肩而过了！
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 体貌
+- 口语
+- 补助动词
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 5
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

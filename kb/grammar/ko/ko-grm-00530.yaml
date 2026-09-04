@@ -1,0 +1,39 @@
+id: ko-grm-00530
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: -던 / -았/었던：回想中的过去
+structure: 用言词干 + 回想先语末词尾 -더- + 冠形词形词尾 -ㄴ（过去回想：-았/었- + -더- + -ㄴ）
+structure_pattern: V/A + -던 / -았/었던 + N
+explanation_zh: -던 是回想先语末词尾 -더- 与冠形词形词尾 -ㄴ 结合的形式，回忆过去未完成或中断的场景并修饰名词。-았/었는데 则用于回想已经结束的过去事情。对应中文“（当）时……的／曾……的”。
+examples:
+- text: 나 역시 요나를 지나쳐, 조금 전 요나가 서 있던 방문 앞에 섰다.
+  reading: ''
+  annot: 나 역시 요나를 지나쳐, 조금 전 요나가 서 있던 방문 앞에 섰다.
+  translation_zh: 我也与约娜擦肩而过，站到了刚才约娜站着的那扇房门前。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+- text: 실제로 과거에 나는 이브를 목 졸라 죽이는 것으로 문제를 해결하려 했던 적이 있었다.
+  reading: ''
+  annot: 실제로 과거에 나는 이브를 목 졸라 죽이는 것으로 문제를 해결하려 했던 적이 있었다.
+  translation_zh: 实际上，过去我曾试图以勒死夏娃的方式来解决问题。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 冠形词形词尾
+- 回想
+- 时制
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 5
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

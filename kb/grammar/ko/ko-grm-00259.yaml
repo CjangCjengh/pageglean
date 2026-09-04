@@ -1,0 +1,40 @@
+id: ko-grm-00259
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: -(으)ㄴ 채：保持某种状态
+structure: 动词词干 + -(으)ㄴ 채（依存名词 채 表示状态的保持）
+structure_pattern: V-어간 + -(으)ㄴ 채
+explanation_zh: 채 是依存名词（의존명사），受冠形词形转成词尾 -(으)ㄴ 修饰，表示后一动作在保持前一结果状态的情况下进行，相当于“保持着……的状态”。与
+  -아/어서 不同，它强调状态的保持而非原因。片段中出现三次，用于刻画人物姿态。
+examples:
+- text: 커다란 방패를 든 병사들에게 둘러싸인 채, 중년 남자가 후퇴하고 있었다.
+  reading: ''
+  annot: 커다란 방패를 든 병사들에게 둘러싸인 채, 중년 남자가 후퇴하고 있었다.
+  translation_zh: 在被手持巨盾的士兵包围着的状态下，中年男子正在撤退。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+- text: 그는 입을 꾹 다문 채 아무런 말도 하지 않았다.
+  reading: ''
+  annot: 그는 입을 꾹 다문 채 아무런 말도 하지 않았다.
+  translation_zh: 他紧紧闭着嘴，一句话也不说。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 依存名词
+- 状态保持
+- 接续
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

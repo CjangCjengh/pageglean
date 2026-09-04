@@ -1,0 +1,31 @@
+id: ja-grm-00263
+language: ja
+type: grammar
+level: N2
+level_rank: 4
+title: 〜た途端：刚一…就…
+structure: 動詞連体形（た）＋形式名詞「途端」（に）
+structure_pattern: V-連体形(た) + 形式名詞「途端」
+explanation_zh: 「途端」是形式名词，意为“刚好那一瞬间”，接动词连体形（た形）表示前项刚发生、后项紧接着发生。后项多为既成的、非说话人意志所能控制的事实。片段生动写出莉亚几乎在“我”落座的同时就扑了过来。
+examples:
+- text: 俺が座った途端、無邪気な笑みで寄ってきて、ちょこんと乗ってきた。
+  reading: ''
+  annot: 俺[おれ]が座[すわ]った途端[とたん]、無邪気[むじゃき]な笑[え]みで寄[よ]ってきて、ちょこんと乗[の]ってきた。
+  translation_zh: 我刚一坐下，她就带着天真的笑容凑过来，轻轻一下坐了上来。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 形式名詞
+- 時間
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

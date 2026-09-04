@@ -1,0 +1,40 @@
+id: ko-grm-00163
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: -(으)ㄹ 수밖에 없다：别无选择，只能……
+structure: 冠形词尾 -(으)ㄹ + 依存名词 '수' + 补助词 '밖에' + 否定用言 '없다'
+structure_pattern: V/A-(으)ㄹ 수밖에 없다
+explanation_zh: 字面是"除了……之外没有别的办法"，表示别无选择、只能如此，相当于中文的"只能……／不得不……"。结构上由冠形词尾 -(으)ㄹ 修饰依存名词
+  '수'，再与补助词 '밖에'、否定用言 '없다' 搭配。
+examples:
+- text: 그래, 오빠가 갑자기 외간 남자의 여자 친구가 되어 있으면 놀랄 수밖에 없지.
+  reading: ''
+  annot: 그래, 오빠가 갑자기 외간 남자의 여자 친구가 되어 있으면 놀랄 수밖에 없지.
+  translation_zh: 是啊，哥哥要是突然成了别的男人的女朋友，她哪能不吃惊呢。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+- text: 그렇기 때문에 주인공 카이트의 일행과는 적대할 수밖에 없었다.
+  reading: ''
+  annot: 그렇기 때문에 주인공 카이트의 일행과는 적대할 수밖에 없었다.
+  translation_zh: 正因如此，她才不得不与主角凯特一行人敌对。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 结构
+- 依存名词
+- 语气
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

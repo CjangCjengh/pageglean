@@ -1,0 +1,31 @@
+id: ja-grm-00609
+language: ja
+type: grammar
+level: N2
+level_rank: 4
+title: 「〜せいか」：推测原因“是不是因为……”
+structure: 用言連体形 ＋ 形式名词「せい」＋ 係助词「か」
+structure_pattern: V連体形/イ形/ナ形-な + せい + か
+explanation_zh: 形式名词「せい」表示原因，多用于不如意或中性结果的归因，与褒义的「おかげで」相对。后接係助词「か」表示不确定的推测，意为“或许是因为……”。片段中用来推测街道显得比以前开阔的原因。
+examples:
+- text: 空が高いせいか、どこか以前より広く見える。
+  reading: ''
+  annot: 空[そら]が高[たか]いせいか、どこか以前[いぜん]より広[ひろ]く見[み]える。
+  translation_zh: 或许是因为天空显得格外高远，这里看上去比以前开阔了些。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 原因
+- 形式名词
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

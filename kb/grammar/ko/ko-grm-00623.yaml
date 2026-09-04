@@ -1,0 +1,39 @@
+id: ko-grm-00623
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: -다니：「竟然……！」的惊讶感叹
+structure: 动词/形容词词干 + 连接词尾 -다니；이다 → -라니；过去时制词尾后 -았/었 + 다니
+structure_pattern: V/A-다니, 이다-라니
+explanation_zh: 连接词尾「-다니」表示说话人对已听闻或已发生之事感到惊讶、感叹、难以置信，常以反问形式出现，相当于「竟然……」「居然……」。动词、形容词词干后直接加「-다니」，「이다」用「-라니」。片段中两处均用于表现人物面对冲击性事实时的震惊与无法接受。
+examples:
+- text: 계약자가 죽다니, 이럴 수가 있나?
+  reading: ''
+  annot: 계약자가 죽다니, 이럴 수가 있나?
+  translation_zh: 契约者竟然死了，怎么会有这种事？
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+- text: 아무리 그래도 머리통을 걷어차다니, 섬세함이라고는 없는 녀석.
+  reading: ''
+  annot: 아무리 그래도 머리통을 걷어차다니, 섬세함이라고는 없는 녀석.
+  translation_zh: 再怎么着居然踢人家的脑袋，真是个丝毫不懂细腻为何物的家伙。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 感叹
+- 连接词尾
+- 语气
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

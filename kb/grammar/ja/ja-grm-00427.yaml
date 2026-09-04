@@ -1,0 +1,31 @@
+id: ja-grm-00427
+language: ja
+type: grammar
+level: N2
+level_rank: 4
+title: つつある：正在进行的变化
+structure: 动词连用形 ＋ つつある
+structure_pattern: V連用形 + 接続助詞「つつ」＋「ある」
+explanation_zh: 「〜つつある」接动词连用形（「つつ」为接续助词），表示变化正在进行、持续之中，是偏书面、文语色彩的表达，口语多用「〜ている／〜ていく」。文中『激変しつつある』描述主角的生活正在剧烈改变。译作『正在逐渐……』。
+examples:
+- text: とまぁこんな感じで俺の生活は激変しつつあるわけよ。
+  reading: ''
+  annot: とまぁこんな感[かん]じで俺[おれ]の生活[せいかつ]は激変[げきへん]しつつあるわけよ。
+  translation_zh: 总之嘛，我的生活就是这样正在发生剧变啦。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 体貌
+- 書面語
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

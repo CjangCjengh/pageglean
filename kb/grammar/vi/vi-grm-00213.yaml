@@ -1,0 +1,39 @@
+id: vi-grm-00213
+language: vi
+type: grammar
+level: L2
+level_rank: 2
+title: 未然否定 chưa：还没
+structure: chưa + 动词（表示尚未发生、预期会发生）
+structure_pattern: chưa + V
+explanation_zh: chưa 否定尚未发生但预期会发生的动作，意为「还没」，与单纯否定主观意愿或事实的 không 形成对照。单独回答问句时，chưa
+  相当于「还没有」。「Tao chưa xin mẹ tao」意为还没向妈妈开口（以后会开口）。
+examples:
+- text: Tao chưa xin mẹ tao.
+  reading: ''
+  annot: Tao chưa xin mẹ tao.
+  translation_zh: 我还没向我妈要（钱）呢。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+- text: Mày chưa hiểu ý tao.
+  reading: ''
+  annot: Mày chưa hiểu ý tao.
+  translation_zh: 你还不懂我的意思。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 时态虚词
+- 否定
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

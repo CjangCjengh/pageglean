@@ -1,0 +1,32 @@
+id: ja-grm-00058
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 〜って言われる：口语引用＋被动「被说……」
+structure: 引用文 + って + 言われる
+structure_pattern: 普通形 + っていわれた
+explanation_zh: 口语引用助词「って」（相当于「と」）＋「言う」的被动形「言われる」，表示「被人说～、被要求～」。是日常会话中转述他人命令、批评的高频结构，比「と言われた」更口语化。
+examples:
+- text: 私、母さんから『あの先生の事は忘れなさい』って言われたー
+  reading: わたし、かあさんから『あのせんせいのことはわすれなさい』っていわれたー
+  annot: 私、母さんから『あの先生の事は忘れなさい』って言われたー
+  translation_zh: 我被妈妈说了「忘掉那位老师的事吧」——
+  source_book: book-ja-001
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 口语
+- 被动
+- 引用
+provenance:
+  discovered_in: book-ja-001
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

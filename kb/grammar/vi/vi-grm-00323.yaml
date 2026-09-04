@@ -1,0 +1,33 @@
+id: vi-grm-00323
+language: vi
+type: grammar
+level: L4
+level_rank: 4
+title: so với：与……相比
+structure: 形容词/动词短语 + so với + 比较基准
+structure_pattern: Adj/V + so với + N
+explanation_zh: so với 意为「与……相比」，引出比较的基准，多用于书面语或抒情语体。「không thấm gì so với…」表示「跟……比起来根本不算什么」，是权衡轻重的常用句式。
+examples:
+- text: Nhưng những "nỗi đau" nhỏ nhoi này thật không thấm gì so với nỗi hân hoan
+    choáng ngợp trong lòng tôi
+  reading: ''
+  annot: Nhưng những "nỗi đau" nhỏ nhoi này thật không thấm gì so với nỗi hân hoan
+    choáng ngợp trong lòng tôi
+  translation_zh: 但这些小小的「伤痛」，跟心中那股汹涌而来的狂喜比起来，实在不值一提。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 比较句
+- 介词
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

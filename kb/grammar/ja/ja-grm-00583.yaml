@@ -1,0 +1,38 @@
+id: ja-grm-00583
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 〜始める／〜出す：动作的开始（起始体貌）
+structure: 动词连用形＋复合动词后项「始める」／「出す」
+structure_pattern: V(連用形) + 始める/出す
+explanation_zh: 接在动词连用形后构成复合动词，表示动作或变化的开始。「〜始める」侧重渐进的开始，如“気づき始める”（开始察觉）；「〜出す」侧重突然、不由自主的开始，如“泣き出す”（快要哭出来）。是轻小说中常见的体貌表达。
+examples:
+- text: この時点でうっすらと気づきはじめる。
+  reading: ''
+  annot: この時点[じてん]でうっすらと気[き]づきはじめる。
+  translation_zh: 到这个阶段，我开始隐约察觉到了。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+- text: 空は、泣きだしそうなほど黒く染まっていた。
+  reading: ''
+  annot: 空[そら]は、泣[な]きだしそうなほど黒[くろ]く染[そ]まっていた。
+  translation_zh: 天空被染得漆黑，仿佛快要哭出来一样。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 复合动词
+- 体貌
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

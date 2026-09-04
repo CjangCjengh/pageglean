@@ -1,0 +1,39 @@
+id: ko-grm-00243
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: 「-아/어 대다」：不停地……（反复与强调）
+structure: 본용언 ‘-아/어’ + 보조 동사 ‘대다’
+structure_pattern: V-아/어 대다
+explanation_zh: 本动词接“-아/어”后接补助动词“대다”，表示动作反复、持续不停或程度强烈，多带夸张乃至贬抑的语气。“대다”活用为过去时写作“-아/어
+  댔다”。文中“떠들어 댔다”形容副官旁若无人地说个不停。
+examples:
+- text: 마크베르거는 입을 꾹 다물고 있었지만 부관은 상관하지 않고 계속 떠들어 댔다.
+  reading: ''
+  annot: 마크베르거는 입을 꾹 다물고 있었지만 부관은 상관하지 않고 계속 떠들어 댔다.
+  translation_zh: 马克贝格一直紧闭双唇，副官却毫不在意，仍旧滔滔不绝地说个不停。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+- text: 목을, 몸통을, 어깨를, 다리를, 몇 번이고 몇 번이고 찔러 댔다.
+  reading: ''
+  annot: 목을, 몸통을, 어깨를, 다리를, 몇 번이고 몇 번이고 찔러 댔다.
+  translation_zh: 对着脖子、身躯、肩膀、双腿，一遍又一遍地猛刺。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 补助动词
+- 强调
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

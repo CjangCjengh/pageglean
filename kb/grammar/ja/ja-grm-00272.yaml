@@ -1,0 +1,38 @@
+id: ja-grm-00272
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 〜んだ：解释语气助动词「のだ」的口语形
+structure: 用言连体形（简体）＋助动词「のだ」（口语为「んだ」）
+structure_pattern: V/A 連体形 + のだ → んだ(口語)
+explanation_zh: 解释语气的助动词「のだ」接在简体句后，口语中「の」变为拨音「ん」，用于说明原因、解释情况或强调确认。「寝たんだよね」带向对方求证的语气；「行きたくないんじゃなくて」是否定形＋「んじゃなくて」，意为「并不是～，而是……」。轻小说对话中极高频。
+examples:
+- text: でも……わたしはここに居たい。行きたくないんじゃなくて、かずきと居たい
+  reading: ''
+  annot: でも……わたしはここに居[い]たい。行[い]きたくないんじゃなくて、かずきと居[い]たい
+  translation_zh: 可是……我想待在这里。不是不想回去，而是想和和希在一起。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+- text: おっきなわたし、いっしょに寝たんだよね？
+  reading: ''
+  annot: おっきなわたし、いっしょに寝[ね]たんだよね？
+  translation_zh: 大个儿的我，是和你一起睡过的，对吧？
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 语气
+- 口语
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

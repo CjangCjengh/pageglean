@@ -1,0 +1,31 @@
+id: vi-grm-00242
+language: vi
+type: grammar
+level: L4
+level_rank: 4
+title: ai mà chẳng：谁不……呢（反问表全称）
+structure: đại từ phiếm chỉ（泛指代词）ai + trợ từ（助词）mà + phó từ phủ định chẳng + 动词
+structure_pattern: ai + mà chẳng + V
+explanation_zh: 这是用反问表达全称肯定的固定格式：泛指代词 ai（谁）经助词 mà 与否定副词 chẳng 连用，字面是“谁会不……”，实际表示“人人都……”。语气比平铺直叙更强，带有“理所当然”的意味。
+examples:
+- text: Trước một vấn đề "tầm cỡ thế giới" như vậy, ai mà chẳng xiêu lòng nghe theo.
+  reading: ''
+  annot: Trước một vấn đề "tầm cỡ thế giới" như vậy, ai mà chẳng xiêu lòng nghe theo.
+  translation_zh: 面对这样一个“世界级”的问题，谁能不心动而听从呢。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 反问
+- 语气
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

@@ -1,0 +1,39 @@
+id: vi-grm-00193
+language: vi
+type: grammar
+level: L2
+level_rank: 2
+title: 被动句：bị + V（不如意被动）
+structure: 受事 + bị +（施事）+ 动词
+structure_pattern: S + bị + (Agent) + V
+explanation_zh: bị 构成对主语不利或不情愿的被动句，相当于汉语「被」，施事紧跟在 bị 之后（bị cô giáo hỏi「被老师问」）。与之相对，表示得益、如愿的被动要用
+  được。本段「被问」「挨罚」都用 bị。
+examples:
+- text: Nhưng tôi không bị cô giáo hỏi.
+  reading: ''
+  annot: Nhưng tôi không bị cô giáo hỏi.
+  translation_zh: 不过我没有被老师问到。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+- text: Chỉ có Tiểu Li bị phạt đứng tại chỗ về tội ngồi chơi không chép bài
+  reading: ''
+  annot: Chỉ có Tiểu Li bị phạt đứng tại chỗ về tội ngồi chơi không chép bài
+  translation_zh: 只有小李因为坐着玩、不抄课文而被罚原地站着。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 被动
+- 句式
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

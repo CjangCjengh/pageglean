@@ -1,0 +1,39 @@
+id: vi-grm-00249
+language: vi
+type: grammar
+level: L2
+level_rank: 2
+title: 给动作计数：「V + 数词 + cái」
+structure: V + 数词 + cái
+structure_pattern: V + Num + cái
+explanation_zh: cái 是越南语最通用的分类词（量词），口语中可放在动词后为该动作的出现次数计数，如 liếc một cái（瞟了一眼）、liếc
+  hai cái（瞟了两眼）。与汉语「看一下」相似但计数成分在动词之后。语气随意生动，口语使用频率很高。
+examples:
+- text: Khi nãy Việt An có liếc mày một cái.
+  reading: ''
+  annot: Khi nãy Việt An có liếc mày một cái.
+  translation_zh: 刚才越安瞟了你一眼。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+- text: Hôm trước liếc hai cái, hôm nay còn có một
+  reading: ''
+  annot: Hôm trước liếc hai cái, hôm nay còn có một
+  translation_zh: 前天瞟了两眼，今天只剩一眼
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 分类词
+- 数量
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

@@ -1,0 +1,31 @@
+id: vi-grm-00269
+language: vi
+type: grammar
+level: L2
+level_rank: 2
+title: Nếu…(thì)…：如果——假设条件复句
+structure: Nếu + 条件分句，(thì) + 结果分句（假设关系复句 câu ghép điều kiện）
+structure_pattern: Nếu + clause, (thì) + clause
+explanation_zh: 「Nếu」引导假设条件分句，主句可用关联词（quan hệ từ）「thì」承接结果，口语中常省略，相当于“如果……（就）……”。本例结果分句内又用「là」引出小句，形成层层嵌套，是口语中极典型的复句结构。
+examples:
+- text: Nếu mày khai tao ra, mẹ mày "méc" với mẹ tao là tao nhừ đòn.
+  reading: ''
+  annot: Nếu mày khai tao ra, mẹ mày "méc" với mẹ tao là tao nhừ đòn.
+  translation_zh: 你要是把我供出来，你妈向我妈告状，我就得挨一顿痛打。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 条件
+- 复句
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

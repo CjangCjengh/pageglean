@@ -1,0 +1,31 @@
+id: th-grm-00104
+language: th
+type: grammar
+level: L3
+level_rank: 3
+title: 动词+趋向补语：ขึ้นมา / ออกมา / เข้า…ไป
+structure: คำกริยาหลัก + คำบอกทิศทาง（ขึ้นมา/ออกมา/เข้า…ไป），连动式
+structure_pattern: V + ออก/ขึ้น/เข้า + มา/ไป
+explanation_zh: 泰语常把趋向动词放在主要动词后构成连动式，补充动作的方向与结果。「มา」表示朝向说话者，「ไป」表示背离说话者，如「ขึ้นมา」（向上拿起）、「ออกมา」（由内向外）。方向补语是本片段最高频的结构之一。
+examples:
+- text: ทอด​ออกมา​ได้​กรอบ​กำลังดี
+  reading: ''
+  annot: ทอด​ออกมา​ได้​กรอบ​กำลังดี
+  translation_zh: 炸出来酥脆得恰到好处。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 连动式
+- 方向补语
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 5
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

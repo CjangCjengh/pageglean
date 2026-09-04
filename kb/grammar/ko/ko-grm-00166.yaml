@@ -1,0 +1,31 @@
+id: ko-grm-00166
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: -(으)ㄹ수록：越是……越是……
+structure: 冠形词尾 -(으)ㄹ + 依存名词 '수록'（程度递进）
+structure_pattern: V-(으)ㄹ수록
+explanation_zh: 表示程度随前项加深，相当于"越……越……"。例句采用同一动词反复的形式（얘기하면 얘기할수록），强调两个过程同步加深，是本结构的强调用法。
+examples:
+- text: 이상하게도 시연 씨하고 얘기하면 얘기할수록, 저는 시연 씨라면 믿을 수 있겠다는 생각이 들더군요.
+  reading: ''
+  annot: 이상하게도 시연 씨하고 얘기하면 얘기할수록, 저는 시연 씨라면 믿을 수 있겠다는 생각이 들더군요.
+  translation_zh: 奇怪的是，和时研小姐越是交谈，我就越觉得您是个可以信赖的人。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 连接
+- 程度
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

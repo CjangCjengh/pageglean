@@ -1,0 +1,40 @@
+id: ko-grm-00592
+language: ko
+type: grammar
+level: TOPIK5
+level_rank: 5
+title: -았/었더니：回忆中的反转
+structure: 동사 + 선어말어미 -았/었- + 회상 연결어미 -더니
+structure_pattern: V-았/었더니
+explanation_zh: 回想连接词尾'-더니'与过去先词尾'-았/었-'连用，表示说话人回忆中的情况与后句形成对照或引出意外结果。主语通常为说话者自己或其亲历、亲见之事。文中"完美的
+  줄 알았더니"借此表达期待的反转。
+examples:
+- text: 이런, 키이리 윈즈는 모든 게 다 완벽한 줄 알았더니, 그런 것도 아니네.
+  reading: ''
+  annot: 이런, 키이리 윈즈는 모든 게 다 완벽한 줄 알았더니, 그런 것도 아니네.
+  translation_zh: 哎呀，我还以为琪莉·温兹一切都完美无缺呢，原来也并非如此啊。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+- text: 내가 재차 긍정하며 고갤 끄덕였더니, 키이리 얼굴에 환한 미소가 걸렸다.
+  reading: ''
+  annot: 내가 재차 긍정하며 고갤 끄덕였더니, 키이리 얼굴에 환한 미소가 걸렸다.
+  translation_zh: 我再次点头表示肯定，只见基丽脸上便绽开了灿烂的笑容。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 连接词尾
+- 对照
+- 回想
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

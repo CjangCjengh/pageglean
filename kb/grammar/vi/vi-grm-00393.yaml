@@ -1,0 +1,32 @@
+id: vi-grm-00393
+language: vi
+type: grammar
+level: L2
+level_rank: 2
+title: đừng ... nữa：否定祈使
+structure: 主语 + 情态副词 đừng + 动词（câu cầu khiến 否定式）+ 语气词 nữa
+structure_pattern: S + đừng + VP (+ nữa)
+explanation_zh: 副词 đừng 置于动词前，构成否定祈使句，表示“别、不要”。句末加 nữa（再、还）呼应中文“别再……了”，强调要求对方停止正在持续的状态。
+examples:
+- text: Ngày mai anh đừng giở bộ mặt đưa đám ra nữa!
+  reading: ''
+  annot: Ngày mai anh đừng giở bộ mặt đưa đám ra nữa!
+  translation_zh: 明天你别再摆出那副哭丧脸了！
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 祈使
+- 否定
+- 语气
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

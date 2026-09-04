@@ -1,0 +1,40 @@
+id: ko-grm-00306
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: -(으)ㄹ 생각이다：意图与打算
+structure: 动词冠形形 -(으)ㄹ + 依存名词 생각 + 이다
+structure_pattern: V-(으)ㄹ + 생각이다
+explanation_zh: 생각作依存名词，接动词冠形形构成‘-(으)ㄹ 생각이다’，表示主语的意图、打算，相当于“打算……”。过去时用‘-(으)ㄹ 생각이었다’，表示“原本打算”。与表推测的‘-(으)ㄹ
+  것이다’不同，此结构强调主观意图，本片段中反复出现。
+examples:
+- text: 아니, 나는 네 오빠와 손을 잡을 생각이었어.
+  reading: ''
+  annot: 아니, 나는 네 오빠와 손을 잡을 생각이었어.
+  translation_zh: 不，我原本打算和你哥哥联手的。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+- text: 훗날 반드시 그 죗값을 치를 생각이야.
+  reading: ''
+  annot: 훗날 반드시 그 죗값을 치를 생각이야.
+  translation_zh: 日后我一定打算偿还这笔罪债。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 意图
+- 时制
+- 依存名词
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 4
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

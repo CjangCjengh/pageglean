@@ -1,0 +1,31 @@
+id: ja-grm-00064
+language: ja
+type: grammar
+level: N3
+level_rank: 3
+title: 〜といえば：提起话题
+structure: 普通形 + といえば
+structure_pattern: 普通形 + といえば
+explanation_zh: 表示由刚提到的词语联想到另一话题，"说到……""提起……"。本段主人公由『拾う』一词展开联想。与「というのは」（解释说明）不同，「といえば」重在话题触发。
+examples:
+- text: あ。『拾う』といえば……
+  reading: あ。ひろうといえば……
+  annot: あ。『拾う』といえば……
+  translation_zh: 啊。说到『捡』……
+  source_book: book-ja-001
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 话题
+- 接续
+provenance:
+  discovered_in: book-ja-001
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

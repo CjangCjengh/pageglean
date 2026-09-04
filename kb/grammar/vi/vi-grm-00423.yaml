@@ -1,0 +1,32 @@
+id: vi-grm-00423
+language: vi
+type: grammar
+level: L3
+level_rank: 3
+title: càng…càng…：越……越……
+structure: càng + A/V，càng + A/V（成对关联结构 quan hệ từ sóng đôi，表递进比较）
+structure_pattern: càng + X, càng + X
+explanation_zh: 「càng…càng…」是成对使用的关联结构（quan hệ từ sóng đôi），表示“越……越……”，前后两个分句平行递进。形容词、动词都可进入此格式。本段用它构成“女孩越大越聪明，男孩越大越笨”的俏皮对照。
+examples:
+- text: Phải chăng con gái càng lớn càng khôn, còn con trai càng lớn càng ngu?
+  reading: ''
+  annot: Phải chăng con gái càng lớn càng khôn, còn con trai càng lớn càng ngu?
+  translation_zh: 难道女孩越大越聪明，而男孩越大越笨吗？
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 比较
+- 递进
+- 关联结构
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

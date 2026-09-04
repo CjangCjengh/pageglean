@@ -1,0 +1,41 @@
+id: vi-grm-00336
+language: vi
+type: grammar
+level: L2
+level_rank: 2
+title: Khi … thì …：时间状语从句
+structure: 连词 khi 引导时间状语（trạng ngữ chỉ thời gian），thì 引出主句；khi 从句也可后置
+structure_pattern: Khi + clause, (thì) + clause
+explanation_zh: khi 相当于“当……时”，引导时间状语从句，主句前常加 thì 承接（可省略）。khi 从句也可放在主句之后，起补充说明作用。这是越南语叙事中最基础的复句框架之一。
+examples:
+- text: Khi Việt An đi khỏi ngã ba chừng mười mét thì Hải gầy chui ra khỏi quán, rảo
+    cẳng đuổi theo.
+  reading: ''
+  annot: Khi Việt An đi khỏi ngã ba chừng mười mét thì Hải gầy chui ra khỏi quán,
+    rảo cẳng đuổi theo.
+  translation_zh: 越安走过三岔路口约十米时，瘦海就从店里钻出来，快步追了上去。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+- text: Tôi giật mình quay lại và rất đỗi kinh hoàng khi thấy người tài xế đã leo
+    lên xe tự hồi nào.
+  reading: ''
+  annot: Tôi giật mình quay lại và rất đỗi kinh hoàng k
+  translation_zh: 我吃了一惊回过头去，惊恐地发现司机不知什么时候早已上了车。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 复句
+- 时间状语
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 9
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

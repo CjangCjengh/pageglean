@@ -1,0 +1,38 @@
+id: ko-grm-00361
+language: ko
+type: grammar
+level: TOPIK5
+level_rank: 5
+title: -(으)ㄴ 이상：既然……就……
+structure: 동사 어간 + 관형사형 전성어미 '-(으)ㄴ' + 의존명사 '이상'
+structure_pattern: V-(으)ㄴ 이상
+explanation_zh: 依存名词“이상”（以上）接在冠形词形词尾“-(으)ㄴ”后，表示以前项既成事实为根据推出后项结论或决心，相当于“既然……就……”。语气比“-으니까”更强，带有“事已至此”的意味。文中两次使用，表达作者既然接手角色就要负责到底的决心。
+examples:
+- text: 카이트를 대신하여 세레나데를 맡은 이상 전력을 다해 그녀를 지킬 생각이다.
+  reading: ''
+  annot: 카이트를 대신하여 세레나데를 맡은 이상 전력을 다해 그녀를 지킬 생각이다.
+  translation_zh: 既然代替凯特接手了塞蕾娜黛，我就打算尽全力守护她。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+- text: 카이트가 없는 이상, 세레나데를 그렇게 성장시키는 역할은 내가 해야 할 것이다.
+  reading: ''
+  annot: 카이트가 없는 이상, 세레나데를 그렇게 성장시키는 역할은 내가 해야 할 것이다.
+  translation_zh: 既然凯特不在，让塞蕾娜黛那样成长的角色就只能由我来扮演。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 条件
+- 依存名词
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

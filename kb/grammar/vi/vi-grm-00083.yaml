@@ -1,0 +1,38 @@
+id: vi-grm-00083
+language: vi
+type: grammar
+level: L2
+level_rank: 2
+title: chỉ (có)…thôi：限定范围「只、仅」
+structure: chỉ (có) + V/N + (thôi)（范围副词 + 句末助词 trợ từ thôi）
+structure_pattern: chỉ có + V/N + thôi
+explanation_zh: chỉ (có) 是限定范围的副词，相当于汉语「只、仅仅」；句末可加助词（trợ từ）thôi，强化「仅此而已」的语气，合起来对应汉语「只……罢了／而已」。片段中「只喜欢你的是你」「只写一句话」均用此结构。是口语表达「只有」的高频手段。
+examples:
+- text: Vậy là chỉ có mày yêu nó?
+  reading: ''
+  annot: Vậy là chỉ có mày yêu nó?
+  translation_zh: 所以说只有你单方面喜欢她？
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+- text: Mày chỉ viết ngắn gọn một câu thôi
+  reading: ''
+  annot: Mày chỉ viết ngắn gọn một câu thôi
+  translation_zh: 你只写简短的一句话就行
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 副词
+- 助词
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 4
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

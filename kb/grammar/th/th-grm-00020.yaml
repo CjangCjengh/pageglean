@@ -1,0 +1,31 @@
+id: th-grm-00020
+language: th
+type: grammar
+level: L2
+level_rank: 2
+title: ได้+动词：得以／有机会做某事（กริยานุเคราะห์）
+structure: คำกริยานุเคราะห์（助动词）ได้ + คำกริยาหลัก（主要动词），前置表机会或实现
+structure_pattern: ได้(กริยานุเคราะห์) + คำกริยา
+explanation_zh: ได้置于动词前作คำกริยานุเคราะห์（助动词）时，除表示过去外，常表示“有机会／得以”做某事，本段两处均属此用法。它不同于动词后的ได้（表能力或可能性，如ทำได้ดี）。对中文母语者可对应“得以／有机会”来理解。
+examples:
+- text: ตอนนั้น​โต๊ะ​ของ​ผม​กับ​เธอ​อยู่​ติดกัน​เรา​ก็​เลย​ได้​คุย​กัน​อยู่​บ่อย ๆ
+  reading: ''
+  annot: ตอนนั้น​โต๊ะ​ของ​ผม​กับ​เธอ​อยู่​ติดก
+  translation_zh: 那时我和她的桌子紧挨着，于是我们经常能聊上天。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 助动词
+- 体貌
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

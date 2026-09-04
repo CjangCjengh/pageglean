@@ -1,0 +1,38 @@
+id: ko-grm-00596
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: -게 되다：变化与结果「变得……起来」
+structure: 용언 어간 + 부사절 어미 '-게' + 용언 '되다'
+structure_pattern: V/A- + -게 + 되다
+explanation_zh: 用言词干接副词形词尾'-게'再加'되다'，表示情况发生变化或自然形成某种结果，相当于'变得……'。多用于非主观意愿而出现的局面。
+examples:
+- text: 따져 물어야 할 게 있어. 어쩌면 싸우게 될 수도 있고.
+  reading: ''
+  annot: 따져 물어야 할 게 있어. 어쩌면 싸우게 될 수도 있고.
+  translation_zh: 有必须追问清楚的事。搞不好可能还会打起来。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+- text: 이 이야기를 키이리가 듣게 된다면, 키이리는 나에게 동전을 맡기려 하지 않을 게 분명했다.
+  reading: ''
+  annot: 이 이야기를 키이리가 듣게 된다면, 키이리는 나에게 동전을 맡기려 하지 않을 게 분명했다.
+  translation_zh: 要是让基莉听到这番话，她肯定不会把硬币托付给我。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 변화·결과
+- 연결어미
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 4
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

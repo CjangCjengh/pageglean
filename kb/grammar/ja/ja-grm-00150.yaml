@@ -1,0 +1,31 @@
+id: ja-grm-00150
+language: ja
+type: grammar
+level: N3
+level_rank: 3
+title: 〜（よ）うとする：眼看就要……
+structure: 動詞未然形＋う／よう＋とする
+structure_pattern: V-未然形 + う/よう + と + する
+explanation_zh: 助动词「う／よう」接动词未然形表意志或推测。「う／ようとする」表示动作即将发生，即「眼看就要／正要做〜」。常暗示该动作随后被中断或阻止，本例中即被主角拦下。
+examples:
+- text: 長い黒髪が残像と映る程の速度で俺の左横を通り抜けようとする。
+  reading: ''
+  annot: 長[なが]い黒髪[くろかみ]が残像[ざんぞう]と映[うつ]る程[ほど]の速度[そくど]で俺[おれ]の左横[ひだりよこ]を通[とお]り抜[ぬ]けようとする。
+  translation_zh: （她）以黑色长发拖出残影的速度，正要从我的左侧疾掠而过。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 助動詞
+- 体貌
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

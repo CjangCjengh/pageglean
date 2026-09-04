@@ -1,0 +1,38 @@
+id: ko-grm-00510
+language: ko
+type: grammar
+level: TOPIK2
+level_rank: 2
+title: -(으)시- + -ㅂ니다：主体敬语与格式体敬语阶
+structure: 主体敬语先语末词尾 -(으)시- + 格式体终结词尾 -ㅂ니다/습니다（주체경어법）
+structure_pattern: V/A-(으)시- + -ㅂ니다/습니다
+explanation_zh: -(으)시- 是主体敬语先语末词尾，用来抬高动作的主体；搭配格式体终结词尾 -ㅂ니다 构成正式的尊敬阶。片段中女仆约娜对领主的所有发言均使用这一阶位，体现严格的主从关系与敬语层级。
+examples:
+- text: 영주님. 넥타이가 비뚤어지셨습니다.
+  reading: ''
+  annot: 영주님. 넥타이가 비뚤어지셨습니다.
+  translation_zh: 领主大人，您的领带歪了。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+- text: 정말 잘 어울리십니다.
+  reading: ''
+  annot: 정말 잘 어울리십니다.
+  translation_zh: 真的很适合您。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 敬语
+- 阶位
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

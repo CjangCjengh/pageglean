@@ -1,0 +1,39 @@
+id: ko-grm-00156
+language: ko
+type: grammar
+level: TOPIK2
+level_rank: 2
+title: -(으)시-：主体敬语
+structure: 词干 + -(으)시- + 词尾
+structure_pattern: V/A- + -(으)시- + 語尾
+explanation_zh: -(으)시- 是主体敬语先语末词尾，插在词干与词尾之间，用来抬高动作的主体；이다 的敬语形为 이시-，口语中常缩为 시-。片段里塞蕾娜德对说话人使用“주시기만
+  하면”“무슨 일이시죠”等，体现郑重的敬语阶位。它与谦让形 -아/어 드리다 等配合，构成韩语完整的敬语体系。
+examples:
+- text: 충분한 대가를 지불해 주시기만 하면 오늘 하룻밤 동안 오라버니는 당신의 애인이 되어 줄 겁니다.
+  reading: ''
+  annot: 충분한 대가를 지불해 주시기만 하면 오늘 하룻밤 동안 오라버니는 당신의 애인이 되어 줄 겁니다.
+  translation_zh: 只要支付足够的报酬，仅仅今晚一夜，哥哥也可以成为您的恋人。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+- text: 그래서, 대체 무슨 일이시죠?
+  reading: ''
+  annot: 그래서, 대체 무슨 일이시죠?
+  translation_zh: 那么，到底有什么事呢？
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 敬语
+- 先语末词尾
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 5
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

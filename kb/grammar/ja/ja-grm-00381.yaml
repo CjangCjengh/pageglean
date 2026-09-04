@@ -1,0 +1,39 @@
+id: ja-grm-00381
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 〜てしまう（〜ちゃう）：完成与无奈
+structure: 动词连用形 + 接续助词「て」+ 补助动词「しまう」（口语缩略为「ちゃう」）
+structure_pattern: V-連用形 + て + しまう / てしまう → ちゃう(口語)
+explanation_zh: 「てしまう」由动词连用形接续助词「て」再加补助动词「しまう」构成，表示动作完成或导致某种结果，常带不情愿、困扰的语气。口语中「てしまう」常缩略为「ちゃう」，其意志形即「ちゃおう」。片段前句写不小心吓到女生的无奈，后句「振り向いちゃおうか」是自暴自弃式的提议。
+examples:
+- text: またしても無意識にはみ出した愚痴が、離れた席の女子をびくつかせてしまう。
+  reading: ''
+  annot: またしても無意識[むいしき]にはみ出[だ]した愚痴[ぐち]が、離[はな]れた席[せき]の女子[じょし]をびくつかせてしまう。
+  translation_zh: 又一次，无意识中脱口而出的牢骚，把坐在远处座位的女生吓得一哆嗦。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+- text: もう振り向いちゃおうか。
+  reading: ''
+  annot: もう振[ふ]り向[む]いちゃおうか。
+  translation_zh: 要不干脆回过头去吧。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 体貌
+- 语气
+- 口语
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

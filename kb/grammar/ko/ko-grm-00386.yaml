@@ -1,0 +1,31 @@
+id: ko-grm-00386
+language: ko
+type: grammar
+level: TOPIK5
+level_rank: 5
+title: 「-는 것치고는：就……而言却……」
+structure: 용언 어간 + 관형사형 전성 어미 + 의존명사 '것' + 동사 '치다'의 연결형 '치고는'
+structure_pattern: V/A-(으)ㄴ/는 것치고는
+explanation_zh: 冠形词形转换词尾修饰依存名词것，后接动词치다的连接形치고는，表示"就前文所说的程度而言，后文却与预期相反"。相当于"虽说……却……"，带有意外、转折的语气。属高级表达，日常评论中常见。
+examples:
+- text: 여자 경험이 많은 것치고는, 별로 능숙한 것 같지 않았단 말이죠.
+  reading: ''
+  annot: 여자 경험이 많은 것치고는, 별로 능숙한 것 같지 않았단 말이죠.
+  translation_zh: 虽说女人经验丰富，却好像并不怎么熟练呢。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 接续
+- 转折
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

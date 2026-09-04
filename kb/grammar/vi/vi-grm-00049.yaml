@@ -1,0 +1,41 @@
+id: vi-grm-00049
+language: vi
+type: grammar
+level: L2
+level_rank: 2
+title: 「bị」被动句：不如意、遭受义
+structure: S + bị + V/adj（câu bị động – 不如意・受损义）
+structure_pattern: S + bị + V
+explanation_zh: 越南语学校语法称被动句为 câu bị động，用「bị」「được」标记：「được」表称心，「bị」表不如意、受损。片段中连用「bị」引出诅咒内容（bị
+  sét đánh, bị xe cán, bị chết chìm）。口语中「bị＋数量」（bị ba cái）可省略动词，表「遭了三次」，需结合语境理解。
+examples:
+- text: Tôi cứ ngồi trù ẻo cho Việt An bị sét đánh, bị xe cán, bị chết chìm dưới sông,
+    thậm chí bị ba cái cùng một lúc càng tốt.
+  reading: ''
+  annot: Tôi cứ ngồi trù ẻo cho Việt An bị sét đánh, bị xe cán, bị chết chìm dưới
+    sông, thậm chí bị ba cái cùng một lúc càng tốt.
+  translation_zh: 我一直坐着诅咒越安被雷劈、被车轧、淹死在河里，甚至三样一起遭更好。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+- text: Chẳng lẽ cuốn sách bị rách chỗ nào, Việt An không chịu nhận chăng?
+  reading: ''
+  annot: Chẳng lẽ cuốn sách bị rách chỗ nào, Việt An không chịu nhận chăng?
+  translation_zh: 莫非书哪里被撕破了，越安不肯收下吗？
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 被动句
+- 遭受义
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 5
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

@@ -1,0 +1,39 @@
+id: vi-grm-00272
+language: vi
+type: grammar
+level: L2
+level_rank: 2
+title: đã…rồi 与 chưa：已然与「尚未」
+structure: đã + V + rồi（已经……了）／chưa + V（还没……）
+structure_pattern: đã + V + rồi / chưa + V
+explanation_zh: đã + 动词（+ rồi）表示动作已经完成，相当于「已经……了」；chưa + 动词否定到目前为止的发生，意为「还没……」，与一般否定
+  không 不同。越南语时态助词系统还包括 đang（正在）、sẽ（将）、vẫn（仍然）等。本片段中「đã viết sẵn…rồi」与「chưa nói gì」恰好构成完成与否的对照。
+examples:
+- text: Có khi nó đã viết sẵn một lá thư trả lời rồi không chừng.
+  reading: ''
+  annot: Có khi nó đã viết sẵn một lá thư trả lời rồi không chừng.
+  translation_zh: 说不定她已经写好一封回信了呢。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+- text: Vả lại, tôi cũng chưa nói gì.
+  reading: ''
+  annot: Vả lại, tôi cũng chưa nói gì.
+  translation_zh: 再说，我也还没说什么呀。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 体貌
+- 时态助词
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

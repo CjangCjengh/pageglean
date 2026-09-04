@@ -1,0 +1,32 @@
+id: vi-grm-00106
+language: vi
+type: grammar
+level: L3
+level_rank: 3
+title: được：可能补语与受益被动
+structure: V + được（可能）；S + được + 施事 + V（受益）
+structure_pattern: V + được; được + NP + V
+explanation_zh: được 有两种核心用法：一是置于动词之后表示可能或实现，如「chơi được rồi」（可以玩了）；二是引出受益性被动，主语是动作的受益者，与表示受损的
+  bị 相对。末尾句「được mẹ nó mua cho」即「得到妈妈买给（面包）」之意。
+examples:
+- text: Bây giờ chơi trò chơi được rồi!
+  reading: ''
+  annot: Bây giờ chơi trò chơi được rồi!
+  translation_zh: 现在可以玩游戏啦！
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 语态
+- 补语
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

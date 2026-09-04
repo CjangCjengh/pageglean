@@ -1,0 +1,31 @@
+id: ja-grm-00562
+language: ja
+type: grammar
+level: N2
+level_rank: 4
+title: 〜がち：动不动就……、容易……
+structure: 动词连用形/名词＋接尾语「がち」
+structure_pattern: V-連用形 + がち
+explanation_zh: 接尾语「がち」接动词连用形或名词后，表示“容易……”“动不动就……”，多用于消极、不理想的现象。本段“休みがち”指频繁请假不上学。书面语与口语均常用，是N2高频表达。
+examples:
+- text: 俺は学校を休みがちになった。
+  reading: ''
+  annot: 俺[おれ]は学校[がっこう]を休[やす]みがちになった。
+  translation_zh: 我开始动不动就请假不去学校。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 接尾語
+- 倾向
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

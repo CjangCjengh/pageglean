@@ -1,0 +1,31 @@
+id: ja-grm-00348
+language: ja
+type: grammar
+level: N2
+level_rank: 4
+title: 〜ものではない：按常理不该〜
+structure: 動詞終止形 ＋ ものではない
+structure_pattern: V-終止形 + ものではない
+explanation_zh: 形式名词「もの」表示一般性的道理。「〜ものではない」表示按常理、人之常情“不该〜”，语气比「〜てはいけない」更委婉、更具概括性。片段中用以表达不愿去回忆的心情。
+examples:
+- text: 正直、そんなに思い出したいものではない。
+  reading: ''
+  annot: 正直[しょうじき]、そんなに思[おも]い出[だ]したいものではない。
+  translation_zh: 说实话，那并不是什么想让人回忆起来的事。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 形式名词
+- 语气
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

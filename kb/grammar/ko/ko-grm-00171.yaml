@@ -1,0 +1,40 @@
+id: ko-grm-00171
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: -(으)ㄹ 수밖에 없다：别无选择
+structure: 동사 어간 + 관형사형 전성 어미 '-(으)ㄹ' + 의존 명사 '수' + 부사격 조사 '밖에' + 부정 서술어
+structure_pattern: V-(으)ㄹ 수밖에 없다
+explanation_zh: 冠形词尾形 -(으)ㄹ 修饰依存名词 수，再加副词格助词 밖에（只剩……）与否定谓语，以双重否定强调别无他法、只能如此。语气比 -아야
+  하다 更强，突出客观上的不得已。本片段说明凯特在醉酒状态下毫无抵抗的必然结局。
+examples:
+- text: 카이트는 아무런 저항도 못 하고 클라우에게 살해당할 수밖에 없었다.
+  reading: ''
+  annot: 카이트는 아무런 저항도 못 하고 클라우에게 살해당할 수밖에 없었다.
+  translation_zh: 凯特根本无法做出任何抵抗，只能被克劳杀害。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+- text: 필연적인 패배를 맞이할 수밖에 없게 설정되어 있는, 고작 악의 세력의 여간부에 지나지 않는 이 녀석들을 구제해……
+  reading: ''
+  annot: 필연적인 패배를 맞이할 수밖에 없게 설정되어 있는, 고작 악의 세력의 여간부에 지나지 않는 이 녀석들을 구제해……
+  translation_zh: 我要拯救这些被设定成只能迎来必然败北、不过是区区恶势力女干部的家伙们……
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 의존명사
+- 불가피
+- 부정 표현
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

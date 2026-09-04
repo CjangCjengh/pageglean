@@ -1,0 +1,32 @@
+id: ja-grm-00133
+language: ja
+type: grammar
+level: N3
+level_rank: 3
+title: 敬语：尊敬语「お〜になる」与谦让语「ご〜いただく」
+structure: お＋和语动词连用形＋になる／ご＋萨变动词语干＋いただく
+structure_pattern: お～になる / ご～いただく
+explanation_zh: 尊敬语「お〜になる」抬高对方行为，谦让语「ご〜いただく」礼貌地领受对方行为。「お世話になる」是受人照顾的固定表达；「ご理解いただければ」以假定形委婉提出请求，意为“如蒙理解的话”。两者都是会话与商务场景的高频敬语。
+examples:
+- text: 幼い頃からお世話になっているお隣さんの一人娘で、俺の幼馴染。
+  reading: ''
+  annot: 幼[おさな]い頃[ころ]からお世話[せわ]になっているお隣[となり]さんの一人[ひとり]娘[むすめ]で、俺[おれ]の幼馴染[おさななじみ]。
+  translation_zh: （她）是从小时候起就一直承蒙关照的邻居家的独生女，也是我的青梅竹马。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 敬语
+- 谦让语
+- 礼貌体
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

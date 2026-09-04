@@ -1,0 +1,31 @@
+id: ja-grm-00567
+language: ja
+type: grammar
+level: N2
+level_rank: 4
+title: たとえ〜ても：即使……也（强调让步）
+structure: たとえ＋动词连用形＋ても
+structure_pattern: たとえ + V-ても
+explanation_zh: 副词「たとえ」与接续助词「ても」呼应，强化“即使……也……”的让步关系。句中“振り向いてもらえなくて”是授受补助动词「てもらう」的未然形＋否定＋连用形「て」，意为“即便得不到对方的回应”。
+examples:
+- text: たとえ振り向いてもらえなくても、光を好きだった気持ちは誰にも負けない。
+  reading: ''
+  annot: たとえ振[ふ]り向[む]いてもらえなくても、光[ひかり]を好[す]きだった気持[きも]ちは誰[だれ]にも負[ま]けない。
+  translation_zh: 即使没能让她回心转意，我喜欢光的这份心意也不输给任何人。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 让步
+- 接续
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

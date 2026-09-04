@@ -1,0 +1,32 @@
+id: vi-grm-00406
+language: vi
+type: grammar
+level: L3
+level_rank: 3
+title: 「chưa…được」：尚未能实现
+structure: chưa + 动词 + được
+structure_pattern: chưa + V + được (bổ ngữ khả năng)
+explanation_zh: chưa 是表示“尚未”的否定副词（phó từ），được 作可能补语（bổ ngữ khả năng）表示动作能够实现，两者配合表示某事目前还没有能力或条件做到。片段中“chưa
+  che được vết sẹo”即“还遮不住伤疤”。chưa 暗示将来可能实现，与单纯否定的 không 不同。
+examples:
+- text: Dài hơn, nhưng chưa che được vết sẹo.
+  reading: ''
+  annot: Dài hơn, nhưng chưa che được vết sẹo.
+  translation_zh: 长了，但还遮不住伤疤。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 否定
+- 补语
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

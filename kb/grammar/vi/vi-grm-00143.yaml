@@ -1,0 +1,40 @@
+id: vi-grm-00143
+language: vi
+type: grammar
+level: L3
+level_rank: 3
+title: V + được：可能与结果补语
+structure: 动词 + được（bổ ngữ chỉ khả năng/kết quả）；否定：không + V + được
+structure_pattern: V + được / không + V + được
+explanation_zh: được 放在动词后作补语，表示动作得以实现或有能力做到，相当于汉语“得、到、住”。片段中“kềm lại được”是“忍住了”，“không
+  lay chuyển nó được”是“没法让她动摇”。否定式把 không 放在动词之前。
+examples:
+- text: Thấy không lay chuyển nó được, tôi đạp chân lên cái lon
+  reading: ''
+  annot: Thấy không lay chuyển nó được, tôi đạp chân lên cái lon
+  translation_zh: 见没法让她动摇，我把脚踩在易拉罐上
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+- text: Nó dợm chân tính chạy ra mấy lần nhưng cuối cùng kềm lại được
+  reading: ''
+  annot: Nó dợm chân tính chạy ra mấy lần nhưng cuối cùng kềm lại được
+  translation_zh: 她抬脚想跑出来好几回，但最后还是忍住了
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 补语
+- 可能
+- 结果
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

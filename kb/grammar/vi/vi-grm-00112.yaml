@@ -1,0 +1,42 @@
+id: vi-grm-00112
+language: vi
+type: grammar
+level: L2
+level_rank: 2
+title: Mỗi lần / mỗi khi + 时间从句，… thường/lại…：习惯性行为句
+structure: Mỗi lần / mỗi khi + VP₁，S + thường / lại + VP₂
+structure_pattern: Mỗi lần/khi + clause，(thì) S + thường/lại + V
+explanation_zh: mỗi lần、mỗi khi 引导表示'每当…'的时间从句，主句用 thường（经常）或 lại（便、又）呼应，说明规律性、反复出现的行为。这是叙述人物习惯的常用句式，片段里先后用来刻画'我'的反复自问和海瘦的惯常引经据典。
+examples:
+- text: Nó có một cuốn sổ tay trong đó chép dày đặc những câu danh ngôn đông tây kim
+    cổ.
+  reading: ''
+  annot: Nó có một cuốn sổ tay trong đó chép dày đặc những câu danh ngôn đông tây
+    kim cổ.
+  translation_zh: 他有一本笔记本，里面密密麻麻抄满了古今中外的名言。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+- text: Mỗi lần tranh luận về một vấn đề gì hoặc muốn châm chích ai, nó thường nhờ
+    "thánh hiền" hỗ trợ.
+  reading: ''
+  annot: Mỗi lần tranh luận về một vấn đề gì hoặc muốn châm chích ai, nó thường nhờ
+    "thánh hiền" hỗ trợ.
+  translation_zh: 每次就某个问题争论、或者想挖苦谁，他常常要请'圣贤'来助阵。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 复句
+- 时间状语
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 0
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

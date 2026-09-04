@@ -1,0 +1,39 @@
+id: ko-grm-00077
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: -다고/겠다고 하다：间接引用
+structure: 인용 연결어미 '-다고' + 선어말어미 '-겠-'（의지） + 인용 동사 '하다/말하다'
+structure_pattern: V/A + -다고/겠다고 + 하다(말하다)
+explanation_zh: 用于转述他人话语的间接引用。'-다고'是引用连接词尾，'겠'是表示意志的先语末词尾，后接'하다/말하다'等引用动词，口语中动词常省略。引用部分还可加보조사'만/는'，对内容进行限定或对比。
+examples:
+- text: 어젯밤 약혼을 취소하겠다고 주인님이 직접 말씀하셨습니다.
+  reading: ''
+  annot: 어젯밤 약혼을 취소하겠다고 주인님이 직접 말씀하셨습니다.
+  translation_zh: 主人昨晚亲自说要取消婚约。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+- text: 알테아는 문제가 생겼다고만 얘기했지, 마스터가 잘못을 했다고는 얘기하지 않았어.
+  reading: ''
+  annot: 알테아는 문제가 생겼다고만 얘기했지, 마스터가 잘못을 했다고는 얘기하지 않았어.
+  translation_zh: 阿尔泰娅只说出了问题，可没说主人做错了什么。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 间接引用
+- 连接词尾
+- 先语末词尾
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

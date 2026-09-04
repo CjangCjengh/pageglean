@@ -1,0 +1,38 @@
+id: ko-grm-00499
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: -(으)ㄹ 뻔하다：差点儿发生
+structure: 동사 어간 + 관형사형 어미 -(으)ㄹ + 의존 명사 '뻔' + 하다
+structure_pattern: V-(으)ㄹ 뻔하다
+explanation_zh: 依存名词뻔与하다结合，表示某事虽未真正发生但已几乎发生，相当于中文“差点儿……”，多用于不希望发生的事。常与副词하마터면呼应使用。本片段中出现两次，是高产句型。
+examples:
+- text: 머리 위에서 들려오는 대답에, 하마터면 비명을 지를 뻔했다.
+  reading: ''
+  annot: 머리 위에서 들려오는 대답에, 하마터면 비명을 지를 뻔했다.
+  translation_zh: 听到从头顶上方传来的回答，我差点叫出声来。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+- text: 네놈의 그 감 타령에 잘못하면 싸움 날 뻔했잖아, 멍청아.
+  reading: ''
+  annot: 네놈의 그 감 타령에 잘못하면 싸움 날 뻔했잖아, 멍청아.
+  translation_zh: 就凭你那套直觉的说辞，搞不好差点就打起来了，笨蛋。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 语气
+- 依存名词
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

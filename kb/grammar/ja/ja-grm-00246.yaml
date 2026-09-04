@@ -1,0 +1,38 @@
+id: ja-grm-00246
+language: ja
+type: grammar
+level: N3
+level_rank: 3
+title: 〜って：口语中的「と／という」
+structure: 小句＋って＝と・という・ということは（口語の引用）
+structure_pattern: 句 + って (= と / という)
+explanation_zh: 「って」是口语中替代引用助詞「と」及「という」的助词，轻小说对话中极高频。「って事は」即「ということは」，用于根据前述事项展开推断，「这么说的话……」。片段中「命令されたって」「組み上げたって事は」「聞いた事がある」等均为其用例。
+examples:
+- text: 王女が独自で組み上げたって事は、お得意の精神系の術だろうな。
+  reading: ''
+  annot: 王女[おうじょ]が独自[どくじ]で組[く]み上[あ]げたって事[こと]は、お得意[とくい]の精神系[せいしんけい]の術[じゅつ]だろうな。
+  translation_zh: 既然是王女自行构建的，那想必是她擅长的精神系法术吧。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+- text: 完成したって話は聞いてなかったが、それらしき物の開発中の話は聞いた事がある
+  reading: ''
+  annot: 完成[かんせい]したって話[はなし]は聞[き]いてなかったが、それらしき物[もの]の開発中[かいはつちゅう]の話[はなし]は聞[き]いた事[こと]がある
+  translation_zh: 完成的事我没听说过，不过倒是听说过那个疑似之物还在开发中的事。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 口语
+- 引用
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 6
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

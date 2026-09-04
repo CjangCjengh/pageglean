@@ -1,0 +1,31 @@
+id: ja-grm-00213
+language: ja
+type: grammar
+level: N2
+level_rank: 4
+title: 〜どころか：哪里谈得上、不但不……反而
+structure: 体言・用言連体形 + どころか（慣用表現）
+structure_pattern: X + どころか
+explanation_zh: 表示事态与前项预期相反或程度远在其上，意为“哪里谈得上……”“不但不……反而……”。「それどころか」常独立用于句首，表示“根本不是那样、远不止如此”。此处强调与她攀比这件事本身就不成立。
+examples:
+- text: それどころか、アレと張り合う事自体が間違いだから悔やむ必要すら無い。
+  reading: ''
+  annot: それどころか、アレと張[は]り合[あ]う事[こと]自体[じたい]が間違[まちが]いだから悔[く]やむ必要[ひつよう]すら無[な]い。
+  translation_zh: 非但如此，跟那家伙较劲本身就是错的，所以连懊悔的必要都没有。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 語気
+- 強調
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

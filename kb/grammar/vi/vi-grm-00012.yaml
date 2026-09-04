@@ -1,0 +1,40 @@
+id: vi-grm-00012
+language: vi
+type: grammar
+level: L2
+level_rank: 2
+title: 疑问语气词 hả、hén、vậy
+structure: 陈述句 + 句末语气词（tình thái từ）hả / hén / vậy 构成疑问
+structure_pattern: S + V … + hả / hén / vậy ?
+explanation_zh: hả、hén、vậy 属语气词/情态词（tình thái từ），附在句末即可构成疑问，无需改变语序。hả 表一般是非问或求证（相当于『吗』），hén
+  表征询同意（相当于『……对吧』），vậy 用于特指问以加强语气。
+examples:
+- text: Tiểu Li là đi tiểu vô trong ly hả?
+  reading: ''
+  annot: Tiểu Li là đi tiểu vô trong ly hả?
+  translation_zh: 『小丽』就是把尿撒进杯子里吗？
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+- text: Nhà bà Tư Mập đẹp ghê, anh hén?
+  reading: ''
+  annot: Nhà bà Tư Mập đẹp ghê, anh hén?
+  translation_zh: 四胖婆婆的房子真漂亮，是吧哥哥？
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 疑问
+- 语气词
+- 句式
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 4
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

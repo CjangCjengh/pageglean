@@ -1,0 +1,31 @@
+id: ja-grm-00081
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 「の」＝「が」：连体修饰节中的主格替换
+structure: 「窓の閉まった室内」＝「窓が閉まった室内」（连体修饰节内「の」替代主格助词「が」）
+structure_pattern: Nの + V-連体形(た) + N
+explanation_zh: 在连体修饰节（定语从句）中，助词「の」可以替代主格助词「が」标记主语。动词以连体形（此处为助動詞「た」的连体形「閉まった」）直接修饰后面的名词。这是学校文法中连体修饰节的经典规则，口语中也十分常见。
+examples:
+- text: 窓の閉まった室内で、明らかにエアコンからのモノではない風。
+  reading: ''
+  annot: 窓の閉まった室内で、明らかにエアコンからのモノではない風。
+  translation_zh: 窗户紧闭的室内，吹来的显然是并非来自空调的风。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 助词
+- 连体修饰
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

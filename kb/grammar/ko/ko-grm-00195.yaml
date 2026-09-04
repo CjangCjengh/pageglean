@@ -1,0 +1,39 @@
+id: ko-grm-00195
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: 「-면서도：即使一边……也……」
+structure: 용언 어간 + 동시·대조 연결어미 -면서 + 보조사 도
+structure_pattern: V-면서도
+explanation_zh: 연결어미 '-면서' 表示两个动作或状态同时进行，加上 보조사 '-도' 强调「即使在一边……时也……」，含让步意味。片段「소설을
+  쓰면서도 가끔 막힐 때가 있었다」意为「即使是写小说时也偶尔会卡壳」。此处 '-면서' 带转折对比语气，而非单纯的同时关系。
+examples:
+- text: 소설을 쓰면서도 가끔 막힐 때가 있었다.
+  reading: ''
+  annot: 소설을 쓰면서도 가끔 막힐 때가 있었다.
+  translation_zh: 即使是在写小说的时候，也偶尔会有卡壳的时候。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+- text: 이렇게 갑작스러운 얘기를 들으면서도, 세레나데는 당황한 표정을 짓지 않았다.
+  reading: ''
+  annot: 이렇게 갑작스러운 얘기를 들으면서도, 세레나데는 당황한 표정을 짓지 않았다.
+  translation_zh: 虽然听到如此突如其来的话，塞蕾娜德却没有露出慌张的表情。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 접속
+- 양보·대조
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

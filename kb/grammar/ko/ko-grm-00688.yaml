@@ -1,0 +1,40 @@
+id: ko-grm-00688
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: 「-자 / -자마자：刚一……就……」
+structure: 动词词干 + 连接词尾 -자 / -자마자
+structure_pattern: V + -자; V + -자마자
+explanation_zh: 表示紧接关系的时间连接词尾：前一动作一完成，后一动作随即发生，相当于“刚一……就……”。'-자마자' 强调衔接更为紧密。因含“已然”意义，一般不与过去时制先语末词尾
+  -았/었- 叠用。
+examples:
+- text: 나와 눈이 마주치자 짧게 한숨을 내쉬었다.
+  reading: ''
+  annot: 나와 눈이 마주치자 짧게 한숨을 내쉬었다.
+  translation_zh: 刚一和我四目相对，（她）就轻轻叹了口气。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+- text: 내 입에서 시동어가 떨어지자마자 브룬의 오른팔이 우두둑 소리를 내며 뒤틀렸다.
+  reading: ''
+  annot: 내 입에서 시동어가 떨어지자마자 브룬의 오른팔이 우두둑 소리를 내며 뒤틀렸다.
+  translation_zh: 启动咒语刚一从我口中落下，布仑的右臂便发出咯吱声扭曲起来。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 连接词尾
+- 时间
+- 接续
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

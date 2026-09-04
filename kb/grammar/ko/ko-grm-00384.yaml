@@ -1,0 +1,38 @@
+id: ko-grm-00384
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: 「-(으)ㄹ까：独白中的推测与自问」
+structure: 용언 어간 + 종결 어미 '-(으)ㄹ까(요)'；관형사형 어미 + 의존명사 '것(건)' + '아니다' + '-ㄹ까'
+structure_pattern: V/A-(으)ㄹ까(요)
+explanation_zh: 终结词尾-(으)ㄹ까本表疑问，在独白中用于自问与推测，相当于"会不会……呢"。与否定词结合构成-(으)ㄴ 건 아닐까（건是것의缩略），表示担心的猜测"该不会……吧"。加-요成-ㄹ까요语气更柔和。
+examples:
+- text: 혹시 안에 쓰러져 있는 건 아닐까.
+  reading: ''
+  annot: 혹시 안에 쓰러져 있는 건 아닐까.
+  translation_zh: 该不会是倒在家里了吧。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+- text: 제가 눈물을 흘려서…… 오라버리를 잃은 것에 슬퍼하고 있어서, 동정심을 가진 걸까요.
+  reading: ''
+  annot: 제가 눈물을 흘려서…… 오라버리를 잃은 것에 슬퍼하고 있어서, 동정심을 가진 걸까요.
+  translation_zh: 该不会是因为我流了泪……又为失去兄长而悲伤，才对我起了同情心吧。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 终结词尾
+- 语气
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 5
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

@@ -1,0 +1,40 @@
+id: ko-grm-00583
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: 「-아/어 버리다」与「-고 말다」：彻底完成与无奈结局
+structure: 动词 -아/어形 + 보조동사（补助动词）버리다；动词 -고 + 말다
+structure_pattern: V-아/어 + 버리다 / V-고 + 말다
+explanation_zh: 버리다接在动词-아/어形后作补助动词，表示动作彻底完成，常带惋惜或如释重负的语气。-고 말다同样表示“最终还是……了”，强调无奈或遗憾的结果。片段中던져
+  버리다强调“干脆扔掉”，빠지고 말았다表现“不由得愣住了”。
+examples:
+- text: 그렇게 단숨에 던져 버릴 줄은…….
+  reading: ''
+  annot: 그렇게 단숨에 던져 버릴 줄은…….
+  translation_zh: 没想到你竟一口气就把它给扔了……
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+- text: 조금 얼이 빠지고 말았다.
+  reading: ''
+  annot: 조금 얼이 빠지고 말았다.
+  translation_zh: 我不由得有些失神发懵。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 补助动词
+- 体貌
+- 语气
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

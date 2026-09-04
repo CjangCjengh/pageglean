@@ -1,0 +1,38 @@
+id: ja-grm-00295
+language: ja
+type: grammar
+level: N3
+level_rank: 3
+title: 〜ようとする：正试图做某事
+structure: 動詞未然形＋意志の助動詞「う／よう」終止形＋引用の格助詞「と」＋「する」
+structure_pattern: V-(よ)う + とする
+explanation_zh: 学校文法中「う／よう」是表意志的助動詞，其終止形后接引用格助詞「と」与「する」，构成惯用表达「〜ようとする」，表示“正要做/试图做某事”。片段中用于描写动作即将发生或尝试的瞬间，叙述文中高频出现。
+examples:
+- text: そういう旨の言葉を返そうとした俺の耳に――その言葉が届いてくる。
+  reading: ''
+  annot: そういう旨[むね]の言葉[ことば]を返[かえ]そうとした俺[おれ]の耳[みみ]に――その言葉[ことば]が届[とど]いてくる。
+  translation_zh: 我正想把那个意思的话回出口——那句话就传进了我的耳中。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+- text: 距離をとろうとしたイスカが後ろに跳び、追撃の蹴りは空を切る。
+  reading: ''
+  annot: 距離[きょり]をとろうとしたイスカが後[うし]ろに跳[と]び、追撃[ついげき]の蹴[け]りは空[から]を切[き]る。
+  translation_zh: 想要拉开距离的伊斯卡向后跳开，追击的踢击落了空。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 助動詞
+- 慣用表現
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

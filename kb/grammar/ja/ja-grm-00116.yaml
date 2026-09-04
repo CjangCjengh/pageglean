@@ -1,0 +1,32 @@
+id: ja-grm-00116
+language: ja
+type: grammar
+level: N5
+level_rank: 1
+title: 「〜って」：口语中的引用（＝「と」）
+structure: 引用内容 ＋ って ＋ 言う／结句
+structure_pattern: 引用句 + 「って」（格助詞「と」の口語形・引用）
+explanation_zh: 「って」是格助词「と」的口语形式，用于引用话语或想法，可后接「言う」等动词，也可直接结句。轻小说对话里几乎取代「と」，片段中即用以转述父亲的话。语气随意，正式书面中不宜使用。
+examples:
+- text: ただ昨日の電話で、『良い物があるから明日にでも調べろ』って。
+  reading: ''
+  annot: ただ昨日[きのう]の電話[でんわ]で、『良[よ]い物[もの]があるから明日[あした]にでも調[しら]べろ』って。
+  translation_zh: 只是昨天在电话里，他说『有个好东西，明天你不妨查查』。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 助词
+- 口語
+- 引用
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

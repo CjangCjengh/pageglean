@@ -1,0 +1,31 @@
+id: ja-grm-00474
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 〜しか〜ない：只此唯一、别无他法
+structure: 動詞終止形＋しか＋助動詞「ない」（后项必为否定）
+structure_pattern: V-終止形 + しか + 助動詞「ない」
+explanation_zh: 助詞「しか」表示限定，其后必须接否定形式，语气比「だけ」更强调“除……之外没有别的选择”。「あきらめるしかない」即“只能放弃、别无他法”。口语中常加「んだ」以带出自我说服的语气。
+examples:
+- text: だから、あきらめるしかないんだ。
+  reading: ''
+  annot: だから、あきらめるしかないんだ。
+  translation_zh: 所以，我只能放弃。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 助词
+- 限定
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

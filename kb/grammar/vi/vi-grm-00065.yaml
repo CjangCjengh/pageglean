@@ -1,0 +1,39 @@
+id: vi-grm-00065
+language: vi
+type: grammar
+level: L2
+level_rank: 2
+title: 助词 thì：标记话题—评述结构
+structure: 话题成分 + thì + 评述/态度
+structure_pattern: 话题 + thì + 评述
+explanation_zh: thì 把前置成分立为话题，后接说话人的判断或态度，是越南语典型的话题化标记。“Dây thun thì kệ mày”意为“至于橡皮筋嘛，随你”。它也可连接先后相承的分句，如“Biết
+  rồi thì chạy đi”（知道了那就快去）。
+examples:
+- text: Dây thun thì kệ mày! Tao không chơi nhảy dây nữa đâu!
+  reading: ''
+  annot: Dây thun thì kệ mày! Tao không chơi nhảy dây nữa đâu!
+  translation_zh: 橡皮筋嘛，随你！反正我是不玩跳绳了！
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+- text: Biết rồi thì chạy đi nhặt nữa đi!
+  reading: ''
+  annot: Biết rồi thì chạy đi nhặt nữa đi!
+  translation_zh: 知道了那就快去再捡一些来！
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 话题化
+- 虚词
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

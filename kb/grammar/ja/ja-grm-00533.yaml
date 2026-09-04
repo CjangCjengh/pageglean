@@ -1,0 +1,38 @@
+id: ja-grm-00533
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 「〜てしまう」：完成与遗憾
+structure: 動詞連用形＋接続助詞「て」＋補助動詞「しまう」
+structure_pattern: V連用形 + て + しまう(補助動詞)
+explanation_zh: 学校文法将「てしまう」分析为动词连用形接续助词「て」再加补助动词「しまう」。表示动作完成或既成事实，常带有遗憾、后悔的语气。片段反复以「〜てしまった」表达无法挽回的丧失，是典型的“遗憾”用法。
+examples:
+- text: 泣いてしまってもいい。悲しくてもいい。
+  reading: ''
+  annot: 泣[な]いてしまってもいい。悲[かな]しくてもいい。
+  translation_zh: 哭出来也没关系。悲伤也没关系。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+- text: 永遠に会えない少女に、俺は恋をしてしまったんだ。
+  reading: ''
+  annot: 永遠[えいえん]に会[あ]えない少女[しょうじょ]に、俺[おれ]は恋[こい]をしてしまったんだ。
+  translation_zh: 我竟然爱上了一个永远无法再见的少女。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 体貌
+- 语气
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 4
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

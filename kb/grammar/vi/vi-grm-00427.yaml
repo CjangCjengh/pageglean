@@ -1,0 +1,38 @@
+id: vi-grm-00427
+language: vi
+type: grammar
+level: L1
+level_rank: 1
+title: như／hệt như：比喻结构「像……」
+structure: A + (hệt / y / giống) như + B
+structure_pattern: X + như + Y
+explanation_zh: 关系词 như 相当于汉语「像、如同」，连接本体与喻体。加强形式 hệt như、y như、giống như 强调「一模一样、宛如」。描写与叙述中均可使用。
+examples:
+- text: Tôi cũng ngẩn ngơ như cánh bướm kia
+  reading: ''
+  annot: Tôi cũng ngẩn ngơ như cánh bướm kia
+  translation_zh: 我也像那只蝴蝶一样，恍惚出神。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+- text: cứ sợ nó tan đi như một giấc mơ
+  reading: ''
+  annot: cứ sợ nó tan đi như một giấc mơ
+  translation_zh: 总怕它会像一场梦似的消散。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 比喻
+- 虚词
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 0
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

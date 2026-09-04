@@ -1,0 +1,31 @@
+id: ja-grm-00420
+language: ja
+type: grammar
+level: N3
+level_rank: 3
+title: 「〜たびに：每当〜就……」
+structure: 名詞・動詞の連体形＋形式名詞「たび（度）」＋格助詞「に」
+structure_pattern: N / V-連体形 + たびに
+explanation_zh: 形式名词「たび（度）」加格助词「に」，前接动词连体形或名词，表示「每逢……必定……」的反复关系。常用形式「そのたびに」承接上文情境，意为「每遇到那种情况」。中文译为「每次……都……」。
+examples:
+- text: そのたびにクラスの温度が上昇しつつあるのに疲れ果てたけどな。
+  reading: ''
+  annot: そのたびにクラスの温度[おんど]が上昇[じょうしょう]しつつあるのに疲[つか]れ果[は]てたけどな。
+  translation_zh: 每遇到一次那样的事，班里的气氛就会升一次温，搞得我疲惫不堪。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 形式名词
+- 反复
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

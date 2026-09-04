@@ -1,0 +1,31 @@
+id: ja-grm-00469
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 〜かもしれない：不肯定的推测（口语缩约「かも」）
+structure: 用言终止形（普通形）＋「かもしれない」（口语缩约为「かも」）
+structure_pattern: 普通形 + かもしれない / かも
+explanation_zh: 「かもしれない」表示把握不大的推测，意为说不定、也许；口语中常省去「しれない」只说「かも」。常与副词「もしかしたら」呼应，表达说话人的种种猜想。语气比「だろう」更不确定，是日常会话与内心独白的高频形式。
+examples:
+- text: もしかしたらえっちなサイトが出てくるかも──。
+  reading: ''
+  annot: もしかしたらえっちなサイトが出[で]てくるかも──。
+  translation_zh: 说不定会蹦出什么色色的网站来——。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 语气
+- 口语
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

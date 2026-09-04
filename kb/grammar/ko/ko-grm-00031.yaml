@@ -1,0 +1,33 @@
+id: ko-grm-00031
+language: ko
+type: grammar
+level: TOPIK5
+level_rank: 5
+title: -지 않을 수 있겠는가：双重否定的反问
+structure: 谓词 + -지 않을 수 있겠는가（双重否定 + 先词尾 -겠- + 疑问形终结词尾）
+structure_pattern: V-지 않다 + -(으)ㄹ 수 있겠는가? (선어말어미 '-겠-' + 의문형 종결어미 '-는가')
+explanation_zh: 否定 -지 않다 与表示可能的 -(으)ㄹ 수 있다 结合成双重否定，强调“不能不……”的必然性；再以疑问形终结词尾构成反问，语气比直陈更强烈。先词尾
+  -겠- 增添断定语气，是独白中常见的修辞性表达。
+examples:
+- text: 이 상황에서 흥분하지 않을 수 있겠는가?
+  reading: ''
+  annot: 이 상황에서 흥분하지 않을 수 있겠는가?
+  translation_zh: 在这种情况下，又怎么可能不兴奋呢？
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 否定
+- 反问
+- 语气
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

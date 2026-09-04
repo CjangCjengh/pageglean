@@ -1,0 +1,32 @@
+id: ko-grm-00517
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: -고 나다：动作完成之后
+structure: 动词词干 + 连接词尾 -고 + 补助用言 나다
+structure_pattern: 동사 어간 + -고 나다
+explanation_zh: -고 나다 表示前一动作完结，常强调完成之后出现的结果或变化，后句多为新状况或转折。口语中也常用其变形 -고 나서。
+examples:
+- text: 같은 장면을 보고 나서도 세 명이 이렇게까지 의견이 제각각이라니.
+  reading: ''
+  annot: 같은 장면을 보고 나서도 세 명이 이렇게까지 의견이 제각각이라니.
+  translation_zh: 明明看了同一个场面，三个人的意见竟然如此各不相同。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 连接结构
+- 完成
+- 补助用言
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

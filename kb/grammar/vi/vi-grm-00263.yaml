@@ -1,0 +1,32 @@
+id: vi-grm-00263
+language: vi
+type: grammar
+level: L1
+level_rank: 1
+title: đã：已经——完成/已然副词
+structure: 主语 + đã + 动词（副词 phó từ 标记已然）
+structure_pattern: S + đã + V
+explanation_zh: 「đã」是表示动作已经发生或完成的副词（phó từ），相当于汉语“已经……了”。越南语动词不变形，靠 đã/đang/sẽ 等虚词表达时体。句中有明确时间词或语境时，「đã」可省略。
+examples:
+- text: Đúng lúc đó, điều tôi lo lắng đã xảy ra.
+  reading: ''
+  annot: Đúng lúc đó, điều tôi lo lắng đã xảy ra.
+  translation_zh: 就在那时，我担心的事发生了。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 体貌
+- 时态
+- 副词
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

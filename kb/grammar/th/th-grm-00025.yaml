@@ -1,0 +1,31 @@
+id: th-grm-00025
+language: th
+type: grammar
+level: L4
+level_rank: 4
+title: การที่+小句：名词化「……这件事」
+structure: การ（名词化前缀，构成คำนาม）+ ที่（引导อนุประโยค）+ ประโยค，整体充当บทประธาน（主语）
+structure_pattern: การ + ที่ + ประโยค → คำนาม/บทประธาน
+explanation_zh: การ加在动词前可构成คำนาม（名词）；การที่进一步引导完整小句，把整件事打包成名词短语，常作บทประธาน（主语），后接评论性主句。如การที่ผมไปรั้งเธอไว้＝“我去挽留她这件事”。该结构偏书面语，口语中常直接以小句作主语。
+examples:
+- text: การ​ที่​ผม​ไป​รั้ง​เธอ​ไว้​มัน​จะ​ยิ่ง​ทำให้​เรา​สอง​คน​มอง​หน้า​กัน​ไม่ติด​เสียมาก​กว่า
+  reading: ''
+  annot: การ​ที่​ผม​ไป​รั้ง​เธอ​ไว้​มัน​จะ​ยิ่ง​ทำให้​เรา​สอง​คน​มอง​หน้า​กัน​ไม่ติด​เสียมาก​กว่า
+  translation_zh: 我去挽留她这件事，反而更会让我们俩尴尬得无法面对彼此。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 名词化
+- 句法结构
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

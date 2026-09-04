@@ -1,0 +1,39 @@
+id: ko-grm-00603
+language: ko
+type: grammar
+level: TOPIK2
+level_rank: 2
+title: 「-는데：背景铺垫与话外之音」
+structure: 用言词干 + 终结词尾 -는데（形容词·体言+이다 用 -ㄴ데）
+structure_pattern: V-는데 / A-ㄴ데 / N-ㄴ데
+explanation_zh: 连接词尾 -는데 用作终结词尾，先交代背景或已知事实，暗示与之相反的内容、提出异议或催促对方回应。语气委婉含蓄，留有言外之意，相当于中文“……不过／……啊”。
+examples:
+- text: 그런 얘기를 듣고 싶은 게 아닌데.
+  reading: ''
+  annot: 그런 얘기를 듣고 싶은 게 아닌데.
+  translation_zh: 我可不是想听那种话啊。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+- text: 아무도 악마 때문에 불행하지 않은데.
+  reading: ''
+  annot: 아무도 악마 때문에 불행하지 않은데.
+  translation_zh: 可并没有人因为恶魔而不幸啊。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 终结词尾
+- 语气
+- 口语
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 5
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

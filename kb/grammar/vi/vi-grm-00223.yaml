@@ -1,0 +1,32 @@
+id: vi-grm-00223
+language: vi
+type: grammar
+level: L3
+level_rank: 3
+title: bị 被动句：不如意语气的被动
+structure: bị + 施事者 + 动词
+structure_pattern: bị + N（施事） + V
+explanation_zh: bị 引出不利或不如意的被动关系，相当于汉语「被」，施事者紧跟在 bị 之后；与表示获益的 được 相对。片段中「bị Tiểu
+  Li bắt gặp」即偷看时「被小梨撞见」。
+examples:
+- text: Đang nhìn trộm bị Tiểu Li bắt gặp, tôi thấy quê quê, tính bỏ vô nhà.
+  reading: ''
+  annot: Đang nhìn trộm bị Tiểu Li bắt gặp, tôi thấy quê quê, tính bỏ vô nhà.
+  translation_zh: 正在偷看却被小梨撞见，我觉得有点难为情，打算回屋去。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 被动
+- 语态
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

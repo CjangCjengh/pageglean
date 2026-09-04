@@ -1,0 +1,38 @@
+id: ko-grm-00452
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: -(느)ㄴ다는 듯：宛如……似的
+structure: 动词 + -는 듯 / -(느)ㄴ다는 듯
+structure_pattern: 관형사형 어미 -(느)ㄴ/는 + 의존명사 듯
+explanation_zh: 依存名词 듯 表比喻、推测，前面用定语形（관형사형）修饰。-는 듯 表示“像是在做……”，-(느)ㄴ다는 듯 更带一层“仿佛在说/在表示……”的引用意味，用于描摹神态、氛围。片段中作状语修饰动词。
+examples:
+- text: 브룬은 나에게서 떨어지지 않겠다는 듯 내 다리에 더 엉겨 붙어 왔다.
+  reading: ''
+  annot: 브룬은 나에게서 떨어지지 않겠다는 듯 내 다리에 더 엉겨 붙어 왔다.
+  translation_zh: 布鲁恩一副绝不肯从我身边离开的样子，更紧地黏到了我腿上。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+- text: 요나가 귀찮은 일이 하나 더 늘었다는 듯, 어딘가 뚱한 표정으로 말했다.
+  reading: ''
+  annot: 요나가 귀찮은 일이 하나 더 늘었다는 듯, 어딘가 뚱한 표정으로 말했다.
+  translation_zh: 约娜仿佛在说又多了件烦心事似的，带着几分绷着脸的表情说道。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 依存名词
+- 比喻/推测
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 4
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

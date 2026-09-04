@@ -1,0 +1,32 @@
+id: vi-grm-00282
+language: vi
+type: grammar
+level: L3
+level_rank: 3
+title: Mặc dù…vẫn…：让步转折
+structure: Mặc dù + 分句（mệnh đề nhượng bộ 让步），S + vẫn + V
+structure_pattern: Mặc dù + mệnh đề, S + vẫn + V
+explanation_zh: 「Mặc dù」引出让步分句，主句用副词「vẫn」呼应，表示情况依然不变，相当于中文「虽然……还是……」。属让步关系复句（câu ghép
+  nhượng bộ）。
+examples:
+- text: Mặc dù nói vậy, tôi vẫn cảm thấy khoai khoái.
+  reading: ''
+  annot: Mặc dù nói vậy, tôi vẫn cảm thấy khoai khoái.
+  translation_zh: 虽然嘴上这么说，我心里还是觉得美滋滋的。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 连词
+- 让步
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

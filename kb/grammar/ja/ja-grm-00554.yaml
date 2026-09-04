@@ -1,0 +1,31 @@
+id: ja-grm-00554
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 「〜ちまう（〜てしまう）：完成与遗憾」
+structure: 动词连用形 + 接续助词「て」 + 补助动词「しまう」的口语音便「ちまう」
+structure_pattern: V-て + しまう → ちまう
+explanation_zh: 「てしまう」在口语中缩约为「ちまう／ちゃう」，表示动作完成或带遗憾、无可奈何的语气。「死んじまった」即「死んでしまった」，语感更粗俗随意。男性口语中高频出现。
+examples:
+- text: 雨の中、横断歩道に飛びだしてそのままタクシーに轢かれて死んじまったさ！
+  reading: ''
+  annot: 雨[あめ]の中[なか]、横断歩道[おうだんほどう]に飛[と]びだしてそのままタクシーに轢[ひ]かれて死[し]んじまったさ！
+  translation_zh: （他）在雨中冲上斑马线，就这样被出租车撞死了！
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 体貌/完成
+- 口语缩约
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

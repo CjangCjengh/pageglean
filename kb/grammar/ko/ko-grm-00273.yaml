@@ -1,0 +1,31 @@
+id: ko-grm-00273
+language: ko
+type: grammar
+level: TOPIK2
+level_rank: 2
+title: -고 있다：进行与状态持续
+structure: 动词词干 + -고 있다（연결어미 -고 + 보조동사 '있다'）
+structure_pattern: 동사 어간 + 연결어미 -고 + 보조동사 '있다'（진행·결과 상태 지속）
+explanation_zh: 连接词尾 -고 后接补助动词 있다，表示动作正在进行或结果状态的持续，相当于中文的“正在……”“……着”。片段中“꿰뚫고 있었다”强调刀刃刺入后持续保持的状态，是战斗场面描写的骨架结构。
+examples:
+- text: 땅에서 솟아나온 검은색 칼날이, 알테아의 다리를 꿰뚫고 있었다.
+  reading: ''
+  annot: 땅에서 솟아나온 검은색 칼날이, 알테아의 다리를 꿰뚫고 있었다.
+  translation_zh: 从地面破土而出的黑色刀刃，正贯穿着阿尔忒亚的腿。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 时制/体貌
+- 补助动词
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 4
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

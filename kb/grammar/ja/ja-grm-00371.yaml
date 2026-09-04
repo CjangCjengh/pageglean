@@ -1,0 +1,31 @@
+id: ja-grm-00371
+language: ja
+type: grammar
+level: N3
+level_rank: 3
+title: ことから：从……来看／由于……
+structure: 用言連体形（或体言）＋形式名词「こと」＋助詞「から」
+structure_pattern: 用言連体形 + ことから
+explanation_zh: 接用言连体形后，表示判断的依据或原因，可译为"从……来看""由于……"。语气较为客观，多用于叙述说明。句中「ため息がエンドレスなことから」即"从那没完没了的叹气（就能察觉）"。
+examples:
+- text: ため息がエンドレスなことからなんとなく察していただけるかと思うが、ただ今現在、俺と夢前光の共同生活はミラクルド派手に遭難中である。
+  reading: ''
+  annot: ため息[いき]がエンドレスなことからなんとなく察[さっ]していただけるかと思[おも]うが、ただ今現在[げんざい]、俺[おれ]と夢前光[ゆめさきひかり]の共同生活[きょうどうせいかつ]はミラクルド派手[はで]に遭難中[そうなんちゆう]である。
+  translation_zh: 光从那没完没了的叹气，大家大概也能察觉到了吧——眼下我和梦前光的共同生活正以奇迹般的夸张程度处于"遇难"之中。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 形式名词
+- 原因·根据
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

@@ -1,0 +1,39 @@
+id: ko-grm-00718
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: 「-면서(도)：同时进行、让步与反驳」
+structure: 用言词干 + 连接词尾 -면서 (+ 补助词 도)
+structure_pattern: V/A + -면서(도)
+explanation_zh: 连接词尾 -면서 基本义为动作同时进行（「一边……一边」）。加补助词 도 转为让步，意为「虽然……却」；在疑问句中则用于反驳、指责对方行为与情理不符。三种用法需依上下文辨别，本片段三种用法均有出现。
+examples:
+- text: 대체 남의 호위를 데리고 돌아다니면서 무슨 짓을 하고 있는 거죠?!
+  reading: ''
+  annot: 대체 남의 호위를 데리고 돌아다니면서 무슨 짓을 하고 있는 거죠?!
+  translation_zh: 你带着人家的护卫到处乱跑，到底在干什么啊？！（反驳用法）
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+- text: 벨라는 그 집착이나 소유욕을 어느 정도 납득하면서도, 그런 것치고는 그것을 '개'라고 부르는 이유만큼은 아직도 의아했다.
+  reading: ''
+  annot: '벨라는 그 집착이나 소유욕을 어느 정도 납득하면서도, 그런 '
+  translation_zh: 贝拉对那种执着和占有欲多少还能理解，但即便如此，她至今仍想不通为何偏要管它叫『狗』。（让步用法）
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 연결어미
+- 동시동작
+- 반박·양보
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

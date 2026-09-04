@@ -1,0 +1,32 @@
+id: ko-grm-00548
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: 「只要……」：条件限定 -(으)ㄴ 한
+structure: 관형사형 전성어미 '-(으)ㄴ' + 의존명사 '한'（表示“在……的限度内”）
+structure_pattern: V-(으)ㄴ 한
+explanation_zh: -(으)ㄴ 한 由冠形词形词尾 -(으)ㄴ 和表示限度的依存名词 한 构成，意为“只要……、在……期间/范围内”。文中“이 동전을
+  가지고 있는 한”即“只要还拿着这枚硬币”，为后文“天下无敌”的断言设定条件。
+examples:
+- text: 이 동전을 가지고 있는 한…… 난 이 도시에서 천하무적이라는 것을……!
+  reading: ''
+  annot: 이 동전을 가지고 있는 한…… 난 이 도시에서 천하무적이라는 것을……!
+  translation_zh: 只要拿着这枚硬币……我在这座城市里就是天下无敌的……！
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 条件
+- 依存名词
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

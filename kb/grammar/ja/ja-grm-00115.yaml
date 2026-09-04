@@ -1,0 +1,31 @@
+id: ja-grm-00115
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 「〜ながら」：一边……一边……
+structure: 动词连用形 ＋ ながら
+structure_pattern: V-連用形 + 接続助詞「ながら」（同時進行）
+explanation_zh: 接续助词「ながら」接动词连用形，表示两个动作同时进行，语义重心在后项。叙述中常以「考えながら〜」等形式描写伴随状态。片段两处均用以刻画主角边想边行动的场景。
+examples:
+- text: イヤな予感を覚えながら、人形の上半分を持ち上げると……果たして予想どおり、中から一回り小さいが同じ姿の人形が。
+  reading: ''
+  annot: イヤな予感[よかん]を覚[おぼ]えながら、人形[にんぎょう]の上[うえ]半分[はんぶん]を持[も]ち上[あ]げると……果[は]たして予想[よそう]どおり、中[なか]から一回[ひとまわ]り小[ちい]さいが同[おな]じ姿[すがた]の人形[にんぎょう]が。
+  translation_zh: 我心怀不祥的预感掀起人偶的上半身——果然不出所料，里面还有一个小一圈但模样相同的人偶。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 接续
+- 同時進行
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

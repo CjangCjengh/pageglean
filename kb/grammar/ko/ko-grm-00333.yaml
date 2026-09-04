@@ -1,0 +1,40 @@
+id: ko-grm-00333
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: -면서：同时、列举与转折
+structure: 用言词干 + 连接词尾 -면서
+structure_pattern: V/A + -면서
+explanation_zh: 连接词尾'-면서'接在用言词干后，主要有同时、列举、转折三种用法。本段'개조하면서…만들어 놓으면서'为列举同时并行的状况，'황족도
+  아니면서…오른다'则表转折，相当于'明明……却……'。阅读时需依据上下文区分是同时还是转折。
+examples:
+- text: 부모님이 나를 개조하면서, 에른베스크 가문의 의무라면서, 나를 엉망진창으로 만들어 놓으면서,
+  reading: ''
+  annot: 부모님이 나를 개조하면서, 에른베스크 가문의 의무라면서, 나를 엉망진창으로 만들어 놓으면서,
+  translation_zh: 父母一边改造我，一边说是厄恩贝斯克家族的义务，把我搞得乱七八糟，
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+- text: 하지만 황족도 아니면서 새로운 황제 자리에 오른다는 건 사람들에게는 여전히 거부감을 느끼게 하는 일이었다.
+  reading: ''
+  annot: 하지만 황족도 아니면서 새로운 황제 자리에 오른다는 건 사람들에게는 여전히 거부감을 느끼게 하는 일이었다.
+  translation_zh: 但明明不是皇族却要登上新皇之位，这对人们来说仍是令人抗拒的事。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 连接词尾
+- 同时
+- 转折
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 5
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

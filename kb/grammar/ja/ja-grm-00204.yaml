@@ -1,0 +1,31 @@
+id: ja-grm-00204
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 〜ておく（口语缩略〜とく）：事先做好准备
+structure: 动词连用形＋接续助词「て」＋动词「おく」（口语缩略为「とく」）
+structure_pattern: V-連用形 + ておく→とく
+explanation_zh: 「て」后接动词「おく」，表示为将来的目的事先做完某事。口语中「ておく」缩略为「とく」，「でおく」缩略为「どく」。「用意進めとく」即「用意を進めておく」。类似的缩略还有「〜ている→〜てる」。
+examples:
+- text: 「じゃ、とりあえず先に用意進めとく」
+  reading: ''
+  annot: 「じゃ、とりあえず先[さき]に用意[ようい]進[すす]めとく」
+  translation_zh: 那我先把准备工作推进起来。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 体貌
+- 口语
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

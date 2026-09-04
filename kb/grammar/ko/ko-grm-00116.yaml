@@ -1,0 +1,39 @@
+id: ko-grm-00116
+language: ko
+type: grammar
+level: TOPIK2
+level_rank: 2
+title: -(으)ㄴ/는 것 같다：好像……
+structure: 동사 -는 / 형용사·과거 -(으)ㄴ(관형사형 전성어미/冠形形转成词尾) + 의존명사(依存名词) 것 + 형용사 같다
+structure_pattern: V-는 것 같다 / A-(으)ㄴ 것 같다
+explanation_zh: 冠形形转成词尾（动词 -는、形容词及过去时 -(으)ㄴ）修饰依存名词“것”，再接形容词“같다”，表示委婉的推测，相当于“好像……”。片段中用于判断对方心理（관심이
+  있는 것 같았다）和评价状况（지나친 것 같았다）。是韩语最常用的推测表达之一。
+examples:
+- text: 마이시아는 이곳에 있는 아티팩트 자체보다는 내가 뭘 고르는지에 더 관심이 있는 것 같았다.
+  reading: ''
+  annot: 마이시아는 이곳에 있는 아티팩트 자체보다는 내가 뭘 고르는지에 더 관심이 있는 것 같았다.
+  translation_zh: 比起这里的神器本身，玛伊西亚似乎更关心我挑选的是什么。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+- text: ……너무 지나친 것 같았지만, 틸프가 만족하고 있는 것 같으니 그냥 넘어가자.
+  reading: ''
+  annot: ……너무 지나친 것 같았지만, 틸프가 만족하고 있는 것 같으니 그냥 넘어가자.
+  translation_zh: 虽然好像有点太夸张了，但蒂尔夫似乎挺满意的，就这么算了吧。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 推量
+- 依存名词
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 4
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

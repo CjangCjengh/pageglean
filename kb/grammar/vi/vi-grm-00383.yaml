@@ -1,0 +1,32 @@
+id: vi-grm-00383
+language: vi
+type: grammar
+level: L3
+level_rank: 3
+title: 「ngoài…ra」：除了……以外
+structure: 关系词 ngoài + 名词短语 + ra（表范围的状语）
+structure_pattern: quan hệ từ 'ngoài…ra' + cụm danh từ — trạng ngữ chỉ phạm vi
+explanation_zh: 「ngoài…ra」表示「除了……以外」，引出范围状语，常与「chẳng có gì／không còn gì」等搭配表示排他。例句中与「làm
+  như」（好像）连用，构成「好像除了……就没有别的了」的比喻式推断。
+examples:
+- text: làm như ngoài cái bảng ra, trong lớp chẳng có cái gì đáng nhìn
+  reading: ''
+  annot: làm như ngoài cái bảng ra, trong lớp chẳng có cái gì đáng nhìn
+  translation_zh: 好像除了那块黑板，教室里就没有什么值得看的东西似的。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 范围
+- 状语
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

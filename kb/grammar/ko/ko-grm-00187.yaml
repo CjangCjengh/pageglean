@@ -1,0 +1,40 @@
+id: ko-grm-00187
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: -(느)ㄴ다면：假定「如果说……的话」
+structure: 谓词冠形词形 -(느)ㄴ다 + 条件连接词尾 -면
+structure_pattern: V/A + -(느)ㄴ다면 (관형사형 어미 + 조건 연결어미, 인용 조건)
+explanation_zh: -(느)ㄴ다是冠形词形（定语形）词尾，与条件连接词尾-면结合构成带有间接引用含义的条件式，意为“如果说（是那样的话）”。片段中的그렇다면是그렇다고
+  한다면的缩略，意为“既然如此”，是对话中承上启下的惯用表达。
+examples:
+- text: 그렇다면 오해를 풀어야겠군요.
+  reading: ''
+  annot: 그렇다면 오해를 풀어야겠군요.
+  translation_zh: 那样的话，就必须解开误会了。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+- text: 주인님, 그렇다면…… 어떻게 하실 생각이신지요?
+  reading: ''
+  annot: 주인님, 그렇다면…… 어떻게 하실 생각이신지요?
+  translation_zh: 主人，既然如此……您打算怎么办呢？
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 연결어미
+- 조건
+- 인용
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

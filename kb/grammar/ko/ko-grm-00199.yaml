@@ -1,0 +1,40 @@
+id: ko-grm-00199
+language: ko
+type: grammar
+level: TOPIK2
+level_rank: 2
+title: 「-(으)ㄹ게：我会……的（许诺）」
+structure: 动词词干 + -(으)ㄹ게（종결어미）
+structure_pattern: V-(으)ㄹ게 (종결어미)
+explanation_zh: -(으)ㄹ게 是终结词尾（종결어미），说话人当场向听话人许诺或宣告自己将做某事，相当于「我会……的」，主语限于第一人称。文中「용서해
+  줄게」「차지할게」都是克劳当场作出的承诺。语气随意，多用于口语对话而非书面语。
+examples:
+- text: 용서해 줄게.
+  reading: ''
+  annot: 용서해 줄게.
+  translation_zh: 我会原谅你的。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+- text: 네 미궁은 그냥 내가 차지할게.
+  reading: ''
+  annot: 네 미궁은 그냥 내가 차지할게.
+  translation_zh: 你的迷宫，我就直接占下了。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 终结词尾
+- 许诺
+- 口语
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

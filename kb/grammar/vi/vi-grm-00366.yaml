@@ -1,0 +1,40 @@
+id: vi-grm-00366
+language: vi
+type: grammar
+level: L1
+level_rank: 1
+title: 分类词：viên、cái、cục、con、cọng
+structure: 数词/数量词 + 分类词 + 名词（如 viên bi / cái bóng / cục đá / con lừa / cọng râu）
+structure_pattern: Num/Quant + CL + N
+explanation_zh: 越南语与汉语一样，数词或数量词修饰名词时须加分类词（量词），按事物的形状、类别选择。本片段可见：viên 用于小而圆的颗粒（viên
+  bi 弹珠），cái 用于一般无生命物（cái bóng 影子），cục 用于块状物（cục đá 石头），con 用于动物（con lừa 驴），cọng 用于细长条状物（cọng
+  râu 胡须）。
+examples:
+- text: Đụng phải viên bi, tôi lấy ra cho Tiểu Li
+  reading: ''
+  annot: Đụng phải viên bi, tôi lấy ra cho Tiểu Li
+  translation_zh: （手）碰到一颗弹珠，我掏出来递给小莉。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+- text: Có mấy cọng râu lún phún mà sờ hoài!
+  reading: ''
+  annot: Có mấy cọng râu lún phún mà sờ hoài!
+  translation_zh: 就那么几根稀稀拉拉的胡子，还老是摸个不停！
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 分类词
+- 名词短语
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 8
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

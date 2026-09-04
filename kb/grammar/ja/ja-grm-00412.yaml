@@ -1,0 +1,38 @@
+id: ja-grm-00412
+language: ja
+type: grammar
+level: N3
+level_rank: 3
+title: 〜わけにはいかない：不能、无法
+structure: 动词终止形 + わけにはいかない（口语：いかねー）
+structure_pattern: V-終止形 + わけにはいかない
+explanation_zh: 形式名词わけ（道理）＋には＋いかない，字面「不能成立那样的道理」，表示虽然想做但碍于情理、场合而不能做。口语中いかない说成いかねー。与单纯否定不同，强调心理上或处境上的不可行。
+examples:
+- text: ここでバレるわけにはいかねーんだよ。
+  reading: ''
+  annot: ここでバレるわけにはいかねーんだよ。
+  translation_zh: 在这里绝不能暴露（真实身份）啊。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+- text: だけど、ただで死ぬわけにはいかない。
+  reading: ''
+  annot: だけど、ただで死[し]ぬわけにはいかない。
+  translation_zh: 但是，我不能就这么白白去死。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 形式名词
+- 语气
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

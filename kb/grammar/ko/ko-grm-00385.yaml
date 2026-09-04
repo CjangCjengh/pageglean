@@ -1,0 +1,31 @@
+id: ko-grm-00385
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: 「-고 나서야：……之后才……」
+structure: 동사 어간 + 연결 어미 '-고' + 동사 '나다'의 연결형 '나서' + 강조 보조사 '야'
+structure_pattern: V-고 나서야
+explanation_zh: 动词词干后接连接词尾-고，再接动词나다的连接形나서，表示前一动作完成之后；后面追加强调助词야，强调"直到……之后才……"。后续分句多为意识到、发现或醒悟的内容。
+examples:
+- text: 세레나데는 그 얼굴을 확인하고 나서야 그와 함께 밤을 보냈다는 걸 생각해 냈다.
+  reading: ''
+  annot: 세레나데는 그 얼굴을 확인하고 나서야 그와 함께 밤을 보냈다는 걸 생각해 냈다.
+  translation_zh: 塞拉娜德直到看清那张脸，才想起自己与他共度了一夜。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 接续
+- 时相
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

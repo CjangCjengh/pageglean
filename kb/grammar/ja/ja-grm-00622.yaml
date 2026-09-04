@@ -1,0 +1,31 @@
+id: ja-grm-00622
+language: ja
+type: grammar
+level: N1
+level_rank: 5
+title: 〜と言っても過言ではない：说〜也不为过
+structure: 〜と言っても＋過言ではない
+structure_pattern: Clause + と言っても + 過言ではない
+explanation_zh: 惯用句式，意为“即使说〜也算不上过分的话”，即“说〜也不为过”，用于强烈肯定后项评价。「言っても」是「言う」的连用形接续助词「ても」构成的让步性引用。多用于书面语与正式致辞。
+examples:
+- text: おかげで最後まであきらめずに書き上げることができたと言っても過言ではありません。
+  reading: ''
+  annot: おかげで最後[さいご]まであきらめずに書[か]き上[あ]げることができたと言っても過言[かごん]ではありません。
+  translation_zh: 说多亏了这些我才能坚持到最后不放弃、把作品写完，也毫不为过。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 惯用句
+- 语气
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

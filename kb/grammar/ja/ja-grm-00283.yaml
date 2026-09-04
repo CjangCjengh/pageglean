@@ -1,0 +1,31 @@
+id: ja-grm-00283
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 〜てしまう：完成与遗憾（口语常用）
+structure: 动词连用形 + て + しまう（补助动词）
+structure_pattern: V連用形 + 接続助詞「て」 + 補助動詞「しまう」
+explanation_zh: 「てしまう」接在动词连用形后，表示动作完成或产生不希望的结果，常带遗憾、无奈的语气。中文可译为“（不小心）……了”“结果竟……”。此处表示费尔会“忍不住冲出来”，暗示并非说话者所愿。
+examples:
+- text: 私が不利になれば飛び出してきてしまうでしょうから
+  reading: ''
+  annot: 私[わたし]が不利[ふり]になれば飛[と]び出[だ]してきてしまうでしょうから
+  translation_zh: 一旦我处于劣势，费尔恐怕就会忍不住冲出来。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 体貌
+- 语气
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 0
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

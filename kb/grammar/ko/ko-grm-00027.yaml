@@ -1,0 +1,39 @@
+id: ko-grm-00027
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: -도록：表示目的
+structure: 谓词词干 + -도록（副词形转成词尾，表目的）
+structure_pattern: V/A- + 부사형 전성어미 '-도'
+explanation_zh: 副词形转成词尾 -도록 表示后行动作的目的，相当于“为了……”，后句多接意志、命令等内容。比 -게 更正式，书面语色彩更浓。片段中在蕾娜恭敬的台词里反复出现，衬托其恭顺的态度。
+examples:
+- text: 아즐란 님께서 기뻐하실 수 있도록 최선을 다할 생각이니, 부디 관대히 여겨 주셨으면 좋겠습니다.
+  reading: ''
+  annot: 아즐란 님께서 기뻐하실 수 있도록 최선을 다할 생각이니, 부디 관대히 여겨 주셨으면 좋겠습니다.
+  translation_zh: 为了能令亚兹兰大人高兴，我打算全力以赴，恳请您宽宏大量地包涵。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+- text: 아즐란 님을 실망시키는 일이 없도록 철저히 교육을 받았습니다.
+  reading: ''
+  annot: 아즐란 님을 실망시키는 일이 없도록 철저히 교육을 받았습니다.
+  translation_zh: 为了不让亚兹兰大人失望，我已经彻底地接受了教导。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 目的
+- 连接词尾
+- 副词形词尾
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

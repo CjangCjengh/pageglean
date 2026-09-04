@@ -1,0 +1,38 @@
+id: ja-grm-00350
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 「〜てしまう」：完成与遗憾（口语缩约「〜ちまう」）
+structure: 动词连用形＋接续助词「て」＋补助动词「しまう」（口語縮約：〜ちまう／〜ちゃう）
+structure_pattern: V-連用形 + て + しまう（補助動詞）
+explanation_zh: 补助动词「しまう」接在动词连用形＋「て」之后，表示动作完成、实现，且常带有“不可挽回、遗憾”的语气。口语中「てしまう」缩约为「ちまう／ちゃう」，文中「なっちまった」即「なってしまった」的俗略形式。相当于中文的“……（掉）了”“竟然……了”。
+examples:
+- text: 自己の精神を守るため、人は悲しみの記憶を封印してしまうことが稀にある。
+  reading: ''
+  annot: 自己[じこ]の精神[せいしん]を守[まも]るため、人[ひと]は悲[かな]しみの記憶[きおく]を封印[ふういん]してしまうことが稀[まれ]にある。
+  translation_zh: 为了保护自己的精神，人有时会把悲伤的记忆封印起来。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+- text: なんで不良になんかなっちまったんだ……
+  reading: ''
+  annot: なんで不良[ふりょう]になんかなっちまったんだ……
+  translation_zh: 我怎么偏偏就成了不良少年啊……
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 体貌
+- 口语
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 5
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

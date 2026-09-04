@@ -1,0 +1,31 @@
+id: th-grm-00005
+language: th
+type: grammar
+level: L2
+level_rank: 2
+title: ให้ + 动词：使令与请求
+structure: ให้ + (กรรม/ผู้รับ) + กริยา (คำกริยาบอกความบังคับ/ขอร้อง)
+structure_pattern: ให้ + (O) + V
+explanation_zh: ให้后接动词时表示使令、请求，相当于“让/叫（某人）做某事”；“ให้+人+动词”还可表示替某人做某事，如片段中“ยก…ขึ้นมาให้ผมดู”（举起来给我看）。此处转述吩咐内容，“ว่าให้เอาเสื้อผ้า…วางไว้”即“说过要把衣服放在……”。
+examples:
+- text: ว่า​ให้​เอา​เสื้อผ้า​ที่​ใส่​แล้ว​วาง​ไว้​ใน​ตะกร้า​นี้
+  reading: ''
+  annot: ว่า​ให้​เอา​เสื้อผ้า​ที่​ใส
+  translation_zh: （我）说过要把穿过的衣服放进这个篮子里。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 使令
+- 请求
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

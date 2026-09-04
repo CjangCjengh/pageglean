@@ -1,0 +1,38 @@
+id: vi-grm-00392
+language: vi
+type: grammar
+level: L2
+level_rank: 2
+title: Trước khi / Sau khi：时间状语从句
+structure: Trước khi / Sau khi + 动词短语（时间状语 trạng ngữ chỉ thời gian），主句
+structure_pattern: Trước khi/Sau khi + VP, S + VP
+explanation_zh: trước khi/sau khi 直接加在动词短语前构成时间状语，相当于中文“在……之前/之后”，动词本身无需任何形态变化。状语置于句首时，主句前用逗号隔开。
+examples:
+- text: Sau khi chửi tôi ngốc, Việt An đứng dậy cáo từ.
+  reading: ''
+  annot: Sau khi chửi tôi ngốc, Việt An đứng dậy cáo từ.
+  translation_zh: 骂完我笨之后，越安起身告辞。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+- text: 'Trước khi ra về, Việt An nhìn thẳng vào mắt tôi, nói:'
+  reading: ''
+  annot: 'Trước khi ra về, Việt An nhìn thẳng vào mắt tôi, nói:'
+  translation_zh: 临走之前，越安直视着我的眼睛说：
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 时间状语
+- 从句
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

@@ -1,0 +1,33 @@
+id: ko-grm-00413
+language: ko
+type: grammar
+level: TOPIK5
+level_rank: 5
+title: 「-다는 듯이：好像……似的」
+structure: 用言 + 관형사형 전성어미 -(으)ㄴ/-는 + 의존명사 듯（+ 조사 이）
+structure_pattern: V/A-(으)ㄴ/는 듯이；인용형 -다는 듯이 = -다고 하는 듯이
+explanation_zh: 의존명사 ‘듯’接在用言的冠形词尾 -(으)ㄴ/-는 后，表示比况「好像……似的」。‘-다는 듯이’是引用形，即「像是在说/觉得……那样」，常描写他人的表情或态度。本句用‘재미있다는
+  듯이 웃었다’刻画对方仿佛觉得有趣而笑的样子。
+examples:
+- text: 재미있다는 듯이 웃어서 뜻밖이었다.
+  reading: ''
+  annot: 재미있다는 듯이 웃어서 뜻밖이었다.
+  translation_zh: （她）像是觉得有趣似的笑了起来，这让我颇感意外。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 比况
+- 依存名词
+- 引用
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

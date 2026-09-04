@@ -1,0 +1,40 @@
+id: vi-grm-00418
+language: vi
+type: grammar
+level: L2
+level_rank: 2
+title: như：比喻结构
+structure: A + như + B（A像B一样）
+structure_pattern: A + như + B
+explanation_zh: như 意为"像、好像"，是越南语构成比喻（so sánh）的核心比较词，可连接名词性短语或动词性短语。文中反复出现，如 nhẹ như
+  gió thoảng（轻如微风）、nghe như sét nổ bên tai（听来如雷贯耳），是文学描写中最常用的明喻标记。
+examples:
+- text: Giọng nói của Việt An nhẹ như gió thoảng nhưng tôi nghe như sét nổ bên tai.
+  reading: ''
+  annot: Giọng nói của Việt An nhẹ như gió thoảng nhưng tôi nghe như sét nổ bên tai.
+  translation_zh: 越安的声音轻得像一阵微风，可我听来却如雷贯耳。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+- text: chúng như lịm đi, nhạt dần và bỗng chốc ngả sang màu tím thẫm
+  reading: ''
+  annot: chúng như lịm đi, nhạt dần và bỗng chốc ngả sang màu tím thẫm
+  translation_zh: 它们仿佛渐渐暗淡下去，颜色慢慢褪去，转瞬间又变成了深紫色
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 比喻
+- 比较
+- 修辞
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 5
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

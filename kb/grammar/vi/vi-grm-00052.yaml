@@ -1,0 +1,38 @@
+id: vi-grm-00052
+language: vi
+type: grammar
+level: L1
+level_rank: 1
+title: 是非问句：「…không?」与「có…hay không?」
+structure: …không?／Có + V + (hay) không?（câu nghi vấn có–không）
+structure_pattern: V + không / có + V + hay không
+explanation_zh: 越南语是非问句（câu nghi vấn）不用「吗」，而是在谓语后加「không」，或用框式结构「có…(hay) không」表示「是否」。后者追问、责问语气更强。
+examples:
+- text: Anh chơi nhảy dây với em không?
+  reading: ''
+  annot: Anh chơi nhảy dây với em không?
+  translation_zh: 你和我一起玩跳绳吗？
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+- text: Việt An ơi, em có định quay tôi như quay dế hay không?
+  reading: ''
+  annot: Việt An ơi, em có định quay tôi như quay dế hay không?
+  translation_zh: 越安啊，你是不是想拿我当蛐蛐一样耍？
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 疑问句
+- 是非问
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

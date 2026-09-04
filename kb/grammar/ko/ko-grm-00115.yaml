@@ -1,0 +1,32 @@
+id: ko-grm-00115
+language: ko
+type: grammar
+level: TOPIK2
+level_rank: 2
+title: -기 시작하다：开始做某事
+structure: 동사 어간 + 명사형 전성어미(名词形转成词尾) -기 + 보조 동사(补助动词) 시작하다
+structure_pattern: V-기 시작하다
+explanation_zh: 名词形转成词尾 -기 将动词名词化，后接补助动词（보조 동사）“시작하다”，表示动作的开始，相当于“开始……起来”。片段中既用于人物的主动行为，也用于状况的自然变化。反义词方向为动作的持续与完成，可与
+  -고 있다 对照学习。
+examples:
+- text: 우리가 나타나자, 전부 다 우리 쪽을 쳐다보며 천천히 다가오기 시작했다.
+  reading: ''
+  annot: 우리가 나타나자, 전부 다 우리 쪽을 쳐다보며 천천히 다가오기 시작했다.
+  translation_zh: 我们一出现，它们就全都望着我们这边，缓缓逼近过来。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 体貌
+- 辅助动词
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

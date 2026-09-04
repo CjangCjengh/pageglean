@@ -1,0 +1,39 @@
+id: vi-grm-00192
+language: vi
+type: grammar
+level: L2
+level_rank: 2
+title: 时态虚词：đã … rồi（已然与变化）
+structure: đã + 动词/形容词（+ 句末 rồi）
+structure_pattern: đã + VP (+ rồi)
+explanation_zh: đã 放在动词前表示动作已经发生，相当于「已经…了」；句末再加 rồi 强调已然或情况已变化，构成 đã…rồi 框架。叙述中也可只用
+  đã。
+examples:
+- text: Nhưng cô giáo đã nghe thấy.
+  reading: ''
+  annot: Nhưng cô giáo đã nghe thấy.
+  translation_zh: 但老师已经听到了。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+- text: Khi nãy nếu nó không "cứu" tôi chắc tôi đã bị phạt thay cho nó rồi.
+  reading: ''
+  annot: Khi nãy nếu nó không "cứu" tôi chắc tôi đã bị phạt thay cho nó rồi.
+  translation_zh: 刚才要不是它「救」了我，我肯定已经替它挨罚了。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 时态/体貌
+- 虚词
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

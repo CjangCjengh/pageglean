@@ -1,0 +1,31 @@
+id: ja-grm-00300
+language: ja
+type: grammar
+level: N3
+level_rank: 3
+title: 〜わけではなかった：并非如此
+structure: 用言連体形＋形式名詞「わけ」＋ではなかった（部分否定）
+structure_pattern: V-連体形 + わけではなかった
+explanation_zh: 「わけ」是形式名词，表“道理、缘由”；「〜わけではない」为部分否定，意为“并不是说……”。片段用过去式「わけではなかった」。与直接否定相比语气更委婉，常用于解释、澄清或自我解嘲的场合。
+examples:
+- text: 貴方は最初から、一人で戦っていたわけではなかった……！
+  reading: ''
+  annot: 貴方[あなた]は最初[さいしょ]から、一人[ひとり]で戦[たたか]っていたわけではなかった……！
+  translation_zh: 你从一开始，就不是一个人在战斗……！
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 形式名詞
+- 否定
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

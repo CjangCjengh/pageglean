@@ -1,0 +1,32 @@
+id: th-grm-00019
+language: th
+type: grammar
+level: L3
+level_rank: 3
+title: เรียกว่า…ก็ได้(ล่ะมั้ง)：委婉命名「大概可以说是……吧」
+structure: คำกริยานุเคราะห์（助动词）จะ + เรียกว่า + 宾语 + คำวิเศษณ์「ก็ได้」（表可接受）+ คำลงท้าย（句末语气助词）ล่ะ/มั้ง
+structure_pattern: จะ(กริยานุเคราะห์) + เรียกว่า + X + ก็ได้ + (ล่ะ/มั้ง)
+explanation_zh: 「จะ…ก็ได้」表示“说成……也可以”，是委婉的命名或归因说法；其中的จะ不是将来时标记，而是缓和语气的คำกริยานุเคราะห์（助动词）。句末คำลงท้าย（语气助词）ล่ะ表提示确认、มั้ง表推测（≈คง+จะ），叠加后语气不确定而柔和。中文对应“大概可以说是……吧”。
+examples:
+- text: จะ​เรียกว่า​เป็นความ​รัก​ครั้งแรก​ก็ได้​ล่ะ​มั้ง
+  reading: ''
+  annot: จะ​เรียกว่า​เป็นความ​รัก​ครั้งแรก​ก็ได้​ล่ะ​มั้ง
+  translation_zh: 大概可以称之为初恋吧。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 语气
+- 助动词
+- 句末助词
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

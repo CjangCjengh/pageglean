@@ -1,0 +1,31 @@
+id: vi-grm-00417
+language: vi
+type: grammar
+level: L4
+level_rank: 4
+title: mới：才（条件达成后才发生）
+structure: 条件/时间 + mới + 动词
+structure_pattern: … + mới + V（副词，表“才”）
+explanation_zh: mới 作副词表「才」，强调某事在某条件满足或经过一段时间后才终于发生。常与「Phải…」（必须/得…）呼应。本句即「过了好一会儿我才意识到」。
+examples:
+- text: Phải mất một lúc lâu tôi mới nhận ra mình đang nằm trên giường
+  reading: ''
+  annot: Phải mất một lúc lâu tôi mới nhận ra mình đang nằm trên giường
+  translation_zh: 过了好一会儿我才意识到自己正躺在床上
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 副词
+- 语气
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

@@ -1,0 +1,31 @@
+id: ja-grm-00094
+language: ja
+type: grammar
+level: N1
+level_rank: 5
+title: 〜をよそに：不顾、无视（却自顾自……）
+structure: 体言＋をよそに
+structure_pattern: N + をよそに
+explanation_zh: 「をよそに」接在体言后，表示无视前项状况而做出相反的行为，常与「心配」「非難」「反対」等词搭配。格助词「を」在此标示被置之不理的内容。片段中魔族王女丝毫不顾主角的担心，兴致勃勃地准备吃饭，用此结构恰到好处。
+examples:
+- text: 少し心配する俺をよそに、当の魔族の王女様は、楽しそうな様子で。
+  reading: ''
+  annot: 少[すこ]し心配[しんぱい]する俺[おれ]をよそに、当[とう]の魔族[まぞく]の王女様[おうじょさま]は、楽[たの]しそうな様子[ようす]で。
+  translation_zh: 丝毫不顾在一旁暗自担心的我，那位魔族王女本人却一副乐在其中的样子。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 惯用表达
+- 对比・无视
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

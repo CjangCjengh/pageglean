@@ -1,0 +1,31 @@
+id: ja-grm-00236
+language: ja
+type: grammar
+level: N3
+level_rank: 3
+title: 复合动词：前项动词连用形＋后项动词
+structure: 前項V-連用形 + 後項V（複合動詞）
+structure_pattern: V-連用形 + V
+explanation_zh: 前项动词以连用形连接后项动词构成复合动词：前项表方式手段（如「振り下ろす」＝挥＋下），或后项表结果完成（如「描き上げる」＝画＋完）。片段动作场面密集使用，如「絡め取る」「叩き落とす」「凌ぎ続ける」等，使战斗描写精确有力。
+examples:
+- text: 宙に複雑精緻な魔法陣を描き上げるリア。
+  reading: ''
+  annot: 宙[ちゅう]に複雑精緻[ふくざつせいち]な魔法陣[まほうじん]を描[えが]き上[あ]げるリア。
+  translation_zh: 莉亚在空中画完了复杂精致的魔法阵。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 复合动词
+- 体貌
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 10
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

@@ -1,0 +1,31 @@
+id: ja-grm-00607
+language: ja
+type: grammar
+level: N3
+level_rank: 3
+title: 「〜らしい」：传闻助动词“听说、看来”
+structure: 用言終止形 ＋ 助動詞「らしい」
+structure_pattern: V終止形 + らしい
+explanation_zh: 助动词「らしい」接用言终止形，表示根据传闻或客观迹象作出的推断，相当于“听说”“看来”。片段中常与副词「どうやら」呼应，译为“似乎、好像”。与推量助动词「だろう」相比，「らしい」更强调有所依据。
+examples:
+- text: 流し損ねたものは、どうやら雨が全部流してくれたらしい。
+  reading: ''
+  annot: 流[なが]し損[そこ]ねたものは、どうやら雨[あめ]が全部[ぜんぶ]流[なが]してくれたらしい。
+  translation_zh: 没能冲掉的东西，看来都被雨水全部冲走了。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 助动词
+- 传闻
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

@@ -1,0 +1,38 @@
+id: ko-grm-00562
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: -ㄹ 정도다：到了……的程度
+structure: 용언 + -(으)ㄹ 정도(이)다
+structure_pattern: 용언 + -(으)ㄹ + 정도 + 이다 (의존명사)
+explanation_zh: 依存名词 정도 表示程度、水平，-(으)ㄹ 정도다 意为“到了……的地步”。用于强调某种状态或情况的程度之深。
+examples:
+- text: 어찌나 열성적으로 친절을 베풀던지 작위적이게 느껴질 정도였다.
+  reading: ''
+  annot: 어찌나 열성적으로 친절을 베풀던지 작위적이게 느껴질 정도였다.
+  translation_zh: 他们那么热情地招待我们，甚至让人觉得有些刻意了。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+- text: 더 이상 창피할 것도 없을 정도라고.
+  reading: ''
+  annot: 더 이상 창피할 것도 없을 정도라고.
+  translation_zh: 已经到了再也没什么可丢人的程度了。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 依存名词
+- 程度
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

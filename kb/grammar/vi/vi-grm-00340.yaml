@@ -1,0 +1,39 @@
+id: vi-grm-00340
+language: vi
+type: grammar
+level: L3
+level_rank: 3
+title: được：得以与能够
+structure: 情态助动词 được：置于动词前表“得以、有机会”；置于动词（短语）后作补语表“能、可以”
+structure_pattern: được + V / V + được
+explanation_zh: được 的基本义是“得到”，虚化后表示动作得以实现或具备可能性。前置如“không được chứng kiến”（无缘见证），后置如“chẳng
+  làm gì được”（毫无办法）。中文母语者可类比“得／能”来理解。
+examples:
+- text: Nếu như vậy, có thể tôi sẽ không được chứng kiến giây phút "trữ tình" đó.
+  reading: ''
+  annot: Nếu như vậy, có thể tôi sẽ không được chứng kiến giây phút "trữ tình" đó.
+  translation_zh: 那样的话，我可能就无缘亲眼见证那“抒情”的一刻了。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+- text: Tôi giận tím gan nhưng chẳng làm gì được.
+  reading: ''
+  annot: Tôi giận tím gan nhưng chẳng làm gì được.
+  translation_zh: 我气得肝都要炸了，却一点办法也没有。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 助动词
+- 可能
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 8
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

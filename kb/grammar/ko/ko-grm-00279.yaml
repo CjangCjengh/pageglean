@@ -1,0 +1,39 @@
+id: ko-grm-00279
+language: ko
+type: grammar
+level: TOPIK5
+level_rank: 5
+title: -아/어 내다：动作的完成与达成
+structure: 动词词干 + -아/어 내다（보조동사）
+structure_pattern: 동사 어간 + 연결어미 -아/어 + 보조동사 '내다'（완료·달성）
+explanation_zh: 连接词尾 -아/어 后接补助动词 내다，表示动作完成并达成结果，比单纯动词多一层“坚持到底终于做成”的语感。片段中“지켜 내다（护住）”“막아
+  내다（抵挡住）”均为战斗场景的高频搭配，值得整体记忆。
+examples:
+- text: 클라우의 공격은 틸프의 실력이면 충분히 막아 낼 수 있는 것이었다.
+  reading: ''
+  annot: 클라우의 공격은 틸프의 실력이면 충분히 막아 낼 수 있는 것이었다.
+  translation_zh: 克劳的攻击，凭蒂尔芙的实力本是完全抵挡得住的。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+- text: 클라우가 시비를 걸 때마다 자신의 주인을 지켜 내야 했다.
+  reading: ''
+  annot: 클라우가 시비를 걸 때마다 자신의 주인을 지켜 내야 했다.
+  translation_zh: 每当克劳前来挑衅生事，她都必须守护好自己的主人。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 补助动词
+- 体貌
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 4
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

@@ -1,0 +1,31 @@
+id: ko-grm-00352
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: 「-도록 되어 있다：规定与惯例」
+structure: 动词 + -도록 되어 있다（连接词尾 -도록 + 되어 있다）
+structure_pattern: V-도록 되어 있다
+explanation_zh: '''-도록''表目的或结果，''되어 있다''表某事已被确定为某种状态，两者合用表示规则、制度或约定俗成的安排，相当于''规定为……、按惯例会……''。片段中用以说明宅邸对待女仆的规矩。'
+examples:
+- text: 주인님의 메이드는 누구나 평등하게 대우하도록 되어 있습니다.
+  reading: ''
+  annot: 주인님의 메이드는 누구나 평등하게 대우하도록 되어 있습니다.
+  translation_zh: 主人的女仆，按规矩人人都要受到平等的对待。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 惯用型
+- 语气
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

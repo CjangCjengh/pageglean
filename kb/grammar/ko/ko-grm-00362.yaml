@@ -1,0 +1,39 @@
+id: ko-grm-00362
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: -았으면 좋겠다：祝愿与期盼
+structure: 동사 어간 + 과거 선어말어미 '-았-' + 연결어미 '-으면' + 형용사 '좋다' + '-겠다'
+structure_pattern: V-았으면 좋겠다
+explanation_zh: 由条件连接词尾“-면”加“좋겠다”（就好了）构成，表示说话人的愿望或期盼，相当于“希望……”“要是……就好了”。用“사람이 되었으면
+  좋겠다”期盼对方“成为”某种人，比单纯的“-고 싶다”更委婉恳切。文中两次出现，寄托作者对塞蕾娜黛成长的深切祝愿。
+examples:
+- text: 세레나데가 아무런 사심 없이 밝게 웃을 수 있는 사람이 되었으면 좋겠다고 생각한다.
+  reading: ''
+  annot: 세레나데가 아무런 사심 없이 밝게 웃을 수 있는 사람이 되었으면 좋겠다고 생각한다.
+  translation_zh: 我想，希望塞蕾娜黛能成为一个毫无杂念、开朗欢笑的人。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+- text: 진심으로 누군가를 사랑할 줄 알고, 마음속 깊은 곳에서 우러나오는 미소를 지을 수 있는 사람이 되었으면 좋겠다.
+  reading: ''
+  annot: 진심으로 누군가를 사랑할 줄 알고, 마음속 깊은 곳에서 우러나오는 미소를 지을 수 있는 사람이 되었으면 좋겠다.
+  translation_zh: 希望（她）能成为一个懂得真心爱人、能绽放出来自心底深处笑容的人。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 语气
+- 希望
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

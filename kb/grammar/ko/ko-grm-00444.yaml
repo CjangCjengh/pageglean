@@ -1,0 +1,32 @@
+id: ko-grm-00444
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: 「-잖아(요)」：强调显而易见的事实
+structure: 용언 어간 + '-지 않다'의 축약 종결어미 '-잖다'
+structure_pattern: V/A-지 않다 → V/A-잖다
+explanation_zh: 「-잖아(요)」是「-지 않아요」的口语缩略形，作终结词尾使用，用于强调对方已知或显而易见的事实，带有提醒、反问的语气，相当于“不是……吗”“……嘛”。独白中也常用于自我说服或吐槽，是小说对话与心理描写的高频表达。
+examples:
+- text: 할리퀸 소설 첫 페이지에나 나올법한 상황이잖아?
+  reading: ''
+  annot: 할리퀸 소설 첫 페이지에나 나올법한 상황이잖아?
+  translation_zh: 这不是那种言情小说第一页才会出现的情节吗？
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 终结词尾
+- 缩略
+- 语气
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

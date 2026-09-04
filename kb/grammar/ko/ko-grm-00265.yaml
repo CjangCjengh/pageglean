@@ -1,0 +1,40 @@
+id: ko-grm-00265
+language: ko
+type: grammar
+level: TOPIK1
+level_rank: 1
+title: -(으)ㅂ니다 / -(으)ㅂ니까：格式体敬语终结词尾
+structure: 动词词干 + -(으)ㅂ니다（陈述）/ -(으)ㅂ니까（疑问），可加主体尊敬先语末词尾 -시-
+structure_pattern: V-어간 + -(으)ㅂ니다 / -(으)ㅂ니까 (+ -시-)
+explanation_zh: -(으)ㅂ니다 / -(으)ㅂ니까 是格式体（합쇼체）的敬语终结词尾（종결어미），用于正式、庄重的场合；疑问形 -(으)ㅂ니까 句尾语调不上扬。片段中露西的审讯用语全部使用这一阶位，与敌将的半语（해체，如“그게
+  뭐야”）形成鲜明的阶位对照。
+examples:
+- text: 가장 먼저 묻겠습니다. 클라우 에른베스크는 지금 어디 있습니까?
+  reading: ''
+  annot: 가장 먼저 묻겠습니다. 클라우 에른베스크는 지금 어디 있습니까?
+  translation_zh: 我先问第一个问题。克劳·恩贝斯克现在在哪里？
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+- text: 걱정하지 않아도 됩니다. 인체에 영향은 없습니다.
+  reading: ''
+  annot: 걱정하지 않아도 됩니다. 인체에 영향은 없습니다.
+  translation_zh: 不必担心。对人体没有影响。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 敬语
+- 终结词尾
+- 阶位
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 8
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

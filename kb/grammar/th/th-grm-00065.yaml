@@ -1,0 +1,32 @@
+id: th-grm-00065
+language: th
+type: grammar
+level: L4
+level_rank: 4
+title: ถึง…จะ…ก็เถอะ：即使……也……（让步）
+structure: ถึง (สันธาน) + ประธาน + จะ (คำช่วยกริยาบอกสมมุติ) + กริยา + ก็เถอะ
+structure_pattern: ถึง + จะ + กริยา + ก็เถอะ
+explanation_zh: ถึง…จะ…ก็เถอะ 是让步复句结构，相当于汉语「即使……也……」。จะ 表示假想、未然的情况，ก็เถอะ（变体 ก็ตาม）为让步语气助词。本句意为「就算她说只是一时情难自禁（我也不信）」。注意区分连词
+  ถึง 与作动词/介词「到达」的ถึง。
+examples:
+- text: ถึง​เธอ​จะ​บอกว่า​แค่​เผลอใจ​ก็​เถอะ...
+  reading: ''
+  annot: ถึง​เธอ​จะ​บอกว่า​แ
+  translation_zh: 就算她说只是一时情难自禁也罢……
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 接续
+- 语气
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

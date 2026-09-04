@@ -1,0 +1,32 @@
+id: ko-grm-00376
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: 아무리 -아/어도：再怎么……也……
+structure: 副词 아무리 + 用言词干 + 让步连接词尾 -아/어도（名词时为 아무리 + N + (이)라고 해도）
+structure_pattern: 아무리 + V/A + -아/어도
+explanation_zh: 让步表达，아무리 意为“再怎么、无论如何”，与让步连接词尾 -아/어도 搭配，表示即使程度再高，后项结果也不变。主语为名词时写作“아무리
+  N이라고 해도”。后句常伴推测或委婉语气。
+examples:
+- text: 아무리 마스터라고 해도, 황녀한테는 손을 안 대지 않을까?
+  reading: ''
+  annot: 아무리 마스터라고 해도, 황녀한테는 손을 안 대지 않을까?
+  translation_zh: 就算是主人，也不会对皇女下手吧？
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 让步
+- 连接词尾
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

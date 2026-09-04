@@ -1,0 +1,33 @@
+id: vi-grm-00239
+language: vi
+type: grammar
+level: L3
+level_rank: 3
+title: hễ…：每当……就……
+structure: quan hệ từ hễ + 条件分句，主句常以 phó từ（副词）lại / thì 呼应，表惯常性结果
+structure_pattern: hễ + clause1, (lại/thì) + clause2
+explanation_zh: hễ 表示“每当/只要”，引出规律性、惯常性的条件，主句常用 lại 或 thì 呼应，表示每次结果都如此。与表一次性假设的 nếu
+  不同，hễ 强调反复出现的规律。汉语近似“一……就……”。
+examples:
+- text: hễ mình phớt lờ, bọn nó lại chạy theo mình, mình đuổi cũng không đi.
+  reading: ''
+  annot: hễ mình phớt lờ, bọn nó lại chạy theo mình, mình đuổi cũng không đi.
+  translation_zh: 只要我装作不理，她们反倒追着我不放，赶都赶不走。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 复句
+- 条件
+- 惯常
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

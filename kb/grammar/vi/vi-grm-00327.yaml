@@ -1,0 +1,32 @@
+id: vi-grm-00327
+language: vi
+type: grammar
+level: L2
+level_rank: 2
+title: có… hay không：是否问句
+structure: có + V + hay không（是非问格式）
+structure_pattern: có + V + hay không
+explanation_zh: “có… hay không”是越南语典型的是非问结构，表示“……还是不……/是否……”，常嵌入“biết”等动词之后作间接问句。文中“không
+  biết người ta có yêu lại mình hay không”即“不知道人家是否也喜欢自己”。
+examples:
+- text: không biết người ta có yêu lại mình hay không
+  reading: ''
+  annot: không biết người ta có yêu lại mình hay không
+  translation_zh: 不知道人家是否也喜欢自己。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 疑问结构
+- 复句
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

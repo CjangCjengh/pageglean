@@ -1,0 +1,30 @@
+id: th-grm-00064
+language: th
+type: grammar
+level: L2
+level_rank: 2
+title: เคย + 动词：曾经（经验体）
+structure: เคย (คำช่วยกริยาบอกประสบการณ์) + กริยา
+structure_pattern: เคย + กริยา
+explanation_zh: เคย 是表示经验的体貌助动词，置于动词前，相当于汉语「曾经、…过」。否定为 ไม่เคย「从未」。本句与时间状语 เมื่อสี่ปีก่อน（四年前）搭配，交代经验发生的具体时间。
+examples:
+- text: ฉัน​กับ​หนูดา​เคย​เจอ​คุณ​ชา​ที่​มอสโก​เมื่อ​สี่​ปี​ก่อน
+  reading: ''
+  annot: ฉัน​กับ​หนูดา​เคย​เจอ​คุณ​ชา
+  translation_zh: 我和หนูดา四年前曾经在莫斯科见过ชา。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 体貌
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

@@ -1,0 +1,38 @@
+id: ja-grm-00097
+language: ja
+type: grammar
+level: N3
+level_rank: 3
+title: 「〜らしい」：有根据的推测（助动词）
+structure: 用言终止形 + 助动词「らしい」
+structure_pattern: 終止形 + らしい
+explanation_zh: 助动词「らしい」接在用言终止形后，表示基于某种根据的推测，意为“看来……”“好像……”。与单纯传闻的「そうだ」相比，「らしい」更侧重说话人有依据的判断。片段中「お世辞でもないらしい」即“看来并不是客套话”。
+examples:
+- text: どうやらお世辞でもないらしい。
+  reading: ''
+  annot: どうやらお世辞[せじ]でもないらしい。
+  translation_zh: 看来也不像是在恭维我。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+- text: 理由があるらしいんだが……
+  reading: ''
+  annot: 理由[りゆう]があるらしいんだが……
+  translation_zh: 好像事出有因，但是……
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 语气
+- 助动词
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

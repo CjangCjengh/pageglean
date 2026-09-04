@@ -1,0 +1,31 @@
+id: ja-grm-00108
+language: ja
+type: grammar
+level: N2
+level_rank: 4
+title: かといって〜ない：话虽如此也并非……
+structure: 接続表現「かといって」＋否定述語
+structure_pattern: かといって + V-ない
+explanation_zh: 接续表达「かといって」承接前文的让步，后接多为否定，意为"话虽如此，但也并非~"。片段中先否定"戏弄"与"玩耍"，再用「かといって」进一步排除"带有色情意味"的可能。常与「必ずしも」「〜わけではない」等否定表达呼应。
+examples:
+- text: かといって当然、色っぽいモノでもない。
+  reading: ''
+  annot: かといって当然[とうぜん]、色[いろ]っぽいモノでもない。
+  translation_zh: 话虽如此，当然也并非有什么旖旎的意味。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 接续
+- 转折
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

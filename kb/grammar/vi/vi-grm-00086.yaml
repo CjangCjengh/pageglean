@@ -1,0 +1,39 @@
+id: vi-grm-00086
+language: vi
+type: grammar
+level: L1
+level_rank: 1
+title: đã：动作已然
+structure: đã + 动词（置于动词前，表示动作已发生）
+structure_pattern: đã + V
+explanation_zh: đã 是越南语最基本的时态副词，放在动词前表示动作已经发生或完成，相当于汉语的"已经……了"。叙述中常与 chưa（还没）呼应，构成"未及……就已……"的时间反差。口语中主句可省略时间状语，仅凭
+  đã 标记已然。
+examples:
+- text: Tao định nói nhưng chưa kịp nói thì mày đã nói mất.
+  reading: ''
+  annot: Tao định nói nhưng chưa kịp nói thì mày đã nói mất.
+  translation_zh: 我本来想说的，可还没来得及说，你就已经抢着说了。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+- text: Lúc này bố mẹ tôi đã đi làm, nhà cửa vắng tanh.
+  reading: ''
+  annot: Lúc này bố mẹ tôi đã đi làm, nhà cửa vắng tanh.
+  translation_zh: 这时我父母已经去上班了，家里空荡荡的。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 时态
+- 体貌
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 4
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

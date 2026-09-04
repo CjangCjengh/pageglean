@@ -1,0 +1,31 @@
+id: ja-grm-00482
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 「〜ながら」：两个动作同时进行
+structure: 动词连用形 ＋ ながら ＋ 主要动作
+structure_pattern: V連用形 + ながら + V
+explanation_zh: 接続助詞「ながら」接在动词连用形后，表示前后两个动作同时进行，语义重心在后项的主要动作。本句「ごまかしながら会話を繫ぐ」即一边敷衍、一边维系对话。片段后文「眺めながら」亦为同一用法。
+examples:
+- text: ごまかしながらなんとか細い藁で会話を繫ぐ。
+  reading: ''
+  annot: ごまかしながらなんとか細[ほそ]い藁[わら]で会話[かいわ]を繫[つな]ぐ。
+  translation_zh: 一边含糊敷衍，一边勉力靠一根细稻草维系着对话。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 接续
+- 助詞
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

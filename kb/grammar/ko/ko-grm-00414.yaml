@@ -1,0 +1,31 @@
+id: ko-grm-00414
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: 「-(으)ㄹ 줄 알았다：本以为会……」
+structure: 用言 + -(으)ㄹ + 의존명사 줄 + 알다
+structure_pattern: V/A-(으)ㄹ + 줄 + 알다（过去时：알았다）
+explanation_zh: 의존명사 ‘줄’与 알다/모르다 搭配，表示对某事的认知或预期。‘-(으)ㄹ 줄 알았다’常表示与事实相反的期待，相当于中文「本以为会……」。此处说话人本以为对方会慌张，结果对方却笑了。
+examples:
+- text: 조금은 당황할 줄 알았다.
+  reading: ''
+  annot: 조금은 당황할 줄 알았다.
+  translation_zh: 我本以为（她）至少会有些慌张。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 预期
+- 依存名词
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

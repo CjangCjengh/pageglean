@@ -1,0 +1,31 @@
+id: ja-grm-00320
+language: ja
+type: grammar
+level: N3
+level_rank: 3
+title: 〜っけ：回忆确认的句末助词
+structure: 動詞連体形（口語では主にタ形）＋っけ
+structure_pattern: V-た + っけ
+explanation_zh: 接动词之后（口语中多用“タ形”接续），表示说话人一边回忆一边向对方确认“是不是……来着”。语气随意，是典型的口语句末助词，也可用于自言自语式的追忆。
+examples:
+- text: あー、そう言えば『魔王を堕とした』って言ったっけ？
+  reading: ''
+  annot: あー、そう言[い]えば『魔王[まおう]を堕[お]とした』って言[い]ったっけ？
+  translation_zh: 啊——话说回来，我是说过“把魔王打倒了”来着吧？
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 句末语气
+- 口语
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

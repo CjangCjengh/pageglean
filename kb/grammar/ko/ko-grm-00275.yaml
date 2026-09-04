@@ -1,0 +1,39 @@
+id: ko-grm-00275
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: -기 위해서 / -(으)려 하다：目的表达
+structure: 动词词干 + -기 위해서；动词词干 + -(으)려(고) 하다
+structure_pattern: 동사 어간 + 명사형 전성어미 -기 + 위해서 / 동사 어간 + 연결어미 -(으)려고 + 보조동사 '하다'
+explanation_zh: 名词化词尾 -기 加 위해서 构成目的状语，-(으)려고 하다 则以目的连接词尾搭配补助动词，表示“为了……”“打算做……”。片段反复用这两种形式交代人物行为的动机，如观察敌情、强行行动。名词后还可接
+  을/를 위해서라면，如“주군을 위해서라면（若是为了主君）”。
+examples:
+- text: 틸프가 루시와 알테아가 당하는 것을 그냥 지켜보고만 있었던 건 클라우의 공격을 제대로 관찰하기 위해서였다.
+  reading: ''
+  annot: 틸프가 루시와 알테아가 당하는 것을 그냥 지켜보고만 있었던 건 클라우의 공격을 제대로 관찰하기 위해서였다.
+  translation_zh: 蒂尔芙之所以只是袖手旁观露西和阿尔忒亚遇袭，是为了好好观察克劳的攻击。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+- text: 알테아는 억지로 다리를 움직이려 했다.
+  reading: ''
+  annot: 알테아는 억지로 다리를 움직이려 했다.
+  translation_zh: 阿尔忒亚想要强行挪动自己的腿。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 连接词尾
+- 目的
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 5
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

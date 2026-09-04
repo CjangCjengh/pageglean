@@ -1,0 +1,31 @@
+id: ko-grm-00308
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: -(으)자：刚一……就……
+structure: 动词词干 + 连接词尾 -(으)자
+structure_pattern: V-(으)자
+explanation_zh: 连接词尾，表示前一动作刚一结束，后一情况随即发生，前后衔接极为紧凑。词干后直接连接，中间不能插入过去时制词尾‘-았/었-’（注意与让步义的‘-았/었자’区分）。前后主语通常一致。
+examples:
+- text: 내가 소리치자, 세레나데의 공허한 눈동자가 나를 향했다.
+  reading: ''
+  annot: 내가 소리치자, 세레나데의 공허한 눈동자가 나를 향했다.
+  translation_zh: 我一喊，塞蕾娜德空洞的瞳孔便转向了我。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 接续
+- 时间
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

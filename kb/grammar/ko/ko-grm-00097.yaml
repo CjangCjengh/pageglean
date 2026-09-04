@@ -1,0 +1,40 @@
+id: ko-grm-00097
+language: ko
+type: grammar
+level: TOPIK2
+level_rank: 2
+title: -려고：意图与目的
+structure: 动词词干 + 连接词尾 -려고
+structure_pattern: V-려고
+explanation_zh: 表示主体意图或目的的连接词尾，相当于中文“想要……”“为了……”。与主要结合 가다/오다 类动词的 -러 不同，-려고 可与多种叙述句结合。片段中还以“-려고
+  했던 성기사”的形式，经冠形词形转成词尾修饰体言。
+examples:
+- text: 너는 외부에서 활동하기 위한 새로운 몸을 얻으려고 하는 거야.
+  reading: ''
+  annot: 너는 외부에서 활동하기 위한 새로운 몸을 얻으려고 하는 거야.
+  translation_zh: 你是想弄一具新的躯体，好到外面去活动。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+- text: 데우미나스는 그 광룡(狂龍)에게 복수하려고 리치가 되었고, 전력을 갖추기 위해 시체들의 군대를 만들던 도중에 봉인되었다.
+  reading: ''
+  annot: 데우미나스는 그 광룡(狂龍)에게 복수하려고 리치가 되었고, 전력을 갖추기 위해 시체들의 군대를 만들던 도중에 봉인되었다.
+  translation_zh: 德乌米纳斯为了向那条狂龙复仇而成了巫妖，却在积蓄力量、打造尸骸军团的途中被封印了。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 意图
+- 目的
+- 连接词尾
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 4
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

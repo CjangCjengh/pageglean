@@ -1,0 +1,39 @@
+id: ko-grm-00277
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: -(으)ㄴ 채(로)：保持某种状态
+structure: 动词词干 + -(으)ㄴ 채(로)
+structure_pattern: 동사 어간 + 관형사형 전성어미 -(으)ㄴ + 의존명사 '채'
+explanation_zh: 冠形词形转换词尾 -(으)ㄴ 加依存名词 채，表示在保持某一状态的情况下进行另一动作，相当于中文的“保持着……（做某事）”。与 -면서
+  相比更强调状态的固定不变。片段连续使用“거리를 유지한 채”“입을 다문 채”“검을 든 채”，是战斗描写的常用手法。
+examples:
+- text: 클라우가 입을 다문 채 틸프를 응시했다.
+  reading: ''
+  annot: 클라우가 입을 다문 채 틸프를 응시했다.
+  translation_zh: 克劳紧闭着嘴，凝视着蒂尔芙。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+- text: 틸프가 두 손에 각기 다른 검을 든 채 지그재그로 움직이며 클라우에게 돌진했다.
+  reading: ''
+  annot: 틸프가 두 손에 각기 다른 검을 든 채 지그재그로 움직이며 클라우에게 돌진했다.
+  translation_zh: 蒂尔芙双手各持一柄不同的剑，以之字形走位向克劳突进。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 依存名词
+- 样态
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

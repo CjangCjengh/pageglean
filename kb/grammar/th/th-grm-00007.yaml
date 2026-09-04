@@ -1,0 +1,31 @@
+id: th-grm-00007
+language: th
+type: grammar
+level: L3
+level_rank: 3
+title: เลย：语气强调（多用于否定）
+structure: ไม่ + กริยา/วิเศษณ์ + เลย (คำวิเศษณ์เน้นความปฏิเสธ)
+structure_pattern: ไม่ + V/Adj + เลย
+explanation_zh: เลย是句末语气副词，起加强语气的作用；与否定词搭配时表示“一点也不、根本不”。片段中“ทำอะไรไม่เป็นเลย”即“什么都不会做”；反问句“ขนาดนั้นเลยเรอะ”也用เลย加重程度。
+examples:
+- text: คุณ​ชา​เนี่ย ถ้า​ไม่มีดา​อยู่ก็​ทำ​อะไร​ไม่​เป็น​เลย​นะ
+  reading: ''
+  annot: คุณ​ชา​เนี่ย ถ้า​ไม่มีดา​อยู่ก็​ทำ​อะไร​ไม่​เป็น​เลย​นะ
+  translation_zh: ชา先生呀，要是没有ดา在，你可什么都不会做呢。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 语气
+- 否定
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

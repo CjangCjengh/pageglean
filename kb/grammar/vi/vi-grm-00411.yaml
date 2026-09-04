@@ -1,0 +1,32 @@
+id: vi-grm-00411
+language: vi
+type: grammar
+level: L2
+level_rank: 2
+title: đã…rồi：完成体「已经…了」
+structure: đã + 动词 + rồi
+structure_pattern: đã + V + rồi（体副词 phó từ chỉ thể hoàn thành）
+explanation_zh: đã 置于动词前表示动作已经发生（完成体），句末常加 rồi 加强「已经/了」的语气，二者呼应。相当于汉语的「已经…了」。句尾的 rồi
+  可省略，但带上更自然完整。
+examples:
+- text: Trước khi quen tôi, anh đã quen mấy người rồi?
+  reading: ''
+  annot: Trước khi quen tôi, anh đã quen mấy người rồi?
+  translation_zh: 在认识我之前，你已经认识过几个人了？
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 体貌
+- 时态虚词
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

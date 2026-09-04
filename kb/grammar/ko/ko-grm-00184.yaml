@@ -1,0 +1,39 @@
+id: ko-grm-00184
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: -시-：主体敬语（尊敬动作主体）
+structure: 谓词词干 + -시- + 词尾
+structure_pattern: V/A + -시- (주체 높임 선어말어미)
+explanation_zh: -시-是学校语法中的主体敬语先语末词尾（주체 높임 선어말어미），接在谓词词干后，对动作主体表示尊敬。与过去时先语末词尾-았/었-结合时缩为-셨-（하셨다、지키셨다）。片段中仆人露西描述主人亚兹兰的言行时全篇使用此词尾，体现严格的主从阶位。
+examples:
+- text: 결심하셨군요.
+  reading: ''
+  annot: 결심하셨군요.
+  translation_zh: 您下定决心了啊。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+- text: 주인님이 이 세계의 패권을 차지하기 위해 비상(飛翔)하실 날을, 그동안 계속 기다리고 있었습니다.
+  reading: ''
+  annot: 주인님이 이 세계의 패권을 차지하기 위해 비상(飛翔)하실 날을, 그동안 계속 기다리고 있었습니다.
+  translation_zh: 我一直盼望着主君为了夺取这个世界的霸权而腾飞的那一天。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 경어법
+- 높임
+- 선어말어미
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 6
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

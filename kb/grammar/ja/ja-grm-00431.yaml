@@ -1,0 +1,39 @@
+id: ja-grm-00431
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 〜ておく：事先准备
+structure: 补助动词 おく 接于动词连用形（て形）之后
+structure_pattern: V-连用形（て形）+ おく
+explanation_zh: 补助动词おく接动词连用形（て形）后，表示为之后某事预先做好某动作。文中“（断りの文句を）書いておいたら”“（妹ちゃんの服を）買っておいた”皆属此用法。口语中おく常缩约成とく（如：買っとく）。
+examples:
+- text: やんわりとお断りの文句をノートに書いておいたら、翌々日、ちょっと予想外の返事がかえってきた。
+  reading: ''
+  annot: やんわりとお断[ことわ]りの文句[もんく]をノートに書[か]いておいたら、翌々日[よくよくじつ]、ちょっと予想外[よそうがい]の返事[へんじ]がかえってきた。
+  translation_zh: 我在笔记本上委婉地写下了拒绝的话，结果第二天过后收到了一封有点出乎意料的回复。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+- text: 妹ちゃんの服も買っておいたから着せてあげて！
+  reading: ''
+  annot: 妹[いもうと]ちゃんの服[ふく]も買[か]っておいたから着[き]せてあげて！
+  translation_zh: 妹妹的衣服我也事先买好了，快给她穿上吧！
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 体貌
+- 补助动词
+- 准备
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

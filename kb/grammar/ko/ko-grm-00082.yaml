@@ -1,0 +1,38 @@
+id: ko-grm-00082
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: -(이)라든가：列举举例
+structure: 명사 + (이)라든가（서술격 조사 이다 + 연결 어미 -라든가）
+structure_pattern: N-(이)라든가
+explanation_zh: 由谓词格助词이다加连接词尾-라든가构成，列举若干事例，暗示“除此之外还有其他”。可在同一句中反复使用，相当于中文“什么……啦、……啦之类的”。
+examples:
+- text: 이성을 잃어버려 인간의 뇌만을 먹게 된 크리스탈 드래곤이라든가, 100개의 머리와 200개의 손을 지닌 거인이라든가
+  reading: ''
+  annot: 이성을 잃어버려 인간의 뇌만을 먹게 된 크리스탈 드래곤이라든가, 100개의 머리와 200개의 손을 지닌 거인이라든가
+  translation_zh: 像是失去理智、只吃人脑的水晶龙啦，或是长着一百个头两百只手的巨人啦
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+- text: 천사와 악마의 강제 교배로 만들어진 기형종이라든가…… 하여간 그런 놈들이다.
+  reading: ''
+  annot: 천사와 악마의 강제 교배로 만들어진 기형종이라든가…… 하여간 그런 놈들이다.
+  translation_zh: 又或是天使与恶魔强制交配产下的畸形种……总之就是些那样的家伙。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 连接词尾
+- 列举
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

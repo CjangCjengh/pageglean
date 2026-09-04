@@ -1,0 +1,32 @@
+id: ko-grm-00525
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: -(으)ㄴ데/던데：感叹与回想
+structure: 终结词尾 -(으)ㄴ데(요)；加回想先语末词尾 -더- 成 -던데
+structure_pattern: V/A-(으)ㄴ데(요) / -던데
+explanation_zh: 终结词尾 -(으)ㄴ데 陈述自己的观察或感受，常带感叹并为下文留有余地。叠加回想词尾 -더- 成 -던데，追忆自己亲眼所见。文中『오랫동안
+  서 있던데』即以回想语气点破『我可是看到你站了很久』。
+examples:
+- text: 그런 것치고는 꽤 오랫동안 서 있던데.
+  reading: ''
+  annot: 그런 것치고는 꽤 오랫동안 서 있던데.
+  translation_zh: 就那个理由的话，你站得可够久的啊。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 语气
+- 终结词尾
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

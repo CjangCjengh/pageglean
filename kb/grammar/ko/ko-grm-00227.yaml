@@ -1,0 +1,39 @@
+id: ko-grm-00227
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: -(으)ㄴ/는 것 같다：好像……（推测）
+structure: 用言语干 + 冠形词形转成词尾 '-(으)ㄴ/는' + 依存名词 '것' + 补助形容词 '같다'
+structure_pattern: V/A-(으)ㄴ/는 것 같다
+explanation_zh: 由冠形词形转成词尾'-(으)ㄴ/는'、依存名词'것'与补助形容词'같다'构成的推测结构。动词用'-는 것 같다'，形容词及'있다'用'-(으)ㄴ
+  것 같다'，表示说话者的主观推断，语气比直接断言委婉。相当于中文的“好像……、似乎……”。
+examples:
+- text: 그건 클라우의 체내 마력을 검의 형태로 만들어 방출하는 것 같아.
+  reading: ''
+  annot: 그건 클라우의 체내 마력을 검의 형태로 만들어 방출하는 것 같아.
+  translation_zh: 那似乎是将克劳体内的魔力转化为剑的形态释放出来。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+- text: 내가 생각해도 목을 자르면 그냥 그대로 죽을 것 같아.
+  reading: ''
+  annot: 내가 생각해도 목을 자르면 그냥 그대로 죽을 것 같아.
+  translation_zh: 我自己想了想，砍下脖子的话好像就会那样直接死掉。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 推测
+- 补助谓词结构
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

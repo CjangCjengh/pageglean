@@ -1,0 +1,31 @@
+id: ja-grm-00303
+language: ja
+type: grammar
+level: N3
+level_rank: 3
+title: 〜ずにいる：保持着“不做”的状态
+structure: 動詞未然形 + 打消の助動詞「ず」連用形「ずに」+ いる
+structure_pattern: V未然形 + ずにいる
+explanation_zh: 「ず」是文语色彩的否定助动词，接动词未然形，「ずに」相当于口语「ないで」。「〜ずにいる」表示持续保持“不做某事”的状态，书面语表达。
+examples:
+- text: 戦いが終わったのに距離を掴めず、牽制し合って何も話せずにいる俺とリア。
+  reading: ''
+  annot: 戦[たたか]いが終[お]わったのに距離[きょり]を掴[つか]めず、牽制[けんせい]し合[あ]って何[なに]も話[はな]せずにいる俺[おれ]とリア。
+  translation_zh: 明明战斗已经结束，我和莉亚却把握不好距离，只能互相戒备着，什么话也说不出口。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 体貌
+- 书面语
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

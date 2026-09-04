@@ -1,0 +1,32 @@
+id: ko-grm-00642
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: -(으)ㄹ 테니까：以推测为理由
+structure: 용언 어간 + -(으)ㄹ 테니까（추측 '터' + 까닭 연결어미 '-니까'）
+structure_pattern: V/A-(으)ㄹ + 테 + 니까
+explanation_zh: '''-(으)ㄹ 테니까'' 由表推测的 ''-(으)ㄹ 터(테)'' 加 까닭 연결어미 ''-니까'' 构成，表示说话人基于自身推测给出理由，相当于“因为（应该）……所以……”。常用于说明自己情绪、判断的缘由，语气比断言委婉。'
+examples:
+- text: 그들 모두, 언젠가는 숨 쉬던 사람들이었을 테니까.
+  reading: ''
+  annot: 그들 모두, 언젠가는 숨 쉬던 사람들이었을 테니까.
+  translation_zh: 毕竟，他们曾经都是会呼吸的人啊。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 추측
+- 까닭
+- 연결어미
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 0
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

@@ -1,0 +1,39 @@
+id: ko-grm-00522
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: 间接引用 -고 하다：转述请求、劝诱与禁令
+structure: 引用节 + 引用助词 -고 + 하다（命令·禁止用 -(으)라고，劝诱用 -자고，请求用 -아/어 달라고）
+structure_pattern: V-자고 하다 / V-(으)라고 하다 / V-아/어 달라고 하다
+explanation_zh: 间接引用按原句的句式类型变换词尾：劝诱句引作 -자고，命令·禁止句引作 -(으)라고，请求引作 -아/어 달라고，再接 하다 等动词。片段中三种形式均有出现，是掌握间接引用的好材料。
+examples:
+- text: 결혼하자고 쳐들어온 키이리도 여덟 살 때부터 날 좋아했다고 하지만
+  reading: ''
+  annot: 결혼하자고 쳐들어온 키이리도 여덟 살 때부터 날 좋아했다고 하지만
+  translation_zh: 虽说就连嚷着“跟我结婚吧”闯过来的基里，也是从八岁起就喜欢我……
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+- text: 오로지 한 방에는 들어가지 말라고 신신당부를 한다.
+  reading: ''
+  annot: 오로지 한 방에는 들어가지 말라고 신신당부를 한다.
+  translation_zh: 并千叮万嘱，唯独有一个房间千万不能进去。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 间接引用
+- 引用助词
+- 句式变换
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

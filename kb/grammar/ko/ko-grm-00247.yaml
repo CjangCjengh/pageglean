@@ -1,0 +1,40 @@
+id: ko-grm-00247
+language: ko
+type: grammar
+level: TOPIK2
+level_rank: 2
+title: -(으)ㄹ 것이다：推测与断定
+structure: 용언 + 관형사형 전성어미 -(으)ㄹ + 의존명사 것 + 서술격 조사 이다
+structure_pattern: (V/A)-(으)ㄹ + 것이다
+explanation_zh: 结构上是관형사형 전성어미修饰의존명사 '것' 再加 이다，表示说话人的推测或预期，相当于「会……」「应该……」。对过去的推测用 '-았/었을
+  것이다'。文中「될 것이다」是坚定断言，「감소되었을 것이다」是对既成事实的冷静估计。
+examples:
+- text: 이 일격이, 앞으로 주군이 걸으실 패도(覇道)의 첫걸음이 될 것이다!
+  reading: ''
+  annot: 이 일격이, 앞으로 주군이 걸으실 패도(覇道)의 첫걸음이 될 것이다!
+  translation_zh: 这一击，将成为今后主君所要踏上的霸道之路的第一步！
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+- text: 이걸로 적의 병력은 50퍼센트 이하로 감소되었을 것이다.
+  reading: ''
+  annot: 이걸로 적의 병력은 50퍼센트 이하로 감소되었을 것이다.
+  translation_zh: 这样一来，敌军兵力应该已经减少到50%以下了。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 语气
+- 推测
+- 依存名词
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 4
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

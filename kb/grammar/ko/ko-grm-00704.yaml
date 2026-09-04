@@ -1,0 +1,40 @@
+id: ko-grm-00704
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: -았/었어야 하다：本该如此却未做的懊悔
+structure: 동사 어간 + -았/었어야 하다
+structure_pattern: V- + -았/었어야 하다
+explanation_zh: 의무를 나타내는 '-아/어야 하다' 앞에 과거 선어말어미 '-았/었-'이 붙어 '본래 ~했어야 했다(그러나 하지 않았다)'는
+  반사실적 후회를 나타낸다. 감탄형 '-았/었어야지'로 강한 유감·자책·책망을 드러낸다. 중국어의 '本来应该……才对啊'에 해당한다.
+examples:
+- text: 나를 공격했어야지!
+  reading: ''
+  annot: 나를 공격했어야지!
+  translation_zh: 你本该攻击我的啊！
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+- text: 마왕을 다치게 하지 말았어야지!
+  reading: ''
+  annot: 마왕을 다치게 하지 말았어야지!
+  translation_zh: 我本来不该伤了魔王的啊！
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 후회
+- 의무
+- 시제
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

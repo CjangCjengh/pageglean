@@ -1,0 +1,31 @@
+id: th-grm-00034
+language: th
+type: grammar
+level: L1
+level_rank: 1
+title: จะ：将来与推测助动词
+structure: จะ + 动词（助动词，表将来、推测或意愿）
+structure_pattern: จะ + คำกริยา (คำช่วยกริยา)
+explanation_zh: 「จะ」是表示将来、推测或意愿的助动词（คำช่วยกริยา），置于动词之前，相当于中文的『会／要／将』。本段中反复出现，既用于假设反问，也用于叙述尚未发生的动作。
+examples:
+- text: จะ​มีก็​แต่​เธอ​คน​นั้น​ล่ะ​ที่​เรียก​ผม​ว่า คุณ​ชา
+  reading: ''
+  annot: จะ​มีก็​แต่​เธอ​คน​นั้น​ล่ะ​ที่​เรียก​ผม​ว่า คุณ​ชา
+  translation_zh: 就只有她会称呼我为『คุณชา』。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 助动词
+- 时态
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 9
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

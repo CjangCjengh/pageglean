@@ -1,0 +1,31 @@
+id: ko-grm-00397
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: 「-(느)ㄴ지 모르다：间接疑问」
+structure: 의문사 + 종속절 어미 '-(느)ㄴ지/(으)ㄴ지' + '모르다/알다'
+structure_pattern: V-는지 / A-(으)ㄴ지 + 모르다
+explanation_zh: '''-(느)ㄴ지''把疑问内容包嵌为从属小句，疑问词保留在原位，后接''모르다/알다''等构成间接疑问。动词现在时用''-는지''，形容词及过去时用''-(으)ㄴ지''。''모르겠다''中的''-겠-''使语气更委婉。'
+examples:
+- text: 뭐가 다른 건지 모르겠다.
+  reading: ''
+  annot: 뭐가 다른 건지 모르겠다.
+  translation_zh: 不知道到底有什么不同。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 연결어미
+- 간접의문
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

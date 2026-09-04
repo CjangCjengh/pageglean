@@ -1,0 +1,38 @@
+id: ja-grm-00357
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 〜てしまう（口语〜ちゃう）：完了与意外、遗憾
+structure: 動詞連用形＋接続助詞「て」＋補助動詞「しまう」（口語形「ちゃう」）
+structure_pattern: V-連用形(て) + しまう / ちゃう(口語)
+explanation_zh: 接动词连用形，表示动作彻底完成，或对已然之事带有遗憾、意外的语气。口语中「てしまう」约音为「ちゃう」。例文『憑依しちゃった』即「憑依してしまった」，属典型的轻小说口语用法。
+examples:
+- text: 気づいてしまった。
+  reading: ''
+  annot: 気づいてしまった。
+  translation_zh: 我察觉到了。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+- text: じゃあ細井さんのＳＦパワーでわたしは坂本くんに憑依しちゃったの？
+  reading: ''
+  annot: じゃあ細井[ほそい]さんのＳＦパワーでわたしは坂本[さかもと]くんに憑依[ひようい]しちゃったの？
+  translation_zh: 那么，是靠着细井同学的SF之力，我附身到坂本同学身上了吗？
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 体貌
+- 口语
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

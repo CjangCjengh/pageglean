@@ -1,0 +1,32 @@
+id: ja-grm-00149
+language: ja
+type: grammar
+level: N3
+level_rank: 3
+title: 使役助動詞＋か：「させるか」的反诘
+structure: 動詞未然形＋せる＋か（反語）
+structure_pattern: V-未然形 + せる + か
+explanation_zh: 使役在学校文法中由助动词「せる」承担（动词未然形＋せる）。句末终助词「か」表反问，形式为疑问实则强烈否定，意为「岂能让（某事发生）／绝不让它得逞」。口语属性强，轻小说战斗场面常见。
+examples:
+- text: ――させるかッ!!
+  reading: ''
+  annot: ――させるかッ!!
+  translation_zh: ——我哪能让你得逞！！
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 助動詞
+- 语气
+- 口语
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

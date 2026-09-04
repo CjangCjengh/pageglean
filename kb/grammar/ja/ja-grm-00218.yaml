@@ -1,0 +1,38 @@
+id: ja-grm-00218
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 「のだ・のです」：解释语气（形式名词「の」）
+structure: 連体形 ＋ のだ／のです
+structure_pattern: 連体形 + のだ/のです
+explanation_zh: 形式名词「の」（口语缩为「ん」）＋断定助動詞「だ・です」，用于解释原委、强调理由或寻求说明。「のですか」带有质问或追究的语感，「なったのです」则郑重地给出结论，比直接结句更有强调意味。
+examples:
+- text: 「何を言っているのですか、倉橋くん？」
+  reading: ''
+  annot: 「何[なに]を言[い]っているのですか、倉橋[くらはし]くん？」
+  translation_zh: “你在说什么呢，仓桥同学？”
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+- text: 彼は『総受けの象徴』となったのです!!
+  reading: ''
+  annot: 彼[かれ]は『総受[そうう]けの象徴[しょうちょう]』となったのです!!
+  translation_zh: “他可是成为了‘总受的化身’啊！！”
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 语气
+- 形式名词
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

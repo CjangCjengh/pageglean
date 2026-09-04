@@ -1,0 +1,39 @@
+id: vi-grm-00119
+language: vi
+type: grammar
+level: L2
+level_rank: 2
+title: 「Để…：目的与提议」
+structure: Để + 分句（目的／提议）
+structure_pattern: Để + clause; kết từ chỉ mục đích / câu cầu khiến
+explanation_zh: để引导目的分句，意为“为了”。口语中置于句首还可表示主动提议，相当于汉语“让我来……／我来……”。片段中两种用法均出现。
+examples:
+- text: Để tao kiếm cho mày một tấm giấy mời xem phim, mày rủ nó đi.
+  reading: ''
+  annot: Để tao kiếm cho mày một tấm giấy mời xem phim, mày rủ nó đi.
+  translation_zh: 我去给你弄一张电影邀请函，然后你约她去。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+- text: Để tôi rủ Hồng Hoa đi chung cho vui!
+  reading: ''
+  annot: Để tôi rủ Hồng Hoa đi chung cho vui!
+  translation_zh: 让我叫上Hồng Hoa一起去，热闹一点！
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 目的
+- 祈使
+- kết từ
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

@@ -1,0 +1,32 @@
+id: vi-grm-00054
+language: vi
+type: grammar
+level: L3
+level_rank: 3
+title: 「hết…này đến…khác」遍指列举
+structure: hết + X này + đến + X khác（cấu trúc liệt kê kế tiếp）
+structure_pattern: hết + X này + đến + X khác
+explanation_zh: 「hết＋名词＋này＋đến＋名词＋khác」表示「一个……又一个……」，强调遍历、数量多，相当于汉语「这个……那个……」。「lùng
+  hết hiệu sách này đến hiệu sách khác」即找遍一家又一家书店。
+examples:
+- text: Chiều hôm đó, tôi phóng xe đi lùng hết hiệu sách này đến hiệu sách khác.
+  reading: ''
+  annot: Chiều hôm đó, tôi phóng xe đi lùng h
+  translation_zh: 那天下午，我骑上车从这家书店到那家书店四处搜寻。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 列举
+- 量化
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

@@ -1,0 +1,31 @@
+id: ja-grm-00501
+language: ja
+type: grammar
+level: N3
+level_rank: 3
+title: 〜んだもん：辩解、撒娇的语气（口语）
+structure: V-終止形 + んだ（＝のだ）+ もん（＝もの）
+structure_pattern: V-終止形 + のだ + もの
+explanation_zh: 「んだ」是解释语气「のだ」的口语形；「もん」是「もの」的口语形，用于给出理由，带有孩子气、撒娇或辩解的语气。片段中「だってボロが出るの怖いんだもん」是典型的自我辩解句式，「だって」同样表原因。属口语表达，正式书面中不使用。
+examples:
+- text: だってボロが出るの怖いんだもん。
+  reading: ''
+  annot: だってボロが出[で]るの怖[こわ]いんだもん。
+  translation_zh: 因为我怕露馅嘛。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 句末/语气
+- 口语
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

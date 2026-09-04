@@ -1,0 +1,31 @@
+id: ko-grm-00310
+language: ko
+type: grammar
+level: TOPIK5
+level_rank: 5
+title: -(으)ㄹ 테지만：推测性让步转折
+structure: 动词冠形形 -(으)ㄹ 터 + 연결어미 -지만
+structure_pattern: V-(으)ㄹ 터이지만(테지만)
+explanation_zh: ‘-(으)ㄹ 터이다’表示基于一定依据的推测（터为依存名词，义为“情形、道理”），后接转折连接词尾‘-지만’，构成“想必……但是……”。先对前情作推测性让步，再引出后句的转折或补充判断。
+examples:
+- text: 클라우는 아직 세레나데의 존재를 모를 테지만, 카이트의 시체와 함께 있는 광경을 본다면 그녀가 황족이라는 것쯤은 쉽게 알아챌 것이다.
+  reading: ''
+  annot: 클라우는 아직 세레나데의 존재를 모를 테지만, 카이트의 시체와 함께 있는 광경을 본다면 그녀가 황족이라는 것쯤은 쉽게 알아챌 것이다.
+  translation_zh: 克劳现在想必还不知道塞蕾娜德的存在，但如果看到她和凯特尸体在一起的情景，应该很容易察觉她是皇族。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 推测
+- 让步
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

@@ -84,11 +84,43 @@ def annot_for_example(text: str, chunk_annot: str) -> str:
     return "".join(out)
 
 
-def adopt_file(path: Path, lang: str, book_id: str = "") -> list[str]:
+def dedup_key(gp: dict) -> str:
+    """去重键：结构式归一（去空白/大小写），无结构式时退回标题。"""
+    s = gp.get("structure_pattern") or gp.get("structure") or gp.get("title_zh") or ""
+    return re.sub(r"\s+", "", s).lower()
+
+
+def load_kb_index(lang: str) -> dict:
+    """扫描 KB 建去重索引：key → {path, entry}。"""
+    idx = {}
+    for f in sorted((KB / "grammar" / lang).glob(f"{lang}-grm-*.yaml")):
+        try:
+            e = yaml.safe_load(f.read_text(encoding="utf-8"))
+        except Exception:  # noqa: BLE001
+            continue
+        idx[dedup_key(e)] = {"path": f, "entry": e}
+    return idx
+
+
+def merge_example_into(existing: dict, new_ex: dict) -> bool:
+    """把新例句并入已有条目（≤2 条、文本不重复）。返回是否改动。"""
+    exs = existing.get("examples") or []
+    texts = {re.sub(r"\s+", "", e.get("text", "")) for e in exs}
+    t = re.sub(r"\s+", "", new_ex.get("text", ""))
+    if len(exs) >= 2 or t in texts or not t:
+        return False
+    exs.append(new_ex)
+    existing["examples"] = exs
+    return True
+
+
+def adopt_file(path: Path, lang: str, book_id: str = "",
+               index: dict | None = None) -> list[str]:
     payload = orjson.loads(Path(path).read_bytes())
     # 兼容两种格式：{result: ..., chunk_text: ...} 或裸候选
     data = payload.get("result", payload)
     chunk_text = payload.get("chunk_text", "")
+    book_id = book_id or payload.get("book_id", "")
     chunk_norm = _norm_for_match(chunk_text)
     written: list[str] = []
     today = dt.date.today().isoformat()
@@ -118,6 +150,21 @@ def adopt_file(path: Path, lang: str, book_id: str = "") -> list[str]:
                 break
         if not examples:
             continue  # 无合格例句不入库
+        # 去重：同结构式命中已有条目 → 合并例句（≤2），不新建
+        key = dedup_key(gp)
+        if index is not None and key in index:
+            hit = index[key]
+            merged = False
+            for ex_model in examples:
+                if merge_example_into(hit["entry"], ex_model.model_dump(mode="json")):
+                    tmp = hit["path"].with_suffix(".yaml.tmp")
+                    tmp.write_text(
+                        yaml.safe_dump(hit["entry"], allow_unicode=True, sort_keys=False),
+                        encoding="utf-8")
+                    tmp.replace(hit["path"])
+                    merged = True
+            written.append(f"{hit['entry']['id']}+例" if merged else "")
+            continue
         entry = GrammarEntry(
             id=next_id(lang, "grm"),
             language=lang,
@@ -131,7 +178,8 @@ def adopt_file(path: Path, lang: str, book_id: str = "") -> list[str]:
             tags=gp.get("tags") or [],
             provenance=Provenance(
                 discovered_in=book_id,
-                frequency_hint=gp.get("frequency_hint"),
+                frequency_hint=int(gp["frequency_hint"])
+                if isinstance(gp.get("frequency_hint"), (int, float)) else None,
                 extracted_by="claude-code",
                 extracted_at=today,
             ),
@@ -140,10 +188,11 @@ def adopt_file(path: Path, lang: str, book_id: str = "") -> list[str]:
         out = KB / "grammar" / lang / f"{entry.id}.yaml"
         out.parent.mkdir(parents=True, exist_ok=True)
         tmp = out.with_suffix(".yaml.tmp")
-        tmp.write_text(
-            yaml.safe_dump(entry.model_dump(mode="json"), allow_unicode=True,
-                           sort_keys=False),
-            encoding="utf-8")
+        dumped = entry.model_dump(mode="json")
+        tmp.write_text(yaml.safe_dump(dumped, allow_unicode=True, sort_keys=False),
+                       encoding="utf-8")
         tmp.replace(out)
         written.append(entry.id)
+        if index is not None:
+            index[key] = {"path": out, "entry": dumped}
     return written

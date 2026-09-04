@@ -1,0 +1,33 @@
+id: th-grm-00088
+language: th
+type: grammar
+level: L2
+level_rank: 2
+title: เดี๋ยว + 动词：马上就……
+structure: เดี๋ยว（时间副词 กริยาวิเศษณ์บอกเวลา）+ กริยา（表即将发生）
+structure_pattern: เดี๋ยว + V
+explanation_zh: เดี๋ยว是时间副词，放在动词前表示动作很快就会发生，相当于“马上、一会儿就……”，比 จะ 更口语化，强调短时间内发生。固定说法
+  เดี๋ยวก่อน 意为“等一下”。
+examples:
+- text: เดี๋ยวก่อนนะ...
+  reading: ''
+  annot: เดี๋ยวก่อน
+  translation_zh: 等一下……
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 体貌
+- 时间副词
+- 口语
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

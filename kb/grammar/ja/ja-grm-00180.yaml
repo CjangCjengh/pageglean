@@ -1,0 +1,31 @@
+id: ja-grm-00180
+language: ja
+type: grammar
+level: N2
+level_rank: 4
+title: 〜ないでもない：双重否定的委婉肯定
+structure: 动词未然形 + 否定助动词「ない」＋ でも ＋ 「ない」
+structure_pattern: V-未然形 + ない + でも + ない
+explanation_zh: 「〜ないでもない」用双重否定表达委婉的肯定，意为“并非不……／多少也有些……”，语气比直接肯定含蓄保留。「思わないでもない」即“也不是不这么想”。属于略带书面色彩的口语表达。
+examples:
+- text: 自分でも『なんでフリーザ様？』と思わないでもないが、今は二度寝に――
+  reading: ''
+  annot: 自分[じぶん]でも『なんでフリーザ様[さま]？』と思[おも]わないでもないが、今[いま]は二度寝[にどね]に――
+  translation_zh: 连我自己也不是没在想“怎么成了弗利萨大人？”，不过现在还是先睡个回笼觉——
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 否定
+- 语气
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

@@ -1,0 +1,32 @@
+id: ja-grm-00488
+language: ja
+type: grammar
+level: N3
+level_rank: 3
+title: 〜なんて：惊讶与难以置信（「など」的口语形）
+structure: 体言／用言連体形 + なんて（＝など）
+structure_pattern: X + なんて
+explanation_zh: 「なんて」是助词「など」的口语变体，表示惊讶、难以置信或轻视，常与副词「まさか」呼应。文中「やっていたなんて」后续结论省略，把震惊之情悬置在句外。
+examples:
+- text: まさか雪瑚がこんなブログをやっていたなんて。
+  reading: ''
+  annot: まさか雪瑚[ゆきこ]がこんなブログをやっていたなんて。
+  translation_zh: 没想到雪瑚竟然在写这种博客。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 助词
+- 语气
+- 口语
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

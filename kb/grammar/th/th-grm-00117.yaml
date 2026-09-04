@@ -1,0 +1,31 @@
+id: th-grm-00117
+language: th
+type: grammar
+level: L3
+level_rank: 3
+title: ด้วย：原因与手段
+structure: คำบุพบท ด้วย + นามวลี (สาเหตุ/วิธีการ)
+structure_pattern: ด้วย + NP (原因/手段)
+explanation_zh: 「ด้วย」是介词（คำบุพบท），既可表示手段“用、以”，也可表示原因“由于、因为”。片段中「ด้วยความโล่งอก」即“如释重负地”。「ด้วยส่วนสูงที่แตกต่างกันเกินไป」用「ด้วย」引出原因，与后文「จึงทำให้…」的结果分句相呼应。
+examples:
+- text: ผม​เห็น​ดังนั้น​จึง​ลอบ​ถอนหายใจ​ออกมา​เบา ๆ ด้วย​ความ​โล่งอก
+  reading: ''
+  annot: ผม​เห็น​ดังนั้น​จึง​ลอบ​ถอนหายใจ​ออกมา​เบา ๆ ด้วย​ความ​โล่งอก
+  translation_zh: 我见状，如释重负地悄悄轻轻叹了口气。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 介词
+- 原因
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

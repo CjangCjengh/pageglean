@@ -1,0 +1,39 @@
+id: ko-grm-00595
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: -ㄹ/을지도 모르다：不确定的推测「也许会……」
+structure: 용언 어간 + 연결어미 '-(으)ㄹ지' + 보조사 '도' + 용언 '모르다'
+structure_pattern: V/A- + -(으)ㄹ지 + 도 + 모르다
+explanation_zh: 在谓词词干后接'-(으)ㄹ지도 모르다'，表示对某事发生的可能性把握不大的推测，相当于'也许会……'。比'-ㄹ 것이다'语气更弱、更没把握，'이다'用'일지도
+  모르다'。
+examples:
+- text: 요나가 악마라면 궁지에 몰렸을 때 본색을 드러낼지도 모른다고 생각했다.
+  reading: ''
+  annot: 요나가 악마라면 궁지에 몰렸을 때 본색을 드러낼지도 모른다고 생각했다.
+  translation_zh: 我想，倘若约拿是恶魔，被逼入绝境时说不定就会露出真面目。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+- text: 다만 상대는 ‘악마’일지도 모른다.
+  reading: ''
+  annot: 다만 상대는 ‘악마’일지도 모른다.
+  translation_zh: 只不过，对手也许正是“恶魔”。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 추측
+- 어미
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

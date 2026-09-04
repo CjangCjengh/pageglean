@@ -1,0 +1,31 @@
+id: ja-grm-00117
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 「〜のは〜だ」：强调句（分裂构文）
+structure: 谓语连体形 + 形式名词「の」+ 係助词「は」…+ 说明部分
+structure_pattern: V連体形 + の + は + … + だ
+explanation_zh: 学校文法中「の」是形式名词，把动词连体形体言化；「は」是係助词，提示主题。「〜のは〜だ」把新信息放到后项加以强调，相当于中文“……的是……”，是小说旁白中极常见的引出句式。
+examples:
+- text: そこにあったのは、一振りの西洋剣。
+  reading: ''
+  annot: そこにあったのは、一振[ひとふ]りの西洋剣[けん]。
+  translation_zh: 那里放着的，是一柄西洋剑。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 構文
+- 形式名詞
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

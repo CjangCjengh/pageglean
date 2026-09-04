@@ -1,0 +1,32 @@
+id: ko-grm-00211
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: 「-기 때문이다：原因说明」
+structure: 用言词干 + -기 때문이다
+structure_pattern: V/A- + -기(명사형 어미) + 때문이다
+explanation_zh: 名词化词尾 '-기' 把前面的事实转成名词，再与 '때문이다' 结合说明原因，相当于“因为……”。书面与口语均常用。片段中以指示词形式出现——'그렇기
+  때문에'（正因如此），承上说明自己只能含糊搪塞的原因。
+examples:
+- text: 그렇기 때문에 내가 할 수 있는 건 대충 얼버무리는 것뿐이었다.
+  reading: ''
+  annot: 그렇기 때문에 내가 할 수 있는 건 대충 얼버무리는 것뿐이었다.
+  translation_zh: 正因如此，我能做的就只有含糊其辞地搪塞过去。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 原因
+- 名词化
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 75
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

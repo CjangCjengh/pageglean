@@ -1,0 +1,32 @@
+id: ko-grm-00131
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: -기 때문이다：是因为……
+structure: 谓词词干 + -기（名词形）+ 때문이다
+structure_pattern: 용언 어간 + 의존명사 기 + 때문이다
+explanation_zh: 「-기 때문이다」表示原因、理由，是'-아/어서'的书面化、客观化说法。谓词词干加'-기'变成名词形，再加'때문이다'，常用于说明或解释，前句多为'그것은/이는…'。相当于中文的『是因为……』。
+examples:
+- text: 그것은 그녀가 인간을 죽이는 행위에서 가장 큰 만족감을 얻기 때문이다.
+  reading: ''
+  annot: 그것은 그녀가 인간을 죽이는 행위에서 가장 큰 만족감을 얻기 때문이다.
+  translation_zh: 那是因为她从杀人的行为中获得最大的满足感。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 因果
+- 书面语
+- 依存名词
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

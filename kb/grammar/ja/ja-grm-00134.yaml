@@ -1,0 +1,39 @@
+id: ja-grm-00134
+language: ja
+type: grammar
+level: N2
+level_rank: 4
+title: 仮に〜としても：即使假设～也
+structure: 副词「仮に」＋用言终止形（或体言＋だ）＋引用助词「と」＋系助词「も」＋动词「する」
+structure_pattern: 仮に + ～としても
+explanation_zh: 由引用助词「と」＋系助词「も」＋动词「する」构成，让步性地承认某一假设情况，意为“即使～也”。常与副词「仮に」呼应，强调前提纯属假设。片段两次使用：即便假想发生什么，因同龄而无妨。
+examples:
+- text: リアは同い年。仮に何かあったとしても問題無い！
+  reading: ''
+  annot: リアは同い年。仮に何かあったとしても問題無い！
+  translation_zh: 莉亚和我同岁。即使假设发生什么，也没问题！
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+- text: 高校生同士で同意の上なら、仮に『そういう仲』だったとしてもそこまで問題にはならない。
+  reading: ''
+  annot: 高校生同士[こうこうせいどうし]で同意[どうい]の上[うえ]なら、仮[かり]に『そういう仲[なか]』だったとしてもそこまで問題[もんだい]にはならない。
+  translation_zh: 如果是同龄的高中生且双方自愿，即使真是“那种关系”，也不至于有多大问题。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 让步
+- 接续
+- 假设
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

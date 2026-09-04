@@ -1,0 +1,32 @@
+id: ja-grm-00476
+language: ja
+type: grammar
+level: N2
+level_rank: 4
+title: 連用形＋ながら：文末截断的余韵表现
+structure: 動詞連用形＋接続助詞「ながら」（句子在「ながら」处截止，不说出后项）
+structure_pattern: V-連用形 + 接続助詞「ながら」（文末止め）
+explanation_zh: 「ながら」本表动作并行，这里故意在后项之前截断，把没说出口的心情留给读者，属于「文末止め」式的余韵表现。轻小说第一人称独白常用它渲染惆怅、迟疑的情绪。朗读时句尾轻轻收住即可。
+examples:
+- text: そう、思いながら。そう、願いながら。
+  reading: ''
+  annot: そう、思[おも]いながら。そう、願[ねが]いながら。
+  translation_zh: 就这样，一边在心里想着。就这样，一边默默祈愿着。（后文留白，余韵未尽）
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 接续
+- 文体
+- 语气
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

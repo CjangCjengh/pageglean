@@ -1,0 +1,31 @@
+id: th-grm-00024
+language: th
+type: grammar
+level: L2
+level_rank: 2
+title: ไม่ค่อย+动词：部分否定「不太……」
+structure: ไม่（否定词）+ ค่อย（คำวิเศษณ์，限用于否定句）+ คำกริยา（动词）
+structure_pattern: ไม่ + ค่อย + คำกริยา
+explanation_zh: ค่อย是程度副词，表示程度轻，但几乎只用于否定句；ไม่ค่อย+动词/形容词表示“不太……、不怎么……”，属于部分否定。如รับไม่ค่อยได้＝“不太能接受”。它与完全否定ไม่ได้（没有／不能）形成对照，是中文母语者易忽略的细微差别。
+examples:
+- text: ในใจ​ตอนนั้น​มัน​จะ​รับ​ไม่ค่อย​ได้
+  reading: ''
+  annot: ในใจ​ตอนนั้น​มัน​จะ​รับ​ไม่ค่อย​ได้
+  translation_zh: 那时心里其实不太能接受。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 否定
+- 副词
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

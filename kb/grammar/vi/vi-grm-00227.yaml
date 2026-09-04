@@ -1,0 +1,33 @@
+id: vi-grm-00227
+language: vi
+type: grammar
+level: L4
+level_rank: 4
+title: chưa hề... bao giờ：从未有过
+structure: chưa hề + 动词 + bao giờ
+structure_pattern: chưa hề + V + bao giờ
+explanation_zh: chưa 表示「尚未」，加 hề 加强否定语气（口语常见），句末 bao giờ 进一步强化「从来、从未」之意，相当于汉语「从没……过」。片段中与
+  hệt như 连用，写心情轻松得仿佛两人从未吵过架。
+examples:
+- text: …tôi cảm thấy lòng mình vô cùng nhẹ nhõm hệt như tôi với Tiểu Li chưa hề giận
+    nhau bao giờ.
+  reading: ''
+  annot: ''
+  translation_zh: ……我感到心里无比轻松，就好像我和小梨从来没有闹过别扭似的。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 体貌
+- 否定
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

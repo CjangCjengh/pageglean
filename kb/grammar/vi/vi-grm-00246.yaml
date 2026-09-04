@@ -1,0 +1,31 @@
+id: vi-grm-00246
+language: vi
+type: grammar
+level: L3
+level_rank: 3
+title: đành phải：只好、不得不
+structure: đành phải + V
+structure_pattern: đành phải + V
+explanation_zh: đành 表示不情愿地接受，đành phải V 即“只好、不得不做某事”，强调无奈与勉强。与仅表义务的 phải 相比，多了“别无选择、只得如此”的意味。
+examples:
+- text: Trước lý lẽ của nó, tôi đành phải chôn chặt tình cảm vào đáy lòng
+  reading: ''
+  annot: Trước lý lẽ của nó, tôi đành phải chôn chặt tình cảm vào đáy lòng
+  translation_zh: 面对他那一套道理，我只好把感情深埋心底。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 情态
+- 语气
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 0
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

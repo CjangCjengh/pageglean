@@ -1,0 +1,33 @@
+id: ko-grm-00041
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: 「-(으)면서도：转折性的同时进行」
+structure: 谓词词干 + 连接词尾 -(으)면서 + 添意助词 도
+structure_pattern: V-(으)면서 + 도
+explanation_zh: 连接词尾 -(으)면서 表示两个动作或状态同时进行，叠加添意助词 도 后产生转折意味，相当于「虽然一边……却……」。与单纯表示并行的
+  -면서 不同，-면서도 强调前后情况的矛盾对立。片段中「眼含泪水却直瞪着我」正是这种矛盾语气的典型用例。
+examples:
+- text: 눈물을 글썽이면서도 나를 똑바로 노려보고 있는 그 얼굴을 바라보며, 마음이 아파 오는 것을 느꼈다.
+  reading: ''
+  annot: 눈물을 글썽이면서도 나를 똑바로 노려보고 있는 그 얼굴을 바라보며, 마음이 아파 오는 것을 느꼈다.
+  translation_zh: 望着那张眼含泪水却依然直直瞪着我的脸，我感到心里一阵疼痛。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 连接词尾
+- 转折
+- 并行
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

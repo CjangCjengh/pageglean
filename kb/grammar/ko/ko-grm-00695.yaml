@@ -1,0 +1,40 @@
+id: ko-grm-00695
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: -더라/-던：回想亲历之事
+structure: 用言词干 + 回想先语末词尾 -더- + 终结/定语词尾
+structure_pattern: V/A-더- + -더라; V-더- + -ㄴ(던) + N
+explanation_zh: -더-是学校文法中的「回想」先语末词尾，表示回忆说话人亲身经历或看到的过去事实。终结词尾-더라带有回味、感叹的口语语感；与定语词尾结合成-던，用来修饰记忆中的对象，如「걷어차던
+  어린 여자애」。
+examples:
+- text: 가면을 쓰고 있었는데도, 단번에 알아보겠더라.
+  reading: ''
+  annot: 가면을 쓰고 있었는데도, 단번에 알아보겠더라.
+  translation_zh: 虽然戴着面具，（我）还是一眼就认出来了。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+- text: 나는 아직도 너를 내 정강이를 걷어차던, 그 옛날 어린 여자애처럼 생각하고 마는 것일까.
+  reading: ''
+  annot: 나는 아직도 너를 내 정강이를 걷어차던, 그 옛날 어린 여자애처럼 생각하고 마는 것일까.
+  translation_zh: 我终究还是把你当成从前那个踢我小腿的小女孩了吗。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 先语末词尾
+- 回想
+- 语气
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

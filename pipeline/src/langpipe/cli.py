@@ -169,7 +169,8 @@ def chunk(book: str, target: int = 2000):
 
 
 @app.command()
-def extract(book: str, max_chunks: int = 5, start: int = 0, target: int = 2000):
+def extract(book: str, max_chunks: int = 5, start: int = 0, target: int = 2000,
+          timeout: int = 900):
     """S4b 试点：claude -p 提取语法点（禁用工具，纯 JSON 输出）。"""
     from .extract.chunk import chunk_book
     from .extract.claude_runner import run_claude
@@ -197,7 +198,7 @@ def extract(book: str, max_chunks: int = 5, start: int = 0, target: int = 2000):
         led.enqueue(task_id, "s4b_extract", book_id=book, item_key=str(ch["chunk_idx"]))
         led.claim(task_id)
         try:
-            res = run_claude(prompt)
+            res = run_claude(prompt, timeout=timeout)
             payload = {
                 "book_id": book,
                 "chunk_idx": ch["chunk_idx"],
@@ -222,7 +223,14 @@ def extract(book: str, max_chunks: int = 5, start: int = 0, target: int = 2000):
 @app.command()
 def adopt(file: Path, lang: str, book: str = ""):
     """把提取候选采纳入 kb/（draft）。"""
+    import json as _json
+
     from .merge.adopt import adopt_file
+    if not book:
+        try:
+            book = _json.loads(Path(file).read_text(encoding="utf-8")).get("book_id", "")
+        except Exception:  # noqa: BLE001
+            pass
     ids = adopt_file(file, lang, book)
     typer.echo(f"入库 {len(ids)} 条: {', '.join(ids) if ids else '（无）'}")
 
@@ -381,6 +389,24 @@ def annotate(lang: str = "ja", workers: int = 3):
     with cf.ThreadPoolExecutor(max_workers=workers) as ex:
         for msg in ex.map(_one, files):
             typer.echo(msg)
+
+
+@app.command()
+def adopt_all(lang: str = "all"):
+    """批量采纳候选（跨文件去重：同结构式合并例句而非新建）。"""
+    from .merge.adopt import adopt_file, load_kb_index
+
+    langs = ["ja", "ko", "th", "vi"] if lang == "all" else [lang]
+    for lg in langs:
+        idx = load_kb_index(lg)
+        created = merged = 0
+        for f in sorted((CANDIDATES / lg / "grammar").glob("*.json")):
+            for i in adopt_file(f, lg, index=idx):
+                if i.endswith("+例"):
+                    merged += 1
+                elif i:
+                    created += 1
+        typer.echo(f"[adopt-all] {lg}: 新建 {created} 条, 合并例句 {merged} 处")
 
 
 @app.command()

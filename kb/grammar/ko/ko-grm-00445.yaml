@@ -1,0 +1,38 @@
+id: ko-grm-00445
+language: ko
+type: grammar
+level: TOPIK2
+level_rank: 2
+title: 「-ㄴ/는 것 같다：委婉的推测」
+structure: 용언 + 관형사형 어미 -ㄴ/는 + 의존명사 '것' + 형용사 '같다'
+structure_pattern: V/A-ㄴ/는 것 + 같다
+explanation_zh: 依存名词것把前面的内容名词化，再由冠形词形词尾-ㄴ/는修饰，配合같다表示推测，相当于中文的"好像……"。动词现在时用-는，形容词和过去时用-ㄴ。语气比直接断言委婉，在口语和叙述中都非常高频。
+examples:
+- text: 나 아무래도 소울 메이드를 찾은 것 같아……!
+  reading: ''
+  annot: 나 아무래도 소울 메이드를 찾은 것 같아……!
+  translation_zh: 我好像找到灵魂女仆了……！
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+- text: 완전히 다른 의미인 것 같은데?
+  reading: ''
+  annot: 완전히 다른 의미인 것 같은데?
+  translation_zh: 好像完全是另一个意思吧？
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 依存名词
+- 推测
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

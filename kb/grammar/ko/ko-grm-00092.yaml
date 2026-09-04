@@ -1,0 +1,32 @@
+id: ko-grm-00092
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: -(으)ㄴ/는 모양이다：看来、似乎
+structure: 谓词词干 + 冠形词形转成词尾 -(으)ㄴ/는 + 依存名词 '모양' + 서술격 조사 '이다'
+structure_pattern: 용언 어간 + -(으)ㄴ/는 모양이다
+explanation_zh: 依存名词 '모양' 本义'样子、情形'，根据外部观察到的迹象做出推测，相当于'看来、好像'。与 '-(으)ㄴ/는 것 같다' 近义，但更强调依据眼前状况做出的判断。
+examples:
+- text: 그래도 2시간이나 전투를 하니 한계에 도달한 모양이다.
+  reading: ''
+  annot: 그래도 2시간이나 전투를 하니 한계에 도달한 모양이다.
+  translation_zh: 不过，连续战斗了整整两个小时，看来是到达极限了。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 推测
+- 依存名词
+- 观察
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

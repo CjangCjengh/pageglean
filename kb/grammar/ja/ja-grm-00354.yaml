@@ -1,0 +1,31 @@
+id: ja-grm-00354
+language: ja
+type: grammar
+level: N2
+level_rank: 4
+title: 「〜とする」：意志与决定“干脆就……吧”
+structure: 意志助动词「う・よう」（学校文法接未然形）＋格助词「と」＋动词「する」
+structure_pattern: V-意志形（助動詞う/よう）+ と + する
+explanation_zh: 意志助动词「う・よう」加「とする」，表示决定采取某种做法，或即将做某事。文中「潔く譲るとする」即“干脆就让给你算了”，是说话人作出的（自暴自弃式的）决定。与表示尝试的「〜てみる」不同，「〜とする」侧重于决断或时间上的临近。
+examples:
+- text: 家族や世間に迷惑をかけた身だ。潔くおまえに譲るとするさ。
+  reading: ''
+  annot: 家族や世間に迷惑をかけた身だ。潔くおまえに譲るとするさ。
+  translation_zh: 我已经是给家人和世人添了麻烦的人了，就痛痛快快（把这具身体）让给你算了。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 语气
+- 意志
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

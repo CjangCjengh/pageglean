@@ -1,0 +1,32 @@
+id: vi-grm-00300
+language: vi
+type: grammar
+level: L2
+level_rank: 2
+title: thì 话题句：「提它干什么」
+structure: 话题 + thì + 评述（本句为反问 nói làm gì）
+structure_pattern: Topic + thì + Comment
+explanation_zh: thì 是话题标记虚词，置于被提前的成分之后，引出评述，相当于汉语「（至于）……嘛」。本句话题是 Chuyện hôm qua（昨天的事），评述部分用反问
+  nói làm gì（说来干什么），表示不值一提。
+examples:
+- text: Chuyện hôm qua thì nói làm gì!
+  reading: ''
+  annot: Chuyện hôm qua thì nói làm gì!
+  translation_zh: 昨天的事还提它干什么！
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 话题化
+- 语气
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

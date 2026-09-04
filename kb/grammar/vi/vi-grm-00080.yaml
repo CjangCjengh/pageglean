@@ -1,0 +1,39 @@
+id: vi-grm-00080
+language: vi
+type: grammar
+level: L2
+level_rank: 2
+title: thì：连接话题与评述
+structure: 话题（khởi ngữ）/条件 + thì + 评述分句（连词 quan hệ từ）
+structure_pattern: Khởi ngữ + thì + mệnh đề
+explanation_zh: thì 是越南语的连词（quan hệ từ），连接前置的话题或条件与后面的评述，相当于汉语「（说到）……嘛／……的话就」。片段中「Mượn
+  sách thì…」用 thì 提顿话题，后句表明说话人的态度；也可表顺承「那么」。口语中使用频率极高，是越南语句读节奏的重要标记。
+examples:
+- text: Mượn sách thì nói làm quái gì!
+  reading: ''
+  annot: Mượn sách thì nói làm quái gì!
+  translation_zh: 不过是借本书，有什么好说的！
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+- text: Thế thì tao hiểu rồi!
+  reading: ''
+  annot: Thế thì tao hiểu rồi!
+  translation_zh: 那么我就明白了！
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 连词
+- 话题
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 7
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

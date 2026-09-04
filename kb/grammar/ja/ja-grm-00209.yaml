@@ -1,0 +1,38 @@
+id: ja-grm-00209
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 〜ておく：预先做好准备
+structure: 動詞連用形 + 接続助詞「て」 + おく（複合動詞）
+structure_pattern: V-て + おく
+explanation_zh: 接动词连用形＋「て」构成复合动词，表示预先做好某事以备后用。口语中常缩略为「〜とく」。片段「手を打っておく」即“事先采取措施”。
+examples:
+- text: 少し、危険な兆候が見受けられる者が。――何か、手を打っておくべきか。
+  reading: ''
+  annot: 少[すこ]し、危険[きけん]な兆候[ちょうこう]が見受[みう]けられる者[もの]が。――何[なに]か、手[て]を打[う]っておくべきか。
+  translation_zh: 有几个人身上显出些许危险的征兆。――是不是该事先采取点措施呢。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+- text: とりあえず叫んだ。とりあえず叫んでおいた。
+  reading: ''
+  annot: とりあえず叫[さけ]んだ。とりあえず叫[さけ]んでおいた。
+  translation_zh: 总之我先喊了一嗓子。总之我姑且先喊一嗓子再说。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 体貌
+- 複合動詞
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

@@ -1,0 +1,33 @@
+id: ko-grm-00495
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: -는 한편：一方面……却又……
+structure: 动词词干 + 连接词尾 -는 한편（形容词为 -(으)ㄴ 한편）
+structure_pattern: V + -는 한편
+explanation_zh: 连接词尾 -는 한편 表示两种情况同时存在并形成对照，相当于“一方面……另一方面（却）……”，多用于书面或较正式的叙述。句中“完美해
+  보이는 한편”把“看起来完美”与“隐隐觉得违和”两种感受并置对照。也可只表并列，译为“与此同时”。
+examples:
+- text: 식당에서 보았던 세 명은 근심 걱정 없이 완벽해 보이는 한편, 어딘가 위화감이 들었던 것도 사실이었다.
+  reading: ''
+  annot: 식당에서 보았던 세 명은 근심 걱정 없이 완벽해 보이는 한편, 어딘가 위화감이 들었던 것도 사실이었다.
+  translation_zh: 在餐厅见到的那三个人看似无忧无虑、十分完美，但另一方面，隐隐感到某种违和感也是事实。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 连接词尾
+- 对照
+- 书面语
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

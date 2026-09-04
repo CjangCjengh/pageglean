@@ -1,0 +1,40 @@
+id: ko-grm-00330
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: -(으)ㄹ 듯하다：仿佛要……似的
+structure: 动/形词干 + -(으)ㄹ 듯(하다)
+structure_pattern: V/A-(으)ㄹ + 의존명사 '듯' (+ 서술격 조사 '하다')
+explanation_zh: 依存名词 듯 表示样态或推测，接冠形词形 -(으)ㄹ 后可作定语，也可搭配 하다 作谓语，意为“像是要……似的”“似乎……”。用于生动的比喻或不确定的判断。比
+  -는 것 같다 更具文学色彩。
+examples:
+- text: 그와 동시에 하늘을 뒤덮을 듯한 수천 개의 칼날이 출현했다.
+  reading: ''
+  annot: 그와 동시에 하늘을 뒤덮을 듯한 수천 개의 칼날이 출현했다.
+  translation_zh: 与此同时，数千把仿佛要遮天蔽日的刀刃出现了。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+- text: 내가 거짓말을 하고 있는 게 아니고, 정말로 자신이 죽게 될 것임을 이해한 듯했다.
+  reading: ''
+  annot: 내가 거짓말을 하고 있는 게 아니고, 정말로 자신이 죽게 될 것임을 이해한 듯했다.
+  translation_zh: （他）似乎明白了我并没有说谎，自己真的将会死去。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 依存名词
+- 推测
+- 样态
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

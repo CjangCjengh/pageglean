@@ -1,0 +1,31 @@
+id: ja-grm-00443
+language: ja
+type: grammar
+level: N5
+level_rank: 1
+title: 必须……：〜なければならない（义务）」
+structure: 动词未然形＋否定助动词なければ＋ならない
+structure_pattern: V-未然形 + なければならない
+explanation_zh: 接动词未然形，表示义务“必须～”。「なければ」是否定助动词「ぬ」的未然形，与「ならない」组合，字面义为“不做就不行”。片段中「遡らなければならない」表示说明必须从前天讲起。
+examples:
+- text: なぜこんなことになっているのかを説明するには、一昨日にまで遡らなければならない。
+  reading: ''
+  annot: なぜこんなことになっているのかを説明[せつめい]するには、一昨日[おととい]にまで遡[さかのぼ]らなければならない。
+  translation_zh: 要说明为什么会变成这样，就必须一直追溯到前天。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 助动词
+- 义务
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

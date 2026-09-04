@@ -1,0 +1,38 @@
+id: ko-grm-00367
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: 「-(으)면서/-(으)며：同时进行的动作」
+structure: 동사 어간 + -(으)면서 / -(으)며（대등적 연결어미）
+structure_pattern: V + -(으)면서 / -며
+explanation_zh: 表示同一主语的两个动作同时进行，相当于“一边……一边……”。“-며”是其书面、简洁的形式，多用于叙述文体。前后动作的主语须一致。
+examples:
+- text: 세레나데는 그렇게 속삭이면서 내 품 안으로 파고들었다.
+  reading: ''
+  annot: 세레나데는 그렇게 속삭이면서 내 품 안으로 파고들었다.
+  translation_zh: 塞蕾纳德那样低声说着，钻进了我的怀里。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+- text: 예상외로 세레나데는 살짝 얼굴을 붉히며 쑥스러워하는 반응을 보였다.
+  reading: ''
+  annot: 예상외로 세레나데는 살짝 얼굴을 붉히며 쑥스러워하는 반응을 보였다.
+  translation_zh: 出乎意料，塞蕾纳德微微红了脸，露出害羞的反应。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 연결어미
+- 동시 동작
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

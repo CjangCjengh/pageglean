@@ -1,0 +1,31 @@
+id: ja-grm-00378
+language: ja
+type: grammar
+level: N2
+level_rank: 4
+title: 〜始末だ：落得……的地步（消极结局）
+structure: 用言連体形＋始末（名词）＋だ
+structure_pattern: V連体形 + 始末だ
+explanation_zh: 名词「始末」本义为「处理、情形」，「〜始末だ」表示最终落得某种（多为不如意的）地步，带有无奈、不堪的语气。前面往往铺陈一连串消极状况，最后以「始末」结句，多用于书面叙述。
+examples:
+- text: 『勝手に進めるな！』と怒られる始末。
+  reading: ''
+  annot: 『勝手[かって]に進めるな！』と怒られる始末。
+  translation_zh: 结果反倒被她吼「别擅自往下拼！」——真是落到这步田地。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 语气
+- 书面
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

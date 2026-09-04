@@ -1,0 +1,38 @@
+id: ko-grm-00268
+language: ko
+type: grammar
+level: TOPIK2
+level_rank: 2
+title: 「-(으)니까：理由与根据」
+structure: 용언 어간 + -(으)니까（이유 연결 어미）
+structure_pattern: 용언 어간 + -(으)니까
+explanation_zh: -(으)니까是表示原因、根据的连接词尾，前句是后句的理由。也可以直接用于句末，以补充说明的口吻收尾。本段对话中克劳用-(으)니까解释防御魔法的原理，带有「理所当然」的语气。
+examples:
+- text: 루시가 입고 있던 정장의 등 부분이 찢어지면서, 수없이 많은 촉수가 뻗어 나와 클라우를 덮쳤으니까.
+  reading: ''
+  annot: 루시가 입고 있던 정장의 등 부분이 찢어지면서, 수없이 많은 촉수가 뻗어 나와 클라우를 덮쳤으니까.
+  translation_zh: 原来，露西穿着的西装背部撕裂开来，无数触手伸展而出，向克劳袭去。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+- text: 입이나 코, 귀를 노리는 건 쉽게 할 수 있는 발상이지. 몸 안으로 침투하기 좋은 통로니까.
+  reading: ''
+  annot: 입이나 코, 귀를 노리는 건 쉽게 할 수 있는 발상이지. 몸 안으로 침투하기 좋은 통로니까.
+  translation_zh: 瞄准嘴巴、鼻子、耳朵是很容易想到的主意，因为那是便于侵入体内的通道。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 连接词尾
+- 理由根据
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

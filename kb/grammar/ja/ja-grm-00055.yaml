@@ -1,0 +1,32 @@
+id: ja-grm-00055
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 〜と思っていた：一直以为／认为……
+structure: 普通体 + と思っていた／いました
+structure_pattern: 普通形 + と思っていた
+explanation_zh: 引用助词「と」＋「思っていた」，表示过去持续的想法「一直觉得～、本以为～」。常暗示该想法与后来的事实形成反差。「彼なら」的「なら」是以对方为话题，「如果是他的话、说到他」。
+examples:
+- text: 彼なら、きっといつかヤらかすと思っていました
+  reading: かれなら、きっといつかヤらかすとおもっていました
+  annot: 彼なら、きっといつかヤらかすと思っていました
+  translation_zh: 如果是他的话，我一直觉得他迟早会闯出祸来
+  source_book: book-ja-001
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 引用
+- 体貌
+- 接续
+provenance:
+  discovered_in: book-ja-001
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

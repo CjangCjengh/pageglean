@@ -1,0 +1,31 @@
+id: ja-grm-00278
+language: ja
+type: grammar
+level: N3
+level_rank: 3
+title: 〜じゃん：口语终助词（「ではないか」的缩略）
+structure: 用言终止形（简体）＋终助词「じゃん」
+structure_pattern: 普通形 + じゃん(=ではないかの縮約)
+explanation_zh: 口语终助词，由「ではないか」缩略而来，用于主张自己的判断或指出对方理应认同的事实，带有提醒、说服的语气。「イスカも友達じゃん」＝伊丝卡不也是朋友嘛。语气随便，轻小说日常对话中高频出现。
+examples:
+- text: だって、イスカも友達じゃん？
+  reading: ''
+  annot: だって、イスカも友達[ともだち]じゃん？
+  translation_zh: 因为，伊丝卡不也是朋友嘛？
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 终助词
+- 口语
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

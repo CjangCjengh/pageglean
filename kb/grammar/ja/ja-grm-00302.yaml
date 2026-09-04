@@ -1,0 +1,31 @@
+id: ja-grm-00302
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 〜のに：明明……却……
+structure: 用言連体形 + 接続助詞「のに」
+structure_pattern: V/A連体形 + のに
+explanation_zh: 接续助词「のに」接在用言连体形后，表示与预期相反的逆接，含意外、不满的语气，相当于中文“明明……却……”。注意与“形式名词の＋格助詞に”（如表目的）区分。
+examples:
+- text: 戸惑っていたのに、そう問われると律儀に考えるイスカ。
+  reading: ''
+  annot: 戸惑[とまど]っていたのに、そう問[と]われると律儀[りちぎ]に考[かんが]えるイスカ。
+  translation_zh: 明明还不知所措，被这样一问，伊斯卡却老老实实地认真思考起来。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 接续
+- 语气
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

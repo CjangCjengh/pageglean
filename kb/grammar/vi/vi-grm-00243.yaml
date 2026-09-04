@@ -1,0 +1,31 @@
+id: vi-grm-00243
+language: vi
+type: grammar
+level: L4
+level_rank: 4
+title: chưa kịp ... thì ... đã：还没来得及……就……
+structure: chưa kịp + V1 thì (S) + đã + V2
+structure_pattern: chưa kịp + V + thì … đã + V
+explanation_zh: kịp 意为“来得及”，chưa kịp V 即“还没来得及做 V”。后句用 thì 与已完成的 đã 呼应，表示前一动作尚未完成，后一动作就已发生，强调事态快到让人来不及反应。
+examples:
+- text: nhưng tôi chưa kịp hỏi lại thì nó đã chạy mất
+  reading: ''
+  annot: nhưng tôi chưa kịp hỏi lại thì nó đã chạy mất
+  translation_zh: 可我还没来得及追问，他就已经跑没影了。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 体貌
+- 时间关系
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 0
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

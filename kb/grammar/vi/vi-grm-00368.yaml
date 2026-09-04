@@ -1,0 +1,39 @@
+id: vi-grm-00368
+language: vi
+type: grammar
+level: L2
+level_rank: 2
+title: 句末“chứ”：征询确认的反问
+structure: 陈述小句 + chứ?
+structure_pattern: Clause + chứ
+explanation_zh: chứ 放在句末构成附加疑问，说话人心中已有较肯定的预期，只求对方确认，相当于汉语“…吧？／…是吧？”。片段中“mày phải ở
+  lại học nốt năm học này chứ?”满怀侥幸地求证“你得留下来念完这学期吧？”。在答句“A chứ B nào!”中则表强调取舍，“是A，还能是哪个B！”。
+examples:
+- text: Nhưng mày phải ở lại học nốt năm học này chứ?
+  reading: ''
+  annot: Nhưng mày phải ở lại học nốt năm học này chứ?
+  translation_zh: 但你得留下来念完这学年，是吧？
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+- text: Cục đá ở trên cổ mày chứ cục đá nào!
+  reading: ''
+  annot: Cục đá ở trên cổ mày chứ cục đá nào!
+  translation_zh: 就是你脖子上的那块石头啊，还能是哪块！
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 疑问
+- 语气词
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

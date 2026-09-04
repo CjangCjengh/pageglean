@@ -1,0 +1,32 @@
+id: ja-grm-00455
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 〜ちゃいけない・〜なきゃいけない：口语的禁止与义务
+structure: 動詞連用形＋ちゃ＋いけない（禁止）／動詞未然形＋なきゃ＋いけない（义务）
+structure_pattern: V-連用形 + ては→ちゃ + いけない / V-未然形 + なければ→なきゃ + いけない
+explanation_zh: 「ちゃ」是「ては」（接続助詞「て」＋係助詞「は」）的口语音便，「なきゃ」是「なければ」（否定の助動詞「ない」の仮定形「なけれ」＋接続助詞「ば」）的音便。前者接动词连用形表示禁止“不能…”，后者接动词未然形表示义务“必须…”，均为轻小说高频口语。文中两处均以「〜いけないんだ」收尾，叠加了自我说服的语气。
+examples:
+- text: だから、俺がこの子を泣かせなきゃいけないんだ。
+  reading: ''
+  annot: だから、俺[おれ]がこの子[こ]を泣[な]かせなきゃいけないんだ。
+  translation_zh: 所以，得由我来让这个女孩子哭才行。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 口语
+- 禁止与义务
+- 动词接续
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 5
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

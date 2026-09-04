@@ -1,0 +1,39 @@
+id: ja-grm-00157
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 「〜ちゃダメ」：〜ては的口语缩约（“一……就不行”）
+structure: V-連用形＋て＋は → ちゃ（口语缩约）
+structure_pattern: V-て + は → ちゃ
+explanation_zh: 接续助词「て」后接助词「は」构成的「〜ては」，在口语中促音便缩约为「ちゃ」，后接否定评价表示“一……就不行”。「食べちゃダメ」即「食べてはいけない」。此为典型口语形式，书面仍作「〜ては」。
+examples:
+- text: 慌てて『食べちゃダメ』、そう言おうとしたイスカ。
+  reading: ''
+  annot: 慌[あわ]てて『食[た]べちゃダメ』、そう言[い]おうとしたイスカ。
+  translation_zh: 伊斯卡慌慌张张地正想说“不可以吃”。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+- text: ……あんな顔されちゃ、ダメって言えないよ……！
+  reading: ''
+  annot: ……あんな顔[かお]されちゃ、ダメって言[い]えないよ……！
+  translation_zh: ……被露出那种表情，就说不出“不行”了啊……！
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 口语
+- 缩约形
+- 禁止
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

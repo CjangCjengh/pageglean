@@ -1,0 +1,32 @@
+id: ko-grm-00508
+language: ko
+type: grammar
+level: TOPIK5
+level_rank: 5
+title: -(으)ㄹ 법하다：难怪……／……也不奇怪
+structure: 动词未来定语词尾 -(으)ㄹ + 依存名词 법 + 하다
+structure_pattern: V-(으)ㄹ 법하다
+explanation_zh: 법 表示"道理、情理"，整个结构表示某事合乎情理、完全有可能，相当于"难怪……""……也是应该的"。片段中与助词 -나 搭配（동화책에나
+  나올 법한），强调"只有童话书里才可能出现"。
+examples:
+- text: 어린애들이 읽는 동화책에나 나올 법한 훈훈한 분위기가 여기에 있었다.
+  reading: ''
+  annot: 어린애들이 읽는 동화책에나 나올 법한 훈훈한 분위기가 여기에 있었다.
+  translation_zh: 这里有着仿佛只会出现在孩子们读的童话书里的温馨氛围。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 推测
+- 语气
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

@@ -1,0 +1,39 @@
+id: vi-grm-00363
+language: vi
+type: grammar
+level: L2
+level_rank: 2
+title: V + được：结果实现与可能性
+structure: 动词 + được（表示做到/能做到）
+structure_pattern: V + được; không + V + được
+explanation_zh: được 置于动词之后，表示动作达到结果或具备可能性，相当于汉语的「到」「成」「能」。否定时说 không + V + được，即「没能……」。如
+  thực hiện được lời hứa（兑现诺言）、mở miệng được（开得了口）。
+examples:
+- text: Nhưng mùa hè năm đó, tôi không thực hiện được lời hứa với Tiểu Li.
+  reading: ''
+  annot: Nhưng mùa hè năm đó, tôi không thực hiện được lời hứa với Tiểu Li.
+  translation_zh: 但那年夏天，我没能兑现对小莉许下的诺言。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+- text: 'Mãi một lúc, tôi mới mở miệng được, lòng cố bám víu một hy vọng cuối cùng:'
+  reading: ''
+  annot: 'Mãi một lúc, tôi mới mở miệng được, lòng cố bám víu một hy vọng cuối cùng:'
+  translation_zh: 过了好一会儿我才开得了口，心里拼命抓住最后一线希望：
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 补语
+- 可能
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

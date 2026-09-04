@@ -1,0 +1,32 @@
+id: ko-grm-00653
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: -는 한：只要…（条件限度）
+structure: 용언 어간 + 관형사형 전성어미 '-는' + 의존명사 '한'
+structure_pattern: V-는 한
+explanation_zh: 冠形词形词尾 -는 加依存名词 한（限度），表示“只要……（就）”“在……的范围内”。用于设定条件或界限，强调在该条件成立时结论不变。
+examples:
+- text: 살아가는 한, 어쩔 수 없는 일이라고.
+  reading: ''
+  annot: 살아가는 한, 어쩔 수 없는 일이라고.
+  translation_zh: 只要还活着，这就是无可奈何的事。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 依存名词
+- 条件
+- 接续
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

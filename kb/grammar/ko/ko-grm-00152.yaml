@@ -1,0 +1,40 @@
+id: ko-grm-00152
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: -(으)면 좋겠다：希望与委婉请求
+structure: 动词词干 + -(으)면 좋겠다 / -(으)면 한다
+structure_pattern: V- + -(으)면 좋겠다
+explanation_zh: -(으)면 좋겠다 表示说话人的愿望，相当于“希望……”“要是……就好了”；用过去时 -았/었으면 좋겠다 时，常表示希望对方做某事，是委婉的请求。结尾换成
+  -(으)면 한다 则语气更含蓄、书面。片段中“줬으면 좋겠어”与两个“줬으면 한다”分别用于请求与陈述委托内容。
+examples:
+- text: 가짜 이름은 아니니까 수상하게 생각하지 말아 줬으면 좋겠어.
+  reading: ''
+  annot: 가짜 이름은 아니니까 수상하게 생각하지 말아 줬으면 좋겠어.
+  translation_zh: 这又不是假名字，希望你们别觉得可疑。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+- text: 어디에 나타난 몬스터를 퇴치해 줬으면 한다, 어디에 숨겨진 보물을 찾아 줬으면 한다.
+  reading: ''
+  annot: 어디에 나타난 몬스터를 퇴치해 줬으면 한다, 어디에 숨겨진 보물을 찾아 줬으면 한다.
+  translation_zh: 比如希望你们去讨伐出现在某处的怪物，希望你们去寻找藏在某处的宝物。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 愿望
+- 请求
+- 语气
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

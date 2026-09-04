@@ -1,0 +1,33 @@
+id: vi-grm-00128
+language: vi
+type: grammar
+level: L3
+level_rank: 3
+title: 「Mãi đến khi…mới」：直到……才……
+structure: Mãi đến khi + 时间/事件，主语 + mới + V
+structure_pattern: Mãi_đến_khi + Clause, S + mới + V
+explanation_zh: 「mãi đến khi」意为“直到……（的时候）”，「mãi」强调过程漫长或不易。主句用「mới」（才）呼应，表示动作发生得晚。整体相当于中文“直到……才……”。
+examples:
+- text: Mãi đến khi ngồi dậy đi tắm, tôi mới chợt hiểu ra "tiệu là vây" tức là "vậy
+    là tiêu".
+  reading: ''
+  annot: 'Mãi đến khi ngồi dậy đi tắm, tôi mới chợt '
+  translation_zh: 直到坐起身去洗澡，我才猛然明白：“tiệu là vây”原来就是“vậy là tiêu”（这下完了）。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 时间
+- 强调
+- 句式
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 6
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

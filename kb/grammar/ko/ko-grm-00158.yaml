@@ -1,0 +1,39 @@
+id: ko-grm-00158
+language: ko
+type: grammar
+level: TOPIK2
+level_rank: 2
+title: -잖아(요)：提醒已知事实
+structure: 谓词词干 + -잖아(요)（否定补助连接词尾 -지 + 补助形容词 않다 + -아/어요 的缩略形）
+structure_pattern: V/A-잖아(요)
+explanation_zh: -지 않아요 的缩略形，但不是单纯否定，而是说话人提醒、强调对方理应知道的事实的终结词尾。用于疑问句时带有反驳或寻求认同的语气。口语会话中高频出现。
+examples:
+- text: 너희들 아직 성장기잖아? 그 정도로 배가 차겠어?
+  reading: ''
+  annot: 너희들 아직 성장기잖아? 그 정도로 배가 차겠어?
+  translation_zh: 你们还在长身体不是吗？就那点东西能吃饱吗？
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+- text: 그래야 여기가 ‘우리 집’이라는 느낌이 드는 거잖아.
+  reading: ''
+  annot: 그래야 여기가 ‘우리 집’이라는 느낌이 드는 거잖아.
+  translation_zh: 那样的话，这里才会有“我们家”的感觉嘛。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 语气
+- 缩略
+- 口语
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

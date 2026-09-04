@@ -1,0 +1,38 @@
+id: ja-grm-00139
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 「〜てしまう」：不经意做某事（つい〜てしまう）
+structure: 動詞連用形＋接続助詞て＋しまう（補助動詞）
+structure_pattern: V-連用形 + て + しまう
+explanation_zh: 補助動詞「しまう」接動詞連用形后，除表示完了外，常含“不经意、非本意地做了某事”的语气。片段中“言ってしまう”指明知不会有回应仍不禁说出口；“つい〜てしまう”与副词呼应，强调不由自主。学校文法将其分析为“接続助詞て＋補助動詞”结构。
+examples:
+- text: それでも言ってしまうのは、ただの習慣か。
+  reading: ''
+  annot: それでも言[い]ってしまうのは、ただの習慣[しゆうかん]か。
+  translation_zh: 可即便如此还是会说出口，这只是习惯使然吗？
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+- text: 顔を合わせても――つい儀礼的な挨拶になってしまう
+  reading: ''
+  annot: 顔[かお]を合[あ]わせても――つい儀礼的[ぎれいてき]な挨拶[あいさつ]になってしまう
+  translation_zh: 即便见了面——问候也总是不经意间变成礼节性的客套。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 体貌
+- 补助动词
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

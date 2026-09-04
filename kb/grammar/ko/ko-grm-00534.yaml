@@ -1,0 +1,38 @@
+id: ko-grm-00534
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: -ㄹ 뻔하다：差点儿就……
+structure: 동사 어간（动词词干）+ -(으)ㄹ 뻔하다
+structure_pattern: 동사 어간 + 관형형 전성 어미 '-(으)ㄹ' + 의존 명사 '뻔' + '하다'
+explanation_zh: 依存名词'뻔'表示某种情况差一点就发生却最终没有发生，与'하다'结合使用，多用于险些发生的惊险或意外状况。相当于汉语的“差点儿……”“险些……”。过去时用'뻔했다'。
+examples:
+- text: 너무 놀라고 너무 좋아서 심장을 토할 뻔했어.
+  reading: ''
+  annot: 너무 놀라고 너무 좋아서 심장을 토할 뻔했어.
+  translation_zh: 我太惊讶也太开心了，开心得简直快要把心脏都吐出来了。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+- text: 그 잠깐의 사이에 피바람이 오갈 뻔했던 상황은 훌륭하게 마무리되었다.
+  reading: ''
+  annot: 그 잠깐의 사이에 피바람이 오갈 뻔했던 상황은 훌륭하게 마무리되었다.
+  translation_zh: 在那短短片刻之间，一场险些兵戎相见的危机被圆满化解了。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 体貌/险些
+- 依存名词
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

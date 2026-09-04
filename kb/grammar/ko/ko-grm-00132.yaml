@@ -1,0 +1,32 @@
+id: ko-grm-00132
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: -(으)ㄹ 뿐이다：只是、唯有……而已
+structure: 名词 + 뿐이다 / 动词词干 + -(으)ㄹ 뿐이다
+structure_pattern: 체언/용언 + 의존명사 뿐 + 이다
+explanation_zh: 「-(으)ㄹ 뿐이다」表示『只是……而已』『唯有……』，强调除此之外没有别的。名词可直接加'뿐이다'，如'행위뿐이다'。与'만'意义相近但语气更书面，文中用以凸显克劳唯一的满足来源。
+examples:
+- text: 그녀가 살아가면서 만족감을 느끼는 건 인간을 죽이는 행위뿐이다.
+  reading: ''
+  annot: 그녀가 살아가면서 만족감을 느끼는 건 인간을 죽이는 행위뿐이다.
+  translation_zh: 她活着所能感受到的满足感，唯有杀人这一件事而已。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 限定
+- 语气
+- 依存名词
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

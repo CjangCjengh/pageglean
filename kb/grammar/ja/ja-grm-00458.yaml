@@ -1,0 +1,31 @@
+id: ja-grm-00458
+language: ja
+type: grammar
+level: N2
+level_rank: 4
+title: 〜うえに：而且、加之（累加）
+structure: 用言連体形 ＋ うえに
+structure_pattern: 用言-連体形 + 上(うえ) + に
+explanation_zh: 「うえに」由用言连体形＋形式名词「上」＋助詞「に」构成，表示在前项之上进一步累加后项，多为负面事项的叠加。句中“动不动就生气，还净搞恶作剧”，逐层罗列对方的缺点。相当于汉语的“而且、加之”，比「しかも」更具句式感。
+examples:
+- text: すぐ怒るうえに、いたずらばっかりするバカな奴なんだ。
+  reading: ''
+  annot: すぐ怒[おこ]るうえに、いたずらばっかりするバカな奴[やつ]なんだ。
+  translation_zh: 动不动就生气，而且净搞恶作剧，真是个笨蛋家伙。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 接续
+- 累加
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

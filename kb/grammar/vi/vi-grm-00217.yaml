@@ -1,0 +1,40 @@
+id: vi-grm-00217
+language: vi
+type: grammar
+level: L2
+level_rank: 2
+title: 句末疑问语气词：hả / nghen / vậy
+structure: 小句 + hả？/ vậy？；动词短语 + nghen？
+structure_pattern: Clause + hả / vậy ; V + nghen
+explanation_zh: 越南语疑问句常靠句末语气词而非语序变化：「hả」追问原因或情况，略含惊讶；「vậy」常与疑问代词搭配（如 làm sao vậy）。「nghen」（nhé
+  的南部说法）用于提醒、请求并期待对方答应，相当于“哦、好吗”。简略否定回答可用「Dạ, không có.」（不，没有）。
+examples:
+- text: Con làm sao vậy? Ở lớp bị cô giáo phạt hả?
+  reading: ''
+  annot: Con làm sao vậy? Ở lớp bị cô giáo phạt hả?
+  translation_zh: 你怎么啦？在学校被老师罚了吗？
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+- text: Ngày mai mày nhớ nghen?
+  reading: ''
+  annot: Ngày mai mày nhớ nghen?
+  translation_zh: 明天你可要记得哦？
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 疑问句
+- 句末语气词
+- 口语
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 5
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

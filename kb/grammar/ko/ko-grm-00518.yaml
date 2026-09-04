@@ -1,0 +1,31 @@
+id: ko-grm-00518
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: -면서도：虽然……却……
+structure: 用言词干 + 连接词尾 -면서 + 补助词 도
+structure_pattern: 용언 어간 + -면서(도)
+explanation_zh: 连接词尾 -면서 表示两种状态并存，加上补助词 도 后让步转折的语气被强化，相当于“虽然……却……”。句中“心情好”与“胸口发酸”两种感受并存，形成对照。
+examples:
+- text: 연로하신 어르신을 도와드리고 나면, 착한 일에 기분이 좋으면서도 어쩐지 가슴 한구석이 찡해지는 그런 거?
+  reading: ''
+  annot: 연로하신 어르신을 도와드리고 나면, 착한 일에 기분이 좋으면서도 어쩐지 가슴 한구석이 찡해지는 그런 거?
+  translation_zh: 就是那种，帮了年长者之后，明明因为做了好事心情很好，可不知怎的胸口某个角落却隐隐发酸的……那种感觉？
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 连接词尾
+- 让步
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

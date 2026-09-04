@@ -1,0 +1,32 @@
+id: ko-grm-00216
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: -(으)ㄹ 테니까：推测性理由
+structure: 用言词干 + -(으)ㄹ 터(依存名词 터 + 이다) + 连接词尾 -니까
+structure_pattern: V/A-(으)ㄹ 테니까
+explanation_zh: -(으)ㄹ 테니까是 -(으)ㄹ 터이다 加连接词尾 -니까 的缩略形，表示说话人对未来情况的推测并以此为理由，后句多接建议、命令或判断。口语性很强，是韩剧中极高频的表达。
+examples:
+- text: 그런 전력 차이를 뒤집어서 승리를 거둔다면, 사람들이 너무 이상하게 생각할 테니까.
+  reading: ''
+  annot: 그런 전력 차이를 뒤집어서 승리를 거둔다면, 사람들이 너무 이상하게 생각할 테니까.
+  translation_zh: 如果扭转那种战力上的差距取得胜利，人们会觉得太反常的。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 连接词尾
+- 推测
+- 口语
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

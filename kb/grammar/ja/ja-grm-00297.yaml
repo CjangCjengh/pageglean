@@ -1,0 +1,38 @@
+id: ja-grm-00297
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 助動詞「たい」的否定：〜たくなんてない
+structure: 動詞未然形＋欲求の助動詞「たい」（形容詞型活用）＋（なんて）＋ない
+structure_pattern: V-未然形 + たい + (なんて) + ない
+explanation_zh: 「たい」是表愿望的助動詞，按形容詞型活用；「たくない」即愿望的否定。口语中可在其后插入「なんて」加强语气，带强烈感情色彩，如「負けたくなんてない」（绝不想输）。片段另出现过去式「負けたくなかった」。
+examples:
+- text: それなのに……こんな所で負けたくなんてない……!!
+  reading: ''
+  annot: それなのに……こんな所[ところ]で負[ま]けたくなんてない……!!
+  translation_zh: 明明是这样……我可不想在这种地方输掉……!!
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+- text: 何がなんでも負けたくなかったから、さ。
+  reading: ''
+  annot: 何[なに]がなんでも負[ま]けたくなかったから、さ。
+  translation_zh: 因为无论如何我都不想输啊。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 助動詞
+- 口語
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

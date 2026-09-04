@@ -1,0 +1,31 @@
+id: vi-grm-00291
+language: vi
+type: grammar
+level: L4
+level_rank: 4
+title: phải…mới…：必要条件
+structure: phải + 条件，… mới + 结果
+structure_pattern: phải + điều kiện … mới + kết quả
+explanation_zh: 「phải + 条件」提出必要条件，「mới + 结果」表示只有满足该条件才会出现后面的结果，相当于“要（等到）…才…”。其中「mới」是副词，强调事情发生得晚或来之不易。
+examples:
+- text: Nhưng phải vài tháng nữa tóc em mới đủ dài.
+  reading: ''
+  annot: Nhưng phải vài tháng nữa tóc em mới đủ dài.
+  translation_zh: 可要再过几个月，我的头发才够长。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 条件
+- 接续
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

@@ -1,0 +1,32 @@
+id: ko-grm-00217
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: -에 의하면：根据某信息
+structure: 体言 + 格助词 에 + 의하다 + 连接词尾 -(으)면
+structure_pattern: N+에 의하면
+explanation_zh: “根据……”，用于引出信息来源，后接基于该来源得出的说明或结论。常见于新闻报道、报告以及转述情报的场合，语体偏书面正式。本句是汇报收集到的军事情报，属于典型用法。
+examples:
+- text: 그동안 수집한 정보에 의하면 클라우 에른베스크는 7만 5천의 정규군을 운용하고 있다.
+  reading: ''
+  annot: 그동안 수집한 정보에 의하면 클라우 에른베스크는 7만 5천의 정규군을 운용하고 있다.
+  translation_zh: 根据至今收集到的情报，克劳·艾伦贝斯克统率着七万五千名正规军。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 格助词
+- 依据
+- 书面语
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

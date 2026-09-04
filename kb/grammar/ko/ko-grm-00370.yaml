@@ -1,0 +1,32 @@
+id: ko-grm-00370
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: 「-았/었으면 합니다：委婉的请求与愿望」
+structure: 용언 어간 + -았/었으면 + 하다 + -ㅂ니다
+structure_pattern: V/A + -았/었으면 합니다
+explanation_zh: “-았/었으면 하다”把愿望说得非常间接，因而显得礼貌、克制。与尊称“-시-”及补助动词“주다”结合的“-아/어 주셨으면 합니다”是郑重的请求惯用型。
+examples:
+- text: 그 점은 오해하지 말아 주셨으면 합니다.
+  reading: ''
+  annot: 그 점은 오해하지 말아 주셨으면 합니다.
+  translation_zh: 那一点，希望您不要误会。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 종결어미
+- 공손
+- 소망
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

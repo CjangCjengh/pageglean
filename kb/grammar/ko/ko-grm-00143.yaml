@@ -1,0 +1,39 @@
+id: ko-grm-00143
+language: ko
+type: grammar
+level: TOPIK2
+level_rank: 2
+title: -(으)ㄹ 수 있다/없다：能力与可能性
+structure: 动词词干 + -(으)ㄹ 수 있다/없다
+structure_pattern: 동사 어간 + 관형사형 전성어미 -(으)ㄹ + 의존명사 '수' + 있다/없다
+explanation_zh: 由定语词尾 -(으)ㄹ、依存名词 수 与 있다/없다 组成，表示能力或可能性，是韩语依存名词结构的代表。片段中反复出现，并与将来推测等结构叠加。
+examples:
+- text: 나는 더 강해질 수 있어.
+  reading: ''
+  annot: 나는 더 강해질 수 있어.
+  translation_zh: 我还能变得更强。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+- text: 이 제국에서 오라버니를 이길 수 있는 사람은 없을 겁니다.
+  reading: ''
+  annot: 이 제국에서 오라버니를 이길 수 있는 사람은 없을 겁니다.
+  translation_zh: 在这个帝国里，不会有人能赢得了哥哥。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 依存名词
+- 可能
+- 定语
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 6
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

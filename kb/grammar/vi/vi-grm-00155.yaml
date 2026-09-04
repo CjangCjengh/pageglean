@@ -1,0 +1,31 @@
+id: vi-grm-00155
+language: vi
+type: grammar
+level: L2
+level_rank: 2
+title: không thể V (được)：不能／无法……
+structure: không thể + V（+ được）
+structure_pattern: không thể + V + (được)
+explanation_zh: 「không thể＋动词」表示“不能、无法做某事”。句末再加「được」构成「không thể V được」，进一步强调客观上办不到，否定语气更完整。
+examples:
+- text: Chuyện tình yêu không thể đoán mò được!
+  reading: ''
+  annot: Chuyện tình yêu không thể đoán mò được!
+  translation_zh: 爱情的事可不能瞎猜！
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 否定
+- 可能性
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

@@ -1,0 +1,38 @@
+id: ko-grm-00058
+language: ko
+type: grammar
+level: TOPIK2
+level_rank: 2
+title: -기 위해(서)：为了……（目的）
+structure: 동사 어간 + -기 위해(서)
+structure_pattern: V + -기 + 위해(서)
+explanation_zh: 接在动词词干后表示动作的目的，相当于中文的"为了……"。-기 将动词名词化，위하다 意为"为了"，也可用作定语形式 -기 위한 ＋名词。片段中"为了守护魔石""为了维持领地"等处多次出现。
+examples:
+- text: 타국의 침략으로부터 마석을 지키기 위해 침입자를 격퇴할 수 있는 미궁이 만들어졌다고 한다.
+  reading: ''
+  annot: 타국의 침략으로부터 마석을 지키기 위해 침입자를 격퇴할 수 있는 미궁이 만들어졌다고 한다.
+  translation_zh: 据说，为了抵御外国的侵略、守护魔石，（人们）建造了能够击退入侵者的迷宫。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+- text: 현재 지배하고 있는 영지를 유지하기 위해 부족한 생산량은 아니지만
+  reading: ''
+  annot: 현재 지배하고 있는 영지를 유지하기 위해 부족한 생산량은 아니지만
+  translation_zh: 虽说不是不足以维持目前所统治领地的产量，但……
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 目的
+- 接续
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

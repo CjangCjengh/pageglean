@@ -1,0 +1,39 @@
+id: ko-grm-00220
+language: ko
+type: grammar
+level: TOPIK2
+level_rank: 2
+title: -아/어 있다：结果状态的持续
+structure: 동사 '-아/어' + 보조 형용사 '있다' (결과 상태)
+structure_pattern: V-아/어 + 있다(보조 형용사)
+explanation_zh: '''-아/어 있다''由动词的-아/어形后接补助形容词있다构成，表示动作完成后其结果状态持续。与表示进行的''-고 있다''不同，它强调结果的遗留。本段用于描写金币、银币被摆放后的静止状态，相当于中文的“……着（已放好）”。'
+examples:
+- text: 지도 위에는 이곳 가시나무 왕궁과 클라우의 흑요석 첨탑이 있는 위치에 각각 금화가 올려져 있었다.
+  reading: ''
+  annot: 지도 위에는 이곳 가시나무 왕궁과 클라우의 흑요석 첨탑이 있는 위치에 각각 금화가 올려져 있었다.
+  translation_zh: 地图上，在此处荆棘王宫与克劳的黑曜石尖塔所在的位置，各摆放着一枚金币。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+- text: 그 위에는 은화가 놓여 있었다.
+  reading: ''
+  annot: 그 위에는 은화가 놓여 있었다.
+  translation_zh: 那上面放着一枚银币。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 体貌
+- 补助动词
+- 被动态
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

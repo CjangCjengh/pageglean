@@ -1,0 +1,31 @@
+id: ja-grm-00336
+language: ja
+type: grammar
+level: N2
+level_rank: 4
+title: 「〜はおろか」：别提A，就连B也
+structure: 体言 + は + おろか +（体言）
+structure_pattern: N + はおろか + N
+explanation_zh: 「おろか」源自形容动词「疎かだ」，「AはおろかB」表示“别说A，就连程度更甚的B也……”，为递进强调的书面表达。片段中意为“论资质别说伊斯卡和公主，甚至在我之上”。与「〜はもちろん」近义，但语气更强、更文雅。
+examples:
+- text: 素質だけなら、イスカや王女はおろか俺以上だろうな。
+  reading: ''
+  annot: 素質だけなら、イスカや王女はおろか俺以上だろうな。
+  translation_zh: 单论资质的话，别说伊斯卡和公主了，恐怕连我都在他之上（他比我强）。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 递进
+- 书面语
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

@@ -1,0 +1,31 @@
+id: ja-grm-00151
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 「〜てある」：人为动作结果的存续
+structure: 他動詞連用形＋接続助詞「て」＋補助動詞「ある」
+structure_pattern: V他-て + ある
+explanation_zh: 补助动词「ある」接在他动词连用形＋接续助词「て」之后，表示某人有意实施的动作其结果作为状态存续下来，相当于『已经（被）……好了』。与侧重动作进行的「〜ている」相对，「〜てある」侧重完成后的结果状态，施事者常被省略。文中指『手脚已经被绑好』这一既成状态。
+examples:
+- text: その状態で、リアが出したロープで手足を縛ってある。
+  reading: ''
+  annot: その状態[じょうたい]で、リアが出[だ]したロープで手足[てあし]を縛[しば]ってある。
+  translation_zh: 她就那样被用莉亚拿出来的绳子绑住了手脚。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 体貌
+- 补助动词
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 4
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

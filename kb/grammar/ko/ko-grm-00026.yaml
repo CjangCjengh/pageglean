@@ -1,0 +1,40 @@
+id: ko-grm-00026
+language: ko
+type: grammar
+level: TOPIK2
+level_rank: 2
+title: -아/어 있다：结果状态的持续
+structure: 谓词（含被动词）+ -아/어 있다（连接词尾 -아/어 + 补助形容词 있다）
+structure_pattern: V-아/어 + 보조 형용사 '있다'
+explanation_zh: 补助用言 -아/어 있다 表示动作完成后其结果状态持续存在，相当于汉语的“……着”。片段中多与被动词（가려지다、걸쳐지다）连用，描写“被遮着、挂着”的状态。否定形式为
+  -아/어 있지 않다。
+examples:
+- text: 천으로 가려져 있지 않은 부분들은 대부분 가냘팠다.
+  reading: ''
+  annot: 천으로 가려져 있지 않은 부분들은 대부분 가냘팠다.
+  translation_zh: 没有用布遮着的部位大多显得纤细柔弱。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+- text: 하지만 천으로 가려져 있는 부분은 여성으로서의 존재감을 과시하고 있었다.
+  reading: ''
+  annot: 하지만 천으로 가려져 있는 부분은 여성으로서의 존재감을 과시하고 있었다.
+  translation_zh: 然而被布遮住的部位，却彰显着作为女性的存在感。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 补助动词
+- 状态持续
+- 被动态
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

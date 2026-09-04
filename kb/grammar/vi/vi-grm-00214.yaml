@@ -1,0 +1,32 @@
+id: vi-grm-00214
+language: vi
+type: grammar
+level: L2
+level_rank: 2
+title: 禁止祈使句 Đừng … nữa：别再……了
+structure: Đừng + 动词 + nữa（劝止对方停止某动作）
+structure_pattern: Đừng + V + nữa
+explanation_zh: đừng 加动词构成否定祈使句，表示「别／不要～」；句末再加 nữa（再、再……）强调停止正在持续的动作，相当于汉语「别再……了」。片段中「Đừng
+  khóc nữa！」即「别哭了！」，是日常劝慰的高频句式。
+examples:
+- text: Đừng khóc nữa!
+  reading: ''
+  annot: Đừng khóc nữa!
+  translation_zh: 别哭了！
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 祈使句
+- 语气
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

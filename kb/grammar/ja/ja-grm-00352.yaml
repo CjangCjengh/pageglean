@@ -1,0 +1,31 @@
+id: ja-grm-00352
+language: ja
+type: grammar
+level: N2
+level_rank: 4
+title: 「〜くせに」：指责性转折“明明……却……”（口语）
+structure: 体言＋の／用言连体形＋形式名词「くせ」＋助词「に」
+structure_pattern: '[N＋の / 用言-連体形] + くせに'
+explanation_zh: 形式名词「くせ」加助词「に」构成逆接表达，意为“明明……却……”，带有强烈的责备、轻蔑语气，比「のに」更口语、语气更重。接续上，体言后用「体言＋の＋くせに」，用言则直接接连体形。常用于指责对方的言行与其身份、立场不相称。
+examples:
+- text: 不良のくせに控えめだね
+  reading: ''
+  annot: 不良[ふりょう]のくせに控[ひか]えめだね
+  translation_zh: 亏你还是个不良少年，（愿望）却这么克制呢。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 接续
+- 口语
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

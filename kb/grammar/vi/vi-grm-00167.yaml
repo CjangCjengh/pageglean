@@ -1,0 +1,38 @@
+id: vi-grm-00167
+language: vi
+type: grammar
+level: L2
+level_rank: 2
+title: hơn 与 so với：比较结构
+structure: Adj + hơn（+ 比较基准）；Adj + so với + NP
+structure_pattern: Adj + hơn (+ NP) / Adj + so với + NP
+explanation_zh: 越南语比较级把基准放在形容词之后：Adj + hơn 表示「比……更」，不用「比」字前置。so với 意为「跟……相比」，常用于说明与平日、常态的差异。
+examples:
+- text: Tôi nhìn Việt An, thấy nó xanh xao hơn thường ngày,
+  reading: ''
+  annot: Tôi nhìn Việt An, thấy nó xanh xao hơn thường ngày,
+  translation_zh: 我看着越安，觉得她比平时脸色更苍白，
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+- text: Chắc là do bị bệnh nên sức "đề kháng" của nó yếu đi so với ngày thường.
+  reading: ''
+  annot: Chắc là do bị bệnh nên sức "đề kháng" của nó yếu đi so với ngày thường.
+  translation_zh: 大概是因为生病，她的「抵抗力」比平时弱了。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 比较
+- 句式
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

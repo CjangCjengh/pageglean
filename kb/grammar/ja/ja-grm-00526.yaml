@@ -1,0 +1,30 @@
+id: ja-grm-00526
+language: ja
+type: grammar
+level: N5
+level_rank: 1
+title: 〜ている：状态与结果的持续
+structure: 动词连用形＋ている
+structure_pattern: V-連用形 + ている
+explanation_zh: 助动词「ている」接动词连用形，除表示动作正在进行外，更常表示动作完成后遗留的状态（结果存续）。本片段中「書かれている」「開き」「落としたまま」等大量用于描写静态场景，是日语叙事的基础体貌形式。
+examples:
+- text: その手帳に書かれているそれを、俺は受けいれる勇気がなかったから。
+  reading: ''
+  annot: その手帳[てちょう]に書[か]かれているそれを、俺[おれ]は受[う]けいれる勇気[ゆうき]がなかったから。
+  translation_zh: 因为我没有勇气接受写在那本手帐上的那句话。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 体貌
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 15
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

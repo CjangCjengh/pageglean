@@ -1,0 +1,31 @@
+id: ja-grm-00343
+language: ja
+type: grammar
+level: N2
+level_rank: 4
+title: 〜するなり：刚一……马上就……
+structure: 动词终止形 + 接续助词「なり」
+structure_pattern: V-終止形 + なり
+explanation_zh: 接续助词「なり」接在动词终止形后，表示前一动作刚完成，紧接着就发生后一动作，强调时间间隔极短，多用于书面叙述。后项常为突然或出人意料的行为。原文写“我”一回到家，母亲立刻劈头盖脸地发火。
+examples:
+- text: 帰宅するなり母親に「結局昨日はどこ行ってたの！」とキレられたので「うっせー関係ねーだろ！」と、まさに反抗期のテンプレみたいな台詞で応答した。
+  reading: ''
+  annot: 帰宅[きたく]するなり母親[ははおや]に「結局[けっきょく]昨日[きのう]はどこ行[い]ってたの！」とキレられたので「うっせー関係[かんけい]ねーだろ！」と、まさに反抗期[はんこうき]のテンプレみたいな台詞[せりふ]で応答[おうとう]した。
+  translation_zh: 我刚一回家，就被母亲吼了一句“你昨天到底去哪儿了！”，于是我用简直像叛逆期模板一样的台词回嘴道：“吵死了，跟你没关系吧！”
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 接续
+- 体貌
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

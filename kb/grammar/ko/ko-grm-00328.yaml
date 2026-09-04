@@ -1,0 +1,31 @@
+id: ko-grm-00328
+language: ko
+type: grammar
+level: TOPIK5
+level_rank: 5
+title: -든 말든：无论……与否
+structure: 动词词干 + -든 말든
+structure_pattern: V-든 + 말든 (연결어미 '-든' 반복 구성)
+explanation_zh: 连接词尾 -든 表示任选，-든 말든 以肯定、否定并列的形式表示“无论……与否、不管做还是不做”。后句表示结果不受前项影响。语气上常含说话人不以为然或无所谓的态度。
+examples:
+- text: 재생하든 말든 끊임없이 고통을 주는 방법은…… 여기서 쓸 것은 아니다.
+  reading: ''
+  annot: 재생하든 말든 끊임없이 고통을 주는 방법은…… 여기서 쓸 것은 아니다.
+  translation_zh: 无论（对方）再生与否都不断施加痛苦的方法……在这里是不会用的。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 连接词尾
+- 让步
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

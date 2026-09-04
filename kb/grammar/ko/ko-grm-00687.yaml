@@ -1,0 +1,40 @@
+id: ko-grm-00687
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: 「-(으)ㄹ 뿐이다 / 뿐：只不过、只有」
+structure: 用言词干 + 冠形词形词尾 -(으)ㄹ + 의존명사 '뿐' + 이다；体言/助词 + 보조사 '뿐'
+structure_pattern: V/A + -(으)ㄹ 뿐이다; N + 뿐
+explanation_zh: 表示限定，“只是……而已、只有……”。'뿐' 作依存名词时接用言冠形词形后构成 '-(으)ㄹ 뿐이다'；作补助词时可直接附于体言或助词后，如
+  '밖엔' '만이 있을 뿐'。常与副词 '그저' 呼应，强调“除此之外没有别的”。
+examples:
+- text: 그저 한참을 머뭇거리며 울 뿐이었다.
+  reading: ''
+  annot: 그저 한참을 머뭇거리며 울 뿐이었다.
+  translation_zh: 只是迟疑了许久，一个劲儿地哭泣而已。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+- text: 때문에 그들에게는 죽음이 없다. 소멸만이 있을 뿐.
+  reading: ''
+  annot: 때문에 그들에게는 죽음이 없다. 소멸만이 있을 뿐.
+  translation_zh: 因此，对他们而言没有死亡，只有消亡而已。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 限定
+- 依存名词
+- 补助词
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 5
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

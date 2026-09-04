@@ -1,0 +1,31 @@
+id: ja-grm-00621
+language: ja
+type: grammar
+level: N1
+level_rank: 5
+title: 〜かのごとく：宛如〜一般
+structure: 动词连体形＋かのごとく
+structure_pattern: V-連体形 + かのごとく
+explanation_zh: 「〜かのごとく」接在动词连体形之后，表示“宛如〜一般”，是文语色彩浓厚的比喻表达。「ごとく」为文语助动词「ごとし」的连用形，口语多说「〜かのように」。轻小说中常用于营造夸张的修辞效果。
+examples:
+- text: やる気というガソリンを補給するかのごとくあなた様のイラストが編集部より送られてきた
+  reading: ''
+  annot: やる気[き]というガソリンを補給[ほきゅう]するかのごとくあなた様のイラストが編集部[へんしゅうぶ]より送[おく]られてきた
+  translation_zh: 宛如为我补充名为“干劲”的汽油一般，您的插画从编辑部送了过来。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 比喻
+- 书面语
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

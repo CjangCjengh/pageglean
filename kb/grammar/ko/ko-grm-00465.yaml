@@ -1,0 +1,32 @@
+id: ko-grm-00465
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: 「-는다는 듯이：仿佛在说……似的」
+structure: 관형사형 -(느)ㄴ다는 + 듯이（-다고 하는 듯이 的缩略）
+structure_pattern: V-(느)ㄴ다는 듯이 / A-다는 듯이
+explanation_zh: ‘-(느)ㄴ다고 하는 듯이’的缩略形，用动作或神态暗示“好像在说……似的、像是……的样子”。动词词干后用‘-는다는 듯이’，形容词和‘이다’后用‘-다는
+  듯이’；也可加先语末词尾‘-겠-’，如文中的‘알겠다는 듯이’。
+examples:
+- text: 빈은 알겠다는 듯이 고갤 끄덕였다.
+  reading: ''
+  annot: 빈은 알겠다는 듯이 고갤 끄덕였다.
+  translation_zh: 宾像是明白了似的点了点头。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 比况
+- 样态
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

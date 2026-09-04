@@ -1,0 +1,32 @@
+id: vi-grm-00405
+language: vi
+type: grammar
+level: L3
+level_rank: 3
+title: 「hết…rồi」：状态的终结与不再
+structure: hết + 动词/形容词 + rồi
+structure_pattern: hết + V + rồi
+explanation_zh: hết 表示某种状态或动作已经结束、不再持续，常与句末 rồi 呼应，构成“已经不再…”之义，相当于中文“不…了”。片段中“Tao
+  hết thích rồi”意为“我已经不喜欢了”。这是表达态度或状态转变的常用口语结构。
+examples:
+- text: Không! Tao hết thích rồi.
+  reading: ''
+  annot: Không! Tao hết thích rồi.
+  translation_zh: 不！我已经不喜欢了。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 体貌
+- 语气
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

@@ -1,0 +1,39 @@
+id: ja-grm-00550
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 「〜てやる」：做给…（强势语气）
+structure: 動詞連用形＋接続助詞「て」＋動詞「やる」（命令形「やれ」）
+structure_pattern: V連用形+て+やる
+explanation_zh: 「〜てやる」是授受关系表达，表示说话人（或己方）为对方做某事；男性第一人称使用时常带强势、随意的语感，甚至用于自我表态。片段中「言ってやった」含“索性说给他听”之意，「続けてやれ」是「やる」的命令形，相当于给自己打气“继续说下去”。
+examples:
+- text: だから、俺は言ってやった。
+  reading: ''
+  annot: だから、俺[おれ]は言[い]ってやった。
+  translation_zh: 所以，我就索性说了出来。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+- text: 構うもんか。続けてやれ。
+  reading: ''
+  annot: 構[かま]うもんか。続[つづ]けてやれ。
+  translation_zh: 管他呢。接着说下去。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 授受
+- 语气
+- 口语
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

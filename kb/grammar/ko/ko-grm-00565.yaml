@@ -1,0 +1,31 @@
+id: ko-grm-00565
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: -자마자：一……就……
+structure: 동사 어간 + -자마자
+structure_pattern: V + -자마자 (연결어미)
+explanation_zh: 连接词尾 -자마자 表示前一动作刚结束，后一动作紧接着发生，相当于中文“一……就……”。强调两个事件之间几乎没有时间间隔。
+examples:
+- text: 키이리는 꽃을 받아 들자마자 나에게 자랑이라도 하려는 듯 이쪽을 쳐다보았다.
+  reading: ''
+  annot: 키이리는 꽃을 받아 들자마자 나에게 자랑이라도 하려는 듯 이쪽을 쳐다보았다.
+  translation_zh: 奇莉一接到花，就像是要向我炫耀似的朝这边看了过来。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 连接词尾
+- 时间
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

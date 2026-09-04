@@ -1,0 +1,32 @@
+id: ja-grm-00240
+language: ja
+type: grammar
+level: N2
+level_rank: 4
+title: 「〜（よ）うと」：即使……也（逆接条件）
+structure: V推量形（意志形）＋ 接続助詞「と」（＝たとえ〜ても）
+structure_pattern: V-推量形 + と
+explanation_zh: 学校文法中，接続助詞「と」接用言推量形（意志形）时构成逆接条件，相当于「たとえ〜ても」。文中「なろうと」是「なる」的推量形「なろう」＋と，表示“即使落到输的地步”。常与副词「たとえ」呼应使用，以加强让步语气。
+examples:
+- text: たとえ負ける事になろうと、自分から諦める事だけは、絶対にしたくない。
+  reading: ''
+  annot: たとえ負[ま]ける事[こと]になろうと、自分[じぶん]から諦[あきら]める事[こと]だけは、絶対[ぜったい]にしたくない。
+  translation_zh: 即使落到输的地步，主动放弃这种事我也绝对不想做。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 逆接条件
+- 推量形
+- 让步
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

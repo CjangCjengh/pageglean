@@ -1,0 +1,31 @@
+id: ko-grm-00014
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: -(으)ㄹ 뻔하다：差点……
+structure: 동사 어간 + -(으)ㄹ + 의존명사 '뻔' + 하다
+structure_pattern: 동사 어간 + -(으)ㄹ 뻔하다(의존명사 '뻔')
+explanation_zh: 依存名词 뻔 表示某事险些发生但最终没有发生，相当于“差点……”“险些……”。片段中主角差点被车撞到，用来自嘲。
+examples:
+- text: 어휴, 이세계로 전생할 뻔했네.
+  reading: ''
+  annot: 어휴, 이세계로 전생할 뻔했네.
+  translation_zh: 哎，差点就转生到异世界了。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 侥幸
+- 语气
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

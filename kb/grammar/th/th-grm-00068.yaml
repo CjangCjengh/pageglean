@@ -1,0 +1,32 @@
+id: th-grm-00068
+language: th
+type: grammar
+level: L2
+level_rank: 2
+title: หรือเปล่า / ใช่ไหม：选择疑问与确认疑问
+structure: คำกริยา/คำวิเศษณ์ + หรือเปล่า (คำถามเลือก) / …ใช่ไหม (คำถามยืนยัน)
+structure_pattern: V + หรือเปล่า / ใช่ไหม
+explanation_zh: หรือเปล่า 接在动词或形容词之后构成选择疑问，意为「是否～、～了没有」，常作认知动词（如 บอก/รู้）的宾语。ไหม 前置构成附加问句
+  ใช่ไหม，意为「～对吧、是不是～」，要求对方确认。两者都是口语高频疑问结构。
+examples:
+- text: นั่นก็​ฉัน​ใช่​ไหม?
+  reading: ''
+  annot: นั่นก็​ฉัน
+  translation_zh: 那个（角色）也是我，对吧？
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 疑问
+- 确认
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

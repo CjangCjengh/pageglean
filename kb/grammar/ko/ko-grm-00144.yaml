@@ -1,0 +1,39 @@
+id: ko-grm-00144
+language: ko
+type: grammar
+level: TOPIK2
+level_rank: 2
+title: -게 되다：状态或处境的变化
+structure: 用言词干 + -게 되다
+structure_pattern: 어간 + 부사형 전성어미 -게 + 동사 '되다'
+explanation_zh: 副词形词尾 -게 加 되다，表示情况因某种契机发生变化，即“变得……”。多用于叙述非主观意愿的事态走向，片段中出现两次。
+examples:
+- text: 소녀가 시키는 대로 수련을 하게 되었다.
+  reading: ''
+  annot: 소녀가 시키는 대로 수련을 하게 되었다.
+  translation_zh: （少年）于是按少女的吩咐修炼起来了。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+- text: 어느 날 결국 더 이상 참을 수 없게 되었다.
+  reading: ''
+  annot: 어느 날 결국 더 이상 참을 수 없게 되었다.
+  translation_zh: 终于有一天，（少女）再也忍不下去了。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 补助动词
+- 变化
+- 副词形
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

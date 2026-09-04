@@ -1,0 +1,31 @@
+id: ja-grm-00457
+language: ja
+type: grammar
+level: N2
+level_rank: 4
+title: 〜どころか：岂止、非但不
+structure: 用言連体形・体言 ＋ どころか
+structure_pattern: 用言-連体形 / 体言 + どころか
+explanation_zh: 「どころか」由「ところ」的口语音便「どころ」＋係助詞「か」（反诘语气）构成，表示前项程度远远不够甚至与预期相反，后项更进一步。句中意为“岂止是没有常识，别人的麻烦事他压根儿一点都没考虑过”。语气比「だけでなく」强烈得多。
+examples:
+- text: 常識がないどころか他人の迷惑なんてなにひとつ考えていない。
+  reading: ''
+  annot: 常識[じょうしき]がないどころか他人[たにん]の迷惑[めいわく]なんてなにひとつ考[かんが]えていない。
+  translation_zh: 岂止是没有常识，别人的麻烦什么的，他压根一点都没有考虑过。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 强调
+- 形式名词
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

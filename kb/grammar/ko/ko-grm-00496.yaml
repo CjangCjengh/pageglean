@@ -1,0 +1,31 @@
+id: ko-grm-00496
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: -며：两个动作同时进行
+structure: 动词词干 + -며
+structure_pattern: V-며
+explanation_zh: 连接词尾（연결어미），表示前后两个动作同时进行，是「-면서」的简洁形，前后主语一致。多用于书面叙述，使描写紧凑、富有画面感。片段中两处用它串联人物的连续动作。
+examples:
+- text: 모래사장에 물 발자국을 남기며 나온 브룬은, 늘어지게 하품을 하며 내 옆으로 다가와 털썩 주저앉았다.
+  reading: ''
+  annot: 모래사장에 물 발자국을 남기며 나온 브룬은, 늘어지게 하품을 하며 내 옆으로 다가와 털썩 주저앉았다.
+  translation_zh: 在沙滩上留下一串湿脚印走出来的布룬，一边打着长长的哈欠，一边走到我身边扑通一声坐了下来。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 连接词尾
+- 同时动作
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

@@ -1,0 +1,40 @@
+id: vi-grm-00139
+language: vi
+type: grammar
+level: L2
+level_rank: 2
+title: thì：条件与话题标记
+structure: 条件分句/起语（đề tài） + thì + 结果/评述分句
+structure_pattern: Clause1(điều kiện/khởi ngữ) + thì + Clause2
+explanation_zh: thì 是越南语高频虚词（quan hệ từ），连接条件句与结果句，或前置话题与评述，相当于汉语“……的话，就……”或话题结构“说到……”。片段对话中反复出现，如“Chơi
+  thì ra chơi!”（要玩就出来玩！），使口语节奏明快。
+examples:
+- text: Mày không qua thì tao chơi một mình.
+  reading: ''
+  annot: Mày không qua thì tao chơi một mình.
+  translation_zh: 你不过来的话，我就一个人玩。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+- text: Chơi thì ra chơi!
+  reading: ''
+  annot: Chơi thì ra chơi!
+  translation_zh: 要玩就出来玩！
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 虚词
+- 条件句
+- 话题
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 6
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

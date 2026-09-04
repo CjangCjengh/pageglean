@@ -1,0 +1,33 @@
+id: ko-grm-00580
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: -아/어 버리고 말다：终究……掉了
+structure: 动词 + -아/어 버리고 말다
+structure_pattern: V-아/어（연결어미）+ 보조용언 '버리다' + '-고' + 보조용언 '말다'
+explanation_zh: '''-아/어 버리다'' 表示动作的彻底完成，常含遗憾或解脱；其后再接 ''말다'' 构成 ''-아/어 버리고 말다''，强调事情终究还是发生了，惋惜语气更重。本段用『사라져
+  버리고 말았다』表达绮绮转眼就不见了、来不及阻拦的懊恼。'
+examples:
+- text: 내가 말릴 사이도 없이, 키이리는 벌떡 일어나더니 순식간에 눈앞에서 사라져 버리고 말았다.
+  reading: ''
+  annot: 내가 말릴 사이도 없이, 키이리는 벌떡 일어나더니 순식간에 눈앞에서 사라져 버리고 말았다.
+  translation_zh: 我还没来得及阻拦，绮绮就腾地站起身，一眨眼的工夫便从眼前消失了。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 体貌
+- 完成与遗憾
+- 补助动词
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

@@ -1,0 +1,31 @@
+id: ja-grm-00624
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 〜かどうか：是否〜
+structure: 简体小句（終止形）＋かどうか
+structure_pattern: Clause(終止形) + かどうか
+explanation_zh: 「かどうか」接在简体小句的终止形之后，将疑问内容名词化，表示“是否〜”。可与形式名词「の」叠加成「〜たのかどうか」，增添解释语气。多用于表达不确定、犹豫的语境。
+examples:
+- text: 期待に応えることができたのかどうか、正直なところ自信がありませんが
+  reading: ''
+  annot: 期待[きたい]に応[こた]えることができたのかどうか、正直[しょうじき]なところ自信[じしん]がありませんが
+  translation_zh: 自己究竟是否回应了（对方的）期待，说实话我并没有什么自信……
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 疑问
+- 名词化
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

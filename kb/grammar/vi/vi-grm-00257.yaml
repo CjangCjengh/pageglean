@@ -1,0 +1,40 @@
+id: vi-grm-00257
+language: vi
+type: grammar
+level: L2
+level_rank: 2
+title: chưa 疑问句：……了没有？
+structure: V + chưa?（问是否已经……）；Chưa.（还没有）
+structure_pattern: V + chưa?; Chưa.
+explanation_zh: 「chưa」意为「还没（有）」，表示动作尚未实现；「V + chưa?」是常用问句，相当于中文的「……了没有」。单个「Chưa.」即可构成完整回答，表示「还没有」。片段中「Anh
+  đọc chưa mà biết hay?」还用 chưa 与 mà 连用，追问对方没有经历作依据。
+examples:
+- text: Anh đọc chưa mà biết hay?
+  reading: ''
+  annot: Anh đọc chưa mà biết hay?
+  translation_zh: 你还没读过，怎么知道它好看？
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+- text: Chưa mà biết hay!
+  reading: ''
+  annot: Chưa mà biết hay!
+  translation_zh: 还没读过（居然）也知道好看！
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 疑问
+- 否定
+- 体貌
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

@@ -1,0 +1,33 @@
+id: vi-grm-00337
+language: vi
+type: grammar
+level: L3
+level_rank: 3
+title: vẫn chưa chịu + V：迟迟不肯做某事
+structure: 副词 vẫn（仍然）+ 否定副词 chưa（尚未）+ 动词 chịu（肯、情愿）+ V
+structure_pattern: vẫn + chưa + chịu + V
+explanation_zh: chưa 表“尚未”，与已然副词 đã 相对；chịu 表示主观上“肯、愿意（做勉为其难之事）”。“vẫn chưa chịu V”指迟迟不肯做某事，带明显的不情愿色彩，比单纯否定更有情态意味。
+examples:
+- text: Vì vậy, tôi vô cùng sốt ruột khi thấy Hải gầy vẫn chưa chịu đưa lá thư của
+    tôi cho Việt An.
+  reading: ''
+  annot: Vì vậy, tôi vô cùng sốt ruột khi thấy Hải gầy vẫn chưa chịu đưa lá thư của
+    tôi cho Việt An.
+  translation_zh: 所以，看到瘦海还迟迟不肯把我的信交给越安，我真是急坏了。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 虚词
+- 情态
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 6
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

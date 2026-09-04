@@ -1,0 +1,31 @@
+id: ja-grm-00623
+language: ja
+type: grammar
+level: N1
+level_rank: 5
+title: まさに〜とも言うべき：简直可以说是〜
+structure: まさに＋〜＋とも言うべき
+structure_pattern: まさに + N/引用 + とも言うべき
+explanation_zh: 「〜とも言うべき」意为“简直可以说成是〜”，由引用助词「と」加文语助动词「べし」的连体形「べき」构成，强调命名或比喻极为贴切。常与副词「まさに」呼应加强语气。本片段中两次套用此句式制造幽默效果。
+examples:
+- text: あのタイミングの良さはまさに「お母さん！」とも言うべき、慈愛の込められたタイミングでした。
+  reading: ''
+  annot: あのタイミングの良[よ]さはまさに「お母[かあ]さん！」とも言[い]うべき、慈愛[じあい]の込[こ]められたタイミングでした。
+  translation_zh: 那次时机之绝妙，简直可以说是“妈妈！”一般，是饱含慈爱的时机。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 惯用句
+- 强调
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

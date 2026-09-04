@@ -1,0 +1,32 @@
+id: ko-grm-00208
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: 「-(으)려 하다：意图与打算」
+structure: 动词词干 + -(으)려 하다
+structure_pattern: V- + -(으)려 하다(=-려고 하다)
+explanation_zh: 表示意图或即将进行某动作，是 '-려고 하다' 的缩略形，相当于中文“想要/正要去……”。片段中反复使用（“너는 나를 죽이려 하고…”），强调双方互相怀有杀意的状态。后句常用
+  '-는 거야' 加以说明或强调。
+examples:
+- text: 너는 나를 죽이려 하고, 나는 너를 죽이려 하는 거야.
+  reading: ''
+  annot: 너는 나를 죽이려 하고, 나는 너를 죽이려 하는 거야.
+  translation_zh: 你想要杀我，我也想要杀你，就是这么回事。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 意图
+- 连接词尾
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 80
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

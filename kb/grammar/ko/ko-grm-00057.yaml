@@ -1,0 +1,39 @@
+id: ko-grm-00057
+language: ko
+type: grammar
+level: TOPIK2
+level_rank: 2
+title: -기 때문이다：因为……（原因·理由）
+structure: 동사·형용사 어간 + -기 때문이다
+structure_pattern: V/A + -기(명사형 전성어미) + 때문이다
+explanation_zh: 接在动词、形容词词干后表示原因或理由，相当于中文的"因为……"。由名词化转成词尾（명사형 전성어미）-기 与表示"缘故"的依存名词
+  때문 构成，后接副词格助词 에。可与过去时时制词尾结合为 -았/었기 때문이다，如片段中的"자원이었기 때문에"。
+examples:
+- text: 고대 마법 문명에서 마석은 지금보다 더 중요한 자원이었기 때문에 마석을 둘러싼 전쟁이 흔했고
+  reading: ''
+  annot: 고대 마법 문명에서 마석은 지금보다 더 중요한 자원이었기 때문에 마석을 둘러싼 전쟁이 흔했고
+  translation_zh: 在古代魔法文明中，魔石是比现在更重要的资源，因此围绕魔石的战争很常见，
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+- text: 농업, 공업 등 다양한 분야에서 활용되기 때문에 마석의 생산량이란 곧 경제력을 의미하는 것과 같다.
+  reading: ''
+  annot: 농업, 공업 등 다양한 분야에서 활용되기 때문에 마석의 생산량이란 곧 경제력을 의미하는 것과 같다.
+  translation_zh: 因为（魔石）在农业、工业等各个领域被广泛利用，魔石的产量可以说就等于经济力。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 因果
+- 接续
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

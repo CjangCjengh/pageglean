@@ -1,0 +1,32 @@
+id: ja-grm-00549
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 使役助动词「せる・させる」：〜には〜のが一番だ
+structure: 動詞未然形＋使役の助動詞「せる／させる」（五段活用動詞に「せる」、下一段活用動詞に「させる」）
+structure_pattern: V未然形+せる／させる
+explanation_zh: 学校文法将使役处理为接在动词未然形后的助動詞：五段动词接「せる」（語る→語らせる、怒る→怒らせる），一段动词接「させる」。片段同时出现「語らせる」「怒らせる」两个五段使役。搭配「〜には〜のが一番だ」（要…最好的办法是…）构成手段评价句。
+examples:
+- text: 人間に本音を語らせるには怒らせるのが一番だ。
+  reading: ''
+  annot: 人間[にんげん]に本音[ほんね]を語[かた]らせるには怒[おこ]らせるのが一番[いちばん]だ。
+  translation_zh: 要让人说出真心话，惹他生气是最好的办法。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 助动词
+- 活用
+- 接续
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

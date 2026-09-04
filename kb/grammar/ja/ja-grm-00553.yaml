@@ -1,0 +1,31 @@
+id: ja-grm-00553
+language: ja
+type: grammar
+level: N3
+level_rank: 3
+title: 「〜なければよかった：追悔过去」
+structure: 动词未然形 + 助动词「ない」假定形「なければ」 + 「よかった」
+structure_pattern: V-未然形 + なければ + よかった
+explanation_zh: 表示对既成事实的后悔，「早知道就不……／要是没……就好了」。由动词未然形接否定助动词「ない」的假定形「なければ」，再加「よかった」构成。与单纯否定不同，专用于追悔已发生之事。
+examples:
+- text: おまえなんかに関わらなければよかったよ
+  reading: ''
+  annot: おまえなんかに関[かか]わらなければよかったよ
+  translation_zh: 真后悔跟你这种家伙扯上关系。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 后悔
+- 仮定表現
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

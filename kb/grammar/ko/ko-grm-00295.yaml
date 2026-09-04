@@ -1,0 +1,40 @@
+id: ko-grm-00295
+language: ko
+type: grammar
+level: TOPIK2
+level_rank: 2
+title: 「-(으)ㄹ 수 있다/없다：可能性表达」
+structure: 动词词干 + 冠形词形语尾 -(으)ㄹ + 依存名词 수 + 있다/없다
+structure_pattern: V-(으)ㄹ 수 있다/없다
+explanation_zh: 依存名词「수」接在用言的冠形词形语尾「-(으)ㄹ」之后，表示实现某种情况的可能性，相当于中文的「能、可以」。片段中「쓸 수 없다」「죽일
+  수 있어」等反复出现，是推动对话的核心结构。中间还可插入 보조사「는」（속일 수는 없어）以加强对比语气。
+examples:
+- text: 네가 평소대로 마법을 쓸 수 있으면 내 입장에서는 상당히 불리해.
+  reading: ''
+  annot: 네가 평소대로 마법을 쓸 수 있으면 내 입장에서는 상당히 불리해.
+  translation_zh: 你要是能像平时一样使用魔法，对我的处境来说就相当不利了。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+- text: 그래, 마법을 쓸 수 있게 된 거구나.
+  reading: ''
+  annot: 그래, 마법을 쓸 수 있게 된 거구나.
+  translation_zh: 是啊，你已经能够使用魔法了呢。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 可能表现
+- 依存名词
+- 接续
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 8
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

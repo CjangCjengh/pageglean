@@ -1,0 +1,38 @@
+id: ja-grm-00613
+language: ja
+type: grammar
+level: N2
+level_rank: 4
+title: 连用形中止法：书面语的顺接与并列
+structure: 用言（动词）连用形直接结句，以读点接续下文（中止法）
+structure_pattern: V-連用形 + 、 + 下文
+explanation_zh: 「見上げ」「果たし」等动词连用形在句中稍顿再接续下文，是学校文法所称的「中止法」，属书面语接续方式。表示动作的并列或时间上的顺承，语感比て形更简洁、更具文学性。轻小说的叙述部分大量使用。
+examples:
+- text: 大空を見上げ、高層ビルの群れが吐き出す風に体を預ける。
+  reading: ''
+  annot: 大空[おおぞら]を見上[みあ]げ、高層[こうそう]ビルの群[む]れが吐[は]き出[だ]す風[かぜ]に体[からだ]を預[あず]ける。
+  translation_zh: 抬头仰望广阔的天空，把身体交给从高楼群中吹出的风。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+- text: 最後の仕事を果たし、旅を終えたように色あせたノート
+  reading: ''
+  annot: 最後の仕事を果たし、旅を終えたように色あせたノート
+  translation_zh: 完成了最后的使命、像结束旅途一般褪了色的笔记本
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 中止法
+- 书面语
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

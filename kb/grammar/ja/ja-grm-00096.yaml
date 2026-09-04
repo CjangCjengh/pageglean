@@ -1,0 +1,38 @@
+id: ja-grm-00096
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 「〜てしまう」：完成与非预期（补助动词）
+structure: 动词连用形 + 接续助词「て」 + しまう（补助动词）
+structure_pattern: V-連用形 + てしまう
+explanation_zh: 「しまう」接在动词连用形＋「て」之后作补助动词，表示动作彻底完成或出现非预期、不希望发生的结果。片段中「発覚してしまった」表示坏事成为现实，「聞いてしまった」表示无意中听到了不该听的内容。中文可译为“已经……了”“不小心……了”。
+examples:
+- text: 今、サラっとトンデモナイ事を聞いてしまった気が……？
+  reading: ''
+  annot: 今[いま]、サラっとトンデモナイ事[こと]を聞[き]いてしまった気[き]が……？
+  translation_zh: 总觉得，我刚才好像不小心听到了什么不得了的事情……？
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+- text: もし和希が私に手を出し、それが発覚してしまった場合
+  reading: ''
+  annot: もし和希[かずき]が私[わたし]に手[て]を出[だ]し、それが発覚[はつかく]してしまった場合[ばあい]
+  translation_zh: 如果和希（你）对我出手，而那件事又败露的话，
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 体貌
+- 语气
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

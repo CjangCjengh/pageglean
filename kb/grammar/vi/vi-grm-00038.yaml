@@ -1,0 +1,38 @@
+id: vi-grm-00038
+language: vi
+type: grammar
+level: L2
+level_rank: 2
+title: càng：越……越……（程度随情境递进）
+structure: （原因小句），主语 + càng（程度副词）+ V/Adj
+structure_pattern: Clause …, S + càng + V/Adj
+explanation_zh: càng 是程度副词（phó từ chỉ mức độ），表示程度随情境加深，相当于汉语“越……越……／越来越……”。片段中前一小句给出原因，后句用
+  càng 表示“越想／越听就越……”。
+examples:
+- text: Nghe nó bình phẩm, tôi càng tiếc hùi hụi.
+  reading: ''
+  annot: Nghe nó bình phẩm, tôi càng tiếc hùi hụi.
+  translation_zh: 听它这么一评论，我越发懊悔不已。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+- text: Nghĩ đến mấy kiểu cười tình cảm khổ luyện giữa đêm khuya, tôi càng giận mình.
+  reading: ''
+  annot: Nghĩ đến mấy kiểu cười tình cảm khổ luyện giữa đêm khuya, tôi càng giận mình.
+  translation_zh: 想到那几种深夜苦练的深情微笑，我越发生自己的气。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 程度副词
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

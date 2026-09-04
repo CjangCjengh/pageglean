@@ -1,0 +1,32 @@
+id: ko-grm-00552
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: 「-(으)ㄴ 채(로)：保持着某种状态」
+structure: 용언 어간 + 관형사형 전성어미 '-(으)ㄴ' + 의존명사 '채(로)'
+structure_pattern: V/A-(으)ㄴ + 채(로) (의존명사)
+explanation_zh: 依存名词 '채' 表示维持前一状态进行后一动作，相当于汉语“保持着……的样子/状态下”。由冠形词形转成词尾 '-(으)ㄴ' 修饰 '채'
+  构成，前后两个动作的主语须一致。本片段出现两次，是描写伴随状态的常用结构。
+examples:
+- text: 그렇게 우리는, 서로의 얼굴은 쳐다보지도 않은 채 잠정적인 평화 협정을 완료했다.
+  reading: ''
+  annot: 그렇게 우리는, 서로의 얼굴은 쳐다보지도 않은 채 잠정적인 평화 협정을 완료했다.
+  translation_zh: 就这样，我们连彼此的脸都不看，便完成了临时的和平协定。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 依存名词
+- 状态维持
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

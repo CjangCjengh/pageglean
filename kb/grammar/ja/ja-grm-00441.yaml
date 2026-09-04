@@ -1,0 +1,32 @@
+id: ja-grm-00441
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: ちゃ／っちゃ：「ては」的口语缩约
+structure: V-连用形＋て＋は → ちゃ（っちゃ）
+structure_pattern: V-連用形 + て + 助詞「は」→ ちゃ/っちゃ（縮約）
+explanation_zh: 口语中「ては」缩约为「ちゃ」（拨音后为「じゃ」），多用于条件语境。「あるっちゃあるかなぁー」相当于「あるといえばあるかな」，意为"要说的话倒也算有"，含糊其辞地回应对方关于"有没有兴趣"的提问。口语色彩浓厚，轻小说会话中高频出现。
+examples:
+- text: んーまぁ、あるっちゃあるかなぁー
+  reading: ''
+  annot: んーまぁ、あるっちゃあるかなぁー
+  translation_zh: 嗯——这个嘛，要说的话倒也算有点兴趣吧——
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 口语
+- 接续
+- 缩约
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

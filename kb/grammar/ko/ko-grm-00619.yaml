@@ -1,0 +1,38 @@
+id: ko-grm-00619
+language: ko
+type: grammar
+level: TOPIK2
+level_rank: 2
+title: -(으)ㄹ 것 같다：推测「好像……」
+structure: 用言词干 + 冠形词形词尾 -(으)ㄹ + 依存名词 것 + 形容词 같다
+structure_pattern: V/A-(으)ㄹ 것 같다
+explanation_zh: 用言词干后接冠形词形词尾「-(으)ㄹ」修饰依存名词「것」，再由形容词「같다」作谓语，表示推测或委婉的判断，相当于中文的「好像……」。这是韩语最高频的推测表达，比直接断定语气柔和，叙事与口语中都很常见。口语中「것」常缩略为「거」。
+examples:
+- text: 뇌가 터질 것 같은 그 순간, 왼쪽 뺨에 번쩍하고 강렬한 통증이 찾아왔다.
+  reading: ''
+  annot: 뇌가 터질 것 같은 그 순간, 왼쪽 뺨에 번쩍하고 강렬한 통증이 찾아왔다.
+  translation_zh: 大脑好像要炸开的那一刻，左脸颊猛地袭来一阵强烈的疼痛。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+- text: 가로에게 얻어맞았을 때보다, 어쩐지 지금이 좀 더 아픈 것 같은 기분이 들었다.
+  reading: ''
+  annot: 가로에게 얻어맞았을 때보다, 어쩐지 지금이 좀 더 아픈 것 같은 기분이 들었다.
+  translation_zh: 比起被加罗打的时候，不知为何，感觉现在好像更疼一些。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 推测
+- 依存名词
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

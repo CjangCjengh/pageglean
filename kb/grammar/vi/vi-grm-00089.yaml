@@ -1,0 +1,31 @@
+id: vi-grm-00089
+language: vi
+type: grammar
+level: L2
+level_rank: 2
+title: hơn：比较级
+structure: 形容词/心理动词 + hơn（比较对象可省略）
+structure_pattern: A/V(tâm lí) + hơn (+ B)
+explanation_zh: hơn 置于形容词或心理动词之后表示比较，相当于汉语的"更……"。口语中比较对象常省略，只保留"V/A + hơn"，表示"还是……更好"。片段中
+  khoái 是南方口语词，意为"喜欢、乐意"。
+examples:
+- text: Tao khoái làm con lừa hơn.
+  reading: ''
+  annot: Tao khoái làm con lừa hơn.
+  translation_zh: 我倒更喜欢当驴子。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 比较结构
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

@@ -1,0 +1,32 @@
+id: ko-grm-00351
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: 「-(으)라고/-(느)다고 해서：并非因为是……」
+structure: 间接引用形 -(느)다고 / -(으)라고 + 해서
+structure_pattern: A/V-(느)다고 해서; 이라고 해서
+explanation_zh: 间接引用后接'-아서/어서'，表示'因为是/就算是……'，后句多为否定，表达前后并不构成相应结果，即'即使……也不至于……'。体词性的'이다'后用'라고
+  해서'。
+examples:
+- text: 당신이 신입이라고 해서 봐주지는 않습니다.
+  reading: ''
+  annot: 당신이 신입이라고 해서 봐주지는 않습니다.
+  translation_zh: 就算你是新人，我们也不会网开一面。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 引用
+- 连接词尾
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

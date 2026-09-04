@@ -1,0 +1,31 @@
+id: vi-grm-00306
+language: vi
+type: grammar
+level: L3
+level_rank: 3
+title: cứ…lại…：惯常反复（“一……就又……”）
+structure: cứ + 情形, (S) + lại + V（每每重现）
+structure_pattern: cứ + X, … lại + V
+explanation_zh: cứ是副词（phó từ），表示动作或情况反复出现；与表重复的副词lại呼应，构成惯常句，相当于“每每/总是……又……”。片段中描写阿缺一逮到“我”走神就故伎重演，画面感极强。
+examples:
+- text: Và cứ thừa lúc tôi lơ đễnh, nó lại phóng vèo qua mặt và giở giọng đểu cáng.
+  reading: ''
+  annot: Và cứ thừa lúc tôi lơ đễnh, nó lại phóng vèo qua mặt và giở giọng đểu cáng.
+  translation_zh: 而他总是趁我一走神，就又嗖地从我面前冲过去，还摆出那副无赖腔调。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 体貌/惯常
+- 副词
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

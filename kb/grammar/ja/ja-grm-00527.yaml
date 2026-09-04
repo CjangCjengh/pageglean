@@ -1,0 +1,38 @@
+id: ja-grm-00527
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 「〜んだ」：解释与确认的语气（「〜のだ」的口语形）
+structure: 用言・助動詞連体形 + 準体助詞「の」（口语作「ん」）+ 断定の助動詞「だ」
+structure_pattern: V・A連体形 + のだ／んだ
+explanation_zh: 由准体助词「の」加断定助动词「だ」构成，用于解释说明、强调事出有因，而非单纯叙述；口语中「の」变为「ん」。片段中主人公独白反复使用，传达沉重的自我说服与确认语气。中文多译作“（其实）是……”“……的”。
+examples:
+- text: あいつは────自殺したんだ。
+  reading: ''
+  annot: あいつは────自殺[じさつ]したんだ。
+  translation_zh: 那家伙——是自杀的。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+- text: だからこそ俺の体に生まれ変わった時、なんでもできると思ったんだ。
+  reading: ''
+  annot: だからこそ俺[おれ]の体[からだ]に生[う]まれ変[か]わった時[とき]、なんでもできると思[おも]ったんだ。
+  translation_zh: 正因如此，当她转生到我的身体里时，我曾以为自己什么都能做到。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 语气
+- 句末
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 10
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

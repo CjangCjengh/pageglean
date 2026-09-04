@@ -1,0 +1,39 @@
+id: ja-grm-00511
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 〜てくれ／〜てくれないか：男性化的随意请求
+structure: 动词连用形（て形）+ 授受动词「くれる」的命令形「くれ」／否定疑问「くれないか」
+structure_pattern: V-て + くれ／くれないか
+explanation_zh: 「くれ」是授受动词「くれる」的命令形，接动词连用形（て形）构成随意的请求，语气男性化、亲昵。「〜てくれないか」用否定疑问形式表示“能不能帮我……”，语气更为缓和。片段中主人公对妹妹使用，体现亲密无间的口吻。
+examples:
+- text: それで寝る時は一緒に寝てくれ。
+  reading: ''
+  annot: それで寝[ね]る時[とき]は一緒[いっしょ]に寝[ね]てくれ。
+  translation_zh: 然后，睡觉的时候要陪我一起睡。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+- text: そして、できればずっと一緒にいてくれないか。
+  reading: ''
+  annot: そして、できればずっと一緒[いっしょ]にいてくれないか。
+  translation_zh: 然后，如果可以的话，能不能一直陪着我？
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 授受动词
+- 语气
+- 口语
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

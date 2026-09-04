@@ -1,0 +1,32 @@
+id: th-grm-00042
+language: th
+type: grammar
+level: L2
+level_rank: 2
+title: เคย（+ไว้）：曾经做过
+structure: เคย + 动词（+ ไว้）（表示过去的经历）
+structure_pattern: เคย + V (+ ไว้)
+explanation_zh: 「เคย」表示过去的经历“曾经……”；其后加「ไว้」表示动作留下持续有效的结果或痕迹。片段中 “เคยถามไว้ในอีเมล”
+  指“曾在邮件里问过（那个问题）”，句末 อีกครั้ง 表示“再一次”。
+examples:
+- text: เธอ​ถามคำถาม​เดียว​กับ​ที่​เคย​ถาม​ไว้​ใน​อีเมล​มา​อีกครั้ง
+  reading: ''
+  annot: เธอ​ถามคำถาม​เดียว​กับ​ที่​เคย​ถาม​ไว้​ใน​อีเมล​มา​อีกครั้ง
+  translation_zh: 她又问了一遍曾在邮件里问过的那个同样的问题。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 体貌
+- 经历
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

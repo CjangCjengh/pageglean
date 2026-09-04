@@ -1,0 +1,31 @@
+id: vi-grm-00199
+language: vi
+type: grammar
+level: L2
+level_rank: 2
+title: 比较结构：Adj + hơn + B
+structure: A + Adj + hơn + B (+ nhiều)
+structure_pattern: A + Adj + hơn + B (+ nhiều)
+explanation_zh: hơn 放在形容词之后构成比较级，意为“比……更……”。句末可补加 nhiều 说明程度差距大，如 "cứng hơn trái cam
+  nhiều"（比橙子硬得多）。最高级则用 nhất。
+examples:
+- text: Nhưng trái ổi cứng hơn trái cam nhiều.
+  reading: ''
+  annot: Nhưng trái ổi cứng hơn trái cam nhiều.
+  translation_zh: 但是番石榴比橙子硬得多。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 比较
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

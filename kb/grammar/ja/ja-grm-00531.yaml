@@ -1,0 +1,38 @@
+id: ja-grm-00531
+language: ja
+type: grammar
+level: N3
+level_rank: 3
+title: 「〜（よ）うとする」：试图做、正要做
+structure: 動詞未然形 + 意志の助動詞「う・よう」 + 格助詞「と」 + 動詞「する」
+structure_pattern: V-未然形 + う／ようとする
+explanation_zh: 意志助动词「う・よう」后接格助词「と」与动词「する」，表示正要做、试图做某事。否定形「〜ようとしなかった」表示“不肯尝试去做”。片段反复以此结构描写光生前对前进与与人交往的抗拒。
+examples:
+- text: だからこそ、あいつはスイカ畑から先に進もうとしなかった。
+  reading: ''
+  annot: だからこそ、あいつはスイカ畑[ばたけ]から先[さき]に進[すす]もうとしなかった。
+  translation_zh: 正因如此，那家伙才不肯从西瓜田再往前走。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+- text: と言おうとして俺はためらう。
+  reading: ''
+  annot: と言[い]おうとして俺[おれ]はためらう。
+  translation_zh: 我本想那样说出口，却迟疑了。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 助动詞
+- 接续
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

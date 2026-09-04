@@ -1,0 +1,32 @@
+id: vi-grm-00154
+language: vi
+type: grammar
+level: L3
+level_rank: 3
+title: hễ…là…：一……就……（习惯性条件）
+structure: hễ + 动词短语1，là + 动词短语2
+structure_pattern: hễ + V + là + V
+explanation_zh: 「hễ…là…」表示习惯性条件关系，相当于汉语「一……就……／每逢……总是……」，强调前句情况每次出现，后句结果必然随之发生。常用于叙述日常习惯或规律性现象。
+examples:
+- text: Hôm trước hễ mở miệng là mày bàn ra, sao hôm nay mày bàn vô hăng hái quá vậy?
+  reading: ''
+  annot: Hôm trước hễ mở miệng là mày bàn ra, sao hôm nay mày bàn vô hăng hái quá
+    vậy?
+  translation_zh: 前几天你一开口就劝我打退堂鼓，怎么今天却这么起劲地帮我出主意？
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 条件
+- 惯常
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

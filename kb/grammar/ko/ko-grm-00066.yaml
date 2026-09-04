@@ -1,0 +1,39 @@
+id: ko-grm-00066
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: 「-지는 않다：否定与对比强调」
+structure: 用言 + 补助连接词尾 -지 + 否定补助用言 않다（中间可插入补助词尾 는）
+structure_pattern: A/V-지 않다 / A/V-지는 않다
+explanation_zh: 「-지 않다」是否定补助用言结构，相当于“不……”。在「-지」与「않다」之间插入补助词尾「는」，表示对比或弱化语气，如「나쁘지는 않다」（不算坏，但言外之意有所保留）。常与副词「별로」呼应构成「별로
+  -지 않다」。
+examples:
+- text: 하지만 별로 내키지 않았다.
+  reading: ''
+  annot: 하지만 별로 내키지 않았다.
+  translation_zh: 但我并不怎么情愿。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+- text: 소설 속에서의 아즐란은 그런 식으로 찔끔찔끔 세력을 넓히지는 않았다.
+  reading: ''
+  annot: 소설 속에서의 아즐란은 그런 식으로 찔끔찔끔 세력을 넓히지는 않았다.
+  translation_zh: 小说里的阿兹兰并不会那样一点一点地扩张势力。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 否定
+- 语气
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 5
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

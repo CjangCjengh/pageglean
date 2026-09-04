@@ -1,0 +1,31 @@
+id: ko-grm-00395
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: 「-(으)ㄹ 뿐이다：只是……罢了」
+structure: 용언 관형사형 어미 '-(으)ㄹ' + 의존명사 '뿐' + 종결어미；体词后也可直接加 '뿐이다'
+structure_pattern: V/A-(으)ㄹ + 뿐이다; N + 뿐이다
+explanation_zh: 依存名词'뿐'表示限定，'-(으)ㄹ 뿐이다'强调"仅此而已、别无其他"，常带辩解、淡化责任的语气，译为"只是……罢了"。也可直接接在名词后，如片段中的'단서가…것뿐이었으니까'。
+examples:
+- text: 의도치 않게 여기저기 세심하게 훑어보았을 뿐이다.
+  reading: ''
+  annot: 의도치 않게 여기저기 세심하게 훑어보았을 뿐이다.
+  translation_zh: 只是无意间仔仔细细地四处打量了一番而已。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 의존명사
+- 한정
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

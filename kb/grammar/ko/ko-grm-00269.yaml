@@ -1,0 +1,39 @@
+id: ko-grm-00269
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: 「-아/어 내다：动作达成结果」
+structure: 본용언 어간 + -아/어 + 보조 동사 '내다'
+structure_pattern: V-아/어 내다
+explanation_zh: 补助动词내다通过-아/어与主要动词结合，强调动作取得结果或贯彻到底（학교문법的补助动词构成）。本段战斗描写中高频出现：잘라 내다（切断）、뻗어
+  나오다（伸出）、튕겨 내다（弹开）。中文常译出结果补语"断、出来、开"。
+examples:
+- text: 흑색의 칼날은 거대한 갈퀴를 아무 저항 없이 파고들어 소유자의 팔을 잘라 내고, 더 나아가 몸뚱이까지 꿰뚫으려 했다.
+  reading: ''
+  annot: 흑색의 칼날은 거대한 갈퀴를 아무 저항 없이 파고들어 소유자의 팔을 잘라 내고, 더 나아가 몸뚱이까지 꿰뚫으려 했다.
+  translation_zh: 黑色的刀刃毫无阻碍地深入巨大的耙状物，斩断了持有者的手臂，进而还想刺穿整个身躯。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+- text: 알테아는 클라우가 휘두르는 검을 성궤검으로 튕겨 냈다.
+  reading: ''
+  annot: 알테아는 클라우가 휘두르는 검을 성궤검으로 튕겨 냈다.
+  translation_zh: 阿尔忒亚用圣柜剑将克劳挥来的剑弹开了。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 补助动词
+- 结果
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 5
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

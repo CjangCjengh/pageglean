@@ -1,0 +1,38 @@
+id: ja-grm-00259
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 〜てあげる：为对方做……（反语、威胁语气）
+structure: 动词连用形＋てあげる
+structure_pattern: V-て + あげる
+explanation_zh: 授受补助动词，表示为对方施做某事。由于含有「我在施惠于你」的预设，当动作其实违背对方意愿时，会带上强势、讽刺的语气。片段中「終わらせてあげるよ」用温柔的施惠形式说「这就送你上路」，是敬语威胁的典型用法。
+examples:
+- text: 社会的に死ぬ前に、ここで終わらせてあげるよ……
+  reading: ''
+  annot: 社会的に死ぬ前に、ここで終わらせてあげるよ……
+  translation_zh: 在你社会性死亡之前，我就在这里帮你了结吧……
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+- text: この子は私が、責任を持って親元に帰してあげるから
+  reading: ''
+  annot: この子[こ]は私[わたし]が、責任[せきにん]を持[も]って親元[おやもと]に帰[かえ]してあげるから
+  translation_zh: 这孩子由我负责送回到她父母身边，
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 授受表达
+- 语气
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

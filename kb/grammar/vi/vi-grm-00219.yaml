@@ -1,0 +1,39 @@
+id: vi-grm-00219
+language: vi
+type: grammar
+level: L3
+level_rank: 3
+title: 否定态度：không hề / không thèm / không chịu
+structure: không hề / không thèm / không chịu + 动词
+structure_pattern: không hề / thèm / chịu + V
+explanation_zh: 在动词前叠加副词可表达不同的否定态度：「không hề」强调完全没有（“压根没”）；「không thèm」表示不屑、懒得；「không
+  chịu」表示不肯（“怎么也不肯”，如“nhất định không chịu làm lành”）。另有「chẳng…chút nào」表示“一点也不”。
+examples:
+- text: Suốt cả buổi học, tôi và Tiểu Li không hề nói chuyện với nhau.
+  reading: ''
+  annot: Suốt cả buổi học, tôi và Tiểu Li không hề nói chuyện với nhau.
+  translation_zh: 整整一节课，我和小黎都没有跟对方说一句话。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+- text: Thậm chí tôi không thèm nhìn nó.
+  reading: ''
+  annot: Thậm chí tôi không thèm nhìn nó.
+  translation_zh: 我甚至连看都懒得看她一眼。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 否定
+- 情态
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 4
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

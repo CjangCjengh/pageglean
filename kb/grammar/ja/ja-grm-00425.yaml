@@ -1,0 +1,31 @@
+id: ja-grm-00425
+language: ja
+type: grammar
+level: N3
+level_rank: 3
+title: たびに：每当……都……
+structure: 动词连体形／名词＋の ＋ たびに
+structure_pattern: V連体形／N＋の + たびに
+explanation_zh: 「たびに」由名词「度（たび）」加助词「に」构成，接动词连体形，表示『每当……的时候都……』，强调前后两项规律性伴随发生。句中『すれ違うたびに』指每次擦肩而过都必定打招呼。与「ごとに」不同，「たびに」着眼于每次契机而非等间隔。
+examples:
+- text: すれ違うたびに「おつかれっした！」という挨拶をかましてくる。
+  reading: ''
+  annot: すれ違[ちが]うたびに「おつかれっした！」という挨拶[あいさつ]をかましてくる。
+  translation_zh: 每次擦肩而过，（他）都要来上一句『您辛苦啦！』的问候。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 頻度
+- 接続
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

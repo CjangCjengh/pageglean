@@ -1,0 +1,39 @@
+id: ja-grm-00541
+language: ja
+type: grammar
+level: N3
+level_rank: 3
+title: 使役受身（使役被动）：被迫做某事
+structure: 動詞未然形 ＋ 使役助動詞「せる／させる」 ＋ 受身助動詞「れる／られる」（口语常缩为「〜される」）
+structure_pattern: V-未然形 + せる/させる + れる/られる
+explanation_zh: 使役助動詞「せる・させる」与受身助動詞「れる・られる」叠加使用，表示说话人被他人强迫去做某事，带有不情愿、困扰的语气。按学校文法，五段动词的使役受身在口语中常缩约为「〜される」，如「持つ→持たされる」。轻小说中主角被他人摆布的场景里出现频率很高。
+examples:
+- text: おみやげにビニールハウス出身のスイカを三個も持たされたのでやんわりと断ってみたが、
+  reading: ''
+  annot: おみやげにビニールハウス出身[しゅっしん]のスイカを三個[さんこ]も持[も]たされたのでやんわりと断[ことわ]ってみたが、
+  translation_zh: （对方）把大棚种的三个西瓜作为礼物硬塞给我拿着，我试着婉言推辞，可是……
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+- text: というノーコメント必至な説得を受けて背負わされるはめに。
+  reading: ''
+  annot: というノーコメント必至[ひっし]な説得[せっとく]を受[う]けて背負[せお]わされるはめに。
+  translation_zh: 在那种让人无法回应的劝说攻势下，我被迫背起了西瓜。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 使役受身
+- 助動詞
+- 態
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

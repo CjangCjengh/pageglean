@@ -1,0 +1,38 @@
+id: ko-grm-00501
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: -다니：竟然……（难以置信）
+structure: 용언 어간 + 종결어미 -다니 / 체언 + (이)라니
+structure_pattern: V/A-다니; N-(이)라니
+explanation_zh: 终结词尾-다니表示对刚得知或亲眼所见的事实感到惊讶、难以置信或荒唐，相当于中文“竟然……”。体言后接(이)라니，如“악마 찾기 놀이라니”。后句常接反问或感叹。
+examples:
+- text: 마왕이 인간을 악마라고 의심해서 추궁해 오다니, 지금 이 상황이 우습다고는 생각 안 하십니까?
+  reading: ''
+  annot: 마왕이 인간을 악마라고 의심해서 추궁해 오다니, 지금 이 상황이 우습다고는 생각 안 하십니까?
+  translation_zh: 魔王居然怀疑人类是恶魔还追问过来，您不觉得现在这情况很可笑吗？
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+- text: 악마 찾기 놀이라니…….
+  reading: ''
+  annot: 악마 찾기 놀이라니…….
+  translation_zh: 居然说是找恶魔的游戏……
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 语气
+- 终结词尾
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

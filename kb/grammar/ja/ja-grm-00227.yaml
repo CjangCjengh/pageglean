@@ -1,0 +1,31 @@
+id: ja-grm-00227
+language: ja
+type: grammar
+level: N2
+level_rank: 4
+title: 〜割に（は）：与预期相反，“倒是……却……”
+structure: 连体修饰语 + 形式名词「割に（は）」
+structure_pattern: 連体形 + 割に（は）
+explanation_zh: 形式名词「割に（は）」接连体修饰语之后，表示后项结果与前项不相称、出乎预期，相当于“明明……却……”。片段中「そういう割に」即“嘴上那么说，脸上倒挺开心”。口语与书面均常用。
+examples:
+- text: ――そういう割に、楽しそうな顔だな？
+  reading: ''
+  annot: ――そういう割[わり]に、楽[たの]しそうな顔[かお]だな？
+  translation_zh: ——你嘴上那么说，脸上的表情倒是很开心嘛？
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 逆接
+- 形式名词
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

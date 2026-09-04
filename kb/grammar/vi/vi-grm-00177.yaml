@@ -1,0 +1,32 @@
+id: vi-grm-00177
+language: vi
+type: grammar
+level: L2
+level_rank: 2
+title: chưa…đã…：还没…就已经…
+structure: chưa + V1 …, đã + V2
+structure_pattern: chưa + V … đã + V
+explanation_zh: chưa 和 đã 都是动词前的体貌副词：chưa 表示「尚未」，đã 表示「已经」。两者对举，构成「还没……就已经……」的时间反差。chưa
+  本身含否定意义，不需再加 không。
+examples:
+- text: Cô Hường đọc chưa dứt, cả lớp đã cười rần rần.
+  reading: ''
+  annot: Cô Hường đọc chưa dứt, cả lớp đã cười rần rần.
+  translation_zh: Cô Hường 还没念完，全班就已经哄堂大笑。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 体貌
+- 虚词
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

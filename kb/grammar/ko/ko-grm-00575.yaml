@@ -1,0 +1,39 @@
+id: ko-grm-00575
+language: ko
+type: grammar
+level: TOPIK2
+level_rank: 2
+title: -잖아(요)：不是……嘛
+structure: 用言词干 + -잖아(요)
+structure_pattern: V/A-잖아(요)（종결어미 '-지 않다'의 축약）
+explanation_zh: '''-잖아'' 是 ''-지 않다'' 的口语缩略形式，用于提醒对方一个双方已知或显而易见的事实，带有『不是……嘛』的语气。它与单纯陈述不同，预设听者能够认同该事实。本段对话中反复出现，使语气自然亲切。'
+examples:
+- text: 뭐야, 깜짝 놀랐잖아.
+  reading: ''
+  annot: 뭐야, 깜짝 놀랐잖아.
+  translation_zh: 什么嘛，吓我一跳。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+- text: 앗, 조심해서 다녀야지, 마왕. 위험하잖아?
+  reading: ''
+  annot: 앗, 조심해서 다녀야지, 마왕. 위험하잖아?
+  translation_zh: 哎呀，得小心点走啊，魔王。多危险呀？
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 口语
+- 语气
+- 终结词尾
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

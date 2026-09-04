@@ -1,0 +1,31 @@
+id: ja-grm-00528
+language: ja
+type: grammar
+level: N2
+level_rank: 4
+title: 「〜わけにはいかない」：碍于情理而不能
+structure: 用言連体形 + 形式名詞「わけ」 + 格助詞「には」 + 動詞「いく」（多用否定）
+structure_pattern: V連体形 + わけにはいかない
+explanation_zh: 形式名词「わけ」表示道理、情理，「わけにはいかない」字面是“不能顺着这种情理走下去”，即碍于情理、责任而“不能做某事”。它与能力上的“做不到”不同，强调说话人主观上不许可自己。片段中主人公以此宣示不能再逃避现实。
+examples:
+- text: だけど、もう目を背けるわけにはいかない。
+  reading: ''
+  annot: だけど、もう目[め]を背[そむ]けるわけにはいかない。
+  translation_zh: 但是，已经不能再移开目光逃避下去了。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 形式名词
+- 语气
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

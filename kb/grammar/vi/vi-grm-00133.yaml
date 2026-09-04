@@ -1,0 +1,32 @@
+id: vi-grm-00133
+language: vi
+type: grammar
+level: L2
+level_rank: 2
+title: 「được」：得以、求得（进入某种如愿状态）
+structure: muốn/được + Adj 表示得以进入某种状态
+structure_pattern: được + Adj/State
+explanation_zh: 「được」本义“得到”，此处接形容词表“得以进入某种（如愿的）状态”。「được yên tĩnh」即“图个清静、得以安静”。它与表被动的「bị/được」同源，但此处强调获得理想状态。
+examples:
+- text: Tôi đang muốn được yên tĩnh, không muốn gặp bất cứ ai
+  reading: ''
+  annot: Tôi đang muốn được yên tĩnh, không muốn gặp bất cứ ai
+  translation_zh: 我当时只想图个清静，谁也不想见。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 能愿
+- 被动/得
+- 体貌
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 8
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

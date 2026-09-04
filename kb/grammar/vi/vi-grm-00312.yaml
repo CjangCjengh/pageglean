@@ -1,0 +1,41 @@
+id: vi-grm-00312
+language: vi
+type: grammar
+level: L3
+level_rank: 3
+title: V＋ra：结果补语「发现、明白」
+structure: V + ra（结果补语）
+structure_pattern: động từ + bổ ngữ kết quả 'ra'
+explanation_zh: 「ra」作结果补语接在认知类动词后，表示「认出、明白、发现」等结果的实现，如 hiểu ra（明白过来）、phát hiện ra（发现）。这与表方向的「ra」（向外）不同，如同段中的「xông
+  ra」（冲出去）。对应中文「看出来、想明白」一类结果补语。
+examples:
+- text: Một lát sau, Tiểu Li mới phát hiện ra sự mất tích của tôi.
+  reading: ''
+  annot: Một lát sau, Tiểu Li mới phát hiện ra sự mất tích của tôi.
+  translation_zh: 过了一会儿，Tiểu Li 才发现我不见了。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+- text: Nhưng trước khi Lợi sứt hiểu ra chuyện gì, tôi đã nhanh nhẹn xông ra, ôm cổ
+    nó vật xuống đất.
+  reading: ''
+  annot: Nhưng trước khi Lợi sứt hiểu ra chuyện gì, tôi đã nhanh nhẹn xông ra, ôm
+    cổ nó vật xuống đất.
+  translation_zh: 但在 Lợi sứt 明白过来是怎么回事之前，我已经敏捷地冲出去，一把搂住它的脖子把它摔倒在地。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 补语
+- 结果
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 4
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

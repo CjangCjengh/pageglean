@@ -1,0 +1,31 @@
+id: ja-grm-00355
+language: ja
+type: grammar
+level: N3
+level_rank: 3
+title: 形式名词「もの」：常理与主张（句末「ものだ」）
+structure: 用言连体形＋形式名词「もの」（句末形式：ものだ／ものさ）
+structure_pattern: 用言-連体形 + もの（だ/さ）
+explanation_zh: 形式名词「もの」用于句末（「ものだ／ものさ」），表示一般的道理、常识或说话人的感慨与主张。文中「勝手に形になるものさ」意为“自然而然就会成形的嘛”，带有笃定、宽慰的语气。中文可译为“本来就是……的嘛”“……才是常理”。
+examples:
+- text: こういうときはとにかく書いてみるのが大事だ。そうすれば勝手に形になるものさ。
+  reading: ''
+  annot: こういうときはとにかく書[か]いてみるのが大事[だいじ]だ。そうすれば勝[かっ]手[て]に形[かたち]になるものさ。
+  translation_zh: 这种时候总之先试着动笔才最重要。那样的话，内容自然就会成形的嘛。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 形式名詞
+- 句末语气
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

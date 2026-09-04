@@ -1,0 +1,37 @@
+id: ja-grm-00349
+language: ja
+type: grammar
+level: N3
+level_rank: 3
+title: まるで〜ようだ：简直像〜似的比喻
+structure: まるで ＋ 用言連体形／体言＋の ＋ ようだ・ように（比況助動詞）
+structure_pattern: まるで + 用言-連体形/体言+の + ようだ
+explanation_zh: 比况助动词「ようだ」接用言连体形（或体言＋の），与副词「まるで」呼应，表示“简直像〜一样”。片段中反复用它比喻虚幻的记忆与似有似无的存在，是营造氛围的关键表达。
+examples:
+- text: 冷たい雨が見せた蜃気楼のような存在。
+  reading: ''
+  annot: 冷[つめ]たい雨[あめ]が見[み]せた蜃気楼[しんきろう]のような存在[そんざい]。
+  translation_zh: 如同冰冷的雨所幻化出的海市蜃楼一般的存在。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+- text: まるで、今日から逃げるように。
+  reading: ''
+  annot: まるで、今日[きょう]から逃[に]げるように。
+  translation_zh: 简直像是在逃避今天一样。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 比喩
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 4
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

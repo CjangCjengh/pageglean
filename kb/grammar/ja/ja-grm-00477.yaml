@@ -1,0 +1,31 @@
+id: ja-grm-00477
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 〜てしまう：动作完成且结果存续
+structure: 動詞連用形＋接続助詞「て」＋補助動詞「しまう」（＋「いる」表结果状态）
+structure_pattern: V-連用形 + 接続助詞「て」 + 補助動詞「しまう」 + いる
+explanation_zh: 「てしまう」作補助動詞，表示动作彻底完成或出现难以挽回的变化，常带遗憾语气。「止めてしまっている」是「止めてしまう」＋「いる」，强调“停了之后再无动静”这一结果仍在持续。口语中变为「〜ちゃう」。
+examples:
+- text: 部屋の隅っこでちまちまと埋められていたホワイトパズルも、その動きを止めてしまっている。
+  reading: ''
+  annot: 部屋[へや]の隅[すみ]っこでちまちまと埋[う]められていたホワイトパズルも、その動[うご]きを止[と]めてしまっている。
+  translation_zh: 在房间角落里一点一点被填着的白色拼图，也彻底停下了进展。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 体貌
+- 语气
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

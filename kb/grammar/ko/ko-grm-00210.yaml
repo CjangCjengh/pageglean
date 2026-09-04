@@ -1,0 +1,38 @@
+id: ko-grm-00210
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: 「-(느)ㄴ다는 것을：引用内容名词化」
+structure: 句子 + -(느)ㄴ다는 것을 + 알다/눈치채다
+structure_pattern: V- + -(느)ㄴ다고 + 것 → -(느)ㄴ다는 것(인용절의 명사화) + 을
+explanation_zh: 间接引用词尾 -(느)ㄴ다고 中的 '고' 被依存名词 '것' 替换，使整个引用内容名词化，后接 알다、모르다、눈치채다 等动词，相当于“（知道/察觉到）……这件事”。片段连续两句以同一结构收束，强调克劳早已看穿对方另有图谋。
+examples:
+- text: 내가 하는 짓이 무모한 자살이 아니라는 것을 이미 눈치채고 있다.
+  reading: ''
+  annot: 내가 하는 짓이 무모한 자살이 아니라는 것을 이미 눈치채고 있다.
+  translation_zh: 她已经察觉到，我的所作所为并不是鲁莽的自杀行为。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+- text: 아즐란 드 드라페스트가 어떤 작전을 준비하고 있다는 것을, 그녀는 이미 눈치채고 있다.
+  reading: ''
+  annot: 아즐란 드 드라페스트가 어떤 작전을 준비하고 있다는 것을, 그녀는 이미 눈치채고 있다.
+  translation_zh: 阿兹兰·德·德拉佩斯特正在准备某种作战，这一点她早已察觉。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 间接引用
+- 名词化
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 60
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

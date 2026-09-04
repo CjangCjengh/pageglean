@@ -1,0 +1,32 @@
+id: ko-grm-00258
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: -며：一边……一边……（同时与背景）
+structure: 动词词干 + -며（连接词尾，表示前后动作同时进行，前句作背景）
+structure_pattern: V-어간 + -며
+explanation_zh: -며 是连接词尾（연결어미），接在动词词干后，表示两个动作同时进行，前句常作后句的背景，相当于“一边……一边……”。与 -면서 意义相近但语感更简洁，多用于书面叙述。本片段反复出现，承担场景铺陈的功能。
+examples:
+- text: 아즐란을 생각하며, 마이시아는 다음 마법을 준비했다.
+  reading: ''
+  annot: 아즐란을 생각하며, 마이시아는 다음 마법을 준비했다.
+  translation_zh: 想着阿兹兰，迈希亚准备起了下一个魔法。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 连接词尾
+- 同时性
+- 书面语
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 6
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

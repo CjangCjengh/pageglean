@@ -1,0 +1,41 @@
+id: vi-grm-00157
+language: vi
+type: grammar
+level: L4
+level_rank: 4
+title: không V gì hết / gì ráo：一点也不……
+structure: không/chẳng + V + gì hết（gì ráo）
+structure_pattern: không + V + gì + hết/ráo
+explanation_zh: 否定句中动词后加「gì hết」表示彻底否定，“一点也不、什么也（不）”，语气比一般否定更强。南方口语里可用「ráo」替换「hết」，更添随意感。
+examples:
+- text: Mày không biết gì hết!
+  reading: ''
+  annot: Mày không biết gì hết!
+  translation_zh: 你什么都不知道！
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+- text: Ở đây không cần cơ sở khoa học gì ráo, chuyện tình cảm ta chỉ có thể cảm nhận
+    bằng... trái tim thôi!
+  reading: ''
+  annot: Ở đây không cần cơ sở khoa học gì ráo, chuyện tình cảm ta chỉ có thể cảm
+    nhận bằng... trái tim thôi!
+  translation_zh: 这里根本不需要什么科学依据，感情的事我们只能用……心去感受！
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 否定
+- 强调
+- 口语
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

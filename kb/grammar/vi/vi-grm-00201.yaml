@@ -1,0 +1,41 @@
+id: vi-grm-00201
+language: vi
+type: grammar
+level: L3
+level_rank: 3
+title: bị 被动：不如意被动句
+structure: bị + 施事 + V
+structure_pattern: bị + NP + V
+explanation_zh: bị 引出施事者构成被动结构，多表示不如意、受损的事情，相当于中文表示不利的“被”。顺利用或受益则用 được。文中 "bị Hồng
+  Hoa và Chiêu Minh phá đám" 即“被红花和照明一直搅局”。
+examples:
+- text: khó vì bị Hồng Hoa và Chiêu Minh phá đám liên miên
+  reading: ''
+  annot: khó vì bị Hồng Hoa và Chiêu Minh phá đám liên miên
+  translation_zh: 难就难在总被红花和照明搅局
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+- text: Gọi là rút lui cho oai, chứ thật ra tôi đã bị Việt An "đẩy lui" không thương
+    tiếc.
+  reading: ''
+  annot: Gọi là rút lui cho oai, chứ thật ra tôi đã bị Việt An "đẩy lui" không thương
+    tiếc.
+  translation_zh: 说是“撤退”好听点，其实我早就被 Việt An 毫不留情地“打退”了。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 被动
+- 句式
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

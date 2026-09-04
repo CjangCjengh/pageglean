@@ -1,0 +1,32 @@
+id: ko-grm-00255
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: 「-고 나서야：直到……之后才……」
+structure: 동사 + 연결어미 '-고' + 보조동사 '나다' + 보조사 '야'
+structure_pattern: V + -고 나서야
+explanation_zh: '''-고 나서다''是补助动词结构，强调前一动作完全结束；后接添意助词''야''（''才''）时，突出后项情况发生得太迟、来之不易。整句传达''直到盾牌铠甲被刺穿，他们才醒悟''的滞后感。'
+examples:
+- text: 두꺼운 방패와 갑옷이 순식간에 꿰뚫리고 나서야, 그들은 눈앞에 있는 소녀가 자신들의 주군에 필적할 만한 검사라는 것을 깨달았다.
+  reading: ''
+  annot: 두꺼운 방패와 갑옷이 순식간에 꿰뚫리고 나서야, 그들은 눈앞에 있는 소녀가 자신들의 주군에 필적할 만한 검사라는 것을 깨달았다.
+  translation_zh: 直到厚重的盾牌和铠甲瞬间被刺穿之后，他们才意识到眼前的少女是足以与自己主君匹敌的剑士。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 补助动词
+- 强调
+- 时间
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

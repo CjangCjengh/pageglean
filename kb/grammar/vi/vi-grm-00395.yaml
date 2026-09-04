@@ -1,0 +1,31 @@
+id: vi-grm-00395
+language: vi
+type: grammar
+level: L3
+level_rank: 3
+title: chứ gì：揣测性确认问句
+structure: 陈述小句 + 句末语气词 chứ gì（câu nghi vấn，表有把握的猜测）
+structure_pattern: S + VP + chứ gì
+explanation_zh: 句末语气词 chứ gì 构成疑问句，表示说话人已有所猜测、只待对方确认，相当于中文“……是吧/是想说……吧”。常用于替对方道破心思的场合。
+examples:
+- text: Anh định nói chuyện lá thư chứ gì?
+  reading: ''
+  annot: Anh định nói chuyện lá thư chứ gì?
+  translation_zh: 你是想说那封信的事吧？
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 疑问
+- 语气
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

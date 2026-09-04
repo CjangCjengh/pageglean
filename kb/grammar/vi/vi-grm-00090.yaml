@@ -1,0 +1,39 @@
+id: vi-grm-00090
+language: vi
+type: grammar
+level: L2
+level_rank: 2
+title: Nếu…thì…：条件复句
+structure: Nếu + 条件分句 + thì + 结果分句（口语可用 rủi 引出不利条件）
+structure_pattern: Nếu/risi… + thì…
+explanation_zh: nếu…thì… 是基本的条件复句框架，相当于汉语"如果……就……"，thì 是引出结果的关联副词。口语中 điều kiện 分句可不用
+  nếu，而用 rủi（万一、要是倒霉）等引出，则 thì 仍标记结果。句中"khỏi phải V"意为"不必、不用 V"。
+examples:
+- text: Nếu vậy thì mày được trở lại làm người, khỏi phải làm con lừa nữa!
+  reading: ''
+  annot: Nếu vậy thì mày được trở lại làm người, khỏi phải làm con lừa nữa!
+  translation_zh: 那样的话你就能重新做人，不用再当驴子了！
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+- text: Làm theo mày, rủi nó đánh dấu chéo vào ô "không yêu" thì chết tao.
+  reading: ''
+  annot: Làm theo mày, rủi nó đánh dấu chéo vào ô "không yêu" thì chết tao.
+  translation_zh: 照你说的做，万一她在"不爱"那一格打个叉，我就完蛋了。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 复句
+- 条件
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

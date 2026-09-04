@@ -1,0 +1,31 @@
+id: ja-grm-00377
+language: ja
+type: grammar
+level: N3
+level_rank: 3
+title: 〜というわけ：解释缘由、说明原委
+structure: 文（終止形）＋という＋わけ（形式名词）＋だ
+structure_pattern: 終止形 + という + わけ + だ
+explanation_zh: 「わけ」是形式名词，表示道理、缘由或推导出的结论。「〜というわけ（だ）」用于向听话人说明事情的原委，相当于「就是这么回事」「所以才……」。前文先交代原因经过，后句用「わけ」收束；口语中「だ」常省略。
+examples:
+- text: んで、そのお礼として俺は、妹がどこぞの小説大賞で受賞した時の賞金を使わせてもらっているというわけ。
+  reading: ''
+  annot: んで、そのお礼として俺は、妹がどこぞの小説大賞で受賞[じゅしょう]した時の賞金[しょうきん]を使わせてもらっているというわけ。
+  translation_zh: 所以，作为报答，我就用上妹妹在哪个小说大奖获奖时的奖金——就是这么回事。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 形式名词
+- 语气
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

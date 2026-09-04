@@ -1,0 +1,39 @@
+id: ko-grm-00422
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: 「-더니」：回忆连接词尾
+structure: 用言词干 + 连接词尾 -더니（회상 연결어미，表回忆并引出结果或转折）
+structure_pattern: V-더니
+explanation_zh: 回忆性连接词尾，说话人陈述自己亲眼所见的既往事实，并由此引出结果或转折，相当于“（当时）……结果……”。前句主语一般不用第一人称。在小说叙述中极为高频。
+examples:
+- text: 내가 복도를 걸으며 그렇게 말했더니, 키이리가 소리 내어 웃었다.
+  reading: ''
+  annot: 내가 복도를 걸으며 그렇게 말했더니, 키이리가 소리 내어 웃었다.
+  translation_zh: 我走在走廊上那样一说，基里便笑出了声。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+- text: 거리를 오가던 사람들의 이목까지 끌어당기는가 싶더니, 관련 없는 사람들끼리 우르르 모여들어 키이리를 둘러싸고는 박수를 치기 시작했다.
+  reading: ''
+  annot: 거리를 오가던 사람들의 이목까지 끌어당기는가 싶더니, 관련 없는 사람들끼리 우르르 모여들어 키이리를 둘러싸고는 박수를 치기 시작했다.
+  translation_zh: 眼看似乎把街上过往行人的目光都吸引过去了，紧接着毫不相干的人们呼啦啦聚拢过来，围住基伊丽鼓起掌来。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 接续
+- 回忆
+- 叙述
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

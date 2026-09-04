@@ -1,0 +1,33 @@
+id: ko-grm-00297
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: 「-다고 해도：让步假设」
+structure: 用言 + 间接引用连接语尾 -다고 + 让步连接 -해도
+structure_pattern: A/V-다고 해도
+explanation_zh: 由间接引用结构「-다고 하다」加让步连接语尾「-아/어도」构成，表示「即使……也」，常与「아무리」呼应。动词现在时用「-ㄴ/는다고
+  해도」，形容词用「-다고 해도」。此句表示即使装备再多魔法道具也无济于事。
+examples:
+- text: 아무리 마법 아이템을 잔뜩 장비하고 있다고 해도, 나는 너를 충분히 죽일 수 있어.
+  reading: ''
+  annot: 아무리 마법 아이템을 잔뜩 장비하고 있다고 해도, 나는 너를 충분히 죽일 수 있어.
+  translation_zh: 就算你装备了一堆魔法道具，我也完全能杀死你。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 连接语尾
+- 让步
+- 间接引用
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

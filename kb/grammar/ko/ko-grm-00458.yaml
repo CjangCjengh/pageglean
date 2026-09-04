@@ -1,0 +1,31 @@
+id: ko-grm-00458
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: 「-더니：目击回顾，引出转折或原因」
+structure: 动词词干 + -더니（连接词尾）
+structure_pattern: V- + -더니(연결어미)
+explanation_zh: 回顾形连接词尾，说话人把自己亲眼所见、亲身经历的过去情况作为背景，再引出与之相关（因果、转折或递进）的后一状况。主语一般为第二、三人称，不能是说话人自己。本段中用가로「捅我腰」的目击动作引出其后「出言嘲讽」的发展。
+examples:
+- text: 가로가 내 옆구리를 아플 정도로 쿡쿡 치더니, ‘넌 뭐 마왕처럼 생겼냐?’라며 이죽댔다.
+  reading: ''
+  annot: 가로가 내 옆구리를 아플 정도로 쿡쿡 치더니, ‘넌 뭐 마왕처럼 생겼냐?’라며 이죽댔다.
+  translation_zh: 加罗使劲儿捅我的腰，捅得都疼了，然后阴阳怪气地嘲讽道：「你长得像魔王还是怎么的？」
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 连接词尾
+- 回顾/因果
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

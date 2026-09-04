@@ -1,0 +1,32 @@
+id: vi-grm-00407
+language: vi
+type: grammar
+level: L3
+level_rank: 3
+title: 「hoài」：持续不停（南方口语）
+structure: 动词 + hoài
+structure_pattern: V + hoài (phó từ kéo dài)
+explanation_zh: hoài 是南方口语中的持续副词（phó từ），置于动词后表示动作长时间持续或反复不停，常暗含“徒劳”的意味，相当于中文“一直…/老是…”。片段中“sờ
+  hoài chả thấy”即“摸了半天也没找到”。该词具南方方言色彩，与 mãi 意义相近。
+examples:
+- text: nhưng tôi sờ hoài chả thấy
+  reading: ''
+  annot: nhưng tôi sờ hoài chả thấy
+  translation_zh: 但我摸了半天也没摸到。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 体貌
+- 方言
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

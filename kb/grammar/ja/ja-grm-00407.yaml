@@ -1,0 +1,32 @@
+id: ja-grm-00407
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 〜てくれる＋し：列举对方为自己做的事（授受表现＋接续助词し）
+structure: 动词连用形＋てくれる＋接续助词し（列举理由）
+structure_pattern: V-て + くれる + し
+explanation_zh: し是接续助词，用于并列列举理由或事项，此处与授受补助动词てくれる连用。かすみ一条条列举セクシードリーム“为我”做的恩情，作为她挺身辩护的理由。「てくれたし…てくれたし…」的排比列举是情绪化口语的典型表达。
+examples:
+- text: セクシードリームはわたしをたすけてくれたし、ぎゅって抱きしめてくれたし、①番で許してくれたし
+  reading: ''
+  annot: セクシードリームはわたしをたすけてくれたし、ぎゅって抱[だ]きしめてくれたし、①番[ばん]で許[ゆる]してくれたし
+  translation_zh: 性感梦幻救过我，紧紧抱过我，还在①号项目上原谅了我……
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 授受表现
+- 接续
+- 口语
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 4
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

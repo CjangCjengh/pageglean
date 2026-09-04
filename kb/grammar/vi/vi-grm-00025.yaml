@@ -1,0 +1,42 @@
+id: vi-grm-00025
+language: vi
+type: grammar
+level: L2
+level_rank: 2
+title: vừa…vừa…：一边…一边…／既…又…
+structure: vừa + V/Adj + vừa + V/Adj
+structure_pattern: vừa + V/Adj + vừa + V/Adj
+explanation_zh: 「vừa A vừa B」表示两个动作或状态同时进行，相当于汉语的“一边…一边…”或“既…又…”。两个位置可接动词（边走边讨论），也可接形容词（既愧疚又高兴）。片段中多次出现，是描写并行状态的高频结构。
+examples:
+- text: Tôi đi bên cạnh, trống ngực đập thình thịch, trong lòng vừa áy náy vừa sung
+    sướng.
+  reading: ''
+  annot: Tôi đi bên cạnh, trống ngực đập thình thịch, trong lòng vừa áy náy vừa sung
+    sướng.
+  translation_zh: 我走在旁边，心怦怦直跳，心里既愧疚又高兴。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+- text: Ba đứa tôi vừa đi vừa trao đổi với nhau về bài tập làm văn vừa rồi một cách
+    say sưa
+  reading: ''
+  annot: Ba đứa tôi vừa đi vừa trao đổi với nhau về bài tập làm văn vừa rồi một cách
+    say sưa
+  translation_zh: 我们三个一边走一边兴致勃勃地讨论刚才那篇作文作业。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 体貌
+- 并列
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

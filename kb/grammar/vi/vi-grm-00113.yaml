@@ -1,0 +1,42 @@
+id: vi-grm-00113
+language: vi
+type: grammar
+level: L2
+level_rank: 2
+title: 「Nếu…thì…：条件复句」
+structure: Nếu + 条件分句，(thì / tức là) + 结果分句
+structure_pattern: Nếu + vế₁ (điều kiện), (thì/tức là) + vế₂ (kết quả); câu ghép chính
+  phụ
+explanation_zh: nếu引导条件分句，结果分句可用thì或tức là引出，也可省略。片段用“nếu…tức là…”表示“如果A，就意味着B”。还可用còn连接两个并列条件分句，对比两种不同结果。
+examples:
+- text: Nếu nó chịu đi chung với mày tức là nó có yêu mày, còn nếu nó từ chối tức
+    là mày outside!
+  reading: ''
+  annot: Nếu nó chịu đi chung với mày tức là nó có yêu mày, còn nếu nó từ chối tức
+    là mày outside!
+  translation_zh: 如果她肯跟你一起去，那就是说她对你有意思；要是她拒绝，那你就出局了！
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+- text: Nếu đi một mình thì thừa một chỗ cho nên mày rủ nó cùng đi cho vui.
+  reading: ''
+  annot: Nếu đi một mình thì thừa một chỗ cho nên mày rủ nó cùng đi cho vui.
+  translation_zh: 如果一个人去就会多出一个位子，所以你约她一起去，图个热闹。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 条件
+- 复句
+- quan hệ từ
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

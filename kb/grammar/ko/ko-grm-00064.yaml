@@ -1,0 +1,39 @@
+id: ko-grm-00064
+language: ko
+type: grammar
+level: TOPIK2
+level_rank: 2
+title: 「-고 있다：动作进行与状态持续」
+structure: 动词词干 + 连接词尾 -고 + 补助动词 있다
+structure_pattern: V-고 있다
+explanation_zh: 连接词尾「-고」后接补助动词「있다」，表示动作正在进行或结果状态持续，相当于汉语的“在……”“着……”。片段中还叠加了推测·让步词尾，如「운용하고
+  있겠지만」（想必正在运用但……）。中文母语者容易漏掉「있」，需特别注意。
+examples:
+- text: 주위에 있는 영주들은 전부 아즐란보다 많은 병력을 운용하고 있겠지만, 그렇다고 해서 승산이 없는 건 아니다.
+  reading: ''
+  annot: 주위에 있는 영주들은 전부 아즐란보다 많은 병력을 운용하고 있겠지만, 그렇다고 해서 승산이 없는 건 아니다.
+  translation_zh: 周围的领主们想必都运营着比阿兹兰更多的兵力，但也并非没有胜算。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+- text: 그녀들은 아즐란에게 충성을 바치고 있고, 앞으로의 싸움에서 가장 중요한 카드가 될 것이다.
+  reading: ''
+  annot: 그녀들은 아즐란에게 충성을 바치고 있고, 앞으로의 싸움에서 가장 중요한 카드가 될 것이다.
+  translation_zh: 她们正对阿兹兰效忠，并将成为今后战斗中最关键的筹码。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 体貌
+- 补助动词
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 6
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

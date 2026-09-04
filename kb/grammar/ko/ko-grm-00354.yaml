@@ -1,0 +1,40 @@
+id: ko-grm-00354
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: 「-잖아(요)」：指出对方已知的事实
+structure: 用言词干 + 连接词尾 -지 않 + 아/어 的缩略形 잖아(요)
+structure_pattern: V/A-지 않다 → -잖아(요)
+explanation_zh: 잖다 是连接词尾 '-지 않 + 아/어' 的缩略，用于指出对方已经知道或显而易见的事实，常带提醒、反驳、强调的语气，相当于中文「不是…嘛」「明明…」。口语对话中使用频率极高，敬语对话中说
+  -잖아요。片段中说话人借此步步紧逼对方。
+examples:
+- text: 너는 오빠를 조금도 사랑하지 않았잖아?
+  reading: ''
+  annot: 너는 오빠를 조금도 사랑하지 않았잖아?
+  translation_zh: 你明明一点也不爱哥哥，不是吗？
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+- text: 아니, 정말로 의미 없는 일이잖아.
+  reading: ''
+  annot: 아니, 정말로 의미 없는 일이잖아.
+  translation_zh: 不，这真的是毫无意义的事啊。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 语气
+- 口语
+- 接续
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

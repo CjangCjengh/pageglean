@@ -1,0 +1,31 @@
+id: ko-grm-00016
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: -아/어 봤자：即使……也徒劳
+structure: 동사 어간 + -아/어 + 보조동사 '보다' + -았- + -자
+structure_pattern: 동사 어간 + -아/어 + 보다(보조동사) + -았-(선어말어미) + -자(연결어미)
+explanation_zh: 表示即使做了前面的动作也徒劳无益，相当于“就算……也白搭”。含消极、徒劳的语气。
+examples:
+- text: 이대로 계속 방 안에 있어 봤자 기분만 꿀꿀하고, 빨리 밥이나 먹고 와야겠다.
+  reading: ''
+  annot: 이대로 계속 방 안에 있어 봤자 기분만 꿀꿀하고, 빨리 밥이나 먹고 와야겠다.
+  translation_zh: 就这样一直待在房间里也只是心情郁闷，还是赶紧先去吃个饭回来吧。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 让步
+- 徒劳
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

@@ -1,0 +1,33 @@
+id: vi-grm-00125
+language: vi
+type: grammar
+level: L4
+level_rank: 4
+title: Sao được mà：反问式强烈否认
+structure: X + sao được mà + X（câu hỏi tu từ，反问否定）
+structure_pattern: X sao được mà X
+explanation_zh: 「sao được」表示反问可能性（「怎么能行」），再用 mà 重复同一形容词/动词，构成强烈否认的反问句，相当于「哪能……呢／怎么会……」。本段中主人公用此结构反驳海对其「没戏了」的判断。句中的
+  được 表可能，而非被动标记。
+examples:
+- text: Tiêu sao được mà tiêu!
+  reading: ''
+  annot: Tiêu sao được mà tiêu!
+  translation_zh: 怎么会没戏呢，才不会没戏！
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 反问
+- 口语
+- 语气
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

@@ -1,0 +1,31 @@
+id: ja-grm-00497
+language: ja
+type: grammar
+level: N3
+level_rank: 3
+title: 〜ずにすむ：不用……就好了
+structure: V-未然形 + ず（否定の助動詞）+ に + すむ
+structure_pattern: V-未然形 + ずにすむ
+explanation_zh: 「ず」是文语否定助動詞，相当于「ない」；「〜ずにすむ」表示“没做……就了结了、得以免去麻烦”，多用于庆幸或设想。片段中与受身叠加：「言われずにすむ」即“不用被人说”。口语中也说「ないですむ」。
+examples:
+- text: くそ、父さんに似てたらこんなこと言われずにすんだろうにな。
+  reading: ''
+  annot: くそ、父[とう]さんに似[に]てたらこんなこと言[い]われずにすんだろうにな。
+  translation_zh: 可恶，要是长得像老爸，就不用被人这么说了吧。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 否定
+- 固定搭配
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

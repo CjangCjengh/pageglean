@@ -1,0 +1,32 @@
+id: th-grm-00078
+language: th
+type: grammar
+level: L3
+level_rank: 3
+title: 「แม้ว่า…ก็ตาม / ต่อให้…ก็：让步结构」
+structure: แม้ว่า + 从句 + ก็(ตาม)；ต่อให้ + 从句 + ก็ + ยัง…อยู่
+structure_pattern: แม้ว่า…ก็…ก็ตาม / ต่อให้…ก็…ยัง
+explanation_zh: แม้…ก็ 表示“即使……也……”，句尾可加 ตาม 加强让步语气；口语中也常用 ต่อให้…ก็，还常与 ยัง…อยู่ 搭配表示“仍然”。让步句的主句一般有
+  ก็ 或 ยัง 呼应，这是中文母语者容易遗漏的地方。
+examples:
+- text: แม้ว่า​มัน​จะทร​มาณ​ขนาด​ไหน​ก็ตาม
+  reading: ''
+  annot: แม้ว่า​มัน​จะทร​มาณ​ขนาด​ไหน​ก็ตาม
+  translation_zh: 不管会有多痛苦。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 让步
+- 接续
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

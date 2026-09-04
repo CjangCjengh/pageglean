@@ -1,0 +1,31 @@
+id: ja-grm-00110
+language: ja
+type: grammar
+level: N3
+level_rank: 3
+title: 「〜ことで」：通过……（手段・原因）
+structure: 动词终止形 ＋ ことで
+structure_pattern: V-終止形 + 形式名詞「こと」 + 格助詞「で」（手段・原因）
+explanation_zh: 形式名词「こと」使前面的动词短语体言化，再接格助词「で」表示手段或原因，可译为'通过……'。片段反复用该结构说明能力显现的原理，是轻小说解说设定时的高频句式。与「〜ことによって」同义而更简洁。
+examples:
+- text: 一定以上の『魔力』を体内に取り込む事で発現する。
+  reading: ''
+  annot: 一定以上の『魔力』を体内に取り込む事で発現する。
+  translation_zh: 通过将一定量以上的『魔力』摄入体内而显现出来。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 形式名词
+- 手段・原因
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 4
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

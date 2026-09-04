@@ -1,0 +1,31 @@
+id: th-grm-00029
+language: th
+type: grammar
+level: L2
+level_rank: 2
+title: ยังไม่ได้…：还没有……
+structure: ยังไม่ได้ + 动词
+structure_pattern: ยัง + ไม่ได้ + V
+explanation_zh: 「ยังไม่ได้ + 动词」表示“还没有做某事”，强调动作到目前为止尚未实现。ได้ 表示动作的实现，被ยัง（还）否定后即“尚未”。与ไม่เคย（从未）不同，它暗示今后仍会做。
+examples:
+- text: กล่อง​จดหมาย​ที่​ยัง​ไม่ได้​เปิด​อ่าน
+  reading: ''
+  annot: กล่อง​จดหมาย​ที่​ยัง​ไม่ได้​เปิด​อ่าน
+  translation_zh: 还没有打开阅读的收件箱。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 体貌
+- 否定
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 5
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

@@ -1,0 +1,32 @@
+id: ko-grm-00466
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: 「-든 말든：无论……与否」
+structure: 动词词干 + 连接词尾 -든 …… -든 / -든 말든
+structure_pattern: V-든 V-든 / V-든 말든
+explanation_zh: 连接词尾‘-든’列举两种或多种情况，表示无论选择哪一项，后文结果都不受影响，“不管……还是……”。常与‘상관없다、괜찮다、모르다’等搭配。‘-든
+  말든’为肯定与否定对举的固定形式。
+examples:
+- text: 꼭 이 사람들은 악마와 계약을 하든 말든 상관없다는 것 같잖아.
+  reading: ''
+  annot: 꼭 이 사람들은 악마와 계약을 하든 말든 상관없다는 것 같잖아.
+  translation_zh: 这些人好像根本不在乎签不签恶魔契约似的。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 让步
+- 无条件
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

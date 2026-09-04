@@ -1,0 +1,39 @@
+id: ja-grm-00552
+language: ja
+type: grammar
+level: N2
+level_rank: 4
+title: 「〜やがる：轻蔑与不满」
+structure: 动词连用形 + 接续助词「て」 + 补助动词「やがる」（五段活用）
+structure_pattern: V-連用形 + て + やがる
+explanation_zh: 接在动词连用形＋「て」之后作补助动词，表示说话人对动作主体的轻蔑、厌恶或愤怒，是粗鲁的男性口语，不用于自己或长辈。中文近似「这家伙竟然……」「……真可恶」。本段两次出现，凸显风城的烦躁情绪。
+examples:
+- text: すげぇ勢いで走ってきたかと思うと、無言でストレートを放ってきやがった。
+  reading: ''
+  annot: すげぇ勢[いきお]いで走[はし]ってきたかと思[おも]うと、無言[むごん]でストレートを放[はな]ってきやがった。
+  translation_zh: （他）气势汹汹地冲过来，我还以为怎么了，竟一言不发地给我来了一记直拳。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+- text: ったく……おまえはなんなんだ……くだらない話ばかりしやがって。
+  reading: ''
+  annot: ったく……おまえはなんなんだ……くだらない話[はなし]ばかりしやがって。
+  translation_zh: 真是的……你这家伙到底是什么人啊……尽说些无聊的话。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 補助動詞
+- 语气/轻蔑
+- 口语
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

@@ -1,0 +1,30 @@
+id: vi-grm-00085
+language: vi
+type: grammar
+level: L3
+level_rank: 3
+title: thà…còn hơn：取舍比较
+structure: thà + V1 + còn hơn (+ V2)（取舍比较句，hơn 为比较标记）
+structure_pattern: thà + V1 + còn hơn + V2
+explanation_zh: 「thà…còn hơn」表示取舍比较，意为「与其……还不如／宁可……更划算」，hơn 是比较标记，còn 有「反而、还」之意。比较的后项可以承前省略，由语境补足，如片段中省略了「像那样爱」。多用于主观权衡、劝告或发牢骚的场合。
+examples:
+- text: Yêu như vậy thì thà không yêu còn hơn!
+  reading: ''
+  annot: Yêu như vậy thì thà không yêu còn hơn!
+  translation_zh: 这样去爱，还不如不爱算了！
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 比较
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

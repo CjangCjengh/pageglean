@@ -1,0 +1,30 @@
+id: vi-grm-00387
+language: vi
+type: grammar
+level: L1
+level_rank: 1
+title: sẽ：将来时副词
+structure: S + sẽ + V
+structure_pattern: S + sẽ + V
+explanation_zh: sẽ 是时体副词（phó từ），表示动作或情况尚未发生但将要发生，相当于汉语「将、会」。片段中反复用于主人公对未发生之事的揣测与放狠话。
+examples:
+- text: Lúc đó, tôi sẽ cứng họng và đực mặt ra như phỗng.
+  reading: ''
+  annot: Lúc đó, tôi sẽ cứng họng và đực mặt ra như phỗng.
+  translation_zh: 到那时，我会哑口无言、像木头人一样傻站着。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 时态/体貌
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 4
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

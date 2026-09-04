@@ -1,0 +1,38 @@
+id: ko-grm-00563
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: -아/어 놓다：动作完成后状态保持
+structure: 동사 어간 + -아/어 + 놓다
+structure_pattern: V + -아/어 + 놓다 (보조동사)
+explanation_zh: 补助动词 놓다 表示动作完成后其结果状态得以保持，与 -아/어 두다 相近。强调行为留下的状态。本段描写硬币被“放好、寄存”的状态时使用。
+examples:
+- text: 내 손바닥 위에 척 하고 동전을 올려놓았다.
+  reading: ''
+  annot: 내 손바닥 위에 척 하고 동전을 올려놓았다.
+  translation_zh: （奇莉）啪地一下把硬币放在了我的手心上。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+- text: 잃어버릴 것 같으니까 맡겨 놓는 건가……?
+  reading: ''
+  annot: 잃어버릴 것 같으니까 맡겨 놓는 건가……?
+  translation_zh: 是不是因为怕弄丢才先寄存一下……？
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 补助动词
+- 状态保持
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

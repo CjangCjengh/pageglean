@@ -1,0 +1,38 @@
+id: ja-grm-00345
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 〜なきゃ：〜なければ的口语缩约
+structure: 動詞未然形 ＋ なきゃ（＝なければ）
+structure_pattern: V-未然形 + なきゃ
+explanation_zh: 「なければならない」中的「なければ」在口语中音变为「なきゃ」，后项常省略或换用「まずい／だめ」等呼应，表示“必须〜、不〜就糟了”。属口语说法，书面语用「ねばならない」。片段中以「行かなきゃまずい」出现，语气随意。
+examples:
+- text: これ……返しに行かなきゃまずいよなぁ
+  reading: ''
+  annot: これ……返[かえ]しに行[い]かなきゃまずいよなぁ
+  translation_zh: 这个……不赶紧还回去的话就糟了啊
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+- text: その時に決めたわ。あの子の分まで、生きなきゃってね。生きなきゃって
+  reading: ''
+  annot: その時[とき]に決[き]めたわ。あの子[こ]の分[ぶん]まで、生[い]きなきゃってね。生[い]きなきゃって
+  translation_zh: 那时候我就决定了：要连同那孩子的份一起活下去。一定要活下去。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 义务
+- 口语
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

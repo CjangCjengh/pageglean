@@ -1,0 +1,38 @@
+id: ja-grm-00255
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 〜気がする：感觉……、觉得……
+structure: 用言终止形＋気がする
+structure_pattern: 句（終止形） + 気がする
+explanation_zh: 接小句终止形后，表示主观上「感觉好像……」，并非客观事实而是说话人的直觉。否定形「〜気がしない」表示「没有……的感觉、觉得无法……」。片段反复用它描写主角的不安与无力感。
+examples:
+- text: 背後に白い服を着た冥王様が見えた気がして、俺が本気で死を覚悟したとき――
+  reading: ''
+  annot: 背後[はいご]に白[しろ]い服[ふく]を着[き]た冥王様[めいおうさま]が見[み]えた気[き]がして、俺[おれ]が本気[ほんき]で死[し]を覚悟[かくご]したとき――
+  translation_zh: 我仿佛觉得背后出现了身穿白衣的冥王大人，正当我认真做好了死的觉悟时――
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+- text: 命の危機に、能力が自動発動しているが――勝てる気が、生き残れる気がしない。
+  reading: ''
+  annot: 命[いのち]の危機[きき]に、能力[のうりょく]が自動発動[じどうはつどう]しているが――勝[か]てる気[き]が、生[い]き残[のこ]れる気[き]がしない。
+  translation_zh: 面对性命危机，能力虽然自动发动了――却完全没有能赢的感觉、也没有能活下来的感觉。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 语气
+- 惯用表达
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

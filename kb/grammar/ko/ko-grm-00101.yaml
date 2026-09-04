@@ -1,0 +1,39 @@
+id: ko-grm-00101
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: 「아무리 -아/어도：即使……也……」
+structure: 副词 아무리 + 谓词词干 + 让步连接词尾 -아/어도
+structure_pattern: 아무리 + V-아/어도
+explanation_zh: -아/어도 是让步连接词尾，与副词 아무리 呼应，表示「无论多么……也……」。与 이다 结合时取 -(이)라 해도 的形式。片段中「아무리
+  불사의 존재라 해도」「아무리 작가라고 해도」都是先让步极端前提，再引出结论。
+examples:
+- text: 아무리 불사의 존재라 해도 영혼이 마모되는 건 어쩔 수 없지.
+  reading: ''
+  annot: 아무리 불사의 존재라 해도 영혼이 마모되는 건 어쩔 수 없지.
+  translation_zh: 就算是不死的存在，灵魂被磨损也无可奈何。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+- text: 아무리 작가라고 해도 무슨 일이 벌어질지 전부 알고 있는 건 아니니까.
+  reading: ''
+  annot: 아무리 작가라고 해도 무슨 일이 벌어질지 전부 알고 있는 건 아니니까.
+  translation_zh: 就算是作者，也不可能把要发生的事全部知道得一清二楚。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 接续
+- 让步
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

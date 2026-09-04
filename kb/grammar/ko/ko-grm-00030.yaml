@@ -1,0 +1,32 @@
+id: ko-grm-00030
+language: ko
+type: grammar
+level: TOPIK5
+level_rank: 5
+title: -(으)ㄴ 채(로)：保持某种状态
+structure: 动词词干 + -(으)ㄴ 채(로)（冠形词形转成词尾 + 依存名词 채）
+structure_pattern: V-(으)ㄴ + 의존명사 '채(로)'
+explanation_zh: 依存名词 채 表示前一状态原封不动地保持，后一动作在该状态下进行，相当于“保持着……的状态”。多以 채 或 채로 的形式出现，书面语色彩较浓，属于中高级语法。
+examples:
+- text: 나는 다리를 쭉 뻗고 앉은 채 레이나가 침대 위로 올라오는 것을 기다렸다.
+  reading: ''
+  annot: 나는 다리를 쭉 뻗고 앉은 채 레이나가 침대 위로 올라오는 것을 기다렸다.
+  translation_zh: 我伸直腿坐着，保持着这个姿势等待蕾娜爬上床来。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 依存名词
+- 状态维持
+- 接续
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

@@ -1,0 +1,32 @@
+id: ko-grm-00652
+language: ko
+type: grammar
+level: TOPIK6
+level_rank: 6
+title: -(으)ㄹ 터였다：想必是（对过去的推测断定）
+structure: 용언 어간 + 관형사형 전성어미 '-(으)ㄹ' + 의존명사 '터' + 서술격 조사 '이다'의 과거·회상형 '-였-다'
+structure_pattern: V-(으)ㄹ 터였다
+explanation_zh: 冠形词形转成词尾 -(으)ㄹ 加依存名词 터（道理、情形），再接 이다 的过去回想形，表示说话人对过去情况的有根据推测或断定，相当于“想必是……”。属高级书面表达。
+examples:
+- text: 결코 행복할 수 없는 모래 위의 허상에 불과할 터였다.
+  reading: ''
+  annot: 결코 행복할 수 없는 모래 위의 허상에 불과할 터였다.
+  translation_zh: 想必不过是一座绝不可能幸福的、建立在沙子上的幻影罢了。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 依存名词
+- 语气/推测
+- 书面语
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

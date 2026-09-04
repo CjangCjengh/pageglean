@@ -1,0 +1,34 @@
+id: vi-grm-00230
+language: vi
+type: grammar
+level: L2
+level_rank: 2
+title: chưa hề…bao giờ：从未…过
+structure: chưa (hề) + V + bao giờ（表经历的否定结构）
+structure_pattern: phó từ chưa + (hề) + V + bao giờ
+explanation_zh: 时体副词 chưa 否定到目前为止尚未发生的动作，与 bao giờ（曾经）呼应构成「从未……过」；hề 进一步加强否定语气。不同于不表时态的
+  không，chưa 暗示将来可能发生。
+examples:
+- text: tôi cảm thấy lòng mình vô cùng nhẹ nhõm hệt như tôi với Tiểu Li chưa hề giận
+    nhau bao giờ.
+  reading: ''
+  annot: tôi cảm thấy lòng mình vô cùng nhẹ nhõm hệt như tôi với Tiểu Li chưa hề giận
+    nhau bao giờ.
+  translation_zh: 我心里觉得无比轻松，就好像我和小李从来没有吵过架似的。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 体貌
+- 否定
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

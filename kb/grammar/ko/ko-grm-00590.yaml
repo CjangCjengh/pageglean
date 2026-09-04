@@ -1,0 +1,33 @@
+id: ko-grm-00590
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: -ㄴ 척하다：假装
+structure: 체언 / 용언 관형형 + 의존명사 척 + 보조동사 하다
+structure_pattern: N-척(을) 하다 / V·A-(으)ㄴ 척하다
+explanation_zh: 依存名词척指装出来的样子，与하다结合表示"假装……"。体言直接接척(을) 하다，动词、形容词则先以冠形词形-(으)ㄴ修饰척。文中"완벽한
+  척 속이는 거지"生动地刻画出琪莉假装完美来糊弄世人的样子。
+examples:
+- text: 그냥 완벽한 척 속이는 거지.
+  reading: ''
+  annot: 그냥 완벽한 척 속이는 거지.
+  translation_zh: 不过是假装完美来骗人罢了。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 依存名词
+- 假装
+- 补助结构
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

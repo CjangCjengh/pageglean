@@ -1,0 +1,32 @@
+id: th-grm-00009
+language: th
+type: grammar
+level: L1
+level_rank: 1
+title: ครับ：男性礼貌句尾助词
+structure: ประโยค + ครับ (คำอุทานท้ายประโยคแสดงความสุภาพ)
+structure_pattern: S + ครับ
+explanation_zh: ครับ 是男性说话者用于句尾的礼貌助词（女性对应 ค่ะ），使语气恭敬客气。它既可接在完整句子之后，也可接在称呼语之后。在正式场合或对长辈、上级说话时一般不省略。
+examples:
+- text: คุณร​ชา​นนท์​ครับ วันนี้​รบกวน​ส่ง​บทความ 4 หน้า​ก่อน 6 โมง​เย็น​ด้วย​นะ​ครับ
+  reading: ''
+  annot: คุณร​ชา​นนท์​ครับ วันนี้​รบกวน​ส่ง​บทความ 4 หน้า​ก่อน 6 โมง​เย็น​ด้วย​นะ​ครับ
+  translation_zh: 拉差侬先生，今天麻烦您在傍晚六点之前交一篇四页的文章。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 句末助词
+- 礼貌
+- 语气
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

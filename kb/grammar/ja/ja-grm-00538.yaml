@@ -1,0 +1,31 @@
+id: ja-grm-00538
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 样态助动词「〜そうだ」：看起来……
+structure: 動詞連用形・形容詞語幹・形容動詞語幹＋様態の助動詞「そうだ」
+structure_pattern: V連用形/Adj語幹 + そうだ(助動詞)
+explanation_zh: 样态助动词「そうだ」接动词连用形或形容词语干后，表示凭眼前景象作出的直观判断，即“看起来……”。片段中「嬉しそう」「おとなしそう」「不健康そう」都是凭外观推断的印象。注意与接终止形的传闻助动词「そうだ」（“听说”）相区别。
+examples:
+- text: おとなしそうな子だったわ。
+  reading: ''
+  annot: おとなしそうな子[こ]だったわ。
+  translation_zh: 是个看起来文文静静的孩子呢。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 助動詞
+- 样态
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 4
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

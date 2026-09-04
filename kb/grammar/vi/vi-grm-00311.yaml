@@ -1,0 +1,39 @@
+id: vi-grm-00311
+language: vi
+type: grammar
+level: L3
+level_rank: 3
+title: bị：不如意被动句
+structure: bị + 施事 + V（câu bị động）
+structure_pattern: 'câu bị động: bị + chủ thể hành động + động từ'
+explanation_zh: 「bị」构成被动句（câu bị động），主语承受不如意、受损的动作，与表示获益的「được」相对。施事紧跟在「bị」之后，如「bị
+  tôi vật ngã」（被我摔倒）。本段连用「bị nó cỡi lên người」「bị nó giáng…」，突出「我」反遭其害的狼狈。
+examples:
+- text: Vì không kịp đề phòng, Lợi sứt bị tôi vật ngã dễ dàng.
+  reading: ''
+  annot: Vì không kịp đề phòng, Lợi sứt bị tôi vật ngã dễ dàng.
+  translation_zh: 因为来不及防备，Lợi sứt 轻易就被我摔倒在地。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+- text: Đến lượt tôi bị nó cỡi lên người và bị nó giáng những quả tối tăm mày mặt.
+  reading: ''
+  annot: Đến lượt tôi bị nó cỡi lên người và bị nó giáng những quả tối tăm mày mặt.
+  translation_zh: 这下轮到我被它骑在身下，被它一顿拳头打得眼冒金星。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 被动态
+- 句式
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

@@ -1,0 +1,32 @@
+id: ko-grm-00657
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: -(으)ㄹ 수밖에 없다：只能、别无选择
+structure: 用言 + 冠形词形转换词尾 -(으)ㄹ + 依存名词 수 + 辅助词 밖에 + 없다
+structure_pattern: V/A-(으)ㄹ + 수밖에 + 없다
+explanation_zh: 由冠形词形转换词尾-(으)ㄹ、依存名词“수”（方法、可能性）、辅助词“밖에”（限定）和“없다”构成，表示除此之外别无可能，即“只能……、只好……”。文中另有反义形式“-(으)ㄹ
+  수도 있다”（也可能……），如“악마가 아닐 수도 있다”。
+examples:
+- text: 단순한 소거법에 의해, 요나가 악마가 아니라면 브룬이 악마일 수밖에 없다.
+  reading: ''
+  annot: 단순한 소거법에 의해, 요나가 악마가 아니라면 브룬이 악마일 수밖에 없다.
+  translation_zh: 根据简单的排除法，如果约娜不是恶魔，那么布倫只能是恶魔。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 依存名词
+- 推断
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

@@ -1,0 +1,39 @@
+id: vi-grm-00047
+language: vi
+type: grammar
+level: L3
+level_rank: 3
+title: 让步复句：dù (sao)…cũng/vẫn
+structure: dù / dù sao + …, (cũng / vẫn) + …
+structure_pattern: dù (sao) …, (thì) cũng/vẫn …
+explanation_zh: 表让步关系，“dù/dù sao”=即使/不管怎样，后句用“cũng”或“vẫn”呼应，表示“也/仍然”，相当于中文让步复句。片段既有“dù
+  sao…cũng”（不管怎样……也……），也有“Dù cố trấn tĩnh…vẫn run run”（尽管……仍然……）。
+examples:
+- text: nhưng dù sao nó cũng không hạch mình chuyện vẩy mực!
+  reading: ''
+  annot: nhưng dù sao nó cũng không hạch mình chuyện vẩy mực!
+  translation_zh: 不过不管怎样，她也没追究我甩墨水的事！
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+- text: Dù cố trấn tĩnh, khi đưa cuốn sách cho Việt An, tay tôi vẫn run run.
+  reading: ''
+  annot: Dù cố trấn tĩnh, khi đưa cuốn sách cho Việt An, tay tôi vẫn run run.
+  translation_zh: 尽管我拼命让自己镇定，把书递给越安时，手还是微微发抖。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 复句
+- 让步
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

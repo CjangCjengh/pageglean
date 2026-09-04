@@ -1,0 +1,31 @@
+id: ja-grm-00323
+language: ja
+type: grammar
+level: N1
+level_rank: 5
+title: 〜も甚だしい：……也到了极点（常见于斥责）」
+structure: 体言（名词）＋も甚だしい
+structure_pattern: N + も + 甚だしい
+explanation_zh: 「甚だしい」本身是形容词，意为「极其、非常」。「Nも甚だしい」表示「实在太N、N到了极点」，用于带有强烈贬斥语气的指责，只接负面性质的名词。片段中用来痛斥对方推卸责任。
+examples:
+- text: やっかましいわ責任転嫁も甚だしい！
+  reading: ''
+  annot: やっかましいわ責任転嫁[せきにんてんか]も甚[はなは]だしい！
+  translation_zh: 吵死了，你推卸责任也太过分了！
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 程度表現
+- 罵倒
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

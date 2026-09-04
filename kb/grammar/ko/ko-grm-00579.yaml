@@ -1,0 +1,32 @@
+id: ko-grm-00579
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: -아/어 죽겠다：……死了
+structure: 形容词/动词 + -아/어 죽겠다
+structure_pattern: A/V-아/어（연결어미）+ 보조용언 '죽다' + '-겠다'
+explanation_zh: 补助动词结构 '-아/어 죽겠다' 以『要死了』的夸张说法表示某种感觉或状态程度极深，相当于中文的『……死了』。本段用『아파 죽겠다』生动地表现撞疼后的剧烈痛感，是日常口语的高频表达。
+examples:
+- text: 아파 죽겠다. 이번엔 진짜 너무 아프다.
+  reading: ''
+  annot: 아파 죽겠다. 이번엔 진짜 너무 아프다.
+  translation_zh: 疼死了。这次是真的太疼了。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 程度
+- 夸张
+- 补助动词
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

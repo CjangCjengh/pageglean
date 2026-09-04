@@ -1,0 +1,38 @@
+id: th-grm-00026
+language: th
+type: grammar
+level: L2
+level_rank: 2
+title: 连动式（คำกริยาเรียง）：多动词连用表先后与目的
+structure: คำกริยาเรียง（动词连用）：กริยา1 + กลับ/ไป/มา + กริยา2，不用连词，语序即动作顺序
+structure_pattern: คำกริยา 1 + กลับไป/ไป + คำกริยา 2
+explanation_zh: 泰语是分析语，多个คำกริยา（动词）可以直接连用而无需连词，构成คำกริยาเรียง（连动式），语序反映动作的先后或目的关系。如ย้ายกลับไปทำงาน＝搬→回去→工作。方向动词กลับ/ไป/มา常插在两个动作之间起衔接作用。
+examples:
+- text: คุณพ่อ​ของญานัน​ต้อง​ย้าย​กลับ​ไป​ทำงาน​ที่​ประเทศ​รัสเซีย​บ้านเกิด
+  reading: ''
+  annot: คุณพ่อ​ของญานัน​ต้อง​ย้าย​กลับ​ไป​ทำงาน​ที่​ประเทศ​รัสเซีย​บ้านเกิด
+  translation_zh: 雅楠的父亲必须搬回祖国俄罗斯工作。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+- text: เธอ​เองก็​ต้อง​ย้าย​ไป​เรียน​ที่นั่น​ตาม​ครอบครัว​ด้วย
+  reading: ''
+  annot: เธอ​เองก็​ต้อง​ย้าย​ไป​เรียน​ที่นั่น​ตาม​ครอบครัว​ด้วย
+  translation_zh: 她自己也必须随家人转到那里去读书。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 连动式
+- 语序
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

@@ -1,0 +1,31 @@
+id: ja-grm-00588
+language: ja
+type: grammar
+level: N3
+level_rank: 3
+title: 〜しかない：唯一的选择
+structure: 动词连体形 ＋ しかない
+structure_pattern: V-连体形 + しかない
+explanation_zh: 「しかない」接在动词连体形后，表示除此之外别无选择，相当于“只能～、只好～”。语感带有下定决心或无计可施的意味，常用于独白与决断场面。文中「やるしかないな」正是主人公下定决心的自语。
+examples:
+- text: ……やるしかないな
+  reading: ''
+  annot: ……やるしかないな
+  translation_zh: ……只能上了啊。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 情态
+- 限定
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

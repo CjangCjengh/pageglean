@@ -1,0 +1,40 @@
+id: ko-grm-00686
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: 「-(으)ㄴ/는 듯(이)：仿佛、好像」
+structure: 用言 + 冠形词形词尾 -(으)ㄴ/는 + 의존명사 '듯'（+ 조사 -(이)）
+structure_pattern: V/A + -(으)ㄴ/는 듯(이)
+explanation_zh: 依存名词 '듯' 接在用言的冠形词形之后，表示推测或比喻，相当于“好像……似的、仿佛……”。句中多以 '듯이' 形式作状语，描写后面动作的情态。也可与
+  '하다' 结合构成 '듯하다' 作谓语。
+examples:
+- text: 이 빌어먹을 사투와는 아무런 관련이 없다는 듯, 저만치 서서 인형을 끌어안고 있던 브룬이, 나와 눈이 마주치자 짧게 한숨을 내쉬었다.
+  reading: ''
+  annot: 이 빌어먹을 사투와는 아무런 관련이 없다는 듯, 저만치 서서 인형을 끌어안고 있던 브룬이, 나와 눈이 마주치자 짧게 한숨을 내쉬었다.
+  translation_zh: 布仑仿佛与这场该死的死斗毫无关系似的，远远站着抱紧人偶，和我四目相对时轻轻叹了口气。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+- text: 어이가 없다는 듯 하늘을 향해 고갤 치켜들더니 ‘하, 참’ 하고 콧방귀를 뀌었다.
+  reading: ''
+  annot: 어이가 없다는 듯 하늘을 향해 고갤 치켜들더니 ‘하, 참’ 하고 콧방귀를 뀌었다.
+  translation_zh: 它一副荒唐无语的样子仰头向天，哼着鼻子嗤了一声。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 推测
+- 依存名词
+- 比况
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

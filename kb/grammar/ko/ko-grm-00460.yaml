@@ -1,0 +1,31 @@
+id: ko-grm-00460
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: 「-(으)려고 / -(으)려：目的与意图」
+structure: 动词词干 + -(으)려고（缩略形式 -(으)려），连接词尾
+structure_pattern: V- + -(으)려(고)(연결어미)
+explanation_zh: 意图连接词尾-(으)려고的缩略形式，表示前一行为是后一行为的目的，相当于「为了……、打算……」。前后主语须一致，中文常译为「（为了）……而……」。完整形-(으)려고较口语，缩略形-(으)려在小说叙述和书面语中更常见。
+examples:
+- text: 내가 그 생각을 들키지 않으려 괜히 시선을 피하는 동안,
+  reading: ''
+  annot: 내가 그 생각을 들키지 않으려 괜히 시선을 피하는 동안,
+  translation_zh: 为了不让这个心思被人看穿，我故意移开了视线，就在这时……
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 连接词尾
+- 目的/意图
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 4
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

@@ -1,0 +1,31 @@
+id: ja-grm-00114
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 「〜てほしい」：希望对方做（或不做）某事
+structure: 动词连用形 ＋ て ＋ ほしい
+structure_pattern: V-連用形 + て + ほしい（補助形容詞・希望）
+explanation_zh: 补助形容词「ほしい」接动词连用形＋て，表示说话人希望他人做某事，否定为「〜てほしくない」。希望的对象用助词「に」提示，如「和希にまでそんな態度は取ってほしくない」。注意它表达自己的愿望，不能直接用作对对方的请求。
+examples:
+- text: だから――それは止めてほしい。和希にまでそんな態度は取ってほしくない
+  reading: ''
+  annot: だから――それは止[や]めてほしい。和希[かずき]にまでそんな態度[たいど]は取[と]ってほしくない
+  translation_zh: 所以——请你住手。我也不想让你对和希摆出那种态度。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 语气
+- 希望
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

@@ -1,0 +1,39 @@
+id: ko-grm-00446
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: 「-ㄹ 리 없다：不可能……」
+structure: 동사 + 관형사형 어미 -ㄹ + 의존명사 '리' + 없다
+structure_pattern: V-ㄹ 리 없다
+explanation_zh: 依存名词리表示"道理、可能性"，与-ㄹ连用表示某事绝不可能或难以相信，相当于中文"不可能……""哪会……"。也可以只用-ㄹ 리가!单独表示强烈否认。片段中两次出现，分别表达对小女孩抓住小偷的难以置信和对自身命运的自我否认。
+examples:
+- text: 저 어린 여자애가 잡았을 리는 없으니, 곁눈질로 내 시선을 피하고 서 있는 이 메이드가?
+  reading: ''
+  annot: 저 어린 여자애가 잡았을 리는 없으니, 곁눈질로 내 시선을 피하고 서 있는 이 메이드가?
+  translation_zh: 那个小女孩不可能抓得到（小偷），那么是这位瞟着眼避开我视线站着的女仆吗？
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+- text: 그럴 리가!
+  reading: ''
+  annot: 그럴 리가!
+  translation_zh: 怎么可能（有这种事）！
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 依存名词
+- 推测
+- 否定
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

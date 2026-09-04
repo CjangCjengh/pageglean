@@ -1,0 +1,40 @@
+id: ko-grm-00515
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: -ㄹ 뻔하다：差点儿就……
+structure: 动词词干 + -(으)ㄹ + 依存名词 뻔 + 하다
+structure_pattern: V-(으)ㄹ + 뻔하다
+explanation_zh: 依存名词‘뻔’加‘하다’，表示某事差一点儿发生而实际未发生，相当于“差点儿……”，常与副词‘하마터면’呼应。此处与‘-아/어 놓다’+‘-고서는’连用（‘날
+  뻔해 놓고서는’），强调对方留下了差点吵架的“前科”却仍若无其事，带责备口吻。
+examples:
+- text: 아까 낮에 그것 때문에 싸움 날 뻔해 놓고서는?
+  reading: ''
+  annot: 아까 낮에 그것 때문에 싸움 날 뻔해 놓고서는?
+  translation_zh: 白天才刚因为那件事差点吵起来，（你还好意思问）？
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+- text: 이 정도면 우리 둘이 큰 싸움이 날 뻔했다는 걸 키이리가 눈치채지 못했겠지!
+  reading: ''
+  annot: 이 정도면 우리 둘이 큰 싸움이 날 뻔했다는 걸 키이리가 눈치채지 못했겠지!
+  translation_zh: 这样的话，基里应该没有察觉到我们俩差点吵了一大架吧！
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 依存名词
+- 体貌
+- 口语
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

@@ -1,0 +1,31 @@
+id: ja-grm-00256
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 〜てくる：朝向说话人的动作
+structure: 动词连用形＋て＋くる
+structure_pattern: V-て + くる
+explanation_zh: 「くる」接动词连用形＋て后作补助动词，表示动作朝着说话人而来或波及说话人。中文常译为「……过来」。片段中「射抜いてくる」「抱きついてくる」分别增添了逼视而来的压迫感与扑过来的亲近感。
+examples:
+- text: そのまま抱きついてくるリア（幼）。
+  reading: ''
+  annot: そのまま抱[だ]きついてくるリア（幼）。
+  translation_zh: 就这样扑过来抱住我的莉亚（幼年版）。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 复合动词
+- 体貌
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

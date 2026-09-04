@@ -1,0 +1,31 @@
+id: ja-grm-00505
+language: ja
+type: grammar
+level: N3
+level_rank: 3
+title: 〜わけもない：绝无可能
+structure: 文＋わけもない（＝わけがない）
+structure_pattern: V-終止形 + わけもない
+explanation_zh: 「わけがない／わけもない」从情理上强烈否定，意为『不可能……』，语气强于普通的「〜ない」，「も」进一步加强否定。文中主人公自嘲：软弱的自己不可能拿出那种勇气。
+examples:
+- text: 女々しい俺にそんな勇気があるわけもない。
+  reading: ''
+  annot: 女々しい俺にそんな勇気があるわけもない。
+  translation_zh: 像我这样软弱的人，怎么可能有那种勇气。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 形式名词
+- 语气
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

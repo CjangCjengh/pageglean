@@ -1,0 +1,31 @@
+id: ja-grm-00498
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: しか〜ない：只能……
+structure: V-辞書形 + しか + 否定の述語
+structure_pattern: V-終止形 + しか + V-ない
+explanation_zh: 「しか」替代「を／が」等助词，与否定呼应，表示“只有……、除……之外都不……”。「ごまかすしかない」即“只能蒙混过去”，「しかなくなる”表示“变得别无选择”。语气常带有无奈或不情愿。
+examples:
+- text: その後、テストの話題やテレビの話で適当にごまかすしかなくなる。
+  reading: ''
+  annot: その後[ご]、テストの話題[わだい]やテレビの話[はなし]で適当[てきとう]にごまかすしかなくなる。
+  translation_zh: 之后我只能靠考试、电视之类的话题胡乱搪塞过去。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 助词
+- 限定
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

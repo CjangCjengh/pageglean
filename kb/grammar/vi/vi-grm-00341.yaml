@@ -1,0 +1,32 @@
+id: vi-grm-00341
+language: vi
+type: grammar
+level: L4
+level_rank: 4
+title: chưa kịp … thì …：还没来得及……就……
+structure: 否定副词 chưa + 动词 kịp（来得及）+ V，thì 引出突转分句
+structure_pattern: chưa kịp + V + thì + clause
+explanation_zh: kịp 意为“来得及”，“chưa kịp V thì …”表示“还没来得及做某事，另一件事就发生了”，是叙事中表现突发转折的高频句式。thì
+  后的分句常含已然的 đã，强调后一动作猝不及防地成为事实。
+examples:
+- text: Tôi chưa kịp suy nghĩ thì chiếc xe đã trở đầu.
+  reading: ''
+  annot: Tôi chưa kịp suy nghĩ thì chiếc xe đã trở đầu.
+  translation_zh: 我还没来得及思考，车子就已经掉头了。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 复句
+- 时体
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 5
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

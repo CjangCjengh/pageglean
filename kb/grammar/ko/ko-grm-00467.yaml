@@ -1,0 +1,38 @@
+id: ko-grm-00467
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: 「-네·-군·-ㅂ세：하게체 长者口吻」
+structure: 用言词干 + 하게체 终结词尾 -네（陈述/感叹）/ -군（发现）/ -(으)ㅂ세（共动）
+structure_pattern: V-네 / V-군 / V-(으)ㅂ세
+explanation_zh: 하게체 是对平辈或晚辈略带客气的语阶，小说中长者常用。‘-네’表陈述与感叹，‘-군’表新察觉的感慨，“原来……啊”，‘-(으)ㅂ세’表提议；疑问则用‘-는가’。片段中贵族老者宾的台词全用此语阶，塑造长者口吻。
+examples:
+- text: 자네도 악마와 계약한 거로군.
+  reading: ''
+  annot: 자네도 악마와 계약한 거로군.
+  translation_zh: 看来你也和恶魔签了契约啊。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+- text: 결론부터 말하자면, 난 악마와 계약하지 않았네.
+  reading: ''
+  annot: 결론부터 말하자면, 난 악마와 계약하지 않았네.
+  translation_zh: 先说结论吧，我并没有和恶魔签订契约。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 敬语阶位
+- 终结词尾
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 8
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

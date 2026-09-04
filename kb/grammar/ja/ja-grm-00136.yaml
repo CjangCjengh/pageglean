@@ -1,0 +1,31 @@
+id: ja-grm-00136
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 〜みたい：「ようだ」的口语推测（好像……）
+structure: 体言・用言終止形＋助動詞「みたい」（な・だ・で）
+structure_pattern: N/V終止形 + みたい（＝ようだ・口語）
+explanation_zh: 「みたい」是比况助动词「ようだ」的口语形式，表示推测或不确定的比喻，语感随意。连体修饰用「みたいな」，结句用「みたいだ」，中顿用「みたいで」。文中「仲良くなったみたいだから」即“好像处得挺好了”。
+examples:
+- text: まぁ、あの二人が仲良くなったみたいだから、いいんだけどね……？
+  reading: ''
+  annot: まぁ、あの二人が仲良くなったみたいだから、いいんだけどね……？
+  translation_zh: 算了，那两个人好像处得挺好了，那就行了……吧？
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 推量
+- 口語
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 0
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

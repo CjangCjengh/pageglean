@@ -1,0 +1,38 @@
+id: vi-grm-00032
+language: vi
+type: grammar
+level: L3
+level_rank: 3
+title: chưa kịp…đã…：还没来得及…就…
+structure: chưa kịp + V1，… đã + V2
+structure_pattern: chưa kịp + V … đã + V
+explanation_zh: “kịp”意为“来得及”，“chưa kịp V”即“还没来得及做某事”。后句与“đã”呼应，表示“还没来得及……就已经……”，强调后一动作来得极快、令人猝不及防，叙事中极具表现力。
+examples:
+- text: 'Tôi chưa kịp mở miệng, nó đã chỉ tay vô trán tôi, dọa:'
+  reading: ''
+  annot: 'Tôi chưa kịp mở miệng, nó đã chỉ tay vô trán tôi, dọa:'
+  translation_zh: 我还来不及开口，她就用手指戳着我的额头吓唬道：
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+- text: tôi chưa kịp mở miệng đã bị Lợi sứt giáng một quả trúng quai hàm
+  reading: ''
+  annot: tôi chưa kịp mở miệng đã bị Lợi sứt giáng một quả trúng quai hàm
+  translation_zh: 我还没来得及开口，就被阿利一拳打中了下巴。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 体貌
+- 复句
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

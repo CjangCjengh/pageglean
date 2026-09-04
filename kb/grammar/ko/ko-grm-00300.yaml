@@ -1,0 +1,39 @@
+id: ko-grm-00300
+language: ko
+type: grammar
+level: TOPIK2
+level_rank: 2
+title: -ㄹ 수 있다/없다：能与不能
+structure: 动词词干 + -(으)ㄹ 수 있다/없다
+structure_pattern: V-(으)ㄹ 수 있다 / -(으)ㄹ 수 없다
+explanation_zh: 由依存名词수（可能性）构成的基本可能表达，相当于「能……」「不能……」。动词词干后接-(으)ㄹ 수 있다/없다，形容词一般不适用。本片段反复出现「~할
+  수 없다」，渲染无力回天的语境，是该结构最典型的用法。
+examples:
+- text: 대체 무슨 일이 벌어진 건지 이해할 수 없었다.
+  reading: ''
+  annot: 대체 무슨 일이 벌어진 건지 이해할 수 없었다.
+  translation_zh: 根本无法理解究竟发生了什么事。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+- text: 그 녀석의 맞수가 될 수 있는 건 오직 아즐란뿐이야.
+  reading: ''
+  annot: 그 녀석의 맞수가 될 수 있는 건 오직 아즐란뿐이야.
+  translation_zh: 能与之匹敌的，只有阿兹兰一个人。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 可能性
+- 依存名词
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 6
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

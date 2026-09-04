@@ -1,0 +1,40 @@
+id: ko-grm-00006
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: 「-는데」：背景铺垫与委婉转折
+structure: 용언 어간 + -는데 (연결어미)
+structure_pattern: V-는데 / A-(으)ㄴ데 / -았/었는데
+explanation_zh: 连接词尾，可表背景铺垫或转折对比，相当于中文「……（不过/但是）……」。片段中「아쉽긴 했는데 통쾌했으니」表达让步后的转折，「아니었는데
+  말이죠」引出与现状对比的背景。语气较委婉含蓄。
+examples:
+- text: 악마공작이 죽은 것도 아쉽긴 했는데 통쾌했으니 됐음.
+  reading: ''
+  annot: 악마공작이 죽은 것도 아쉽긴 했는데 통쾌했으니 됐음.
+  translation_zh: 恶魔公爵死了虽然有点可惜，但很痛快，所以也无所谓了。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+- text: 예전에는 이런 작풍이 아니었는데 말이죠.
+  reading: ''
+  annot: 예전에는 이런 작풍이 아니었는데 말이죠.
+  translation_zh: 以前的作品风格可不是这样的啊。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 连接词尾
+- 转折
+- 背景
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

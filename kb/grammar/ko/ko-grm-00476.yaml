@@ -1,0 +1,39 @@
+id: ko-grm-00476
+language: ko
+type: grammar
+level: TOPIK6
+level_rank: 6
+title: 「-네·-게·-세·-(으)ㄴ가」：하게体（敬语阶位）
+structure: 종결 어미(终结词尾)‘-네 / -게 / -세 / -(으)ㄴ가 / -ㄹ걸세’ 等（하게체，介于하오체与해체之间的阶位）
+structure_pattern: V/A + -네 / -게 / -세 / -(으)ㄴ가 (하게체 종결 어미)
+explanation_zh: 하게체是年长者或地位较高者对略低于自己的对象使用的阶位：保持一定体面，却不用正式敬语（합쇼체/해요체）。典型词尾有‘-네’‘-게’‘-세’‘-(으)ㄴ가’‘-ㄹ걸세’。本段中빈的所有台词（“고맙네”“몰랐을
+  걸세”“생각하나?”）均属此阶位，塑造了年长绅士的口吻。
+examples:
+- text: 고맙네, 마리온.
+  reading: ''
+  annot: 고맙네, 마리온.
+  translation_zh: 谢谢你，玛丽昂。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+- text: 스스로 악마라고 말하지 않았다면 악마인 줄도 몰랐을 걸세.
+  reading: ''
+  annot: 스스로 악마라고 말하지 않았다면 악마인 줄도 몰랐을 걸세.
+  translation_zh: 如果他自己不说是恶魔，我恐怕连他是恶魔都不会知道呢。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 敬语
+- 阶位
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 8
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

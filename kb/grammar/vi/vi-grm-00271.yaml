@@ -1,0 +1,39 @@
+id: vi-grm-00271
+language: vi
+type: grammar
+level: L2
+level_rank: 2
+title: nếu…thì：假设条件句
+structure: nếu + 条件小句，（thì）+ 结果小句
+structure_pattern: nếu + S + thì + S
+explanation_zh: nếu 引导假设条件，thì 引出结果，相当于汉语「如果……就……」。结果句常与将来助词 sẽ 搭配，表示在该条件下将会发生什么。thì
+  可以省略，条件小句也可直接以 nếu 开头。
+examples:
+- text: Nếu yêu mày, nó sẽ không đem thư mày ra bêu riếu trước thiên hạ.
+  reading: ''
+  annot: Nếu yêu mày, nó sẽ không đem thư mày ra bêu riếu trước thiên hạ.
+  translation_zh: 如果她喜欢你，就不会把你的信拿出来当众取笑。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+- text: Nếu không yêu thì có thể nó sẽ... không nhận thư.
+  reading: ''
+  annot: Nếu không yêu thì có thể nó sẽ... không nhận thư.
+  translation_zh: 如果不喜欢，那她可能……就不会收信。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 复句
+- 语气
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 4
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

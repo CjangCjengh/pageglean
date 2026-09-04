@@ -1,0 +1,39 @@
+id: ko-grm-00545
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: 「……似的」：-(으)ㄴ/는 듯（依存名词 듯）
+structure: 관형사형 전성어미 '-는 / -(으)ㄴ' + 의존명사 '듯'（表示“像……一样”）
+structure_pattern: V-는 듯 / V·A-(으)ㄴ 듯
+explanation_zh: 依存名词 듯 接在用言的冠形词形后，表示后一情态与前一情况相似，相当于中文“……似的、仿佛……”。动词用 -는 듯，形容词及过去时用
+  -(으)ㄴ 듯。文中“기다렸다는 듯”“예상했다는 듯”是高频搭配，意为“像是在等着似的”“像是早已料到似的”。
+examples:
+- text: 키이리가 기다렸다는 듯 손에 쥐고 있던 동전을 척 하고 보여 주었다.
+  reading: ''
+  annot: 키이리가 기다렸다는 듯 손에 쥐고 있던 동전을 척 하고 보여 주었다.
+  translation_zh: 基伊丽像是早就等着了似的，把手里攥着的硬币唰地亮了出来。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+- text: 요나와 브룬은 그런 반응을 이미 예상했다는 듯 차분했지만.
+  reading: ''
+  annot: 요나와 브룬은 그런 반응을 이미 예상했다는 듯 차분했지만.
+  translation_zh: 不过约娜和布鲁恩一副早已料到会有这般反应似的，十分平静。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 样态
+- 依存名词
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

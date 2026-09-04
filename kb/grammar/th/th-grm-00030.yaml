@@ -1,0 +1,31 @@
+id: th-grm-00030
+language: th
+type: grammar
+level: L3
+level_rank: 3
+title: นึกว่า…ซะอีก：原以为……呢
+structure: นึกว่า + 从句（+ ซะอีก）
+structure_pattern: นึกว่า + Clause (+ ซะอีก)
+explanation_zh: 「นึกว่า + 从句」表示“原以为……”，ว่า 引出宾语从句（ประโยคนามกรรม），且暗示实际情况与所想不同。句末ซะอีก是เสียอีก的口语形式，加强“本以为会如此”的语气。整体相当于中文的“我还以为……呢”。
+examples:
+- text: นึก​ว่า​จะ​ไม่ทัน​แล้ว​ซะ​อีก​นะ​เนี่ย
+  reading: ''
+  annot: นึก​ว่า​จะ​ไม่ทัน​แล้ว​ซะ​อีก​นะ​เนี่ย
+  translation_zh: 我还以为（你）要赶不上了呢。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 语气
+- 口语表达
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

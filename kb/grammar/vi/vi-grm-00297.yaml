@@ -1,0 +1,39 @@
+id: vi-grm-00297
+language: vi
+type: grammar
+level: L3
+level_rank: 3
+title: 「càng ngày càng」与「mỗi … mỗi …」：越来越
+structure: càng ngày càng + V/adj；mỗi + ngày + mỗi + adj
+structure_pattern: càng ngày càng + X | mỗi + ngày + mỗi + adj
+explanation_zh: 两者都表示程度随时间递增，相当于中文「越来越……」。「càng ngày càng」后接动词或形容词；「mỗi ngày mỗi +
+  形容词」用两个 mỗi 前后呼应，强调逐日变化。
+examples:
+- text: Điều đó càng ngày càng trở thành một ước muốn tha thiết của nó
+  reading: ''
+  annot: Điều đó càng ngày càng trở thành một ước muốn tha thiết của nó
+  translation_zh: 那越来越成为她热切的愿望
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+- text: mỗi ngày mỗi bợt hẳn đi
+  reading: ''
+  annot: mỗi ngày mỗi bợt hẳn đi
+  translation_zh: 一天比一天明显地褪淡
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- degree
+- progressive
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

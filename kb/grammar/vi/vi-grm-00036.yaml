@@ -1,0 +1,38 @@
+id: vi-grm-00036
+language: vi
+type: grammar
+level: L3
+level_rank: 3
+title: mới…đã…：刚……就已经……（比预期来得早）
+structure: （chỉ） mới + V1 … đã + V2
+structure_pattern: (chỉ) mới + V1 … đã + V2
+explanation_zh: mới 表示动作刚发生或数量很少，đã 表示后续情况已然出现，前后呼应构成“刚／只……就已经……”，强调事情比预期来得早，常含惊讶语气。片段中两处均为此结构。
+examples:
+- text: Chỉ mới thoáng nghĩ tới chuyện xui xẻo đó, tôi đã thấy lạnh cả người
+  reading: ''
+  annot: Chỉ mới thoáng nghĩ tới chuyện xui xẻo đó, tôi đã thấy lạnh cả người
+  translation_zh: 只是刚一想那件倒霉的事，我就已经浑身发冷。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+- text: Tôi mới cười có ba kiểu mà Hải gầy đã trố mắt
+  reading: ''
+  annot: Tôi mới cười có ba kiểu mà Hải gầy đã trố mắt
+  translation_zh: 我才笑了三招，瘦海就已经瞪大了眼睛。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 副词搭配
+- 体貌
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

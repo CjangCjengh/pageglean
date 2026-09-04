@@ -1,0 +1,31 @@
+id: ko-grm-00504
+language: ko
+type: grammar
+level: TOPIK5
+level_rank: 5
+title: -기 무섭게：刚一……就……
+structure: 动词词干 + 依存名词 -기 + 무섭다 + 副词形连接词尾 -게（惯用化）
+structure_pattern: V-기 무섭게
+explanation_zh: 表示前一动作刚完成，后一动作紧接着发生，相当于"刚一……就……"。由名词化依存名词 -기 加 무섭다 固化而成的惯用表达，书面色彩较强。后句通常叙述已然发生的事实。
+examples:
+- text: 말이 끝나기 무섭게 요나가 빈의 앞에 무릎을 꿇고 앉았다.
+  reading: ''
+  annot: 말이 끝나기 무섭게 요나가 빈의 앞에 무릎을 꿇고 앉았다.
+  translation_zh: 话音刚落，约娜就在宾面前跪坐了下来。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 接续
+- 时间
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

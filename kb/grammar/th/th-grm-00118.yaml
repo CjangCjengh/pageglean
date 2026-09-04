@@ -1,0 +1,31 @@
+id: th-grm-00118
+language: th
+type: grammar
+level: L2
+level_rank: 2
+title: เกินไป：程度过度
+structure: คำวิเศษณ์/กริยา + เกินไป (คำวิเศษณ์บอกดีกรี)
+structure_pattern: Adj/V + เกินไป
+explanation_zh: 「เกินไป」置于形容词或动词之后，表示程度过分，相当于“太……、过于……”。学校语法中属程度副词（คำวิเศษณ์），修饰语位于中心词之后，体现泰语修饰后置的语序。片段中出现两处：身高相差太大、寂寞得过分。
+examples:
+- text: ดูท่าทาง​เรา​จะ​เหงา​เกินไป​แล้ว​ล่ะ​มั้ง
+  reading: ''
+  annot: ดูท่าทาง​เรา​จะ​เหงา​เกินไป​แล้ว​ล่ะ​มั้ง
+  translation_zh: 看来我大概是太寂寞了吧。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 程度
+- 副词
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

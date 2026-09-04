@@ -1,0 +1,31 @@
+id: ja-grm-00605
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 「〜のは〜だ」：形式名词「の」构成主题句
+structure: 用言連体形（或句子）＋ 形式名词「の」＋ 係助词「は」＋ 述语（だ／だった）
+structure_pattern: V連体形/イ形/体言 + の + は + 述語
+explanation_zh: 形式名词「の」将前面的用言短语名词化，相当于中文“……的（人/事）”，后接係助词「は」提示主题。「〜のは〜だった」常用于揭晓或强调“……的原来是……”。片段中反复用于引出人物与场景焦点。
+examples:
+- text: そこに待ち構えていたのは、こいつらだった。
+  reading: ''
+  annot: そこに待[ま]ち構[かま]えていたのは、こいつらだった。
+  translation_zh: 在那里埋伏等候的，就是这几个家伙。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 形式名词
+- 主题化
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 4
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

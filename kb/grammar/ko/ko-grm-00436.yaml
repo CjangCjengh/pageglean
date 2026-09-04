@@ -1,0 +1,39 @@
+id: ko-grm-00436
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: 「-(으)ㄹ 뻔하다：险些发生」
+structure: 用言 + 관형사형 전성어미 ‘-(으)ㄹ’ + 의존명사 ‘뻔’ + 하다
+structure_pattern: V/A-(으)ㄹ + 뻔하다
+explanation_zh: 의존명사（依存名词）‘뻔’与冠形词形词尾结合，表示“差点就……”而实际并未发生，常与副词‘하마터면’呼应使用。相当于中文“差点儿……”。片段两处描写“我”被키이리猛撞后险些失去意识。
+examples:
+- text: 하마터면 잠에서 깨어나자마자 다시 의식 너머의 세계로 사라질 뻔했다.
+  reading: ''
+  annot: 하마터면 잠에서 깨어나자마자 다시 의식 너머의 세계로 사라질 뻔했다.
+  translation_zh: 差点刚从睡梦中醒来就再次消失在意识之外的世界里。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+- text: 자신이 좋아하는 남자를 의식 불명으로 만들 뻔했다는 걸 알긴 하는지, 키이리가 한껏 뚱한 표정으로 날 올려다보며 투덜거렸다.
+  reading: ''
+  annot: 자신이 좋아하는 남자를 의식 불명으로 만들 뻔했다는 걸 알긴 하는지, 키이리가 한껏 뚱한 표정으로 날 올려다보며 투덜거렸다.
+  translation_zh: 她知不知道自己差点把喜欢的男人撞成昏迷啊，키이리满脸不高兴地表情人仰望着我嘟囔道。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 依存名词
+- 样态/可能
+- 副词搭配
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

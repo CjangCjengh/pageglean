@@ -1,0 +1,32 @@
+id: ja-grm-00513
+language: ja
+type: grammar
+level: N5
+level_rank: 1
+title: 〜のです：解释说明语气（雪瑚的口癖）
+structure: 动词终止形 + 助动词「のです」（名词・な形容词词干 + な + なのです）
+structure_pattern: V-终止形 + の + です
+explanation_zh: 解释性助动词「〜のです」接动词终止形或名词・な形容词＋な，表示解释原因或强调主张。片段中雪瑚反复在祈使与断言句尾使用「〜のです」（如「言うのです」「寝ないのです」），形成稚气又倔强的角色口吻，属口语用法，与口语的「〜んです」相同。
+examples:
+- text: 必ずにいさんより先に起きておはようを言うのです！ むしろもう寝ないのです！
+  reading: ''
+  annot: 必[かなら]ずにいさんより先[さき]に起[お]きておはようを言[い]うのです！ むしろもう寝[ね]ないのです！
+  translation_zh: 我一定要比哥哥先起来说早安！不如说干脆不睡了！
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 语气
+- 口语
+- 句末助动词
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 16
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

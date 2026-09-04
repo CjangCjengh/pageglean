@@ -1,0 +1,40 @@
+id: th-grm-00081
+language: th
+type: grammar
+level: L1
+level_rank: 1
+title: ไหม 是非问句与句末助词 ค่ะ/คะ、เหรอ
+structure: 陈述句 + ไหม + (ค่ะ/คะ/เหรอ)
+structure_pattern: คำกริยา + ไหม + (คำลงท้าย ค่ะ/คะ/เหรอ)
+explanation_zh: ไหม 置于谓语之后、句末，构成是非问句，相当于汉语的“～吗”。ค่ะ/คะ 是女性使用的礼貌句末助词（คะ 用于问句，ค่ะ 用于陈述或回答）。เหรอ
+  置于句末表示惊讶或确认语气，相当于“吗？/是吗？”。
+examples:
+- text: คุณ​ชา​ชอบ​ทานอาหาร​ยุโรป​ไหมคะ?
+  reading: ''
+  annot: คุณ​ชา​ชอบ​ทานอาหาร​ยุโรป​ไหมคะ?
+  translation_zh: 茶先生/小姐，您喜欢吃欧洲菜吗？
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+- text: ก็​พอ​ทาน​ได้​อยู่​นะ ทำไม​เหรอ?
+  reading: ''
+  annot: ก็​พอ​ทาน​ได้​อยู่​นะ ทำไม​เหรอ?
+  translation_zh: 倒是还吃得下，怎么了？
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 疑问结构
+- 句末助词
+- 礼貌语
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 4
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

@@ -1,0 +1,31 @@
+id: ja-grm-00452
+language: ja
+type: grammar
+level: N2
+level_rank: 4
+title: 「〜とは限らない：未必如此」
+structure: 用言终止形／体言＋だ＋とは限らない
+structure_pattern: V終止形・体言+だ + 格助詞「と」 + 係助詞「は」 + 「限る」連用形 + 助動詞「ない」
+explanation_zh: 「とは限らない」表示“未必、不一定”，是对一般性认识的部分否定。结构上是引用格助词「と」＋提示助词「は」＋动词「限る」的否定形。片段中老师借此表达“对喜欢的人言听计从未必是对的”。
+examples:
+- text: 好きな子の言う通りにすることが正しいこととは限らないよ。
+  reading: ''
+  annot: 好[す]きな子[こ]の言[い]う通[とお]りにすることが正[ただ]しいこととは限[かぎ]らないよ。
+  translation_zh: 对喜欢的女孩子言听计从，未必就是正确的哦。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 句型
+- 否定
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

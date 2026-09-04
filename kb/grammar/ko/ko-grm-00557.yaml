@@ -1,0 +1,31 @@
+id: ko-grm-00557
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: 「-더니(만)：回想过去形成对比」
+structure: 용언 어간 + 연결어미 '-더니'/'-더니만' (회상·대조)
+structure_pattern: V/A-더니(만) (종속 연결어미)
+explanation_zh: 连接词尾 '-더니' 表示说话人回想自己先前观察到的情况，与后句构成对比或转折，'-만' 加强语气。一般用于说话人亲身感知的他人或事物的变化，带有意外、感慨的语气。
+examples:
+- text: 한시도 옆에서 떨어지지 않는 것 같더니만.
+  reading: ''
+  annot: 한시도 옆에서 떨어지지 않는 것 같더니만.
+  translation_zh: （刚才）还挺像是一刻也不肯离开身边的呢。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 连接词尾
+- 回想/对比
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

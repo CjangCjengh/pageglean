@@ -1,0 +1,32 @@
+id: vi-grm-00197
+language: vi
+type: grammar
+level: L1
+level_rank: 1
+title: chưa 疑问句：问「……了吗」
+structure: 主 + 动/形 + chưa?
+structure_pattern: S + V/Adj + chưa?
+explanation_zh: 句末加 chưa 构成疑问句，询问动作或状态是否已经实现，相当于中文“……了吗”。否定回答用 chưa（还没有）。句中 "Anh đợi
+  lâu chưa?" 是非常典型的日常问候用法。
+examples:
+- text: Anh đợi lâu chưa?
+  reading: ''
+  annot: Anh đợi lâu chưa?
+  translation_zh: 你等了很久了吗？
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 疑问
+- 体貌
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

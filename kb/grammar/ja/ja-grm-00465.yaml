@@ -1,0 +1,39 @@
+id: ja-grm-00465
+language: ja
+type: grammar
+level: N3
+level_rank: 3
+title: 「〜らしい」：基于迹象的推断·像…样子（推量助动词）
+structure: 用言终止形 + 推量助动词「らしい」；体言 + らしい（表典型性）
+structure_pattern: 用言-終止形 + らしい ; 体言 + らしい
+explanation_zh: 助动词「らしい」接用言终止形，表示根据客观迹象作出推断，相当于「看来像是…」。片段两次用于推断（时间似乎是固定的、她似乎努力过了）。另有接体言表示「有…的典型样子」的用法，如「学生らしく」作副词性修饰，意为「像学生该有的那样」。
+examples:
+- text: だが、どうやら俺たちが入れ替わる時間は固定されているらしいのだ。
+  reading: ''
+  annot: だが、どうやら俺[おれ]たちが入れ替わる時間[じかん]は固定[こてい]されているらしいのだ。
+  translation_zh: 不过，看来我们互换的时间似乎是固定的。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+- text: 机の上は教科書や参考書で学生らしくデザインされており
+  reading: ''
+  annot: 机[つくえ]の上[うえ]は教科書[きょうかしょ]や参考書[さんこうしょ]で学生[がくせい]らしくデザインされており
+  translation_zh: 桌面上摆着课本和参考书，一副学生该有的样子
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 样态
+- 推测
+- 助动词
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

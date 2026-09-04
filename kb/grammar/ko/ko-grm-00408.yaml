@@ -1,0 +1,38 @@
+id: ko-grm-00408
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: 「-잖다」：强调显而易见的理由
+structure: 谓词词干 + -잖다
+structure_pattern: 용언 어간 + 종결어미 -잖다('-지 않다'의 준말, 배경 설명)
+explanation_zh: -잖다 是 -지 않다 的缩略，用于陈述对方已知或显而易见的事实作为理由，带提醒、辩解语气。与 -니까 不同，它预设听话人也知晓该事实。片段中多次出现，是口语高频表达。
+examples:
+- text: 아무리 그래도 손님에게 청소를 시킬 수는 없잖아.
+  reading: ''
+  annot: 아무리 그래도 손님에게 청소를 시킬 수는 없잖아.
+  translation_zh: 再怎么着，也不能让客人来打扫啊。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+- text: 비즈니스라잖아, 비즈니스.
+  reading: ''
+  annot: 비즈니스라잖아, 비즈니스.
+  translation_zh: 都说是生意啊，生意。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 语气
+- 终结词尾
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 0
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

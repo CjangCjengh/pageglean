@@ -1,0 +1,39 @@
+id: ja-grm-00517
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 〜のだ／〜んだ：说明与强调语气
+structure: 普通形 + のだ（口語：んだ；丁寧体：のです）
+structure_pattern: 普通形 + の + だ（口語：ん + だ）
+explanation_zh: 由形式名词「の」＋断定助动词「だ」构成，口语中「の」音变为「ん」。不同于平铺直叙，「のだ」带有解释、强调或表明决心的语气。雪瑚连用两个「〜のです」宣示决心；叙述中「我慢していただけなんだ」则与「だけ」配合，强调"不过是一直忍耐而已"。
+examples:
+- text: 必ずにいさんより先に起きておはようを言うのです！
+  reading: ''
+  annot: 必[かなら]ずにいさんより先[さき]に起[お]きておはようを言[い]うのです！
+  translation_zh: 我一定要比哥哥先起床说早安！
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+- text: あいつは強くなんかなかった。ずっとずっと、我慢していただけなんだ。
+  reading: ''
+  annot: あいつは強[つよ]くなんかなかった。ずっとずっと、我慢[がまん]していただけなんだ。
+  translation_zh: 她一点都不坚强。一直一直，只是在忍耐罢了。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 形式名詞
+- 語気
+- 口語
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 6
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

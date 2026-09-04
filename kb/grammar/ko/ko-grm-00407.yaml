@@ -1,0 +1,32 @@
+id: ko-grm-00407
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: 「-아/어 버리다」：彻底完成
+structure: 动词词干 + -아/어 버리다
+structure_pattern: 용언 어간 + 연결어미 -아/어 + 보조 동사 '버리다'
+explanation_zh: 补助动词结构，表示动作彻底完成、不留残余，常附带遗憾、痛快等情绪色彩。片段用“사라져 버린”强调黑烟般的鸟群消失得无影无踪。口语中常缩作“-아/어
+  버리다→-아버리다”。
+examples:
+- text: 이내 검은 연기로 사라져 버린 새들은 진짜 새가 아니었다는 소리다.
+  reading: ''
+  annot: 이내 검은 연기로 사라져 버린 새들은 진짜 새가 아니었다는 소리다.
+  translation_zh: 刚才那些化作黑烟消失殆尽的鸟，并不是真正的鸟。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 体貌
+- 补助动词
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 0
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

@@ -1,0 +1,32 @@
+id: ko-grm-00091
+language: ko
+type: grammar
+level: TOPIK6
+level_rank: 6
+title: -기에 망정이지：幸亏~，否则……
+structure: 谓词词干 + 原因连接词尾 -기에 + 依存名词 '망정' + 서술격 조사 '이다' 的连接形
+structure_pattern: 용언 어간 + -기에 망정이지
+explanation_zh: 表示'幸好是~，不然就糟了'，前句的幸运条件避免了糟糕后果，后句常给出相反假设下的恶劣结果。带有庆幸兼后怕的语气，多用于口语。片段中主角暗自庆幸事先知道迷宫捷径。
+examples:
+- text: 지름길을 알고 있었기에 망정이지, 이리저리 헤매면서 나아갔다간 틸프의 실력으로도 버틸 수 없었을 거다.
+  reading: ''
+  annot: 지름길을 알고 있었기에 망정이지, 이리저리 헤매면서 나아갔다간 틸프의 실력으로도 버틸 수 없었을 거다.
+  translation_zh: 幸亏知道捷径，要是东奔西走地摸索前进，恐怕以蒂尔普的实力也撑不住。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 庆幸
+- 原因
+- 口语
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

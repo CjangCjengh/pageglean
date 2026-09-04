@@ -1,0 +1,39 @@
+id: ko-grm-00625
+language: ko
+type: grammar
+level: TOPIK1
+level_rank: 1
+title: -(으)ㄹ 수 있다/없다：能与不能
+structure: 用言词干 + 冠形词形词尾 -(으)ㄹ + 依存名词 수 + 있다/없다
+structure_pattern: V/A-(으)ㄹ 수 있다/없다
+explanation_zh: 用言词干后接冠形词形词尾「-(으)ㄹ」，再与依存名词「수」及「있다/없다」搭配，表示能力或可能性，是韩语最基本的能性表达，相当于「能/会……」「不能……」。依存名词「수」必须带冠形修饰，其后的主格助词「가」可省略。片段中「이럴
+  수가 있나」以反问形式表达难以置信。
+examples:
+- text: 결국에는 후회할 일만 만들고 있는 것 같아서 한 발자국도 움직일 수가 없다.
+  reading: ''
+  annot: 결국에는 후회할 일만 만들고 있는 것 같아서 한 발자국도 움직일 수가 없다.
+  translation_zh: 总觉得到头来只会做出令自己后悔的事，我一步也挪不动。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+- text: 계약자가 죽다니, 이럴 수가 있나?
+  reading: ''
+  annot: 계약자가 죽다니, 이럴 수가 있나?
+  translation_zh: 契约者竟然死了，怎么会有这种事？
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 可能
+- 依存名词
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

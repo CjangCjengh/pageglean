@@ -1,0 +1,31 @@
+id: ja-grm-00232
+language: ja
+type: grammar
+level: N2
+level_rank: 4
+title: すら（も）：连……都……
+structure: 名詞＋すら（も）
+structure_pattern: N + すら / すらも
+explanation_zh: 助词「すら」举出极端事例以强调“连……都……”，语气比「も」更强、更书面，可叠加为「すらも」。片段两句分别强调“连视线都不给”与“连莉亚都看呆了”的反差。
+examples:
+- text: こちらに視線すら向けずに歩き続けるリア。
+  reading: ''
+  annot: こちらに視線[しせん]すら向[む]けずに歩[ある]き続[つづ]けるリア。
+  translation_zh: 莉亚连视线都不朝这边扫一下，自顾自地继续走。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 助詞
+- 強調
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

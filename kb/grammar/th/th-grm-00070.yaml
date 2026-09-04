@@ -1,0 +1,32 @@
+id: th-grm-00070
+language: th
+type: grammar
+level: L3
+level_rank: 3
+title: V + ไม่ออก：～不出来（可能补语的否定）
+structure: คำกริยา + ไม่ + คำกริยา ออก (ส่วนเติมเต็มผลลัพทธ์)
+structure_pattern: V + ไม่ + ออก
+explanation_zh: ออก 作结果补语附着于动词之后，其否定式「V+ไม่ออก」表示动作无法完成或得不出结果，相当于中文「～不出来、没法～」。常见搭配如
+  พูดไม่ออก（说不出话）、คิดไม่ออก（想不出来）。片段中 เถียงไม่ออก 即「无从反驳、辩不赢」。
+examples:
+- text: เถียงไม่ออก​เลย​แฮะ... ก็เพราะว่า​ต้นแบบ​ของ​ตัวละคร​ใน​เรื่อง​นั้น​มัน​ก็​มา​จาก​ผม​กับ​เธอ
+  reading: ''
+  annot: เถียงไม่ออก​เลย​แฮะ... ก็เพราะว่า​ต้นแบบ​ของ​ต
+  translation_zh: 完全无从反驳啊……因为那部作品里角色的原型就是我和她。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 补语
+- 可能性
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

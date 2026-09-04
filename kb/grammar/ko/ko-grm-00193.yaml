@@ -1,0 +1,32 @@
+id: ko-grm-00193
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: 「-았/었다면：与事实相反的假设」
+structure: 용언 어간 + 과거 선어말어미 -았/었- + 조건 연결어미 -면
+structure_pattern: V/A-았/었다면
+explanation_zh: 과거 선어말어미 '-았/었-' 与 조건 연결어미 '-면' 结合，表示与现实相反的假设，相当于「要是……的话」。片段中「만약 내가
+  진짜 아즐란이었다면」暗示主人公并非真正的阿兹兰，后句常与推测形 '-(으)ㄹ 것이다' 呼应。'만약' 置于句首，加强假设语气。
+examples:
+- text: 만약 내가 진짜 아즐란이었다면 마법을 사용해 클라우를 상대할 수 있을 것이다.
+  reading: ''
+  annot: 만약 내가 진짜 아즐란이었다면 마법을 사용해 클라우를 상대할 수 있을 것이다.
+  translation_zh: 如果我真的是阿兹兰，就能用魔法去对付克劳了。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 조건
+- 반사실 가정
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

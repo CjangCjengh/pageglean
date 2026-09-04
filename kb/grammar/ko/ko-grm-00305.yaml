@@ -1,0 +1,38 @@
+id: ko-grm-00305
+language: ko
+type: grammar
+level: TOPIK6
+level_rank: 6
+title: -더라고：回想中的亲身体验
+structure: 用言词干 + -더라고
+structure_pattern: V/A-더라고
+explanation_zh: 由回想先语末词尾-더-加终结词尾-라고构成，用于转述自己亲身经历后的感受，带有「（我体验下来）……」的回想语气。它与单纯陈述不同，暗示说话人的回顾与感慨，小说对话中极常见。原文两处均为阿兹兰回忆处境时的说法。
+examples:
+- text: 하지만 아무리 생각해도 한계가 있더라고.
+  reading: ''
+  annot: 하지만 아무리 생각해도 한계가 있더라고.
+  translation_zh: 但不管怎么想，（我发现）都是有极限的。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+- text: 아즐란의 마법 실력을 전혀 활용할 수 없더라고.
+  reading: ''
+  annot: 아즐란의 마법 실력을 전혀 활용할 수 없더라고.
+  translation_zh: （当时）完全发挥不出阿兹兰的魔法实力。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 回想
+- 终结词尾
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

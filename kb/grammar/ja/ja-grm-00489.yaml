@@ -1,0 +1,31 @@
+id: ja-grm-00489
+language: ja
+type: grammar
+level: N2
+level_rank: 4
+title: 〜（だ）としても：即使……也……（让步逆接）
+structure: 終止形 + と（格助词）+ する連用形「し」+ も（副助词）
+structure_pattern: V終止形/だ + としても
+explanation_zh: 「としても」可分析为表引用・条件的格助词「と」加动词「する」连用形再加副助词「も」，表示让步性假定，“即使假定……也……”。常与「どれだけ」「どんな」等疑问词呼应。文中「心までは」的「まで」提示极端事例，强调让步程度之深。
+examples:
+- text: どれだけ俺たちが近い存在だとしても、心まではひとつになれない。
+  reading: ''
+  annot: どれだけ俺[おれ]たちが近[ちか]い存在[そんざい]だとしても、心[こころ]まではひとつになれない。
+  translation_zh: 就算我们俩关系再亲密，内心也无法合而为一。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 接续
+- 让步
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

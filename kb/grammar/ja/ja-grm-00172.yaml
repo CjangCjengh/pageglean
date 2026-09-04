@@ -1,0 +1,32 @@
+id: ja-grm-00172
+language: ja
+type: grammar
+level: N2
+level_rank: 4
+title: 「〜とはいえ」：虽然……但是（书面性让步）
+structure: 用言終止形／体言 ＋ とはいえ
+structure_pattern: 用言終止形/体言 + とはいえ
+explanation_zh: 源于「とは言え（ども）」的书面性让步接续，表示“虽说前项属实，但后项却出现逆转或不符预期的结果”。语感比「けれども」更正式，多用于叙述和议论。文中说话人先承认“认识已改变”，再转折指出仍无法安心同眠。
+examples:
+- text: 認識が変わったとはいえ、今まで『敵』と思っていた者と同じ屋根の下で眠るなど、落ち着くはずがない
+  reading: ''
+  annot: 認[にん]識[しき]が変[か]わったとはいえ、今[いま]まで『敵[てき]』と思[おも]っていた者[もの]と同[おな]じ屋根[やね]の下[した]で眠[ねむ]るなど、落[お]ち着[つ]くはずがない
+  translation_zh: 虽说认识已经改变，但要与至今一直视为“敌人”的人同睡一个屋檐下，怎么可能安心。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 接续
+- 让步
+- 书面语
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

@@ -1,0 +1,38 @@
+id: ja-grm-00451
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 「〜ながら：两个动作同时进行」
+structure: 动词连用形＋ながら
+structure_pattern: V-連用形 + 接続助詞「ながら」
+explanation_zh: 接续助词「ながら」接动词连用形，表示同一主语的两个动作同时进行，语义重心在后项。中文可译为“一边……一边……”。片段中「舐めながら訊ねる」「惑わされながら飲みこむ」均为伴随动作的描写。
+examples:
+- text: 日雲は人差し指をねっとりと舐めながら、そう訊ねる。
+  reading: ''
+  annot: 日雲は人差し指をねっとり
+  translation_zh: 日云一边黏腻地舔着食指，一边这样问道。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+- text: そんなものに心を惑わされながら、俺は唾を飲みこんだ。
+  reading: ''
+  annot: そんなものに心[こころ]を惑[まど]わされながら、俺[おれ]は唾[つば]を飲[の]みこんだ。
+  translation_zh: 一边被这种感触搅得心神不宁，我一边咽了口唾沫。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 接续
+- 活用
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

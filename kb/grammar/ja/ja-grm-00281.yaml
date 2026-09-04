@@ -1,0 +1,39 @@
+id: ja-grm-00281
+language: ja
+type: grammar
+level: N3
+level_rank: 3
+title: 句末终助词「〜けど／〜んだけど」：留白与解释语气（口语）
+structure: 文 ＋ んだ ＋ けど（句末）
+structure_pattern: 終止形 + んだ + けど (句末)
+explanation_zh: 「けど」本为接续助词表逆接，置于句末时话不说满，留下余地，暗示后文或期待对方接话，是典型的口语留白用法。「んだけど」叠加形式名词「の（ん）」的解释语气，先铺垫缘由再欲言又止。片段中红音的两次句末「けど」都未把话说尽。
+examples:
+- text: でもね？ 私もイスカと同じで、自分が正しいと思った事をしているんだよ。
+  reading: ''
+  annot: でもね？ 私[わたし]もイスカと同[おな]じで、自分[じぶん]が正[ただ]しいと思[おも]った事[こと]をしているんだよ。
+  translation_zh: 不过啊？我也和伊斯卡一样，在做自己认为正确的事。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+- text: ……で、私の用件なんだけどさ？
+  reading: ''
+  annot: ……で、私[わたし]の用件[ようけん]なんだけどさ？
+  translation_zh: ……然后呢，我来找你是有事要说的——
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 終助詞
+- 口語
+- 语气
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

@@ -1,0 +1,32 @@
+id: ko-grm-00416
+language: ko
+type: grammar
+level: TOPIK2
+level_rank: 2
+title: 「-ㄴ/는다고 하다：间接引用（陈述）」
+structure: 인용문：陈述 -ㄴ/는다고，疑问 -냐고，命令 -(으)라고，共动 -자고 + 하다 类动词
+structure_pattern: V-ㄴ/는다고 하다；A-다고 하다；名词-(이)라고 하다
+explanation_zh: 학교문법的间接引用体系：陈述句用 -(느)ㄴ다고，疑问用 -냐고，命令用 -(으)라고，共动用 -자고，后接 말하다/대답하다/생각하다
+  等。本段‘혐오한다고 말한’‘필요하다고 대답했다’都是典型的陈述间接引用，并可作관형절修饰名词（말한 그녀는）。
+examples:
+- text: 무지를 혐오한다고 말한 그녀는, 그런 방법 따위 모른다는 무지한 말 대신 생각할 시간이 필요하다고 대답했다.
+  reading: ''
+  annot: 무지를 혐오한다고 말한 그녀는, 그런 방법 따위 모른다는 무지한 말 대신 생각할 시간이 필요하다고 대답했다.
+  translation_zh: 声称厌恶无知的她，没有说“不知道那种方法”之类无知的言语，而是回答需要时间思考。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 引用
+- 句法
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

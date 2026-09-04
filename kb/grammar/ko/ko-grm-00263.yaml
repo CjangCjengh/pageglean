@@ -1,0 +1,39 @@
+id: ko-grm-00263
+language: ko
+type: grammar
+level: TOPIK2
+level_rank: 2
+title: -아/어 주다：为（某人）做……
+structure: 动词词干 + -아/어 + 보조동사 주다（表示动作使他人受益）
+structure_pattern: V-어간 + -아/어 주다
+explanation_zh: 주다 作补助动词（보조동사）时表示行为给他人带来恩惠，接受者常以 -에게 标记；尊敬语境改称 드리다。片段中“해 줄 말”即“愿意对你们说的话”，常用于说话人表明自己的立场。
+examples:
+- text: 너희들에게 해 줄 말은 없다!
+  reading: ''
+  annot: 너희들에게 해 줄 말은 없다!
+  translation_zh: 对你们我没什么可说的！
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+- text: 루시도 순순히 답해 줄 거라곤 기대하지도 않았다.
+  reading: ''
+  annot: 루시도 순순히 답해 줄 거라곤 기대하지도 않았다.
+  translation_zh: 露西本来也没指望对方会爽快地回答。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 补助动词
+- 恩惠
+- 敬语
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

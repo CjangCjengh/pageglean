@@ -1,0 +1,31 @@
+id: ko-grm-00533
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: -기로 하다：决定做某事
+structure: 동사 어간（动词词干）+ -기로 하다
+structure_pattern: 동사 어간 + 명사형 전성 어미 '-기' + 부사격 조사 '로' + '하다'
+explanation_zh: 表示说话人决定或约定做某事，相当于汉语的“决定……”。结构上由名词化词尾'-기'将动词转为名词性成分，再与副词格助词'로'、'하다'结合。常用于叙述作出决定、下定决心的语境。
+examples:
+- text: 아무래도 내 제안에 키이리가 너무 혼란스러워하는 것 같아서 굳이 지적하지 않기로 했다.
+  reading: ''
+  annot: 아무래도 내 제안에 키이리가 너무 혼란스러워하는 것 같아서 굳이 지적하지 않기로 했다.
+  translation_zh: 反正基里似乎被我的提议搞得太过混乱，我决定不去刻意指正了。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 语气/意志
+- 依存结构
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

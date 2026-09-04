@@ -1,0 +1,39 @@
+id: vi-grm-00102
+language: vi
+type: grammar
+level: L2
+level_rank: 2
+title: như / y như … vậy：比喻与比较
+structure: V / Adj + như + NP；y như + NP + vậy
+structure_pattern: V/Adj + như / y như … vậy
+explanation_zh: như 用于动词或形容词之后引出比喻、比较的对象，相当于「像……一样」。y như 语气更强，意为「简直跟……一模一样」，常与句末的
+  vậy 呼应。表示差比则用 hơn，如「vẫn còn hơn phân nửa」（还剩一半以上）。
+examples:
+- text: Tiểu Li ăn chậm như mèo.
+  reading: ''
+  annot: Tiểu Li ăn chậm như mèo.
+  translation_zh: Tiểu Li 吃起东西来慢得像猫一样。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+- text: khúc bánh mì trên tay Tiểu Li biến mất y như trò ảo thuật trong rạp xiếc vậy
+  reading: ''
+  annot: khúc bánh mì trên tay Tiểu Li biến mất y như trò ảo thuật trong rạp xiếc
+    vậy
+  translation_zh: Tiểu Li 手里的面包，简直像马戏团的魔术一样一下子消失了。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 比较结构
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

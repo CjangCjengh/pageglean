@@ -1,0 +1,40 @@
+id: ko-grm-00254
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: 「-아/어 놓다：做完并留下结果状态」
+structure: 동사 + 연결어미 '-아/어' + 보조동사 '놓다'
+structure_pattern: V + -아/어 놓다
+explanation_zh: 补助动词'-아/어 놓다'表示动作不仅完成，其结果状态还一直保持着。'전개해 놓은'指防御魔法早已布好并持续发挥作用。与'-아/어
+  두다'义近，'놓다'更强调具体结果的存留。
+examples:
+- text: 마이시아가 미리 전개해 놓은 방어 마법에 막혀 아무런 효과가 없었다.
+  reading: ''
+  annot: 마이시아가 미리 전개해 놓은 방어 마법에 막혀 아무런 효과가 없었다.
+  translation_zh: （攻击）被米希亚事先布好并维持着的防御魔法挡住，毫无效果。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+- text: 그렇게까지 자세한 설정은 만들어 놓지 않았어.
+  reading: ''
+  annot: 그렇게까지 자세한 설정은 만들어 놓지 않았어.
+  translation_zh: 我并没有事先写出那么详细的设定。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 补助动词
+- 体貌
+- 结果状态
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

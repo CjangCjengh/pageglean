@@ -1,0 +1,38 @@
+id: ko-grm-00284
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: -았/었을 것이다：大概……了（对过去的推测）
+structure: V-았/었을 것이다（선어말 어미 ‘-았/었-’ + 관형사형 어미 ‘-(으)ㄹ’ + 의존명사 ‘것’ + 서술격 조사 ‘이다’）
+structure_pattern: V-았/었을 것이다
+explanation_zh: 过去词尾‘-았/었-’后接‘-(으)ㄹ 것이다’，表示对已发生之事的推测，意为“大概……了”“应该是……”。依存名词‘것’加谓格助词‘이다’，结构上为名词谓语句。叙述者推断人物状况时高频使用。
+examples:
+- text: 틸프가 그대로 공격했으면 클라우의 기도를 파괴할 수는 있었겠지만, 그와 동시에 온몸이 갈기갈기 찢어졌을 것이다.
+  reading: ''
+  annot: 틸프가 그대로 공격했으면 클라우의 기도를 파괴할 수는 있었겠지만, 그와 동시에 온몸이 갈기갈기 찢어졌을 것이다.
+  translation_zh: 如果蒂尔当时径直攻击，本可以摧毁克劳的祈祷，但与此同时他自己全身也会被撕成碎片。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+- text: 알테아는 갑옷의 보호를 받았을 것이다.
+  reading: ''
+  annot: 알테아는 갑옷의 보호를 받았을 것이다.
+  translation_zh: 阿尔忒亚应该是受到了铠甲的保护。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 推测
+- 时态
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

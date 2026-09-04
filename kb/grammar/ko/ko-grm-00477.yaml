@@ -1,0 +1,39 @@
+id: ko-grm-00477
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: 듯(이)：好像……似的
+structure: 动词 + -는 듯(이)，形容词 + -(으)ㄴ 듯(이)，过去 + -았/었(었)다는 듯
+structure_pattern: V-는 듯(이) / A-(으)ㄴ 듯(이)（依存名词 듯 + 冠形词形转成词尾）
+explanation_zh: ‘듯’为依存名词，前接冠形词形词尾：动词用 -는 듯(이)，形容词用 -(으)ㄴ 듯(이)，过去时用 -았/었(었)다는 듯。表示对情况的推测或描写方式，相当于中文“好像……似的”。片段中以多种形态反复出现。
+examples:
+- text: 자신에게 쏟아지는 수많은 시선이 부담스러운 듯이, 그녀는 고개를 빳빳이 한 채 반대편 벽 어딘가에 시선을 꽂으며 말했다.
+  reading: ''
+  annot: 자신에게 쏟아지는 수많은 시선이 부담스러운 듯이, 그녀는 고개를 빳빳이 한 채 반대편 벽 어딘가에 시선을 꽂으며 말했다.
+  translation_zh: 似乎承受不住投向自己的无数视线，她昂着头，把目光钉在对面墙上的某处，开口说道。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+- text: 그러고는 부끄럽다는 듯, 무릎 위에 올려놓았던 인형을 들어 자신의 얼굴을 쏙 가려 버렸다.
+  reading: ''
+  annot: 그러고는 부끄럽다는 듯, 무릎 위에 올려놓았던 인형을 들어 자신의 얼굴을 쏙 가려 버렸다.
+  translation_zh: 然后像是害羞似的，她拿起放在膝盖上的玩偶，一下子遮住了自己的脸。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 推测
+- 依存名词
+- 样态
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 6
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

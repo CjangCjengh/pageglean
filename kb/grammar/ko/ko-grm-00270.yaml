@@ -1,0 +1,39 @@
+id: ko-grm-00270
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: 「-(으)ㄹ려 하다：意图与企图」
+structure: 동사 어간 + -(으)ㄹ려(고) 하다
+structure_pattern: 동사 어간 + -(으)ㄹ려 하다
+explanation_zh: -(으)려 하다是-(으)려고 하다的缩略，表示意图、打算或即将发生的行为。本段多用于描写尚未完成的尝试，如꿰뚫으려 했다（正欲刺穿）、돌진하려
+  했다（正要冲锋）。汉语对应"想要/正要……"。
+examples:
+- text: 몸에 걸치고 있던 집사의 정장이 찢어지는 것도 아랑곳하지 않고, 클라우에게 마지막까지 저항하려는 모습을 취하려 했다.
+  reading: ''
+  annot: 몸에 걸치고 있던 집사의 정장이 찢어지는 것도 아랑곳하지 않고, 클라우에게 마지막까지 저항하려는 모습을 취하려 했다.
+  translation_zh: 她毫不在意身上穿着的管家西装被撕裂，摆出要抵抗克劳到最后一刻的架势。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+- text: 그대로 바닥에 처박힌 클라우를 향해 알테아는 다시금 돌진하려 했다.
+  reading: ''
+  annot: 그대로 바닥에 처박힌 클라우를 향해 알테아는 다시금 돌진하려 했다.
+  translation_zh: 阿尔忒亚打算再次冲向就这样栽在地上的克劳。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 连接词尾
+- 意图
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 5
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

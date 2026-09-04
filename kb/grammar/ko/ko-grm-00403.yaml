@@ -1,0 +1,33 @@
+id: ko-grm-00403
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: -고 보니(까)：经历后的发现
+structure: 动词词干 + 连接词尾'-고' + 补助动词'보다' + '-(으)니까'
+structure_pattern: V + -고 보니(까)
+explanation_zh: '''-고 보니(까)''由连接词尾''-고''与补助动词''보다''组合而成，表示经历某事后发现与先前预想不同的结果，即「……之后才发现／才知道」。''알고
+  보면''已固化为常用表达，意为「了解之后就会发现」。'
+examples:
+- text: 알고 보면 악마도 별거 아니야.
+  reading: ''
+  annot: 알고 보면 악마도 별거 아니야.
+  translation_zh: 了解之后就会发现，恶魔也没什么大不了的。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 补助动词
+- 发现
+- 连接词尾
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

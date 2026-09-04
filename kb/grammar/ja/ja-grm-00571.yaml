@@ -1,0 +1,38 @@
+id: ja-grm-00571
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 〜しかない・どうしようもない：别无他法
+structure: 动词终止形 + 副助词 しか（要求否定结语）；どうしようもない 为惯用句
+structure_pattern: V + しかない / どうしようもない
+explanation_zh: 「しか」是副助词，后项必须接否定，表示“除了……之外没有别的”；「Vしかない」表达虽不情愿也只好如此。「どうしようもない」是表示“无法可想、无计可施”的惯用表达。两者在片段中反复出现，是表达无力感的高频句式。
+examples:
+- text: これだけだとどうしようもない。
+  reading: ''
+  annot: これだけだとどうしようもない。
+  translation_zh: 光凭这点信息，根本无计可施。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+- text: これ以上夢前光に関してはどうしようもないので、信じて待つしかない。
+  reading: ''
+  annot: これ以上[いじょう]夢前光[ゆめさきひかり]に関してはどうしようもないので、信[しん]じて待[ま]つしかない。
+  translation_zh: 关于梦前光，再做什么也无济于事了，只能相信她并等待。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 助词
+- 惯用句
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 4
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

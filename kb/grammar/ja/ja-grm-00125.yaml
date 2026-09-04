@@ -1,0 +1,31 @@
+id: ja-grm-00125
+language: ja
+type: grammar
+level: N2
+level_rank: 4
+title: 「〜であろうと」：无论……也……
+structure: 体言 ＋ だろ（断定助動詞「だ」未然形）＋ う（推量助動詞）＋ と（接続助詞）
+structure_pattern: 体言 + であろう + と
+explanation_zh: 「〜であろうと」表示"无论……也……"，由断定助动词「だ」未然形「だろ」＋推量助动词「う」＋接续助词「と」构成，相当于「〜であっても」，表让步。句中即"无论对手是谁都不轻易认输"。语气偏书面、郑重。
+examples:
+- text: 術者としては、相手が誰であろうと簡単に負けない自信はある
+  reading: ''
+  annot: 術者[じゅつしゃ]としては、相手[あいて]が誰[だれ]であろうと簡単[かんたん]に負[ま]けない自信[じしん]はある
+  translation_zh: 作为术士，无论对手是谁，我都有不轻易认输的自信。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 让步
+- 逆接
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

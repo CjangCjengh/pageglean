@@ -1,0 +1,39 @@
+id: ja-grm-00128
+language: ja
+type: grammar
+level: N5
+level_rank: 1
+title: 〜なければならない（〜ないといけない）：必须～
+structure: 动词未然形＋否定助动词「ぬ（ず）」假定形「ね」＋接续助词「ば」＋ならない
+structure_pattern: V-未然形 + なければ + ならない
+explanation_zh: 学校文法中，动词未然形接否定助动词「ぬ（ず）」，其假定形「ね」再接接续助词「ば」，后项「ならない」表示「不行、过意不去」，以双重否定表义务，相当于「必须～」。口语中常缩略为「ないといけない」「なきゃ」，片段中的「しないといけない」即「しなければいけない」的口语形式。
+examples:
+- text: 最低でも近場の案内はしないといけないし、必要な生活用品を買う必要もある。
+  reading: ''
+  annot: 最低[さいてい]でも近場[ちかば]の案内[あんない]はしないといけないし、必要[ひつよう]な生活用品[せいかつようひん]を買[か]う必要[ひつよう]もある。
+  translation_zh: 至少必须带你逛逛附近，也有必要买齐必要的生活用品。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+- text: 俺もハラくくらないとな……
+  reading: ''
+  annot: 俺[おれ]もハラくくらないとな……
+  translation_zh: 我也得下定决心了啊……
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 语气
+- 双重否定
+- 口语形
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

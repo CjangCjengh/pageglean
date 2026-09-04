@@ -1,0 +1,39 @@
+id: ko-grm-00157
+language: ko
+type: grammar
+level: TOPIK2
+level_rank: 2
+title: -기 때문이다：因果说明
+structure: 谓词词干 + 名词形转成词尾 -기 + 依存名词 때문 + 主格助词 이（即 -기 때문이다）
+structure_pattern: V/A-기 때문이다
+explanation_zh: 名词形转成词尾 -기 把前句变成名词性成分，依存名词 때문 表示原因，后接主格助词 이다。比 -아/어서 因果关系更明确、语体更书面，常用于叙述说明。前句为过去事实时用
+  -았/었기 때문이다。
+examples:
+- text: 이 시점에서 두 사람은 주머니 사정이 상당히 빈곤했기 때문이다.
+  reading: ''
+  annot: 이 시점에서 두 사람은 주머니 사정이 상당히 빈곤했기 때문이다.
+  translation_zh: 这是因为此时两人的经济状况相当拮据。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+- text: 인간에게는 기본적인 마법 저항력이 있기 때문에 인간 자체를 얼리는 건 쉽지 않아.
+  reading: ''
+  annot: 인간에게는 기본적인 마법 저항력이 있기 때문에 인간 자체를 얼리는 건 쉽지 않아.
+  translation_zh: 因为人类具有基本的魔法抵抗力，所以要把人本身冻住并不容易。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 因果
+- 名词化
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

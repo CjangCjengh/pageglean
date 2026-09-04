@@ -1,0 +1,31 @@
+id: ja-grm-00286
+language: ja
+type: grammar
+level: N3
+level_rank: 3
+title: 〜ようとする：正要做……
+structure: 动词未然形 + 意志助动词う/よう + とする
+structure_pattern: V未然形 + 助動詞「う/よう」（意志） + 格助詞「と」 + 動詞「する」
+explanation_zh: 「ようとする」由动词意志形（未然形＋推量助动词う/よう）加「とする」构成，表示“正想要做……”“试图……”。用于描述动作即将发生或尝试的瞬间。此处「弾こうとした」意为“正想弹开”。
+examples:
+- text: 二撃目を受けて弾こうとしたが――手応えが無い！
+  reading: ''
+  annot: 二撃目[にげきめ]を受[う]けて弾[はじ]こうとしたが――手応[てごた]えが無[な]い！
+  translation_zh: 我接下第二击、正想把它弹开，却――毫无手感！
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 意志
+- 体貌
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 0
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

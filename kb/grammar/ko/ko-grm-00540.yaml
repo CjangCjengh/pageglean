@@ -1,0 +1,31 @@
+id: ko-grm-00540
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: -자마자：一……就……
+structure: 동사 어간（动词词干）+ -자마자
+structure_pattern: 동사 어간 + 연결 어미 '-자마자'
+explanation_zh: 连接词尾，表示前一动作刚结束，后一动作或情况紧接着发生，强调两个事件之间的时间间隔极短。相当于汉语的“一……就……”“刚……马上……”。
+examples:
+- text: 일어나자마자 내가 좋아하는 사람들 얼굴을 보니까 기분 좋네.
+  reading: ''
+  annot: 일어나자마자 내가 좋아하는 사람들 얼굴을 보니까 기분 좋네.
+  translation_zh: 一睁眼就能看到我喜欢的人们的脸，感觉真好呢。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 接续/时间
+- 副词性连接
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

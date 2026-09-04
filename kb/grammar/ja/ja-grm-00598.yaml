@@ -1,0 +1,39 @@
+id: ja-grm-00598
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 〜てしまう／〜ちゃう：完了与遗憾（含口语缩约）
+structure: 動詞連用形＋てしまう（口語縮約：ちゃう／じゃう）
+structure_pattern: V連用形 + て + しまう（補助動詞）；口語縮約：ちゃう・じゃう
+explanation_zh: 补助动词「しまう」接动词连用形，表示动作完结，常附带遗憾或不可挽回的语气。口语中「てしまう」缩约为「ちゃう」（拨音便后作「じゃう」），如「倒れちゃった」「死んじゃう」。片段会话用「ちゃう」、旁白叙述用「てしまった」，体现口语与书面语的文体分工。
+examples:
+- text: 普段さわやかクールで通してる風城くんが倒れちゃった。
+  reading: ''
+  annot: 普段[ふだん]さわやかクールで通[つう]してる風城[かぜしろ]くんが倒[たお]れちゃった。
+  translation_zh: 平时走清爽冷酷路线的风城君竟然倒下了。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+- text: ああ……ついに風城がそっぽを向いてしまった……。
+  reading: ''
+  annot: ああ……ついに風城[かぜしろ]がそっぽを向[む]いてしまった……。
+  translation_zh: 啊啊……风城终于还是把脸别了过去……
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- アスペクト
+- 補助動詞
+- 口語
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 5
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

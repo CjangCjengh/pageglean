@@ -1,0 +1,40 @@
+id: ko-grm-00661
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: -(으)니까 / -(으)ㄹ 테니까：原因与推测性理由
+structure: 이유·근거의 연결어미 ‘-(으)니까’; ‘-(으)ㄹ 테니까’ = 의존명사 ‘터’ + 서술격조사 ‘이다’ + ‘-(으)니까’
+structure_pattern: V/A-(으)니까 ; V/A-(으)ㄹ 테니까
+explanation_zh: ‘-(으)니까’是表示原因、根据的连接词尾，为后句的判断、提议或命令提供依据。“-(으)ㄹ 테니까”是表展望的依存名词‘터’＋叙述格调查‘이다’＋‘-(으)니까’的缩略，意为“因为将会……”，即基于推测提出理由。片段中“들이닥칠
+  테니까”“악명까지 올라갈 테니까”均以预想的后果作为行动的理由。
+examples:
+- text: 안 그러면 검의 공주가 들이닥칠 테니까.
+  reading: ''
+  annot: 안 그러면 검의 공주가 들이닥칠 테니까.
+  translation_zh: 要不然，剑之公主可就要杀过来了。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+- text: 어지간한 공격은 키이리가 자칫 잘못해서 다치거나 죽을까 봐 아예 논외로 해 두고 있을 정도니까 말이다.
+  reading: ''
+  annot: 어지간한 공격은 키이리가 자칫 잘못해서 다치거나 죽을까 봐 아예 논외로 해 두고 있을 정도니까 말이다.
+  translation_zh: 毕竟一般的攻击都干脆不予考虑，就怕基里稍有不慎会受伤甚至送命。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 原因
+- 推测
+- 连接词尾
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

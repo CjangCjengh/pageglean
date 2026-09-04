@@ -1,0 +1,38 @@
+id: ja-grm-00092
+language: ja
+type: grammar
+level: N3
+level_rank: 3
+title: 〜わけではない：部分否定（并不是……）
+structure: 連体形＋わけではない
+structure_pattern: V/A-連体形 + わけではない
+explanation_zh: 形式名词「わけ」表示情理上的结论，「わけではない」对其加以否定，意为「并不等于说……」，是委婉的部分否定，而非全盘否定。中文母语者易误译成「没有理由……」，应注意区别。片段中王女说「高级货并非全都好吃」即用此结构。
+examples:
+- text: 高級品だけが美味いというわけではないだろう？
+  reading: ''
+  annot: 高級品[こうきゅうひん]だけが美味[うま]いというわけではないだろう？
+  translation_zh: 并不是只有高级货才好吃，对吧？
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+- text: 別に、そういう事に興味が無いわけじゃないんだが……
+  reading: ''
+  annot: 別[べつ]に、そういう事[こと]に興[きょう]味[み]が無[な]いわけじゃないんだが……
+  translation_zh: 倒也不是说我对那种事没有兴趣……
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 部分否定
+- 形式名词
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

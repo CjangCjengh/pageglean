@@ -1,0 +1,39 @@
+id: ko-grm-00402
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: -거든：说明理由（非敬语阶）
+structure: 谓词词干 + 终结词尾'-거든'（해체·半语）
+structure_pattern: V/A + -거든
+explanation_zh: '''-거든''是非敬语阶（해체）的终结词尾，向对方说明理由或解释原因，带有「……嘛／可……呢」的口吻，后句常接主张或反驳。文中说话人连用三次辩解，突出其理直气壮又带挑衅的语气。'
+examples:
+- text: 무지는 공포와 혼란을 가져오거든.
+  reading: ''
+  annot: 무지는 공포와 혼란을 가져오거든.
+  translation_zh: 无知会带来恐惧和混乱嘛。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+- text: 나는 악마를 중개해 주지만 계약을 강요하지는 않거든?
+  reading: ''
+  annot: 나는 악마를 중개해 주지만 계약을 강요하지는 않거든?
+  translation_zh: 我虽然帮忙牵线恶魔，但并不强迫对方签契约呀？
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 终结词尾
+- 敬语阶位
+- 理由
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

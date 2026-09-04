@@ -1,0 +1,31 @@
+id: ja-grm-00264
+language: ja
+type: grammar
+level: N3
+level_rank: 3
+title: 助動詞「らしい」：有依据的推测
+structure: 用言終止形／体言＋助動詞「らしい」
+structure_pattern: 用言終止形 / N + らしい
+explanation_zh: 助动词「らしい」接用言终止形或体言之后，表示基于客观依据、较有把握的推断，即“看来…”。体言直接接续、不加「だ」，这是它与「みたいだ」等的不同之处。注意与接尾语「〜らしい」（像…的样子，如「男らしい」）区分。
+examples:
+- text: 考えがまとまったらしい。
+  reading: ''
+  annot: 考[かんが]えがまとまったらしい。
+  translation_zh: 看来（她的）想法已经理清了。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 助動詞
+- 推量
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

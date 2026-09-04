@@ -1,0 +1,32 @@
+id: vi-grm-00226
+language: vi
+type: grammar
+level: L2
+level_rank: 2
+title: 最高级 nhất 与 nhất là
+structure: 形容词 + nhất ／ Nhất là + 分句
+structure_pattern: Adj + nhất / nhất là + 分句
+explanation_zh: nhất 置于形容词之后表示最高级，相当于「最……」；nhất là 则引出最值得强调的一项，意为「最……的是／尤其是」。片段中「Sung
+  sướng nhất là…」用形容词前置以加强语气。
+examples:
+- text: Sung sướng nhất là Tiểu Li chủ động làm hòa trước.
+  reading: ''
+  annot: Sung sướng nhất là Tiểu Li chủ động làm hòa trước.
+  translation_zh: 最让我高兴的是小梨主动先来和好。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 比较
+- 句式
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 4
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

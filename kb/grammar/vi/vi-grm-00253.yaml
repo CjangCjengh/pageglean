@@ -1,0 +1,38 @@
+id: vi-grm-00253
+language: vi
+type: grammar
+level: L4
+level_rank: 4
+title: 懒得／不屑：嫌弃否定「không thèm + V」
+structure: không / chẳng + thèm + V
+structure_pattern: không/chẳng + thèm + V
+explanation_zh: thèm 本义为「馋、渴望」，与 không／chẳng 连用表示「懒得／不屑于做～」，强调主语对该动作毫无兴趣或不放在眼里。片段中把「爱情」拟人化，说它连「一步」都懒得跟随主人公，语带自嘲，生动幽默。
+examples:
+- text: Nhưng lúc này, tôi không thèm quan tâm đến sự tính toán của nó.
+  reading: ''
+  annot: Nhưng lúc này, tôi không thèm quan tâm đến sự tính toán của nó.
+  translation_zh: 不过这时候，我懒得去理会他的盘算。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+- text: tình cũng chẳng thèm theo tôi lấy một bước
+  reading: ''
+  annot: tình cũng chẳng thèm theo tôi lấy một bước
+  translation_zh: 爱情也懒得跟随我一步
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 否定
+- 语气
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

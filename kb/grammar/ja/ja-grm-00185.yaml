@@ -1,0 +1,31 @@
+id: ja-grm-00185
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 〜って：「という」的口语形（引用与内容提示）
+structure: 引用句／体言 + 助词「って」（＝という）
+structure_pattern: 文・体言＋格助詞「って」（＝「という」の口語形）
+explanation_zh: 「って」是「という」的口语形式，用于引用话语或提示事物的内容、性质，轻小说会话中极高频。片段里「〜って感じかな」「〜ってトコか」「〜って事で」分别表示“感觉是……吧”“算是……这么回事吧”“那就这么定了”。其中「トコ」是形式名词「ところ」的口语说法。
+examples:
+- text: 「んー、『仕方が無い』ってトコか。んじゃ、契約成立って事で。」
+  reading: ''
+  annot: 「んー、『仕方[しかた]が無[な]い』ってトコか。んじゃ、契約成立[けいやくせいりつ]って事[こと]で。」
+  translation_zh: “嗯——算是『真拿你没办法』这意思吧。那么，契约成立咯。”
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 口语
+- 接续
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

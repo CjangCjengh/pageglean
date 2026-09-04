@@ -1,0 +1,32 @@
+id: ko-grm-00412
+language: ko
+type: grammar
+level: TOPIK6
+level_rank: 6
+title: 「-고자 하다」：想要……（意图）
+structure: 动词词干 + -고자 하다
+structure_pattern: 용언 어간 + 연결어미 -고자 + 보조 동사 '하다'(의도)
+explanation_zh: 表示主体的意图或目的，相当于“想要……”“为……”。语体庄重，多用于书面或郑重场合，口语一般用 -(으)려고 하다。片段借“만나고자
+  했는데”回顾“我们当初为何执意要见恶魔中介人”。
+examples:
+- text: 우리가 왜 악마 중개인을 만나고자 했는데.
+  reading: ''
+  annot: 우리가 왜 악마 중개인을 만나고자 했는데.
+  translation_zh: 我们当初为什么想要见恶魔中介人来着。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 意图
+- 文体
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 0
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

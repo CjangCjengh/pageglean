@@ -1,0 +1,37 @@
+id: vi-grm-00362
+language: vi
+type: grammar
+level: L1
+level_rank: 1
+title: cũng：也
+structure: 主语 + cũng + 动词/形容词
+structure_pattern: S + cũng + V/Adj
+explanation_zh: cũng 意为「也」，放在动词或形容词之前，位置与汉语的「也」相同。本片段多次出现，表示与前文相同的情况或行为。
+examples:
+- text: Em cũng thích ép vào tập.
+  reading: ''
+  annot: Em cũng thích ép vào tập.
+  translation_zh: 我也喜欢压进本子里。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+- text: Em cũng thích hoa phượng.
+  reading: ''
+  annot: Em cũng thích hoa phượng.
+  translation_zh: 我也喜欢凤凰花。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 副词
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

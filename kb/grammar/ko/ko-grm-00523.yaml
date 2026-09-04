@@ -1,0 +1,38 @@
+id: ko-grm-00523
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: 回想冠形词形词尾 -던：追忆未完结的过去
+structure: 用言词干 + 冠形词形词尾 -던（回想）
+structure_pattern: 용언 어간 + -던 (관형사형 어미)
+explanation_zh: -던 是表示回想的冠形词形词尾，修饰其后名词，追忆过去未完结或中断的状态、动作。与表示完成的 -ㄴ/은 不同，-던 强调“当时正在……”“那时一直……”。
+examples:
+- text: 브룬이 품 안에 들고 있던 서너 권의 책을 머리 위로 치켜들며 소리쳤다.
+  reading: ''
+  annot: 브룬이 품 안에 들고 있던 서너 권의 책을 머리 위로 치켜들며 소리쳤다.
+  translation_zh: 布伦把原本抱在怀里的三四本书高高举过头顶，大声喊道。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+- text: 사실 키이리는 첫 만남부터 날 따르던 아이는 아니었었다.
+  reading: ''
+  annot: 사실 키이리는 첫 만남부터 날 따르던 아이는 아니었었다.
+  translation_zh: 其实，基里并不是从初次见面起就一直追随我的孩子。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 冠形词形词尾
+- 回想
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

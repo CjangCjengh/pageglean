@@ -1,0 +1,31 @@
+id: ja-grm-00353
+language: ja
+type: grammar
+level: N2
+level_rank: 4
+title: 「〜だの〜だの」：列举抱怨“一会儿说……一会儿说……”
+structure: ……だの……だの（并列助词「だの」叠用）
+structure_pattern: X + だの + Y + だの（並立助詞）
+explanation_zh: 并列助词「だの」叠用，列举若干事例，相当于“一会儿说什么……一会儿说什么……”，常带有抱怨、不耐烦的语气。文中「行けだのなんだの」把对方的种种劝说概括列举，表现说话人嫌麻烦的心情。与「〜とか〜とか」意思相近而语感更随意。
+examples:
+- text: 病院に行けだのなんだの言っていた気がするが、そんなもん俺の頭に入るはずもない。
+  reading: ''
+  annot: 病院[びょういん]に行[い]けだのなんだの言[い]っていた気[き]がするが、そんなもん俺[おれ]の頭[あたま]に入[はい]るはずもない。
+  translation_zh: 印象中她好像说了什么去医院之类的，但那种话怎么可能进得了我的脑子。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 助詞
+- 列举
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

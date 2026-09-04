@@ -1,0 +1,40 @@
+id: ko-grm-00404
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: -(으)ㄴ/는 듯(하다)：「仿佛……似的」
+structure: 谓词 + 冠词形转成词尾'-(으)ㄴ/는' + 依存名词'듯'（+ '하다'）
+structure_pattern: V/A + -(으)ㄴ/는 듯(하다)
+explanation_zh: '''듯''是依存名词，表示「像……那样／仿佛……」，可作状语修饰谓语，也可接''하다''充当谓语。文中''대답하듯''描摹动作情态，''알고
+  있는 듯한 태도''描摹揣测状态，是小说刻画情态的常用手段。'
+examples:
+- text: 그리고 키이리의 질문에 대답하듯 시나가 고개를 갸웃했다.
+  reading: ''
+  annot: 그리고 키이리의 질문에 대답하듯 시나가 고개를 갸웃했다.
+  translation_zh: 仿佛在回答基里的问题似的，诗娜歪了歪头。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+- text: 이미 알고 있는 듯한 태도였다.
+  reading: ''
+  annot: 이미 알고 있는 듯한 태도였다.
+  translation_zh: （那是一种）仿佛早已知情的态度。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 依存名词
+- 比喻
+- 推测
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

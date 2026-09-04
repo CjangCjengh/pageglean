@@ -1,0 +1,40 @@
+id: ko-grm-00640
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: -았/었다는：转述传闻修饰名词
+structure: 동사 + -았/었다는 = -았/었다고 하는（관형사형 전성어미, 간접 인용 축약）
+structure_pattern: V-았/었- + 다는
+explanation_zh: 由间接引用缩略而成的관형사형 전성어미：'-다고 하는' 缩略为 '-다는'，与过去时结合即 '-았/었다는'，用于转述传闻或已知之事来修饰名词，相当于“据说……的”。与单纯表示事实的冠形词尾
+  '-(으)ㄴ'（죽은 부인）不同，'-다는' 保留了引用、传闻的语感。
+examples:
+- text: 8년 전, 전염병으로 죽었다는 헬로이스 부인도 함께 있는 것을 보면, 아마도 그 가족화는 8년보다 훨씬 전에 그려진 그림일 것이다.
+  reading: ''
+  annot: 8년 전, 전염병으로 죽었다는 헬로이스 부인도 함께 있는 것을 보면, 아마도 그 가족화는 8년보다 훨씬 전에 그려진 그림일 것이다.
+  translation_zh: 看画里还有据说八年前死于传染病的赫洛伊斯夫人，这幅家族画想必是在比八年前更早的时候画成的。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+- text: 8년 전, 악마와 계약을 맺은 건 헬로이스 영주가 아니라 그 딸이었다는 얘기야.
+  reading: ''
+  annot: 8년 전, 악마와 계약을 맺은 건 헬로이스 영주가 아니라 그 딸이었다는 얘기야.
+  translation_zh: 我的意思是，八年前与恶魔订立契约的不是赫洛伊斯领主，而是他的女儿。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 관형사형
+- 간접 인용
+- 전언
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 0
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

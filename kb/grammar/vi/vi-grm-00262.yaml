@@ -1,0 +1,31 @@
+id: vi-grm-00262
+language: vi
+type: grammar
+level: L3
+level_rank: 3
+title: chốc chốc … lại …：短时间内反复
+structure: chốc chốc + 主语 + lại + V
+structure_pattern: chốc chốc + S + lại + V
+explanation_zh: 「chốc chốc」意为「隔一会儿、时不时」，表示某一情况在短时间内反复发生；与副词「lại」搭配构成「隔一会儿就又……」。用于叙述高频重复的动作，如片段中「我」一次次歪头偷看越南安。
+examples:
+- text: Chốc chốc tôi lại nghiêng đầu liếc sang chỗ Việt An.
+  reading: ''
+  annot: Chốc chốc tôi lại nghiêng đầu liếc sang chỗ Việt An.
+  translation_zh: 我隔一会儿就歪着头瞟一眼越南安的座位。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 频率
+- 副词
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

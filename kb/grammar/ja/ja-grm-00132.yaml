@@ -1,0 +1,39 @@
+id: ja-grm-00132
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 被动：助动词 れる／られる
+structure: 动词未然形＋被动助动词「れる／られる」（五段动词接れる，一段・サ变动词接られる）
+structure_pattern: V-未然形 + れる/られる
+explanation_zh: 学校文法中被动由助动词「れる／られる」接动词未然形构成。片段中「噂されやすい」「疑われる」均为被动式以连体形修饰名词；「期待されても困る」则是不希望之事加诸自身的“受害被动（迷惑の受身）”，口语中常见。
+examples:
+- text: ちょっとソッチの展開を期待されても困るかな
+  reading: ''
+  annot: ちょっとソッチの展開[てんかい]を期待[きたい]されても困[こま]るかな
+  translation_zh: 就算（你们）期待那种展开，我也会很困扰的啦。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+- text: 頭を撫でられながら眠るリア。
+  reading: ''
+  annot: 頭[あたま]を撫[な]でられながら眠[ねむ]るリア。
+  translation_zh: 莉亚被抚摸着脑袋，安然睡去。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 被动
+- 助动词
+- 接续
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

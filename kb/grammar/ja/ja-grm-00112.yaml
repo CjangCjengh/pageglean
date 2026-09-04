@@ -1,0 +1,38 @@
+id: ja-grm-00112
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 「〜のだ」：解释与强调的语气
+structure: 终止形 ＋ のだ（口语作「んだ」）
+structure_pattern: 用言-終止形 / 体言・助動詞「だ」連体形 + 形式名詞「の」 + 助動詞「だ」
+explanation_zh: 形式名词「の」使前面的句子体言化，再接断定助动词「だ」，构成带解释、强调语气的「〜のだ」。常用于追问原因或强调结论，口语中「の」音变为「ん」。莉亚连用「何があるのだ」「なんなのだ」等，显得一本正经，形成其独特口癖。
+examples:
+- text: 何があるのだ？
+  reading: ''
+  annot: 何[なに]があるのだ？
+  translation_zh: 里面有什么呢？
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+- text: ……なんなのだコレは？
+  reading: ''
+  annot: ……なんなのだコレは？
+  translation_zh: ……这到底是什么啊？
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 语气
+- 形式名词
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

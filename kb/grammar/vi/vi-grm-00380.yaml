@@ -1,0 +1,35 @@
+id: vi-grm-00380
+language: vi
+type: grammar
+level: L2
+level_rank: 2
+title: 「trước khi…」：在……之前（与 kịp 呼应）
+structure: 关系词 trước khi + 时间分句（从句中可用副词 kịp 表示「来得及」）
+structure_pattern: quan hệ từ 'trước khi' + mệnh đề phụ — trạng ngữ chỉ thời gian;
+  phó từ 'kịp' + cụm động từ
+explanation_zh: 「trước khi」是引导时间状语的关系词，状语分句可置于主句之后作补充说明。「kịp + V」表示「来得及做某事」，此处强调赶在对方看见之前。整体译为「赶在……之前」。
+examples:
+- text: trước khi tụi con gái ùa ra khỏi lớp, trước khi Việt An kịp nhìn thấy tôi
+    lầm lũi chạy trốn
+  reading: ''
+  annot: trước khi tụi con gái ùa ra khỏi lớp, trước khi Việt An kịp nhìn thấy tôi
+    lầm lũi chạy trốn
+  translation_zh: 赶在女生们涌出教室之前，赶在越安来得及看见我垂头丧气地逃跑之前。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 时间
+- 状语
+- 复句
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

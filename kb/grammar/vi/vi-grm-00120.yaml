@@ -1,0 +1,40 @@
+id: vi-grm-00120
+language: vi
+type: grammar
+level: L1
+level_rank: 1
+title: Rồi：完成体语气词
+structure: V/Adj + rồi（phó từ 置于句末，表示已然、完成）
+structure_pattern: V/Adj + rồi
+explanation_zh: rồi 是体貌副词（phó từ），置于动词之后或句末，表示事情已经发生或完成，相当于汉语的「了／已经……了」。与形容词连用时表示状态已经形成。越南语表达完成只需在句末加
+  rồi，不必同时出现 đã。
+examples:
+- text: Tôi xem phim này rồi.
+  reading: ''
+  annot: Tôi xem phim này rồi.
+  translation_zh: 这部电影我已经看过了。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+- text: Nó không chịu đi xem phim với mày tức là tiêu rồi chứ gì nữa!
+  reading: ''
+  annot: Nó không chịu đi xem phim với mày tức là tiêu rồi chứ gì nữa!
+  translation_zh: 她不肯跟你去看电影，那就是已经没戏了，还能是什么！
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- phó từ
+- 体貌
+- 完成
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

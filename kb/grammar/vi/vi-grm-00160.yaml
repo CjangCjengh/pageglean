@@ -1,0 +1,38 @@
+id: vi-grm-00160
+language: vi
+type: grammar
+level: L2
+level_rank: 2
+title: để + V：为了……（目的）
+structure: 行动分句 + để + 目的动词短语
+structure_pattern: V + để + V
+explanation_zh: 「để＋动词」表示目的，相当于“为了……／……来（做某事）”，置于行动分句之后说明意图。本片段两处引用他人话语时都用「để」引出目的。
+examples:
+- text: Tao sẽ nắm bắt những tín hiệu nó phát ra để “tham mưu” cho mày.
+  reading: ''
+  annot: Tao sẽ nắm bắt những tín hiệu n
+  translation_zh: 我会抓住她发出的那些信号，好给你“当参谋”。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+- text: tìm một chỗ ẩn nấp kín đáo để quan sát "hiện trường"
+  reading: ''
+  annot: tìm một chỗ ẩn nấp kín đáo để quan sát "hiện trường"
+  translation_zh: 寻找一个隐蔽的藏身处，以便观察“现场”。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 目的
+- 连词
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

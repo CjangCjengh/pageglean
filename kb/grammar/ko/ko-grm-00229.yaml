@@ -1,0 +1,38 @@
+id: ko-grm-00229
+language: ko
+type: grammar
+level: TOPIK5
+level_rank: 5
+title: -던데 / -더군요：回想亲历之事（회상）
+structure: 用言语干 + 回想先语末词尾 '-더-' + 词尾（'-ㄴ데' / '-군요'）
+structure_pattern: V/A-던데 / -더군요
+explanation_zh: '''-더-''是学校语法中的回想先语末词尾，表示说话者回想自己过去亲历或见闻的事实。''-던데''把回想的内容作为后文的背景或依据，''-더군요''则是回想加感叹的终结形式。片段中''가져왔던데''唤起记忆并顺势引出下面的询问，''하더군요''回想并转述主人说过的话。'
+examples:
+- text: 틸프, 지난번에 마스터와 함께 다녀오면서 희귀한 전설급 무기를 많이 가져왔던데, 그중에 아다만타이트로 된 검은 없어?
+  reading: ''
+  annot: 틸프, 지난번에 마스터와 함께 다녀오면서 희귀한 전설급 무기를 많이 가져왔던데, 그중에 아다만타이트로 된 검은 없어?
+  translation_zh: 蒂尔芙，上次你和主人一起回来的时候带了不少稀有的传说级武器吧，其中有阿达曼塔特打造的剑吗？
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+- text: 에른베스크 가문 안에서도 아는 사람이 거의 없는 극비 정보라고 하더군요.
+  reading: ''
+  annot: 에른베스크 가문 안에서도 아는 사람이 거의 없는 극비 정보라고 하더군요.
+  translation_zh: （主人）说过，那是在恩贝斯克家族内部也几乎无人知晓的绝密情报。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 回想
+- 语气
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

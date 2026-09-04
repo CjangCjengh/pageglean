@@ -1,0 +1,31 @@
+id: ja-grm-00215
+language: ja
+type: grammar
+level: N3
+level_rank: 3
+title: 連用形中止法：书面叙事的中顿（中止法）
+structure: 動詞連用形（マス形去掉マス）＋読点，表示中顿
+structure_pattern: V-連用形(中止法)
+explanation_zh: 用言連用形可直接中顿或结句，称“中止法”，是「〜て」接续在书面语体中的替代形式。轻小说叙述常用它串联一连串动作，使节奏紧凑利落。口语中一般改用「〜て」形。
+examples:
+- text: 「心構えを作り、油断をしないように――」
+  reading: ''
+  annot: 「心構[こころがま]えを作[つく]り、油断[ゆだん]をしないように――」
+  translation_zh: “做好思想准备，不要大意――”
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 文体
+- 接续
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 5
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

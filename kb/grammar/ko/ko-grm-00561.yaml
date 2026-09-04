@@ -1,0 +1,39 @@
+id: ko-grm-00561
+language: ko
+type: grammar
+level: TOPIK5
+level_rank: 5
+title: -ㄹ 텐데：推测兼带转折或惋惜
+structure: 용언 + -(으)ㄹ 터 + -인데
+structure_pattern: 용언 + -(으)ㄹ 터 + -인데 (추측)
+explanation_zh: 由表推测的依存名词 터 加 이다 及连接词尾 -ㄴ데 构成，表示“想必……，不过……”。在推测的同时常含担心、惋惜或与后句对照的语感。
+examples:
+- text: 도시 사람들도 매일 보는 마술일 텐데, 매번 처음 보는 것처럼 박수를 치며 즐거워해 주더군요.
+  reading: ''
+  annot: 도시 사람들도 매일 보는 마술일 텐데, 매번 처음 보는 것처럼 박수를 치며 즐거워해 주더군요.
+  translation_zh: 城里人应该也是每天都看的魔术，可每次他们都像头一回看似的鼓掌叫好。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+- text: 굳이 먼 길을 오가면서 이것저것 퍼 나르지 않아도 될 텐데.
+  reading: ''
+  annot: 굳이 먼 길을 오가면서 이것저것 퍼 나르지 않아도 될 텐데.
+  translation_zh: 其实大可不必大老远地来回搬这些东西的。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 连接词尾
+- 推测
+- 转折
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

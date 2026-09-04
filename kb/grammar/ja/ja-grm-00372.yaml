@@ -1,0 +1,39 @@
+id: ja-grm-00372
+language: ja
+type: grammar
+level: N3
+level_rank: 3
+title: 〜とは（后续省略）：竟然……
+structure: 終止形＋引用助詞「と」＋係助詞「は」（后接心情动词被省略）
+structure_pattern: V終止形 + とは（後件省略）
+explanation_zh: 由引用助词「と」加系助词「は」构成，后续「思わなかった」等心理动词被省略，借以表达意外和惊讶，常与「まさか」搭配。本段两处均以「とは」收尾，是典型的欲言又止式感叹。中文可译为"竟然……"。
+examples:
+- text: まさかこの女がこんなにぶっ飛んだ奴だったとは。
+  reading: ''
+  annot: まさかこの女[おんな]がこんなにぶっ飛[と]んだ奴[やつ]だったとは。
+  translation_zh: 没想到这女人竟然是这么个离谱的家伙。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+- text: こんな若者がいる国を守らねばならんとは。
+  reading: ''
+  annot: こんな若者[わかもの]がいる国[くに]を守[まも]らねばならんとは。
+  translation_zh: 竟然还得保卫一个有这种年轻人存在的国家。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 语气
+- 省略
+- 口语
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

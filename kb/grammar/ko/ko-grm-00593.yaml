@@ -1,0 +1,33 @@
+id: ko-grm-00593
+language: ko
+type: grammar
+level: TOPIK6
+level_rank: 6
+title: -은커녕：别说……就连……
+structure: 체언 + 보조사 -은커녕（또는 용언 관형형 + 것은커녕）
+structure_pattern: N-은커녕
+explanation_zh: 补助词'-은커녕'彻底否定前项，强调后项连前项的程度都远远达不到，相当于"别说……就连……"。常接在体言之后，也可用于"-(으)ㄴ
+  것은커녕"。文中"무서운 기색은커녕"强调别说害怕的神色，女孩连一声哭都没有。
+examples:
+- text: 여덟 살에 ‘마왕’이라는 악의 정점에게 납치되어 놓고서도 무서운 기색은커녕 우는 소리 한 번 없던 어린 여자아이가 떠올랐다.
+  reading: ''
+  annot: 여덟 살에 ‘마왕’이라는 악의 정점에게 납치되어 놓고서도 무서운 기색은커녕 우는 소리 한 번 없던 어린 여자아이가 떠올랐다.
+  translation_zh: 我想起了那个八岁时被掳到号称“魔王”的恶之顶点手里，却别说害怕的神色、连一声哭都没有的小女孩。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 助词
+- 否定
+- 强调
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

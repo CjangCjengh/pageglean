@@ -1,0 +1,38 @@
+id: ja-grm-00143
+language: ja
+type: grammar
+level: N3
+level_rank: 3
+title: 「〜わけでもない」：并非如此（形式名词「わけ」）
+structure: 用言連体形＋という＋わけ（形式名詞）＋でもない
+structure_pattern: 普通形 + という + わけ + でもない
+explanation_zh: 形式名詞「わけ」表示事理上的结论或道理，「〜わけでもない／わけではない」委婉否定“是这么回事”，意为“并非……、倒也不是……”。片段两处使用：沉默“并非尴尬”，家人“也并非完全见不着面”。语气比直接否定柔和，留有余地。
+examples:
+- text: 気まずい、というわけでもないのに、なぜか無言の俺達。
+  reading: ''
+  annot: 気[き]まずい、というわけでもないのに、なぜか無言[むごん]の俺達[おれたち]。
+  translation_zh: 倒也并非尴尬，可不知为何我俩谁都没有开口。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+- text: 当然、全く顔を合わせないというわけではない。
+  reading: ''
+  annot: 当然[とうぜん]、全[まった]く顔[かお]を合[あ]わせないというわけではない。
+  translation_zh: 当然，也并非完全见不着面。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 形式名词
+- 语气
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

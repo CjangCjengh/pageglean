@@ -1,0 +1,31 @@
+id: ko-grm-00382
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: 「-기로 되어 있다」：既定的安排
+structure: 动词 + 명사형 어미 -기 + 부사격 조사 로 + 되어 있다
+structure_pattern: V-기로 되어 있다
+explanation_zh: -기(名词化词尾)+助词로+되어 있다，表示某事已经决定、安排或约定如此，强调客观的规定与预定而非说话人的个人意志。片段用它解释金书镇为何被派去联系失踪的作家。
+examples:
+- text: 8권부터 김서진이 담당하기로 되어 있었기 때문에 그가 총대를 메게 되었다.
+  reading: ''
+  annot: 8권부터 김서진이 담당하기로 되어 있었기 때문에 그가 총대를 메게 되었다.
+  translation_zh: 因为从第8卷起本就安排由金书镇负责，所以便由他挑起了这副担子。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 接续
+- 预定
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

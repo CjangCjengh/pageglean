@@ -1,0 +1,32 @@
+id: vi-grm-00270
+language: vi
+type: grammar
+level: L3
+level_rank: 3
+title: Trong khi…thì…：正当……（却）……
+structure: Trong khi + 分句1（时间状语），thì + 分句2（主句，含对比意味）
+structure_pattern: Trong khi + clause, thì + clause
+explanation_zh: 「Trong khi」引导时间状语分句，表示“在……的时候”，主句前用关联词「thì」承接，构成复句（câu ghép）。两个分句同时发生并形成对照：我心里紧张，嘴快的同学却已抢着告状。「thì」在此兼有承接与提示对比的作用。
+examples:
+- text: Trong khi tim tôi thót lại thì những đứa mau miệng đã tranh nhau kể tội tôi.
+  reading: ''
+  annot: Trong khi tim tôi thót lại thì những đứa mau miệng đã tranh nhau kể tội tôi.
+  translation_zh: 正当我的心揪成一团，那些嘴快的同学早已争先恐后地数落起我的过错。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 时间
+- 对比
+- 复句
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

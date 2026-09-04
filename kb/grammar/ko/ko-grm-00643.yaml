@@ -1,0 +1,40 @@
+id: ko-grm-00643
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: 피동접미사：被动法
+structure: 동사 어간 + 피동 접미사 -이/-히/-리/-기-（접미 피동법）
+structure_pattern: V-stem + -이/-히/-리/-기-
+explanation_zh: 학교문법의 피동법（被动法）：动词词干后加 '-이/-히/-리/-기-' 等피동접미사构成被动动词，如 끼우다→끼워지다、뜯다→뜯기다、듣다→들리다。韩语多用这种短形被动，翻译时未必出现“被”字，如
+  '끼워져 있었다' 可译作“嵌着”。
+examples:
+- text: 깨진 액자 안에는 헬로이스 영주의 가족화가 끼워져 있었다.
+  reading: ''
+  annot: 깨진 액자 안에는 헬로이스 영주의 가족화가 끼워져 있었다.
+  translation_zh: 破碎的相框里，嵌着赫洛伊斯领主的家族画。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+- text: 사지가 사방으로 뜯겨 나가며 자리에 주저앉았다.
+  reading: ''
+  annot: 사지가 사방으로 뜯겨 나가며 자리에 주저앉았다.
+  translation_zh: 四肢被撕扯向四面八方，瘫坐在了地上。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 피동법
+- 접미사
+- 파생
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 0
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

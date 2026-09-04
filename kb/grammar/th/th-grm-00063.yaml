@@ -1,0 +1,38 @@
+id: th-grm-00063
+language: th
+type: grammar
+level: L2
+level_rank: 2
+title: …ไหม：句末疑问助词「……吗／……知道吗」
+structure: ประโยคบอกเล่า + ไหม (คำคำถามท้ายประโยค / คำเสริม)
+structure_pattern: Clause + ไหม
+explanation_zh: ไหม是句末疑问助词（คำเสริมคำถาม），附加在陈述句后构成征询对方确认或认同的反问，相当于中文「……吗／……知道吗」。语篇中常用เชื่อไหม「你信吗」、รู้ไหม「你知道吗」等固定附加问，常与语气词นะ连用，带有提醒、强调的语气。
+examples:
+- text: พ่อ​กับ​แม่​ฉัน​โกรธ​มาก​เลย​นะ​เชื่อ​ไหม
+  reading: ''
+  annot: พ่อ​กับ​แม่​ฉัน​โกรธ​มาก​เลย​นะ​เชื่อ​ไหม
+  translation_zh: 我父母当时气坏了，你信吗。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+- text: ตอนนั้น​หนูดา​ร้องไห้​อย่าง​หนัก​แถม​เศร้า​ไป​เป็น​เดือน​เลย​นะ​รู้​ไหม
+  reading: ''
+  annot: ตอนนั้น​หนูดา​ร้องไห้​อย่าง​หนัก​แถม​เศร้า​ไป​เป็น​เดือน​เลย​นะ​รู้​ไหม
+  translation_zh: 那时候หนูดา哭得很厉害，还消沉了好几个月呢，你知道吗。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 疑问结构
+- 句末助词
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

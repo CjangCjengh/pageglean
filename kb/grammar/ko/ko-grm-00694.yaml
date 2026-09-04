@@ -1,0 +1,32 @@
+id: ko-grm-00694
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: -(으)면서(도)：明明……却……
+structure: 动词词干 + -(으)면서(도)
+structure_pattern: V-(으)면서(도)
+explanation_zh: -(으)면서本义是「一边……一边……」，也可表示转折「虽然……却……」；加补助词도后让步语气更强，相当于「明明……却……」。「살아
+  있으면서도」即「明明还活着，却……」，强调活着与沦为傀儡之间的反差。注意该转折用法一般只接动词。
+examples:
+- text: 살아 있으면서도 악마의 훌륭한 꼭두각시가 되어서 말이다.
+  reading: ''
+  annot: 살아 있으면서도 악마의 훌륭한 꼭두각시가 되어서 말이다.
+  translation_zh: 明明还活着，却成了恶魔手下出色的傀儡。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 连接词尾
+- 让步
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

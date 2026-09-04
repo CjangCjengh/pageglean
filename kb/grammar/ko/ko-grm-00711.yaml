@@ -1,0 +1,38 @@
+id: ko-grm-00711
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: 「回想定语'-던 / -았/었던'」
+structure: 用言 + 회상 선어말어미『-더-』+ 관형사형 전성어미『-ㄴ』（-던 / -았/었던）+ 名词
+structure_pattern: V/A-던 / V/A-았/었던 + N
+explanation_zh: 回想先语末词尾『-더-』与冠形词形转成词尾『-ㄴ』结合构成『-던』，追忆过去未完成或持续的状态；与『-았/었-』结合的『-았/었던』则追忆过去已结束的事实。两者作定语修饰名词，是小说回忆叙述中的高频手段。
+examples:
+- text: 침실 문을 닫은 순간, 창가에 기대어 서 있던 그림자가 내게 말을 걸어왔다.
+  reading: ''
+  annot: 침실 문을 닫은 순간, 창가에 기대어 서 있던 그림자가 내게 말을 걸어왔다.
+  translation_zh: 关上卧室门的瞬间，倚靠在窗边的一个影子向我搭话了。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+- text: 사방에 흩어졌던 그 농밀한 마력은, 까마귀의 것이 아니라 시나의 것이라는 걸 말이다.
+  reading: ''
+  annot: 사방에 흩어졌던 그 농밀한 마력은, 까마귀의 것이 아니라 시나의 것이라는 걸 말이다.
+  translation_zh: 当时弥漫四散的那股浓密魔力，并非来自乌鸦，而是来自诗娜。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 时制
+- 定语
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

@@ -1,0 +1,32 @@
+id: ko-grm-00288
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: 「-(으)ㄴ/는 편이 낫다」：依存名词 편 表比较择优
+structure: 用言词干 + 冠形词形转成词尾 -(으)ㄴ/는 + 依存名词 편 + 주격조사 이 + 낫다
+structure_pattern: V/A-(으)ㄴ/는 + 편이 + 낫다
+explanation_zh: 依存名词 편 表示『…的一方/做法』，与 낫다（更好）搭配，构成『做…更好/更妥当』的比较选择结构。片段中人物借此权衡两种做法的优劣。
+examples:
+- text: 제대로 된 치료를 받게 하는 편이 낫다.
+  reading: ''
+  annot: 제대로 된 치료를 받게 하는 편이 낫다.
+  translation_zh: 让她接受正规治疗更好。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 比较/选择
+- 依存名词
+- 转成词尾
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

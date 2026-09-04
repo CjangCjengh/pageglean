@@ -1,0 +1,32 @@
+id: vi-grm-00416
+language: vi
+type: grammar
+level: L2
+level_rank: 2
+title: nếu…：假设条件句「如果」
+structure: nếu + 从句，（thì）+ 主句
+structure_pattern: nếu + clause, (thì) + clause（条件复句）
+explanation_zh: nếu 引导假设从句，表「如果」，主句的关联词 thì 可省略。此处用假设语气表达男孩的幻想：若小丽回来，绝不会让他受欺负。常与 không
+  bao giờ（从不）等搭配。
+examples:
+- text: nếu Tiểu Li về thật, không bao giờ nó để cho Lợi sứt "làm chả" tôi
+  reading: ''
+  annot: nếu Tiểu Li về thật, không bao giờ nó để cho Lợi sứt "làm chả" tôi
+  translation_zh: 如果小丽真的回来，她绝不会让阿缺把我“做成肉饼”（欺负我）
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 条件
+- 复句
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

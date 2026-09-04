@@ -1,0 +1,31 @@
+id: ja-grm-00414
+language: ja
+type: grammar
+level: N2
+level_rank: 4
+title: 〜からこそ：强调原因
+structure: 理由句（名词・形容动词词干 + だから）+ こそ
+structure_pattern: 〜だから + こそ
+explanation_zh: 系助词こそ强调前面的原因，〜からこそ意为「正因为……才……」。片段中「通用しないからこそ不良なのだ」强调：正因为讲道理行不通，所以才叫不良少年。语气比单纯ので／から更强烈。
+examples:
+- text: そんなもんが通用しないからこそ不良なのだ。
+  reading: ''
+  annot: そんなもんが通用[つうよう]しないからこそ不良[ふりょう]なのだ。
+  translation_zh: 正因为那一套对他们行不通，人家才叫不良少年。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 助词
+- 原因
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

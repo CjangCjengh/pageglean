@@ -1,0 +1,32 @@
+id: ko-grm-00577
+language: ko
+type: grammar
+level: TOPIK5
+level_rank: 5
+title: -기는커녕：别说……就连……
+structure: 用言词干 + -기는커녕
+structure_pattern: V-기（명사형 전성어미）+ 보조조사 '는' + 보조조사 '커녕'
+explanation_zh: '''-기는커녕'' 表示前项不仅没有实现，反而出现了与之相反的情况，意为『别说……就连……』。本段用『겁먹기는커녕』强调她非但不可怕，反倒兴致勃勃，构成强烈的反转对比。'
+examples:
+- text: 키이리는 ‘아이, 무서워!’ 하며 내 팔에 꼬옥 매달렸지만, 표정은 겁먹기는커녕 잔뜩 들떠 보였다.
+  reading: ''
+  annot: 키이리는 ‘아이, 무서워!’ 하며 내 팔에 꼬옥 매달렸지만, 표정은 겁먹기는커녕 잔뜩 들떠 보였다.
+  translation_zh: 绮绮一边说着『哎呀，好可怕！』一边紧紧抱住我的胳膊，可她的表情别说害怕了，反而显得兴奋极了。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 反转对比
+- 递进否定
+- 连接结构
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

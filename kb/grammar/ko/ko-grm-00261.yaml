@@ -1,0 +1,34 @@
+id: ko-grm-00261
+language: ko
+type: grammar
+level: TOPIK6
+level_rank: 6
+title: -(으)ㄹ 텐데：本应该……却……
+structure: 动词词干 + -(으)ㄹ 터（依存名词 터 表推测）+ -ㄴ데（背景·转折连接词尾）
+structure_pattern: V-어간 + -(으)ㄹ 터 + -ㄴ데
+explanation_zh: 由表示推测的依存名词 터 与表示背景·转折的连接词尾 -ㄴ데 结合而成，对已然事实作推测并引出与之相反的意外结果，相当于“本应该……却……”。带有说话人的意外语气，属高阶表达。片段中用于推测敌将得以幸存的原因。
+examples:
+- text: 성궤검의 빛을 정면에서 받았을 텐데 목숨을 부지하고 있다는 건, 에픽 아이템급은 아니어도 최고급의 방어 마법이 상시 발동되어 있는 방어구를
+    장비하고 있었다는 의미다.
+  reading: ''
+  annot: 성궤검의 빛을 정면에서 받았을 텐데 목숨을 부지하고 있다는 건, 에픽 아이템급은 아니어도 최고급의 방어 마법이 상시 발동되어 있는
+    방어구를 장비하고 있었다는 의미다.
+  translation_zh: 明明正面承受了圣柜之剑的光芒却仍保住了性命，这意味着即使达不到史诗级装备的水准，也是装备着常驻发动最高级防御魔法的防具。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 依存名词
+- 推测
+- 转折
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

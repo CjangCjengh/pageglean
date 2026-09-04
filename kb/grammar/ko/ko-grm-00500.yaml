@@ -1,0 +1,38 @@
+id: ko-grm-00500
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: -잖다：明明……（提醒与反驳）
+structure: 용언 어간 + 종결어미 -잖다 (-지 않다의 준말)
+structure_pattern: V/A-잖다
+explanation_zh: 终结词尾-잖다是-지 않다的缩略，用于提醒对方已知或理应知道的事实，带有确认、反驳、埋怨的语气。属口语平语（반말），不能对长辈使用。本段连用三次，强化说话人的愤愤不平。
+examples:
+- text: 독한 소리 아무렇지도 않게 했잖아?!
+  reading: ''
+  annot: 독한 소리 아무렇지도 않게 했잖아?!
+  translation_zh: 你不是毫不在意地说过那些狠话吗？！
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+- text: 나한테 자살 명소 같은 거 추천했잖아?!
+  reading: ''
+  annot: 나한테 자살 명소 같은 거 추천했잖아?!
+  translation_zh: 你还向我推荐过什么自杀名胜地之类的啊？！
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 语气
+- 终结词尾
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 4
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

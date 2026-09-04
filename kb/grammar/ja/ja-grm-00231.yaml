@@ -1,0 +1,38 @@
+id: ja-grm-00231
+language: ja
+type: grammar
+level: N3
+level_rank: 3
+title: 助動詞「らしい」：有根据的推断
+structure: 用言終止形＋らしい（推定の助動詞）
+structure_pattern: 用言-終止形 + らしい
+explanation_zh: 推量助动词「らしい」接用言终止形，表示依据一定根据作出推断，“看来／似乎”。它带有说话人梳理依据后下判断的语气，轻小说中常用于通过观察总结人物规律或推断眼前状况。
+examples:
+- text: 不意打ちで一定以上のダメージを受けると、いつも以上に素っ気なくなるらしい。
+  reading: ''
+  annot: 不意打[ふいう]ちで一定[いってい]以上[いじょう]のダメージを受[う]けると、いつも以上[いじょう]に素[す]っ気[け]なくなるらしい。
+  translation_zh: 看来一旦遭到出其不意的重击，（她）就会比平时更加冷淡。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+- text: どうやら少しサイズが大きいらしく、手が少し隠れているのも萌えポイントか。
+  reading: ''
+  annot: どうやら少[すこ]しサイズが大[おお]きいらしく、手[て]が少[すこ]し隠[かく]れているのも萌[も]えポイントか。
+  translation_zh: 看来尺码似乎有点大，手被遮住一截的样子也算萌点吧。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 助動詞
+- 推量
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

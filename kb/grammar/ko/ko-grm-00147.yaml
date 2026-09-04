@@ -1,0 +1,32 @@
+id: ko-grm-00147
+language: ko
+type: grammar
+level: TOPIK2
+level_rank: 2
+title: -(으)면서(도)：同时与转折
+structure: 动词词干 + -(으)면서（도 加强转折）
+structure_pattern: 동사 어간 + 연결어미 -(으)면서 + 보조조사 '도'
+explanation_zh: 连接词尾，表示两个动作同时进行；加助词 도 后转折语气增强，意为“一边……却又……”。片段借它刻画少女嘴上抱怨、实则尊重哥哥的性格。
+examples:
+- text: 그럴 때마다 소녀는 투덜거리면서도 소년의 의사를 존중해 줬지만, 어느 날 결국 더 이상 참을 수 없게 되었다.
+  reading: ''
+  annot: 그럴 때마다 소녀는 투덜거리면서도 소년의 의사를 존중해 줬지만, 어느 날 결국 더 이상 참을 수 없게 되었다.
+  translation_zh: 每当这时，少女虽然嘟囔着抱怨，却还是尊重少年的意愿，但终于有一天再也忍不住了。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 连接词尾
+- 转折
+- 同时
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

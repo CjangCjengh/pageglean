@@ -1,0 +1,34 @@
+id: vi-grm-00220
+language: vi
+type: grammar
+level: L3
+level_rank: 3
+title: 强调感叹式：Adj + ơi là + Adj
+structure: 形容词 + ơi là + 形容词（程度极高的感叹）
+structure_pattern: Adj + ơi là + Adj
+explanation_zh: 「Adj + ơi là + Adj」是口语感叹强调式：重复形容词并插入「ơi là」，把程度推到极点，相当于汉语“……死了、真叫一个……”。多用于带感情色彩的倾诉或抱怨，正式文体一般不用。
+examples:
+- text: Vì giận Tiểu Li tôi phải chơi với nó chứ thú thật đi chung với nó chán ơi
+    là chán.
+  reading: ''
+  annot: Vì giận Tiểu Li tôi phải chơi với nó chứ thú thật đi chung với nó chán ơi
+    là chán.
+  translation_zh: 因为生小黎的气我才不得不跟他玩，说实话跟他一起走真是无聊死了。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 感叹
+- 强调
+- 口语
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

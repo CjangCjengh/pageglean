@@ -1,0 +1,32 @@
+id: vi-grm-00134
+language: vi
+type: grammar
+level: L2
+level_rank: 2
+title: V đi V lại：动作反复进行
+structure: V + đi + V + lại
+structure_pattern: V + đi + V + lại
+explanation_zh: 同一动词以「V đi V lại」的形式重叠使用，表示动作一遍遍地反复进行，相当于中文「翻来覆去地……」「一遍遍地……」。常与「hai
+  ba lần」等次数短语呼应。
+examples:
+- text: Tôi mở mắt thao láo, miệng nhắc đi nhắc lại hai ba lần, Tiểu Li vẫn im re.
+  reading: ''
+  annot: Tôi mở mắt thao láo, miệng nhắc đi nhắc lại hai ba lần, Tiểu Li vẫn im re.
+  translation_zh: 我睁大眼睛，嘴里翻来覆去念叨了两三遍，小丽还是一声不吭。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 构式
+- 体貌
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

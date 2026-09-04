@@ -1,0 +1,32 @@
+id: ko-grm-00391
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: 「-ㄹ 테니까」：以推测为理由
+structure: 用言词干 + 의존명사 터（推测·意志） + 이다 + 연결어미 -니까
+structure_pattern: V/A- + -(으)ㄹ 테니까(요)
+explanation_zh: 依存名词'터'表推测或意志，后接'이다'与原因连接词尾'-니까'缩合，以说话人的推断作为理由，意为'既然是会……的，所以……'。常用于解释对方已知或显而易见的事情，语气比直陈更委婉。
+examples:
+- text: 그리고 다른 여자와의 잠자리를 거리낌 없이 얘기해 주는 남자라면, 저하고의 잠자리도 함부로 떠들고 다닐 테니까요.
+  reading: ''
+  annot: 그리고 다른 여자와의 잠자리를 거리낌 없이 얘기해 주는 남자라면, 저하고의 잠자리도 함부로 떠들고 다닐 테니까요.
+  translation_zh: 再说，如果是那种会毫无顾忌地讲述与其他女人床事的男人，想必也会到处乱讲和我的事吧。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 依存名词
+- 原因/理由
+- 推测
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

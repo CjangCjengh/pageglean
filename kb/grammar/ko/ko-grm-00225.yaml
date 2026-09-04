@@ -1,0 +1,40 @@
+id: ko-grm-00225
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: -다는 듯이：仿佛……一般
+structure: 용언 '-(ㄴ/는)다는' + 의존명사 '듯(이)' (비교·추측)
+structure_pattern: V/A-(ㄴ/는)다는 + 듯이
+explanation_zh: 依存名词듯意为“像……那样”，受定语形词尾-(ㄴ/는)다는修饰，构成'-다는 듯이'，表示比喻或推测，“仿佛……似的”。与-듯、-듯이通用。本段用“당연하다는
+  듯이”“질린다는 듯이”细腻刻画人物神态。
+examples:
+- text: 그저 담담하게, 당연하다는 듯이 받아들일 뿐이었다.
+  reading: ''
+  annot: 그저 담담하게, 당연하다는 듯이 받아들일 뿐이었다.
+  translation_zh: 只是平静地、仿佛理所当然一般接受了。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+- text: 틸프가 질린다는 듯이 고개를 좌우로 흔들었다.
+  reading: ''
+  annot: 틸프가 질린다는 듯이 고개를 좌우로 흔들었다.
+  translation_zh: 蒂尔普一副受够了的样子，左右摇了摇头。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 样态/比喻
+- 依存名词
+- 接续
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

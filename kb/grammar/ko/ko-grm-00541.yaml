@@ -1,0 +1,40 @@
+id: ko-grm-00541
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: -(으)ㄹ 리가 없다：哪会……/不可能……
+structure: 用言词干 + 관형사형 어미 '-(으)ㄹ' + 의존명사 '리' + 주격 조사 '가' + '없다'
+structure_pattern: V/A-(으)ㄹ + 리가 없다
+explanation_zh: 依存名词 리 指“道理、可能性”，与 없다 搭配表示“没有……的道理”，强烈否定某种可能性，相当于中文“哪会……”“不可能……”。过去时用
+  -았/었을 리가 없다，口语中常用反问形 리가 없잖아 加强语气。
+examples:
+- text: 싸웠을 리가요! 마왕 녀석과 저는 아주, 완벽하게 잘 지내고 있습니다!
+  reading: ''
+  annot: 싸웠을 리가요! 마왕 녀석과 저는 아주, 완벽하게 잘 지내고 있습니다!
+  translation_zh: 哪会吵架啊！我和魔王这家伙相处得非常、非常完美！
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+- text: 가로랑 내가 위험하게 죽이네 살리네 하며 싸울 리가 없잖아?!
+  reading: ''
+  annot: 가로랑 내가 위험하게 죽이네 살리네 하며 싸울 리가 없잖아?!
+  translation_zh: 我和加罗哪会打打杀杀、危险地吵架啊？！
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 依存名词
+- 否定
+- 推测
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

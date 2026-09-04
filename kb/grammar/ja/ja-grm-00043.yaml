@@ -1,0 +1,31 @@
+id: ja-grm-00043
+language: ja
+type: grammar
+level: N3
+level_rank: 3
+title: 〜ながらも：虽然…却仍…
+structure: V连用形 + ながらも
+structure_pattern: V-ます形(去ます) + ながらも
+explanation_zh: 「动词连用形＋ながらも」意为“虽然一边…一边却…”，前后项含逆接关系，比单纯的「〜ながら」更强调转折。本段中该句原文出现了两次，是贯穿场景的主题句。
+examples:
+- text: 俺は後ろ髪を引かれる想いをしながらも、その場を後にする。
+  reading: おれはうしろがみをひかれるおもいをしながらも、そのばをあとにする。
+  annot: 俺は後ろ髪[がみ]を引かれる想[おも]いをしながらも、その場を後にする。
+  translation_zh: 我虽然依依不舍，还是离开了那里。
+  source_book: book-ja-001
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 接续
+- 逆接
+provenance:
+  discovered_in: book-ja-001
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

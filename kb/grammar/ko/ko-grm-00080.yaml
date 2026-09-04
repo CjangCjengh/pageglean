@@ -1,0 +1,38 @@
+id: ko-grm-00080
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: -(느)ㄴ다고 하다：间接引用与-는다는定语化
+structure: 동사 어간 + -(느)ㄴ다고 하다；관형사형 전성 어미 -(느)ㄴ다는 + 명사（간접 인용）
+structure_pattern: V-(느)ㄴ다고 하다
+explanation_zh: 间接引用（转述）结构：动词用-(느)ㄴ다고 하다，过去时用-았/었다고 하다。置于名词前时缩略为-(느)ㄴ다는，表示“据说……的／传闻中……的”。片段中用于转述关于怪物的传说与情报。
+examples:
+- text: 데우미나스는 최소 백만 명의 고대인을 언데드 몬스터로 만들었다는 전설적인 리치다.
+  reading: ''
+  annot: 데우미나스는 최소 백만 명의 고대인을 언데드 몬스터로 만들었다는 전설적인 리치다.
+  translation_zh: 德乌米纳斯是据传将至少一百万名古代人变成亡灵怪物的传说级巫妖。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+- text: 자신의 후계자에 걸맞은 존재인지 확인하기 위해 9가지 종류의 시험을 한다고 해.
+  reading: ''
+  annot: 자신의 후계자에 걸맞은 존재인지 확인하기 위해 9가지 종류의 시험을 한다고 해.
+  translation_zh: 据说为了确认对方是否配得上做他的继承者，会进行九种考试。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 引用
+- 定语形
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 7
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

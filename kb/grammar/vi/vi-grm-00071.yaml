@@ -1,0 +1,39 @@
+id: vi-grm-00071
+language: vi
+type: grammar
+level: L2
+level_rank: 2
+title: 量词（loại từ）：con、cái、cuốn、cây、tụi
+structure: 数词/指示词 + 量词（loại từ）+ 名词（danh từ）
+structure_pattern: Num/Dem + CL + N
+explanation_zh: 越南语名词在计量或指称时必须加量词（分类词）。动物用 con（con chim 鸟），一般器物用 cái（cái ná 弹弓），书用
+  cuốn，细长物用 cây（cây kẹo 一颗糖）。tụi 表群体复数，相当于「们／那帮」（tụi chim 那些鸟）。
+examples:
+- text: Nhưng suốt ba ngày liên tiếp, tôi không bắn được con chim nào.
+  reading: ''
+  annot: Nhưng suốt ba ngày liên tiếp, tôi không bắn được con chim nào.
+  translation_zh: 可是接连三天，我一只鸟也没打到。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+- text: Nó thò tay vào cặp lấy ra một cây kẹo đưa tôi
+  reading: ''
+  annot: Nó thò tay vào cặp lấy ra một cây kẹo đưa tôi
+  translation_zh: 她把手伸进书包，掏出一颗糖递给我。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 量词
+- 名词短语
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 10
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

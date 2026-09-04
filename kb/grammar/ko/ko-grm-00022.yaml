@@ -1,0 +1,32 @@
+id: ko-grm-00022
+language: ko
+type: grammar
+level: TOPIK2
+level_rank: 2
+title: -(으)시-与-(으)ㅂ니다：敬语阶位
+structure: 谓词词干 + -(으)시-（主体尊敬先语末词尾）+ -(으)ㅂ니다（格式体终结词尾）
+structure_pattern: V/A + -(으)시- + -(으)ㅂ니다 (주체높임 + 격식체)
+explanation_zh: 先语末词尾 -(으)시- 表示对动作主体（主语）的尊敬，如 드시다（들다 + -(으)시-）；终结词尾 -(으)ㅂ니다 属格式体（正式恭敬阶）。仆人露西全程用此阶位说话，与主人公的非敬语独白形成对比，体现主仆身份差异。
+examples:
+- text: 준비가 끝났습니다. 슬슬 침소에 드시는 게 좋겠습니다.
+  reading: ''
+  annot: 준비가 끝났습니다. 슬슬 침소에 드시는 게 좋겠습니다.
+  translation_zh: 一切已经准备就绪。您差不多该安歇了。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 높임법
+- 종결어미
+- 경어
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 8
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

@@ -1,0 +1,31 @@
+id: ja-grm-00226
+language: ja
+type: grammar
+level: N3
+level_rank: 3
+title: 〜はずがない：不可能……
+structure: 连体修饰语 + 形式名词「はず」+ 主格助词「が」+ 形容词「ない」
+structure_pattern: 普通形（連体形） + はずがない
+explanation_zh: 形式名词「はず」表示按常理应有的预期，「はずがない」将其完全否定，意为“不可能……”。语气比「ないと思う」强硬得多，表达说话人坚定的判断。此处是男主坚信自己的藏匿地点绝不可能暴露。
+examples:
+- text: い、いや大丈夫だ。あそこがバレているはずが無い……!!
+  reading: ''
+  annot: い、いや大丈夫[だいじょうぶ]だ。あそこがバレているはずが無[な]い……!!
+  translation_zh: 不、不对，没事的。那个地方不可能已经暴露……!!
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 语气
+- 形式名词
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

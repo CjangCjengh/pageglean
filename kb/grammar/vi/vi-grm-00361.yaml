@@ -1,0 +1,38 @@
+id: vi-grm-00361
+language: vi
+type: grammar
+level: L1
+level_rank: 1
+title: 疑问语气词 không / hả / hén：一般疑问与求证
+structure: 陈述句 + không? / hả? / hén?
+structure_pattern: S + V/O + không / hả / hén?
+explanation_zh: 越南语一般疑问句常在句末加 không，相当于汉语的「吗」。hả 用于口语中的追问、求证或表示惊讶，语气更随意。hén 则带有征询对方认同的意味，相当于「……对吧」。
+examples:
+- text: Thật không?
+  reading: ''
+  annot: Thật không?
+  translation_zh: 真的吗？
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+- text: Hoa cúc trước sân nhà mày đó hả?
+  reading: ''
+  annot: Hoa cúc trước sân nhà mày đó hả?
+  translation_zh: 是你家院子前面的那种菊花吗？
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 疑问
+- 语气词
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 6
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

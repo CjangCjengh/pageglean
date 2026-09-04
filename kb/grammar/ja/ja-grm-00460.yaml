@@ -1,0 +1,32 @@
+id: ja-grm-00460
+language: ja
+type: grammar
+level: N2
+level_rank: 4
+title: 〜やしない：强调否定（根本不会…）
+structure: 動詞連用形 ＋ やしない（＝はしない）
+structure_pattern: V-連用形 + や(=は) + しない
+explanation_zh: 「やしない」是「はしない」的口语音便：动词连用形＋係助詞「は」（口语作「や」）＋「しない」，构成强烈的否定。 「できやしない」即「できはしない」，意为“根本做不到”。本句与「しか」呼应，强调“除了道歉什么也做不了”的自责与无力。
+examples:
+- text: だから俺は、謝ることしかできやしない。
+  reading: ''
+  annot: だから俺[おれ]は、謝[あやま]ることしかできやしない。
+  translation_zh: 所以我根本什么都做不了，只能道歉。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 否定
+- 语气
+- 口语
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

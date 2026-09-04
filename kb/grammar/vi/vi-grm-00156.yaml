@@ -1,0 +1,31 @@
+id: vi-grm-00156
+language: vi
+type: grammar
+level: L3
+level_rank: 3
+title: chẳng khác gì：跟……没什么两样
+structure: A + chẳng khác gì + B
+structure_pattern: A + chẳng khác gì + B
+explanation_zh: 「chẳng khác gì」意为“跟……没什么两样、无异于”，用于比喻性比较。「chẳng」是「không」的强调形式，带有书面或感叹语气。
+examples:
+- text: Tự ái trong tình yêu chẳng khác gì vụ lợi trong tình bạn!
+  reading: ''
+  annot: Tự ái trong tình yêu chẳng khác gì vụ lợi trong tình bạn!
+  translation_zh: 爱情里的虚荣和友情里的功利没什么两样！
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 比较
+- 修辞
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

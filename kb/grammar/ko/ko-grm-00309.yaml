@@ -1,0 +1,38 @@
+id: ko-grm-00309
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: -(으)ㄴ다면：假设条件
+structure: 动词冠形形 -(으)ㄴ + 다면（形容词用 -다면）
+structure_pattern: V-(으)ㄴ다면 / A-다면
+explanation_zh: 由引用形‘-ㄴ다고’加假设连接词尾‘-면’构成，表示假设性条件，相当于“如果……的话”。与一般的‘-면’相比，假设、推论的意味更强，常用于根据某种情况推测结果。形容词、体言则分别用‘-다면’‘-(이)라면’。
+examples:
+- text: 카이트의 시체와 함께 있는 광경을 본다면 그녀가 황족이라는 것쯤은 쉽게 알아챌 것이다.
+  reading: ''
+  annot: 카이트의 시체와 함께 있는 광경을 본다면 그녀가 황족이라는 것쯤은 쉽게 알아챌 것이다.
+  translation_zh: 如果看到她和凯特的尸体在一起的情景，她是皇族这种事应该很容易被察觉。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+- text: 이 세레나데가 내가 창조한 세레나데가 맞다면 이런 상황에서 불확실한 얘기를 하지는 않는다.
+  reading: ''
+  annot: 이 세레나데가 내가 창조한 세레나데가 맞다면 이런 상황에서 불확실한 얘기를 하지는 않는다.
+  translation_zh: 如果这个塞蕾娜德真是我所创造的那个塞蕾娜德，在这种处境下就不会说没把握的话。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 接续
+- 假设
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

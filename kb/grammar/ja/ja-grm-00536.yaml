@@ -1,0 +1,39 @@
+id: ja-grm-00536
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 助動詞「れる・られる」：受身与自发
+structure: 動詞未然形＋助動詞「れる・られる」（受身・尊敬・可能・自发四用法）
+structure_pattern: V未然形 + れる/られる(助動詞)
+explanation_zh: 「れる・られる」在学校文法中是助动词，接动词未然形，有受身、尊敬、可能、自发四种用法。片段中「呼ばれる」是受身用法；「感じられる」是自发用法，表示某种感受自然浮现。需结合语境判别具体义项。
+examples:
+- text: 二度と「お母さん」と呼ばれることがないことを。
+  reading: ''
+  annot: 二度[にど]と「お母[かあ]さん」と呼[よ]ばれることがないことを。
+  translation_zh: （意识到）她再也不会被人唤作“妈妈”了。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+- text: 細い鼻筋と、力のこめられた眉からは芯の強さが感じられる。
+  reading: ''
+  annot: 細[ほそ]い鼻筋[はなすじ]と、力[ちから]のこめられた眉[まゆ]からは芯[しん]の強[つよ]さが感[かん]じられる。
+  translation_zh: 从纤细的鼻梁和凝力的双眉间，能感受到一股坚韧的气质。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 助動詞
+- 受身
+- 自发
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 4
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

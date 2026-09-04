@@ -1,0 +1,38 @@
+id: th-grm-00062
+language: th
+type: grammar
+level: L4
+level_rank: 4
+title: เกิด + V：「碰巧、竟然（发生）」
+structure: เกิด (กริยาวิเศษณ์) + กริยาหลัก — เหตุการณ์ที่เกิดขึ้นโดยไม่คาดคิด
+structure_pattern: เกิด + V
+explanation_zh: 此处的เกิด不是实义动词「出生」，而是作副词（กริยาวิเศษณ์）置于其他动词前，表示「碰巧、竟然发生～」，强调出乎意料的事发生。片段中เกิดป่วยขึ้นมา（忽然病倒）、เกิดประสบอุบัติเหตุ（竟遭遇车祸）均用此法。口语色彩强，叙事中很常用。
+examples:
+- text: แต่​บังเอิญ​หนูดา​เกิด​ป่วย​ขึ้น​มา
+  reading: ''
+  annot: แต่​บังเอิญ​หนูดา​เกิด​ป่วย​ขึ้น​มา
+  translation_zh: 可偏偏หนูดา突然病倒了。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+- text: รถยนต์​ของ​คุณพ่อ​กับ​คุณแม่​เกิด​ประสบ​อุบัติเหตุ
+  reading: ''
+  annot: รถยนต์​ของ​คุณพ่อ​กับ​คุณแม่​เกิด​ประสบ​อุบัติเหตุ
+  translation_zh: 爸爸妈妈的车竟遭遇了事故。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 副词
+- 意外语气
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

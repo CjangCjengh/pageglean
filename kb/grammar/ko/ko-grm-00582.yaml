@@ -1,0 +1,39 @@
+id: ko-grm-00582
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: 「-(으)면서」：同时进行——一边……一边……
+structure: 用言（动词）词干 + -(으)면서（연결어미/连接词尾）
+structure_pattern: V-(으)면서
+explanation_zh: -(으)면서是接在用言词干后的连接词尾，表示两个动作或状态同时进行，相当于“一边……一边……”。与助词까지结合为“-면서까지”，强调“甚至到了……的地步”。片段中用于描写伴随动作与让步语气。
+examples:
+- text: 마왕이랑 싸우고 논쟁하면서까지 지켜야 할 정도로 소중한 건 아니잖아, 저거.
+  reading: ''
+  annot: 마왕이랑 싸우고 논쟁하면서까지 지켜야 할 정도로 소중한 건 아니잖아, 저거.
+  translation_zh: 就算要跟魔王又打又吵也非要守着——那东西又没宝贵到这种地步啊。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+- text: 사람 많은 거리를 걸으면서 불안해하지 않게 된 것도
+  reading: ''
+  annot: 사람 많은 거리를 걸으면서 불안해하지 않게 된 것도
+  translation_zh: 就连走在人来人往的街头也不再感到不安……
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 连接词尾
+- 同时
+- 让步
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

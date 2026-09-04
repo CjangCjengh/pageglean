@@ -1,0 +1,32 @@
+id: ko-grm-00551
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: 「-아/어 놓다：做完后状态留存」
+structure: 용언 어간 + 연결어미 '-아/어' + 보조동사 '놓다'
+structure_pattern: V-아/어 + 놓다 (보조동사)
+explanation_zh: 补助动词 '놓다' 接在连接词尾 '-아/어' 后，表示前一动作完成后其结果状态持续保留，相当于汉语“……好、……在那儿”。与只强调完成的
+  '-아/어 버리다' 相比，'-아/어 놓다' 更突出结果状态的存续。
+examples:
+- text: 주인을 저렇게 남에게 덥석 맡겨 놓고 여기서 놀고 있어도 되는 거야?
+  reading: ''
+  annot: 주인을 저렇게 남에게 덥석 맡겨 놓고 여기서 놀고 있어도 되는 거야?
+  translation_zh: 把主人那么随随便便地交给别人，自己在这儿玩也没关系吗？
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 补助动词
+- 结果状态
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

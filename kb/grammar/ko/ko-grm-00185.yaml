@@ -1,0 +1,32 @@
+id: ko-grm-00185
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: -고 계시다：敬语体的进行与持续
+structure: 动词词干 + -고 계시- + 词尾
+structure_pattern: 'V + -고 계시- (보조 용언 구성: -고 있다의 높임)'
+explanation_zh: -고 있다表示动作正在进行或状态持续，当主体是需要尊敬的对象时，있다要换成其敬语形式계시다，构成-고 계시다。片段中「감추고 계셨습니까」即“（主人）一直把他藏着吗”。对应中文的“正在……／一直……着”。
+examples:
+- text: 정말로 주인님이 감추고 계셨습니까?
+  reading: ''
+  annot: 정말로 주인님이 감추고 계셨습니까?
+  translation_zh: 真的是主人把他藏起来的吗？
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 보조 용언
+- 경어법
+- 시제
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

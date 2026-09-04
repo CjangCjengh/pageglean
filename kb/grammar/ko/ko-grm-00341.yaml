@@ -1,0 +1,33 @@
+id: ko-grm-00341
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: -기 위해서：为了……（目的）
+structure: 动词 + 명사형 어미 '-기' + 의존명사 '위(서)'
+structure_pattern: V-기 + 위해서
+explanation_zh: 动词后接名词化词尾'-기'，再与의존명사위(서)搭配表示目的，相当于中文的"为了……"。语气比'-려고'更正式，常见于书面语与演说。名词则直接以'명사+를
+  위해서'形式使用。
+examples:
+- text: 클라우 에른베스크의 마수(魔手)에서 지키기 위해 암약하고 계셨소!
+  reading: ''
+  annot: 클라우 에른베스크의 마수(魔手)에서 지키기 위해 암약하고 계셨소!
+  translation_zh: 为了从克劳·恩贝斯克的魔爪中守护（殿下）而一直暗中活动着！
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 目的
+- 依存名词
+- 名词化
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

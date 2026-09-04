@@ -1,0 +1,38 @@
+id: ko-grm-00321
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: -아/어야만 하다：强烈的义务
+structure: 연결어미 '-아/어야' + 보조사 '만' + 보조 동사 '하다'
+structure_pattern: V-아/어야만 하다
+explanation_zh: 连接词尾-아/어야表示必要条件，加보조사만与보조 동사하다构成「必须……、非……不可」，语气比「-야 하다」更强。片段中主人公用它宣告必须打倒对手、必须吸收对方势力，体现坚定的决心。
+examples:
+- text: 그렇기 때문에 나는 너를 쓰러뜨려야만 해.
+  reading: ''
+  annot: 그렇기 때문에 나는 너를 쓰러뜨려야만 해.
+  translation_zh: 正因如此，我必须将你打倒。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+- text: 아즐란은 클라우의 세력을 흡수해야만 한다.
+  reading: ''
+  annot: 아즐란은 클라우의 세력을 흡수해야만 한다.
+  translation_zh: 阿玆兰必须吸收克劳的势力。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 语气
+- 义务
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

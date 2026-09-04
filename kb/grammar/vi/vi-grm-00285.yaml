@@ -1,0 +1,38 @@
+id: vi-grm-00285
+language: vi
+type: grammar
+level: L4
+level_rank: 4
+title: Mới…đã…：事情来得比预期早
+structure: Mới + 分句（thời điểm 时间点），S + đã + V（phó từ thời thể 时体副词）
+structure_pattern: Mới + mệnh đề, S + đã + V
+explanation_zh: 「mới」强调时间早、动作刚发生，「已」对应的「đã」表示另一情况已然出现，搭配使用表达「才刚……就已经……」，带惊讶其进展过早的语气。句末的「liền」（南方口语）进一步强化「马上、立刻」。
+examples:
+- text: Mới mở đầu mà "độp" một phát "yêu quí" liền, tao thấy nó sỗ sàng quá!
+  reading: ''
+  annot: Mới mở đầu mà "độp" một phát "yêu quí" liền, tao thấy nó sỗ sàng quá!
+  translation_zh: 才刚开头就劈头一个「yêu quí」，我看也太唐突了！
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+- text: Mới ngày đầu gặp Việt An, tôi đã thấy lòng mình xao xuyến.
+  reading: ''
+  annot: Mới ngày đầu gặp Việt An, tôi
+  translation_zh: 才第一次见到Việt An，我就已经心里怦然一动。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 体貌
+- 时态虚词
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

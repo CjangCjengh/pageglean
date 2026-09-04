@@ -1,0 +1,32 @@
+id: ko-grm-00075
+language: ko
+type: grammar
+level: TOPIK5
+level_rank: 5
+title: -(으)ㄴ 채(로)：状态的维持
+structure: 관형사형 전성어미 '-(으)ㄴ' + 의존명사 '채'（보조사 '로'는 생략 가능）
+structure_pattern: V + -(으)ㄴ + 채(로)
+explanation_zh: 表示前一动作造成的状态原样保持，后续动作在该状态下进行，相当于「保持着……的状态」。学校文法分析为冠形词形转换词尾'-(으)ㄴ'＋依存名词'채'，'로'可省略。常与'걸치다/쓰다/입다'等搭配，描写姿态与装扮。
+examples:
+- text: 하얀색의 전통 의상을 몸에 걸친 채 우수에 젖은 표정으로 앉아 있는 그 모습은 비현실적일 정도로 아름답다.
+  reading: ''
+  annot: 하얀색의 전통 의상을 몸에 걸친 채 우수에 젖은 표정으로 앉아 있는 그 모습은 비현실적일 정도로 아름답다.
+  translation_zh: 身着白色传统服饰、神情带着忧伤坐在那里的模样，美得不似真实。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 状态维持
+- 依存名词
+- 体貌
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

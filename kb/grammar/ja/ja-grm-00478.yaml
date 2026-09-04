@@ -1,0 +1,31 @@
+id: ja-grm-00478
+language: ja
+type: grammar
+level: N3
+level_rank: 3
+title: 〜わけがない：从情理上强烈否定
+structure: 用言連体形＋形式名詞「わけ」＋（が）＋助動詞「ない」（口语中「が」可省略）
+structure_pattern: 用言-連体形 + 形式名詞「わけ」 + （が）+ 助動詞「ない」
+explanation_zh: 形式名词「わけ」表示道理、情理，「わけがない」即“没有那样的道理”，用于强烈否定。「いいわけない」是「いいわけがない」省略「が」的口语形式。句尾的「よな」是自言自语式的确认，带出说服自己的语气。
+examples:
+- text: ほっといても……いいわけないよな
+  reading: ''
+  annot: ほっといても……いいわけないよな
+  translation_zh: 就算放着不管……也不可能没事吧。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 形式名词
+- 语气
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

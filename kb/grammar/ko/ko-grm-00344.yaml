@@ -1,0 +1,33 @@
+id: ko-grm-00344
+language: ko
+type: grammar
+level: TOPIK5
+level_rank: 5
+title: 연결어미 -다고 해서：即使……也不能
+structure: 引用形 '-다고' + 연결어미 '해서'（让步）
+structure_pattern: V-다고 + 해서
+explanation_zh: '''-다고 해서''是接在引用形式''-다고''之后的연결어미，表示让步，意为"即便说……也不能……"。后句常与''-아/어서는
+  안 되다''等否定、禁止结构搭配使用。此句告诫众人即使暴君消失也不能内斗。'
+examples:
+- text: 하지만 클라우 에른베스크가 사라졌다고 해서 우리들이 분열하고 세력 다툼을 벌여서는 안 될 것이오!
+  reading: ''
+  annot: 하지만 클라우 에른베스크가 사라졌다고 해서 우리들이 분열하고 세력 다툼을 벌여서는 안 될 것이오!
+  translation_zh: 但是，不能因为克劳·恩贝斯克消失了，我们就四分五裂、争夺势力！
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 连接词尾
+- 让步
+- 引用
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

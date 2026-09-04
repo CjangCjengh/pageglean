@@ -1,0 +1,39 @@
+id: ko-grm-00584
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: 「-아/어야지」：暗自下定决心
+structure: 动词词干 + -아/어야지（종결어미/终结词尾，表决意）
+structure_pattern: V-아/어야지
+explanation_zh: -아/어야지는表决心的终结词尾，多用于自言自语，相当于“我一定要……”“可不能……”。它与表义务的-아/어야 하다相近，但语气更像自我立誓。片段中主人公连用数次，强化“绝不后悔、守护키이리”的决心。
+examples:
+- text: 후회하지 말아야지.
+  reading: ''
+  annot: 후회하지 말아야지.
+  translation_zh: 绝不能后悔。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+- text: 실수에 실수를 쌓아 올려 엉망진창인 삶이라고 해도, 키이리 만큼은 지켜 내야지.
+  reading: ''
+  annot: 실수에 실수를 쌓아 올려 엉망진창인 삶이라고 해도, 키이리 만큼은 지켜 내야지.
+  translation_zh: 就算是错误叠着错误、一团糟的人生，也一定要守护好凯丽。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 终结词尾
+- 语气
+- 决意
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

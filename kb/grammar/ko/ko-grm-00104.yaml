@@ -1,0 +1,39 @@
+id: ko-grm-00104
+language: ko
+type: grammar
+level: TOPIK5
+level_rank: 5
+title: 「敬语阶位：-네·-지·-군 的语体差异」
+structure: 终结词尾 -네（하오체/하게체 感叹）· -지（确认、独白）· -군（感叹）
+structure_pattern: 어미 -네 / -지 / -군
+explanation_zh: 韩语终结词尾承载敬语法信息：-네 常见于 하오체/하게체，带长者感叹语气；-지 用于自我确认或独白；-군 表示对新事实的感叹。片段中德乌米纳斯混用
+  해라체（받아들이지）与 하오체（축복해 주겠네），塑造符合其古老身份的庄重口吻，与主人公平辈语气（고맙군、가자）形成对照。阅读小说时可借词尾选择分辨说话人身份与人物关系。
+examples:
+- text: 알겠다. 네 제안을 받아들이지.
+  reading: ''
+  annot: 알겠다. 네 제안을 받아들이지.
+  translation_zh: 好吧。我接受你的提议。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+- text: 자네의 앞길을 축복해 주겠네.
+  reading: ''
+  annot: 자네의 앞길을 축복해 주겠네.
+  translation_zh: 我会为你的前路祈福的。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 敬语
+- 终结词尾
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 5
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

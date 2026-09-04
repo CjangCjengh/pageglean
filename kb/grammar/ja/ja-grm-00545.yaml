@@ -1,0 +1,38 @@
+id: ja-grm-00545
+language: ja
+type: grammar
+level: N3
+level_rank: 3
+title: 〜てみせる：一定……给你看（表决心）
+structure: 動詞連用形 ＋ 接続助詞「て」 ＋ 補助動詞「みせる」
+structure_pattern: V-て + みせる
+explanation_zh: 補助動詞「みせる」接在动词连用形＋て之后，表示向对方强烈承诺"我一定做到给你看"，语气比单纯的意志表达更坚定，常与「必ず」「絶対に」呼应。片段中是主人公对不在身边的少女许下的誓言。
+examples:
+- text: 「絶対に、絶対に止めてみせるからな」
+  reading: ''
+  annot: 「絶対に、絶対に止めてみせるからな」
+  translation_zh: '"我一定、一定会阻止给你看的。"'
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+- text: 絶対に止めてみせるからな。
+  reading: ''
+  annot: 絶対[ぜったい]に止[と]めてみせるからな。
+  translation_zh: 我绝对会拦住你的，给我记好了。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 補助動詞
+- 語気
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

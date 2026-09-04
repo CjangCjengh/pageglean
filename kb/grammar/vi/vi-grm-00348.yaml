@@ -1,0 +1,32 @@
+id: vi-grm-00348
+language: vi
+type: grammar
+level: L3
+level_rank: 3
+title: Nếu…(thì)…：假设条件句
+structure: Nếu + 条件分句，(thì) + 主句（可用 chắc/sẽ 表推测）
+structure_pattern: Nếu + clause + (thì) + clause
+explanation_zh: 越南语假设句用 Nếu 引出条件分句，主句连词 thì 常省略。主句加 chắc + sẽ 表示说话人对结果的推测，语气较委婉。相当于汉语「如果……（就）……，想必会……」。
+examples:
+- text: Nếu Việt An bắt gặp tôi trong tình cảnh này, chắc nó sẽ xúc động rưng rưng
+    nước mắt…
+  reading: ''
+  annot: Nếu Việt An bắt gặp tôi trong tình cảnh nà
+  translation_zh: 如果Việt An撞见我这副模样，想必她会感动得热泪盈眶……
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 句式
+- 条件
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

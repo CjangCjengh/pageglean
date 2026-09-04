@@ -1,0 +1,38 @@
+id: ko-grm-00113
+language: ko
+type: grammar
+level: TOPIK2
+level_rank: 2
+title: -면서：一边……一边……
+structure: 동사 어간 + 연결어미(连接词尾) -면서（构成부사절/副词节，表同时动作）
+structure_pattern: V-면서 + V
+explanation_zh: 连接词尾（연결어미），使前一节成为副词节（부사절），表示前后两个动作同时进行，前后主语须一致。相当于汉语的“一边……一边……”。片段中用于描写边环顾边寻找、边嘟囔边收拾等伴随情景。
+examples:
+- text: 나는 주위를 둘러보면서 쓸 만해 보이는 물건들을 찾기 시작했다.
+  reading: ''
+  annot: 나는 주위를 둘러보면서 쓸 만해 보이는 물건들을 찾기 시작했다.
+  translation_zh: 我一边环顾四周，一边开始寻找看起来还能用的东西。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+- text: 혼자 중얼거리면서 이것저것 챙기는 내 뒤를, 마이시아는 흥미로워하는 표정으로 졸졸 따라다녔다.
+  reading: ''
+  annot: 혼자 중얼거리면서 이것저것 챙기는 내 뒤를, 마이시아는 흥미로워하는 표정으로 졸졸 따라다녔다.
+  translation_zh: 我一边独自嘟囔一边把这个那个收拾起来，玛伊西亚带着兴致勃勃的表情在我身后寸步不离地跟着。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 接续
+- 同时动作
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

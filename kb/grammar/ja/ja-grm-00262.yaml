@@ -1,0 +1,38 @@
+id: ja-grm-00262
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 使役の助動詞「せる／させる」：使对方做某事
+structure: 動詞未然形＋使役の助動詞「せる」（五段動詞）／「させる」（その他）
+structure_pattern: V-未然形 + せる / させる
+explanation_zh: 学校文法将使役统一处理为助动词「せる／させる」：五段动词接「せる」（攫わ＋せる），其余动词接「させる」（話＋させる、素直に＋させる）。表示使令对方进行某动作，主语是致使者。片段中连续三处使役，都与操纵他人心理相关。
+examples:
+- text: 『素直にさせて自発的に話させる』という手段を狙った。
+  reading: ''
+  annot: 『素直[すなお]にさせて自発的[じはつてき]に話[はな]させる』という手段[しゅだん]を狙[ねら]った。
+  translation_zh: （她）是打算采用“让其变得坦率、自发开口”这一手段。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+- text: イスカに全てを言わせず、そう口にした紅音の雰囲気は、それまでとは一変していた。
+  reading: ''
+  annot: イスカに全[すべ]てを言[い]わせず、そう口[くち]にした紅音[あかね]の雰囲気[ふんいき]は、それまでとは一変[いっぺん]していた。
+  translation_zh: 没有让伊斯卡把话说完，红音就这样开了口——她的气场与方才判若两人。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 助動詞
+- 使役
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

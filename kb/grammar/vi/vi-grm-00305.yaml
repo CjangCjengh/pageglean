@@ -1,0 +1,39 @@
+id: vi-grm-00305
+language: vi
+type: grammar
+level: L3
+level_rank: 3
+title: được：能性与结果补语（“得、到”）
+structure: V + được（能实现）；否定：chưa/không + V + được
+structure_pattern: V + được
+explanation_zh: được置于动词后作结果补语/可能补语（bổ ngữ chỉ kết quả/khả năng），表示动作得以实现或有实现的可能，相当于汉语补语“得、到、成”。否定式用chưa/không＋V＋được，如chưa
+  “trả thù” được（还没能报仇）。注意与动词được（获得）及褒义被动标记được区分。
+examples:
+- text: 'Từ đó đến khi về tới nhà, tôi chỉ nói với Tiểu Li được mấy câu:'
+  reading: ''
+  annot: 'Từ đó đến khi về tới nhà, tôi chỉ nói với Tiểu Li được mấy câu:'
+  translation_zh: 从那时直到回到家，我只跟小莉说得上几句话：
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+- text: Nhưng tôi vẫn chưa "trả thù" Lợi sứt được.
+  reading: ''
+  annot: Nhưng tôi vẫn chưa "trả thù" Lợi sứt được.
+  translation_zh: 可我还是没能向阿缺“报仇”。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 补语
+- 虚词
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

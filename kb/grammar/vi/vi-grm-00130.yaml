@@ -1,0 +1,31 @@
+id: vi-grm-00130
+language: vi
+type: grammar
+level: L2
+level_rank: 2
+title: 「Adj hơn…gấp N lần」：比……N倍
+structure: Adj + hơn + 比较对象 + gấp + 数字 + lần
+structure_pattern: Adj + hơn + NP + gấp + Num + lần
+explanation_zh: 越南语比较级用「形容词＋hơn＋比较对象」表示“比……更……”。要表达倍数时，在句末加「gấp＋数字＋lần」（……倍）。注意倍数部分置于比较对象之后，与中文语序不同。
+examples:
+- text: Tiểu Li của tôi dễ thương hơn Việt An gấp một trăm lần.
+  reading: ''
+  annot: Tiểu Li của tôi dễ thương hơn Việt An gấp một trăm lần.
+  translation_zh: 我的小丽比越安可爱一百倍。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 比较
+- 句式
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 7
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

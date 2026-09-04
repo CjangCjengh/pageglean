@@ -1,0 +1,39 @@
+id: ja-grm-00158
+language: ja
+type: grammar
+level: N2
+level_rank: 4
+title: 「〜といった様子で」：引用式比喻（“一副……的样子”）
+structure: 引用「…」＋といった＋体言（様子）
+structure_pattern: 「…」 + といった + 様子で
+explanation_zh: 引用助词「と」加同格表现「という」的过去助动词形「といった」，修饰形式性体言「様子」，意为“像引文所说的那副神情”。用于从旁观者视角描写人物的反应、神态，是轻小说叙述的高频引用式比喻句式。本片段中两次出现。
+examples:
+- text: ただちに反応し『犬じゃない、狼だっ！』といった様子で不服の声を上げる。
+  reading: ''
+  annot: ただちに反応[はんのう]し『犬[いぬ]じゃない、狼[おおかみ]だっ！』といった様子[ようす]で不服[ふふく]の声[こえ]を上[あ]げる。
+  translation_zh: （它）立刻作出反应，一副“才不是狗，是狼！”的样子，发出了不满的叫声。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+- text: 『なん……だと……？』といった様子で大きく動揺するフェル。
+  reading: ''
+  annot: 『なん……だと……？』といった様子[ようす]で大[おお]きく動揺[どうよう]するフェル。
+  translation_zh: 一副“什……什么……？”的样子大为动摇的费尔。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 引用
+- 比况
+- 叙述
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

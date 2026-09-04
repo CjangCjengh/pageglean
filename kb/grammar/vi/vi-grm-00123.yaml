@@ -1,0 +1,35 @@
+id: vi-grm-00123
+language: vi
+type: grammar
+level: L2
+level_rank: 2
+title: Vì… nên…：因果关联词
+structure: Vì + 原因分句, nên + 结果分句（cặp quan hệ từ 因果）
+structure_pattern: Vì + mệnh đề, nên + mệnh đề
+explanation_zh: vì… nên… 是表示因果的一对关联词（quan hệ từ），相当于「因为……所以……」，原因分句在前、结果分句在后。句中的 chưa
+  是副词，意为「还没有」。因果语序与汉语一致，中文母语者容易掌握。
+examples:
+- text: 'Vì chưa xem phim này nên tôi không biết cái đoạn kết nó ra làm sao, bèn hỏi
+    dò:'
+  reading: ''
+  annot: 'Vì chưa xem phim này nên tôi không biết cái đoạn kết nó ra làm sao, bèn
+    hỏi dò:'
+  translation_zh: 因为我还没看过这部电影，不知道结尾是什么样的，便试探着问：
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- quan hệ từ
+- 因果
+- 复句
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

@@ -1,0 +1,31 @@
+id: vi-grm-00319
+language: vi
+type: grammar
+level: L4
+level_rank: 4
+title: đã vậy… còn…：这还不算，居然还……
+structure: đã vậy + 主语 + còn + 动词短语
+structure_pattern: Đã vậy + S + còn + V
+explanation_zh: đã vậy 承接前文已然的（多为负面的）情况，引出变本加厉的行为，相当于「这还不算、居然还……」。còn 与 đã vậy 呼应，加强递进语气。
+examples:
+- text: 'Đã vậy nó còn nhún lên nhún xuống, miệng la:'
+  reading: ''
+  annot: 'Đã vậy nó còn nhún lên nhún xuống, miệng la:'
+  translation_zh: 这还不算，他还一上一下地颠跳，嘴里嚷着：
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 递进
+- 篇章衔接
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

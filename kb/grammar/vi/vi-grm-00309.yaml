@@ -1,0 +1,41 @@
+id: vi-grm-00309
+language: vi
+type: grammar
+level: L2
+level_rank: 2
+title: cứ…lại…：总是、老是（反复）
+structure: cứ + V（反复）；cứ…lại… 呼应
+structure_pattern: phó từ 'cứ' … phó từ 'lại' + động từ
+explanation_zh: 「cứ」表示动作反复或持续不变，相当于「总是、老是」。「cứ…lại…」呼应表示「每当…就又…」，文中「cứ thừa lúc tôi
+  lơ đễnh, nó lại phóng vèo…」即「每每趁我走神，它就又…」。「lặp đi lặp lại」是「V＋đi＋V＋lại」固定格式，强调同一动作一再重复。
+examples:
+- text: Và cứ thừa lúc tôi lơ đễnh, nó lại phóng vèo qua mặt và giở giọng đểu cáng.
+  reading: ''
+  annot: Và cứ thừa lúc tôi lơ đễnh, nó lại phóng vèo qua mặt và giở giọng đểu cáng.
+  translation_zh: 而且它老是趁我不留神，嗖地从我面前窜过去，还摆出一副无赖腔调。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+- text: Nó cứ lặp đi lặp lại cái trò bỉ ổi đó khiến Tiểu Li đâm ngại đi chung với
+    tôi.
+  reading: ''
+  annot: Nó cứ lặp đi lặp lại cái trò bỉ ổi đó khiến Tiểu Li đâm ngại đi chung với
+    tôi.
+  translation_zh: 它老是重复那个卑鄙的把戏，弄得 Tiểu Li 都不好意思跟我一起走了。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 副词
+- 体貌
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

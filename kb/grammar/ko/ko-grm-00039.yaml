@@ -1,0 +1,32 @@
+id: ko-grm-00039
+language: ko
+type: grammar
+level: TOPIK5
+level_rank: 5
+title: -는 모양이다：根据迹象的推测
+structure: 用言词干 + 관형사형 어미 '-는/-(으)ㄴ' + 의존명사 '모양' + 이다
+structure_pattern: V + -는 / A + -(으)ㄴ + 모양이다
+explanation_zh: 由冠形词尾加依存名词'모양'构成，表示说话者根据观察到的外部迹象进行推测，相当于『看起来/似乎……』。与'-는 것 같다'相比，'-는
+  모양이다'更强调基于客观迹象作出的间接判断，有时带有与预期不同的意外感。
+examples:
+- text: 레이나는 내가 자기를 강제로 겁탈할 거라고 생각하고 있는 모양이다.
+  reading: ''
+  annot: 레이나는 내가 자기를 강제로 겁탈할 거라고 생각하고 있는 모양이다.
+  translation_zh: 蕾娜似乎认定我会强行凌辱她。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 推测
+- 依存名词
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

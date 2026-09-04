@@ -1,0 +1,40 @@
+id: ko-grm-00087
+language: ko
+type: grammar
+level: TOPIK2
+level_rank: 2
+title: -(으)ㄹ 수 있다/없다：能与不能
+structure: 动词词干 + 冠形词形转成词尾 -(으)ㄹ + 依存名词 '수' + 谓词 '있다/없다'
+structure_pattern: 동사 어간 + -(으)ㄹ + 의존명사 '수' + 있다/없다
+explanation_zh: 依存名词 '수' 与 '있다/없다' 搭配，表示有无做某事的能力或可能性，相当于中文的'能/不能~'。否定也可用副词 '못' 或补助动词
+  '-지 못하다' 表达（쓰지 못한다）。片段中主角反复强调自己无法使用魔法，两种否定形式均出现。
+examples:
+- text: 지금 나는 마법을 쓸 수 없단 말이지…….
+  reading: ''
+  annot: 지금 나는 마법을 쓸 수 없단 말이지…….
+  translation_zh: 我现在可是用不了魔法啊……
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+- text: 지금 나는 마법을 쓰지 못한다.
+  reading: ''
+  annot: 지금 나는 마법을 쓰지 못한다.
+  translation_zh: 如今我无法施展魔法。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 可能
+- 依存名词
+- 否定
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 6
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

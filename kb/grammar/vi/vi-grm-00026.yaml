@@ -1,0 +1,39 @@
+id: vi-grm-00026
+language: vi
+type: grammar
+level: L2
+level_rank: 2
+title: bị / được：不如意与如意的被动遭遇
+structure: S + bị / được + V
+structure_pattern: S + bị/được + V
+explanation_zh: “bị”引出不利、不情愿的遭遇，相当于“被／挨”；“được”引出有利、令人庆幸的遭遇，相当于“得以／能”。后接动词时主语是动作的承受者，如“bị
+  mẹ la”（被妈妈骂）、“được đi chung”（得以同行）。这是越南语表达被动与遭遇的核心手段，动词本身不变形。
+examples:
+- text: Chắc nó sợ về nhà bị mẹ la.
+  reading: ''
+  annot: Chắc nó sợ về nhà bị mẹ la.
+  translation_zh: 她肯定是怕回家后挨妈妈骂。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+- text: tôi được đi chung với Việt An và trò chuyện với nó một cách "hợp pháp"
+  reading: ''
+  annot: tôi được đi chung với Việt An và trò chuyện với nó một cách "hợp pháp"
+  translation_zh: 我得以和越安同行，并且“名正言顺”地跟她聊天。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 语态
+- 被动
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

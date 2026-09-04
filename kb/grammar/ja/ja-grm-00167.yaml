@@ -1,0 +1,32 @@
+id: ja-grm-00167
+language: ja
+type: grammar
+level: N3
+level_rank: 3
+title: 〜のも無理はない：难怪……、不足为奇
+structure: 連体形＋の＋も無理はない
+structure_pattern: V（連体形）+ の + も無理はない
+explanation_zh: 形式名词の将前句名词化，「も無理はない」意为「也不能说没道理、并不过分」。整体表示「难怪……、……也是情有可原的」，用于说话人对某种反应表示理解与认同。文中指莉亚的战栗反应完全可以理解。
+examples:
+- text: それを相手に近接戦をやったわけで……リアが戦慄するのも無理は無い。
+  reading: ''
+  annot: それを相手[あいて]に近接戦[きんせつせん]をやったわけで……リアが戦慄[せんりつ]するのも無理[むり]は無[な]い。
+  translation_zh: 毕竟我是跟那样的对手打了近身战……莉亚会感到战栗也不足为奇。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 形式名词
+- 惯用表达
+- 语气
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

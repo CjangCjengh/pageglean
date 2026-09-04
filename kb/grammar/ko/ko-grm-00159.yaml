@@ -1,0 +1,38 @@
+id: ko-grm-00159
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: -아/어지다：被动派生与状态持续
+structure: 动词词干 + 连接词尾 -아/어 + 被动补助动词 지다；后接 -아/어 있다 表示结果状态持续
+structure_pattern: V-아/어지다
+explanation_zh: 接在动词词干后构成被动，如 차리다→차려지다，表示动作由他人完成。与 -아/어 있다 结合表示被动结果的状态持续（차려져 있다＝被摆好并持续着）。是韩语被动的主要派生手段之一。
+examples:
+- text: 두 사람에게 존재했던 경계심이, 계속해서 테이블 위에 차려지는 요리와 맥주로 점차 사라져 간다.
+  reading: ''
+  annot: 두 사람에게 존재했던 경계심이, 계속해서 테이블 위에 차려지는 요리와 맥주로 점차 사라져 간다.
+  translation_zh: 两人心中的戒备，随着不断端上桌的料理和啤酒渐渐消失了。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+- text: 테이블에 차려져 있는 요리는 빵과 감자 수프라는 조촐하기 그지없는 메뉴였다.
+  reading: ''
+  annot: 테이블에 차려져 있는 요리는 빵과 감자 수프라는 조촐하기 그지없는 메뉴였다.
+  translation_zh: 桌上摆好的饭菜，是面包加土豆汤这种简朴得不能再简朴的菜单。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 被动
+- 体貌
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

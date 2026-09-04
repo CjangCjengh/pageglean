@@ -1,0 +1,31 @@
+id: ja-grm-00086
+language: ja
+type: grammar
+level: N2
+level_rank: 4
+title: 「〜ハメになる」：陷入糟糕境地
+structure: 用言連体形・体言の＋形式名詞「ハメ（羽目）」＋になる
+structure_pattern: V-連体形 + 羽目（ハメ）になる
+explanation_zh: 形式名詞「羽目」指不情愿的糟糕处境，「〜羽目になる」表示结果被迫陷入倒霉的境地，相当于中文“弄得……、落得……”。多用于不如意、哭笑不得的结果。
+examples:
+- text: 20メートル級のドラゴンさんに対面２メートルで『ヘロ～』って言うハメになったこっちの気持ちも考えろ!!
+  reading: ''
+  annot: 20メートル級のドラゴンさんに対面２メートルで『ヘロ～』って言うハメになったこっちの気持ちも考えろ!!
+  translation_zh: 也替我想想吧，落得要和20米级的龙先生面对面2米打招呼“哈罗～”的境地!!
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 形式名词
+- 语气
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

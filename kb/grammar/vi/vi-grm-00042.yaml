@@ -1,0 +1,38 @@
+id: vi-grm-00042
+language: vi
+type: grammar
+level: L1
+level_rank: 1
+title: 特指疑问句：gì…vậy?（……呢/呀？）
+structure: 疑问词(gì/đâu…) + … + vậy?
+structure_pattern: WH-word(gì/đâu/sao) + … + vậy
+explanation_zh: 越南语特指疑问句常在句末加语气词“vậy”，使语气自然、口语化，相当于中文“……呢？/……呀？”。疑问词（如 gì=什么）保持原位，不需前置。本片段两次出现，是日常口语高频问法。
+examples:
+- text: Việt An xem cuốn gì vậy?
+  reading: ''
+  annot: Việt An xem cuốn gì vậy?
+  translation_zh: 越安在看什么书呢？
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+- text: Anh viết bậy bạ gì trong sách tôi vậy?
+  reading: ''
+  annot: Anh viết bậy bạ gì trong sách tôi vậy?
+  translation_zh: 你在我书里乱写了些什么呀？
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 疑问
+- 语气
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

@@ -1,0 +1,39 @@
+id: vi-grm-00250
+language: vi
+type: grammar
+level: L2
+level_rank: 2
+title: 照这样去做：方式接续「cứ … mà + V」
+structure: cứ + 方式 + mà + V
+structure_pattern: cứ + X + mà + V
+explanation_zh: cứ 表示「只管／尽管」，不加顾虑地维持某种方式；mà 为连接词，衔接方式与动作，整体意为「就照这样去～」。片段中「Cứ vậy mà
+  làm」先是朋友的叮嘱，后被主人公原样引用，成为贯穿性语句。
+examples:
+- text: Cứ vậy mà làm!
+  reading: ''
+  annot: Cứ vậy mà làm!
+  translation_zh: 就照这样去做吧！
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+- text: Tôi "cứ vậy mà làm" thêm một tuần đã thấy sốt ruột.
+  reading: ''
+  annot: Tôi "cứ vậy mà làm" thêm một tuần đã thấy sốt ruột.
+  translation_zh: 我「照这样」又做了一个星期，就已经觉得心焦了。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 接续
+- 方式
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

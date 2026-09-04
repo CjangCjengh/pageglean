@@ -1,0 +1,32 @@
+id: ja-grm-00059
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 〜てくれ：男性化的命令・恳求
+structure: V-て形 + くれ
+structure_pattern: V-て + くれ
+explanation_zh: 「〜てください」的粗鲁简体形式，多为男性使用，表示直接的命令或急切的恳求。本片段是主角走投无路时的呼喊，语气比礼貌体强烈得多。
+examples:
+- text: 待って……待ってくれ──！
+  reading: まって……まってくれ──！
+  annot: 待って……待ってくれ──！
+  translation_zh: 等一下……等等我啊──！
+  source_book: book-ja-001
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 口语
+- 命令
+- 男性语
+provenance:
+  discovered_in: book-ja-001
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

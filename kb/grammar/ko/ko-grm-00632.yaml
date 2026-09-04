@@ -1,0 +1,33 @@
+id: ko-grm-00632
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: -아/어 보이다：看上去……
+structure: 形容词词干 + -아/어 + 보이다（补助形容词）
+structure_pattern: A-아/어 + 보이다 (보조 형용사)
+explanation_zh: 形容词词干后接 -아/어 再接补助形容词 보이다，表示基于外部观察得出的印象，即“看上去/显得……”。与直接断言相比保留了推测余地。片段“서글퍼
+  보였다”即“（约拿的态度）显得很凄然”，是转述基里的观感。
+examples:
+- text: 하지만 키이리는 빈 헬로이스를 향한 요나의 태도가 '서글퍼 보였다'고 했다.
+  reading: ''
+  annot: 하지만 키이리는 빈 헬로이스를 향한 요
+  translation_zh: 但基里说，约拿对빈·헬로이스的态度“看起来很悲伤”。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 补助形容词
+- 外貌
+- 推测
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

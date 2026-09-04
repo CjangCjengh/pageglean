@@ -1,0 +1,39 @@
+id: vi-grm-00092
+language: vi
+type: grammar
+level: L3
+level_rank: 3
+title: không có V / đâu có：口语强调否定
+structure: không có + 动词；đâu có + 动词/形容词（句末可加 đâu 呼应）
+structure_pattern: không có + V; đâu có + V/A (+ đâu)
+explanation_zh: 南方口语常用"否定词 + có"的结构：không có + V 否认某事发生，语气比单用 không 更重、更辩解。đâu có
+  + V/A 以反问口气否认，含"哪里、根本"的意味，句末可再用 đâu 呼应加强。两句都体现说话人强烈撇清的口吻。
+examples:
+- text: Thôi, thôi, tao không có nghe lời xúi bậy của mày đâu!
+  reading: ''
+  annot: Thôi, thôi, tao không có nghe lời xúi bậy của mày đâu!
+  translation_zh: 得了得了，我才不会听你瞎出馊主意呢！
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+- text: Hồi nhỏ tôi đâu có đến nỗi ngu ngốc như vậy.
+  reading: ''
+  annot: Hồi nhỏ tôi đâu có đến nỗi ngu ngốc như vậy.
+  translation_zh: 小时候我可没蠢到这个地步。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 否定
+- 口语
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

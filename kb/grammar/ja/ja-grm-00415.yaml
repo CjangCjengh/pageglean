@@ -1,0 +1,32 @@
+id: ja-grm-00415
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 〜てしまう→やっちまった：完成与懊悔（口语缩略）
+structure: 动词连用形＋て＋补助动词「しまう」（口语缩略为「〜ちまう」）
+structure_pattern: V-連用形 + て + しまう → V-て + ちまう
+explanation_zh: 学校文法中「しまう」接动词连用形作补助动词，表动作完成或遗憾语气。口语里「〜てしてしまう」音变缩略为「〜ちまう」，「やってしまった」→「やっちまった」。轻小说独白中表达自嘲、后悔的典型口语。
+examples:
+- text: 思い出しただけで顔が熱くなる。マジでやっちまった。
+  reading: ''
+  annot: 思[おも]い出[だ]しただけで顔[かお]が熱[あつ]くなる。マジでやっちまった。
+  translation_zh: 光是回想起来脸就发烫。这回真的搞砸了。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 体貌
+- 复合动词
+- 口语
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

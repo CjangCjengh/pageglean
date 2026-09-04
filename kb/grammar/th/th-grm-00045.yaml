@@ -1,0 +1,38 @@
+id: th-grm-00045
+language: th
+type: grammar
+level: L2
+level_rank: 2
+title: กำลังจะ：即将发生的近将来
+structure: กำลัง + จะ + 动词（กริยาช่วยบอกกาล）
+structure_pattern: กำลัง + จะ + V
+explanation_zh: 助动词（กริยาช่วย）กำลัง+จะ表示近将来，意为动作马上就要发生，相当于中文「快要……了」。句末可加语气助词แล้ว强调变化迫近。片段中「กำลังจะตาย(แล้ว)」反复出现，强调情况紧急。
+examples:
+- text: กำลัง​จะ​ตาย​แล้ว​นะ อยาก​เจอ​จัง
+  reading: ''
+  annot: กำลัง​จะ​ตาย​แล้ว​นะ อยาก​เจอ​จัง
+  translation_zh: （我）快要死了，好想见你。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+- text: ผม​กำลัง​จะ​ไป​หา​เธอ​ที่​บ้าน
+  reading: ''
+  annot: ผม​กำลัง​จะ​ไป​หา​เธอ​ที่​บ้าน
+  translation_zh: 我正要去找你（去你家）。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 体貌/近将来
+- 语气
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

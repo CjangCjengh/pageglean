@@ -1,0 +1,39 @@
+id: ko-grm-00292
+language: ko
+type: grammar
+level: TOPIK2
+level_rank: 2
+title: 「-(으)ㄹ 수 있다/없다」：可能与不可能
+structure: 动词词干 + 冠形形词尾'-(으)ㄹ' + 依存名词'수' + 있다/없다
+structure_pattern: V + -(으)ㄹ 수 있다/없다
+explanation_zh: '''수''是依存名词，必须与前面动词的冠形形''-(으)ㄹ''搭配，与''있다/없다''结合表示可能性或能力的有无，相当于中文''能/可以……''''不能……''。插入助词还可以说''-(으)ㄹ
+  수도 있다''，表示''也有可能……''。本段对话中多次出现，是最高频的基础结构之一。'
+examples:
+- text: 너는 나를 이길 수 없어.
+  reading: ''
+  annot: 너는 나를 이길 수 없어.
+  translation_zh: 你赢不了我。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+- text: 다른 제후들을 제압하고 제국을 통일할 수도 있다.
+  reading: ''
+  annot: 다른 제후들을 제압하고 제국을 통일할 수도 있다.
+  translation_zh: 也有可能制服其他诸侯、统一帝国。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 可能性
+- 依存名词
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

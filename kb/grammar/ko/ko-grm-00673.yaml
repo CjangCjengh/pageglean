@@ -1,0 +1,39 @@
+id: ko-grm-00673
+language: ko
+type: grammar
+level: TOPIK5
+level_rank: 5
+title: -(느)냐고/-느냔 말이야：激愤的反问
+structure: 动词词干 + -느냐 (의문 종결 어미) + 인용 '-고/-ㄴ' + 말이야
+structure_pattern: V-냐고 / V-느냔 말이야
+explanation_zh: 由动词疑问型终结词尾'-느냐'加引用结构构成，用于带着强烈情绪反问、反驳对方；'말이야'进一步加强语气，相当于中文带着怒气的'到底……吗！''说什么……！'。'뭘
+  했느냔 말이야'是小说中激愤质问的典型句式。
+examples:
+- text: 당신이 대체 뭘 아냐고―!
+  reading: ''
+  annot: 당신이 대체 뭘 아냐고―!
+  translation_zh: 你到底懂什么——！
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+- text: 내가 악마와 계약할 때, 신은 뭘 했느냔 말이야―!
+  reading: ''
+  annot: 내가 악마와 계약할 때, 신은 뭘 했느냔 말이야―!
+  translation_zh: 我和恶魔签订契约的时候，神到底在做什么啊——！
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 语气
+- 引用
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

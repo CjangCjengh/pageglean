@@ -1,0 +1,40 @@
+id: ko-grm-00096
+language: ko
+type: grammar
+level: TOPIK2
+level_rank: 2
+title: -(으)니까：理由与根据（口语）
+structure: 用言词干 + 连接词尾 -(으)니까
+structure_pattern: V/A-(으)니까
+explanation_zh: 表示理由、根据的连接词尾，与 -아/어서 不同，后句可以接推测、命令、共动等多种叙法，且前面可带过去时制先语末词尾 -았/었- 或
+  -겠-。常用于向对方提示判断依据并加以断定的语气。片段中“없으니까”“아니니까”均体现这一接续特点。
+examples:
+- text: 네 해골은 이 지하 묘지에서 단 한 발짝도 나갈 수 없으니까.
+  reading: ''
+  annot: 네 해골은 이 지하 묘지에서 단 한 발짝도 나갈 수 없으니까.
+  translation_zh: 因为你这具骷髅，连一步都迈不出这座地下墓穴。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+- text: 그런 건 데우미나스에게 별로 중요한 게 아니니까.
+  reading: ''
+  annot: 그런 건 데우미나스에게 별로 중요한 게 아니니까.
+  translation_zh: 因为那种东西对德乌米纳斯来说并不怎么重要。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 理由
+- 连接词尾
+- 口语
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

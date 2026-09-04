@@ -1,0 +1,38 @@
+id: vi-grm-00096
+language: vi
+type: grammar
+level: L2
+level_rank: 2
+title: 结果补语 xong / lại / ra
+structure: V + xong / lại / ra（结果补语，bổ ngữ kết quả）
+structure_pattern: V + xong|lại|ra
+explanation_zh: 越南语把表示结果的补语放在动词之后：xong（完成）、lại（合拢、固定下来）、ra（出来、弄明白）。与汉语「洗完、盖好、想明白」的动补结构一一对应，对中文母语者是正迁移点。注意补语一律后置，与汉语一致。
+examples:
+- text: Rửa mặt xong, nghe đói bụng, tôi mò xuống nhà bếp.
+  reading: ''
+  annot: Rửa mặt xong, nghe đói bụng, tôi mò xuống nhà bếp.
+  translation_zh: 洗完脸，觉得肚子饿，我摸到厨房去。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+- text: 'Tôi liền đậy lồng bàn lại và vội vàng chạy ra:'
+  reading: ''
+  annot: 'Tôi liền đậy lồng bàn lại và vội vàng chạy ra:'
+  translation_zh: 我连忙把饭罩盖好，急急忙忙跑了出去。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 补语
+- 体貌
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 5
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

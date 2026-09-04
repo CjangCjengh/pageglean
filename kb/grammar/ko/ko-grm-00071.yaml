@@ -1,0 +1,31 @@
+id: ko-grm-00071
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: 「-(으)ㄴ 걸 보면 …-ㄴ/는 것 같다：依据与推测」
+structure: 冠形词形词尾 -(으)ㄴ + 依存名词 것(걸) + 보다，后句接 -ㄴ/는 것 같다
+structure_pattern: A/V-(으)ㄴ 걸 보면 + … -ㄴ/는 것 같다
+explanation_zh: 「-(으)ㄴ 걸 보면」意为“从……来看／看……的样子”，用于提出推测的依据，后句常用「-ㄴ/는 것 같다」给出委婉推断。「것 같다」字面为“像是……那样”，是韩语避免武断语气的重要手段。片段中阿尔蒂雅正是借召集全员这一事实推断事情重要。
+examples:
+- text: 주군, 저희 넷을 전부 소집하신 걸 보면 상당히 중요한 안건인 것 같습니다.
+  reading: ''
+  annot: 주군, 저희 넷을 전부 소집하신 걸 보면 상당히 중요한 안건인 것 같습니다.
+  translation_zh: 主君，看您把我们四人都召集起来，似乎是相当重要的议题。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 推测
+- 依据
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

@@ -1,0 +1,39 @@
+id: ja-grm-00594
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 「命令形・禁止形：〜ろ／〜め／〜な」
+structure: 動詞命令形（一段〜ろ・五段え段音）／未然形 ＋ な（禁止）
+structure_pattern: V-命令形 / V-未然形 + な
+explanation_zh: 命令形是动词活用形之一：一段动词为「〜ろ」（見せろ），五段动词为词尾え段音（読め）。禁止用「未然形＋な」，口语常作「〜すんな」（するな）。男性角色和粗暴场面高频使用，风城的台词几乎全由命令形构成。
+examples:
+- text: 早く見せろ！
+  reading: ''
+  annot: 早[はや]く見[み]せろ！
+  translation_zh: 快点给我看！
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+- text: 知って後悔すんなよ。
+  reading: ''
+  annot: 知[し]って後悔[こうかい]すんなよ。
+  translation_zh: 知道了可别后悔啊。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 活用
+- 语气
+- 口语
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 6
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

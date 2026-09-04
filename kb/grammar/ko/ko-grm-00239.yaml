@@ -1,0 +1,38 @@
+id: ko-grm-00239
+language: ko
+type: grammar
+level: TOPIK2
+level_rank: 2
+title: 「-자마자」：一……就……
+structure: 동사 어간 + 연결 어미 ‘-자마자’
+structure_pattern: V-자마자
+explanation_zh: 表示前一动作刚完成、后一动作紧接着发生，相当于中文的“一……就……”。直接接在动词词干后，不受词干元音影响。本段用于描写军令一下达便立即集结出发，是该词尾表紧接关系的典型叙事用法。
+examples:
+- text: 명령이 떨어지자마자 지금 당장 움직일 수 있는 7천 병력을 긁어모아 아즐란의 본거지인 가시나무 왕궁을 향해 즉각 출발시켰다.
+  reading: ''
+  annot: 명령이 떨어지자마자 지금 당장 움직일 수 있는 7천 병력을 긁어모아 아즐란의 본거지인 가시나무 왕궁을 향해 즉각 출발시켰다.
+  translation_zh: 命令一下达，他便立刻搜罗出当下能够调动的七千兵力，马上向阿兹兰的老巢荆棘王宫进发。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+- text: 침실을 나서자마자 금발 소녀에게 습격당했다.
+  reading: ''
+  annot: 침실을 나서자마자 금발 소녀에게 습격당했다.
+  translation_zh: 刚走出卧室，就被金发少女袭击了。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 接续
+- 时间
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

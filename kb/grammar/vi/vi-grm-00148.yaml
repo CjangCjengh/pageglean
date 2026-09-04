@@ -1,0 +1,31 @@
+id: vi-grm-00148
+language: vi
+type: grammar
+level: L3
+level_rank: 3
+title: mà…thì…：假设条件句
+structure: 主语 + mà + 条件，(thì) + 结果
+structure_pattern: S + mà + điều kiện, (thì) + kết quả
+explanation_zh: mà 在句中引出假设性条件，thì 引出相应的结果，常带有警告、推测的语气，多用于设想不利的情况。「Mẹ mà biết thì chết!」是极地道的口语警告句，相当于「要是妈妈知道了就完了！」。
+examples:
+- text: Không được đâu! Mẹ mà biết thì chết!
+  reading: ''
+  annot: Không được đâu! Mẹ mà biết thì chết!
+  translation_zh: 不行啦！要是妈妈知道了就惨了！
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 条件
+- 语气
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 0
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

@@ -1,0 +1,32 @@
+id: ko-grm-00060
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: -아/어 나가다：一直做下去（补助动词）
+structure: 동사 + -아/어 나가다
+structure_pattern: V + -아/어(연결 어미) + 나가다(보조 동사)
+explanation_zh: -아/어 나가다 是补助动词（보조 동사）结构，表示动作朝前方方向持续展开，相当于中文的"……下去"。由连接词尾 -아/어 连接本动词与补助动词，兼具体貌（持续）意义与方向性隐喻。与回顾至今的
+  -아/어 오다 相对，-아/어 나가다 着眼于今后，如"지켜 나가야 할""헤쳐 나가기에는"。
+examples:
+- text: 이 혼란스러운 시대를 헤쳐 나가기에는 상당히 부족한 숫자다.
+  reading: ''
+  annot: 이 혼란스러운 시대를 헤쳐 나가기에는 상당히 부족한 숫자다.
+  translation_zh: 要闯过这个混乱的时代，（这）是相当不足的数字。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 补助动词
+- 体貌
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

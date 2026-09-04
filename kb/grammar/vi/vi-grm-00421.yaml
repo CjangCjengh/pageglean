@@ -1,0 +1,32 @@
+id: vi-grm-00421
+language: vi
+type: grammar
+level: L3
+level_rank: 3
+title: ngay cả… đều…：连…都…
+structure: ngay cả + 名词 + đều + 动词（连……都……）
+structure_pattern: ngay cả + NP + đều + V
+explanation_zh: 这是一组强调句式：ngay cả 引出被强调的极端或意外成分，相当于"连……"；đều 表示总括，相当于"都……"。文中 ngay
+  cả cô giáo đều gọi tôi là Tiểu Li 强调连老师都这样称呼，凸显该名字的普遍性。
+examples:
+- text: gia đình, bạn bè và ngay cả cô giáo đều gọi tôi là Tiểu Li
+  reading: ''
+  annot: gia đình, bạn bè và ngay cả cô giáo đều gọi tôi là Tiểu Li
+  translation_zh: 家人、朋友，甚至连老师都叫我小莉
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 强调
+- 句式
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

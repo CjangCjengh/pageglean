@@ -1,0 +1,32 @@
+id: vi-grm-00117
+language: vi
+type: grammar
+level: L3
+level_rank: 3
+title: 「V + được：可能补语」
+structure: V + được (+ O)
+structure_pattern: V + được; bổ ngữ chỉ khả năng
+explanation_zh: được紧跟动词后作可能／结果补语，表示动作能够实现或达成，相当于汉语“能、可以”。片段中“chứng minh được”即“能证明”。注意được还可表被动义或受益义，需依语境区分。
+examples:
+- text: Vậy thì tao chứng minh được cái gì?
+  reading: ''
+  annot: Vậy thì tao chứng minh được cái gì?
+  translation_zh: 那我能证明什么呢？
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 补语
+- 可能
+- bổ ngữ
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

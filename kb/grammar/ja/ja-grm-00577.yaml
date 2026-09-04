@@ -1,0 +1,31 @@
+id: ja-grm-00577
+language: ja
+type: grammar
+level: N2
+level_rank: 4
+title: 「〜くせに」：带有责备的转折
+structure: 体言＋の＋形式名詞「くせ」＋に／用言連体形＋くせに
+structure_pattern: N + の + くせに / V-連体形 + くせに
+explanation_zh: 形式名词「くせ」后接「に」，表示带有责备、轻视语气的逆接，相当于『明明……却……』，语气比「のに」更具攻击性。前接体言时要加「の」。片段中主人公吐槽もぴりん『明明是个不良少年，胆子却这么小』。
+examples:
+- text: ええい、不良のくせに気が小さい奴め。
+  reading: ''
+  annot: ええい、不良[ふりょう]のくせに気[き]が小[ちい]さい奴[やつ]め。
+  translation_zh: 呸，明明是个不良少年，却是这么个胆小鬼。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 语气
+- 形式名词
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

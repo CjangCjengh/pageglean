@@ -1,0 +1,39 @@
+id: ko-grm-00249
+language: ko
+type: grammar
+level: TOPIK5
+level_rank: 5
+title: 보조사 -조차：甚至、连（极端事例）
+structure: 체언 + 보조사 조차
+structure_pattern: N+조차
+explanation_zh: 보조사 '-조차' 举出极端事例加以强调，意为「甚至连～也」，与 -마저、-도 近义，多用于消极或不利的语境。文中「마크베르거조차」「주인공들조차」两次出现，凸显杂兵与强敌之间的悬殊差距。
+examples:
+- text: 군사 지휘관인 마크베르거조차 소설 본문에서는 몇 줄 언급되고 끝날 뿐이다.
+  reading: ''
+  annot: 군사 지휘관인 마크베르거조차 소설 본문에서는 몇 줄 언급되고 끝날 뿐이다.
+  translation_zh: 就连军事指挥官马克伯格，在小说正文里也不过是被提上几行就结束而已。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+- text: 비중 없이 순식간에 정리되는 잔챙이들과, 주인공들조차 압도하는 실력을 지닌 강적들의 대결.
+  reading: ''
+  annot: 비중 없이 순식간에 정리되는 잔챙이들과, 주인공들조차 압도하는 실력을 지닌 강적들의 대결.
+  translation_zh: 毫无戏份、瞬间就被清理掉的小喽啰们，与连主角们都能压制的强敌之间的对决。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 助词
+- 强调
+- 语气
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

@@ -1,0 +1,31 @@
+id: ja-grm-00610
+language: ja
+type: grammar
+level: N2
+level_rank: 4
+title: 「〜くせに」：责备语气“明明……却……”
+structure: 用言連体形／体言＋の ＋ 接続助詞「くせに」
+structure_pattern: V連体形/イ形/体言-の + くせに
+explanation_zh: 接续助词「くせに」接用言连体形或“体言＋の”，表示前后矛盾，带有强烈的责备、轻蔑语气，相当于“明明……却……”。片段中是风城在短信里反击对方的用语。语感生硬，多用于口语争执，需注意使用对象。
+examples:
+- text: おまえだって恥ずかしいこと言ってたくせに！
+  reading: ''
+  annot: おまえだって恥[は]ずかしいこと言[い]ってたくせに！
+  translation_zh: 你明明自己也说过丢人的话！
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 接续助词
+- 语气
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

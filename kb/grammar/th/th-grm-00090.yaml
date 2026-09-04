@@ -1,0 +1,38 @@
+id: th-grm-00090
+language: th
+type: grammar
+level: L2
+level_rank: 2
+title: ที่：引导名词的关系从句（修饰语后置）
+structure: คำนาม + ที่ + อนุประโยคขยาย（คำเชื่อมความ）
+structure_pattern: นาม + ที่ + ประโยคย่อย
+explanation_zh: ที่ 相当于汉语“……的”、英语 that/which，引导小句后置修饰名词，是泰语“修饰语后置”的典型手段。片段中用它修饰“奇怪的名字”“我正坐着的桌子”“她提到的饭菜”等多个名词。
+examples:
+- text: ไอ้​ชื่อ​แปลก ๆ ที่​พูด​ออกมา​เมื่อกี๊​นี้
+  reading: ''
+  annot: ไอ้​ชื่อ​แปลก ๆ ที่​พูด​ออกมา​เมื่อกี๊​นี้
+  translation_zh: 刚才说出口的那个奇怪名字
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+- text: อาหาร​ง่าย ๆ ที่​เธอ​พูด​ถึง​เมื่อครู่
+  reading: ''
+  annot: อาหาร​ง่าย ๆ ที่​เธ
+  translation_zh: 她刚才提到的那道简单的饭菜
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 语序
+- 关系从句
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 6
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

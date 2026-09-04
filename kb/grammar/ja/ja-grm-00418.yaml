@@ -1,0 +1,39 @@
+id: ja-grm-00418
+language: ja
+type: grammar
+level: N3
+level_rank: 3
+title: 说明语气「のだ／んだ」：んだから・じゃねーか
+structure: 句＋形式名词「の」（口语作「ん」）＋助动词「だ」：「〜んだから」「〜じゃないか→じゃねーか」
+structure_pattern: 文 + のだ/んだ (んだから / んじゃないか)
+explanation_zh: 「のだ」（口语「んだ」）用形式名词「の」加助动词「だ」构成解释、强调语气，口语中「の」常变为「ん」。「待ってたんだから」带解释兼娇嗔的口吻；「じゃねーか」是「じゃないか」的粗鲁缩略，以反问语气抱怨“这不是……吗”。
+examples:
+- text: ほ、ほらほら、坂本くん！ 君が来るの待ってたんだから！
+  reading: ''
+  annot: ほ、ほらほら、坂本[さかもと]くん！ 君[きみ]が来[く]るの待[ま]ってたんだから！
+  translation_zh: 瞧、瞧，坂本同学！我们可一直在等你过来呢！
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+- text: 勘弁してくれよ。俺の毎日がむちゃくちゃじゃねーか……
+  reading: ''
+  annot: 勘弁[かんべん]してくれよ。俺[おれ]の毎日[まいにち]がむちゃくちゃじゃねーか……
+  translation_zh: 饶了我吧。我的日子简直一团糟啊……
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 语气
+- 形式名词
+- 口语
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 4
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

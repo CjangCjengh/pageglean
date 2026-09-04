@@ -1,0 +1,39 @@
+id: vi-grm-00274
+language: vi
+type: grammar
+level: L1
+level_rank: 1
+title: V + không? 与 Có…không?：是非问句
+structure: 谓语 + không?／Có + 谓语 + không?
+structure_pattern: V + không? / Có + V + không?
+explanation_zh: 越南语是非问句把 không 置于谓语之后构成「V + không?」，或采用 Có…không 框架。口语中常用极省略的形式，如「Viết
+  không?」（写不写？），语调与语境补足其余成分。
+examples:
+- text: Có nên không?
+  reading: ''
+  annot: Có nên không?
+  translation_zh: 该不该（写）呢？
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+- text: Sao? Viết không?
+  reading: ''
+  annot: Sao? Viết không?
+  translation_zh: 怎么样？写不写？
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 疑问结构
+- 语气
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

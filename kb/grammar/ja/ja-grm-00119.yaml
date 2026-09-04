@@ -1,0 +1,38 @@
+id: ja-grm-00119
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 格助词「と」：引用感觉与拟声内容
+structure: 感觉・思考・拟声内容 + と + 気がした／言った
+structure_pattern: 擬音語/文 + と + 気がする
+explanation_zh: 格助词「と」标示思考、感觉、发言等的内容，所引部分用终止形，拟声拟态词也可加「と」直接修饰谓语。「気がする」是惯用表达，意为“觉得、感觉好像……”。轻小说用「『どくん』と脈動した」这类写法渲染身体感受，非常典型。
+examples:
+- text: 剣が、『とくん』と脈動した気がした。
+  reading: ''
+  annot: 剣[けん]が、『とくん』と脈動[みゃくどう]した気[き]がした。
+  translation_zh: 只觉得剑“怦”地搏动了一下。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+- text: 『どくん』と、はっきりとした脈動。
+  reading: ''
+  annot: 『どくん』と、はっきりとした脈動[みゃくどう]。
+  translation_zh: “咚”的一下，是清晰可辨的搏动。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 助詞
+- 引用
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

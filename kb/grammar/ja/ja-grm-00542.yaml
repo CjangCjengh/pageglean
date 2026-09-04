@@ -1,0 +1,31 @@
+id: ja-grm-00542
+language: ja
+type: grammar
+level: N2
+level_rank: 4
+title: 〜羽目になる：陷入糟糕的境地
+structure: 動詞辞書形（連体形） ＋ 形式名詞「羽目」 ＋ になる
+structure_pattern: V-辞書形 + 羽目になる
+explanation_zh: 形式名词「羽目」原指门窗的格子，引申为被框住、脱身不得的窘境。「〜羽目になる」表示并非出于本意却被卷进麻烦的结局，几乎只用于消极场合。片段中主角被连哄带劝，最后不得不承担背西瓜的苦差。
+examples:
+- text: というノーコメント必至な説得を受けて背負わされるはめに。
+  reading: ''
+  annot: というノーコメント必至[ひっし]な説得[せっとく]を受[う]けて背負[せお]わされるはめに。
+  translation_zh: 在那种让人无法回应的劝说攻势下，我沦落到被迫背西瓜的地步。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 形式名詞
+- 結果
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

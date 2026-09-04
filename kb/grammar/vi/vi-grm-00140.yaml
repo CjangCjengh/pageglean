@@ -1,0 +1,41 @@
+id: vi-grm-00140
+language: vi
+type: grammar
+level: L2
+level_rank: 2
+title: mà：转折连词
+structure: 前项 + mà + 后项（语义相反或出乎意料）
+structure_pattern: Clause1/AdjP + mà + Clause2(tương phản)
+explanation_zh: 连词 mà 连接语义相对、转折的两个成分，相当于汉语“却、可是”。如“Gần vậy mà ném không trúng!”（这么近却扔不中！）。片段中又用“không
+  còn… mà…”表示“不再……而是……”。
+examples:
+- text: Gần vậy mà ném không trúng!
+  reading: ''
+  annot: Gần vậy mà ném không trúng!
+  translation_zh: 这么近却扔不中！
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+- text: Lúc này, nó không còn đứng ngay trước cửa mà men ra ngoài mé hiên, sát về
+    phía nhà tôi.
+  reading: ''
+  annot: Lúc này, nó không còn đứng ngay trước cửa mà men ra ngoài mé hiên, sát về
+    phía nhà tôi.
+  translation_zh: 这时，她不再站在门口，而是顺着墙根蹭到廊檐外，紧挨着我家这边。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 连词
+- 转折
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

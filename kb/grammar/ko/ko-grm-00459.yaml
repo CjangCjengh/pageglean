@@ -1,0 +1,38 @@
+id: ko-grm-00459
+language: ko
+type: grammar
+level: TOPIK2
+level_rank: 2
+title: 「-(으)ㄴ/는 것 같다：主观推测与判断」
+structure: 动词 + -는（现在）/-(으)ㄴ（过去），形容词 + -(으)ㄴ + 依存名词 것 + 같다
+structure_pattern: V-는 / V-(으)ㄴ / A-(으)ㄴ + 것(의존명사) + 같다
+explanation_zh: 依存名词것与形容词같다搭配，表达说话人的主观推测或判断，相当于中文的「好像……、似乎……」。动词用-는（现在）或-(으)ㄴ（过去），形容词用-(으)ㄴ。比直接断言委婉含蓄，在叙述与对话中都极常用。
+examples:
+- text: 비웃음을 산 것 같아 기분이 썩 좋지 않았다.
+  reading: ''
+  annot: 비웃음을 산 것 같아 기분이 썩 좋지 않았다.
+  translation_zh: 感觉好像招来了一顿嘲笑，心情很是不好。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+- text: 머리 위에 평화의 상징인 비둘기가 올라가 앉아 있어도 위화감이 없을 것 같다.
+  reading: ''
+  annot: 머리 위에 평화의 상징인 비둘기가 올라가 앉아 있어도 위화감이 없을 것 같다.
+  translation_zh: 就算有只象征和平的鸽子落在他头顶上，似乎也不会有一丝违和感。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 依存名词组合
+- 推测
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 5
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

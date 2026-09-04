@@ -1,0 +1,33 @@
+id: ko-grm-00624
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: -아/어야지：「该……才行啊」
+structure: 用言词干 + -아/어야 + 终结词尾 지（-아/어야 하다 的口语强调形）
+structure_pattern: V/A-아/어야지
+explanation_zh: 「-아/어야 하다/되다」表示义务（应该、必须），口语中常以带强调、提醒语气的终结形「-아/어야지」出现，多含督促或责备之意。片段中加罗用「끝을
+  봐야지」责备对方：既然已经做了就该坚持到底。中文可译为「该……才对啊」「得……才行啊」。
+examples:
+- text: 너도 아무 생각 없이 요나 씨를 의심하고 행동했던 건 아닐 거 아냐?! 그러면 끝을 봐야지, 이 자식아!
+  reading: ''
+  annot: 너도 아무 생각 없이 요나 씨를 의심하고 행동했던 건 아닐 거 아냐?! 그러면 끝을 봐야지, 이 자식아!
+  translation_zh: 你当时也不是一无所想就怀疑尤娜、采取行动的吧？！那就该把事情看到底啊，你这家伙！
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 义务
+- 语气
+- 终结词尾
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

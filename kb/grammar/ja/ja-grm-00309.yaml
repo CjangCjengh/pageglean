@@ -1,0 +1,31 @@
+id: ja-grm-00309
+language: ja
+type: grammar
+level: N2
+level_rank: 4
+title: 「〜ばかりか…も」：不但……连……也
+structure: 用言連体形・体言＋ばかりか（後項に「も」呼应）
+structure_pattern: V/V-adj/N + ばかりか + も
+explanation_zh: 副助词「ばかりか」表示「不仅……」，后项常与「も」呼应，构成递进关系，相当于「不但……连……也」。文中指不但不会被追究任务失败的责任，恐怕还会得到谢礼。比口语的「だけでなく」更书面、语感更郑重。
+examples:
+- text: 任務失敗の責を問われないばかりか、おそらく謝礼も出るだろう。
+  reading: ''
+  annot: 任務失敗[にんむしっぱい]の責[せき]を問[と]われないばかりか、おそらく謝礼[しゃれい]も出[で]るだろう。
+  translation_zh: 不但不会被追究任务失败的责任，大概还会有谢礼吧。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 递进
+- 接续
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

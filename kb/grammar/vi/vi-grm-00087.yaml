@@ -1,0 +1,39 @@
+id: vi-grm-00087
+language: vi
+type: grammar
+level: L2
+level_rank: 2
+title: rồi：句末完成语气
+structure: 动词/形容词 + rồi（句末，表示已然）
+structure_pattern: V/A + rồi
+explanation_zh: rồi 位于句末，表示动作已经完成或情况已经变化，相当于汉语的语气词"了"，与 chưa（还没）相对。片段中"lâu rồi"是常用搭配，意为"早就……了"。与前置的
+  đã 不同，rồi 侧重对当前状态的影响。
+examples:
+- text: Em nghĩ ra trò chơi mới rồi.
+  reading: ''
+  annot: Em nghĩ ra trò chơi mới rồi.
+  translation_zh: 我已经想出新游戏了。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+- text: Tưởng gì! Tao nghĩ ra trò đó lâu rồi!
+  reading: ''
+  annot: Tưởng gì! Tao nghĩ ra trò đó lâu rồi!
+  translation_zh: 还以为是什么新花样！那个游戏我早想出来了！
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 体貌
+- 语气词
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

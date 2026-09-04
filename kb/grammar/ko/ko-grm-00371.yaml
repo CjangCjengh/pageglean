@@ -1,0 +1,39 @@
+id: ko-grm-00371
+language: ko
+type: grammar
+level: TOPIK2
+level_rank: 2
+title: -며：两个动作同时进行
+structure: 动词词干 + 连接词尾 -(으)며（表示伴随，相当于 -면서 的书面形式）
+structure_pattern: V + -(으)며
+explanation_zh: 连接词尾，表示前一动作与后一动作同时进行，相当于“一边……一边……”或表示伴随状态。比 -면서 更书面化。小说叙述中高频出现“-며
+  말했다”的形式，用伴随动作引出说话。
+examples:
+- text: 틸프는 안주인 소시지 요리를 포크로 찍으며 고개를 갸웃거렸다.
+  reading: ''
+  annot: 틸프는 안주인 소시지 요리를 포크로 찍으며 고개를 갸웃거렸다.
+  translation_zh: 蒂尔芙用叉子叉着女主人的香肠料理，歪了歪头。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+- text: 마이시아가 와인 잔을 내려놓으며 말했다.
+  reading: ''
+  annot: 마이시아가 와인 잔을 내려놓으며 말했다.
+  translation_zh: 玛伊西亚放下酒杯说道。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 连接词尾
+- 同时动作
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 5
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

@@ -1,0 +1,39 @@
+id: ko-grm-00645
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: -(으)ㄴ/는 것 같다：推测与委婉判断
+structure: 용언의 관형사형 전성어미 -(으)ㄴ/-는 + 의존명사 '것' + 형용사 '같다'
+structure_pattern: V-(으)ㄴ/는 것 같다
+explanation_zh: 用관형사형 전성어미修饰依存名词것，再接같다表示推测或委婉的判断，相当于“好像……”。现在时用-는，过去时用-ㄴ。是韩语中软化断言、表达不确定的高频结构。
+examples:
+- text: 이 패턴, 어디서 많이 본 것 같지 않냐?
+  reading: ''
+  annot: 이 패턴, 어디서 많이 본 것 같지 않냐?
+  translation_zh: 这个套路，是不是觉得在哪里见过很多回？
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+- text: 사실 그런 모습이 당황한 속내를 더욱 반증하는 것같이 보였다.
+  reading: ''
+  annot: 사실 그런 모습이 당황한 속내를 더욱 반증하는 것같이 보였다.
+  translation_zh: 其实那副样子反而更加反证了他内心的慌张。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 推测
+- 依存名词
+- 语气
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

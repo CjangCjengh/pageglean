@@ -1,0 +1,31 @@
+id: ja-grm-00557
+language: ja
+type: grammar
+level: N3
+level_rank: 3
+title: 「〜たびに：每当……」
+structure: 连体形 / 名词＋の + 形式名词「たび（度）」 + 助词「に」
+structure_pattern: V-連体形／Nの + たびに
+explanation_zh: 「たびに」意为「每当……的时候」，前后两事每次都相伴发生。由形式名词「たび」（次、回）＋助词「に」构成。强调反复性与规律性。
+examples:
+- text: その度に教師に呼び出されては怒られていたよ。
+  reading: ''
+  annot: その度[たび]に教師[きょうし]に呼[よ]び出[だ]されては怒[おこ]られていたよ。
+  translation_zh: 每次（出事）都被老师叫去训一顿。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 反复
+- 形式名词
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

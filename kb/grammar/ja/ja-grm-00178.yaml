@@ -1,0 +1,31 @@
+id: ja-grm-00178
+language: ja
+type: grammar
+level: N3
+level_rank: 3
+title: 推测助动词「らしい」：看来～
+structure: 用言／助动词终止形 + 助动词「らしい」
+structure_pattern: 終止形 + 助動詞「らしい」
+explanation_zh: 助动词「らしい」接在用言或助动词的终止形之后，表示基于某种根据的推断，相当于“看来……／好像……”，常与副词「どうやら」呼应。片段中两例均是依据眼前情景作出的推测，而非转述他人话语的传闻用法（“据说……”）。它按形容词型活用，可作连体修饰。
+examples:
+- text: どうやら俺を起こそうと、犬が前脚で額を叩いているらしい。
+  reading: ''
+  annot: どうやら俺を起こそうと、犬が前脚で額を叩いているらしい。
+  translation_zh: 看来，狗是想把我叫醒，正用前爪拍着我的额头。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 助动词
+- 推测
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

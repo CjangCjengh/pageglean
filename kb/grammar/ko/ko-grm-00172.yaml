@@ -1,0 +1,40 @@
+id: ko-grm-00172
+language: ko
+type: grammar
+level: TOPIK2
+level_rank: 2
+title: -기 때문이다：对原因的判断与说明
+structure: 서술어 어간 + 명사형 전성 어미 '-기' + '때문이다'（원인 서술）
+structure_pattern: V/A-기 때문이다 / V-았/었기 때문이다
+explanation_zh: 名词化词尾 -기 将谓词转为名词性成分，再用 때문이다 陈述原因，相当于“是因为……”。与连接词尾 -아/어서 的顺接叙述相比，-기
+  때문이다 带有更强的判断、解释语气，多用于说明理由。过去时用 -았/었기 때문이다。
+examples:
+- text: 클라우의 손에서 뻗어 나온 검은색 칼날이, 잠들어 있는 카이트의 몸을 꿰뚫었기 때문이다.
+  reading: ''
+  annot: 클라우의 손에서 뻗어 나온 검은색 칼날이, 잠들어 있는 카이트의 몸을 꿰뚫었기 때문이다.
+  translation_zh: 因为从克劳手中伸出的黑色刀刃，刺穿了正在熟睡的凯特的身体。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+- text: 내가 카이트를 찾아냈기 때문에, 클라우 또한 카이트를 찾아낼 수 있었다.
+  reading: ''
+  annot: 내가 카이트를 찾아냈기 때문에, 클라우 또한 카이트를 찾아낼 수 있었다.
+  translation_zh: 正因为是我找到了凯特，克劳才能也找到凯特。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 인과 표현
+- 명사형 전성어미
+- 판단
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

@@ -1,0 +1,38 @@
+id: ja-grm-00611
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 「〜ておく／〜ないでおく」：事先准备与暂且不做
+structure: 動詞連用形 ＋ 接続助詞「て」＋ 補助動詞「おく」（否定时为「ないでおく」）
+structure_pattern: V連用形 + て + おく／V未然形 + ないで + おく
+explanation_zh: 补助动词「おく」接动词连用形的「て」之后，表示事先为某事做好准备。「〜ないでおく」表示维持现状、暂且不做某事，片段中「言わないでおこう」以意志形结句，意为“就先不说了吧”。口语中「ておく」常音变为「とく」。
+examples:
+- text: こ、今度のデートの後……何番にするか……考えておいてね
+  reading: ''
+  annot: こ、今度[こんど]のデートの後[あと]……何番[なんばん]にするか……考[かんが]えておいてね
+  translation_zh: 下、下次约会之后……该（把我排在）第几位……你先想好哦。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+- text: 彼女のはにかんだ笑顔に顔が熱くなったのは誰にも言わないでおこう。
+  reading: ''
+  annot: 彼女[かのじょ]のはにかんだ笑顔[えがお]に顔[かお]が熱[あつ]くなったのは誰[だれ]にも言[い]わないでおこう。
+  translation_zh: 被她含羞的笑容惹得脸发烫这件事，就先不跟任何人说了吧。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 补助动词
+- 体貌
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

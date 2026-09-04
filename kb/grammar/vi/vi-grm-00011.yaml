@@ -1,0 +1,39 @@
+id: vi-grm-00011
+language: vi
+type: grammar
+level: L2
+level_rank: 2
+title: 助词 mới：刚刚 / 才（方）
+structure: mới + 动词（刚发生不久；也可表条件承接『才/方能』）
+structure_pattern: mới + V
+explanation_zh: mới 是副词（phó từ），置于动词前表动作刚发生不久，相当于『才/刚』。它还常表条件承接，意为『才、方能』（你先答应消气我才放手）。中文的『才』恰好兼有这两种意味，可帮助理解。
+examples:
+- text: Tao mới đến đây ngày hôm nay.
+  reading: ''
+  annot: Tao mới đến đây ngày hôm nay.
+  translation_zh: 我今天才刚到这儿。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+- text: Mày nói mày hết giận tao, tao mới thả!
+  reading: ''
+  annot: Mày nói mày hết giận tao, tao mới thả!
+  translation_zh: 你说你不生我气了，我才松手！
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 体貌
+- 虚词
+- 时态
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 4
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

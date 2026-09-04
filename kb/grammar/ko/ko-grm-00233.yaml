@@ -1,0 +1,38 @@
+id: ko-grm-00233
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: -(으)ㄹ 수밖에 없다：别无选择、只能如此
+structure: 用言 + 冠形词形词尾 -(으)ㄹ + 依存名词 '수' + 补助词 '밖에' + 否定述语 '없다'
+structure_pattern: V/A-(으)ㄹ + 수 + 밖에 + 없다
+explanation_zh: 依存名词'수'表示方法或可能性，补助词'밖에'意为'除……之外'，与否定形'없다'搭配，字面即'除此之外没有别的办法'，引申为'只好、只能～'。中文对应'只能……、不得不……'。片段中两次出现，均用于表示别无选择的处境。
+examples:
+- text: 신화 속 영웅을 불러오는 수밖에 없겠죠.
+  reading: ''
+  annot: 신화 속 영웅을 불러오는 수밖에 없겠죠.
+  translation_zh: 恐怕只能把神话里的英雄召唤来了吧。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+- text: 마크베르거는 고개를 위아래로 움직일 수밖에 없었다.
+  reading: ''
+  annot: 마크베르거는 고개를 위아래로 움직일 수밖에 없었다.
+  translation_zh: 马克贝尔格只能不停地点头（上下移动脑袋）。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 依存名词
+- 惯用表达
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

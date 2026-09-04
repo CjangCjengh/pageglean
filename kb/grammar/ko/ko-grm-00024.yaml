@@ -1,0 +1,31 @@
+id: ko-grm-00024
+language: ko
+type: grammar
+level: TOPIK6
+level_rank: 6
+title: -아/어 봤자：就算……也白费
+structure: 动词词干 + -아/어 봤자
+structure_pattern: V + -아/어 + 보 + -았- + -자 (연결어미)
+explanation_zh: -아/어 봤자 是 -아/어 보았자 的缩略，表示『即使做了也没有用』，后句多接否定性或无益的结论。片段中『고민을 해 봤자 소용없었다』意为烦恼也无济于事。这是高级阶段常用的让步表达。
+examples:
+- text: 처음부터 그런 고민을 해 봤자 아무 소용없었다.
+  reading: ''
+  annot: 처음부터 그런 고민을 해 봤자 아무 소용없었다.
+  translation_zh: 从一开始，那样烦恼也是毫无用处的。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 연결어미
+- 양보
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

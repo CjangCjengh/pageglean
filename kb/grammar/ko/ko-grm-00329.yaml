@@ -1,0 +1,31 @@
+id: ko-grm-00329
+language: ko
+type: grammar
+level: TOPIK5
+level_rank: 5
+title: -(으)ㄴ 채(로)：保持某种状态
+structure: 动词词干 + -(으)ㄴ 채(로)
+structure_pattern: V-(으)ㄴ + 의존명사 '채'
+explanation_zh: 冠形词形转成词尾 -(으)ㄴ 修饰依存名词 채，表示维持前一动作的状态不变而进行后一动作，即“保持着……”。助词 로 常可省略。与汉语“……着”“维持原样地……”对应。
+examples:
+- text: 고개를 숙인 채, 클라우가 자그마한 목소리로 중얼거렸다.
+  reading: ''
+  annot: 고개를 숙인 채, 클라우가 자그마한 목소리로 중얼거렸다.
+  translation_zh: 克劳低着头，用细小的声音喃喃低语。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 连接词尾
+- 状态
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

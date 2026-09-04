@@ -1,0 +1,32 @@
+id: ko-grm-00400
+language: ko
+type: grammar
+level: TOPIK5
+level_rank: 5
+title: -(으)ㄹ지언정：让步「即使……也」
+structure: 谓词词干 + 让步连接词尾'-(으)ㄹ지언정'
+structure_pattern: V/A + -(으)ㄹ지언정
+explanation_zh: '''-(으)ㄹ지언정''是表示让步的连接词尾，先退一步承认前句情况，再强调后句不因此改变，相当于「即使……也（至少）……」。多用于书面语，带有突出前后句对比的语感。'
+examples:
+- text: 성격이 조금 모나고 비뚤어졌을지언정 인간답게 살다가 인간답게 죽었을지도 모른다.
+  reading: ''
+  annot: 성격이 조금 모나고 비뚤어졌을지언정 인간답게 살다가 인간답게 죽었을지도 모른다.
+  translation_zh: 即使性格有些孤僻扭曲，也会像人一样活着、像人一样死去。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 让步
+- 连接词尾
+- 书面语
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

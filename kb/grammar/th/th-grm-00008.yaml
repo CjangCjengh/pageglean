@@ -1,0 +1,31 @@
+id: th-grm-00008
+language: th
+type: grammar
+level: L2
+level_rank: 2
+title: กว่า：比较级标记
+structure: คำวิเศษณ์/วลี + กว่า (คำวิเศษณ์เปรียบเทียบขั้นกว่า)
+structure_pattern: Adj/VP + กว่า
+explanation_zh: กว่า是比较级标记，相当于“更……”，置于形容词或被比较的短语之后，属学校语法中的วิเศษณ์ขั้นกว่า。片段中“ค่อนไปทางสีเทากว่า”即“更偏向灰色一些”，口语里整个短语后加กว่า，表示“相对来说更……”。
+examples:
+- text: เส้นผม​ของ​เธอ​เป็น​สีดำ​อ่อน ๆ ค่อน​ไป​ทาง​สีเทา​เสียมาก​กว่า
+  reading: ''
+  annot: เส้นผม​ของ​เธอ​เป็น​สีดำ​อ่อน ๆ ค่อน​ไป​ทาง​สีเทา​เสียมาก​กว่า
+  translation_zh: 她的头发是淡淡的黑色，更偏向于灰色。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 比较
+- 形容词
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

@@ -1,0 +1,32 @@
+id: ko-grm-00197
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: 「-(으)ㄹ 테니까：推测或意图加原因」
+structure: 용언 어간 + 관형사형 어미 -(으)ㄹ + 의존명사 '터' + 서술격 조사 이- + 원인 연결어미 -니까
+structure_pattern: V-(으)ㄹ 테니까
+explanation_zh: '''-(으)ㄹ 터이니까'' 的缩略形式：의존명사 ''터'' 表示推测或意图，''-니까'' 表示原因，整体意为「因为肯定会……／我打算……」。主语为第一人称时多表意图，第二、三人称时多表推测。片段「달려들
+  테니까」是主人公推测克劳定会疯狂扑来，并以此作为抛出自己的性命作诱饵的理由。'
+examples:
+- text: 내 목숨을 미끼로 던지면 클라우가 미친 듯이 달려들 테니까 말이야.
+  reading: ''
+  annot: 내 목숨을 미끼로 던지면 클라우가 미친 듯이 달려들 테니까 말이야.
+  translation_zh: 只要我拿性命当诱饵抛出去，克劳肯定会像发疯一样扑过来的。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 이유·원인
+- 추측·의도
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

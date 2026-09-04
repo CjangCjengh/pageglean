@@ -1,0 +1,40 @@
+id: ko-grm-00393
+language: ko
+type: grammar
+level: TOPIK2
+level_rank: 2
+title: 「-며 / -면서」：同时动作与并存让步
+structure: 用言词干 + 연결어미（连接词尾）-며（=-면서）；-면서도 表让步并存
+structure_pattern: V/A- + -며 / -면서(도)
+explanation_zh: 表同时动作的连接词尾，'-며'是'-면서'的缩略形，连接两个同时发生的动作或状态。加上'-도'成'-면서도'，可表示相反状况的并存（让步），如'기분
+  좋으면서도 안심되는'（舒服的同时又令人安心）。
+examples:
+- text: 고개를 갸웃거리며 생각했다.
+  reading: ''
+  annot: 고개를 갸웃거리며 생각했다.
+  translation_zh: 她歪着头想道。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+- text: 그의 체온을 느끼며 품에 안겨 있는 건…… 기분 좋으면서도 안심되는 일이었으니까.
+  reading: ''
+  annot: 그의 체온을 느끼며 품에 안겨 있는 건…… 기분 좋으면서도 안심되는 일이었으니까.
+  translation_zh: 感受着他的体温、待在他怀里……是既舒服又让人安心的事啊。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 连接词尾
+- 同时动作
+- 让步
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 5
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

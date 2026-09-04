@@ -1,0 +1,32 @@
+id: ja-grm-00053
+language: ja
+type: grammar
+level: N2
+level_rank: 4
+title: 〜とはいえ：虽说……
+structure: V-普通体／N + とはいえ
+structure_pattern: 普通形 + とはいえ
+explanation_zh: 让步表达，「虽说～（但是）……」，先承认前项事实，再提出与之相悖的后项，语气偏书面。本句的「腐れている」来自「腐る（腐败、颓废）」，指那位警察熟人并不靠谱。
+examples:
+- text: 腐れているとはいえ、警察官が知り合いにいるじゃないか!!
+  reading: くされているとはいえ、けいさつかんがしりあいにいるじゃないか!!
+  annot: 腐れているとはいえ、警察官が知り合いにいるじゃないか!!
+  translation_zh: 虽说（那家伙）有点不靠谱，但熟人里可是有位警察的啊!!
+  source_book: book-ja-001
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 让步
+- 逆接
+- 书面语
+provenance:
+  discovered_in: book-ja-001
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

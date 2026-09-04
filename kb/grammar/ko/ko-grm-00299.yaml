@@ -1,0 +1,32 @@
+id: ko-grm-00299
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: 「-던：追忆的冠形词形转成语尾」
+structure: 用言 + 冠形词形转成语尾 -던 + 名词（회상）
+structure_pattern: A/V-던 + N
+explanation_zh: 冠形词形转成语尾「-던」表示追忆过去未完结或持续的状态，修饰后面的名词。「쓰던 마법들」即「之前一直在使用的那些魔法」，暗示与当前情况的对比。与单纯过去的「-(으)ㄴ」不同，「-던」带有回忆与未完成意味。
+examples:
+- text: 지금까지 쓰던 마법들하고는 달라서, 뭔가 이상하다고 생각했어.
+  reading: ''
+  annot: 지금까지 쓰던 마법들하고는 달라서, 뭔가 이상하다고 생각했어.
+  translation_zh: 因为和迄今为止一直在用的魔法不一样，我觉得有些不对劲。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 冠形词形语尾
+- 追忆
+- 时制
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

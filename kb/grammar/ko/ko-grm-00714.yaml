@@ -1,0 +1,32 @@
+id: ko-grm-00714
+language: ko
+type: grammar
+level: TOPIK2
+level_rank: 2
+title: -(으)ㄹ 수 있다：能力与可能性
+structure: 动词词干 + 관형사형 어미(冠形词尾) -(으)ㄹ + 의존명사(依存名词) 수 + 있다
+structure_pattern: V-(으)ㄹ 수 있다
+explanation_zh: 依存名词 수 表示能力或可能性，即「能……」「会……」，否定形式为 -(으)ㄹ 수 없다 或 못。文中 이길 수 있을까 再叠加 -ㄹ까
+  表示疑问式推测，意为「能赢吗」。这是韩语表达可能性的最基本结构，出现频率极高。
+examples:
+- text: 나는 만약 이 녀석과 싸우게 된다면, 이길 수 있을까?
+  reading: ''
+  annot: 나는 만약 이 녀석과 싸우게 된다면, 이길 수 있을까?
+  translation_zh: 如果我和这家伙打起来，能赢吗？
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 可能性
+- 依存名词
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

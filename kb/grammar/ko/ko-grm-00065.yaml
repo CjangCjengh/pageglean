@@ -1,0 +1,39 @@
+id: ko-grm-00065
+language: ko
+type: grammar
+level: TOPIK2
+level_rank: 2
+title: 「-는 것：动词的名词化」
+structure: 动词冠形词形词尾 -는 + 依存名词 것
+structure_pattern: V-는 것
+explanation_zh: 依存名词「것」接在动词冠形词形「-는」后，把动词短语名词化，可作主语、宾语等，相当于汉语的“……这件事”。插入补助词尾「도/는」构成「-는
+  것도/-는 것은」，带有“连……也”“至于……”的对比意味。这是韩语书面语中出现频率极高的结构。
+examples:
+- text: 다른 영주에게 싸움을 걸어 새로운 미궁을 확보하는 것도 나쁘지는 않다.
+  reading: ''
+  annot: 다른 영주에게 싸움을 걸어 새로운 미궁을 확보하는 것도 나쁘지는 않다.
+  translation_zh: 向其他领主挑起战斗、夺取新的迷宫，倒也不算坏事。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+- text: 어차피 아즐란 입장에서는 고작 몇만 마나르씩 힘을 기르는 것은 큰 의미가 없는 일이다.
+  reading: ''
+  annot: 어차피 아즐란 입장에서는 고작 몇만 마나르씩 힘을 기르는 것은 큰 의미가 없는 일이다.
+  translation_zh: 反正对阿兹兰来说，一次只积攒几万马纳来积蓄力量，是没有多大意义的事。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 名词化
+- 依存名词
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 6
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

@@ -1,0 +1,35 @@
+id: vi-grm-00378
+language: vi
+type: grammar
+level: L2
+level_rank: 2
+title: 「vừa…（thì）…」：刚一……就……
+structure: 副词 vừa + 谓语（动词短语），（连接词 thì）+ 分句
+structure_pattern: phó từ 'vừa' + vị ngữ (cụm động từ) + [quan hệ từ 'thì' + mệnh
+  đề] — câu ghép chính phụ chỉ quan hệ thời gian
+explanation_zh: 「vừa」是表示「刚刚」的体貌副词（phó từ），强调前一动作刚发生，后一动作紧接着发生，相当于汉语「刚一……就……」。两个分句常由关系词「thì」连接，本句中「thì」省略，靠语序直接衔接。
+examples:
+- text: Tiếng trống tan học vừa vang lên, tôi vội vàng lỉnh ra ngoài ôm cặp vù thẳng
+    một mạch
+  reading: ''
+  annot: Tiếng trống tan học vừa vang lên, tôi vội vàng lỉnh ra ngoài ôm cặp vù thẳng
+    một mạch
+  translation_zh: 下课的钟声刚一响，我就赶紧溜出教室，抱着书包一口气径直跑了。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 体貌
+- 复句
+- 时间
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

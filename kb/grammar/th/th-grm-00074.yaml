@@ -1,0 +1,32 @@
+id: th-grm-00074
+language: th
+type: grammar
+level: L2
+level_rank: 2
+title: 「ที่：后置的关系从句（定语后置）」
+structure: 名词 + ที่ + 动词短语/小句
+structure_pattern: N + ที่ + VP / clause
+explanation_zh: 泰语的定语从句要放在所修饰名词的后面，由 ที่ 引导，整体语序与中文“……的”结构相反。ที่ 后接动词短语或小句来修饰前面的名词；注意
+  ที่ 还可作介词“在”（如 ที่มอสโก），需按语境区分。中文母语者最常犯的错误是把修饰语放到名词前面。
+examples:
+- text: ผู้ป่วย​โรคมะเร็ง​คน​อื่น ๆ ที่​ผม​เคย​พบเจอ​มา
+  reading: ''
+  annot: ผู้ป่วย​โรคมะเร็ง​คน​อื่น ๆ ที่​ผม​เคย​พบเจอ​มา
+  translation_zh: 我曾遇到过的其他癌症病人
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 关系从句
+- 语序
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 5
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

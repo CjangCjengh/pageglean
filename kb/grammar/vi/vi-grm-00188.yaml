@@ -1,0 +1,38 @@
+id: vi-grm-00188
+language: vi
+type: grammar
+level: L2
+level_rank: 2
+title: 比喻结构：y như 与 giống hệt
+structure: y như + NP/VP；giống hệt + NP
+structure_pattern: y như / giống hệt + NP
+explanation_zh: y như 意为“简直像、就像”，多用于动作或情状的比方；giống hệt 意为“一模一样”，强调外形酷似。两者都直接带比较对象，中间不需要连接词，相当于中文的“跟……一模一样／活像”。
+examples:
+- text: Chấm mực y như chấm nước lã, thiệt chán!
+  reading: ''
+  annot: Chấm mực y như chấm nước lã, thiệt chán!
+  translation_zh: 蘸墨水简直跟蘸清水一样，真没劲！
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+- text: Cục mực đen thùi lùi nom giống hệt con ruồi.
+  reading: ''
+  annot: Cục mực đen thùi lùi nom giống hệt con ruồi.
+  translation_zh: 那团墨黑黢黢的，看上去跟一只苍蝇一模一样。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 比较
+- 修辞
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

@@ -1,0 +1,40 @@
+id: ko-grm-00636
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: -듯(이)/-는 것처럼：像……似的（比喻·方式）
+structure: 동사 어간 + 관형사형 어미 '-는' + 의존명사 '듯'（부사격 조사 '-처럼'과 대응）
+structure_pattern: V-듯(이) / V-는 것처럼
+explanation_zh: ‘듯’ 是依存名词（副词化形式为 ‘듯이’），接在冠形词尾后表示比喻或方式，意为“像……似的”。动词现在时用 -는 듯，体言后可用
+  -인 듯 或助词 -처럼。片段中“악수하듯”“진열하듯”均表示动作进行的方式。
+examples:
+- text: 가로가 내가 내민 손을 덥석 잡아 악수하듯 몇 번 흔든 후에 등을 돌려 멀어졌다.
+  reading: ''
+  annot: 가로가 내가 내민 손을 덥석 잡아 악수하듯 몇 번 흔든 후에 등을 돌려 멀어졌다.
+  translation_zh: 加罗一把抓住我伸出的手，像握手似的晃了几下，然后转身走远了。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+- text: 방의 한쪽 구석에 진열하듯 늘어서 있는 실제 사람만 한 인형들이다.
+  reading: ''
+  annot: 방의 한쪽 구석에 진열하듯 늘어서 있는 실제 사람만 한 인형들이다.
+  translation_zh: 房间一角，像陈列展示般整齐排着的、真人大小的人偶。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 依存名词
+- 比喻
+- 方式
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

@@ -1,0 +1,39 @@
+id: ko-grm-00706
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: -게 되다：状态与情况的转变
+structure: 用言 + 副词形语尾 -게 + 补助动词 되다
+structure_pattern: V/A-게 + 되다
+explanation_zh: 副词形转成语尾「-게」接补助动词「되다」，表示情况发生变化，相当于中文的“变得……、……起来”。中文没有完全对应的形式，翻译时需补出变化义。过去时用「-게
+  되었다」，也可再接推测形「-게 될 것이다」。
+examples:
+- text: 본모습을 드러낸 악마를 본 순간, 나는 악마라는 존재에 대하여 명확하게 이해하고 판단할 수 있게 됐다.
+  reading: ''
+  annot: 본모습을 드러낸 악마를 본 순간, 나는 악마라는 존재에 대하여 명확하게 이해하고 판단할 수 있게 됐다.
+  translation_zh: 看到现出真身的恶魔的那一刻，我得以清晰地理解并判断“恶魔”这种存在。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+- text: 마왕의 업적을 추가하지 않게 되어서 잘됐네, 마왕.
+  reading: ''
+  annot: 마왕의 업적을 추가하지 않게 되어서 잘됐네, 마왕.
+  translation_zh: 变得不用再给魔王增添功业了，真是太好了，魔王。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 相/变化
+- 补助动词
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

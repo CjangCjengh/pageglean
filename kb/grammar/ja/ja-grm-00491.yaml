@@ -1,0 +1,31 @@
+id: ja-grm-00491
+language: ja
+type: grammar
+level: N3
+level_rank: 3
+title: 接尾辞「がる」：第三者情感的外显
+structure: 感情を表す形容詞語幹（怖い・寂しい等）／助動詞「たい」＋接尾辞「がる」
+structure_pattern: Adj-語幹 + がる
+explanation_zh: 「がる」接在表感情的形容词词干或助动词「たい」之后，描述第三者流露出的情感样态，一般不用于第一人称直述自己。「怖がってる」即“大家一副害怕的样子”。中文可译为“看起来……”“显得……”。
+examples:
+- text: なにしてるんだこんなところで？ みんな怖がってるぞ
+  reading: ''
+  annot: なにしてるんだこんなところで？ みんな怖[こわ]がってるぞ
+  translation_zh: 你在这种地方干什么呢？大家可都害怕得不行啊。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 助动词
+- 感情表达
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

@@ -1,0 +1,32 @@
+id: ko-grm-00168
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: -았/었으면 좋겠다：委婉的愿望
+structure: 先语末词尾 -았/었- + 连接词尾 -면 + '좋다' + 推量词尾 -겠다
+structure_pattern: V-았/었으면 좋겠다
+explanation_zh: 表示希望、愿望，相当于"要是……就好了／希望……"。先用 -았/었으면 提出带有假设性的期望，再以 '좋겠다' 收束，语气比 -고
+  싶다 委婉，常用于向对方提出请求或期望。
+examples:
+- text: 그러니까 나를 믿어 줬으면 좋겠어.
+  reading: ''
+  annot: 그러니까 나를 믿어 줬으면 좋겠어.
+  translation_zh: 所以，我希望你能相信我。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 语气
+- 愿望
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

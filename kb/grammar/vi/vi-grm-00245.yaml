@@ -1,0 +1,38 @@
+id: vi-grm-00245
+language: vi
+type: grammar
+level: L2
+level_rank: 2
+title: chẳng ... gì (hết)：根本不……
+structure: chẳng + V + gì (hết) / đâu
+structure_pattern: chẳng + V + gì (hết)
+explanation_zh: chẳng 是否定副词，与 không 同义但口语色彩更重。与 gì (hết) 搭配构成完全否定“一点也不……”，片段中也有 chẳng
+  ... đâu 的变体。
+examples:
+- text: Chẳng có chuyện gì hết!
+  reading: ''
+  annot: Chẳng có chuyện gì hết!
+  translation_zh: 根本什么事都没有！
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+- text: Tụi nó chẳng biết gì về kế hoạch của mình đâu!
+  reading: ''
+  annot: Tụi nó chẳng biết gì về kế hoạch của mình đâu!
+  translation_zh: 她们对咱们的计划一无所知！
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 否定
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 0
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

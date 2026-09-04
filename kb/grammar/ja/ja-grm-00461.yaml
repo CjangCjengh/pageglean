@@ -1,0 +1,31 @@
+id: ja-grm-00461
+language: ja
+type: grammar
+level: N2
+level_rank: 4
+title: 「〜(よ)うが〜(よ)うが」：无论…还是…（意向形＋が）
+structure: 动词终止形 + 推量助动词「(よ)う」+ が（两项并列）
+structure_pattern: V-(よ)う + が + V-(よ)う + が
+explanation_zh: 推量助动词「(よ)う」后接助词「が」，前后两项并列，表示「无论…还是…，后项结果都不受影响」。语气比「〜ても」更强烈，书面与口语均常用。句中强调不管睡着还是醒着，意识都会照常互换。
+examples:
+- text: ある時間になれば寝ていようが起きていようが意識が入れ替わるのでは
+  reading: ''
+  annot: ある時間[じかん]になれば寝[ね]ていようが起[お]きていようが意識[いしき]が入[い]れ替[か]わるのでは
+  translation_zh: （是不是）一到某个时间，无论睡着还是醒着，意识都会互换
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 让步
+- 接续
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

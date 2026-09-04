@@ -1,0 +1,32 @@
+id: ko-grm-00626
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: -아/어 봐야：就算……也没用
+structure: 用言 -아/어 보다（尝试）+ 让步连接词尾 -아/어야
+structure_pattern: V-아/어 보다 + -아/어야
+explanation_zh: 「-아/어 보다」表示尝试做某事，其后接表条件的连接词尾「-아/어야」，构成「-아/어 봐야」：即使尝试做也徒劳，后句多为否定性结论，相当于「就算……也（没用）」。片段中「가둬
+  봐야 소용없다」即「就算关起来也没用」。注意与单纯表尝试的「-아/어 보다」区分：关键看后句是否为让步性否定结果。
+examples:
+- text: 적어도 나를 이런 밧줄이나 허술해 빠진 지하 창고에 가둬 봐야 소용없다는 것 정도는 알고 있었을 거라고 생각한다.
+  reading: ''
+  annot: 적어도 나를 이런 밧줄이나 허술해 빠진 지하 창고에 가둬 봐야 소용없다는 것 정도는 알고 있었을 거라고 생각한다.
+  translation_zh: 我想他至少也明白：就算用这种绳子、或把我关进这种破破烂烂的地下仓库，也是没有用的。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 让步
+- 连接词尾
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

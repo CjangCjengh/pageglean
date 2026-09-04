@@ -1,0 +1,38 @@
+id: vi-grm-00215
+language: vi
+type: grammar
+level: L2
+level_rank: 2
+title: 人称代词：用亲属称谓称呼人（anh/em、tao/mày）
+structure: 以亲属称谓充当人称代词：anh（哥/称对方）、em（妹/自称）；同龄熟人间用粗称 tao/mày
+structure_pattern: PRON(anh/em) ; PRON(tao/mày)
+explanation_zh: 越南语人称代词大量借用亲属称谓：小莉自称 em、称叙述者为 anh，体现年幼对年长的礼貌称呼。tao/mày 是同龄熟人之间随意甚至粗鲁的「我/你」，叙述者赌气时便用它。代词的选择反映亲疏与长幼关系，是越南语交际的一大难点。
+examples:
+- text: Anh trả mấy viên bi lại cho em!
+  reading: ''
+  annot: Anh trả mấy viên bi lại cho em!
+  translation_zh: 哥哥把弹珠还给我！
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+- text: Cho mày nghỉ!
+  reading: ''
+  annot: Cho mày nghỉ!
+  translation_zh: 随你便，不玩就不玩！
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 代词
+- 语用
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 10
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

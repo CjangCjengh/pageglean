@@ -1,0 +1,38 @@
+id: vi-grm-00004
+language: vi
+type: grammar
+level: L2
+level_rank: 2
+title: hơn…nhiều：比较级与程度加强
+structure: 形容词 + hơn + 比较对象 + nhiều（比……得多）
+structure_pattern: A + hơn + NP + nhiều (cấu trúc so sánh hơn)
+explanation_zh: 越南语比较级用“形容词 + hơn + 比较对象”表示“比……更……”，句末加 nhiều 表示程度大，相当于“……得多”。文中两次以此比较今昔，突出变化之大。
+examples:
+- text: hồi nhỏ tôi ngon lành hơn bây giờ nhiều
+  reading: ''
+  annot: hồi nhỏ tôi ngon lành hơn bây giờ nhiều
+  translation_zh: 小时候的我可比现在“厉害”多了
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+- text: Căn nhà mới nhiều phòng và xinh xắn hơn căn nhà cũ nhiều.
+  reading: ''
+  annot: Căn nhà mới nhiều phòng và xinh xắn hơn căn nhà cũ nhiều.
+  translation_zh: 新房子房间多，而且比旧房子漂亮得多。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 比较
+- 程度
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 0
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

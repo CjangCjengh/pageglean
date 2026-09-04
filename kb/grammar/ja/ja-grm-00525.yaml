@@ -1,0 +1,38 @@
+id: ja-grm-00525
+language: ja
+type: grammar
+level: N3
+level_rank: 3
+title: 〜ように：目的与样态
+structure: 动词终止形/否定形＋ように
+structure_pattern: V-終止形/否定形 + ように
+explanation_zh: 助词「ように」前接动词终止形，可表示目的（『为了……』）或样态、方式（『像……那样』）。本片段两种用法均出现，是书面叙事的高频结构。
+examples:
+- text: 自分を傷つけないように。
+  reading: ''
+  annot: 自分[じぶん]を傷[きず]つけないように。
+  translation_zh: 像是为了不让自己受伤似的（小心翼翼地翻着）。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+- text: できるだけ目を合わせないように、生徒手帳を差し出す。
+  reading: ''
+  annot: できるだけ目[め]を合[あ]わせないように、生徒手帳[せいとてちょう]を差[さ]し出[だ]す。
+  translation_zh: 我尽量不与她对视，递出了学生手册。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 目的
+- 样态
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

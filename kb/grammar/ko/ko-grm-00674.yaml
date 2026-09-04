@@ -1,0 +1,39 @@
+id: ko-grm-00674
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: 「-잖아(요)」：提醒对方已知事实的反驳语气
+structure: 用言词干 + '-지 않-'（依存名词 '지' + 补助用言 '않다'）+ 终结词尾 '-아(요)' → -잖아(요)
+structure_pattern: V/A-지 않- + -아(요)
+explanation_zh: 「-잖아」是「-지 않-」后接终结词尾「-아」的缩略形式。用于提醒对方早已知道或显而易见的事实，带有强调、反驳的语气，相当于中文的“不是……嘛”。本片段对话中反复出现，是韩语口语极高频的表达。
+examples:
+- text: 아니잖아! 천 번 넘게 똑같은 마술을 보면서 지긋지긋하다고 생각했잖아?!
+  reading: ''
+  annot: 아니잖아! 천 번 넘게 똑같은 마술을 보면서 지긋지긋하다고 생각했잖아?!
+  translation_zh: 不是那样吗！同样的魔术看了上千遍，你明明早就觉得厌烦了啊？！
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+- text: 너도 알고 있잖아.
+  reading: ''
+  annot: 너도 알고 있잖아.
+  translation_zh: 你也是知道的啊。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 语气
+- 口语
+- 否定
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 5
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

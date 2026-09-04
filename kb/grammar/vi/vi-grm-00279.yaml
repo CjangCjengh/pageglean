@@ -1,0 +1,39 @@
+id: vi-grm-00279
+language: vi
+type: grammar
+level: L2
+level_rank: 2
+title: Nếu…thì…：假设条件复句
+structure: Nếu + 分句（mệnh đề chỉ điều kiện 条件），(thì) + 分句（mệnh đề chỉ kết quả 结果）
+structure_pattern: Nếu + mệnh đề, (thì) + mệnh đề
+explanation_zh: 「Nếu」引出假设条件分句，「thì」引出结果分句，构成条件–结果复句（câu ghép điều kiện–kết quả），口语中「thì」可省略。「Nếu…thì
+  sao?」就假设情况追问结果，意为「要是……怎么办？」。
+examples:
+- text: Nếu nó không nhận thư thì sao?
+  reading: ''
+  annot: Nếu nó không nhận thư thì sao?
+  translation_zh: 要是她不肯收信，那怎么办？
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+- text: Mày viết "Hải gầy thân mến" thì còn được.
+  reading: ''
+  annot: Mày viết "Hải gầy thân mến" thì còn được.
+  translation_zh: 你要是写「Hải gầy thân mến」，倒还差不多。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 连词
+- 条件关系
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

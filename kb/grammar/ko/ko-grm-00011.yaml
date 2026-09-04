@@ -1,0 +1,38 @@
+id: ko-grm-00011
+language: ko
+type: grammar
+level: TOPIK2
+level_rank: 2
+title: -게 되다：变得、结果的形成
+structure: 용언 어간 + -게 + 되다
+structure_pattern: 용언 어간 + -게 + 되다
+explanation_zh: 表示情况发生变化、形成某种结果，相当于“变得……”“最终……”。多用于描述并非出于主观意愿的变化或结果。
+examples:
+- text: 너, 그 이후로 캐릭터 죽이는 전개를 남발하게 되었어.
+  reading: ''
+  annot: 너, 그 이후로 캐릭터 죽이는 전개를 남발하게 되었어.
+  translation_zh: 你啊，从那之后就开始滥写角色死掉的剧情了。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+- text: 너는 벌을 받게 될 거야.
+  reading: ''
+  annot: 너는 벌을 받게 될 거야.
+  translation_zh: 你会受到惩罚的。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 变化
+- 结果
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

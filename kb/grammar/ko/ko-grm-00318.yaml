@@ -1,0 +1,39 @@
+id: ko-grm-00318
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: -ㄹ 때마다：每当……的时候
+structure: 동사 어간 + 관형사형 어미 '-(으)ㄹ' + 의존명사 '때' + 조사 '마다'
+structure_pattern: V-(으)ㄹ 때마다
+explanation_zh: -(으)ㄹ 때마다 表示“每当……”，由冠形词尾 -(으)ㄹ、依存名词 때（时候）和助词 마다（每）组成。动词词干末音节为元音或以
+  ㄹ 收尾时接 -ㄹ 때마다，有收音时接 -을 때마다。片段中两次出现，分别写“每次打扫书房”和“每次做坏事”的规律性情况。
+examples:
+- text: 아버지의 서재를 청소할 때마다 제국에서 제일가는 전술 연구가였던 그의 저서를 탐독했지.
+  reading: ''
+  annot: 아버지의 서재를 청소할 때마다 제국에서 제일가는 전술 연구가였던 그의 저서를 탐독했지.
+  translation_zh: 每次打扫父亲的书房，她都会通读帝国首屈一指的战术研究家的著作。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+- text: 그럴 때마다 카이트 일행과 부딪치면서 계속 어그로를 끌었거든.
+  reading: ''
+  annot: 그럴 때마다 카이트 일행과 부딪치면서 계속 어그로를 끌었거든.
+  translation_zh: 每当这时，她就同凯特一行人发生冲突，不断拉仇恨。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 依存名词
+- 反复
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

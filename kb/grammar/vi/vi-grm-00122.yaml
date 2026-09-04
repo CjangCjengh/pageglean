@@ -1,0 +1,40 @@
+id: vi-grm-00122
+language: vi
+type: grammar
+level: L3
+level_rank: 3
+title: Đâu có：口语强调否定
+structure: S + đâu có + V/Adj（câu phủ định 强调式，口语）
+structure_pattern: S + đâu có + V/Adj
+explanation_zh: đâu có 是口语中的强调否定结构，相当于「哪有／并没有／根本不」，用于反驳对方看法，语气比单纯用 không 强烈得多。还可与
+  như 搭配，表示「一点也不像……那样」。
+examples:
+- text: Nhưng Việt An đâu có biết tao định rủ nó đi xem phim.
+  reading: ''
+  annot: Nhưng Việt An đâu có biết tao định rủ nó đi xem phim.
+  translation_zh: 可是越安哪里知道我打算约她去看电影。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+- text: Tụi con gái nó đâu có ngây thơ như mày tưởng.
+  reading: ''
+  annot: Tụi con gái nó đâu có ngây thơ như mày tưởng.
+  translation_zh: 女生们才不像你想的那么天真呢。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 否定
+- 口语
+- 语气
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

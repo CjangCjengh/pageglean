@@ -1,0 +1,32 @@
+id: vi-grm-00369
+language: vi
+type: grammar
+level: L3
+level_rank: 3
+title: mãi… mới…：过了许久才…
+structure: mãi + 时间短语, 主语 + mới + V（được）
+structure_pattern: mãi + (NP) ... mới + V
+explanation_zh: mãi 强调历时之久或反复等待，mới 表示动作终于实现，合起来表示“过了好久才……”，带有艰难、迟缓的语气。句中“mở miệng
+  được”的 được 作结果/可能补语，表示“开得出口”。相当于汉语“好半天才……”。
+examples:
+- text: Mãi một lúc, tôi mới mở miệng được, lòng cố bám víu một hy vọng cuối cùng
+  reading: ''
+  annot: Mãi một lúc, tôi mới mở miệng được, lòng cố bám víu một hy vọng cuối cùng
+  translation_zh: 过了好一会儿，我才终于开得出口，心里死命抓着最后一线希望。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 时间
+- 副词结构
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

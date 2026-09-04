@@ -1,0 +1,39 @@
+id: vi-grm-00069
+language: vi
+type: grammar
+level: L3
+level_rank: 3
+title: 结果补语：V + được 表示达成与可能
+structure: V + được (+ 宾语)；否定：không + V + được
+structure_pattern: V + được (＋O)
+explanation_zh: được 紧跟动词后作结果补语，表示动作成功实现或能够做到，类似汉语补语“到、着、成”。“lựa được bốn, năm hòn”即“挑出了四五颗”。否定式
+  không V được 表示“没能、无法做到”，如“không bắn được con chim nào”（一只鸟也没打着）。注意此处是结果/可能用法，而非被动义。
+examples:
+- text: Trong đống sỏi của nó, tôi lựa được bốn, năm hòn
+  reading: ''
+  annot: Trong đống sỏi của nó, tôi lựa được bốn, năm hòn
+  translation_zh: 在他那堆石子里，我挑出了四五颗。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+- text: Nhưng suốt ba ngày liên tiếp, tôi không bắn được con chim nào.
+  reading: ''
+  annot: Nhưng suốt ba ngày liên tiếp, tôi không bắn được con chim nào.
+  translation_zh: 可是接连三天，我一只鸟也没打着。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 结果补语
+- 可能
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

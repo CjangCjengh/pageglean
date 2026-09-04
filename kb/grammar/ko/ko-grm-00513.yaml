@@ -1,0 +1,40 @@
+id: ko-grm-00513
+language: ko
+type: grammar
+level: TOPIK2
+level_rank: 2
+title: -는데：铺垫、对照与余韵
+structure: 动词词干 + 连接词尾 -는데；形容词·이다 + -(으)ㄴ데
+structure_pattern: V + -는데; A/이다 + -(으)ㄴ데
+explanation_zh: 连接词尾：动词词干后用 -는데，形容词与 이다 后用 -(으)ㄴ데。可为后文铺垫背景，也可表对照、转折；口语里直接结句则留下余韵、等待对方回应。片段中‘만져
+  주는데’铺垫话题，‘시간뿐인데’表对照并引出遗憾。
+examples:
+- text: 요나가 빈 헬로이스의 넥타이를 만져 주는데 역시 분위기가 좀 이상했지?
+  reading: ''
+  annot: 요나가 빈 헬로이스의 넥타이를 만져 주는데 역시 분위기가 좀 이상했지?
+  translation_zh: 约娜帮宾·赫洛伊斯整理领带来着，气氛是不是确实有点不对劲？
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+- text: 빈과 얼굴을 마주할 기회라고는 저녁 식사 시간뿐인데, 나로서는 꽤 아까운 일이다.
+  reading: ''
+  annot: 빈과 얼굴을 마주할 기회라고는 저녁 식사 시간뿐인데, 나로서는 꽤 아까운 일이다.
+  translation_zh: 能跟宾见面的机会明明只有晚餐时间，对我来说实在可惜。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 连接词尾
+- 背景铺垫
+- 对照
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

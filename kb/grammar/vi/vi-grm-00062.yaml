@@ -1,0 +1,38 @@
+id: vi-grm-00062
+language: vi
+type: grammar
+level: L3
+level_rank: 3
+title: 比较结构「như thể…ấy / làm như…vậy」：仿佛、好像
+structure: 如 thể + NP + ấy；làm như + 小句 + vậy
+structure_pattern: như thể + NP + ấy; làm như + clause + vậy（cấu trúc so sánh，比较结构）
+explanation_zh: 「như thể…ấy」「làm như…vậy」都表示「好像……一样／仿佛……似的」，属比较结构；「ấy」「vậy」为句末呼应的指示词。此类说法常用于表达不满或夸张的指责，而非客观比较。
+examples:
+- text: Mày làm như tao là... con nít vậy!
+  reading: ''
+  annot: Mày làm như tao là... con nít vậy!
+  translation_zh: 你说得好像我是个小孩子似的！
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+- text: Tay mày như thể cục sắt ấy!
+  reading: ''
+  annot: Tay mày như thể cục sắt ấy!
+  translation_zh: 你的手简直像铁块一样！
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 比较结构
+- 语气
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 4
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

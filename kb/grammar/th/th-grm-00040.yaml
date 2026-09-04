@@ -1,0 +1,32 @@
+id: th-grm-00040
+language: th
+type: grammar
+level: L3
+level_rank: 3
+title: ไม่ได้…ตั้ง…แล้ว：已经足足……没……
+structure: ไม่ได้ + 动词 + ตั้ง + 时长 + แล้ว（否定＋强调历时）
+structure_pattern: ไม่ได้ + V + ตั้ง + 时长 + แล้ว
+explanation_zh: 「ไม่ได้+动词」表示该动作没有发生；「ตั้ง」放在数量词前强调“足足、多达”；句末 แล้ว 表示状态延续至今，相当于“已经……了”。片段中表达“已经足足十五年没见面了”。
+examples:
+- text: ก็​ไม่ได้​เจอกัน​ตั้ง​สิบ​ห้า​ปี​แล้ว
+  reading: ''
+  annot: ก็​ไม่ได้​เจอกัน​ตั้ง​สิบ​ห้า​ปี​แล้ว
+  translation_zh: （我们）都足足十五年没见面了。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 体貌
+- 否定
+- 强调
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

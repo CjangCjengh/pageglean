@@ -1,0 +1,32 @@
+id: vi-grm-00233
+language: vi
+type: grammar
+level: L3
+level_rank: 3
+title: được + V：被动标记（被…）
+structure: N + được + V（被动式，施事居后）
+structure_pattern: 受事 + được + V
+explanation_zh: 越南语用 bị/được 构成被动，学校语法视其为被动标记：bị 多用于不如意的事，được 多用于如意或中性之事。「người được
+  yêu」即「被爱的人」。同句还用了使役结构 làm cho + 宾语 + trở thành（使……成为）。
+examples:
+- text: Tôi yêu nhưng không làm cho mình trở thành người được yêu.
+  reading: ''
+  annot: Tôi yêu nhưng không làm cho mình trở thành người được yêu.
+  translation_zh: 我爱着，却无法让自己成为被爱的人。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 被动
+- 语态
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

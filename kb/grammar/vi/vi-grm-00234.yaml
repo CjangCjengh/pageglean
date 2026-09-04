@@ -1,0 +1,32 @@
+id: vi-grm-00234
+language: vi
+type: grammar
+level: L3
+level_rank: 3
+title: 句末 đã：先…再说
+structure: V/A + đã（句末语气词）
+structure_pattern: V/A + tình thái từ đã
+explanation_zh: 这里的 đã 不是表过去的时态副词，而是句末语气词（tình thái từ），表示先做某事再说，相当于「先……（再说）」。如「Từ
+  từ đã」即「先别急、慢慢来」。
+examples:
+- text: Từ từ đã! chờ một chút!
+  reading: ''
+  annot: Từ từ đã! chờ một chút!
+  translation_zh: 先别急！等一会儿！
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 语气
+- 体貌
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

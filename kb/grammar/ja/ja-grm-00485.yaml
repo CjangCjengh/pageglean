@@ -1,0 +1,38 @@
+id: ja-grm-00485
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 〜のだ／なのです：解释与说明语气（口语形为〜んだ）
+structure: 用言終止形／体言 + のだ（です体：なのです；口语：んだ）
+structure_pattern: 終止形 + のだ / のです
+explanation_zh: 「の」是形式名词，把前项事态名词化并增添解释、说明的语气，后接断定助动词「だ／です」。口语中「の」变为「ん」，「んだ／んじゃない」等都是其变体。文中妹妹的博客反复使用「〜なのです」，营造稚嫩可爱的句末风格。
+examples:
+- text: ストーカーしていた甲斐があったのです！
+  reading: ''
+  annot: ストーカーしていた甲斐[かい]があったのです！
+  translation_zh: 一直跟踪真是没白费功夫啊！
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+- text: ああ、こういうところがだめなんだろうなぁ俺は
+  reading: ''
+  annot: ああ、こういうところがだめなんだろうなぁ俺は
+  translation_zh: 啊啊，我这种人果然就是不行啊。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 语气
+- 形式名词
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 5
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

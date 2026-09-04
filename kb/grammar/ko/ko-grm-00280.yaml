@@ -1,0 +1,32 @@
+id: ko-grm-00280
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: -는 것과 동시에：与……同一瞬间
+structure: V-(으)ㄴ/는 것과 동시에（관형사형 어미 ‘-(으)ㄴ/는’ + 의존명사 ‘것’ + ‘과 동시에’）
+structure_pattern: V-(으)ㄴ/는 것과 동시에
+explanation_zh: 冠形词形词尾‘-(으)ㄴ/는’修饰依存名词‘것’，后接‘과 동시에’，表示前后两个事件在同一瞬间发生。小说中常用此结构营造紧迫感。体词后则用‘명사와
+  동시에’的形式。
+examples:
+- text: 틸프의 몸이 땅에 닿는 것과 동시에, 방금 전까지 틸프가 서 있던 곳을 수십 개의 칼날이 꿰뚫었다.
+  reading: ''
+  annot: 틸프의 몸이 땅에 닿는 것과 동시에, 방금 전까지 틸프가 서 있던 곳을 수십 개의 칼날이 꿰뚫었다.
+  translation_zh: 蒂尔的身体触地的一瞬间，数十把刀刃刺穿了他方才站立的地方。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 接续
+- 时间关系
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

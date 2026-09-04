@@ -1,0 +1,33 @@
+id: vi-grm-00013
+language: vi
+type: grammar
+level: L2
+level_rank: 2
+title: 强调否定：đâu có + V
+structure: đâu có + 动词（才没有……，带反驳语气）
+structure_pattern: đâu có + V
+explanation_zh: đâu có + 动词 是带反驳、辩解语气的强调否定，意为『才没有/哪有的事』，否定力度强于单纯的 không。常用于否认对方的指控或说法。片段中女孩即用『Em
+  đâu có nhìn lén!』否认偷看。
+examples:
+- text: Em đâu có nhìn lén!
+  reading: ''
+  annot: Em đâu có nhìn lén!
+  translation_zh: 我才没有偷看呢！
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 否定
+- 语气
+- 虚词
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

@@ -1,0 +1,31 @@
+id: ja-grm-00509
+language: ja
+type: grammar
+level: N3
+level_rank: 3
+title: 〜わけがない：不可能……
+structure: 用言连体形 + 形式名词「わけ」+ 主格助词 が + 否定「ない」
+structure_pattern: V-る + わけ + が + ない
+explanation_zh: 形式名词「わけ」表示道理、缘由，接用言连体形后以「わけがない」表示强烈否定，意为“不可能……”。语气比「はずがない」更主观、更强烈，多用于独白。此处表现主人公意识到“她不可能没事”。
+examples:
+- text: そうだ。やっぱり大丈夫なわけがないんだ。
+  reading: ''
+  annot: そうだ。やっぱり大丈夫[だいじょうぶ]なわけがないんだ。
+  translation_zh: 对了。她果然是不可能没事的。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 形式名词
+- 语气表达
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

@@ -1,0 +1,31 @@
+id: ja-grm-00171
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 「〜気はない」：没有做某事的打算
+structure: 動詞辞書形 ＋ 名詞「気」＋ は ＋ ない
+structure_pattern: V-辞書形 + 気 + は + ない
+explanation_zh: 「気」在这里是表示意愿、心思的名词，「〜気はない／気がない」直接否定该名词，表示完全没有做某事的念头。文中用了礼貌体「気は無いです」。与「〜つもりはない」意思相近，但「気はない」更强调主观意愿的缺失。
+examples:
+- text: 少なくともこの世界で、王女と争う気は無いです。
+  reading: ''
+  annot: 少[すこし]なくともこの世界[せかい]で、王女[おうじょ]と争[あらそ]う気[き]は無[な]いです。
+  translation_zh: 至少在这个世界上，我没有与王女争斗的意思。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 名词
+- 语气
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

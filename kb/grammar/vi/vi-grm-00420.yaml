@@ -1,0 +1,39 @@
+id: vi-grm-00420
+language: vi
+type: grammar
+level: L1
+level_rank: 1
+title: những + 名词：复数标记
+structure: những + 名词（那些/一些……）
+structure_pattern: những + N
+explanation_zh: những 是表示复数的限定词（từ chỉ số nhiều），置于名词或数量短语前，相当于汉语的"那些、一些"。文中反复出现，如
+  những tia nắng（一缕缕阳光）、những làn gió（阵阵微风）。
+examples:
+- text: những tia nắng thôi nhảy múa
+  reading: ''
+  annot: những tia nắng thôi nhảy múa
+  translation_zh: 一缕缕阳光不再起舞
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+- text: hàng trăm những cảm giác khác nhau lại tràn ngập
+  reading: ''
+  annot: hàng trăm những cảm giác khác nhau lại tràn ngập
+  translation_zh: 上百种不同的感受又涌上心头
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 复数
+- 限定词
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 4
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

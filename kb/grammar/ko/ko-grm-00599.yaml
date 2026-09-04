@@ -1,0 +1,31 @@
+id: ko-grm-00599
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: -ㄴ/는 대신：取舍「不……而是……」
+structure: 용언 어간 + 관형사형 어미 '-(으)ㄴ/-는' + 의존명사 '대신'
+structure_pattern: V/A- + -(으)ㄴ/는 + 대신
+explanation_zh: 用言词干接'-(으)ㄴ/는 대신(에)'，表示放弃前项而改选后项，相当于'不……而是……'。句中'스스로 찾아내는 대신 나에게 묻다'即体现这种取舍关系。
+examples:
+- text: 결국 스스로 이유를 찾아내는 대신 나에게 묻는 쪽을 택했다.
+  reading: ''
+  annot: 결국 스스로 이유를 찾아내는 대신 나에게 묻는 쪽을 택했다.
+  translation_zh: 最终他放弃了自己琢磨出原因，而是选择直接问我。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 선택·대치
+- 의존명사
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

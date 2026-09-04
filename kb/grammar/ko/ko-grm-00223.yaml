@@ -1,0 +1,39 @@
+id: ko-grm-00223
+language: ko
+type: grammar
+level: TOPIK2
+level_rank: 2
+title: -니까：因为……（理由）
+structure: 용언 어간 + 이유 연결어미 '-니까'
+structure_pattern: V/A + 니까
+explanation_zh: '''-니까''表示理由或根据，可作连接词尾也可用于终结。它可与时制词尾-았/었-、推测-겠-结合，且后句可接命令、建议，这一点与-아/어서不同。本段用“넘으니까”“있으니까”陈述兵力对比的原因。'
+examples:
+- text: 우리는 7백으로 끝이지만, 저쪽의 총 병력은 7만을 넘으니까.
+  reading: ''
+  annot: 우리는 7백으로 끝이지만, 저쪽의 총 병력은 7만을 넘으니까.
+  translation_zh: 我们这边到七百人就是全部了，但对方总兵力超过了七万。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+- text: 공작님 입장이 있으니까.
+  reading: ''
+  annot: 공작님 입장이 있으니까.
+  translation_zh: 因为（要顾全）公爵大人的立场。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 原因
+- 接续
+- 终结词尾
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

@@ -1,0 +1,32 @@
+id: vi-grm-00235
+language: vi
+type: grammar
+level: L2
+level_rank: 2
+title: mặc dù…vẫn…：尽管…还是…
+structure: Mặc dù + 从句，主句 + vẫn + V（让步复句）
+structure_pattern: mặc dù + 从句, S + vẫn + V
+explanation_zh: mặc dù…vẫn… 是构成让步复句（câu ghép nhượng bộ）的成对关联词，相当于「尽管……还是……」。原文写作 Mặt
+  dù，是 Mặc dù 的笔误。另有近义的 mặc cho，意为「任凭」，如「tôi mặc cho nó ca」（我由着他唱）。
+examples:
+- text: Mặt dù tôi không hỏi, Hải gầy vẫn cứ giải đáp.
+  reading: ''
+  annot: Mặt dù tôi không hỏi, Hải gầy vẫn cứ giải đáp.
+  translation_zh: 尽管我没有问，瘦海还是一个劲儿地解答。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 让步
+- 复句
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

@@ -1,0 +1,40 @@
+id: ko-grm-00136
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: 「-기 때문이다」：原因与根据
+structure: 动词/形容词词干 + -기 때문이다
+structure_pattern: V/A-기 때문이다 / -기 때문인 것이다
+explanation_zh: 名词形转成词尾 -기 与依存名词 때문、이다 结合，提示前项事实的原因或根据，相当于中文"是因为……"。叙述文中常与 것이다 结合为
+  -기 때문인 것이다 以加强说明语气；句中亦见其缩略形连接词尾 -기에（있었기에）。
+examples:
+- text: 지금 클라우를 비롯한 다섯 여제후들이 제국을 지배하고 있을 수 있는 건 황제가 후사를 남기지 않았기 때문이다.
+  reading: ''
+  annot: 지금 클라우를 비롯한 다섯 여제후들이 제국을 지배하고 있을 수 있는 건 황제가 후사를 남기지 않았기 때문이다.
+  translation_zh: 如今包括克劳在内的五位女诸侯之所以能统治帝国，是因为皇帝没有留下后嗣。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+- text: 그동안 아즐란이 마음대로 활개치고 다닌 건 클라우가 뒤에 있었기 때문인 것이다.
+  reading: ''
+  annot: 그동안 아즐란이 마음대로 활개치고 다닌 건 클라우가 뒤에 있었기 때문인 것이다.
+  translation_zh: 这段日子阿兹兰之所以能肆意横行，是因为背后有克劳撑腰。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 因果
+- 依存名词
+- 叙述
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 4
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

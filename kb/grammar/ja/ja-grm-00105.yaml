@@ -1,0 +1,31 @@
+id: ja-grm-00105
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 〜てしまう：完成与遗憾（口语缩约〜ちゃう）
+structure: 動詞連用形＋接続助詞「て」＋補助動詞「しまう」（口语缩约为「ちゃう」）
+structure_pattern: V-連用形 + て + しまう → 〜ちゃう
+explanation_zh: 补助动词「しまう」接在动词连用形＋「て」之后，表示动作完成或带有遗憾、意外的心情。口语中「〜てしまう」缩约为「〜ちゃう」（「〜では」→「ちゃ」），「〜でしまう」则为「〜じゃう」。片段「思っちゃって」即「思ってしまう」的连用中止，表示"不由自主地这么想了"。
+examples:
+- text: どうも親しくなりそうになると『何か違う』って思っちゃってな……
+  reading: ''
+  annot: どうも親[した]しくなりそうになると『何[なに]か違[ちが]う』って思[おも]っちゃってな……
+  translation_zh: 总觉得每当快要熟络起来的时候，就会冒出"感觉不太对"的念头……
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 体貌
+- 口语
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

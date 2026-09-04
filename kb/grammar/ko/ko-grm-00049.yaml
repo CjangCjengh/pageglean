@@ -1,0 +1,33 @@
+id: ko-grm-00049
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: 「-(으)ㄴ 모양이다」：看来是……
+structure: 用言词干 + -(으)ㄴ 모양이다
+structure_pattern: V/A-(으)ㄴ 모양이다
+explanation_zh: 관형사형 전성어미 -(으)ㄴ 加의존명사'모양'（模样），依据观察到的外部迹象进行推测，相当于“看来、似乎”。与 -ㄴ 것 같다
+  相比，-ㄴ 모양이다 更强调由表象做出的推断，含“看样子是……”的意味。
+examples:
+- text: 아무래도 나와 레이나의 첫날밤에 무슨 문제가 발생한 거라 생각한 모양이다.
+  reading: ''
+  annot: 아무래도 나와 레이나의 첫날밤에 무슨 문제가 발생한 거라 생각한 모양이다.
+  translation_zh: 看来，她认定是我和蕾娜的初夜出了什么问题。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 依存名词
+- 推测
+- 语气
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

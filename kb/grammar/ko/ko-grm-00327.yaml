@@ -1,0 +1,33 @@
+id: ko-grm-00327
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: -았/었다면：与过去事实相反的假设
+structure: 动/形词干 + -았/었다면
+structure_pattern: V/A-았/었- + 연결어미 '-다면'
+explanation_zh: 过去时制先语末词尾 -았/었- 加假设连接词尾 -다면，表示与过去事实相反的假设，即“如果当时……的话”。后句常与 -(으)ㄹ 것이다
+  呼应表示推测。是追述“假如当初不同”的典型结构。
+examples:
+- text: 알테아의 성궤검 같은 무기가 있었다면 아즐란과의 전투도 다른 형태로 진행되었을 것이다.
+  reading: ''
+  annot: 알테아의 성궤검 같은 무기가 있었다면 아즐란과의 전투도 다른 형태로 진행되었을 것이다.
+  translation_zh: 如果当时有像阿尔特亚的圣柜剑那样的武器，与阿兹兰的战斗也会以不同的形式展开吧。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 连接词尾
+- 假设
+- 时制
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

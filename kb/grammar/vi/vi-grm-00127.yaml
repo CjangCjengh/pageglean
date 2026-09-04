@@ -1,0 +1,32 @@
+id: vi-grm-00127
+language: vi
+type: grammar
+level: L3
+level_rank: 3
+title: 「thế mà…lại」：然而却……（出乎意料的转折）
+structure: 分句1，thế mà + 分句2（常含 lại）
+structure_pattern: Clause1 + thế_mà + Clause2(+ lại)
+explanation_zh: 「thế mà」意为“然而、谁知”，引出与前句预期相反的结果。常与副词「lại」（竟然、却）呼应，加强出乎意料或不满的语气。相当于中文“明明……可是却……”。
+examples:
+- text: Tôi đã trốn nó thế mà nó lại lù lù dẫn xác tới.
+  reading: ''
+  annot: Tôi đã trốn nó thế mà nó lại lù lù dẫn xác tới.
+  translation_zh: 我明明躲着他，可他还是找上门来了。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 转折
+- 连接
+- 语气
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 7
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

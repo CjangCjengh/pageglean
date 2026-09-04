@@ -1,0 +1,39 @@
+id: ko-grm-00591
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: -(으)ㄹ 정도：程度之深
+structure: 용언 + 관형사형 전성어미 -(으)ㄹ + 의존명사 정도（+ 서술격 조사 이다 / 부사형 -로）
+structure_pattern: V/A-(으)ㄹ 정도(이다) / -(으)ㄹ 정도로
+explanation_zh: 依存名词정도经冠形词形-(으)ㄹ修饰，表示达到前项内容的程度。"-(으)ㄹ 정도이다"意为"到了……的地步"，"-(으)ㄹ 정도로"则作副词性成分修饰后句。文中两次使用该结构强调程度之深。
+examples:
+- text: 소풍 같은 건 굉장히 시시하고 쓸모없는 거라고 생각했었을 정도였거든.
+  reading: ''
+  annot: 소풍 같은 건 굉장히 시시하고 쓸모없는 거라고 생각했었을 정도였거든.
+  translation_zh: 甚至到了觉得郊游之类的东西极其无聊又没用的地步。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+- text: 꿈을 꾸지 않은 것이 신기할 정도로, 나는 오랜만에 단잠을 잘 수 있었다.
+  reading: ''
+  annot: 꿈을 꾸지 않은 것이 신기할 정도로, 나는 오랜만에 단잠을 잘 수 있었다.
+  translation_zh: 甚至到了令人惊讶于自己竟没做梦的程度，我久违地睡了个香甜的觉。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 程度
+- 依存名词
+- 修饰
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

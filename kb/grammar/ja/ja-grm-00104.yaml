@@ -1,0 +1,31 @@
+id: ja-grm-00104
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 〜ておく：事先准备（口语缩约〜とく）
+structure: 動詞連用形＋接続助詞「て」＋補助動詞「おく」（口语缩约为「とく」）
+structure_pattern: V-連用形 + て + おく → 〜とく
+explanation_zh: 补助动词「おく」接在动词连用形＋「て」之后，表示事先做好准备或暂时放任某状态。口语中「〜ておく」缩约为「〜とく」（「〜でおく」→「〜どく」），「しときます」即「しておきます」。此处表达"为避嫌我就先不听了"的婉拒语气。
+examples:
+- text: …………遠慮しときます
+  reading: ''
+  annot: …………遠慮[えんりょ]しときます
+  translation_zh: …………那我就先婉拒了。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 体貌
+- 口语
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

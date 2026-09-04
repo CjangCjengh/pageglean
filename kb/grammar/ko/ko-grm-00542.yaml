@@ -1,0 +1,40 @@
+id: ko-grm-00542
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: -(으)라고 하다：转述命令/请求
+structure: '간접 인용문: 명령형 어미 ''-(으)라'' + 인용 조사 ''고'' + ''하다'''
+structure_pattern: V-(으)라 + 고 하다
+explanation_zh: 间接引用中转述命令内容时用命令形 -(으)라 加 -고 하다，相当于中文“让/叫（某人）做……”。例1中请对方代为转告加罗；对朋友或晚辈直接下达亲切命令时，也可以
+  -(으)라고 作终结（如例2）。
+examples:
+- text: 가로한테 이따가 와서 침대 밑에 있는 검 찾아가라고 해.
+  reading: ''
+  annot: 가로한테 이따가 와서 침대 밑에 있는 검 찾아가라고 해.
+  translation_zh: 告诉加罗，待会儿过来把床底下的剑拿走。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+- text: 잘 다녀오라고!
+  reading: ''
+  annot: 잘 다녀오라고!
+  translation_zh: 好好去好好回来啊！（朋友间亲昵的命令）
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 间接引用
+- 命令
+- 敬语
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

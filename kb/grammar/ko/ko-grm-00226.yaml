@@ -1,0 +1,39 @@
+id: ko-grm-00226
+language: ko
+type: grammar
+level: TOPIK5
+level_rank: 5
+title: -다고 하더군요：听说……（回想与转述）
+structure: 간접 인용 연결어미 '-다고' + '하다' + 회상 선어말어미 '-더-' + 감탄 종결어미 '-군요'
+structure_pattern: V-다고 + 하다 + -더- + -군요
+explanation_zh: '''-다고''是陈述句的间接引用连接词尾，与하다结合表传闻。再加回想先语末词尾-더-与感叹终结词尾-군요，构成''-다고 하더군요''，表示回想并转述过去听到的事。本段由露西用此追忆讲述往事，兼有传闻与回忆语气。'
+examples:
+- text: 팔 근육이 회복되는 것을 기다려 다른 부분의 칼을 뽑았다고 하더군요.
+  reading: ''
+  annot: 팔 근육이 회복되는 것을 기다려 다른 부분의 칼을 뽑았다고 하더군요.
+  translation_zh: 听说（她）等手臂肌肉恢复后，再拔出了其他部位的刀。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+- text: 마지막으로 직접 목을 벴다고 하더군요.
+  reading: ''
+  annot: 마지막으로 직접 목을 벴다고 하더군요.
+  translation_zh: 听说最后是她亲手砍下了头颅。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 间接引用
+- 回想
+- 终结词尾
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

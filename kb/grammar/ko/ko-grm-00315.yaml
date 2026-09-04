@@ -1,0 +1,32 @@
+id: ko-grm-00315
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: -(으)ㄹ 테니까：推测性理由
+structure: 용언 어간 + -(으)ㄹ 터 + -이니까
+structure_pattern: V/A-(으)ㄹ 터이니까
+explanation_zh: 冠词形词尾'-(으)ㄹ'加依存名词'터'，再续接主格助词'이'和连接词尾'니까'，表示说话者基于推测或意志给出理由，相当于'反正会……所以'。带有较强的主观判断语气。文中克劳以此表达'反正能更久地享受杀你的过程'。
+examples:
+- text: 너를 죽이는 과정을 더 오래 즐길 수 있을 테니까.
+  reading: ''
+  annot: 너를 죽이는 과정을 더 오래 즐길 수 있을 테니까.
+  translation_zh: 因为我就能更久地享受杀死你的过程了。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 추측
+- 원인/이유
+- 의존명사
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

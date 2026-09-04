@@ -1,0 +1,38 @@
+id: ja-grm-00416
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 授受表现：〜てくれる／〜てあげる／〜てやる
+structure: 动词连用形＋て＋授受补助动词（くれる／あげる／やる）
+structure_pattern: V-連用形 + て + くれる/あげる/やる
+explanation_zh: 授受补助动词表示恩惠的方向与人际关系：「てくれる」表他人为自己方做事，「てあげる」表自己为他人做，「てやる」带粗鲁或戏谑色彩。「イラつかせてくれる」是使役形＋「てくれる」的反语用法，以“感谢”形式表达不满；留言里「スレ立ててやった」用「てやる」炫耀代干的“好事”。
+examples:
+- text: ノートの先頭には、さっそく俺をイラつかせてくれるすてきなお言葉。
+  reading: ''
+  annot: ノートの先頭[せんとう]には、さっそく俺[おれ]をイラつかせてくれるすてきなお言葉[ことば]。
+  translation_zh: 笔记本一开头就写着一句立刻惹我火大的“好话”。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+- text: 残ってたらレスしてあげてね！
+  reading: ''
+  annot: 残[のこ]ってたらレスしてあげてね！
+  translation_zh: 要是（帖子）还在，你就去回个帖呗！
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 授受
+- 口语
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 4
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

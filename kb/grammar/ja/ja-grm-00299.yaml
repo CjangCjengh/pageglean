@@ -1,0 +1,38 @@
+id: ja-grm-00299
+language: ja
+type: grammar
+level: N5
+level_rank: 1
+title: 〜ている→〜てる：口语中的「い」脱落
+structure: 動詞連用形＋接続助詞「て」＋補助動詞「いる」→「てる」（「い」の脱落）
+structure_pattern: V-連用形 + て + いる → てる
+explanation_zh: 口语中「連用形＋て＋いる」结构的「い」常脱落，变成「〜てる」，否定为「〜てない」。学校文法中此处的「いる」是补助动词，表示状态或结果的存续。片段「思ってない」（＝思っていない）、「治ってる」（＝治っている）均为轻小说口语的典型用例。
+examples:
+- text: そんな事は思ってない！ だけど今は――
+  reading: ''
+  annot: そんな事[こと]は思[おも]ってない！ だけど今[いま]は――
+  translation_zh: 我没有那么想！不过现在——
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+- text: 怪我は治ってるはずだけど……大丈夫？
+  reading: ''
+  annot: 怪我[けが]は治[なお]ってるはずだけど……大丈夫[だいじょうぶ]？
+  translation_zh: 伤应该已经治好了……没事吧？
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 口語
+- 体貌
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

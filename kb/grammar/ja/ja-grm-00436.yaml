@@ -1,0 +1,31 @@
+id: ja-grm-00436
+language: ja
+type: grammar
+level: N2
+level_rank: 4
+title: 〜にも関わらず：尽管（书面让步）
+structure: 动词连体形 + にも関わらず（関わる + 否定助动词 ず 的连用形）
+structure_pattern: V-连体形 + にも関わらず
+explanation_zh: 表示“尽管……却……”，比のに、けれども更为正式、书面。此处主人公用书面语来自我叙述，制造出郑重自我检讨的幽默效果。其中ず是否定助动词的连用形。
+examples:
+- text: こんなヒントが聞こえていたにも関わらず、迷うことなくドアノブに手をかけ、扉を開いてしまった。
+  reading: ''
+  annot: こんなヒントが聞[き]こえていたにも関[かか]わらず、迷[まよ]うことなくドアノブに手[て]をかけ、扉[とびら]を開[ひら]いてしまった。
+  translation_zh: 尽管都听到这么明显的动静了，我却毫不犹豫地把手搭上门把，推开了房门。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 接续
+- 书面语
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

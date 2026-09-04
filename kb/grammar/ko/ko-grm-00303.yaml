@@ -1,0 +1,38 @@
+id: ko-grm-00303
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: -(으)ㄹ 정도로：到……的程度
+structure: 用言词干 + -(으)ㄹ 정도로
+structure_pattern: V/A-(으)ㄹ 정도로
+explanation_zh: 依存名词정도表示程度，「-(으)ㄹ 정도로」意为「到……的程度」，为后句提供衡量基准。文中两次出现，分别写防御力之高与所受攻击之强。是叙事与议论中都高频的表达。
+examples:
+- text: 웬만한 공격은 그냥 찌릿한 느낌이 있을 정도로 완화시킬 수 있다.
+  reading: ''
+  annot: 웬만한 공격은 그냥 찌릿한 느낌이 있을 정도로 완화시킬 수 있다.
+  translation_zh: 一般的攻击可以削弱到只让人感到微微刺麻的程度。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+- text: 이렇게 몸을 가누지 못할 정도라는 건 상당히 강력한 공격을 받았다는 것이다.
+  reading: ''
+  annot: 이렇게 몸을 가누지 못할 정도라는 건 상당히 강력한 공격을 받았다는 것이다.
+  translation_zh: （现在）到了连身体都支撑不住的地步，说明遭到了相当强力的攻击。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 程度
+- 依存名词
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

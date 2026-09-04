@@ -1,0 +1,31 @@
+id: th-grm-00099
+language: th
+type: grammar
+level: L2
+level_rank: 2
+title: ไม่ใช่เหรอ：不是……吗？
+structure: 陈述内容 + ไม่ใช่เหรอ
+structure_pattern: X + ไม่ใช่เหรอ
+explanation_zh: 「ไม่ใช่」加疑问助词「เหรอ」（หรือ 的口语形式）构成确认性反问，相当于中文的「不是……吗？」。常带有惊讶或求证的语气，比一般疑问句更强调说话人已有判断。
+examples:
+- text: นี่​มัน​ซอสคา​โบ​นาร่า​ไม่ใช่​เหรอ?
+  reading: ''
+  annot: นี่​มัน​ซอสคา​โบ​นาร่า​ไม่ใช่​เหรอ?
+  translation_zh: 这不是卡邦尼拉酱吗？
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 疑问/确认
+- 语气
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

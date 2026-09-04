@@ -1,0 +1,32 @@
+id: ko-grm-00357
+language: ko
+type: grammar
+level: TOPIK5
+level_rank: 5
+title: 「-(으)ㄹ 텐데요」：推测加委婉异议
+structure: 冠形词尾 -(으)ㄹ + 依存名词 터(것) + 이다 + 连接词尾 -ㄴ데요
+structure_pattern: V-(으)ㄹ + 터 + -ㄴ데요
+explanation_zh: 依存名词 터 表推测的情境，'-ㄹ 터이다' 表示推测，后接 -ㄴ데요 留出话头，暗示事实与对方所言相左或提出委婉异议。比直接反驳含蓄礼貌，是敬语对话中表达质疑的经典句式。片段中是说话人对对方食言的软性抗议。
+examples:
+- text: 제가 협력해 주는 대신 클라우 에른베스크를 죽여 주겠다고 약속하셨을 텐데요.
+  reading: ''
+  annot: 제가 협력해 주는 대신 클라우 에른베스크를 죽여 주겠다고 약속하셨을 텐데요.
+  translation_zh: 我记得您明明答应过，作为我协助的交换，会去杀掉克劳·艾恩贝斯克的呀。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 语气
+- 敬语
+- 依存名词
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

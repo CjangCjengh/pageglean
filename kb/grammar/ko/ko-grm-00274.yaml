@@ -1,0 +1,39 @@
+id: ko-grm-00274
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: -면서/-며：两个动作同时进行
+structure: '用言词干 + -면서（축약형: -며）'
+structure_pattern: 용언 어간 + 연결어미 -면서（동시·배경；축약형 -며）
+explanation_zh: 连接词尾 -면서 表示两个动作同时进行，前一动作常作后一动作的背景，前后主语须一致，相当于中文的“一边……一边……”。缩写形 -며（如“움직이며”）在书面语中常见。片段中“지켜보면서
+  분석하다”“웃으면서 입을 열다”均为典型用例。
+examples:
+- text: 지금까지 당신을 지켜보면서 계속 분석하고 있었어.
+  reading: ''
+  annot: 지금까지 당신을 지켜보면서 계속 분석하고 있었어.
+  translation_zh: 一直以来，我一边观察着你，一边不停地在分析。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+- text: 클라우가 웃으면서 입을 연 그 순간, 틸프의 눈앞에 검은색 칼날이 출현했다.
+  reading: ''
+  annot: 클라우가 웃으면서 입을 연 그 순간, 틸프의 눈앞에 검은색 칼날이 출현했다.
+  translation_zh: 克劳笑着开口的那一瞬间，一柄黑色刀刃出现在蒂尔芙眼前。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 连接词尾
+- 同时
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 5
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

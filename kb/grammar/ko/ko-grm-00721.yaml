@@ -1,0 +1,33 @@
+id: ko-grm-00721
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: 「-(으)려 하다：意图与即将发生」
+structure: 动词词干 + 补助结构 -(으)려 하다（-(으)려고 하다 的缩略）
+structure_pattern: V + -(으)려 하다
+explanation_zh: -(으)려 하다 是表意图、打算的连接词尾 -(으)려고 + 보조동사 하다 的缩略。否定形 -려 하지 않다 表示不打算、不愿做某事；接冠形形转成词尾后（如
+  -려는 것）可修饰体言，表示某动作眼看就要发生。对应汉语「打算／想要／将要」。
+examples:
+- text: 헛구역질이 올라오려는 것을 간신히 참아 냈다.
+  reading: ''
+  annot: 헛구역질이 올라오려는 것을 간신히 참아 냈다.
+  translation_zh: 她好不容易才忍住了涌上来的恶心感。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 보조용언
+- 의도
+- 축약
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

@@ -1,0 +1,38 @@
+id: ja-grm-00220
+language: ja
+type: grammar
+level: N2
+level_rank: 4
+title: 形式名词「ところ（所）」：〜たところ与口语「とこ」
+structure: 動詞連体形（特に「た」形）＋ ところ／とこ
+structure_pattern: V-た + ところ
+explanation_zh: 形式名词「ところ」表示场面、时机或结果。「〜たところ」表示做了某事之后出现了（多为意外的）结果，多用于书面叙述。口语中「ところ」常缩为「とこ」，如本段旁白的「ってとこか」（大概就是……那么回事吧）。
+examples:
+- text: どうにもイヤな予感がするため訊いてみた所、非難するような言葉が返ってきた。
+  reading: ''
+  annot: どうにもイヤな予感[よかん]がするため訊[き]いてみた所[ところ]、非難[ひなん]するような言葉[ことば]が返[かえ]ってきた。
+  translation_zh: 因为总有种不妙的预感，便试着问了一下，结果却招来了像是责难般的话语。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+- text: 表情から読むに……『楽しい』と『異常』が混ざって『愉快』ってとこか？
+  reading: ''
+  annot: 表情[ひょうじょう]から読[よ]むに……『楽[たの]しい』と『異常[いじょう]』が混[ま]ざって『愉快[ゆかい]』ってとこか？
+  translation_zh: 要说从表情上读出来的话……大概就是“快乐”和“异常”混在一起，也就是所谓的“愉快”吧？
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 形式名词
+- 接续
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

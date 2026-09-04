@@ -1,0 +1,38 @@
+id: vi-grm-00077
+language: vi
+type: grammar
+level: L3
+level_rank: 3
+title: mới：刚、才与「直到……才……」
+structure: 副词 mới + V；时间状语 + mới + V
+structure_pattern: mới + V / 时间状语 + mới + V
+explanation_zh: mới 表示动作刚发生或数量尚少，相当于「刚／才」；置于时间词语之后则强调耗时之久、事情终于实现，相当于汉语「（到……）才……」。
+examples:
+- text: Mới được nửa cuốn.
+  reading: ''
+  annot: Mới được nửa cuốn.
+  translation_zh: 才读了半本。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+- text: Tôi thức đến ba giờ sáng mới đọc xong cuốn sách.
+  reading: ''
+  annot: Tôi thức đến ba giờ sáng mới đọc xong cuốn sách.
+  translation_zh: 我熬到凌晨三点才读完那本书。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 体貌
+- 时间副词
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

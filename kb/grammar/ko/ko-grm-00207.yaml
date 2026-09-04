@@ -1,0 +1,39 @@
+id: ko-grm-00207
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: 「-아/어 버리다：彻底完成」
+structure: 动词词干 + -아/어 버리다
+structure_pattern: V- + -아/어 + 버리다(보조용언)
+explanation_zh: '''버리다'' 作补助动词（보조동사），接在连接词尾 -아/어 后，表示动作彻底完成，常带干脆、决绝或遗憾的语气，相当于中文“……掉”“干脆……了”。片段用“죽여
+  버리다”“깔아뭉개 버리다”渲染杀伐的决绝感。'
+examples:
+- text: 너는 그 아즐란을 짓밟고, 유린하고, 모든 것을 빼앗아…… 마침내 죽여 버리는 거지.
+  reading: ''
+  annot: 너는 그 아즐란을 짓밟고, 유린하고, 모든 것을 빼앗아…… 마침내 죽여 버리는 거지.
+  translation_zh: 你会践踏那个阿兹兰、凌辱他、夺走一切……最终把他杀掉。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+- text: 클라우 본인의 전투력과 796만 마나르로 운용하는 군사력을 이용해 아즐란의 작전 자체를 깔아뭉개 버릴 생각이다.
+  reading: ''
+  annot: 클라우 본인의 전투력과 796만 마나르로 운용하는 군사력을 이용해 아즐란의 작전 자체를 깔아뭉개 버릴 생각이다.
+  translation_zh: 她打算用自身的战斗力和以796万马纳尔运作的军力，把阿兹兰的作战本身彻底碾碎。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 补助动词
+- 体貌
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 70
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

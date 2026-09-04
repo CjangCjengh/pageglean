@@ -1,0 +1,39 @@
+id: ko-grm-00054
+language: ko
+type: grammar
+level: TOPIK2
+level_rank: 2
+title: 「-기 위해(서)」：为了……
+structure: 动词词干 + -기 위해(서)；-기 위한 + 名词
+structure_pattern: V-기 + 위해서 / 위한 + N
+explanation_zh: 명사형 전성어미 -기 加의존명사'위해서'表示行为目的，“为了……”；修饰名词时换用관형사형 -기 위한。语体偏书面，口语多说 -려고，片段中连续用于交代迷宫防御设施的目的。
+examples:
+- text: 그 내부에는 외적을 격퇴하기 위한 방어 시설이 무수히 존재한다.
+  reading: ''
+  annot: 그 내부에는 외적을 격퇴하기 위한 방어 시설이 무수히 존재한다.
+  translation_zh: 其内部存在着无数用于击退外敌的防御设施。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+- text: 미궁이라고는 해도 단순히 출구를 찾아내기 위해 이곳저곳을 헤매야 하는 미로 같은 구조는 아니다.
+  reading: ''
+  annot: 미궁이라고는 해도 단순히 출구를 찾아내기 위해 이곳저곳을 헤매야 하는 미로 같은 구조는 아니다.
+  translation_zh: 虽说是迷宫，却并非那种只为寻找出口而四处转悠的迷宫式结构。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 目的
+- 接续
+- 依存名词
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

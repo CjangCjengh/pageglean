@@ -1,0 +1,39 @@
+id: th-grm-00073
+language: th
+type: grammar
+level: L2
+level_rank: 2
+title: 句末语气助词：ล่ะ・นะ・เหรอ・แฮะ
+structure: ประโยค + คำลงท้าย (ล่ะ/นะ/เหรอ/แฮะ)
+structure_pattern: VP + ล่ะ/นะ/เหรอ/แฮะ
+explanation_zh: 泰语句末助词用以表达语气与情感色彩：ล่ะ 加强肯定、提示对方注意；นะ 使语气柔和、带有征询或亲昵；เหรอ 表示惊讶与疑问；แฮะ
+  流露说话人的轻微惊讶或自嘲。助词本身无实义，却是口语自然度的关键。
+examples:
+- text: พระเอก​ของ​เรื่อง​นั้น​คือ​คุณ​ชา​ใช่​ไหม​ล่ะ
+  reading: ''
+  annot: พระเอก​ของ​เรื่อง​นั้น
+  translation_zh: 那部作品的男主角就是查先生，对吧。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+- text: เรื่อง​นี้​ฉัน​ชอบ​นะ
+  reading: ''
+  annot: เรื่อง​นี้​ฉัน​ชอบ​นะ
+  translation_zh: 这部作品我挺喜欢的哦。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 语气
+- 助词
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 5
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

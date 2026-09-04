@@ -1,0 +1,40 @@
+id: ko-grm-00178
+language: ko
+type: grammar
+level: TOPIK2
+level_rank: 2
+title: -(으)ㄹ 수 있다/없다：可能性
+structure: 用言词干 + 冠形词形转成词尾 -(으)ㄹ + 依存名词 수 + 있다/없다
+structure_pattern: 용언 어간 + 관형사형 전성어미 -(으)ㄹ + 의존명사 수 + 있다/없다
+explanation_zh: 冠形词形转成词尾 -(으)ㄹ 修饰依存名词 수（可能性、办法），再由 있다/없다 叙述，构成可能式。文中既作谓语，也作定语，如 이끌
+  수 있는 修饰名词。还可与依存名词 리 呼应，用 수 있을 리가 없다 强烈否定可能性。
+examples:
+- text: 많은 사람을 구하고, 세계를 올바른 방향으로 이끌 수 있는 남자였어.
+  reading: ''
+  annot: 많은 사람을 구하고, 세계를 올바른 방향으로 이끌 수 있는 남자였어.
+  translation_zh: 他是个能拯救许多人、把世界引向正确方向的男人。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+- text: 그 역할을 대신할 수 있을 리가 없단 말이야.
+  reading: ''
+  annot: 그 역할을 대신할 수 있을 리가 없단 말이야.
+  translation_zh: 不可能代替得了那个角色的。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 可能性
+- 依存名词
+- 定语
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 5
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

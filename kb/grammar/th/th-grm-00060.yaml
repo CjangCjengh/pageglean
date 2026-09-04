@@ -1,0 +1,31 @@
+id: th-grm-00060
+language: th
+type: grammar
+level: L3
+level_rank: 3
+title: ราวกับ (ว่า/เป็น)：比喻「仿佛、就像」
+structure: ราวกับ + (ว่า / เป็น) + นามหรืออนุประโยค — คำเชื่อมอุปมา
+structure_pattern: ราวกับ + (ว่า/เป็น) + NP/Clause
+explanation_zh: ราวกับ是比喻连词（คำเชื่อมอุปมา），意为「仿佛、就像」，后常接ว่า或เป็น引出比喻的内容，可接名词或小句。同类词还有เหมือน、ดัง、อย่างกับ。片段中「说出口时仿佛只是一件寻常事」即用此结构，与听者内心的震动形成反差。
+examples:
+- text: เธอ​พูด​ออกมา​ราวกับ​เป็นเรื่อง​ธรรมดา
+  reading: ''
+  annot: เธอ​พูด​ออกมา​ราวกับ​เป็นเรื่อง​ธรรมดา
+  translation_zh: 她说出口时，仿佛那只是一件再平常不过的事。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 比较结构
+- 比喻
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

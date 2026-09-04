@@ -1,0 +1,39 @@
+id: vi-grm-00248
+language: vi
+type: grammar
+level: L1
+level_rank: 1
+title: 别～：禁止祈使「Đừng + V」
+structure: Đừng + V（+ 语气词）
+structure_pattern: Đừng + V
+explanation_zh: 相当于汉语「别／不要～用于劝阻」，是最基本的否定祈使式，动词前直接加 đừng 即可。片段中海瘦连续三次用此结构劝慰主人公，可见其在日常口语中的高频与自然。语气需要缓和时可在句尾加
+  nữa、nhé 等。
+examples:
+- text: Đừng nóng ruột!
+  reading: ''
+  annot: Đừng nóng ruột!
+  translation_zh: 别着急！
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+- text: Đừng nản chí, mày chỉ cần ráng thêm chừng mười ngày nữa thôi.
+  reading: ''
+  annot: Đừng nản chí, mày chỉ cần ráng thêm chừng mười ngày nữa thôi.
+  translation_zh: 别灰心，你只需要再坚持大约十天就行了。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 语气
+- 祈使句
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

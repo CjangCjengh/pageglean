@@ -1,0 +1,31 @@
+id: ja-grm-00625
+language: ja
+type: grammar
+level: N3
+level_rank: 3
+title: 〜のではないかと思います：我想大概〜吧
+structure: 〜のではないかと思います
+structure_pattern: Clause + のではないか + と思う
+explanation_zh: 由「のだ」的解释语气叠加「ではないか」「と思う」构成，整体用于委婉表达自己的推测，避免武断断言。「いただけた」为「いただく」的可能形接续过去助动词「た」。是正式场合中表示谦逊推断的常用组合。
+examples:
+- text: きっとこの点に限っては満足していただけたのではないかと思います。
+  reading: ''
+  annot: きっとこの点[てん]に限[かぎ]っては満足[まんぞく]していただけたのではないかと思います。
+  translation_zh: 我想，唯独在这一点上应该是让（对方）满意了吧。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 语气
+- 推断
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

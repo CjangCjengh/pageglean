@@ -1,0 +1,39 @@
+id: th-grm-00039
+language: th
+type: grammar
+level: L1
+level_rank: 1
+title: กำลัง…อยู่：正在进行
+structure: กำลัง + 动词 + อยู่（进行体框式结构）
+structure_pattern: กำลัง + V + อยู่
+explanation_zh: 泰语进行体用框式结构「กำลัง+动词（+อยู่）」，相当于“正在……”；กำลัง 置于动词前，อยู่ 收在句末，两者可单用也可呼应。片段中
+  “กำลังพูดอยู่ค่ะ” 是电话用语，表示自己正是对方要找的人。
+examples:
+- text: กำลัง​พูด​อยู่​ค่ะ
+  reading: ''
+  annot: กำลัง​พูด​อยู่​ค่ะ
+  translation_zh: （我就是，）正在说话呢。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+- text: ระหว่างที่​กำลัง​คิด​อยู่​นั่นเอง
+  reading: ''
+  annot: ระหว่างที่​กำลัง​คิด​อยู่​นั่นเอง
+  translation_zh: 正当（我）这么想着的时候……
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 体貌
+- 进行态
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

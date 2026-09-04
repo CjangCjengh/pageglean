@@ -1,0 +1,39 @@
+id: ko-grm-00519
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: 终结词尾 -는데：迟疑、反问与铺垫
+structure: 用言词干 + 终结词尾 -ㄴ/는데（动词/过去时用 -는데，形容词用 -ㄴ데）
+structure_pattern: 용언 어간 + -ㄴ/는데 (종결어미)
+explanation_zh: 终结词尾 -ㄴ/는데 不把话说尽，留下余韵，可表示迟疑、轻微疑问或为后文做铺垫。口语半语中极为常见，具体是疑问还是感叹取决于语调。
+examples:
+- text: 잠깐만. 이 상황……, 어쩐지 익숙한데?
+  reading: ''
+  annot: 잠깐만. 이 상황……, 어쩐지 익숙한데?
+  translation_zh: 等等。这个状况……总觉得有点熟悉？
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+- text: 어, 몰라. 그냥 오빠 보면 가슴이 막 콩닥콩닥하는데?
+  reading: ''
+  annot: 어, 몰라. 그냥 오빠 보면 가슴이 막 콩닥콩닥하는데?
+  translation_zh: 呃，不知道啦。就是看到哥哥，心就怦怦直跳嘛？
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 终结词尾
+- 语气
+- 口语
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

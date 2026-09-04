@@ -1,0 +1,39 @@
+id: ko-grm-00224
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: -ㄹ 뿐이다：只是……而已
+structure: 용언 '-(으)ㄹ' + 의존명사 '뿐' + '이다'
+structure_pattern: V/A-(으)ㄹ + 뿐 + 이다
+explanation_zh: 依存名词뿐意为“只、仅仅”，接在用言的-(으)ㄹ定语形后构成'-ㄹ 뿐이다'，限定范围并排除其他。相当于中文的“只不过……而已”。本段用它淡化威胁，强调“仅仅如此”。
+examples:
+- text: 나는 그 여자가 시비 거는 걸 일방적으로 방어했을 뿐이야.
+  reading: ''
+  annot: 나는 그 여자가 시비 거는 걸 일방적으로 방어했을 뿐이야.
+  translation_zh: 我只是单方面地防着那个女人找茬而已。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+- text: 자기재생 능력이 있을 뿐이다.
+  reading: ''
+  annot: 자기재생 능력이 있을 뿐이다.
+  translation_zh: 只不过有一种自我再生能力罢了。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 限定
+- 依存名词
+- 谓语
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

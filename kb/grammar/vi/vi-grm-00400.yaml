@@ -1,0 +1,40 @@
+id: vi-grm-00400
+language: vi
+type: grammar
+level: L1
+level_rank: 1
+title: 「rồi」：完成与事态变化
+structure: 动词/形容词 + rồi
+structure_pattern: V + rồi (phó từ hoàn thành)
+explanation_zh: 越南语学校语法将 rồi 归为表示完成的副词（phó từ），用在动词后表示动作已完成，或置于句末表示情况已发生变化，相当于中文“了”。与
+  đã 不同，rồi 侧重“已然如此”的现状，可单独使用而不与 đã 同现。片段中“đi rồi”“bán mất rồi”“xin rồi”反复出现，是口语中最高频的完成表达。
+examples:
+- text: Mẹ mày đâu rồi?
+  reading: ''
+  annot: Mẹ mày đâu rồi?
+  translation_zh: 你妈妈去哪儿了？
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+- text: Mẹ em lại đi rồi.
+  reading: ''
+  annot: Mẹ em lại đi rồi.
+  translation_zh: 我妈妈又走了。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 体貌
+- 副词
+- 语气
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 7
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

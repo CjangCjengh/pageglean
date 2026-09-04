@@ -1,0 +1,40 @@
+id: ko-grm-00420
+language: ko
+type: grammar
+level: TOPIK5
+level_rank: 5
+title: 「-더니：回想中的转折」
+structure: 用言 + 선어말어미 -더-（回想）+ 연결어미 -니
+structure_pattern: V/A-더니
+explanation_zh: 连接词尾 -더니 由回想先词尾 -더- 加 -니 构成，叙述说话人先前目睹的状况，并暗示其与后文形成转折或成为后文的原因。主语多为第三人称（回想的对象）。此处‘기대어
+  서더니’描写基里原本靠着书架发呆，随后转为开口提问。
+examples:
+- text: 키이리가 부서진 책장에 기대어 서더니 다소 심각한 목소리로 나에게 물었다.
+  reading: ''
+  annot: 키이리가 부서진 책장에 기대어 서더니 다소 심각한 목소리로 나에게 물었다.
+  translation_zh: 基里靠着破损的书架站着，随后用颇为严肃的语气问了我。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+- text: 눈이 평소의 세 배쯤은 커져서 나를 노려보더니 탄식하듯 말했다.
+  reading: ''
+  annot: 눈이 평소의 세 배쯤은 커져서 나를 노려보더니 탄식하듯 말했다.
+  translation_zh: 她的眼睛瞪得比平时大了三倍左右，怒视着我，随后像叹息似的说道。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 连接词尾
+- 回想
+- 转折
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

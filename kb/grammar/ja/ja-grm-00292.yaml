@@ -1,0 +1,31 @@
+id: ja-grm-00292
+language: ja
+type: grammar
+level: N2
+level_rank: 4
+title: 〜にしてでも：哪怕付出代价也要
+structure: 体言＋にしてでも（＝～という代償を払ってでも）
+structure_pattern: N + にしてでも
+explanation_zh: 「体言＋にしてでも」表示即使付出该代价、采用该极端手段也要做某事，意为"哪怕牺牲……也要……"。句中常与意志表现「〜ようとする」呼应。书面与口语皆可使用。
+examples:
+- text: きっとイスカは、自分を犠牲にしてでもリアや俺を守ろうとするだろう。
+  reading: ''
+  annot: きっとイスカは、自分[じぶん]を犠牲[ぎせい]にしてでもリアや俺[おれ]を守[まも]ろうとするだろう。
+  translation_zh: 伊斯卡一定会不惜牺牲自己，也要守护莉亚和我吧。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 接续
+- 语气
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

@@ -1,0 +1,33 @@
+id: ko-grm-00631
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: -는데：铺垫背景与轻微转折
+structure: 用言词干 + -는데（连接词尾）
+structure_pattern: V/A-는데 (연결어미)
+explanation_zh: 连接词尾 -는데 用于提示背景情况，引出后句的新状况、疑问或判断，也可表轻微转折，语气比 -지만 委婉。片段“영주가 죽었는데 이런
+  분위기면 이상하지”先摆出“领主死了”的背景，再推出“气氛不对劲”的判断。口语与叙述中均高频。
+examples:
+- text: 확실히 영주가 죽었는데 이런 분위기면 이상하지.
+  reading: ''
+  annot: 확실히 영주가 죽었는데 이런 분위기면 이상하지.
+  translation_zh: 确实，领主都死了，却还是这种气氛的话就太奇怪了。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 连接词尾
+- 背景
+- 转折
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

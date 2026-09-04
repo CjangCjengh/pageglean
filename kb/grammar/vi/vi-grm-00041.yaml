@@ -1,0 +1,38 @@
+id: vi-grm-00041
+language: vi
+type: grammar
+level: L1
+level_rank: 1
+title: 分类词（量词）：cuốn/câu
+structure: 数词/疑问词 + 分类词 + 名词
+structure_pattern: NUM/WH + CL(cuốn, câu) + N
+explanation_zh: 越南语名词前须搭配分类词（量词），类似中文的“本”“句”：书、册用“cuốn”，诗句、句子用“câu”。即使说“什么书”也要说“cuốn
+  gì”，量词不可省略。这是越南语名词短语的基本结构。
+examples:
+- text: Việt An xem cuốn gì vậy?
+  reading: ''
+  annot: Việt An xem cuốn gì vậy?
+  translation_zh: 越安在看什么书呢？
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+- text: tôi nắn nót chép ở trang đầu cuốn sách hai câu thơ của Nguyễn Bính
+  reading: ''
+  annot: tôi nắn nót chép ở trang đầu cuốn sách hai câu thơ của Nguyễn Bính
+  translation_zh: 我工工整整地在书的扉页抄上了阮丙的两句诗
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 量词/分类词
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 6
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

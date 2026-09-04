@@ -1,0 +1,31 @@
+id: ja-grm-00103
+language: ja
+type: grammar
+level: N2
+level_rank: 4
+title: 〜ねばならない：必须……（书面义务表达）
+structure: 動詞未然形＋打消助動詞「ぬ」未然形「ね」＋接続助詞「ば」＋ならない
+structure_pattern: V-未然形 + ねば + ならない
+explanation_zh: 由打消助动词「ぬ」的未然形「ね」接接续助词「ば」再加「ならない」构成，相当于「なければならない」，文言色彩浓厚。片段「せねばならん」中「せ」是サ变动词「す」的未然形，「ならん」是「ならない」的口语缩略（「ない」→「ん」）。语气生硬，多用于书面或男性角色抱怨式的口吻。
+examples:
+- text: ……なんで出会って数時間の相手と同衾せねばならんと？
+  reading: ''
+  annot: ……なんで出会[であ]って数[すう]時間[じかん]の相[あい]手[て]と同衾[どうきん]せねばならんと？
+  translation_zh: ……为什么我非得跟认识才几个小时的家伙同床共枕不可？
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 义务
+- 文言
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

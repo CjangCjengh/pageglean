@@ -1,0 +1,39 @@
+id: ko-grm-00377
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: -(으)ㄹ지도 모르다：也许、说不定
+structure: 用言词干 + 冠形形词尾 -(으)ㄹ + 依存名词 지 + 모르다（表示不确定的推测）
+structure_pattern: V/A + -(으)ㄹ지도 모르다
+explanation_zh: 表示把握不大的推测，“也许……说不定”，语气比 -ㄹ 것 같다 更不确定。文中“알고 있을지도 모르지만”叠加了 -고 있다（状态持续）与
+  -지만（转折），可学习多层词尾的组合方式。
+examples:
+- text: 알테아나 루시는 알고 있을지도 모르지만, 우리들한테 그런 얘기는 별로 안 하니까 말이지.
+  reading: ''
+  annot: 알테아나 루시는 알고 있을지도 모르지만, 우리들한테 그런 얘기는 별로 안 하니까 말이지.
+  translation_zh: 阿尔忒亚和露西说不定是知道的，但她们不太跟我们说这种事嘛。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+- text: 인간답게 살다가 인간답게 죽었을지도 모른다.
+  reading: ''
+  annot: 인간답게 살다가 인간답게 죽었을지도 모른다.
+  translation_zh: 也许会像人一样活着，像人一样死去。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 推测
+- 依存名词
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

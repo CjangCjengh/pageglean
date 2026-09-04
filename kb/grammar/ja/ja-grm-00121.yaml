@@ -1,0 +1,31 @@
+id: ja-grm-00121
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 「〜はずだ」：有依据的推断
+structure: 动词终止形／体言 + はずだ
+structure_pattern: V終止形 + はずだ
+explanation_zh: 学校文法将「はず」归为形式名词，表示基于某种根据认定某事“理应如此”，确定性高于「だろう」。片段中瑞亚依据仪式流程断定和希“应该能看见”状态窗口，故用「見えるはずだ」。否定义推量用「〜はずがない」。
+examples:
+- text: さぁ、目を開けてみてくれ。見えるはずだ
+  reading: ''
+  annot: さぁ、目[め]を開[あ]けてみてくれ。見[み]えるはずだ
+  translation_zh: 来，睁开眼睛看看。应该能看见的。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 形式名詞
+- 推量
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

@@ -1,0 +1,31 @@
+id: vi-grm-00307
+language: vi
+type: grammar
+level: L4
+level_rank: 4
+title: có…cũng…：让步假设（“即使……也……”）
+structure: có + V + cũng + (chẳng/không) + V
+structure_pattern: có + V + cũng + V
+explanation_zh: 让步复句结构（câu ghép nhượng bộ）：“có＋动词”先退一步提出假设，“cũng”引出无论如何都不变的结论，相当于“即使/就算……也……”。常与chẳng/không等否定词连用，比dù…cũng…更口语化。
+examples:
+- text: Tôi biết có đuổi cũng chẳng kịp.
+  reading: ''
+  annot: Tôi biết có đuổi cũng chẳng kịp.
+  translation_zh: 我知道，就算追也追不上了。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 复句/让步
+- 虚词
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

@@ -1,0 +1,30 @@
+id: ja-grm-00066
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 〜てから：……之后
+structure: Vて形 + から
+structure_pattern: V-て + から
+explanation_zh: 表示前项动作完成之后再进行后项，强调先后顺序，"……之后"。与单纯并列的「〜て」相比，「〜てから」的时间先后意味更明确。
+examples:
+- text: 少女の髪をクシャクシャッと撫でてから脱衣所を出る。
+  reading: しょうじょのかみをクシャクシャッとなでてからだついしょをでる
+  annot: 少女の髪をクシャクシャッと撫でてから脱[だつ]衣[い]所を出る。
+  translation_zh: 把少女的头发揉得乱糟糟之后，我出了更衣室。
+  source_book: book-ja-001
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 接续
+provenance:
+  discovered_in: book-ja-001
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

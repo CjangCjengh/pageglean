@@ -1,0 +1,40 @@
+id: ko-grm-00389
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: 「-ㄹ지도 모르다」：不确定的推测
+structure: 用言词干 + 관형사형 전성어미 -(으)ㄹ + 의존명사（依存名词）줄(지) + 모르다
+structure_pattern: V/A- + -(으)ㄹ지도 모르다
+explanation_zh: 冠形词尾'-(으)ㄹ'加依存名词'줄(지)'再加'모르다'，字面是'不知道会不会……'，表不太有把握的推测，相当于'也许、搞不好'。片段中以'-ㄹ지도
+  모르지만'先让步承认一种可能性，再说出自己的判断，语感委婉。
+examples:
+- text: 경험이 쌓이면 보다 거칠고 격렬한 행위를 선호하게 될지도 모르지만, 지금은 이 정도로 부드러운 게 나은 것 같다.
+  reading: ''
+  annot: 경험이 쌓이면 보다 거칠고 격렬한 행위를 선호하게 될지도 모르지만, 지금은 이 정도로 부드러운 게 나은 것 같다.
+  translation_zh: 随着经验积累，也许会变得偏好更粗暴激烈的行为，但现在还是觉得这般温柔的比较好。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+- text: 다른 여자는 그렇게 해 주면 감동 받을지도 모르지만, 저한테는 안 통해요.
+  reading: ''
+  annot: 다른 여자는 그렇게 해 주면 감동 받을지도 모르지만, 저한테는 안 통해요.
+  translation_zh: 别的女人被那样对待或许会感动，但对我可没用。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 依存名词
+- 推测
+- 语气
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

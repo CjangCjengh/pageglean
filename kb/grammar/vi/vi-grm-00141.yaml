@@ -1,0 +1,32 @@
+id: vi-grm-00141
+language: vi
+type: grammar
+level: L3
+level_rank: 3
+title: bị：不如意被动句
+structure: 受事主语 + bị + 动词（câu bị động）
+structure_pattern: S + bị + V (+ bổ ngữ)
+explanation_zh: 越南语被动句（câu bị động）常用 bị / được 两个标记：bị 多表示主语遭受不利、不如意的事情，được 多表示获益。片段中“chiếc
+  lon bị bắn tung đi”指易拉罐“遭”弹射而飞走，含不如意色彩，与汉语带贬义的“被”字句相近。
+examples:
+- text: Lần này, chiếc lon bị bắn tung đi và lăn lông lốc.
+  reading: ''
+  annot: Lần này, chiếc lon bị bắn tung đi và lăn lông lốc.
+  translation_zh: 这一次，易拉罐被弹飞出去，骨碌碌地滚。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 被动
+- 句式
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

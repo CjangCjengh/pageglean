@@ -1,0 +1,32 @@
+id: ja-grm-00435
+language: ja
+type: grammar
+level: N2
+level_rank: 4
+title: 〜気がしないでもない：双重否定式委婉
+structure: 「気がする」的双重否定形式（しないでもない）
+structure_pattern: V-连体形 + 気がしないでもない
+explanation_zh: 用双重否定「ないでもない」表示部分肯定，意为“也不是不觉得、多少有点……”。语气比直接断定柔和，常带有自嘲或含糊其辞的语感，是典型的口语委婉表达。
+examples:
+- text: なんだか乗せられた気がしないでもないが、わざわざ買ってくれたものを着ないのも悪いので着用してみる。
+  reading: ''
+  annot: なんだか乗[の]せられた気[き]がしないでもないが、わざわざ買[か]ってくれたものを着[き]ないのも悪[わる]いので着用[ちゃくよう]してみる。
+  translation_zh: 总觉得有种被人牵着鼻子走的感觉，但特意买来的东西不穿也不好，于是还是试穿了一下。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 语气
+- 双重否定
+- 口语
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

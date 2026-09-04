@@ -1,0 +1,38 @@
+id: ko-grm-00379
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: 「-ㄴ/는다고 하다」：间接引用
+structure: 动词 + 叙述形词尾 -ㄴ/는다 + 인용 연결어미 고 + 하다；形容词/体言 + -다고/-(이)라고 하다
+structure_pattern: V-ㄴ/는다고 하다; A-다고 하다; N-(이)라고 하다
+explanation_zh: 间接引用结构：动词接-ㄴ/는다고 하다，形容词接-다고 하다，体言接-(이)라고 하다，用以转述他人话语或传闻。片段中"-다는 것"将其名词化后追问"정말인가요?"，用以核实传闻的真实性。
+examples:
+- text: 아즐란이 황녀 전하를 추대했다는 것도 정말인가요?
+  reading: ''
+  annot: 아즐란이 황녀 전하를 추대했다는 것도 정말인가요?
+  translation_zh: 阿兹兰拥立皇女殿下这件事也是真的吗？
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+- text: 눈앞에 있는 여기사는 아즐란의 부하 중에서 가장 서열이 높다고 했다.
+  reading: ''
+  annot: 눈앞에 있는 여기사는 아즐란의 부하 중에서 가장 서열이 높다고 했다.
+  translation_zh: 据说眼前的这位女骑士是阿兹兰手下中地位最高的。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 引用
+- 接续
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 4
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

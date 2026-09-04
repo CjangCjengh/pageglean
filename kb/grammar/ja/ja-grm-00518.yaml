@@ -1,0 +1,38 @@
+id: ja-grm-00518
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: のだ／んです：说明解释语气
+structure: 形式名词の + 判断助动词だ／です（口语中音便为んだ／んです）
+structure_pattern: 简体小句 + のだ／んです
+explanation_zh: 形式名词の加判断助动词构成のだ，口语中说成んだ／んです，表示解释说明或强调主张，提示事情有其缘由。片段里「したいんです」用于拼命恳求，「思ってるんだ」用于愤怒质问。与接续助词から呼应构成「…からだ」，即对事态的原因作解释说明。
+examples:
+- text: 俺はあなたとどうしても話がしたいんです！
+  reading: ''
+  annot: 俺[おれ]はあなたとどうしても話[はなし]がしたいんです！
+  translation_zh: 无论如何我都想和您谈一谈！
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+- text: どれだけ陽菜子さんが苦しんでいると思ってるんだ
+  reading: ''
+  annot: どれだけ陽菜子[ひなこ]さんが苦[くる]しんでいると思[おも]ってるんだ
+  translation_zh: 你知道阳菜子小姐有多痛苦吗？
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 语气
+- 形式名词
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 5
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

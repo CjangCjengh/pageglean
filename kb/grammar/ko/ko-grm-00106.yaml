@@ -1,0 +1,39 @@
+id: ko-grm-00106
+language: ko
+type: grammar
+level: TOPIK2
+level_rank: 2
+title: 「-(으)ㄴ/는 것」：名词化与名词从句
+structure: '관형사형 전성어미 ''-(으)ㄴ/-는'' + 의존명사 ''것''（구어 축약: ''건/거''）'
+structure_pattern: V/A-(으)ㄴ/는 + 의존명사_것
+explanation_zh: 冠形词形转成词尾'-(으)ㄴ/-는'修饰依存名词'것'，把小句整体名词化，充当主语、宾语等成分；口语中'것이'常缩为'건'。片段中'원한
+  건''필요로 하는 건'均指'……的东西/事情'。
+examples:
+- text: 내가 필요로 하는 건 별개의 것이다.
+  reading: ''
+  annot: 내가 필요로 하는 건 별개의 것이다.
+  translation_zh: 我需要的，是另外的东西。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+- text: 이런 물건이 존재한다는 건 조금 부자연스러운 일이지만
+  reading: ''
+  annot: 이런 물건이 존재한다는 건 조금 부자연스러운 일이지만
+  translation_zh: 这样的东西竟然存在，虽然有些不太自然——
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 名词化
+- 依存名词
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 8
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

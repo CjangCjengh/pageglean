@@ -1,0 +1,39 @@
+id: ko-grm-00638
+language: ko
+type: grammar
+level: TOPIK2
+level_rank: 2
+title: -기 시작하다：动作的开始
+structure: 동사 어간 + -기 시작하다（동상보조동사）
+structure_pattern: V + -기 시작하다
+explanation_zh: 동상보조동사 '시작하다' 接在动词 '-기' 形之后，表示动作或状态的开始，相当于“开始……”。汉语把“开始”放在动词之前，韩语则置于动词之后，是中文母语者常见的语序偏误。
+examples:
+- text: 악마와 계약자간의 사슬이 이제야 확연히 눈에 보이기 시작했다.
+  reading: ''
+  annot: 악마와 계약자간의 사슬이 이제야 확연히 눈에 보이기 시작했다.
+  translation_zh: 恶魔与契约者之间的锁链，直到此刻才清晰地显现在眼前。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+- text: 도시에 형형색색의 불이 들어오기 시작했다.
+  reading: ''
+  annot: 도시에 형형색색의 불이 들어오기 시작했다.
+  translation_zh: 城市里开始亮起了五颜六色的灯火。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 동상
+- 보조동사
+- 시작
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 0
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

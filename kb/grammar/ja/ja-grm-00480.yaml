@@ -1,0 +1,32 @@
+id: ja-grm-00480
+language: ja
+type: grammar
+level: N3
+level_rank: 3
+title: 「なんて」：带惊讶与吐槽的引用
+structure: 用言终止形／体言 ＋ なんて
+structure_pattern: V/A/N(終止形) + なんて
+explanation_zh: 助詞「なんて」用于引用某一事况，并附带说话人的惊讶、意外或轻视等评价，比「など」更口语、感情更强烈。本句引用「哥哥居然和朋友在一起」一事，后接「珍しい」加以评价。常见搭配有「〜なんて珍しい／信じられない」等。
+examples:
+- text: にいさんが友達と一緒だなんて珍しいな～と思っていたのです。
+  reading: ''
+  annot: にいさんが友達[ともだち]と一緒[いっしょ]だなんて珍[めずら]しいな～と思っていたのです。
+  translation_zh: 我还在想呢，哥哥居然会和朋友在一起，真是稀奇啊～。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 语气
+- 口语
+- 助詞
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

@@ -1,0 +1,39 @@
+id: vi-grm-00381
+language: vi
+type: grammar
+level: L3
+level_rank: 3
+title: 「V + một cái」：给动作计量的「一下」
+structure: 动词短语 + 补语 một cái（数词 + 单位名词，计量一次动作）
+structure_pattern: cụm động từ + bổ ngữ chỉ số lần 'một cái' (số từ 'một' + danh từ
+  chỉ đơn vị 'cái')
+explanation_zh: 越南语用「数词 + 分类词（danh từ chỉ đơn vị）」给动作计量，分类词「cái」把动作事物化，「nhìn một cái」即「看一眼」，与汉语「看一下、掐一下」对应。这是越南语分类词系统的典型用法，片段中多次出现。
+examples:
+- text: tôi cứ muốn quay đầu nhìn trộm nó một cái
+  reading: ''
+  annot: tôi cứ muốn quay đầu nhìn trộm nó một cái
+  translation_zh: 我总想回过头去偷看她一眼。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+- text: Chỉ nhìn một cái thôi!
+  reading: ''
+  annot: Chỉ nhìn một cái thôi!
+  translation_zh: 只看一眼就好！
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 分类词
+- 补语
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

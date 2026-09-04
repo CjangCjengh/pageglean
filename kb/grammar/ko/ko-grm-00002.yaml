@@ -1,0 +1,32 @@
+id: ko-grm-00002
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: 「-(으)려다가」：本想做却中途作罢
+structure: 동사 어간 + -(으)려다가 (＝ -려고 하다가)
+structure_pattern: V-(으)려다가
+explanation_zh: 「-(으)려고 하다가」的缩略，表示正打算做某事却中途改变或被打断。相当于中文「本想……（却）……」。后句常出现与该意图相反的结果。
+examples:
+- text: 책 불태우려다가 일러스트 아까워서 참았다.
+  reading: ''
+  annot: 책 불태우려다가 일러스트 아까워서 참았다.
+  translation_zh: 本来想把书烧掉，但因为插画太可惜了，就忍住了。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 连接词尾
+- 意图
+- 接续
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

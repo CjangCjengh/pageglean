@@ -1,0 +1,32 @@
+id: ko-grm-00405
+language: ko
+type: grammar
+level: TOPIK5
+level_rank: 5
+title: -(으)ㄴ/는 가운데：状况背景「在……之中」
+structure: 谓词 + 冠词形转成词尾'-(으)ㄴ/는' + 依存名词'가운데'
+structure_pattern: V/A + -(으)ㄴ/는 가운데
+explanation_zh: '''-(으)ㄴ/는 가운데''表示后句事件发生的状况背景，相当于「在……之中／在……的情况下」。常见于新闻报道与书面叙事，文中用来在混乱嘈杂的场面中引出镜头般的场景转换。'
+examples:
+- text: 혼란과 소음이 혼재한 가운데―
+  reading: ''
+  annot: 혼란과 소음이 혼재한 가운데―
+  translation_zh: 在混乱与嘈杂声交织之中——
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 依存名词
+- 背景
+- 书面语
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

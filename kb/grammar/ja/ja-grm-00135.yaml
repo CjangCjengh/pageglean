@@ -1,0 +1,38 @@
+id: ja-grm-00135
+language: ja
+type: grammar
+level: N5
+level_rank: 1
+title: 〜たり〜たり：动作的部分列举
+structure: 動詞連用形＋助詞「たり」（…たり）＋する
+structure_pattern: V-連用形 + たり (+ たり) + する
+explanation_zh: 助词「たり」接在连用形后，列举多个动作中的一部分，暗示还有其他，通常需要后续「する」等谓语。文中以「〜たり。〜たり。」的独句接续，形成轻快的蒙太奇式回顾，是轻小说常见的叙述手法。
+examples:
+- text: リアの希望で図書館にも寄って、その速読術に驚愕したり。
+  reading: ''
+  annot: リアの希望で図書館にも寄って、その速読術[そくどくじゅつ]に驚愕[きょうがく]したり。
+  translation_zh: 应莉亚的要求顺路去了图书馆，又为她那一手速读绝活惊叹不已。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+- text: 昼食でファミレスに行ったら、どうやらイチゴパフェが気に入ったらしく、とても上機嫌になったり。
+  reading: ''
+  annot: 昼食でファミレスに行ったら、どうやらイチゴパフェが気に入ったらしく、とても上機嫌になったり。
+  translation_zh: 午餐去了家庭餐厅，她似乎是看上了草莓芭菲，心情变得非常好。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 並列
+- 助詞
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 0
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

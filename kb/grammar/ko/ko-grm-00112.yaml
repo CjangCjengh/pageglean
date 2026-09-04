@@ -1,0 +1,39 @@
+id: ko-grm-00112
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: 「-아/어 있다」：结果状态的持续
+structure: 본용언 + 연결어미 '-아/어' + 보조 형용사 '있다'
+structure_pattern: V- + -아/어 + 보조_형용사_있다
+explanation_zh: '''-아/어 있다''表示动作完成后其结果状态的持续，相当于汉语''……着''，常与被动形搭配，如''놓여 있다''（被放着）、''저장되어
+  있다''（被保存着）。注意与表示动作正在进行的''-고 있다''相区别。'
+examples:
+- text: 5권에서 나는 이곳에 어떤 물건들이 저장되어 있는지 조금 묘사해 두었다.
+  reading: ''
+  annot: 5권에서 나는 이곳에 어떤 물건들이 저장되어 있는지 조금 묘사해 두었다.
+  translation_zh: 在第5卷里，我事先稍作描写，交代了这里存放着哪些东西。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+- text: 이렇게 창고에 놓여 있는 걸 보면 아마 데우미나스의 시련을 이겨 내지 못하고 죽었을 것이다.
+  reading: ''
+  annot: 이렇게 창고에 놓여 있는 걸 보면 아마 데우미나스의 시련을 이겨 내지 못하고 죽었을 것이다.
+  translation_zh: 看它这样被搁在仓库里，（原主人）多半是没能挺过德乌米纳斯的考验而死去了吧。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 补助形容词
+- 状态持续
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

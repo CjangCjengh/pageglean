@@ -1,0 +1,39 @@
+id: ko-grm-00621
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: 回忆先语末词尾 -더-：-던 与 -더니
+structure: 用言词干 + 回忆先语末词尾 -더- + 冠形词形词尾 -ㄴ（-던）/ 连接词尾 -니（-더니）
+structure_pattern: V/A-더- + -던 / -더니
+explanation_zh: 「-더-」是学校语法中的回忆（회상）先语末词尾：作定语时用冠形形「-던」，回忆过去亲眼所见或未完的状态；作连接词尾时用「-더니」，先追忆自己亲历的事实，再引出发现或转折。与单纯表示完成的「-았/었-」不同，「-더-」强调回想当时情景，中文无对应形态，可理解为「（回想起来）当时……」。
+examples:
+- text: 코너에 기대어 앉아 있던 내가 고갤 들어 가로를 쳐다보았더니, 가로는 등 뒤로 묶인 손이 불편한 듯 몸을 꼼지락거리고 있었다.
+  reading: ''
+  annot: 코너에 기대어 앉아 있던 내가 고갤 들어 가로를 쳐다보았더니, 가로는 등 뒤로 묶인 손이 불편한 듯 몸을 꼼지락거리고 있었다.
+  translation_zh: 倚在角落里坐着的我抬起头看向加罗，只见他似乎反绑在身后的手不舒服，身体正不停地扭动。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+- text: 악마를 잡겠다고 설치던 것이, 자신만만하게 나의 판단을 믿고 밀어붙인 것이, 결국 내 오만이고 실수였을까 봐 두렵다.
+  reading: ''
+  annot: 악마를 잡겠다고 설치던 것이, 자신만만하게 나의 판단을 믿고 밀어붙인 것이, 결국 내 오만이고 실수였을까 봐 두렵다.
+  translation_zh: 我害怕当时嚷着要抓恶魔、自信满满地坚信自己的判断硬闯到底，到头来不过是我的傲慢和失误。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 回忆
+- 冠形词形
+- 接续
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 4
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

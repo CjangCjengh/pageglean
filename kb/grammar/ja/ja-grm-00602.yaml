@@ -1,0 +1,38 @@
+id: ja-grm-00602
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 〜すぎる：程度过头
+structure: 動詞連用形・形容詞語幹＋すぎる
+structure_pattern: V連用形／A語幹 + すぎる（接尾語）
+explanation_zh: 由动词「過ぎる」虚化而来的接尾语，接动词连用形或形容词语干，表示程度过头、超出适当范围。如「血がのぼりすぎる」（血往上冲得太猛）、「いい男すぎる」（帅过头了）。在日常会话与轻小说中都是极常用的表达。
+examples:
+- text: 頭に血がのぼりすぎたか？
+  reading: ''
+  annot: 頭[あたま]に血[ち]がのぼりすぎたか？
+  translation_zh: 是血往上冲得太猛了吗？
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+- text: 君たちがいい男すぎるのが悪いんだ！
+  reading: ''
+  annot: 君[きみ]たちがいい男[おとこ]すぎるのが悪[わる]いんだ！
+  translation_zh: 都怪你们帅过头了！
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 接尾語
+- 程度
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

@@ -1,0 +1,32 @@
+id: vi-grm-00349
+language: vi
+type: grammar
+level: L3
+level_rank: 3
+title: không V nổi：…不了／不堪
+structure: không / chẳng + V + nổi
+structure_pattern: không + V + nổi
+explanation_zh: nổi 放在动词后，表示凭体力或心力「能胜任、做得到」。否定式 không/chẳng V nổi 相当于汉语可能补语「V不了、吃不消、没法V」。例句意为连做梦都想不出这样的话。
+examples:
+- text: Và biết đâu Việt An còn gửi "kèm" tới tôi những lời hẹn hò không mơ thấy nổi!
+  reading: ''
+  annot: Và biết đâu Việt An còn gửi "kèm" tới tôi những lời hẹn hò không mơ thấy
+    nổi!
+  translation_zh: 说不定Việt An还会「附带」给我一些连做梦都想不到的约会话语呢！
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 补语
+- 可能表达
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

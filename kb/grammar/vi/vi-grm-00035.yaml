@@ -1,0 +1,32 @@
+id: vi-grm-00035
+language: vi
+type: grammar
+level: L2
+level_rank: 2
+title: vừa…vừa…：两个动作同时进行
+structure: vừa + V1 （＋主语） vừa + V2
+structure_pattern: vừa + V1 + (S) + vừa + V2
+explanation_zh: vừa…vừa… 是一组关联词（quan hệ từ），连接同时发生的两个动作，相当于汉语“一边……一边……”。主语可置于 vừa
+  之前，也可夹在两个动词短语之间。
+examples:
+- text: Vừa nói nó vừa kéo tôi lại dãy bàn con gái.
+  reading: ''
+  annot: Vừa nói nó vừa kéo tôi lại dãy bàn con gái.
+  translation_zh: 她一边说着，一边把我往女生那排课桌那边拉。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 关联词
+- 同时态
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

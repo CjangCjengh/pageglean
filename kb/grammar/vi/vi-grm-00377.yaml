@@ -1,0 +1,44 @@
+id: vi-grm-00377
+language: vi
+type: grammar
+level: L4
+level_rank: 4
+title: Có V thì V cho…：歌谣式“要做就做彻底”
+structure: Có + V + thì + V + cho + 补语
+structure_pattern: có + V + thì + V + cho + Adj/V
+explanation_zh: 此为民间歌谣（ca dao）对举句式：“có V thì V cho + 补语”表示要做就做到彻底，cho 引出结果补语（cho chắc＝实实在在地，cho
+  luôn＝干脆到底）。叙述者随后把歌谣格式套进叙述（“Tôi trục trặc cho luôn bằng cách lờ hẳn Việt An”），产生诙谐效果。该格式口语中常用于表达决断或调侃。
+examples:
+- text: 'Có thương thì thương cho chắc
+
+    Còn như trục trặc thì trục trặc cho luôn!'
+  reading: ''
+  annot: 'Có thương thì thương cho chắc
+
+    Còn như trục trặc thì trục trặc cho luôn!'
+  translation_zh: 要爱就爱得实实在在，要是出了岔子，那就干脆一岔到底！
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+- text: Tôi trục trặc cho luôn bằng cách lờ hẳn Việt An.
+  reading: ''
+  annot: Tôi trục trặc cho luôn b
+  translation_zh: 我干脆“一岔到底”——彻底不理 Việt An。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 歌谣句式
+- 复句
+- 口语
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

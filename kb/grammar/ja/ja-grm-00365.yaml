@@ -1,0 +1,32 @@
+id: ja-grm-00365
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 使役助動詞せる／させる：让某人做某事
+structure: 動詞未然形＋せる（五段動詞）／させる（一段動詞等）
+structure_pattern: V-未然形 + せる (五段) / させる (一段)
+explanation_zh: 使役助動詞「せる／させる」接動詞未然形，表示使令或允許（讓某人做某事）。本段主人公安排共用一副身體的另一人格去上學，因此使役形反覆出現。「行かせてみる」是使役形再疊加「〜てみる」（試著做）的用法。
+examples:
+- text: 明日は学校に行かせてみるか
+  reading: ''
+  annot: 明日[あした]は学校[がっこう]に行[い]かせてみるか
+  translation_zh: 明天要不要让她试着去学校呢。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 助動詞
+- 使役
+- 活用
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

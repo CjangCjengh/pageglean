@@ -1,0 +1,31 @@
+id: vi-grm-00118
+language: vi
+type: grammar
+level: L3
+level_rank: 3
+title: 「bị + V：不如意被动」
+structure: bị + V（主语为承受者）
+structure_pattern: bị + V; câu bị động mang nghĩa bất lợi
+explanation_zh: bị加动词构成被动结构，主语承受的多是不希望发生、对自己不利的事，与表受益的được相对。片段中“bị ra rìa”意为“被排挤到一边、被冷落出局”。
+examples:
+- text: Outside tức là bị ra rìa, tức là đứng ngoài cuộc, hiểu chưa?
+  reading: ''
+  annot: Outside tức là bị ra rìa, tức là đứng ngoài cuộc, hiểu chưa?
+  translation_zh: Outside 就是被挤到边上，就是被晾在局外，懂了吗？
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 被动
+- 语态
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

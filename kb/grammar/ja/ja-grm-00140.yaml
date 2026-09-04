@@ -1,0 +1,38 @@
+id: ja-grm-00140
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 「〜ながら」：两个动作同时进行（一边……一边……）
+structure: 動詞連用形＋ながら（接続助詞）＋後項動作
+structure_pattern: V-連用形 + ながら + 後項動作
+explanation_zh: 接続助詞「ながら」接動詞連用形，表示前后两个动作同时进行，汉语对应“一边……一边……”。前项为背景性动作，后项为主要动作。片段用其细腻刻画伴随动作，如“一边应答一边把手放到她头上”。
+examples:
+- text: 俺は返事をしながら、何となく、彼女の頭に手を置いた。
+  reading: ''
+  annot: 俺[おれ]は返事[へんじ]をしながら、何[なん]となく、彼女[かのじよ]の頭[あたま]に手[て]を置[お]いた。
+  translation_zh: 我一边应着，一边下意识地把手放到她的头上。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+- text: どこか恐る恐る、といった表情で、俺を見上げながら。
+  reading: ''
+  annot: どこか恐[おそ]る恐[おそ]る、といった表情[ひようじよう]で、俺[おれ]を見上[みあ]げながら。
+  translation_zh: （她）带着几分怯生生的神情，抬头望着我。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 接续
+- 体貌
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

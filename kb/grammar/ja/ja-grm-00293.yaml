@@ -1,0 +1,31 @@
+id: ja-grm-00293
+language: ja
+type: grammar
+level: N3
+level_rank: 3
+title: なんて：口语引用与不以为意（口语）
+structure: 引用節＋なんて（＝などと）＋言う
+structure_pattern: 引用 + なんて + 言われても
+explanation_zh: 口语助词「なんて」相当于「など／などと」，用于引用内容并带有轻视、不以为然的语气，可视为引用助词的口语形式。本片段中两次出现，均带轻忽语气。
+examples:
+- text: 勇者の子孫だなんて言われても、自覚なんか無いし。
+  reading: ''
+  annot: 勇者[ゆうしゃ]の子孫[しそん]だなんて言[い]われても、自覚[じかく]なんか無[な]いし。
+  translation_zh: 就算别人说我是勇者的后代，我自己也完全没有那种自觉。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 助词
+- 口语
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

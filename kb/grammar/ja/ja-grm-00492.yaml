@@ -1,0 +1,38 @@
+id: ja-grm-00492
+language: ja
+type: grammar
+level: N3
+level_rank: 3
+title: 助動詞「ようだ」：推量与比况
+structure: 体言＋接続「の」／用言連体形＋助動詞「ようだ」（連体形「ような」）
+structure_pattern: N + の + ようだ / V-連体形 + ようだ
+explanation_zh: 「ようだ」是表推量、比况的助动词，接「体言＋の」或用言连体形，连体形为「ような」。「カゼシロくんのようだ」是结合照片等线索作出的近乎断定的推测；「来るような店」则用连体形修饰名词。中文译为“好像……”“像是……”。
+examples:
+- text: 間違いない。写真で見たのとほぼ同じ。こいつがカゼシロくんのようだ。
+  reading: ''
+  annot: 間違[まちが]いない。写真[しゃしん]で見[み]たのとほぼ同[おな]じ。こいつがカゼシロくんのようだ。
+  translation_zh: 没错。和照片里看到的几乎一样。这家伙大概就是风城同学吧。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+- text: 男だけで来るような店には到底見えない。
+  reading: ''
+  annot: 男[おとこ]だけで来[く]るような店[みせ]には到底[とうてい]見[み]えない。
+  translation_zh: 怎么看都不像是只有男人会来的店。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 助动词
+- 推量
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

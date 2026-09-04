@@ -1,0 +1,31 @@
+id: ko-grm-00601
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: -아/어 놓다：补助动词，结果状态的保持
+structure: 동사 어간 + 연결어미 '-아/어' + 보조 용언 '놓다' (＋보조 용언 '주다')
+structure_pattern: V- + -아/어 + 놓다 (+ 주다)
+explanation_zh: 动词词干接'-아/어'连补助用言'놓다'，表示动作完成后其结果状态被保持下来。句中再叠加'-아/어 주다'（떼어 놓아 줘），表示请求对方使某种结果存续。
+examples:
+- text: 내가 잠시 요나와 만나는 동안, 키이리랑 브룬 좀 떼어 놓아 줘.
+  reading: ''
+  annot: 내가 잠시 요나와 만나는 동안, 키이리랑 브룬 좀 떼어 놓아 줘.
+  translation_zh: 在我和约拿碰面的那会儿，麻烦你把基莉和布伦隔开一下。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 보조 용언
+- 양태
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

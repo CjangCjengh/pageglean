@@ -1,0 +1,39 @@
+id: ko-grm-00498
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: -ㄴ대/-ㄹ 거래：间接引用的口语缩略
+structure: -ㄴ다고 하다 → -ㄴ대；-ㄹ 거라고 하다 → -ㄹ 거래
+structure_pattern: V-ㄴ다고 해 → V-ㄴ대 ; V-ㄹ 거라고 해 → V-ㄹ 거래
+explanation_zh: 间接引用句（간접인용）「-ㄴ다고 하다 / -ㄹ 거라고 하다」的口语缩略，用于转述第三方的话。「간댔어」即「간다고 했어」，「갈
+  거래」即「갈 거라고 해」。只用于口语和非正式文体，是小说对话中的高频形式。
+examples:
+- text: 요나는 마차 수배하러 간댔어.
+  reading: ''
+  annot: 요나는 마차 수배하러 간댔어.
+  translation_zh: 约拿说去安排马车了。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+- text: 돌아갈 땐 짐마차 얻어 타고 갈 거래.
+  reading: ''
+  annot: 돌아갈 땐 짐마차 얻어 타고 갈 거래.
+  translation_zh: 她说回去的时候要搭货运马车回去。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 间接引用
+- 口语缩略
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

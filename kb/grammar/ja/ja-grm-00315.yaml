@@ -1,0 +1,31 @@
+id: ja-grm-00315
+language: ja
+type: grammar
+level: N2
+level_rank: 4
+title: 〜に他ならない：无非是／不外乎
+structure: 体言＋に他ならない
+structure_pattern: N + に他ならない
+explanation_zh: 「他」意为“其他”，整个结构表示“除此之外什么都不是、正是……”，作出强烈断定。多用于书面或较正式的论述，中文可译为“无非是”“不外乎”。
+examples:
+- text: 人族側にとって、自分達の英雄が敵側に付くという意味に他ならない。
+  reading: ''
+  annot: 人族側[じんぞくがわ]にとって、自分達[じぶんたち]の英雄[えいゆう]が敵側[てきがわ]に付[つ]くという意味[いみ]に他[ほか]ならない。
+  translation_zh: 对人族一方而言，这无非意味着己方的英雄投靠了敌方。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 断定
+- 书面语
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

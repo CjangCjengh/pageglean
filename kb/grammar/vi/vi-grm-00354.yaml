@@ -1,0 +1,40 @@
+id: vi-grm-00354
+language: vi
+type: grammar
+level: L1
+level_rank: 1
+title: 程度强调：quá / lắm / ghê
+structure: 形容词 + quá / lắm / ghê
+structure_pattern: tính từ + quá / lắm / ghê
+explanation_zh: quá 和 lắm 都表示“很、太”，紧跟在形容词之后；ghê 是南方口语，语气近似“真……啊、……得很”，三者都是程度副词（phó
+  từ chỉ mức độ）。它们在片段中反复出现，是口语中最常用的强调手段。
+examples:
+- text: Mày ngu quá!
+  reading: ''
+  annot: Mày ngu quá!
+  translation_zh: 你太笨了！
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+- text: Chiếc lá thuộc bài hay ghê anh hén?
+  reading: ''
+  annot: Chiếc lá thuộc bài hay ghê anh hén?
+  translation_zh: 背书叶可真灵啊，哥，是吧？
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 程度
+- 语气
+- 口语
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 5
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

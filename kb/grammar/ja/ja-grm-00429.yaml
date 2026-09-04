@@ -1,0 +1,38 @@
+id: ja-grm-00429
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: ながら：一边……一边……
+structure: 动词连用形 ＋ ながら
+structure_pattern: V連用形 + 接続助詞「ながら」
+explanation_zh: 「〜ながら」是接续助词，接动词连用形，表示同一主体同时进行两个动作，语义重心在后项。文中多次出现，如『言いわけしながら…放りこんだ』『右目を細めながら…返事を書く』。注意前后项须为同一主体的动作，中文译为『一边……一边……』。
+examples:
+- text: 誰に言うでもなく言いわけしながら、俺はドブに埋もれていた空き缶を火箸でとらえ、勢いよくゴミ袋に放りこんだ。
+  reading: ''
+  annot: 誰[だれ]に言[い]うでもなく言[い]いわけしながら、俺[おれ]はドブに埋[うず]もれていた空き缶[あきかん]を火箸[ひばし]でとらえ、勢[いきお]いよくゴミ袋[ぶくろ]に放[ほう]りこんだ。
+  translation_zh: 虽然也没对谁说，我一边暗自辩解，一边用火筷夹起陷在臭水沟里的空罐子，用力扔进垃圾袋。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+- text: 少しずつ強くなる朝の日差しに右目を細めながら、ノートに返事を書く。
+  reading: ''
+  annot: 少[すこ]しずつ強[つよ]くなる朝[あさ]の日差[ひざ]しに右目[みぎめ]を細[ほそ]めながら、ノートに返事[へんじ]を書[か]く。
+  translation_zh: 在渐渐变强的晨光中眯起右眼，我一边在本子上写下回复。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 並行
+- 接続
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

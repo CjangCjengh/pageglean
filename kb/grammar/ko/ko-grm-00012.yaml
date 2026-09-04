@@ -1,0 +1,38 @@
+id: ko-grm-00012
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: -(으)ㄴ/는다고 하다：间接引用
+structure: 용언 어간 + -(으)ㄴ/는다고 하다
+structure_pattern: 용언 어간 + -(으)ㄴ/는다고 + 하다
+explanation_zh: 间接引用，用于转述他人的话或自己的想法。陈述用 -ㄴ/는다고，疑问用 -냐고，意志用 -겠다고。片段中大量出现，用于转述与自语。
+examples:
+- text: 작가가 자기 캐릭터를 정말로 사랑한다는 게 느껴졌어.
+  reading: ''
+  annot: 작가가 자기 캐릭터를 정말로 사랑한다는 게 느껴졌어.
+  translation_zh: 能感觉到作家是真的爱自己的角色。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+- text: 끊겠다고요!
+  reading: ''
+  annot: 끊겠다고요!
+  translation_zh: 我说了要挂了！
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 引用
+- 接续
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 6
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

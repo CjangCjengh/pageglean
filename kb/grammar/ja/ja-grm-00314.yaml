@@ -1,0 +1,38 @@
+id: ja-grm-00314
+language: ja
+type: grammar
+level: N2
+level_rank: 4
+title: 「〜すら／〜ですら」：连……都
+structure: 体言＋すら／ですら（副助詞）
+structure_pattern: N + すら / N + ですら
+explanation_zh: 副助词「すら」表示「连……都」，举出极端事例以暗示其余，比「さえ」更书面。体言后可直接接「すら」，也可用「ですら」的形式。文中「涙すら浮かべた」指连泪花都泛了起来，「つもりですらあった」指甚至还存着那样的打算。
+examples:
+- text: 涙すら浮かべた嬉しそうな顔で、頭を下げるイスカ。
+  reading: ''
+  annot: 涙[なみだ]すら浮[う]かべた嬉[うれ]しそうな顔[かお]で、頭[あたま]を下[さ]げるイスカ。
+  translation_zh: 伊斯卡眼中甚至泛着泪花，满脸欣喜地低头致谢。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+- text: 自分は知らぬ存ぜぬで通し、イスカとその両親に罪を擦り付けるつもりですらあったそうだ。
+  reading: ''
+  annot: 自分[じぶん]は知[し]らぬ存[ぞん]ぜぬで通[とお]し、イスカとその両親[りょうしん]に罪[つみ]を擦[こす]り付[つ]けるつもりですらあったそうだ。
+  translation_zh: 听说他甚至曾打算装傻充赖蒙混过关，把罪责推给伊斯卡和她的父母。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 助詞
+- 强调
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

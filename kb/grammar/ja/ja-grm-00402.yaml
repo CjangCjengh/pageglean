@@ -1,0 +1,38 @@
+id: ja-grm-00402
+language: ja
+type: grammar
+level: N3
+level_rank: 3
+title: 〜せいで：归咎原因（都怪……）
+structure: 用言連体形・体言＋せいで
+structure_pattern: '[V/A 普通形・N] + せいで'
+explanation_zh: 形式名词せい（缘由、责任）后接助词で表示原因，把责任归咎于前项并引出负面结果，汉译「都怪……」「因为……才……」，与表恩惠或中性归功的「おかげで」相反。片段中两度出现：脸遮了一半导致认不出、嘟囔说话导致听不清。
+examples:
+- text: 顔も半分隠れているせいでわかりにくかったが、確かによく見ればこの子だ。
+  reading: ''
+  annot: 顔[かお]も半分[はんぶん]隠[かく]れているせいでわかりにくかったが、確[たし]かによく見[み]ればこの子[こ]だ。
+  translation_zh: 虽然因为脸被遮住一半而很难认，但仔细看的话确实是这孩子。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+- text: そこから先は、うにゅうにゅと喋るせいで聞こえない。
+  reading: ''
+  annot: そこから先[さき]は、うにゅうにゅと喋[しやべ]るせいで聞[き]こえない。
+  translation_zh: 再往后的话，因为她嘟嘟囔囔地说话，我听不清了。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 接续
+- 原因
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

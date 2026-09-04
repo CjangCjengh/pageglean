@@ -1,0 +1,38 @@
+id: ko-grm-00153
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: -자：刚……就……（紧接着发生）
+structure: 动词词干 + -자
+structure_pattern: V- + -자
+explanation_zh: 连接词尾 -자 接在动词词干后，表示前一动作刚完成，后一动作紧接着发生，相当于中文“刚一……就……”。只用于已发生的事实，后句不能接命令或共动句尾。片段中“말하자”“가져가자”都用来引出随即发生的反应。
+examples:
+- text: 내가 그렇게 말하자 카이트는 고개를 돌려 옆자리에 앉아 있는 소녀를 바라보았다.
+  reading: ''
+  annot: 내가 그렇게 말하자 카이트는 고개를 돌려 옆자리에 앉아 있는 소녀를 바라보았다.
+  translation_zh: 我这么一说，凯特便转过头去，望向坐在旁边的少女。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+- text: 내가 입가에 손가락을 가져가자 두 사람은 굳은 표정으로 고개를 끄덕였다.
+  reading: ''
+  annot: 내가 입가에 손가락을 가져가자 두 사람은 굳은 표정으로 고개를 끄덕였다.
+  translation_zh: 我刚把手指放到唇边，两人就带着僵硬的表情点了点头。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 接续
+- 时间
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 4
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

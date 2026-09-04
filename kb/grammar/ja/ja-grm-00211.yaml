@@ -1,0 +1,31 @@
+id: ja-grm-00211
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 〜てくる／〜ていく：伴随移动的体貌
+structure: 動詞連用形 + 接続助詞「て」 + くる／いく（複合動詞）
+structure_pattern: V-て + くる／いく
+explanation_zh: 接动词连用形＋「て」之后，表示动作伴随移动进行。「てくる」指去某处做完某事后回来（或朝说话人方向）；「ていく」指离开现场去做、或向远方持续下去。片段「発注してきます」即“去下订单，马上回来”。
+examples:
+- text: かしこまりました。ちょっと発注してきますね
+  reading: ''
+  annot: かしこまりました。ちょっと発注[はっちゅう]してきますね
+  translation_zh: 明白了。我这就去下个订单哦。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 体貌
+- 複合動詞
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

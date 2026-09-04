@@ -1,0 +1,31 @@
+id: vi-grm-00178
+language: vi
+type: grammar
+level: L2
+level_rank: 2
+title: mà：转折连词（却、但）
+structure: V1 + mà + (không) + V2
+structure_pattern: VP1 + mà + VP2
+explanation_zh: 关系词 mà 连接两个动词短语或小句，表示转折，相当于汉语「却、但」。本句表示与预期相反的情况（坐着上课却不敢看人）。mà 还可作关系代词引导定语，注意区分。
+examples:
+- text: tôi ngồi học mà không dám nhìn ai, kể cả Hải gầy.
+  reading: ''
+  annot: tôi ngồi học mà không dám nhìn ai, kể cả Hải gầy.
+  translation_zh: 我坐着听课，却不敢看任何人，连瘦子 Hải 也不敢看。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 连词
+- 转折
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

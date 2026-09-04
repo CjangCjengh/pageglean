@@ -1,0 +1,38 @@
+id: ja-grm-00075
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 〜てしまう／〜ちゃう：完成与遗憾
+structure: 动词て形 + しまう（口语约音为 〜ちゃう）
+structure_pattern: V-て + しまう / V-て + ちゃう
+explanation_zh: 「〜てしまう」表示动作完成，或带有遗憾、不可挽回的语气。口语中「てしまう」常约音为「ちゃう」。片段中「渡してしまっては」是「渡してしまっては（困る）」的省略，表示“要是递出去就糟了”；「落ちちゃってさ」则是口语化的借口托辞。
+examples:
+- text: 渡してしまっては……！
+  reading: わたしてしまっては……！
+  annot: 渡してしまっては……！
+  translation_zh: 要是递出去的话……（就糟了）！
+  source_book: book-ja-001
+  source_chapter: null
+  pointer: null
+- text: あ、これ？ ちょっと階段から落ちちゃってさ、アハハハ
+  reading: あ、これ？ ちょっとかいだんからおちちゃってさ、アハハハ
+  annot: あ、これ？ ちょっと階段から落ちちゃってさ、アハハハ
+  translation_zh: 啊，这个？ 刚才不小心从楼梯上摔下来了，啊哈哈
+  source_book: book-ja-001
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 体貌
+- 口语
+provenance:
+  discovered_in: book-ja-001
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

@@ -1,0 +1,32 @@
+id: vi-grm-00371
+language: vi
+type: grammar
+level: L3
+level_rank: 3
+title: không sao… được：怎么也…不了
+structure: không sao + V + được
+structure_pattern: không sao + V + được
+explanation_zh: sao 在此义为“设法、以某种方式”，“không sao V được”表示“无论如何也没法 V”，语气比单纯的“không V
+  được”更强，强调尝试无果。được 为可能补语。片段中“trằn trọc hoài không sao ngủ được”即“翻来覆去怎么也睡不着”。
+examples:
+- text: Tối đó, tôi trằn trọc hoài không sao ngủ được.
+  reading: ''
+  annot: Tối đó, tôi trằn trọc hoài không sao ngủ được.
+  translation_zh: 那天晚上，我翻来覆去怎么也睡不着。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 否定
+- 可能补语
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

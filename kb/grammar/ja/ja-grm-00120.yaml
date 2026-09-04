@@ -1,0 +1,32 @@
+id: ja-grm-00120
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 「〜てくれ」：命令形的请求（男性口语）
+structure: 动词连用形 + て + くれ（くれる的命令形）
+structure_pattern: V連用形 + て + くれ
+explanation_zh: 「くれ」是授受动词「くれる」的命令形，「〜てくれ」用于要求对方做某事，属较粗率的男性口吻，礼貌场合须换成「〜てください」。片段中还叠加了补助动词「〜てみる」（试着做），形成「手に取ってみてくれ」“试着拿起来看看”这类复合表达。
+examples:
+- text: 試しに手に取ってみてくれ
+  reading: ''
+  annot: 試[ため]しに手[て]に取[と]ってみてくれ
+  translation_zh: 试着拿起来看看吧。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 動詞活用
+- 命令
+- 口語
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 4
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

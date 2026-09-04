@@ -1,0 +1,34 @@
+id: ko-grm-00360
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: -기 위해서：目的
+structure: 동사 어간 + 명사형 어미 '-기' + 조사 '위해서'
+structure_pattern: V-기 위해서
+explanation_zh: “위해서”接在名词化的“-기”之后表示行为的目的，相当于“为了……”。片段中两个“-기 위해서”并列使用，铺陈作者让角色赴死的两个目的，语气郑重。后句主句的“-아야만
+  했다”（不得不）与之呼应，强调别无选择。
+examples:
+- text: 세레나데를 제대로 묘사하기 위해서, 세레나데라는 캐릭터가 제대로 성장하고 변화했다는 것을 표현하기 위해서, 나는 세레나데를 희생시켜야만
+    했다.
+  reading: ''
+  annot: 세레나데를 제대로 묘사하기 위해서, 세레나데라는 캐릭터가 제대로 성장하고 변화했다는 것을 표현하기 위해서, 나는 세레나데를 희생시켜야만
+    했다.
+  translation_zh: 为了好好描绘塞蕾娜黛，为了表现出塞蕾娜黛这个角色确实成长并改变了，我不得不牺牲她。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 目的
+- 依存名词
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

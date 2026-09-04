@@ -1,0 +1,39 @@
+id: ko-grm-00081
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: -아/어 두다：做好准备并保持结果
+structure: 동사 어간 + -아/어 두다（본용언 + 보조 동사 두다）
+structure_pattern: V-아/어 두다
+explanation_zh: 补助动词두다表示动作完成后其结果状态被保持下去，常含“事先准备好”的意味，相当于中文“……好放着／提前……好”。口语中变体为-아/어
+  둬、둬야겠다，片段多次出现。
+examples:
+- text: 아랄칸 산맥에 만들어 둔 자신의 미궁 ‘베크류 지하 묘지’에 은둔하고 있다.
+  reading: ''
+  annot: 아랄칸 산맥에 만들어 둔 자신의 미궁 ‘베크류 지하 묘지’에 은둔하고 있다.
+  translation_zh: （他）隐居于自己事先建在阿拉尔坎山脉的迷宫“贝克留地下墓地”中。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+- text: 정 안 되면 리치가 되기 전에 제가 잘라서 보관해 둘게요!
+  reading: ''
+  annot: 정 안 되면 리치가 되기 전에 제가 잘라서 보관해 둘게요!
+  translation_zh: 实在不行的话，趁您还没变成巫妖，我把它切下来保管好！
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 补助动词
+- 体貌
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

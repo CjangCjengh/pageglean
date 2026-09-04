@@ -1,0 +1,31 @@
+id: ko-grm-00271
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: 「-도록 되어 있다：被设定为……」
+structure: 용언 어간 + 부사형 전성 어미 -도록 + 되어 있다
+structure_pattern: 용언 어간 + -도록 되어 있다
+explanation_zh: 副词形转成词尾-도록与되어 있다结合，表示某装置、机制或规定被设置成如此。用于说明系统性的、非人为意志的结果。本段中克劳用它解释防御魔法会自动发动的机制。
+examples:
+- text: 그렇기 때문에 그곳을 함부로 건드리면 자동적으로 전격 속성의 방어 마법이 발동하도록 되어 있어.
+  reading: ''
+  annot: 그렇기 때문에 그곳을 함부로 건드리면 자동적으로 전격 속성의 방어 마법이 발동하도록 되어 있어.
+  translation_zh: 正因如此，那里被设定成一旦胡乱触碰，电属性的防御魔法便会自动发动。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 惯用表达
+- 装置规定
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

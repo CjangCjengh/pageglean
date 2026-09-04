@@ -1,0 +1,32 @@
+id: ko-grm-00398
+language: ko
+type: grammar
+level: TOPIK5
+level_rank: 5
+title: 「-는 날에는：万一那一天到来（担忧/威胁）」
+structure: 동사 관형사형 '-는' + 의존명사 '날' + 보조사 '-에는'
+structure_pattern: V-는 날에는
+explanation_zh: 把假设的事件说成"……的那一天"，想象其（多为不好的）后果，常用于威胁或担忧的语境，后半句常省略不说。片段以'……'收尾，正是表达说话者不敢细想的恐惧。
+examples:
+- text: 더구나 장을 보러 마을에 내려간 가로가 돌아와 이 사태를 목격하는 날에는…….
+  reading: ''
+  annot: 더구나 장을 보러 마을에 내려간 가로가 돌아와 이 사태를 목격하는 날에는…….
+  translation_zh: 而且，万一下镇里买东西的贺罗回来撞见这场面……（我就死定了）。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 연결어미
+- 가정/조건
+- 의존명사
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

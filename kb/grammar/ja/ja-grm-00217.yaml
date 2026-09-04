@@ -1,0 +1,38 @@
+id: ja-grm-00217
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 〜てしまう：完成与遗憾（复合动词）
+structure: 動詞連用形 ＋ て ＋ しまう
+structure_pattern: V-て + しまう
+explanation_zh: 補助動詞「〜てしまう」表示动作的完成或既成事实，常附带后悔、遗憾或无可奈何的语气，口语中音变为「〜ちゃう／〜じゃう」。本段「感心してしまった」即“竟然佩服了起来”，说话人事后马上后悔，正是此语气的体现。
+examples:
+- text: 「……感心してしまった事を、早くも後悔。」
+  reading: ''
+  annot: 「……感心[かんしん]してしまった事[こと]を、早[はや]くも後悔[こうかい]。」
+  translation_zh: “……刚佩服完，马上就开始后悔了。”
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+- text: それが今回の件で露呈してしまった。
+  reading: ''
+  annot: それが今回[こんかい]の件[けん]で露呈[ろてい]してしまった。
+  translation_zh: 这件事因为这次的案件而暴露了出来。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 体貌
+- 复合动词
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

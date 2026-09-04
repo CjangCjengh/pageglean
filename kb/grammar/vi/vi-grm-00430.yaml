@@ -1,0 +1,32 @@
+id: vi-grm-00430
+language: vi
+type: grammar
+level: L2
+level_rank: 2
+title: càng… càng…：越……越……
+structure: càng + V/Adj，càng + V/Adj
+structure_pattern: càng + X + càng + Y
+explanation_zh: 程度副词 càng 前后呼应，构成「越……越……」的递进结构，表示两种性质随条件同步增减。第二个 càng 有时可省略。口语和俗语中都很常用，如「càng
+  lớn càng khôn（越大越懂事）」。
+examples:
+- text: đúng là càng lớn nó càng khôn!
+  reading: ''
+  annot: đúng là càng lớn nó càng khôn!
+  translation_zh: 果真是越大越机灵！
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 比较
+- 程度
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 0
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

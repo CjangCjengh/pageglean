@@ -1,0 +1,39 @@
+id: ko-grm-00336
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: -(으)ㄴ/는지：内包疑问与不确定
+structure: 用言词干 + 连接词尾 -(으)ㄴ/는지（동사 -는지 / 형용사·이다 -(으)ㄴ지）
+structure_pattern: V + -는지 / A·N이다 + -(으)ㄴ지
+explanation_zh: 连接词尾'-(으)ㄴ/는지'引出内包疑问，表示对某事的疑问或不确定，后常接'알다/모르다'。'건지'是'것인지'的缩略，加重自问或茫然的语气。本段用于表现人物对真相与自我意志的迷惘。
+examples:
+- text: 내가 뭘 하고 싶은 건지, 어떻게 하고 싶은 건지, 점점, 알 수 없게 되었어.
+  reading: ''
+  annot: 내가 뭘 하고 싶은 건지, 어떻게 하고 싶은 건지, 점점, 알 수 없게 되었어.
+  translation_zh: 我到底想做什么、想怎么做，渐渐变得无从知晓了。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+- text: 착각이라도 한 것인지 클라우도 나를 향해 손을 뻗었다.
+  reading: ''
+  annot: 착각이라도 한 것인지 클라우도 나를 향해 손을 뻗었다.
+  translation_zh: 不知是不是产生了错觉，克劳也向我伸出了手。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 连接词尾
+- 间接疑问
+- 语气
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

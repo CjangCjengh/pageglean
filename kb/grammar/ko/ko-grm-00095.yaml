@@ -1,0 +1,40 @@
+id: ko-grm-00095
+language: ko
+type: grammar
+level: TOPIK2
+level_rank: 2
+title: -아/어 있다：结果状态的持续
+structure: 动词词干 + 连接词尾 -아/어 + 补助动词 있다
+structure_pattern: V-아/어 + 있다
+explanation_zh: 补助用言构型：连接词尾 -아/어 结合补助动词 있다，表示动作完成后其结果状态持续存在，与表示动作进行的 -고 있다 相对。片段中“뚫려
+  있는 눈구멍”“주저앉아 있는 틸프”均为此用法，并借冠形词形转成词尾 -는 修饰体言。可对译为中文“已经……着”的状态义。
+examples:
+- text: 뼈로 만들어진 옥좌에 앉은 해골이 검게 뚫려 있는 눈구멍으로 우리를 응시하고 있었다.
+  reading: ''
+  annot: 뼈로 만들어진 옥좌에 앉은 해골이 검게 뚫려 있는 눈구멍으로 우리를 응시하고 있었다.
+  translation_zh: 坐在白骨垒成的王座上的骷髅，正用黑黢黢的眼窝凝视着我们。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+- text: 아직까지 주저앉아 있는 틸프와 마이시아를 힐끔 바라보며 말했다.
+  reading: ''
+  annot: 아직까지 주저앉아 있는 틸프와 마이시아를 힐끔 바라보며 말했다.
+  translation_zh: 我瞥了一眼至今仍瘫坐在地上的蒂尔芙和玛伊西亚，开口说道。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 补助用言
+- 体貌
+- 结果状态
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

@@ -1,0 +1,32 @@
+id: ko-grm-00438
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: 「-거든：告知原因的口语终结词尾」
+structure: 用言 + 이유의 종결어미 ‘-거든’（해체/반말）
+structure_pattern: V/A-거든(요)
+explanation_zh: 学校文法中表示理由的종결어미（终结词尾），用于해체（非敬语阶位），向对方说明当下事实的原因，相当于“因为……呀/嘛”。与‘-지’结合即成‘-잖아(요)’，同样表解释原因。文中시나用来说明自己“好奇”的动机；注意与表示假设的连接词尾‘-(으)거든’（如果……）区分。
+examples:
+- text: 자기는 악마를 없애야 하고, 나는 자기가 악마를 없앨 수 있을지가 궁금하거든.
+  reading: ''
+  annot: 자기는 악마를 없애야 하고, 나는 자기가 악마를 없앨 수 있을지가 궁금하거든.
+  translation_zh: 你必须除掉恶魔，而我好奇你到底能不能除掉它嘛。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 终结词尾
+- 理由/语气
+- 敬语阶位
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

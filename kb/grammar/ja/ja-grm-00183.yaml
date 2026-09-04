@@ -1,0 +1,30 @@
+id: ja-grm-00183
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 〜おかげで：托……的福、多亏
+structure: 体言／用言連体形 + おかげで
+structure_pattern: 用言連体形・体言＋名詞「お蔭」＋格助詞「で」
+explanation_zh: 表示因前项而得到好的结果，意为“托……的福”“多亏”，与表坏结果的「せいで」相对。片段中两处都带调侃语气：被压之后反说“多亏”才彻底清醒、才早早吃上饭。可根据语境作反讽使用。
+examples:
+- text: お蔭でいつもより早い時間だが、食事の用意をしてくれたなら待たせるのは悪い。
+  reading: ''
+  annot: お蔭[かげ]でいつもより早[はや]い時間[じかん]だが、食事[しょくじ]の用意[ようい]をしてくれたなら待[ま]たせるのは悪[わる]い。
+  translation_zh: 多亏（她）比平时早了些时间，但既然已经做好了饭，让人家等着也不好。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 接续
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

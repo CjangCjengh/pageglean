@@ -1,0 +1,38 @@
+id: ko-grm-00372
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: -기 위해서：为了……（目的）
+structure: 动词词干 + 名词化词尾 -기 + 위해서；名词 + 助词 을/를 + 위해서
+structure_pattern: V-기 + 위해서; N + 을/를 위해서
+explanation_zh: 表示行为的目的，相当于“为了……”。动词经名词化词尾 -기 转为体言后接 위해서，名词则直接加 을/를 위해서。文中“-기 위해서였겠지”还叠加了过去时与推测，表示“当时应该是为了……吧”。
+examples:
+- text: 그래, 클라우 에른베스크를 쓰러뜨리기 위해서였겠지.
+  reading: ''
+  annot: 그래, 클라우 에른베스크를 쓰러뜨리기 위해서였겠지.
+  translation_zh: 嗯，当时应该是为了打倒克劳·恩贝斯克吧。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+- text: 마스터가 금욕 생활을 하는 건 그 야망을 위해서야.
+  reading: ''
+  annot: 마스터가 금욕 생활을 하는 건 그 야망을 위해서야.
+  translation_zh: 主人过禁欲生活，是为了那个野心。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 目的
+- 接续
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 4
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

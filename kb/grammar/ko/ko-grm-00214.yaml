@@ -1,0 +1,40 @@
+id: ko-grm-00214
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: -거든：口语中说明理由
+structure: 用言词干 + 终结词尾 -거든
+structure_pattern: V/A-거든
+explanation_zh: -거든是表示理由的终结词尾，多用于口语，向对方说明原因，带有“我告诉你哦，因为……”的语气，后续句常省略。与书面性的 -기 때문이다
+  相比更为随意，日常会话与影视台词中高频出现。
+examples:
+- text: 이 향을 맡으면 가끔 마음이 편해지거든.
+  reading: ''
+  annot: 이 향을 맡으면 가끔 마음이 편해지거든.
+  translation_zh: 闻这个香味的话，心情有时会变得放松。（所以我在用。）
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+- text: 나도 너한테 업혀 다니는 거 싫거든.
+  reading: ''
+  annot: 나도 너한테 업혀 다니는 거 싫거든.
+  translation_zh: 我也不想被你背着到处走。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 终结词尾
+- 理由
+- 口语
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 4
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

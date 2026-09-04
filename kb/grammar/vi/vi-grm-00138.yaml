@@ -1,0 +1,31 @@
+id: vi-grm-00138
+language: vi
+type: grammar
+level: L4
+level_rank: 4
+title: chẳng lẽ：难道……不成
+structure: Chẳng lẽ + 分句（反诘副词）
+structure_pattern: chẳng lẽ + clause
+explanation_zh: 「chẳng lẽ」表示反问，相当于中文「难道……」「总不能……吧」，强调所述情形不可接受或难以想象。多用于心理描写，常引出说话人随后采取的对策。
+examples:
+- text: Chẳng lẽ kêu lên là mình chịu thua, tôi bèn nghĩ ra một mẹo.
+  reading: ''
+  annot: Chẳng lẽ kêu lên là mình chịu thua, tôi bèn nghĩ ra một mẹo.
+  translation_zh: 总不能大喊一声承认自己认输吧，我便想出了一条妙计。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 语气
+- 反问
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

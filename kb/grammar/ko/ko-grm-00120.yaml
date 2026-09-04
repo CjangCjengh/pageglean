@@ -1,0 +1,39 @@
+id: ko-grm-00120
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: 「-던：回忆性冠形词尾」
+structure: 动词/形容词 + -던 + 名词（관형사형 전성어미，表回忆）
+structure_pattern: V-던 + N
+explanation_zh: 관형사형 전성어미 -던用于回忆过去尚未完成或中断的事情，并以此修饰后面的名词。与过去时制词尾-았/었-结合成-았/었던时，则回忆已经完结的往事。是小说叙述中刻画"回忆"最具代表性的修饰形式。
+examples:
+- text: 우리들 코앞까지 다가와 칼을 치켜들던 해골 하나가 먼지가 되어 바스러졌다.
+  reading: ''
+  annot: 우리들 코앞까지 다가와 칼을 치켜들던 해골 하나가 먼지가 되어 바스러졌다.
+  translation_zh: 一个逼近到我们眼前、高举着刀的骷髅化成了碎屑。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+- text: 나는 왔던 길을 되돌아가 데우미나스에게 향했다.
+  reading: ''
+  annot: 나는 왔던 길을 되돌아가 데우미나스에게 향했다.
+  translation_zh: 我沿着来时的路折返，朝德乌米纳斯走去。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 接续
+- 体貌
+- 冠形词尾
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

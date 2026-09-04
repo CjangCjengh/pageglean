@@ -1,0 +1,32 @@
+id: ko-grm-00487
+language: ko
+type: grammar
+level: TOPIK5
+level_rank: 5
+title: -ㄹ뿐더러：不仅如此，而且……
+structure: 용언 어간 + 관형사형 전성어미 '-(으)ㄹ' + 의존명사 '뿐' + 보조사 '더러'
+structure_pattern: V/A-(으)ㄹ뿐더러
+explanation_zh: 连接词尾，表示在前一事实基础上追加后一事实，相当于中文的“不仅……而且……”。与 -뿐만 아니라 意思相近，但 -ㄹ뿐더러 更偏书面和正式语体。前后分句在语义方向上通常一致。
+examples:
+- text: 무진장 신경 쓰일뿐더러, 늙은 사람 심장에도 안 좋다.
+  reading: ''
+  annot: 무진장 신경 쓰일뿐더러, 늙은 사람 심장에도 안 좋다.
+  translation_zh: 不仅让人非常挂心，对老年人的心脏也不好。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 连接词尾
+- 递进
+- 添意
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

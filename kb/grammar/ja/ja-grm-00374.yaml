@@ -1,0 +1,38 @@
+id: ja-grm-00374
+language: ja
+type: grammar
+level: N3
+level_rank: 3
+title: ことなく：没有……（书面）
+structure: 動詞終止形＋形式名词「こと」＋否定助動詞「ない」の連用形「なく」
+structure_pattern: V終止形 + ことなく
+explanation_zh: 由动词终止形加形式名词「こと」再加否定助动词「ない」的连用形「なく」构成，意为"没有……"，相当于「〜ないで」，属书面性表达。句中以「動じることなく」修饰「着替えをはじめた」，凸显当事人的若无其事。
+examples:
+- text: さらに、なぜ動じることなく着替えをはじめたんだ？
+  reading: ''
+  annot: さらに、なぜ動[どう]じることなく着替[きが]えをはじめたんだ？
+  translation_zh: 还有，为什么她能面不改色地开始换衣服？
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+- text: そう言い残し、振り返ることなく俺は自室に戻る。
+  reading: ''
+  annot: そう言い残し、振り返ることなく俺は自室に戻る。
+  translation_zh: 留下这句话，我头也不回地回到了自己的房间。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 形式名词
+- 书面语
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

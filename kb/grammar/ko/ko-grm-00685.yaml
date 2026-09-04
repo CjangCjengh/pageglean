@@ -1,0 +1,40 @@
+id: ko-grm-00685
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: 「-아/어 버리다：彻底完成与情感色彩」
+structure: 用言词干 + -아/어 + 보조 동사 '버리다'（보조 용언 구성）
+structure_pattern: V/A + -아/어 버리다
+explanation_zh: 学校语法中，这是连接词尾 -아/어 后接补助动词 '버리다' 构成的补助用言（분석적 표현）。表示动作彻底完成或状态完全实现，常附带遗憾、痛快、决心等情感。时态与阶位由补助动词体现，如过去
+  '버렸다'、意志 '버려야겠다'。
+examples:
+- text: 맹종(盲從)의 소녀는 드디어, 자신에게 이어져 있던 꼭두각시 줄을 끊어 버렸다.
+  reading: ''
+  annot: 맹종(盲從)의 소녀는 드디어, 자신에게 이어져 있던 꼭두각시 줄을 끊어 버렸다.
+  translation_zh: 盲从的少女终于斩断了连在自己身上的傀儡线。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+- text: 그냥 다 시체로 만들어 버려야겠다.
+  reading: ''
+  annot: 그냥 다 시체로 만들어 버려야겠다.
+  translation_zh: 干脆把你们都变成尸体算了。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 보조 용언
+- 体貌
+- 语气
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 4
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

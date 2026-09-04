@@ -1,0 +1,32 @@
+id: vi-grm-00426
+language: vi
+type: grammar
+level: L4
+level_rank: 4
+title: không tài nào…nổi：怎么也……不了
+structure: không tài nào + V + nổi（能性补语 bổ ngữ chỉ khả năng 的否定格式）
+structure_pattern: không tài nào + V + nổi
+explanation_zh: 该格式表示“无论如何也……不了”，其中「nổi」是能性补语（bổ ngữ chỉ khả năng），与否定副词「không」和疑问代词「tài
+  nào」固化搭配，强调完全无能为力。语气比单纯的「không + V」强烈得多。
+examples:
+- text: nhưng đó là tên gì thì tôi không tài nào nhớ nổi.
+  reading: ''
+  annot: nhưng đó là tên gì thì tôi không tài nào nhớ nổi.
+  translation_zh: 可那究竟叫什么名字，我怎么也想不起来。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 能性补语
+- 否定
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

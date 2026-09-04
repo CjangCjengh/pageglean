@@ -1,0 +1,31 @@
+id: ko-grm-00381
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: 「-ㄴ 편이다」：委婉的程度判断
+structure: 形容词 + -ㄴ + 의존명사 편 + 이다（动词用 -는 편이다）
+structure_pattern: A-ㄴ 편이다; V-는 편이다
+explanation_zh: 편是依存名词，意为"一边、方面"，-ㄴ 편이다字面义为"属于……的一边"，用于相对地、委婉地判断程度，相当于"算是……的"。不做绝对断言，语气留有余地，片段中连用两次描写坡路的陡峭与攀登的吃力。
+examples:
+- text: 오르막길은 꽤 가파른 편이라, 평소 운동이 부족한 그에게는 상당히 버거운 편이었다.
+  reading: ''
+  annot: 오르막길은 꽤 가파른 편이라, 평소 운동이 부족한 그에게는 상당히 버거운 편이었다.
+  translation_zh: 上坡路算是相当陡的，对平时缺乏运动的他来说颇为吃力。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 依存名词
+- 委婉表达
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

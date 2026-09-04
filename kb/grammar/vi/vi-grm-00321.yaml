@@ -1,0 +1,41 @@
+id: vi-grm-00321
+language: vi
+type: grammar
+level: L3
+level_rank: 3
+title: 后置助词 được：动作成功与可能性
+structure: V + được（得以做到）；không thể + V + được（无法做到）
+structure_pattern: V + được ; không thể + V + được
+explanation_zh: được 作助动词后置时表示动作得以实现或成功，相当于汉语的「到、成、得了」，如 vùng dậy được（挣扎着起来了）。否定可能用「không
+  thể…được」框架，前后呼应，强调「没法……」。
+examples:
+- text: nó vùng vẫy, chòi đạp một hồi và vùng dậy được
+  reading: ''
+  annot: nó vùng vẫy, chòi đạp một hồi và vùng dậy được
+  translation_zh: 他拼命挣扎，踢蹬了一阵，竟然爬了起来。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+- text: Biết không thể xoay chuyển tình thế được, Lợi sứt hết ham đánh trả, nó chỉ
+    đưa hai tay lên mặt đỡ đòn.
+  reading: ''
+  annot: Biết không thể xoay chuyển tình thế được, Lợi sứt hết ham đánh trả, nó chỉ
+    đưa hai tay lên mặt đỡ đòn.
+  translation_zh: 知道无法扭转局势，Lợi sứt 也没心思还手了，只举起双手护着脸挨打。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 助动词
+- 可能/结果
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

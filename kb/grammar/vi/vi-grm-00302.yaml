@@ -1,0 +1,39 @@
+id: vi-grm-00302
+language: vi
+type: grammar
+level: L2
+level_rank: 2
+title: không còn … nữa：不再……
+structure: không/chẳng + còn + 动词 + nữa
+structure_pattern: không/chẳng + còn + V + nữa
+explanation_zh: 「không/chẳng + còn」与句末语气词 nữa 呼应，表示原有状态或习惯已经终止，相当于汉语「不再……」。文中 chẳng
+  còn 与 không còn 并用，chẳng 的书面与强调意味略强于 không。
+examples:
+- text: Tôi chẳng còn buồn bắt nạt Tiểu Li.
+  reading: ''
+  annot: Tôi chẳng còn buồn bắt nạt Tiểu Li.
+  translation_zh: 我已经没有心思去欺负小丽了。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+- text: Tôi không còn cảm thấy thích thú khi "làm khổ" nó nữa.
+  reading: ''
+  annot: Tôi không còn cảm thấy thích thú khi "làm khổ" nó nữa.
+  translation_zh: 我不再觉得「折磨」她有什么乐趣了。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 否定
+- 体貌
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

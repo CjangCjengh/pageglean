@@ -1,0 +1,32 @@
+id: ja-grm-00169
+language: ja
+type: grammar
+level: N2
+level_rank: 4
+title: 〜としか思えない：只能认为是……
+structure: 終止形＋としか思えない
+structure_pattern: V（終止形）+ と + しか + 思えない
+explanation_zh: 格助词と引用前项内容，副助词しか与否定呼应，表示「除……之外没有别的」。整体意为「只能认为……、只觉得……」，强调别无其他解释，语气比「〜と思う」强烈得多，多用于负面推断。
+examples:
+- text: その者が功を急いだとしか思えないが、そんな者になぜ漏れた……？
+  reading: ''
+  annot: その者[もの]が功[こう]を急[いそ]いだとしか思[おも]えないが、そんな者[もの]になぜ漏[も]れた……？
+  translation_zh: 只能认为是那个人急于立功，可这种机密为何会泄漏给那种人……？
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 助词
+- 否定呼应
+- 语气
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

@@ -1,0 +1,40 @@
+id: vi-grm-00097
+language: vi
+type: grammar
+level: L2
+level_rank: 2
+title: đâu có：口语中的辩驳否定
+structure: đâu có + V/Adj（否定副词短语，反驳对方说法）
+structure_pattern: đâu có + (V/Adj)
+explanation_zh: đâu có + 动词/形容词 是口语否定结构，用于反驳对方的说法，相当于「哪有、才不是」。这里的 đâu 不是疑问词「哪里」，而是否定副词。可单独成句：Đâu
+  có!（才不是呢！）。
+examples:
+- text: Đâu có! Anh chỉ nói kẹo thôi.
+  reading: ''
+  annot: Đâu có! Anh chỉ nói kẹo thôi.
+  translation_zh: 才不是呢！哥哥只说了糖果而已。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+- text: Em ăn hoài mà đâu có sao!
+  reading: ''
+  annot: Em ăn hoài mà đâu có sao!
+  translation_zh: 我一直吃，不也没事嘛！
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 否定
+- 口语
+- 语气
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 4
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

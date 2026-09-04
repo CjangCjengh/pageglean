@@ -1,0 +1,39 @@
+id: ko-grm-00176
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: -아/어 버리다：完结与遗憾
+structure: 用言词干 + 连接词尾 -아/어 + 补助动词 버리다
+structure_pattern: 용언 어간 + 연결어미 -아/어 + 보조 동사 버리다
+explanation_zh: 学校文法上属于本用言经连接词尾 -아/어 接补助动词的补助用言构成，表示动作彻底完结。文中用 죽어 버리다 强调卡伊特之死已成定局，带有强烈的悔恨与失落语气。对应中文的“（竟然）……死了/……掉了”。
+examples:
+- text: 하지만 내 실수로 카이트는 죽어 버렸다.
+  reading: ''
+  annot: 하지만 내 실수로 카이트는 죽어 버렸다.
+  translation_zh: 但是因为我的失误，凯特就这样死了。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+- text: 앞으로 많은 일을 해야 하는데, 해야 할 일이 많은데…… 죽어 버렸어.
+  reading: ''
+  annot: 앞으로 많은 일을 해야 하는데, 해야 할 일이 많은데…… 죽어 버렸어.
+  translation_zh: 今后明明还有很多事要做，还有那么多该做的事……却死掉了。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 体貌
+- 补助动词
+- 语气
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

@@ -1,0 +1,38 @@
+id: ko-grm-00281
+language: ko
+type: grammar
+level: TOPIK2
+level_rank: 2
+title: -(으)려고 하다：打算……、正要……
+structure: V-(으)려고 하다（의도의 연결어미 ‘-(으)려고’ + 동사 ‘하다’）
+structure_pattern: V-(으)려고 하다
+explanation_zh: 连接词尾‘-(으)려고’表示意图，后接‘하다’，意为“打算……”“正要……”。‘-려고 했다’表示过去曾有此意图或动作几乎要发生，常暗示未能实现。有收音用‘-으려고’，无收音用‘-려고’。
+examples:
+- text: 틸프는 식은땀을 흘리면서 다시 자세를 갖추고 클라우를 공격하려 했다.
+  reading: ''
+  annot: 틸프는 식은땀을 흘리면서 다시 자세를 갖추고 클라우를 공격하려 했다.
+  translation_zh: 蒂尔一边冒着冷汗，一边重新摆好架势，准备攻击克劳。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+- text: 그렇게 생각하면서 다른 쪽으로 착지하려고 했을 때, 틸프는 그제야 깨달았다.
+  reading: ''
+  annot: 그렇게 생각하면서 다른 쪽으로 착지하려고 했을 때, 틸프는 그제야 깨달았다.
+  translation_zh: 这样想着，正要落到另一侧去的时候，蒂尔才终于察觉到了。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 意图
+- 意志表达
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

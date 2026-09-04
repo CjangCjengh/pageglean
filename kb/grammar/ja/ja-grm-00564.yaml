@@ -1,0 +1,39 @@
+id: ja-grm-00564
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 〜んだ：解释说明与强调断定（「のだ」的口语形）
+structure: 用言连体形＋の（口语作ん）＋だ
+structure_pattern: V/A连体形 + んだ
+explanation_zh: 形式名词「の」口语中音变为「ん」，后接断定助动词「だ」，表示解释说明事实、理由，或加强断言语气；名词、形容动词后接「なんだ」。本片段对话中大量使用，如“してるんだよ”“復讐は始まるんだ”，使语气显得强势而带有辩解色彩。
+examples:
+- text: 俺とあいつは交換日記をしてるんだよ。
+  reading: ''
+  annot: 俺[おれ]とあいつは交換日記[こうかんにっき]をしてるんだよ。
+  translation_zh: 我和那家伙在写交换日记。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+- text: あとは俺が死ねば、復讐は始まるんだ！
+  reading: ''
+  annot: あとは俺[おれ]が死[し]ねば、復讐[ふくしゅう]は始[はじ]まるんだ！
+  translation_zh: 之后只要我一死，复仇就会开始！
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 形式名词
+- 语气
+- 口语
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 7
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

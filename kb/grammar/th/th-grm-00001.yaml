@@ -1,0 +1,38 @@
+id: th-grm-00001
+language: th
+type: grammar
+level: L1
+level_rank: 1
+title: แล้ว：动作完成
+structure: กริยา/วิเศษณ์ + แล้ว (คำช่วยกริยาบอกความสำเร็จ)
+structure_pattern: V + แล้ว
+explanation_zh: แล้ว放在动词或形容词之后作助动词，表示动作已经完成或状态已经出现，相当于汉语的“已经……了”。片段中“บอกแล้ว”即“已经说过了”，“ใส่แล้ว”指“穿过的（衣服）”。句末的แล้ว还带有确认语气。
+examples:
+- text: ดาบอก​แล้ว​ไม่ใช่​รึ​ไง
+  reading: ''
+  annot: ดาบอก​แล้ว​
+  translation_zh: 我不是已经说过了吗？
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+- text: จน​เกือบ​เป็น​สีเทา​แล้ว
+  reading: ''
+  annot: จน​เกือบ​เป็น​สีเทา​แล้ว
+  translation_zh: 已经快要变成灰色了。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 体貌
+- 完成
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 5
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

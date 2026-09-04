@@ -1,0 +1,31 @@
+id: th-grm-00061
+language: th
+type: grammar
+level: L3
+level_rank: 3
+title: ด้วย + ความ + 抽象名词：原因状语「由于……地」
+structure: ด้วย (คำบุพบท) + นามธรรมจากคำอุปสรรค 'ความ' + กริยา/วิเศษณ์
+structure_pattern: ด้วย + ความ + V/Adj
+explanation_zh: ความ是派生前缀（คำอุปสรรค），加在动词或形容词前构成抽象名词：สงสัย→ความสงสัย（疑惑）、ตกใจ→ความตกใจ（震惊）。介词ด้วย表示「以、由于」，二者组成原因状语置于动词之后，符合泰语修饰语后置的语序。片段中「ด้วยความสงสัย（出于疑惑地问）」「ด้วยความตกใจ（震惊得说不出话）」连用两次。
+examples:
+- text: ผม​เงียบ​ไป​ด้วย​ความ​ตกใจ​อีก​ครั้ง
+  reading: ''
+  annot: ผม​เงียบ​ไป​ด้วย​ค
+  translation_zh: 我又一次因震惊而说不出话来。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 介词
+- 构词法
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

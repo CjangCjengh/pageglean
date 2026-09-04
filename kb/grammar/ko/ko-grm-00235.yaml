@@ -1,0 +1,38 @@
+id: ko-grm-00235
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: -(으)ㄹ 때마다：每当～就…
+structure: 动词 + 冠形词形词尾 -(으)ㄹ + 依存名词 '때' + 补助词 '마다'
+structure_pattern: V-(으)ㄹ + 때 + 마다
+explanation_zh: 依存名词'때'意为'时候'，补助词'마다'表示'每、凡是'，两者接在动词冠形词形之后，表示前句事件每一次发生，后句情况都随之出现。强调前后两事的规律性伴随关系。中文译为'每当……就……'。
+examples:
+- text: 클라우는 아즐란을 볼 때마다 죽여 주겠다고 칼을 휘둘렀지만
+  reading: ''
+  annot: 클라우는 아즐란을 볼 때마다 죽여 주겠다고 칼을 휘둘렀지만
+  translation_zh: 克劳每次见到阿兹兰都会挥刀说要宰了他，但……
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+- text: 그런 모습을 볼 때마다 알 수 없는 불쾌감이 치밀어 올라
+  reading: ''
+  annot: 그런 모습을 볼 때마다 알 수 없는 불쾌감이 치밀어 올라
+  translation_zh: 每次看到那样的场面，莫名的不快便涌上心头
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 依存名词
+- 反复
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

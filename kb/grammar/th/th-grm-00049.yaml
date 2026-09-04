@@ -1,0 +1,38 @@
+id: th-grm-00049
+language: th
+type: grammar
+level: L4
+level_rank: 4
+title: V + ให้：结果补语结构
+structure: 动词 + ให้ + 结果补语（บทเสริมผล）
+structure_pattern: V + ให้ + V/Adj
+explanation_zh: 「动词+ให้+结果补语」表示动作达到某种结果或目的，类似中文的结果补语「到、好、成」。「เก็บให้เรียบร้อย」即「收拾整齐」，「รู้ให้ได้」即「一定要弄清楚」。该结构在泰语中极高频，中文母语者需注意补语后置的语序。
+examples:
+- text: เก็บ​เสื้อผ้า​ข้าวของ​ตัวเอง​ให้​เรียบร้อย
+  reading: ''
+  annot: เก็บ​เสื้อผ้า​ข้าวของ​ตัวเอง​ให้​เรียบร้อย
+  translation_zh: 把自己的衣物行李收拾整齐。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+- text: งาน​นี้​ผม​ต้อง​รู้​ให้​ได้​ว่า​เรื่อง​ที่​เธอ​พูด​มัน​เป็น​เรื่อง​จริง​หรือ​เรื่อง​ล้อเล่น​กัน​แน่
+  reading: ''
+  annot: งาน​นี้​ผม​ต้อง​รู้​ให้​ได้​ว่า​เรื่อง​ที่​เธอ​พู
+  translation_zh: 这次我一定要弄清楚，她说的到底是真的还是开玩笑。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 补语/结果
+- 语序
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

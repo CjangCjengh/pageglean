@@ -1,0 +1,32 @@
+id: ja-grm-00165
+language: ja
+type: grammar
+level: N3
+level_rank: 3
+title: 〜ずに済む：得以免于……、不用……就行
+structure: 動詞未然形＋ず（連用形）＋に＋済む
+structure_pattern: V-未然形 + ず + に + 済む
+explanation_zh: 否定助動詞ず接动词未然形，「ずに」相当于「〜ないで」，表示不做前项动作。済む意为「了结、过得去」，「〜ずに済む」整体表示「不用做某事就解决了、得以免去……」，常带有庆幸语气。文中表达对不必做出忘恩负义行为的宽慰。
+examples:
+- text: 恩知らずな行動を取らずに済み、助かります
+  reading: ''
+  annot: 恩知[おんし]らずな行動[こうどう]を取[と]らずに済[す]み、助[たす]かります
+  translation_zh: 得以免于做出忘恩负义的举动，真是帮大忙了。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 否定
+- 助动词ず
+- 语气
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

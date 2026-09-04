@@ -1,0 +1,31 @@
+id: vi-grm-00424
+language: vi
+type: grammar
+level: L3
+level_rank: 3
+title: vậy mà：然而、可是（转折）
+structure: vậy mà + câu（句际转折连接语 quan hệ từ liên kết）
+structure_pattern: vậy mà + câu
+explanation_zh: 「vậy mà」是句际转折连接语（quan hệ từ liên kết），相当于“然而/可是”，承接上文并引出与预期相反的事实。此处感叹两人在漫长的时间里竟没有认出彼此，含意外、惋惜的语气。
+examples:
+- text: Vậy mà suốt thời gian dài chúng tôi đã không nhận ra nhau.
+  reading: ''
+  annot: Vậy mà suốt thời gian dài chúng tôi đã không nhận ra nhau.
+  translation_zh: 然而那么长的时间里，我们竟没有认出彼此。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 连接
+- 转折
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

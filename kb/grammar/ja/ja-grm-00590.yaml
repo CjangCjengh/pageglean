@@ -1,0 +1,31 @@
+id: ja-grm-00590
+language: ja
+type: grammar
+level: N2
+level_rank: 4
+title: 〜がたい：难以……（心理上的困难）
+structure: 动词连用形 ＋ 接尾语「がたい」
+structure_pattern: V-连用形 + がたい
+explanation_zh: 接尾语「がたい」接在动词连用形后，表示心理上难以接受或做到，相当于“难以～”。与表示能力或客观困难的「〜にくい」不同，「がたい」侧重主观情感上的抗拒，书面语色彩强。常见搭配如「信じがたい」「許しがたい」。
+examples:
+- text: 信じがたい事実に声を低く落とし、俺はもう一度、ケータイの日付に視線を走らせる。
+  reading: ''
+  annot: 信[しん]じがたい事実[じじつ]に声[こえ]を低[ひく]く落[お]とし、俺[おれ]はもう一度[いちど]、ケータイの日付[ひづけ]に視線[しせん]を走[はし]らせる。
+  translation_zh: 面对难以置信的事实，我压低了声音，再一次把视线投向手机的日期。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 接尾语
+- 书面语
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

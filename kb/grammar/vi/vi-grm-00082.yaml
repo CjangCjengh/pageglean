@@ -1,0 +1,38 @@
+id: vi-grm-00082
+language: vi
+type: grammar
+level: L2
+level_rank: 2
+title: không/chẳng…gì hết：全盘否定
+structure: không/chẳng + V + gì hết / đâu hết（句末助词 hết 加强否定）
+structure_pattern: không/chẳng + V + gì hết
+explanation_zh: 「không/chẳng + V + gì hết」是口语化的全盘否定式，句末的 hết 加强语气，相当于汉语「一点也（没）／什么都（没）」。gì
+  hết 否定事物，đâu hết 否定依据或处所；chẳng 是否定词 không 的变体，语气略重。该结构在片段中两度出现，口语色彩浓。
+examples:
+- text: Mày không biết gì hết!
+  reading: ''
+  annot: Mày không biết gì hết!
+  translation_zh: 你什么都不知道！
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+- text: Chẳng căn cứ vào đâu hết!
+  reading: ''
+  annot: Chẳng căn cứ vào đâu hết!
+  translation_zh: 一点根据都没有！
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 否定
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

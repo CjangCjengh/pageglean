@@ -1,0 +1,33 @@
+id: ko-grm-00713
+language: ko
+type: grammar
+level: TOPIK2
+level_rank: 2
+title: -아/어도 좋다：允许与让步
+structure: 动词词干 + 连接词尾 -아/어도 + 좋다
+structure_pattern: V-아/어도 좋다
+explanation_zh: 让步连接词尾 -아/어도 与 좋다 搭配，表示「即使……也没关系」，用于允许或同意对方做某事。语气自然随意，与 -아/어도 괜찮다
+  相近。中文可译为「……也可以」「尽管……」。
+examples:
+- text: 언제든 해쳐도 좋아, 자기.
+  reading: ''
+  annot: 언제든 해쳐도 좋아, 자기.
+  translation_zh: 什么时候都可以把我吃掉哦，亲爱的。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 许可
+- 连接词尾
+- 半语
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

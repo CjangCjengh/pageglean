@@ -1,0 +1,38 @@
+id: ja-grm-00085
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 「〜ておく」：事先准备
+structure: 動詞連用形＋接続助詞「て」＋補助動詞「おく」（命令形：ておけ）
+structure_pattern: V-連用形 + て + おく
+explanation_zh: 補助動詞「おく」接在連用形＋て之后，表示为之后的情况预先做好准备或采取应对措施。例1是事先准备好等待对方；例2「切っておけ」是「おく」的命令形，语气粗暴直接，体现父亲的口吻。
+examples:
+- text: 言ってくれれば準備して待っているぞ？
+  reading: ''
+  annot: 言[い]ってくれれば準備[じゅんび]して待[ま]っているぞ？
+  translation_zh: 只要你开口，我就会提前做好准备等你哦？
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+- text: んなヤバイ状況なら電源切っておけよ!!
+  reading: ''
+  annot: んなヤバイ状況[じょうきょう]なら電源[でんげん]切[き]っておけよ!!
+  translation_zh: 情况都那么危险了，就先把电源关了啊!!
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 体貌
+- 补助动词
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

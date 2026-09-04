@@ -1,0 +1,33 @@
+id: ko-grm-00667
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: -자：一……就……
+structure: 动词词干 + 连接词尾 '-자'
+structure_pattern: V + -자
+explanation_zh: 连接词尾-자接在动词词干后，表示前一动作刚结束，后一情况随即发生，相当于中文'一……就……'。只用于已然事实，前后分句的主语可以不同。'눈이
+  마주치자 시선을 떨어뜨렸다'即'目光一相接便立刻垂下视线'。
+examples:
+- text: 눈이 마주치자 여지없이 시선을 떨어뜨렸다.
+  reading: ''
+  annot: 눈이 마주치자 여지없이 시선을 떨어뜨렸다.
+  translation_zh: 目光一相接，她便毫不犹豫地垂下了视线。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 连接词尾
+- 时间
+- 接续
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

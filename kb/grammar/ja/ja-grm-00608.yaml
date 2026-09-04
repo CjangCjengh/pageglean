@@ -1,0 +1,31 @@
+id: ja-grm-00608
+language: ja
+type: grammar
+level: N3
+level_rank: 3
+title: 「〜とのこと」：书面化的传闻“据说”
+structure: 引用文 ＋ 引用助词「と」＋ 形式名词「こと」＋ 断定（だ）的省略
+structure_pattern: 文 + とのこと
+explanation_zh: 「とのこと」是引用助词「と」＋形式名词「こと」＋断定的省略形式，用于客观转述他人或书面内容，相当于“据说”“听说是……”。语气较「〜そうだ」更书面、更疏离。片段中用于转述妹妹留下的便条内容。
+examples:
+- text: なんでだろ？ よくわかんないけど仲直りするチャンスだよね！』とのこと。
+  reading: ''
+  annot: なんでだろ？ よくわかんないけど仲直[なかなお]りするチャンスだよね！』とのこと。
+  translation_zh: （便条上）写道：“为什么呢？不太明白，但这是和好的机会对吧！”
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 传闻
+- 形式名词
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

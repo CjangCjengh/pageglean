@@ -1,0 +1,31 @@
+id: vi-grm-00415
+language: vi
+type: grammar
+level: L2
+level_rank: 2
+title: nhất：最高级；mà：关系从句标记
+structure: 形容词 + nhất + mà + 从句
+structure_pattern: Adj + nhất + mà + clause（最高级 + 关系从句标记）
+explanation_zh: nhất 置于形容词后表最高级（「最…」）。mà 是引导关系从句的虚词，连接被修饰名词与从句，相当于汉语的「…的」。本句把「最悲伤的事实」与「我所知道的」衔接起来。
+examples:
+- text: Đó là sự thật buồn bã nhất mà tôi được biết từ trước đến nay
+  reading: ''
+  annot: Đó là sự thật buồn bã nhất mà tôi được biết từ trước đến nay
+  translation_zh: 那是我有生以来所知道的最令人悲伤的事实
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 比较
+- 关系从句
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

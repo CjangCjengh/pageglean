@@ -1,0 +1,39 @@
+id: ko-grm-00585
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: 「-다고/자고/라고 하다」：间接引用与「-다는 말」
+structure: 用言 + -다고/자고/라고 하다（간접 인용/间接引用）；-다는 말 = -다고 하는 말
+structure_pattern: V/A-다고 하다 / -자고 하다 / -라고 하다 / V/A-다는 말
+explanation_zh: 韩语间接引用按句型变换：平叙-다고 하다、提议-자고 하다、命令-라고 하다、请求-아/어 달라고 하다。“-다는 말”是“-다고
+  하는 말”的缩略，意为“说的……话”。片段中有“버리자고/버리라고 하다”，并用两个“-다는 말”回忆요나说过的话。
+examples:
+- text: 이 도시를 사랑한다는 말.
+  reading: ''
+  annot: 이 도시를 사랑한다는 말.
+  translation_zh: 说是爱着这座城市的那句话。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+- text: 사람과 부대끼는 게 익숙지 않다는 말.
+  reading: ''
+  annot: 사람과 부대끼는 게 익숙지 않다는 말.
+  translation_zh: 说是还不习惯跟人打交道的那句话。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 间接引用
+- 句型
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 7
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

@@ -1,0 +1,33 @@
+id: ko-grm-00432
+language: ko
+type: grammar
+level: TOPIK6
+level_rank: 6
+title: -(으)ㄴ/는 양：装作……似的
+structure: 관형사형 전성어미 + 의존명사 '양' + (처럼)
+structure_pattern: 관형사형 전성어미 + 양
+explanation_zh: '''양''是与''듯''相近的依存名词，意为''像……似的、装作……''，多用于文学语体。接在冠形词形转成词尾之后，常与''행동하다/말하다''等动词搭配，暗示外在表现与真实情况不符。本句''목표인
+  양 행동하는''即''仿佛以之为目标般行事''。'
+examples:
+- text: 처음부터 끝까지 사람을 가지고 농락하는 것만이 인생의 목표인 양 행동하는 여자다.
+  reading: ''
+  annot: 처음부터 끝까지 사람을 가지고 농락하는 것만이 인생의 목표인 양 행동하는 여자다.
+  translation_zh: 她是一个仿佛把从头到尾玩弄他人当作人生目标来行事的女人。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 의존명사
+- 비유
+- 문어
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

@@ -1,0 +1,31 @@
+id: ja-grm-00347
+language: ja
+type: grammar
+level: N2
+level_rank: 4
+title: 〜はずがない：绝无可能
+structure: 用言連体形 ＋ はずが（も）ない
+structure_pattern: 用言-連体形 + はずがない
+explanation_zh: 形式名词「はず」表示按理应有的预期。「はずがない」强烈否定某种可能性，“不可能〜”。加上「も」的「はずもない」语气更重，带有书面色彩。
+examples:
+- text: だけど普通に考えてそんなことができるはずもない。
+  reading: ''
+  annot: だけど普通[ふつう]に考[かんが]えてそんなことができるはずもない。
+  translation_zh: 但正常想想，那种事根本不可能做到。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 推断
+- 语气
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

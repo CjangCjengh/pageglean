@@ -1,0 +1,31 @@
+id: ko-grm-00015
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: 아무리 -아/어도：即使再怎么……也
+structure: 부사 '아무리' + 용언 어간 + -아/어도(연결어미)
+structure_pattern: 아무리 + 용언 어간 + -아/어도(연결어미)
+explanation_zh: 副词 아무리（无论如何、再怎么）与让步连接词尾 -아/어도 搭配，强调即使程度再高也无效，译为“再怎么……也……”。
+examples:
+- text: 일반적으로 독자들은 아무리 작가를 욕하고 싶어도 작가의 블로그나 트위터를 찾아가서 직접 욕하지는 않는다.
+  reading: ''
+  annot: 일반적으로 독자들은 아무리 작가를 욕하고 싶어도 작가의 블로그나 트위터를 찾아가서 직접 욕하지는 않는다.
+  translation_zh: 一般来说，读者再怎么想骂作家，也不会特意跑到作家的博客或推特上去直接开骂。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 让步
+- 接续
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

@@ -1,0 +1,32 @@
+id: ja-grm-00559
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: のだ/んだ：解释说明与强调语气
+structure: 用言连体形＋形式名词「の」＋助动词「だ」（口语缩约为「んだ」）
+structure_pattern: V/A連体形 + のだ / んだ
+explanation_zh: 形式名词「の」接用言连体形再加助动词「だ」构成，口语中缩约为「んだ」，用于解释原因、说明情况或加强断定语气。本段风城的独白大量使用，带有倾诉与自我辩解的口吻。中文可译为“（其实）是……”“……的”。
+examples:
+- text: 俺にはわかる。あいつは自殺したんだ。
+  reading: ''
+  annot: 俺[おれ]にはわかる。あいつは自殺[じさつ]したんだ。
+  translation_zh: 我心里清楚。那家伙是自杀的。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 语气
+- 口语
+- 形式名词
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 12
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

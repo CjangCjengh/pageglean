@@ -1,0 +1,39 @@
+id: vi-grm-00088
+language: vi
+type: grammar
+level: L2
+level_rank: 2
+title: 句末语气词 đi：祈使与催促
+structure: 动词短语 + đi（祈使、劝诱、催促）
+structure_pattern: VP + đi
+explanation_zh: đi 作句末语气词时使祈使、劝诱或催促的语气变得亲切随和，相当于汉语的"吧"。片段中反复出现，用于小伙伴之间的招呼与驱赶。注意与动词性成分中的
+  đi（如 trò đi trốn đi tìm"捉迷藏"）区分，后者是构词语素。
+examples:
+- text: Ra ngoài này chơi đi!
+  reading: ''
+  annot: Ra ngoài này chơi đi!
+  translation_zh: 出来这边玩吧！
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+- text: Mày về đi, lát nữa chạy qua kêu tao!
+  reading: ''
+  annot: Mày về đi, lát nữa chạy qua kêu tao!
+  translation_zh: 你先回去吧，过一会儿再跑过来叫我！
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 语气词
+- 祈使
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 4
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

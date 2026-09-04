@@ -1,0 +1,31 @@
+id: ja-grm-00186
+language: ja
+type: grammar
+level: N2
+level_rank: 4
+title: 〜とはいえ：虽说……（让步转折）
+structure: 用言終止形／体言 + とはいえ
+structure_pattern: 用言終止形・体言＋接続表現「とはいえ」
+explanation_zh: 接用言終止形或体言，表示让步，“虽说……但是……”，先承认前项事实，再引出与之相反的结论，语体比「けれども」书面。片段中先承认“对方毕竟是敌对势力的人”，继而转折指出“利亚的语气里却毫无戒备”。
+examples:
+- text: とはいえ。敵対勢力の者の話なのに、リアの口調には警戒している気配は無い。
+  reading: ''
+  annot: とはいえ。敵対勢力の者の話なのに、リアの口調には警戒している気配は無い。
+  translation_zh: 话虽如此。明明说的是敌对势力的人，利亚的语气里却丝毫感觉不到戒备。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 接续
+- 书面语
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

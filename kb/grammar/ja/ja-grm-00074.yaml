@@ -1,0 +1,37 @@
+id: ja-grm-00074
+language: ja
+type: grammar
+level: N3
+level_rank: 3
+title: 体言止め・助詞止め：余韵结句
+structure: 名词/助词（へ・に）+ 。（省略谓语结句）
+structure_pattern: N／助詞止め（体言止め）
+explanation_zh: 句子不以谓语收尾，而以名词或助词「へ」「に」等戛然而止，留下画面感与节奏感。轻小说动作场景中大量使用，营造镜头切换般的紧凑感，属书面文体技巧。
+examples:
+- text: 変わらず置いてある箱。
+  reading: かわらずおいてあるはこ
+  annot: 変わらず置いてある箱。
+  translation_zh: 依旧放在那里的箱子。
+  source_book: book-ja-001
+  source_chapter: null
+  pointer: null
+- text: 猫の箱のもとへ。
+  reading: ねこのはこのもとへ
+  annot: 猫の箱のもとへ。
+  translation_zh: （奔向）装猫的箱子那边。
+  source_book: book-ja-001
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 文体
+provenance:
+  discovered_in: book-ja-001
+  first_seen_chapter: null
+  frequency_hint: 5
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

@@ -1,0 +1,31 @@
+id: ko-grm-00010
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: -(으)ㄹ지도 모르다：也许、恐怕
+structure: 용언 어간 + -(으)ㄹ지도 + 모르다
+structure_pattern: 용언 어간 + -(으)ㄹ지도 모르다
+explanation_zh: 表示对某事的担心性推测，相当于“也许……”“恐怕……”。语气比 -(으)ㄹ 것이다 更不确定，常用于推测不希望发生的情况。
+examples:
+- text: 광고 전화일지도 모른다는 생각이 들었지만, 혹시 이번에 바뀐다고 했던 담당 편집자일지도 모른다는 생각에 나는 전화를 받았다.
+  reading: ''
+  annot: 광고 전화일지도 모른다는 생각이 들었지만, 혹시 이번에 바뀐다고 했던 담당 편집자일지도 모른다는 생각에 나는 전화를 받았다.
+  translation_zh: 虽然心想也许是推销电话，但又想说不定是这次说要更换的责任编辑，我还是接起了电话。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 推测
+- 语气
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

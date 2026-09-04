@@ -1,0 +1,39 @@
+id: ja-grm-00214
+language: ja
+type: grammar
+level: N1
+level_rank: 5
+title: 〜すら：连……都（副助詞）
+structure: 体言 + すら（副助詞）
+structure_pattern: N + すら
+explanation_zh: 副助词，表示“连……都”，与「さえ」同义，但语感更为书面。通过举出极端事例来强调其余。片段中出现两次，此处选「家庭的な面すら完備」，强调连贤惠的一面都齐备得令人惊讶。
+examples:
+- text: あの外見であの性格、さらには家事が趣味という家庭的な面すら完備。
+  reading: ''
+  annot: あの外見[がいけん]であの性格[せいかく]、さらには家事[かじ]が趣味[しゅみ]という家庭的[かていてき]な面[めん]すら完備[かんび]。
+  translation_zh: 有着那副外表却是那种性格，更具备以家事为兴趣这种贤惠的一面。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+- text: 外部に効果を及ぼす術は、試した事すら無い。
+  reading: ''
+  annot: 外部[がいぶ]に効果[こうか]を及[およ]ぼす術[じゆつ]は、試[ため]した事[こと]すら無[な]い。
+  translation_zh: 能对外界起作用的术，我连试都没试过。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 助詞
+- 強調
+- 書面語
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

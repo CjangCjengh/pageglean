@@ -1,0 +1,31 @@
+id: ja-grm-00494
+language: ja
+type: grammar
+level: N3
+level_rank: 3
+title: 形式名词「わけ」：道理与结论
+structure: 用言連体形＋形式名詞「わけ」＋断定「だ」（理由・当然の帰結）
+structure_pattern: V-連体形 + わけだ
+explanation_zh: 形式名词「わけ」表事情的道理、原因或自然得出的结论。「消えたわけだし」即“按理说嫌疑已经消除了”，「だし」是断定「だ」后续接续助词「し」表并列理由。中文可译为“毕竟……”“也就是说……”。
+examples:
+- text: でもまぁ、今現在の俺と付き合っている疑惑は消えたわけだしよしとするか。
+  reading: ''
+  annot: でもまぁ、今現在[いまげんざい]の俺[おれ]と付[つ]き合[あ]っている疑惑[ぎわく]は消[き]えたわけだしよしとするか。
+  translation_zh: 不过嘛，“和现在的我在交往”这个嫌疑总算是消除了，就当这样也行吧。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 形式名词
+- 解释语气
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

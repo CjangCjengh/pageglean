@@ -1,0 +1,31 @@
+id: ja-grm-00102
+language: ja
+type: grammar
+level: N1
+level_rank: 5
+title: 「〜とばかりに」：仿佛在说……似的
+structure: 小句／名词 + とばかりに（格助词「と」+ 副助词「ばかり」+ 助词「に」）
+structure_pattern: 句 + とばかりに
+explanation_zh: 惯用表达「とばかりに」表示“仿佛在说……似的”“简直就像……一样”，用动作或神态代替言语传达态度。片段中「仕上げとばかりに指を鳴らす」即“仿佛在宣告‘收尾了’一般打了个响指”。是轻小说描写人物举止时常用的高级表达。
+examples:
+- text: 描き終えたリアが仕上げとばかりに指を鳴らすと
+  reading: ''
+  annot: 描[えが]き終[お]えたリアが仕上[しあ]げとばかりに指[ゆび]を鳴[な]らすと
+  translation_zh: 画完图的莉亚仿佛在宣告“收尾”一般打了个响指，于是——
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 比况
+- 样态
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

@@ -1,0 +1,33 @@
+id: vi-grm-00189
+language: vi
+type: grammar
+level: L4
+level_rank: 4
+title: 假设条件句：… mà … là …
+structure: S + mà + V，là + 结果分句
+structure_pattern: S + mà + V + là + clause
+explanation_zh: “主语 + mà + V，là + 结果”表示假设条件，相当于中文“要是……就……”。mà 把话题提前并标记假设，使句子带有强调与警告语气，口语中常用于威胁、打赌。如
+  Mày mà hỏi là tao nghỉ chơi…（你要是敢问，我就不跟你玩了）。
+examples:
+- text: Mày mà hỏi là tao nghỉ chơi mày ra liền!
+  reading: ''
+  annot: Mày mà hỏi là tao nghỉ chơi mày ra liền!
+  translation_zh: 你要是敢问，我马上就不跟你玩了！
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 条件句
+- 话题化
+- 虚词
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

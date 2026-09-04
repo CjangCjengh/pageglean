@@ -1,0 +1,38 @@
+id: vi-grm-00295
+language: vi
+type: grammar
+level: L2
+level_rank: 2
+title: 「có … không」与「phải không」：是非问句
+structure: có + V/adj + không？；陈述句 + phải không？
+structure_pattern: có + V/adj + không | … + phải không
+explanation_zh: 「có … không」是典型是非问句，có 置于谓语前、không 置于句末，询问「是否……」。「phải không」置于陈述句末，相当于「……对吗／是不是」，寻求对方确认。
+examples:
+- text: Anh xem tóc em có dài thêm chút nào không?
+  reading: ''
+  annot: Anh xem tóc em có dài thêm chút nào không?
+  translation_zh: 你看我的头发有没有长长一点？
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+- text: Có dài ra một tí tẹo phải không?
+  reading: ''
+  annot: Có dài ra một tí tẹo phải không?
+  translation_zh: 是长长了一点点，对吧？
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- interrogative
+- confirmation
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

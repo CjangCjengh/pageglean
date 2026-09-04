@@ -1,0 +1,33 @@
+id: ko-grm-00635
+language: ko
+type: grammar
+level: TOPIK5
+level_rank: 5
+title: -았/었더라면：要是当时……（与过去事实相反的假设）
+structure: 동사 어간 + 과거 선어말어미 '-았/었-' + 회상 선어말어미 '-더-' + 연결어미 '-면'
+structure_pattern: V-았/었더라면
+explanation_zh: 由过去时制词尾、回想词尾 -더- 和假设连接词尾 -면 结合而成，表示与过去事实相反的假设。后句常接 -았/을까、-았/을 것이다
+  表示推测、遗憾或后悔。中文译为“要是当时……的话”。
+examples:
+- text: 만약 그때, 브룬의 방 안까지 들어가 보았더라면 알아야 할 것을 더 빨리 눈치챌 수 있었을까?
+  reading: ''
+  annot: 만약 그때, 브룬의 방 안까지 들어가 보았더라면 알아야 할 것을 더 빨리 눈치챌 수 있었을까?
+  translation_zh: 如果那时我进到了布鲁恩的房间里面，是不是就能更早察觉到该知道的事情呢？
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 连接词尾
+- 假设
+- 回想
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

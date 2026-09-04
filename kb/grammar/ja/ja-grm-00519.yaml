@@ -1,0 +1,39 @@
+id: ja-grm-00519
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 口语缩约：ている→てる、なければ→なけりゃ（口语）
+structure: 助动词ている省略「い」成てる；否定助动词ない未然形 + 接续助词ば缩约成なきゃ／なけりゃ
+structure_pattern: V-ている → V-てる；V-なければ → V-なきゃ／なけりゃ
+explanation_zh: 轻小说对话中助动词ている常省略い变成てる，其过去式ていた也缩为てた，如「倒れてた」即「倒れていた」。条件形なければ口语缩约为なきゃ，粗犷的男性语气中更说成なけりゃ。掌握这些缩约是读懂口语化叙述的关键。
+examples:
+- text: 俺の方がでかくなけりゃ確実にぶっ倒れてた。
+  reading: ''
+  annot: 俺[おれ]の方[ほう]がでかくなけりゃ確実[かくじつ]にぶっ倒[たお]れてた。
+  translation_zh: 要不是我块头更大，肯定已经被撂倒了。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+- text: もう大丈夫？ ちゃんと使えてる？
+  reading: ''
+  annot: もう大丈夫[だいじょうぶ]？ ちゃんと使[つか]えてる？
+  translation_zh: 已经没事了吗？能正常用吗？
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 口语
+- 缩约
+- 体貌
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 5
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

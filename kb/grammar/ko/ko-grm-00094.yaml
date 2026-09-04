@@ -1,0 +1,33 @@
+id: ko-grm-00094
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: -다고 하다：间接引用与传闻
+structure: 谓词词干 + 间接引用连接词尾 -다고 + '하다'（形容词 -다고，动词现在时 -는다고）
+structure_pattern: 용언 어간 + -다고 + 하다
+explanation_zh: 间接引用连接词尾 '-다고' 与 '하다' 搭配，表示转述或传闻，即'据说~、听说~'。片段中以 '-다고 하니까'（听说……所以）引出推测的依据；另有体词引用的
+  '-(이)라는'（'악마공작' 아즐란）。
+examples:
+- text: 기본적으로 고대의 마법사들은 현대보다 훨씬 강력했다고 하니까.
+  reading: ''
+  annot: 기본적으로 고대의 마법사들은 현대보다 훨씬 강력했다고 하니까.
+  translation_zh: 毕竟据说古代的魔法师本来就比现代的强大得多。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 间接引用
+- 传闻
+- 连接词尾
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

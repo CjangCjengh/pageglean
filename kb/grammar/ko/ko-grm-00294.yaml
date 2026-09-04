@@ -1,0 +1,39 @@
+id: ko-grm-00294
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: 「-아/어 버리다」：动作的完成与担忧
+structure: 动词词干 + 连接词尾'-아/어' + 补助动词'버리다'
+structure_pattern: V + -아/어 버리다
+explanation_zh: '''버리다''是补助动词（보조용언），接在连接词尾''-아/어''后表示动作彻底完成，常带有遗憾、负担或担忧的语气，相当于中文''……（完/掉）''。本段与''-ㄹ지도
+  모르다''连用，表达对重要角色可能被杀掉的担忧。'
+examples:
+- text: 어쩌면 소설 속의 중요한 캐릭터를 죽여 버릴지도 모른다.
+  reading: ''
+  annot: 어쩌면 소설 속의 중요한 캐릭터를 죽여 버릴지도 모른다.
+  translation_zh: 说不定她会把小说里重要的角色给杀掉。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+- text: 눈이 마주침과 동시에 재빠르게 고갤 돌려 내 시선을 피해 버렸다.
+  reading: ''
+  annot: 눈이 마주침과 동시에 재빠르게 고갤 돌려 내 시선을 피해 버렸다.
+  translation_zh: 目光相撞的同时，她飞快地转过头，避开了我的视线。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 补助动词
+- 体貌
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

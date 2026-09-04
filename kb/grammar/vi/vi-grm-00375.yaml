@@ -1,0 +1,32 @@
+id: vi-grm-00375
+language: vi
+type: grammar
+level: L3
+level_rank: 3
+title: ngoài…ra：“除了……以外”
+structure: ngoài + 名词短语 + ra，后接限定或否定小句
+structure_pattern: ngoài + NP + ra
+explanation_zh: ngoài…ra 提出话题之外的例外，意为“除了……以外”，后句常用否定或限制性表述。相当于汉语“除了……（都/也……）”。片段里“ngoài
+  cái bảng ra…chẳng có cái gì đáng nhìn”即除了黑板没什么值得看的。
+examples:
+- text: …làm như ngoài cái bảng ra, trong lớp chẳng có cái gì đáng nhìn.
+  reading: ''
+  annot: ''
+  translation_zh: ……仿佛除了黑板，教室里就没有什么值得看的了。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 介词结构
+- 话题
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

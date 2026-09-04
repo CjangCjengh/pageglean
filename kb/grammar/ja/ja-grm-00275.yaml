@@ -1,0 +1,39 @@
+id: ja-grm-00275
+language: ja
+type: grammar
+level: N5
+level_rank: 1
+title: 〜って：口语引用助词（「と」的口语形）
+structure: 引用内容＋引用助词「って」
+structure_pattern: 引用文 + って(引用助詞「と」の口語形)
+explanation_zh: 「って」是引用助词「と」的口语形式，直接跟在引用内容之后，后可接言う、思う等言说思考动词，也可单独以「って……」形式引出解释或含而不发。「『王女だから』って」即「说是『因为是王女』……」。口语中使用频率远高于「と」。
+examples:
+- text: おとーさんとおかーさん、とってもいそがしいし、『王女だから』って……
+  reading: ''
+  annot: おとーさんとおかーさん、とってもいそがしいし、『王女[おうじょ]だから』って……
+  translation_zh: 爸爸和妈妈都非常忙，又说『因为是王女』什么的……
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+- text: 『何を？』って……うん、まずは例の指令の事。
+  reading: ''
+  annot: 『何[なに]を？』って……うん、まずは例[れい]の指令[しれい]の事[こと]。
+  translation_zh: 你问『是什么？』嘛……嗯，首先是关于那个指令的事。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 助词
+- 引用
+- 口语
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 5
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

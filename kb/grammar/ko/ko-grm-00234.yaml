@@ -1,0 +1,38 @@
+id: ko-grm-00234
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: -(으)ㄹ 정도로：达到～的程度
+structure: 用言 + 冠形词形词尾 -(으)ㄹ + 依存名词 '정도' + 副词格助词 '로'
+structure_pattern: V/A-(으)ㄹ + 정도 + 로
+explanation_zh: 用言以冠形词形词尾-(으)ㄹ修饰依存名词'정도'（程度），再结合副词格助词'로'，表示'达到～的程度'，用于具体说明某种状态或动作程度之深。中文对应'到……的程度／地步'。片段中两处分别用于描写打击强度与庆幸的程度。
+examples:
+- text: 클라우 에른베스크의 재생 능력을 뛰어넘을 정도로 압도적인 타격
+  reading: ''
+  annot: 클라우 에른베스크의 재생 능력을 뛰어넘을 정도로 압도적인 타격
+  translation_zh: 达到超越克劳·恩贝斯克再生能力程度的压倒性打击
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+- text: 오른손을 잘리는 정도로 끝났다는 게 너무나 다행스러웠다.
+  reading: ''
+  annot: 오른손을 잘리는 정도로 끝났다는 게 너무나 다행스러웠다.
+  translation_zh: 仅仅以被砍掉右手告终，实在太万幸了。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 依存名词
+- 程度
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

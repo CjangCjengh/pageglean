@@ -1,0 +1,38 @@
+id: ja-grm-00373
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 〜ておく：事先做好……
+structure: 動詞連用形＋接続助詞「て」＋補助動詞「おく」
+structure_pattern: V連用形 + て + 補助動詞「おく」
+explanation_zh: 由动词连用形加接续助词「て」再加补助动词「おく」构成，表示事先为之后做好准备。意志形「〜ておこう」表达说话人打算先做某事；「〜ておいて」是请求对方先做好某事，口语中常缩作「〜といて」。两句分别对应"我先介绍一下"和"帮我先录好"。
+examples:
+- text: せっかくなので、ノートの中身をいくつか紹介しておこう。
+  reading: ''
+  annot: せっかくなので、ノートの中身[なかみ]をいくつか紹介[しょうかい]しておこう。
+  translation_zh: 机会难得，我就先介绍几条笔记里的内容吧。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+- text: 『ドラマ録画しておいてんぷら！ もちろんブルーレイでよろしくらめん！』
+  reading: ''
+  annot: 『ドラマ録画[ろくが]しておいてんぷら！ もちろんブルーレイでよろしくらめん！』
+  translation_zh: 帮我把剧录好哦！当然要用蓝光！拜托啦！
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 体貌
+- 补助动词
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

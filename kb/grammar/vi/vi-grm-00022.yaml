@@ -1,0 +1,32 @@
+id: vi-grm-00022
+language: vi
+type: grammar
+level: L2
+level_rank: 2
+title: được + V：得以……／有权……（表获益、被允许）
+structure: S + được + V
+structure_pattern: được（phó từ tình thái chỉ lợi ích/sự cho phép）+ V
+explanation_zh: “được”置于动词前，表示主语得以做某事、获得好处或被允许，与表“遭受”的“bị”相对，是越南语“被动/受影响”范畴的一员。文中“được
+  quyền ôm cặp ra về”即“有权抱着书包回家”。学校语法将其归为表lợi ích（获益）的副词性成分。
+examples:
+- text: Đứa nào nộp xong được quyền ôm cặp ra về.
+  reading: ''
+  annot: Đứa nào nộp xong được quyền ôm cặp ra về.
+  translation_zh: 谁交完卷，就有权抱着书包回家。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 被动/受益
+- 能愿
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

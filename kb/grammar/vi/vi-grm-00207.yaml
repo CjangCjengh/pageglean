@@ -1,0 +1,39 @@
+id: vi-grm-00207
+language: vi
+type: grammar
+level: L3
+level_rank: 3
+title: bị + V：不如意被动句
+structure: bị + (施事) + V
+structure_pattern: bị + NP + VP（câu bị động，nghĩa bất lợi）
+explanation_zh: bị 构成被动句（câu bị động），与 được 相对，多表示主语遭遇不如意的事情。「bị nó giễu cợt」即「被他嘲笑」。bị
+  后施事可省略，直接接动词或形容词，如「Bị dồn vào chân tường」（被逼到墙角）。
+examples:
+- text: Thế nào sáng mai gặp nó, tôi cũng bị nó giễu cợt một mẻ ra trò.
+  reading: ''
+  annot: Thế nào sáng mai gặp nó, tôi cũng bị nó giễu cợt một mẻ ra trò.
+  translation_zh: 明早碰到他，我肯定会被他狠狠嘲笑一番。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+- text: Bị "dồn vào chân tường", tôi nổi điên nói đại
+  reading: ''
+  annot: Bị "dồn vào chân tường", tôi nổi điên nói đại
+  translation_zh: 被「逼到墙角」，我火气上来随口乱说
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 被动
+- 句法
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

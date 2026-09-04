@@ -1,0 +1,39 @@
+id: th-grm-00082
+language: th
+type: grammar
+level: L2
+level_rank: 2
+title: V + ต่อ：动作的继续（续做体）
+structure: V + ต่อ
+structure_pattern: คำกริยา + ต่อ
+explanation_zh: ต่อ 置于动词之后，表示动作继续或重新接续进行，相当于汉语的“继续做～、接着做～”。与汉语语序相反：汉语“继续”在动词前，泰语 ต่อ
+  在动词后。片段中多次出现（เดินสำรวจต่อ、นั่งปั่นงานต่อ），是叙事中常见的衔接手段。
+examples:
+- text: ถัดจาก​เครื่อง​ชงกาแฟ ญาดาก็​เดิน​ไป​สำรวจ​ส่วน​อื่น​ภาย​ใน​บ้าน​ต่อ
+  reading: ''
+  annot: ถัดจาก​เครื่อง​ชงกาแฟ ญาดาก็​เดิน​
+  translation_zh: 看完咖啡机之后，雅达又继续在屋里参观其他地方。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+- text: ผมก็​กลับ​ไป​นั่ง​ปั่น​งาน​ต่อ​ที่​ห้องอาหาร
+  reading: ''
+  annot: ผมก็​กลับ​ไป​นั่ง​ปั่น​งาน​ต่อ​ที่​ห้องอาหาร
+  translation_zh: 我也回到餐厅继续赶工作。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 体貌
+- 语序
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

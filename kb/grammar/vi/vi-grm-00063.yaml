@@ -1,0 +1,41 @@
+id: vi-grm-00063
+language: vi
+type: grammar
+level: L1
+level_rank: 1
+title: 分类词（量词）：sợi / cái / con / hòn
+structure: 数词/不定词 + 分类词 + 名词
+structure_pattern: Num + 分类词(sợi/cái/con/hòn) + N
+explanation_zh: 越南语名词计数时必须搭配合适的分类词（loại từ），类似中文量词但搭配不同。sợi 用于细长条状物（sợi dây thun 一根橡皮筋），cái
+  用于一般器物（cái ná 一个弹弓），con 用于动物（con chim 一只鸟），hòn 用于圆块状物（hòn sỏi 一颗石子）。需按名词类别逐个记忆搭配。
+examples:
+- text: Nó ngồi bệt xuống đất và buồn bã quấn sợi dây thun quanh cổ tay
+  reading: ''
+  annot: Nó ngồi bệt xuống đất và buồn bã quấn sợi dây thun quanh cổ tay
+  translation_zh: 他一屁股坐在地上，闷闷不乐地把橡皮筋绕在手腕上。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+- text: Để tao làm cái ná bắn chim, mỗi ngày kiếm vài chục con về rô-ti ăn, khoái
+    hơn nhiều!
+  reading: ''
+  annot: Để tao làm cái ná bắn chim, mỗi ngày kiếm vài chục con về rô-ti ăn, khoái
+    hơn nhiều!
+  translation_zh: 让我做个弹弓打鸟，每天弄几十只回来烤着吃，痛快多了！
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 分类词
+- 名词短语
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 10
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

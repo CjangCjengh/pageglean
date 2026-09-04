@@ -1,0 +1,39 @@
+id: vi-grm-00110
+language: vi
+type: grammar
+level: L2
+level_rank: 2
+title: V + lại：结果/方向补语 lại
+structure: 动词 + lại（+ 宾语）
+structure_pattern: V + lại
+explanation_zh: lại 作补语紧跟动词之后，表示动作的收拢、闭合或完成，如 nhắm mắt lại（闭上眼）。它还可表示'反向、回向'，如 yêu
+  lại 指'（爱）回过来、回爱'，即对方对自己回报同样的感情。两种用法都由'回到原处'的基本义引申而来。
+examples:
+- text: Tôi nhắm mắt lại và tự hỏi…
+  reading: ''
+  annot: 'Tôi nhắm mắt '
+  translation_zh: 我闭上眼睛，暗自琢磨…
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+- text: chẳng hiểu Việt An có yêu lại mình chút xíu nào không nhỉ?
+  reading: ''
+  annot: chẳng hiểu Việt An có yêu lại mình chút xíu nào không nhỉ?
+  translation_zh: 真搞不懂越南安有没有一点点回喜欢我呢？
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 补语
+- 虚词
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 0
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

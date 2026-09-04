@@ -1,0 +1,32 @@
+id: ko-grm-00127
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: -아/어 대다：动作剧烈、反复地进行
+structure: 动词词干 + -아/어 대다（补助动词）
+structure_pattern: 동사 어간 + 보조동사 -아/어 대다
+explanation_zh: 「-아/어 대다」是补助动词，表示动作反复、剧烈地进行，带有程度超出寻常的语感，相当于『不停地……』『……个不停』。'웃어 대다'指『狂笑不止』，强调动作的猛烈与持续。
+examples:
+- text: 그야말로 미친 듯이 웃어 대고 있었다.
+  reading: ''
+  annot: 그야말로 미친 듯이 웃어 대고 있었다.
+  translation_zh: 她简直像疯了一样狂笑不止。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 补助动词
+- 体貌
+- 程度
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

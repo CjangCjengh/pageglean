@@ -1,0 +1,31 @@
+id: vi-grm-00413
+language: vi
+type: grammar
+level: L3
+level_rank: 3
+title: N + nào + cũng：任何…都…
+structure: 名词 + nào + cũng + 动词/形容词
+structure_pattern: N + nào + cũng + V/Adj（任指结构）
+explanation_zh: nào 用在名词后表任指（「任何一个」），与副词 cũng 呼应，构成「任何…都…」的周遍句，表示无一例外。相当于汉语的「每个/凡是…都」。
+examples:
+- text: gần như đứa con gái nào cũng "mắc phải"
+  reading: ''
+  annot: gần như đứa con gái nào cũng "mắc phải"
+  translation_zh: 几乎每个女孩都“有”这个习惯
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 任指
+- 副词
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

@@ -1,0 +1,40 @@
+id: ko-grm-00219
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: -(으)시-：主体敬词尾与阶位切换
+structure: 用言词干 + 主体敬词尾 -(으)시- + 终结词尾；있다 → 계시다
+structure_pattern: V-(으)시-; 있다 → 계시다
+explanation_zh: -(으)시-是主体敬词尾，用于抬高动作的主体；있다的敬语形式是 계시다。片段中四位部下彼此间使用平语（해라체），但提及“主人/主君”时一律加
+  -(으)시-（계셨습니다、생각하실），这种随对象切换敬语阶位的用法是韩语敬语运用的关键。
+examples:
+- text: 주인님은 클라우 에른베스크를 상대로 여러 계책을 준비하고 계셨습니다.
+  reading: ''
+  annot: 주인님은 클라우 에른베스크를 상대로 여러 계책을 준비하고 계셨습니다.
+  translation_zh: 主人为了对付克劳·艾伦贝斯克，已经准备了多条计策。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+- text: 그거야말로 주군이 생각하실 일이다.
+  reading: ''
+  annot: 그거야말로 주군이 생각하실 일이다.
+  translation_zh: 那才是主君该考虑的事。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 敬语
+- 词尾
+- 阶位
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 5
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

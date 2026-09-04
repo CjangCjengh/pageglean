@@ -1,0 +1,33 @@
+id: ko-grm-00126
+language: ko
+type: grammar
+level: TOPIK6
+level_rank: 6
+title: -기 그지없다：至极、无比的强调
+structure: 形容词词干 + -기 그지없다
+structure_pattern: 형용사 어간 + -기 그지없다
+explanation_zh: 「-기 그지없다」表示『极其、无比』，是书面色彩浓厚的强调表达，相当于中文的『……至极』。由形容词词干加'-기 그지없다'构成，多用于文学或正式文体。本段'음침하기
+  그지없는'即『阴森至极的』。
+examples:
+- text: 온몸에 소름을 돋게 하는, 음침하기 그지없는 목소리.
+  reading: ''
+  annot: 온몸에 소름을 돋게 하는, 음침하기 그지없는 목소리.
+  translation_zh: 令人全身起鸡皮疙瘩的、阴森至极的声音。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 程度
+- 书面语
+- 形容词
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

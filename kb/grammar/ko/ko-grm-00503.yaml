@@ -1,0 +1,31 @@
+id: ko-grm-00503
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: -(으)ㄹ 테니：我打算……所以……
+structure: 용언 어간 + 관형사형 어미 -(으)ㄹ + 의존 명사 '터' + 이다의 연결형 -니 (축약 테니)
+structure_pattern: V/A-(으)ㄹ 테니(까)
+explanation_zh: 由依存名词터（表示推测或意图）加이다的连接形-니缩合而成：-(으)ㄹ 터이니→-(으)ㄹ 테니。先表明说话人的意图或推测作为前提，后句再引出嘱咐、请求或建议。文中요나先说会陪同主人先走，再嘱咐大家别迟到。
+examples:
+- text: 주인님과 먼저 가 있을 테니…… 여러분도 느, 늦지 않게 오세요.
+  reading: ''
+  annot: 주인님과 먼저 가 있을 테니…… 여러분도 느, 늦지 않게 오세요.
+  translation_zh: 我会和主人先过去等着……大家也请别、别迟到了。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 语气
+- 接续
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

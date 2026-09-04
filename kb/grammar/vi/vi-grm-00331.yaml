@@ -1,0 +1,41 @@
+id: vi-grm-00331
+language: vi
+type: grammar
+level: L3
+level_rank: 3
+title: 「sắp sửa：即将、眼看就要」
+structure: sắp sửa + V（时态虚词表将然，常与 thì 呼应）
+structure_pattern: sắp sửa + V
+explanation_zh: sắp sửa 是表示“即将、正要”的时态虚词（phụ từ），是 sắp 的强调形式。它常与 thì 呼应，构成“正要……忽然……”的叙事句式。与
+  đã（已然）、đang（进行）、sẽ（将然）同属越南语体貌虚词系统。
+examples:
+- text: Khi sắp sửa từ bỏ ý định rình rập thì bất chợt tôi nhìn thấy một chiếc xe
+    đò đỗ trên bãi đất trống ven đường.
+  reading: ''
+  annot: Khi sắp sửa từ bỏ ý định rình rập thì bất chợt tôi nhìn thấy một chiếc xe
+    đò đỗ trên bãi đất trống ven đường.
+  translation_zh: 正当我要放弃蹲守的念头时，忽然看见路边空地上停着一辆长途客车。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+- text: cuộc "đụng độ lịch sử" sắp sửa xảy ra trước mắt mình
+  reading: ''
+  annot: cuộc "đụng độ lịch sử" sắp sửa xảy ra trước mắt mình
+  translation_zh: 即将在我眼前上演的这场“历史性交锋”。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 体貌
+- 时态虚词
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

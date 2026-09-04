@@ -1,0 +1,31 @@
+id: ja-grm-00581
+language: ja
+type: grammar
+level: N2
+level_rank: 4
+title: 〜ないことには〜ない：如果不……就（不能）……
+structure: 动词未然形＋「ない」＋形式名词「こと」＋「には」＋后接否定/不可能表现
+structure_pattern: V(未然形) + ない + ことには + 不可能表現
+explanation_zh: 「〜ないことには」后接否定或表示不可能的表达，强调该条件不可或缺。「こと」为形式名词表示前提条件，「には」加以限定，语气比「なければ」更书面、更强调。文中表示“没有梦前光的回复就无法实行”。
+examples:
+- text: これだけは、夢前光の返事がないことには実行不可能なものだ。
+  reading: ''
+  annot: これだけは、夢前光[ゆめさきひかり]の返事[へんじ]がないことには実行[じっこう]不可能[ふかのう]なものだ。
+  translation_zh: 唯独这件事，如果没有梦前光的回复就无法实行。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 条件
+- 形式名词
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

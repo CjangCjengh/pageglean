@@ -1,0 +1,38 @@
+id: ja-grm-00083
+language: ja
+type: grammar
+level: N3
+level_rank: 3
+title: 连用形中止法：书面叙事的顿挫接续
+structure: 用言连用形单独结句并续接下文（中止法，相当于「て形」接续的书面表达）
+structure_pattern: 用言-連用形 + 、(中止法)
+explanation_zh: 用言（动词・形容词）的连用形可以直接用于句中顿挫、连接下文，称为“中止法”，功能相当于「て形」接续但语体更书面、紧凑。片段中「線を描き」「文様になり」「弱まり」皆为连用形中止，使叙述如画卷般逐幕展开。这是轻小说与一般小说常见的叙事文体。
+examples:
+- text: 生まれた光が線を描き、複雑な文様になり。
+  reading: ''
+  annot: 生まれた光が線を描[えが]き、複雑な文様になり。
+  translation_zh: 浮现的光描画出线条，化作复杂的纹样。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+- text: 魔法陣が発する光と風が弱まり、落ち着いた明かりと微風が、幻想的な光景を作り上げ。
+  reading: ''
+  annot: 魔法陣が発する光と風が弱まり、落ち着いた明かりと微風[びふう]が、幻想的[げんそうてき]な光景を作り上げ。
+  translation_zh: 魔法阵散发的光与风渐渐微弱，沉稳的光亮与微风营造出一片梦幻般的光景。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 接续
+- 书面语
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 6
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

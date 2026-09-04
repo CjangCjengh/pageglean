@@ -1,0 +1,38 @@
+id: ko-grm-00448
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: 「-구나/-군：感叹与新察觉」
+structure: 용언 + 감탄형 종결어미 -구나/-군
+structure_pattern: V/A-구나/-군
+explanation_zh: 感叹形终结词尾，表示说话人新察觉到某事而发出感叹，带有"原来……啊"的语气。-군是接近해라체/반말的形式，常见于男性话语或内心独白。片段中主人公多次用它自言自语，独白色彩浓厚。
+examples:
+- text: 사람 볼 줄 아는구나?
+  reading: ''
+  annot: 사람 볼 줄 아는구나?
+  translation_zh: （你）还挺会看人的嘛？
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+- text: 실룩거리는 뺨이 좀 귀엽군.
+  reading: ''
+  annot: 실룩거리는 뺨이 좀 귀엽군.
+  translation_zh: 微微抽动的脸颊还挺可爱呢。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 终结词尾
+- 感叹
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 5
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

@@ -1,0 +1,32 @@
+id: vi-grm-00200
+language: vi
+type: grammar
+level: L3
+level_rank: 3
+title: vừa…đã…：刚……就……
+structure: vừa + V1…, đã + V2…
+structure_pattern: vừa + V1, đã + V2
+explanation_zh: 时态虚词 vừa 表示前一动作刚刚发生或正要发生，đã 表示后一动作随即到来，强调两个动作紧接相继，相当于中文“刚……就……”。文中
+  "vừa dợm bước…đã gọi giật" 即刚要迈步就被叫住。
+examples:
+- text: Nhưng tôi vừa dợm bước, Việt An đã gọi giật
+  reading: ''
+  annot: Nhưng tôi vừa dợm bước, Việt An đã gọi giật
+  translation_zh: 可我刚要迈步，越安就猛地叫住我
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 体貌
+- 时间
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

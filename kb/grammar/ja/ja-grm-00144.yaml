@@ -1,0 +1,38 @@
+id: ja-grm-00144
+language: ja
+type: grammar
+level: N3
+level_rank: 3
+title: 「〜てくる」：状态逐渐变化（……起来）
+structure: 動詞連用形＋接続助詞て＋くる（補助動詞）
+structure_pattern: V-連用形 + て + くる
+explanation_zh: 補助動詞「くる」接動詞連用形，除表示向说话人方向移动外，常表示状态逐渐产生、变化发展，对应汉语“……起来”。片段“エアコンが効いてきて部屋が暖まってきた”描写室温慢慢变暖的过程。“寄り掛かってくる”则取朝向说话人的动作义。
+examples:
+- text: ゆっくりとリアの頭を撫でている内、エアコンが効いてきて部屋が暖まってきた。
+  reading: ''
+  annot: ゆっくりとリアの頭[あたま]を撫[な]でている内[うち]、エアコンが効[き]いてきて部屋[へや]が暖[あたた]まってきた。
+  translation_zh: 在我慢慢抚着莉亚头发的时候，空调渐渐起了效果，房间暖和了起来。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+- text: 顔は前を向いたまま……今度は俺に寄り掛かってくる。
+  reading: ''
+  annot: 顔[かお]は前[まえ]を向[む]いたまま……今度[こんど]は俺[おれ]に寄[よ]り掛[か]かってくる。
+  translation_zh: 她的脸依旧朝着前方……这回却朝我这边靠了过来。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 补助动词
+- 体貌
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 4
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

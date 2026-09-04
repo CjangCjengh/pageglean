@@ -1,0 +1,38 @@
+id: ja-grm-00147
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 谦让语「申す」「〜ていただく」：自谦与致谢
+structure: 「言う」の謙譲語「申す」（丁寧体：申します）／「〜てもらう」の謙譲語「〜ていただく」
+structure_pattern: 申す / V-て + いただく
+explanation_zh: 「申す」是「言う」的谦让语，自我介绍时说「〜と申します」（我叫……）。「〜ていただく」是「〜てもらう」的谦让形式，表示感激地接受对方的恩惠。少女郑重礼貌的措辞与主人公随意的口语形成语域差，正是轻小说借敬语层次塑造人物的典型手法。
+examples:
+- text: 私は『イスカ』と申します。
+  reading: ''
+  annot: 私[わたし]は『イスカ』と申[もう]します。
+  translation_zh: 我叫『伊斯卡』。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+- text: 助けていただき、ありがとうございました
+  reading: ''
+  annot: 助[たす]けていただき、ありがとうございました
+  translation_zh: 承蒙相救，万分感谢。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 敬語
+- 謙譲語
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 0
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

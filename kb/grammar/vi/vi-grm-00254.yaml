@@ -1,0 +1,33 @@
+id: vi-grm-00254
+language: vi
+type: grammar
+level: L4
+level_rank: 4
+title: 宁可……也胜过：取舍比较「thà … còn hơn …」
+structure: thà + A + còn hơn + B
+structure_pattern: thà + A + còn hơn + B
+explanation_zh: 表示两事之间取舍的偏好比较，意为「与其 B，不如 A／宁可 A 也胜过 B」。thà 引出较愿意的选择，còn hơn 之后是被舍弃或较差的一方。对应汉语「宁可……也胜过……」。是片段结尾主人公转变想法的关键句。
+examples:
+- text: tôi quyết định thà "theo tình, tình trốn" còn hơn "trốn tình mà tình không
+    theo"
+  reading: ''
+  annot: tôi quyết định thà "theo tình, tình trốn" còn hơn "trốn tình mà tình không
+    theo"
+  translation_zh: 我决定，宁可「追情，情逃」，也胜过「逃情而情不来追」
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 比较结构
+- 复句
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

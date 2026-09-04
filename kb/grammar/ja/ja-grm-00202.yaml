@@ -1,0 +1,31 @@
+id: ja-grm-00202
+language: ja
+type: grammar
+level: N2
+level_rank: 4
+title: 「〜た所で」：即使……也徒劳
+structure: 動詞連用形 + た + 形式名詞「所」 + 助詞「で」
+structure_pattern: V-た + 所で
+explanation_zh: 接在动词「连用形＋た」之后，表示“即使做了～，结果也不会改变”，暗示徒劳无益，后项多为否定性结果。文中指察觉到这是圈套时为时已晚。是书面语、轻小说旁白中常见的固定句式。
+examples:
+- text: 気が付いた所で遅かった。
+  reading: ''
+  annot: 気[き]が付[つ]いた所[ところ]で遅[おそ]かった。
+  translation_zh: 就算察觉过来也已经晚了。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 譲歩
+- 語気
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

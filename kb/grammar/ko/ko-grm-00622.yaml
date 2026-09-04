@@ -1,0 +1,39 @@
+id: ko-grm-00622
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: 补助动词 -아/어 버리다 与 -아/어 놓다
+structure: 用言 -아/어 形 + 补助动词 버리다（彻底完成·遗憾）/ 놓다·두다（结果存续）
+structure_pattern: V-아/어 버리다 / V-아/어 놓다
+explanation_zh: 两者都属于学校语法所说的补助动词（보조 용언）：前一动词以「-아/어」形连接，后一动词虚化补充语义。「-아/어 버리다」表示动作彻底完成，常带遗憾、无可奈何的语气，相当于「……掉了」；「-아/어
+  놓다/두다」表示动作完成后其结果存续着，相当于「（做好）放在那儿」。辨析要点：버리다 强调完结与不可挽回，놓다/두다 强调结果的保存。
+examples:
+- text: 예상치 못한 빈 헬로이스의 사망에 모든 사고가 엉망이 되어 버렸다.
+  reading: ''
+  annot: 예상치 못한 빈 헬로이스의 사망에 모든 사고가 엉망이 되어 버렸다.
+  translation_zh: 因为宾·赫洛伊斯出乎意料的死亡，我所有的思绪都乱成了一团糟。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+- text: 제일 나쁜 놈은 실수하는 놈이 아니라, 시작해 놓은 일을 끝내지 않는 놈이야!
+  reading: ''
+  annot: 제일 나쁜 놈은 실수하는 놈이 아니라, 시작해 놓은 일을 끝내지 않는 놈이야!
+  translation_zh: 最糟糕的家伙不是会犯错的人，而是开始了却不把事情做完的人！
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 补助动词
+- 体貌
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

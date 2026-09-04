@@ -1,0 +1,39 @@
+id: ja-grm-00052
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 〜のに：明明……却……
+structure: 普通体 + のに
+structure_pattern: 普通形 + のに
+explanation_zh: 表示与预期相反的转折，带有不满、委屈、遗憾的情绪，「明明……（却）……」。口语中名词、な形容词后常省略「だ」。本片段中用于喊冤与抱怨遭到背叛的期待。
+examples:
+- text: 俺、本当に無実なのに……！
+  reading: おれ、ほんとうにむじつなのに……！
+  annot: 俺、本当に無実なのに……！
+  translation_zh: 明明我是真的无辜的……！
+  source_book: book-ja-001
+  source_chapter: null
+  pointer: null
+- text: 良い先生だと思ってたのに……
+  reading: いいせんせいだとおもってたのに……
+  annot: 良い先生だと思ってたのに……
+  translation_zh: 明明一直以为他是位好老师……
+  source_book: book-ja-001
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 逆接
+- 语气
+- 口语
+provenance:
+  discovered_in: book-ja-001
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

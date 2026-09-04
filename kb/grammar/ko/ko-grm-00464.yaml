@@ -1,0 +1,32 @@
+id: ko-grm-00464
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: 「终结词尾 -(으)ㄴ데/-는데：意在言外的余韵」
+structure: 形容词 + -(으)ㄴ데 / 动词 + -는데（表示余韵的终结词尾）
+structure_pattern: A-(으)ㄴ데 / V-는데(종결어미, 여운)
+explanation_zh: 作为终结词尾时，-(으)ㄴ데/-는데不把话说尽，而是留下背景、对比或感叹的余韵，让听者自行体会，语气比直接断言柔和且更口语化。形容词用-(으)ㄴ데，动词用-는데。片段中女儿的「아빤
+  못생겼는데！」内容直白，却因词尾的余韵显出孩童式的天真。
+examples:
+- text: 아빠! 아빠! 이 오빠 잘생겼지?! 짱이다! 아빠랑 완전 달라! 아빤 못생겼는데!
+  reading: ''
+  annot: 아빠! 아빠! 이 오빠 잘생겼지?! 짱이다! 아빠랑 완전 달라! 아빤 못생겼는데!
+  translation_zh: 爸爸！爸爸！这个哥哥是不是很帅？！太棒了！和爸爸完全不一样！爸爸倒是长得丑呢！
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 终结词尾
+- 语气/余韵
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 4
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

@@ -1,0 +1,43 @@
+id: vi-grm-00396
+language: vi
+type: grammar
+level: L3
+level_rank: 3
+title: không thèm + V：不屑与懒得
+structure: 否定词 không / chẳng + thèm + 动词（表不屑、不情愿的态度）
+structure_pattern: S + không/chẳng + thèm + VP
+explanation_zh: thèm 本义为“馋、想要”，không/chẳng thèm + V 表示“不屑于、懒得做某事”，传达轻慢或赌气的态度。片段中三次出现，分别刻画越安的别扭与“我”的消沉。
+examples:
+- text: Nhưng lần này, "chửi" xong, nó hấp tấp bước đi, không thèm chào tôi, cũng
+    không thèm ngó tôi lấy một cái.
+  reading: ''
+  annot: Nhưng lần này, "chửi" xong, nó hấp tấp bước đi, không thèm chào tôi, cũng
+    không thèm ngó tôi lấy một cái.
+  translation_zh: 但这一次，“骂”完之后，她就急匆匆走了，连招呼都懒得跟我打，也懒得看我一眼。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+- text: Hai đứa này trông cũng hiền lành và dễ chịu nhưng tôi chẳng thèm làm quen
+    với chúng.
+  reading: ''
+  annot: Hai đứa này trông cũng hiền lành và dễ chịu nhưng tôi chẳng thèm làm quen
+    với chúng.
+  translation_zh: 这两个孩子看着也挺和善好相处，但我却懒得去跟他们认识。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 态度
+- 否定
+- 口语
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

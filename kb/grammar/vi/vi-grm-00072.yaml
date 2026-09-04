@@ -1,0 +1,40 @@
+id: vi-grm-00072
+language: vi
+type: grammar
+level: L3
+level_rank: 3
+title: 亲属称谓代词（đại từ xưng hô）：anh / em / tao / mày / tôi
+structure: 以亲属称谓充任人称代词，随对象与亲疏关系变换
+structure_pattern: anh/em/tao/mày/tôi（作主语或宾语）
+explanation_zh: 越南语日常人称代词多用亲属称谓：称年长男性为 anh，年幼者为 em。关系亲密或带居高语气时可用 tao（我）/ mày（你），平静自述则用
+  tôi。对同一对象可因语境换用，体现亲疏与地位差异。
+examples:
+- text: Sao anh bắn trật hoài vậy?
+  reading: ''
+  annot: Sao anh bắn trật hoài vậy?
+  translation_zh: 你怎么老是打偏呀？
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+- text: Dòm thấy mày, mấy con chim nó đâu có chịu đứng yên cho tao bắn.
+  reading: ''
+  annot: Dòm thấy mày, mấy con chim nó đâu có chịu đứng yên cho tao bắn.
+  translation_zh: 鸟儿一看到你，哪肯站着不动让我打。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 代词
+- 称谓
+- 语用
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 10
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

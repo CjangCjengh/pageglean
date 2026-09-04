@@ -1,0 +1,38 @@
+id: ja-grm-00380
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 〜てやる／〜てもらう：授受补助动词
+structure: 動詞連用形＋て＋やる／もらう（補助動詞）
+structure_pattern: 連用形 + て + やる／もらう
+explanation_zh: 授受动词作补助动词：「〜てやる」表示为地位较低者（文中是哥哥对妹妹）做某事，语气粗朴、带施恩感；「〜てもらう」表示领受对方的恩惠。使役助動詞连用形＋てもらう（使わせてもらっている）表示「承蒙对方允许自己做某事」。另外「〜てやる」还可表带威胁色彩的决心（如「放送してやる！」＝我偏要播），是口语常见用法。
+examples:
+- text: 妹は口座を持っておらず、俺名義の口座を貸してやってるから厳密には俺の口座なのだが
+  reading: ''
+  annot: 妹は口座[こうざ]を持っておらず、俺名義[めいぎ]の口座[こうざ]を貸してやってるから厳密[げんみつ]には俺の口座[こうざ]なのだが
+  translation_zh: 妹妹没有银行账户，是我把自己名下的账户借给她用的，所以严格来说那是我的账户。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+- text: まぁたまに取材とやらに協力してやってるからべつにいいよね。
+  reading: ''
+  annot: まぁたまに取材とやらに協力[きょうりょく]してやってるからべつにいいよね。
+  translation_zh: 嘛，反正我偶尔也配合她搞什么采访，所以也没什么吧。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 授受动词
+- 口语
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 4
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

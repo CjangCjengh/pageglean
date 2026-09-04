@@ -1,0 +1,31 @@
+id: ja-grm-00200
+language: ja
+type: grammar
+level: N2
+level_rank: 4
+title: 「〜（よ）うと／〜であろうと」：无论谁都……
+structure: 意志の助動詞「う／よう」終止形 + 接続助詞「と」（逆接・譲歩）
+structure_pattern: V-う/よう + と; N + であろうと
+explanation_zh: 表意志・推量的助动词「う／よう」后接续助词「と」，构成让步条件，意为“无论～也……”。「であろうと」是断定助动词「だ」加「ろう」加「と」的形式，常与疑问词谁／哪个／何搭配使用。片段中出现两次，是典型的书面语让步表达。
+examples:
+- text: 確かに、どっちであろうと簡単に見せる性格じゃないのは容易に想像できる。
+  reading: ''
+  annot: 確[たし]かに、どっちであろうと簡単[かんたん]に見[み]せる性格[せいかく]じゃないのは容易[ようい]に想像[そうぞう]できる。
+  translation_zh: 确实，无论两人中谁去，都能轻易想象到她不是会随便让人看的性格。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 譲歩
+- 逆接
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

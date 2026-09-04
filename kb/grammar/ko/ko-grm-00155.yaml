@@ -1,0 +1,32 @@
+id: ko-grm-00155
+language: ko
+type: grammar
+level: TOPIK5
+level_rank: 5
+title: -(으)ㅁ에도 불구하고：尽管……
+structure: 动词词干 + -(으)ㅁ에도 + 불구하고
+structure_pattern: V- + -(으)ㅁ에도 불구하고
+explanation_zh: 表示让步的连接结构，意为“尽管……却……”，由名词形词尾 -(으)ㅁ、添意助词 에도 和动词 불구하다 组合而成。名词后可直接接 -임에도
+  불구하고。片段中用来说明凯特虽然拥有强大的力量，两人的行动却始终谨慎。
+examples:
+- text: 카이트가 막강한 힘을 갖고 있음에도 불구하고, 소설 속에서 두 사람의 행보는 언제나 조심스러웠다.
+  reading: ''
+  annot: 카이트가 막강한 힘을 갖고 있음에도 불구하고, 소설 속에서 두 사람의 행보는 언제나 조심스러웠다.
+  translation_zh: 尽管凯特拥有强大的力量，但在小说里，两人的每一步行动总是小心翼翼的。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 接续
+- 让步
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

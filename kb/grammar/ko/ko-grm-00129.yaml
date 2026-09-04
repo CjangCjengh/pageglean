@@ -1,0 +1,33 @@
+id: ko-grm-00129
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: -았/어야 했는데：本该……却没有
+structure: 动词词干 + -았/어야 했는데
+structure_pattern: 동사 어간 + 연결어미 -았/어야 했는데
+explanation_zh: 「-았/어야 했는데」表示本应做某事却没有做，带有后悔或遗憾的语气，相当于『本该……（却没有）』。'예상했어야 했는데'即『本该预料到的（却没料到）』。常与'-(으)ㄹ
+  거라고'等引用结构搭配。
+examples:
+- text: 이 미치광이 살인마가 아즐란까지 죽이려 들 거라고 예상했어야 했는데……!
+  reading: ''
+  annot: 이 미치광이 살인마가 아즐란까지 죽이려 들 거라고 예상했어야 했는데……!
+  translation_zh: 我本该料到，这个疯子杀人狂连阿兹兰都想杀掉的……！
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 语气
+- 后悔
+- 连接
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

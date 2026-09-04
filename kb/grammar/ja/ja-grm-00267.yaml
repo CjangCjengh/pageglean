@@ -1,0 +1,32 @@
+id: ja-grm-00267
+language: ja
+type: grammar
+level: N2
+level_rank: 4
+title: 〜にして：既是…又是…（文语并列）
+structure: 体言＋にして＋体言（＝であり、同時に）
+structure_pattern: N + にして + N
+explanation_zh: 「AにしてB」是文语性的并列表达，意为『既是A又是B』『不仅A而且B』，多用于书面或带修辞色彩的叙述。由断定助动词「なり」的连用形「に」加接续助词「て」构成。轻小说中常借此强调人物身份的多重性，带有渲染意味。
+examples:
+- text: 幼馴染にして悪友――親友とも言える少女に、真っ直ぐな決意と、協力の申し出。
+  reading: ''
+  annot: 幼馴染[おさななじみ]にして悪友[あくゆう]――親友[しんゆう]とも言[い]える少女[しょうじょ]に、真[ま]っ直[す]ぐな決意[けつい]と、協力[きょうりょく]の申[もう]し出[で]。
+  translation_zh: 向既是青梅竹马、又是损友——甚至可以称为挚友的她，表达了坚定的决心与协助的提议。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 接续
+- 文体
+- 并列
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

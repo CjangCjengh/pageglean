@@ -1,0 +1,39 @@
+id: th-grm-00014
+language: th
+type: grammar
+level: L2
+level_rank: 2
+title: ที่：关系代词，修饰语后置
+structure: ที่（ประพันธสรรพนาม）：中心语 + ที่ + 修饰语／从句
+structure_pattern: N + ที่ + modifier
+explanation_zh: ที่ 是关系代词（ประพันธสรรพนาม），把后置的修饰语或从句连接到中心名词上，可译为“……的”。泰语修饰语后置，“疲惫的样子”要说成
+  สภาพที่เหนื่อยล้า。它还可引导时间从句，如 ตอนที่ยังเป็นเด็ก“还是孩子的时候”，片段中出现多达六次。
+examples:
+- text: ผม​เป็น​เด็ก​ที่​ค่อนข้าง​เงียบ ๆ ไม่ค่อย​หา​เพื่อน​วัย​เดียวกัน​ออกไป​เล่นตาม​ประสา​เด็ก​เท่าไร​นัก
+  reading: ''
+  annot: ผม​เป็น​เด็ก​ที่​ค่อนข้าง​เงียบ ๆ ไม่ค่อย​หา​เพื่อน​วัย​เดียวกัน​ออกไป​เล่นตาม​ประสา​เด็ก​เท่าไร​นัก
+  translation_zh: 我是个相当安静的孩子，不怎么找同龄的朋友出去按孩子的天性玩耍。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+- text: ทำให้​กลาย​เป็น​เด็ก​ที่​ไม่มี​เพื่อน
+  reading: ''
+  annot: ทำให้​กลาย​เป็น​เด็ก​ที่​ไม่มี​เพื่อน
+  translation_zh: （这）使得（我）变成了没有朋友的孩子。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 关系从句
+- 语序
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 6
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

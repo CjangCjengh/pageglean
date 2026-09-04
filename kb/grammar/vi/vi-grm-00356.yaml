@@ -1,0 +1,39 @@
+id: vi-grm-00356
+language: vi
+type: grammar
+level: L2
+level_rank: 2
+title: 完成与已然：đã 与 rồi
+structure: đã + 动词；动词后 / 句末 + rồi
+structure_pattern: đã + động từ; động từ + rồi
+explanation_zh: đã 置于动词前表示动作已经发生；rồi 置于动词后或句末表示“已经、完成”。两者可单独使用，简短答句常用“动词 + rồi”。大致对应汉语的“了、过、已经”。
+examples:
+- text: Tao đã bảo mà lại!
+  reading: ''
+  annot: Tao đã bảo mà lại!
+  translation_zh: 我早就说过嘛！
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+- text: Em nghĩ ra rồi!
+  reading: ''
+  annot: Em nghĩ ra rồi!
+  translation_zh: 我想出来啦！
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 体貌
+- 时态
+- 虚词
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 5
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

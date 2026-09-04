@@ -1,0 +1,39 @@
+id: ko-grm-00180
+language: ko
+type: grammar
+level: TOPIK2
+level_rank: 2
+title: -면서 / -며：动作同时进行
+structure: 用言词干 + 连接词尾 -면서（缩写形 -며）
+structure_pattern: 용언 어간 + 연결어미 -면서 / -며
+explanation_zh: 连接词尾 -면서 表示两个动作或状态同时进行，-며 是其缩写形，书面叙述中尤为常见。本片段叙述句大量以 바라보며 말했다 等形式，把动作与发言交织在一起，是小说文体的典型笔法。
+examples:
+- text: 나를 지그시 바라보며 레이나가 말했다.
+  reading: ''
+  annot: 나를 지그시 바라보며 레이나가 말했다.
+  translation_zh: 蕾娜凝视着我，开口说道。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+- text: 이제는 익숙해진 몸을 내려다보면서 나는 한탄하듯이 중얼거렸다.
+  reading: ''
+  annot: 이제는 익숙해진 몸을 내려다보면서 나는 한탄하듯이 중얼거렸다.
+  translation_zh: 我低头看着这具已经熟悉的身体，像是叹息般地喃喃自语。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 接续
+- 同时态
+- 文体
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 6
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

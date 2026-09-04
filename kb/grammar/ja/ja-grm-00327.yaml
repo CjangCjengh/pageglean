@@ -1,0 +1,32 @@
+id: ja-grm-00327
+language: ja
+type: grammar
+level: N3
+level_rank: 3
+title: 〜てみせる：一定……给你看（强烈意志）
+structure: 動詞連用形＋て＋みせる（補助動詞）
+structure_pattern: V-連用形 + て + みせる
+explanation_zh: 「〜てみせる」原义是做某事给别人看，引申为表示「一定会做到……」的强烈决心，语气自信、带挑衅色彩。片段中莉亚把它接在使役助动词「せる」之后（デレさせてみせる），宣言要让对方更加娇羞。
+examples:
+- text: この先、必ず和希を私以上にデレさせてみせる。
+  reading: ''
+  annot: この先[さき]、必[かなら]ず和希[かずき]を私[わたし]以上[いじょう]にデレさせてみせる。
+  translation_zh: 今后，我一定要让和希比我还娇羞给你看。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 意志
+- 使役
+- 宣言
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

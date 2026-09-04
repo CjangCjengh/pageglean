@@ -1,0 +1,39 @@
+id: vi-grm-00081
+language: vi
+type: grammar
+level: L2
+level_rank: 2
+title: đâu có：强调否认
+structure: S + đâu (có) + V（否定句 câu phủ định 中的强调否定副词）
+structure_pattern: S + đâu có + V
+explanation_zh: đâu (có) 是用于否定句（câu phủ định）的强调否定副词（phó từ phủ định），带有反驳或认为某事不言而喻不会发生的语气，比单纯
+  dùng không 否定更强烈。相当于汉语「哪（里）有／根本没」。常用于口语争辩，片段中反复用来否认「爱」这一事实。
+examples:
+- text: Vậy là nó đâu có yêu mày?
+  reading: ''
+  annot: Vậy là nó đâu có yêu mày?
+  translation_zh: 这么说她根本没有喜欢你？
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+- text: Thì đâu có yêu!
+  reading: ''
+  annot: Thì đâu có yêu!
+  translation_zh: 就是没有喜欢（我）嘛！
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 否定
+- 语气
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

@@ -1,0 +1,32 @@
+id: ja-grm-00364
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 〜ておく：事先准备（口语约音 とく）
+structure: 動詞連用形＋て＋おく（口語約音形：〜とく）
+structure_pattern: V-連用形 + て + おく → (口) とく
+explanation_zh: 補助動詞「おく」接動詞連用形，表示為之後的情況預先做好準備或處置。口語中「ておく」約音為「とく」（如「しとく」「やめとく」）。例1同時使用「〜たほうがいい」（最好做……）來徵詢意見。
+examples:
+- text: 自己紹介しといたほうがいいのか
+  reading: ''
+  annot: 自己紹介[じこしょうかい]しといたほうがいいのか
+  translation_zh: 是不是先做个自我介绍比较好呢？
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 体貌
+- 准备行为
+- 口语
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

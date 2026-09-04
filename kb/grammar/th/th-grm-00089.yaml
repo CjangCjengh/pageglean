@@ -1,0 +1,32 @@
+id: th-grm-00089
+language: th
+type: grammar
+level: L2
+level_rank: 2
+title: กำลัง…อยู่：正在进行的动作
+structure: กำลัง + คำกริยา + อยู่（กาลปัจจุบัน อาการกำลังดำเนินอยู่）
+structure_pattern: กำลัง + คำกริยา + อยู่
+explanation_zh: 「กำลัง…อยู่」相当于汉语“正在……”，表示动作或状态正在进行：กำลัง 置于动词前，อยู่ 常在句末呼应，二者可省略其一。片段中既描写心理状态（งง
+  发懵），也描写具体动作（นั่งทำงาน 坐着工作）。
+examples:
+- text: บน​โต๊ะ​ที่​ผม​กำลัง​นั่ง​ทำงาน​อยู่
+  reading: ''
+  annot: บน​โต๊ะ​ที่​ผม​กำลัง​นั่ง​ทำงาน​อยู่
+  translation_zh: 在我正坐着工作的那张桌子上
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 体貌
+- 进行体
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

@@ -1,0 +1,32 @@
+id: ko-grm-00483
+language: ko
+type: grammar
+level: TOPIK5
+level_rank: 5
+title: -(으)ㄹ 겸：顺便……、兼带……
+structure: 动词词干 + -(으)ㄹ 겸
+structure_pattern: V-(으)ㄹ 겸（依存名词 겸）
+explanation_zh: 依存名词 ‘겸’ 表示在做一件事的同时顺便兼做另一件事，“顺便……”“借着……的机会”。相当于中文的“兼做、一举两得”之意，多用于说明行为的双重目的。
+examples:
+- text: 잠들기 전, 앞으로의 일을 의논할 겸 내 방에 모였을 때, 가로가 침대에 털썩 주저앉으며 화두를 던졌다.
+  reading: ''
+  annot: 잠들기 전, 앞으로의 일을 의논할 겸 내 방에 모였을 때, 가로가 침대에 털썩 주저앉으며 화두를 던졌다.
+  translation_zh: 睡前，借着商量今后事情的机会聚到我房间时，加罗一屁股坐到床上，抛出了话题。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 依存名词
+- 目的
+- 接续
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

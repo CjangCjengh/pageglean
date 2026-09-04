@@ -1,0 +1,33 @@
+id: ko-grm-00568
+language: ko
+type: grammar
+level: TOPIK5
+level_rank: 5
+title: 「-(으)ㄴ/는 법이다」：本来如此、自然之理
+structure: 谓词冠词形 -(으)ㄴ/는 + 依存名词 법 + 이다
+structure_pattern: A/V-(으)ㄴ/는 + 의존명사 법 + 이다
+explanation_zh: 依存名词'법'本义为'法则、规律'，用于表示'本来就会……、理所当然如此'，带有感慨或总结口吻。形容词用'-(으)ㄴ 법이다'，动词用'-는
+  법이다'。文中'아름다운 법이네요'即'活着本来就自然是美的'，比单纯陈述多一层感叹。
+examples:
+- text: 살아 있다는 건, 그 자체만으로도 아름다운 법이네요.
+  reading: ''
+  annot: 살아 있다는 건, 그 자체만으로도 아름다운 법이네요.
+  translation_zh: 活着这件事，仅仅凭它本身就自然是美好的啊。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 依存名词
+- 语气
+- 修辞
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

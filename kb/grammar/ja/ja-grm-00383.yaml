@@ -1,0 +1,32 @@
+id: ja-grm-00383
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 假定形＋ば：假设条件
+structure: 用言假定形 + 接续助词「ば」
+structure_pattern: V-仮定形 / Adj-仮定形 + ば
+explanation_zh: 接续助词「ば」接在用言的假定形后，表示假设条件。五段动词的假定形由词尾う段变为え段，如 ある→あれば、脅す→脅せば。「あればなぁ……」以终助词「なぁ」收尾，表期望、感叹。
+examples:
+- text: なんかきっかけでもあればなぁ……
+  reading: ''
+  annot: なんかきっかけでもあればなぁ……
+  translation_zh: 要是能有个什么契机就好了……
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 接续
+- 活用
+- 条件
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

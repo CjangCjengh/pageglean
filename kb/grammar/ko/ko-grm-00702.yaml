@@ -1,0 +1,39 @@
+id: ko-grm-00702
+language: ko
+type: grammar
+level: TOPIK2
+level_rank: 2
+title: -아/어 주다：为对方做某事（授益）
+structure: 동사 어간 + -아/어 주다
+structure_pattern: V- + -아/어 주다 (보조 용언)
+explanation_zh: '''주다''가 연결어미 ''-아/어'' 뒤에 오는 보조 용언으로, 주어(화자)가 상대를 위해 무언가를 해 주는 수혜의
+  의미를 나타낸다. 중국어의 ''替/给某人做……''에 해당한다. 높여야 할 대상에게는 ''주다'' 대신 ''드리다''를 쓸 수 있다.'
+examples:
+- text: 나는 흘러내린 키이리의 머리카락을 귀 뒤로 넘겨주며 조심스럽게 물었다.
+  reading: ''
+  annot: 나는 흘러내린 키이리의 머리카락을 귀 뒤로 넘겨주며 조심스럽게 물었다.
+  translation_zh: 我替基莉把垂落的头发别到耳后，小心翼翼地问。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+- text: 나는 키이리를 힘껏 끌어안아 주었다.
+  reading: ''
+  annot: 나는 키이리를 힘껏 끌어안아 주었다.
+  translation_zh: 我紧紧地抱住了基莉。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 보조용언
+- 수혜
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 4
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

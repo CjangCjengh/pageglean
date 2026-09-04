@@ -1,0 +1,31 @@
+id: ja-grm-00444
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 预先做……：〜ておく（准备体貌）」
+structure: 动词连用形＋补助动词おく
+structure_pattern: V-連用形 + ておく
+explanation_zh: 表示为之后的目的预先做好某事，或让某种状态保持下来。「書いておいた」指事先把回答写进日记，「添えておく」指预先悄悄附上问题。二者都是表“事先准备”的典型用法。
+examples:
+- text: それに対する二日前の俺の回答は『好きな子はいないし、あの子とは付き合ってないよ。ただの文通友達。そういう対象として見てないから』と書いておいた。
+  reading: ''
+  annot: それに対する二日前の俺の回答は『好きな子はいないし、あの子とは付き合ってないよ。ただの文通友達。そういう対象として見てないから』と書いておいた。
+  translation_zh: 对此，我前天的回答是这样写好的：“没有喜欢的人，也没和那个女孩交往，只是笔友而已，没有把她当作恋爱对象。”
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 体貌
+- 准备
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

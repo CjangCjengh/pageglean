@@ -1,0 +1,32 @@
+id: ja-grm-00192
+language: ja
+type: grammar
+level: N2
+level_rank: 4
+title: 「〜どころか」：岂止、别说…了
+structure: 体言／用言連体形 ＋ どころか
+structure_pattern: N／用言-連体形 + どころか
+explanation_zh: 「どころか」接在体言或用言連体形之后，表示实际情况远超预想——前项根本谈不上，后项程度更甚，相当于中文“岂止、别说…了”。文中“意識が無いどころか”意为别说有女装的意识，恐怕连这个词都不懂。书面语与口语均常用，是轻小说高频表达。
+examples:
+- text: 女装しているという意識が無いどころか――その単語自体を理解してない可能性も。
+  reading: ''
+  annot: 女装[じょそう]しているという意識[いしき]が無[な]いどころか――その単語[たんご]自体[じたい]を理解[りかい]してない可能性[かのうせい]も。
+  translation_zh: 别说有“自己在女装”的意识了——恐怕她连这个词本身都不理解。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 强调
+- 递进
+- 接续
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

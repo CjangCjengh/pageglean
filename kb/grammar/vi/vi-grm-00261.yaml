@@ -1,0 +1,33 @@
+id: vi-grm-00261
+language: vi
+type: grammar
+level: L4
+level_rank: 4
+title: Đâu phải là…：反问式否认
+structure: Đâu phải (là) + 被否定的说法
+structure_pattern: Đâu phải (là) + XP
+explanation_zh: 「Đâu phải (là)…」是反问式否认，意为「哪是……、并不是……」，用反问形式驳斥对方或前文的说法。其中的「đ đâu」是表反诘的副词，并非询问地点。语气比平铺直叙的「không
+  phải」更强烈，常用于辩解。
+examples:
+- text: Đâu phải là... không thèm!
+  reading: ''
+  annot: Đâu phải là... không thèm!
+  translation_zh: 哪是不想理人啊！
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 否定
+- 语气
+- 反问
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

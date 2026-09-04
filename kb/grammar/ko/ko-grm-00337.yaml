@@ -1,0 +1,39 @@
+id: ko-grm-00337
+language: ko
+type: grammar
+level: TOPIK5
+level_rank: 5
+title: -오/-소：하오체终结词尾（庄重宣告语体）
+structure: 用言词干 + 하오체 종결어미 -오/-소（命令形 -(으)시오）
+structure_pattern: V/A + -오/-소 / -(으)시오 (하오체 종결어미)
+explanation_zh: '''-오/-소''与''-(으)시오''是相对敬语中''하오체''的终结词尾，比''합쇼체''古朴庄重，如今多见于史剧与翻译体幻想小说的宣告场面。本段马克贝格尔的阵前演说通篇使用此语体，营造当众宣告的庄严感。现代日常会话中一般不使用。'
+examples:
+- text: 모두들 들으시오!
+  reading: ''
+  annot: 모두들 들으시오!
+  translation_zh: 诸位，都听好了！
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+- text: 이것은 누구도 옹호해 줄 수 없는 반역! 반드시 단죄되어야 할 악행이었소!
+  reading: ''
+  annot: 이것은 누구도 옹호해 줄 수 없는 반역! 반드시 단죄되어야 할 악행이었소!
+  translation_zh: 这是任何人都无法为之辩护的叛逆！是必须加以严惩的恶行！
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 敬语
+- 终结词尾
+- 文体
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

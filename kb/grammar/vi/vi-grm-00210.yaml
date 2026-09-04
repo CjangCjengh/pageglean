@@ -1,0 +1,32 @@
+id: vi-grm-00210
+language: vi
+type: grammar
+level: L3
+level_rank: 3
+title: thà … hơn：宁可……更痛快
+structure: thà + V … (còn) + adj + hơn
+structure_pattern: thà + VP + A + hơn（câu so sánh，thể hiện thà chọn）
+explanation_zh: 表示事后权衡「与其如此，宁可……」，hơn 为比较标记。常与 Biết (như thế này)… 搭配表达懊悔：早知道这样，还不如……。片段中「thà
+  ở nhà nằm ngủ sướng hơn」即「还不如在家睡觉更痛快」。
+examples:
+- text: Biết như thế này thà ở nhà nằm ngủ sướng hơn!
+  reading: ''
+  annot: Biết như thế này thà ở nhà nằm ngủ sướng hơn!
+  translation_zh: 早知如此，还不如待在家里躺着睡觉更痛快！
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 比较
+- 情态
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

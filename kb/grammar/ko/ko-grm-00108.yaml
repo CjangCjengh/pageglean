@@ -1,0 +1,38 @@
+id: ko-grm-00108
+language: ko
+type: grammar
+level: TOPIK2
+level_rank: 2
+title: 「-며 / -면서」：一边……一边……（同时动作）
+structure: 동시 동작 연결어미 '-며'(='-면서')
+structure_pattern: V- + -며 / -면서
+explanation_zh: '''-며''与''-면서''是表示同时动作的连接词尾，前后两个动作同时进行，相当于''一边……一边……''。''-며''是''-면서''的缩略形，语体更偏书面。片段中多次用于描写伴随动作。'
+examples:
+- text: 마이시아의 질문에 대답하며, 나는 주위를 쭉 훑어보았다.
+  reading: ''
+  annot: 마이시아의 질문에 대답하며, 나는 주위를 쭉 훑어보았다.
+  translation_zh: 我一边回答米希亚的提问，一边把四周扫视了一遍。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+- text: 나는 주위를 둘러보면서 쓸 만해 보이는 물건들을 찾기 시작했다.
+  reading: ''
+  annot: 나는 주위를 둘러보면서 쓸 만해 보이는 물건들을 찾기 시작했다.
+  translation_zh: 我一边环顾四周，一边开始寻找看起来有用的东西。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 连接词尾
+- 同时动作
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

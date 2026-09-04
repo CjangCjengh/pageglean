@@ -1,0 +1,39 @@
+id: vi-grm-00104
+language: vi
+type: grammar
+level: L2
+level_rank: 2
+title: không dám + V：「不敢做某事」
+structure: không dám + 动词
+structure_pattern: không dám + V
+explanation_zh: dám 是能愿动词「敢」，否定式 không dám + 动词表示「不敢做某事」，在片段中反复出现，凸显人物的怯生生与隐忍。句末可加
+  nữa，表示「不敢再……」。
+examples:
+- text: quả nhiên Tiểu Li không dám vùng vằng nữa
+  reading: ''
+  annot: quả nhiên Tiểu Li không dám vùng vằng nữa
+  translation_zh: 果然，Tiểu Li 不敢再耍脾气了。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+- text: Tiểu Li không dám phản đối "sáng kiến" của tôi.
+  reading: ''
+  annot: Tiểu Li không dám phản đối "sáng kiến" của tôi.
+  translation_zh: Tiểu Li 不敢反对我的「好主意」。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 能愿动词
+- 否定
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

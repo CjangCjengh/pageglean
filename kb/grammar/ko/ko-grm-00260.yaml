@@ -1,0 +1,40 @@
+id: ko-grm-00260
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: -(으)ㄹ 뿐이다：只是……而已
+structure: 动词词干 + -(으)ㄹ 뿐이다（依存名词 뿐 表示限定）
+structure_pattern: V-어간 + -(으)ㄹ 뿐이다
+explanation_zh: 뿐 是依存名词（의존명사），表示限定，相当于“只是、不过”。接动词时以冠形词形 -(으)ㄹ 修饰构成 -(으)ㄹ 뿐이다；体言后可直接接
+  뿐（如“말살뿐이다”）。片段中反复出现，强调“除此之外别无其他”的语气。
+examples:
+- text: 고향을 등진 마이시아는 오로지 아즐란을 위해서 살아갈 뿐이다.
+  reading: ''
+  annot: 고향을 등진 마이시아는 오로지 아즐란을 위해서 살아갈 뿐이다.
+  translation_zh: 背弃了故乡的迈希亚，只是为了阿兹兰而活着而已。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+- text: 그저 제 말에 저항할 수 없게 될 뿐입니다.
+  reading: ''
+  annot: 그저 제 말에 저항할 수 없게 될 뿐입니다.
+  translation_zh: 只不过会变得无法抗拒我的话罢了。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 依存名词
+- 限定
+- 语气
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 4
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

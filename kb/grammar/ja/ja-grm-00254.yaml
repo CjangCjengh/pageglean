@@ -1,0 +1,31 @@
+id: ja-grm-00254
+language: ja
+type: grammar
+level: N2
+level_rank: 4
+title: 二重敬语：なされる・おつもりでござりましょうか（过度敬语表讽刺）
+structure: 尊敬动词なさる＋助动词れる＋おつもり＋でござりましょうか
+structure_pattern: なさ(る) + れる；お + つもり + でございます + んじゃありません（う）
+explanation_zh: 「なさる」是「する」的尊敬语，其上再叠加被动助动词「れる」构成敬语的重叠使用，后面又接连使用「おつもり」「でござりましょうか」等郑重表达。敬语叠用本不合规范，此处却刻意为之，用以表现红音极尽挖苦的语气，即所谓「嫌味全開の二重敬語」。中文可译为过度客气的说法以保留话中带刺的感觉。
+examples:
+- text: 一体何をなされるおつもりでござりましょうか？
+  reading: ''
+  annot: 一体[いったい]何[なに]をなされるおつもりでござりましょうか？
+  translation_zh: 您到底是打算干什么呢？
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 敬语
+- 语气
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

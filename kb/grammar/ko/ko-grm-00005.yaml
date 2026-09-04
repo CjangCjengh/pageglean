@@ -1,0 +1,39 @@
+id: ko-grm-00005
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: 「-(으)ㄹ지도 모르다」：说不定、也许会
+structure: 용언 어간 + -(으)ㄹ지 + 보조동사 '모르다'
+structure_pattern: V/A-(으)ㄹ지도 모르다
+explanation_zh: 表示不太确定的推测，意为「说不定会……/也许……」。「-(으)ㄹ지」带疑问性连接，后接「모르다」，语气比「-(으)ㄹ 것이다」更没把握。片段中读者自嘲「어쩌면
+  탈덕할지도 모르겠네요」。
+examples:
+- text: 어쩌면 아예 탈덕할지도 모르겠네요.
+  reading: ''
+  annot: 어쩌면 아예 탈덕할지도 모르겠네요.
+  translation_zh: 说不定（我）干脆就脱粉了呢。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+- text: 어쩌면 그쪽이 대화가 더 수월해질지도 모른다.
+  reading: ''
+  annot: 어쩌면 그쪽이 대화가 더 수월해질지도 모른다.
+  translation_zh: 说不定对方那边交谈反而会更顺畅。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 推测
+- 语气
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

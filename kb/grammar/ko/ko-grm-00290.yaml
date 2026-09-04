@@ -1,0 +1,32 @@
+id: ko-grm-00290
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: 「-는데」：背景铺垫与转折
+structure: 用言词干 + 连接词尾'-는데'（대조·배경）
+structure_pattern: V/A + -는데
+explanation_zh: 学校语法中'-는데'是表示背景、转折或前提的连接词尾，前句先陈述一个事实，后句引出与之相对或出乎意料的内容，相当于中文'（虽然）……但是……'。语体上比'-지만'更口语、更委婉。本段以'거절했는데
+  또다시 이러다니'表达对再次纠缠的惊讶。
+examples:
+- text: 이미 한번 거절했는데 또다시 이러다니.
+  reading: ''
+  annot: 이미 한번 거절했는데 또다시 이러다니.
+  translation_zh: 已经拒绝过一次了，竟然还这样。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 转折
+- 接续
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

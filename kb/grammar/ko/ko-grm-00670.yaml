@@ -1,0 +1,31 @@
+id: ko-grm-00670
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: -기 때문에：因为（书面理由）
+structure: 用言词干 + -기 (명사형 전성 어미) + 의존 명사 '때문' + -에
+structure_pattern: V-았/었기 때문에
+explanation_zh: 用名词化词尾'-기'将谓词名词化，再与依存名词'때문'结合表示原因、理由，语气较'-아/어서'更正式、更强调理由，多用于书面。相当于中文'因为……'。
+examples:
+- text: 방어 마법을 펼치려 했지만, 요나를 다치게 하고 싶지 않았기 때문에 '아차' 하는 생각과 함께 그만뒀다.
+  reading: ''
+  annot: 방어 마법을 펼치려 했지만, 요나를 다치게 하고 싶지
+  translation_zh: 我本想施展防御魔法，但因为不想伤到约拿，便在'糟糕'的念头中作罢了。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 原因
+- 接续
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

@@ -1,0 +1,31 @@
+id: ko-grm-00417
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: 「-아/어 버리다：彻底完成」
+structure: 본용언 -아/어 + 보조동사 버리다
+structure_pattern: V-아/어 + 버리다（보조용언 구성）
+explanation_zh: 보조동사 -아/어 버리다 表示动作彻底完成，常附带遗憾、痛快或负担的语气，相当于中文「……掉了」「……光了」。此处‘전멸시켜 버린’强调鸟群被干净利落地全歼，暗含说话人的震动。
+examples:
+- text: 아마도 키이리는 시나가 시동어조차 없이 수십의 새 떼를 전멸시켜 버린 것을 떠올리고 있을 것이다.
+  reading: ''
+  annot: 아마도 키이리는 시나가 시동어조차 없이 수십의 새 떼를 전멸시켜 버린 것을 떠올리고 있을 것이다.
+  translation_zh: 也许基里正想起希娜连启动咒语都没念、就把数十只鸟全歼了的事。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 体貌
+- 补助动词
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

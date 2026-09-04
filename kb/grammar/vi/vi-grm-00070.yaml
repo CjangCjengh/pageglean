@@ -1,0 +1,32 @@
+id: vi-grm-00070
+language: vi
+type: grammar
+level: L4
+level_rank: 4
+title: chẳng… là gì：反问确认「不是说过……吗」
+structure: chẳng + V …… + là gì
+structure_pattern: chẳng + V … là gì
+explanation_zh: 用否定词 chẳng 加句末的 là gì 构成反问，提醒对方确认已说过的事实，相当于汉语“不是（说过）……吗”。常用于引述对方先前话语，带有提醒、嗔怪的口吻，口语色彩浓。
+examples:
+- text: Thì anh chẳng bảo khi nào có trò chơi nhớ rủ anh là gì!
+  reading: ''
+  annot: Thì anh chẳng bảo khi nào có trò chơi nhớ rủ anh là gì!
+  translation_zh: 你不是说过，有游戏要记得叫上你吗！
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 反问
+- 语气
+- 口语
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

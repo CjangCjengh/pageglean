@@ -1,0 +1,38 @@
+id: ja-grm-00175
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 「〜ことにする」：决定……、就当是……
+structure: 動詞終止形 ＋ 形式名詞「こと」＋ にする
+structure_pattern: V-終止形 + こと + にする
+explanation_zh: 形式名词「こと」将前面的叙述名词化，再以「にする」表示选定，表达说话人自行作出决定，意为“决定……”。文中的「そういう事にしておこう」与「〜ておく」复合，表示“暂且就当是那样吧”，含有不愿深究的语感。礼貌体作「ことにします」。
+examples:
+- text: 幸いな事に体もかなり復調しましたので、今宵は適当な所で休む事にします
+  reading: ''
+  annot: 幸[さいわ]いな事[こと]に体[からだ]もかなり復調[ふくちょう]しましたので、今宵[こよい]は適当[てきとう]な所[ところ]で休[やす]む事[こと]にします
+  translation_zh: 幸运的是身体也恢复了不少，所以我决定今晚在合适的地方休息。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+- text: まぁ、そういう事にしておこう。
+  reading: ''
+  annot: まぁ、そういう事[こと]にしておこう。
+  translation_zh: 算了，那就暂且当作是这样吧。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 形式名词
+- 决定
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

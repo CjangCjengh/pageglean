@@ -1,0 +1,40 @@
+id: vi-grm-00320
+language: vi
+type: grammar
+level: L3
+level_rank: 3
+title: hết + 动词：不再/没法再……
+structure: hết + 动词/心理动词
+structure_pattern: hết + V
+explanation_zh: hết 本义为「完、尽」，置于动词或心理动词前，表示该动作、意愿已经消失，相当于「不再……、没法再……」。片段里反复出现：hết muốn
+  thở（喘不上气）、hết đường cựa quậy（动弹不得）、hết ham đánh trả（无心还手），是叙述「力竭」场景的地道说法。
+examples:
+- text: Nó ngồi lên bụng tôi, tôi đã hết muốn thở.
+  reading: ''
+  annot: Nó ngồi lên bụng tôi, tôi đã hết muốn thở.
+  translation_zh: 他坐在我肚子上，我几乎喘不过气来。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+- text: Lần này, tôi ngồi lên bụng, Tiểu Li ngồi lên chân, Lợi sứt hết đường cựa quậy.
+  reading: ''
+  annot: Lần này, tôi ngồi lên bụng, Tiểu Li ngồi lên chân, Lợi sứt hết đường cựa
+    quậy.
+  translation_zh: 这回，我坐在他肚子上，Tiểu Li 压住他的腿，Lợi sứt 再也动弹不得。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 副词
+- 状态变化
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 5
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

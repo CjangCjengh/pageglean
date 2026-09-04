@@ -1,0 +1,39 @@
+id: ja-grm-00393
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 〜ておく：事先做好准备（口语缩约〜とく）
+structure: 動詞連用形＋接続助詞「て」＋補助動詞「おく」（口语中缩约为「〜とく」）
+structure_pattern: 'V-連用形 + て + 補助動詞おく（口語縮約: とく）'
+explanation_zh: 补助动词「おく」接在「动词连用形＋接续助词て」之后，表示事先做好某动作以备后用；片段中指先把话说在前头。口语中「ておく」常缩约为「とく」，如命令形「言っておけ」变为「言っとけ」。中文可译为“先……好／先说一声”。
+examples:
+- text: この中から好きなのを選んでね～って言っておいたの。
+  reading: ''
+  annot: この中[なか]から好[す]きなのを選[えら]んでね～って言[い]っておいたの。
+  translation_zh: 我已经跟他说过啦：“从这之中挑一个自己喜欢的哦～”。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+- text: 言っとけよそんな大事なこと！
+  reading: ''
+  annot: 言[い]っとけよそんな大事[だいじ]なこと！
+  translation_zh: 那么重要的事，你倒是先说一声啊！
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 体貌
+- 补助动词
+- 口语
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

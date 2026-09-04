@@ -1,0 +1,39 @@
+id: ko-grm-00174
+language: ko
+type: grammar
+level: TOPIK2
+level_rank: 2
+title: -(으)ㄹ까：独白中的自问与不安
+structure: 서술어 어간 + 의문 종결 어미 '-(으)ㄹ까'（혼잣말에서는 자문·번민 표현）
+structure_pattern: V/A-(으)ㄹ까
+explanation_zh: 疑问终结词尾，在自言自语中用于自问，表达无法确知的猜测或内心的纠结。常以肯定与否定对举的形式出现。本片段用“들었을까/못 들었을까”的对举，表现主人公动摇不安的心理。
+examples:
+- text: 내 절규를 카이트가 들었을까. 아니면 못 들었을까.
+  reading: ''
+  annot: 내 절규를 카이트가 들었을
+  translation_zh: 凯特听到我的呐喊了吗？还是没听到呢？
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+- text: 왜 이렇게 된 걸까.
+  reading: ''
+  annot: 왜 이렇게 된 걸까.
+  translation_zh: 究竟为什么会变成这样呢。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 종결어미
+- 혼잣말
+- 추측
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

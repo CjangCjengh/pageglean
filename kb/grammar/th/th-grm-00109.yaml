@@ -1,0 +1,38 @@
+id: th-grm-00109
+language: th
+type: grammar
+level: L1
+level_rank: 1
+title: 「จะ + 动词：将来与未然」
+structure: จะ（ช่วยกริยาบอกอนาคต）+ คำกริยา
+structure_pattern: จะ + V
+explanation_zh: จะ 置于动词前作助动词，表示尚未发生的动作或意愿，相当于汉语“会/要”。与疑问词连用可构成反问，如 จะ…ไปทำไม（干嘛还要…）。本段中男主用此结构自嘲“我干嘛还要去描述这番印象”。
+examples:
+- text: ผม​จะ​มา​บรรยาย​ความ​ประทับใจ...ไป​ทำไม​กันฟะ!
+  reading: ''
+  annot: ผม​จะ​มา​บรรยาย​ความ​ปร
+  translation_zh: （事到如今）我还干嘛要来描述这份印象啊！
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+- text: ดูท่าทาง​เรา​จะ​เหงา​เกินไป​แล้ว​ล่ะ​มั้ง
+  reading: ''
+  annot: ดูท่าทาง​เรา​จะ​เหงา​เกินไป​แล้ว​ล่ะ​มั้ง
+  translation_zh: 看来我大概是太寂寞了吧。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 体貌
+- 将来时
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

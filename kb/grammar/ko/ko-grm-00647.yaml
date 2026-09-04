@@ -1,0 +1,40 @@
+id: ko-grm-00647
+language: ko
+type: grammar
+level: TOPIK2
+level_rank: 2
+title: -아/어 주다：为他人做（施惠）
+structure: 용언 어간 + 연결어미 '-아/어' + 보조 용언 '주다'
+structure_pattern: V-아/어 + 주다 (보조 용언)
+explanation_zh: 动词词干后接连接词尾 -아/어，再补助动词 주다，表示为对方做某事、带有施惠或成全的语气。主语是施予动作的一方，对应中文“为……做／帮……做”。敬语形式为
+  -아/어 드리다。
+examples:
+- text: 나를 위해 죽어 줘.
+  reading: ''
+  annot: 나를 위해 죽어 줘.
+  translation_zh: 为我而死吧。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+- text: 네가 다시 웃어 줄지는 잘 모르겠지만 말이다.
+  reading: ''
+  annot: 네가 다시 웃어 줄지는 잘 모르겠지만 말이다.
+  translation_zh: 虽然我不确定你是否还会再次对我露出笑容。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 补助动词
+- 敬语/恩惠
+- 接续
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 5
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

@@ -1,0 +1,38 @@
+id: th-grm-00093
+language: th
+type: grammar
+level: L3
+level_rank: 3
+title: อย่าง + 形容词：方式状语“……地”
+structure: คำกริยา + อย่าง + คำวิเศษณ์（วิเศษณ์บอกลักษณะ）
+structure_pattern: คำกริยา + อย่าง + คำวิเศษณ์
+explanation_zh: 「อย่าง＋形容词」置于动词之后作方式状语，相当于汉语“……地”，如“流畅地进行”“迅速地成形”。泰语方式状语一般位于动词之后，体现修饰语后置的语序特点。
+examples:
+- text: ขั้นตอน​การ​ทำอาหาร​เป็นไป​อย่าง​ไหลลื่น
+  reading: ''
+  annot: ขั้นตอน​การ​ทำอาหาร​เป็นไป​อย่าง​ไหลลื่น
+  translation_zh: 做菜的步骤进行得流畅顺滑
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+- text: ราวกับ​มืออาชีพ​ที่​ผ่าน​สมรภูมิ​มา​แล้ว​อย่าง​โชกโชน
+  reading: ''
+  annot: ราวกับ​มืออาชีพ​ที่​ผ่าน​ส
+  translation_zh: 像身经百战的专业人士一样
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 语序
+- 状语
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

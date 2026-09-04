@@ -1,0 +1,32 @@
+id: ko-grm-00428
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: -(으)ㄹ수록：越是……越……
+structure: 용언 + -(으)ㄹ수록；强调形：-(으)면 … -(으)ㄹ수록
+structure_pattern: 어간 + -(으)ㄹ수록
+explanation_zh: '''-(으)ㄹ수록''是表示程度渐进的连接词尾，相当于中文的''越……越……''。同一用言以''-(으)면 … -(으)ㄹ수록''的形式重复使用（如''알면
+  알수록''），强调程度随条件递进加深，是小说与口语中都常见的高频结构。'
+examples:
+- text: 알면 알수록 소름 끼치게 싫다, 이 여자.
+  reading: ''
+  annot: 알면 알수록 소름 끼치게 싫다, 이 여자.
+  translation_zh: 越是了解，就越觉得这个女人让人毛骨悚然地讨厌。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 연결어미
+- 점진
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

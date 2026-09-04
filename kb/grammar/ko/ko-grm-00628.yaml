@@ -1,0 +1,32 @@
+id: ko-grm-00628
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: -(으)ㄹ 테니까：以意愿或推测引出原因
+structure: 用言词干 + -(으)ㄹ 테니까（-(으)ㄹ 터 + 이 + 니까）
+structure_pattern: V/A-(으)ㄹ 터 + 이니까 (연결어미)
+explanation_zh: 由依存名词 터（表打算或推测）＋이다＋连接词尾 -니까 构成，先表明说话人的强烈意愿或推测，再以此为原因引出后句。后句常接命令句、共动句，提出请求或建议。文中“我要上布鲁恩的房间（所以）你去把基里带出来”即典型用法。
+examples:
+- text: 난 브룬의 방으로 올라갈 테니까, 넌 키이리의 방으로 가서 키이리 데리고 나와.
+  reading: ''
+  annot: 난 브룬의 방으로 올라갈 테니까, 넌 키이리의 방으로 가서 키이리 데리고 나와.
+  translation_zh: 我要上布鲁恩的房间去，你去基里的房间把基里带出来。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 连接词尾
+- 原因
+- 意志
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

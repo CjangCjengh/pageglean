@@ -1,0 +1,39 @@
+id: ko-grm-00527
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: -(으)ㄹ 수밖에 없다：别无选择，只能……
+structure: 用言词干 + 冠形词形词尾 -(으)ㄹ + 依存名词 수 + 补助词 밖에 + 없다
+structure_pattern: V/A + -(으)ㄹ 수밖에 없다
+explanation_zh: 学校语法上，冠形词形词尾 -(으)ㄹ 修饰依存名词 수，补助词 밖에 与否定谓语 없다 呼应，构成结构。表示没有其他选择、只能如此，带有必然与不得已的语气。对应中文“只能／只好／不得不”。
+examples:
+- text: 어쩔 땐 자신이 불리하다는 걸 알아도 할 수밖에 없는 일이 있잖아.
+  reading: ''
+  annot: 어쩔 땐 자신이 불리하다는 걸 알아도 할 수밖에 없는 일이 있잖아.
+  translation_zh: 有时候，就算明知道对自己不利，也还是有些事只能去做啊。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+- text: 이게 최악의 방법이라고 해도 할 수밖에 없다.
+  reading: ''
+  annot: 이게 최악의 방법이라고 해도 할 수밖에 없다.
+  translation_zh: 就算这是最糟糕的办法，也只能这么做了。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 依存名词
+- 固定表达
+- 语气
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

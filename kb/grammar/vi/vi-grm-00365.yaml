@@ -1,0 +1,39 @@
+id: vi-grm-00365
+language: vi
+type: grammar
+level: L2
+level_rank: 2
+title: 话题结构 Còn X, X …：至于……
+structure: Còn + 话题，话题 + 谓语（话题重复）
+structure_pattern: Còn + NP, NP + V
+explanation_zh: 越南语是话题优先型语言，常把话题置于句首；用 còn 引出转换的新话题，意为「至于……」，主句中该话题往往重复出现，如「Còn tao,
+  tao ăn」。名词加语气词也可独立成话轮，如「Tao hả?」（我吗？）。
+examples:
+- text: Thì mày ép vào tập. Còn tao, tao ăn.
+  reading: ''
+  annot: Thì mày ép vào tập. Còn tao, tao ăn.
+  translation_zh: 那你就压进本子里吧。至于我，我吃。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+- text: Tao hả? Tao thích hoa... phượng.
+  reading: ''
+  annot: Tao hả? Tao thích hoa... phượng.
+  translation_zh: 我吗？我喜欢……凤凰花。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 话题
+- 句式
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

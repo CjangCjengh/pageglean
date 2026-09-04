@@ -1,0 +1,31 @@
+id: ja-grm-00589
+language: ja
+type: grammar
+level: N2
+level_rank: 4
+title: 〜にもかかわらず：尽管……却……
+structure: 体言／连体形 ＋ にもかかわらず
+structure_pattern: N / V-连体形 + にもかかわらず
+explanation_zh: 「にもかかわらず」接在体言或连体形后，表示“尽管……却……”的让步转折，后项出现与前项预期相反的情况。书面语色彩浓厚，口语多用「〜のに」替代。文中前项“大雨”与后项“仍有媒体聚集”构成反差。
+examples:
+- text: 大雨にもかかわらず、ここ──風城がネットで犯行予告をした大通り付近には、ちらほらと雨宿りしているマスコミの姿が。
+  reading: ''
+  annot: 大雨[おおあめ]にもかかわらず、ここ──風城[かぜしろ]がネットで犯行予告[はんこうよこく]をした大通[おおどお]り付近[ふきん]には、ちらほらと雨宿[あまやど]りしているマスコミの姿[すがた]が。
+  translation_zh: 尽管下着大雨，在风城于网上发出犯行预告的大街附近，仍可见到三三两两躲雨的媒体人。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 接续
+- 书面语
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

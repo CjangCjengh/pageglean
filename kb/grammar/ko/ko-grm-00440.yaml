@@ -1,0 +1,38 @@
+id: ko-grm-00440
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: 「-(으)며」：动作同时进行
+structure: 동사 어간 + 연결어미 '-(으)며'
+structure_pattern: V-(으)며
+explanation_zh: 连接词尾（연결어미）'-(으)며'接在动词词干后，表示前后两个动作同时进行，相当于“一边……一边……”。与'-면서'意义相同，但'-(으)며'更偏书面，在小说叙事中十分常见。
+examples:
+- text: 속으로 시동어를 읊으며 골목 안으로 들어선 순간.
+  reading: ''
+  annot: 속으로 시동어를 읊으며 골목 안으로 들어선 순간.
+  translation_zh: （就在我）一边在心里默念启动咒语，一边走进胡同的那一瞬间。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+- text: 메이드가 어디서 꺼냈는지 지갑 하나를 슥 들어 올리며 말했다.
+  reading: ''
+  annot: 메이드가 어디서 꺼냈는지 지갑 하나를 슥 들어 올리며 말했다.
+  translation_zh: 女仆不知从哪里掏出一个钱包，唰地举起来说道。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 连接词尾
+- 接续
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 4
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

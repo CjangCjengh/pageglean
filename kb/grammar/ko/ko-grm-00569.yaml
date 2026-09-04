@@ -1,0 +1,40 @@
+id: ko-grm-00569
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: 「-(으)ㄴ/는 듯하다」：仿佛……一般
+structure: 谓词冠词形 -(으)ㄴ/는 + 依存名词 듯 + (하다)
+structure_pattern: A/V-(으)ㄴ/는 + 의존명사 듯 + (하다)
+explanation_zh: 依存名词'듯'表示'好像……的样子'，后接'하다'构成比喻或推测性描写。状态或完成用'-(으)ㄴ 듯'，进行用'-는 듯'，也可作定语'-(으)ㄴ
+  듯(한)'。片段中'체념한 듯한''사랑에 빠진 듯한'接连出现，是小说刻画人物神态的高频结构。
+examples:
+- text: 미소라고 할지, 어딘가 체념한 듯한 느낌의 표정이었지만.
+  reading: ''
+  annot: 미소라고 할지, 어딘가 체념한 듯한 느낌의 표정이었지만.
+  translation_zh: 说是微笑，倒更像是一种仿佛带着几分认命的表情。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+- text: 어쩐지 사랑에 빠진 듯한 표정으로.
+  reading: ''
+  annot: 어쩐지 사랑에 빠진 듯한 표정으로.
+  translation_zh: 不知为何，带着一副仿佛坠入爱河般的神情。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 依存名词
+- 比喻
+- 推测
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

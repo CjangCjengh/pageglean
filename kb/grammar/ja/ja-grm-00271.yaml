@@ -1,0 +1,31 @@
+id: ja-grm-00271
+language: ja
+type: grammar
+level: N2
+level_rank: 4
+title: 断じて〜ない：绝对不…（强烈否定）
+structure: 副词「断じて」＋动词否定形（〜ない）
+structure_pattern: 断じて + V-否定形(ない)
+explanation_zh: 副词「断じて」须与否定呼应，表示『绝对（不）』『断然（不）』，语气极重。学校文法将其归为副词，后接动词否定形构成强烈否定。句中主人公借此强烈否认自己是某种人，带有自我辩解的夸张感。
+examples:
+- text: 俺は断じてロリやペドと呼ばれる人種ではない。
+  reading: ''
+  annot: 俺[おれ]は断[だん]じてロリやペドと呼[よ]ばれる人種[じんしゅ]ではない。
+  translation_zh: 我，绝对不是那种会被称为萝莉控或恋童癖的人。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 副词
+- 否定
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

@@ -1,0 +1,31 @@
+id: ko-grm-00684
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: 「-ㄴ/은 탓에：归咎的原因」
+structure: 形容词/动词 + -ㄴ/은 탓에（导致不良结果的原因）
+structure_pattern: Adj-ㄴ/은 탓에 / V-ㄴ 탓에
+explanation_zh: 依存名词탓表示过错或不良结果的原因所在，加助词에构成-탓에，相当于“都怪……”“因为……”，多用于负面结果。片段说明由于剑身太长，基丽不得不双手握住剑刃，以致手被割伤流血。
+examples:
+- text: 레기나스 에퀼리가 긴 탓에 키이리는 검날을 양손으로 쥐고 있었다.
+  reading: ''
+  annot: 레기나스 에퀼리가 긴 탓에 키이리는 검날을 양손으로 쥐고 있었다.
+  translation_zh: 由于雷基纳斯·埃奎拉（剑）太长，基丽只好用双手握着剑刃。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 依存名词
+- 原因
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

@@ -1,0 +1,41 @@
+id: vi-grm-00173
+language: vi
+type: grammar
+level: L3
+level_rank: 3
+title: khởi ngữ + thì：话题化与对比强调
+structure: 话题（khởi ngữ）+ thì + 评述分句
+structure_pattern: Topic (khởi ngữ) + thì + clause
+explanation_zh: 把要谈论的对象提到句首作话题（学校语法称 khởi ngữ），再用 thì 连接评述部分，相当于汉语“……嘛”“至于……”，常含对比意味。片段用该结构把“我的本子”与“课文”提出来，突出对照并加强语气。
+examples:
+- text: Tập vở của tôi thì tôi nhét kỹ trong cặp, từ đầu giờ đến cuối giờ chẳng thèm
+    lôi ra lấy một lần.
+  reading: ''
+  annot: Tập vở của tôi thì tôi nhét kỹ trong cặp, từ đầu giờ đến cuối giờ chẳng thèm
+    lôi ra lấy một lần.
+  translation_zh: 我自己的作业本嘛，被我严严实实塞在书包里，从上课到下课一次都懒得掏出来。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+- text: Bài học thì không chép, lại chép bậy bạ gì đây?
+  reading: ''
+  annot: Bài học thì không chép, lại chép bậy bạ gì đây?
+  translation_zh: 课文不抄，倒在这里乱抄些什么？
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 话题化
+- 语序
+- 强调
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

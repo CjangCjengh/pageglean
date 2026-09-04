@@ -1,0 +1,32 @@
+id: ko-grm-00426
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: -(으)ㄹ지도 모른다：也许、说不定
+structure: 용언 + -(으)ㄹ지도 모르다
+structure_pattern: 어간 + -(으)ㄹ지 + 도 + 모르다
+explanation_zh: 表示不肯定的推测，意为'也许会……、说不定……'。'-(으)ㄹ지'带有疑问与不确定性，再加'도 모르다'使语气更委婉，把握程度比'-(으)ㄹ
+  것이다'更低。过去的事情用'-았/었을지도 모른다'。
+examples:
+- text: 그러니 혹시 모르지. 자기가 가진 마력이라면 악마를 없앨 수 있을지도.
+  reading: ''
+  annot: 그러니 혹시 모르지. 자기가 가진 마력이라면 악마를 없앨 수 있을지도.
+  translation_zh: 所以也说不定呢。如果凭你拥有的魔力，说不定能消灭恶魔。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 추측
+- 표현
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

@@ -1,0 +1,32 @@
+id: ja-grm-00409
+language: ja
+type: grammar
+level: N3
+level_rank: 3
+title: 〜ず：～ない（否定助动词「ず」接未然形）
+structure: 动词未然形＋否定助动词「ず」
+structure_pattern: V-未然形 + 助動詞「ず」
+explanation_zh: ず是学校文法中的否定助动词，接在动词未然形后（下一段动词めげる→めげず），相当于「〜ない」但语气更偏书面。「めげず」即“不气馁地”。多用于叙述性文字，行文简洁有力度。
+examples:
+- text: いささかふざけたネーミングにもめげず、ショート少女の向かいに座っていたポニテ少女が真剣に抗議する。
+  reading: ''
+  annot: いささかふざけたネーミングにもめげず、ショート少女の向かいに座っていたポニテ少女が真剣に抗議する。
+  translation_zh: 面对这略显戏谑的命名也不气馁，坐在短发少女对面的马尾辫少女认真地提出了抗议。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 否定
+- 书面语
+- 接续
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

@@ -1,0 +1,32 @@
+id: ko-grm-00691
+language: ko
+type: grammar
+level: TOPIK6
+level_rank: 6
+title: 「-(으)ㄹ 텐데도：想必……却仍……」
+structure: 用言词干 + 冠形词形词尾 -(으)ㄹ + 의존명사 '터' + 连接词尾 -인데 + 보조사 도
+structure_pattern: V/A + -(으)ㄹ 텐데도
+explanation_zh: 依存名词 '터' 表推量或情形，后接转折连接词尾 '-인데'，表示“想必……但是……、虽然理应……却……”。加上补助词 '도' 后让步语气更强，强调“即便推想如此，事实仍然相反”。文中写约拿虽泪水模糊视线，仍坚定地直视叙述者。
+examples:
+- text: 눈물에 시야가 흐려졌을 텐데도, 꿋꿋하게 나와 눈을 마주쳤다.
+  reading: ''
+  annot: 눈물에 시야가 흐려졌을 텐데도, 꿋꿋하게 나와 눈을 마주쳤다.
+  translation_zh: 视线想必已被泪水模糊，（她）却依然倔强地与我对视。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 推测
+- 让步
+- 连接词尾
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

@@ -1,0 +1,31 @@
+id: ja-grm-00244
+language: ja
+type: grammar
+level: N3
+level_rank: 3
+title: 〜ている場合じゃない：不是做……的时候
+structure: 動詞連用形＋ている＋場合ではない（口语：場合じゃない）
+structure_pattern: V-連用形 + ている + 場合ではない
+explanation_zh: 形式名词「場合」表「场合、情况」，「〜ている場合じゃない」表示事态紧急、不是从容做前项的时候，即「哪是做……的时候」。片段中对话与叙述两次出现，是非常高频的口语表达。反说「〜ている場合か」可用作反问。
+examples:
+- text: そんなの言ってる場合じゃない
+  reading: ''
+  annot: そんなの言[い]ってる場合[ばあい]じゃない
+  translation_zh: 现在根本不是（说）那种话的时候。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 惯用表达
+- 语气
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

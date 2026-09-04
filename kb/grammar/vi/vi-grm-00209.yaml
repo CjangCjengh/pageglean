@@ -1,0 +1,33 @@
+id: vi-grm-00209
+language: vi
+type: grammar
+level: L3
+level_rank: 3
+title: làm như / giống như … vậy：就像……一样
+structure: làm như / giống như + 小句 + vậy
+structure_pattern: làm như / giống như + clause (+ vậy)（kết cấu so sánh）
+explanation_zh: 比较-比喻结构：giống như…vậy 意为「就像……一样」，vậy 是收尾的语气助词。làm như 也表示「好像、弄得像」，常暗含说话人不认同该情况属实。片段用「喝啤酒必须配下酒菜」来类比「看电影被迫带一群人」。
+examples:
+- text: làm như tôi muốn đi chơi với nó thì phải đi "kèm", giống như ở nhà hàng muốn
+    uống bia phải kèm mồi vậy.
+  reading: ''
+  annot: làm như tôi muốn đi chơi với nó thì phải đi "kèm", giống như ở nhà hàng muốn
+    uống bia phải kèm mồi vậy.
+  translation_zh: 好像我想跟她出去玩就得「附带」着去似的，就像在饭馆喝啤酒必须配下酒菜一样。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 比较
+- 比喻
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

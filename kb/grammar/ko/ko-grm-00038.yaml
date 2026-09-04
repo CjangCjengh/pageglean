@@ -1,0 +1,39 @@
+id: ko-grm-00038
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: -답다：配得上……的样子
+structure: 名词 + 파생 접미사 '-답다'
+structure_pattern: N + -답다 (파생 접미사)
+explanation_zh: '''-답다''是接在名词后的派生后缀（접미사），构成形容词，表示『符合/配得上……的身份或样子』。片段中''아즐란다운 대사''即『符合阿兹兰身份的台词』，''딸다운
+  모습''即『像他家女儿该有的样子』。反义表达为''답지 않다/못하다''。'
+examples:
+- text: 아즐란다운 대사를 읊으며, 나는 마음속으로 환호성을 질렀다.
+  reading: ''
+  annot: 아즐란다운 대사를 읊으며, 나는 마음속으로 환호성을 질렀다.
+  translation_zh: 我一边念着符合阿兹兰身份的台词，一边在心中高声欢呼。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+- text: 명예를 중요시하는 아레이티아 가문의 딸다운 모습이었다.
+  reading: ''
+  annot: 명예를 중요시하는 아레이티아 가문의 딸다운 모습이었다.
+  translation_zh: 那模样真不愧是重视名誉的阿莱蒂西亚家的女儿。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 派生
+- 后缀
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

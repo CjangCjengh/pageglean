@@ -1,0 +1,38 @@
+id: ko-grm-00442
+language: ko
+type: grammar
+level: TOPIK2
+level_rank: 2
+title: 「-아/어도 되다」：许可与请求
+structure: 동사 어간 + 연결어미 '-아/어도' + 보조적 표현 '되다' (+ 종결어미 '-ㄹ까요')
+structure_pattern: V-아/어도 + 되다 (+ -ㄹ까요)
+explanation_zh: 「-아/어도 되다」表示许可，意为“可以……”“……也没关系”。与疑问形终结词尾'-ㄹ까요'（해요체）连用，构成礼貌地请求对方允许的表达，相当于“可以……吗”。片段中女仆用此结构委婉地向主人公一行确认情况。
+examples:
+- text: 실례지만, 그 볼일이라는 게 뭔지 여쭤 봐도 될까요?
+  reading: ''
+  annot: 실례지만, 그 볼일이라는 게 뭔지 여쭤 봐도 될까요?
+  translation_zh: 冒昧问一下，您说的“事情”是什么，可以请教一下吗？
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+- text: 죄송하지만, 저기 뻗어 있는 남자의 몸수색을 좀 해도 될까요?
+  reading: ''
+  annot: 죄송하지만, 저기 뻗어 있는 남자의 몸수색을 좀 해도 될까요?
+  translation_zh: 不好意思，可以对那边躺着的那个男人搜一下身吗？
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 许可
+- 敬语
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

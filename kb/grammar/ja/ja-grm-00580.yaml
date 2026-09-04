@@ -1,0 +1,31 @@
+id: ja-grm-00580
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 〜ことにする：决定……（自己的决定）
+structure: 用言终止形＋形式名词「こと」＋格助词「に」＋「する」
+structure_pattern: V(終止形) + こと(形式名詞) + に + する
+explanation_zh: 形式名词「こと」把前面的用言短语体言化，「ことにする」表示说话人自己做出的决定。与之相对的「ことになる」表示由他人或客观情况决定的结果。文中“気にしないことにした”即“决定不去在意”。
+examples:
+- text: もうぜんぜん意味わからんけど気にしないことにした。
+  reading: ''
+  annot: もうぜんぜん意味[いみ]わからんけど気[き]にしないことにした。
+  translation_zh: 虽然完全搞不懂是什么意思，但我决定不去在意了。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 意志决定
+- 形式名词
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

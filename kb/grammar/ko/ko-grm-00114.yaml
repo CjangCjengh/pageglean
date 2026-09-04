@@ -1,0 +1,39 @@
+id: ko-grm-00114
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: -(으)ㄹ 만하다：值得、有使用价值
+structure: 동사 어간 + 관형사형 전성어미(冠形形转成词尾) -(으)ㄹ + 보조 형용사(补助形容词) 만하다
+structure_pattern: V-(으)ㄹ 만하다
+explanation_zh: 冠形形转成词尾 -(으)ㄹ 后接补助形容词（보조 형용사）“만하다”，表示值得做某事或某物具有使用价值，相当于“值得……、……起来不错”。常用搭配“쓸
+  만하다”意为“能用、还不错”。也可作定语修饰名词，如“쓸 만한 거”（能用的东西）。
+examples:
+- text: 너도 쓸 만한 거 있나 찾아봐.
+  reading: ''
+  annot: 너도 쓸 만한 거 있나 찾아봐.
+  translation_zh: 你也找找看有没有能用的东西。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+- text: 호신용으로는 쓸 만할 것이다.
+  reading: ''
+  annot: 호신용으로는 쓸 만할 것이다.
+  translation_zh: 作为防身之用应该还算实用。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 补助形容词
+- 评价
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 4
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

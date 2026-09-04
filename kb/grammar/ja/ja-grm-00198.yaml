@@ -1,0 +1,32 @@
+id: ja-grm-00198
+language: ja
+type: grammar
+level: N3
+level_rank: 3
+title: 「〜させてもらう」：使役＋授受的叠加
+structure: 動詞未然形 + 使役助動詞「せる／させる」 + 授受動詞「もらう」
+structure_pattern: V-未然形 + せる + もらう
+explanation_zh: 学校文法中，使役助動詞「せる／させる」接動詞未然形，表示让对方做某事；其后再接授受动词「もらう」，表示“承蒙对方允许自己做～”。礼貌场合常说「〜させていただく」。文中「してもらえる」为其可能形，表示“能否被允许”。
+examples:
+- text: 誰であろうと、そう簡単に確認させてもらえるとは思えない。
+  reading: ''
+  annot: 誰[だれ]であろうと、そう簡単[かんたん]に確認[かくにん]させてもらえるとは思[おも]えない。
+  translation_zh: 无论谁去，我觉得都不会那么轻易被允许确认。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 使役
+- 授受
+- 敬語
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

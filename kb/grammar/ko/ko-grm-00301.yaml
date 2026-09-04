@@ -1,0 +1,31 @@
+id: ko-grm-00301
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: -뿐만 아니라：不仅……也……
+structure: 体言 + 뿐만 아니라（后句以도呼应）
+structure_pattern: N + 뿐만 아니라 … 도
+explanation_zh: 表示「不仅……而且……」，后句常以도、또한、까지呼应，补充更进一层的内容。书面语和口语中都很常用。原文用它说明克劳的身体同时具备再生能力与魔法抵抗力。
+examples:
+- text: 클라우의 몸에는 재생 능력뿐만 아니라 다양한 속성의 마법적 공격에 대비해 저항력도 갖춰져 있다.
+  reading: ''
+  annot: 클라우의 몸에는 재생 능력뿐만 아니라 다양한 속성의 마법적 공격에 대비해 저항력도 갖춰져 있다.
+  translation_zh: 克劳的身体不仅有再生能力，还具备应对各种属性魔法攻击的抵抗力。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 递进
+- 连接
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

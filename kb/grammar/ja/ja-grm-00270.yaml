@@ -1,0 +1,31 @@
+id: ja-grm-00270
+language: ja
+type: grammar
+level: N3
+level_rank: 3
+title: 〜てくださる：补助动词「くれる」的尊敬语（此处反讽）
+structure: 动词连用形＋接续助词「て」＋补助动词「くださる」（「くれる」的尊敬语）
+structure_pattern: V-連用形 + て + くださる
+explanation_zh: 「〜てくださる」是补助动词「〜てくれる」的尊敬语，本用于感谢对方好意为自己做事。此处却描述莉亚『干脆地拒绝』自己，属幽默反讽的敬语用法，制造反差喜感。轻小说常借敬语错位营造喜剧效果。
+examples:
+- text: きっぱりと断ってくださるリア（幼）。
+  reading: ''
+  annot: きっぱりと断[ことわ]ってくださるリア（幼[よう]）。
+  translation_zh: 干脆利落地拒绝了的莉亚（幼年形态）。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 敬语
+- 语气
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

@@ -1,0 +1,33 @@
+id: vi-grm-00339
+language: vi
+type: grammar
+level: L3
+level_rank: 3
+title: không phải … mà là …：不是……而是……
+structure: 否定判断 không phải + A，转折连词 mà + 判断词 là + B
+structure_pattern: không phải + A + mà là + B
+explanation_zh: 表对比性否定：“不是 A，而是 B”，其中 mà 是表转折对比的关联词。片段用此结构把“信”说成“毒蛇”，反差强烈，兼具语法与修辞教学价值。
+examples:
+- text: Nó làm như trong túi áo của nó không phải lá thư ấm áp của tôi mà là một con
+    rắn độc đang ngoe nguẩy vậy.
+  reading: ''
+  annot: Nó làm như trong túi áo của nó không phải lá thư ấm áp của tôi mà là một
+    con rắn độc đang ngoe nguẩy vậy.
+  translation_zh: 他那模样，就好像上衣口袋里的不是我那封暖融融的信，而是一条正在扭动的毒蛇似的。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 复句
+- 对比
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 7
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

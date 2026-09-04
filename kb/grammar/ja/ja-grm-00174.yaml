@@ -1,0 +1,31 @@
+id: ja-grm-00174
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 「〜といい」：建议对方……为好
+structure: 動詞終止形 ＋ と ＋ いい
+structure_pattern: V-終止形 + といい
+explanation_zh: 直译为“如果……就好了”，用于向对方提出建议，相当于“……比较好／不妨……”。文中与助詞「ば」表示的假定条件「あれば」呼应，构成“如果有困难就问”的建议句。比「〜たらどうですか」更直接随意，常用于平辈之间。
+examples:
+- text: 困った事があれば訊くといい。
+  reading: ''
+  annot: 困[こま]った事[こと]があれば訊[き]くといい。
+  translation_zh: 要是遇到困扰的事，尽管问就好。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 建议
+- 条件
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

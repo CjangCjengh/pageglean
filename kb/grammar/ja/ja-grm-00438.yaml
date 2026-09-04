@@ -1,0 +1,32 @@
+id: ja-grm-00438
+language: ja
+type: grammar
+level: N2
+level_rank: 4
+title: 动词辞书形＋ことなく：不……就……（书面否定）
+structure: V-辞书形 + ことなく
+structure_pattern: V-連体形 + 形式名詞「こと」+ 形容詞「ない」連用形「なく」
+explanation_zh: 形式名词「こと」把动词连体形名词化，「なく」是形容词「ない」的连用形，整体表示"不做前项就……"，相当于「〜ないで」。属书面色彩较浓的表达，多见于叙述文。例中描写"没听完后续的话就关上了房门"。
+examples:
+- text: 続きを聞くことなく、部屋の扉を閉めた
+  reading: ''
+  annot: 続[つづ]きを聞[き]くことなく、部屋[へや]の扉[とびら]を閉[し]めた
+  translation_zh: 没有听完接下来的话，我就关上了房门。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 形式名词
+- 书面语
+- 否定
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

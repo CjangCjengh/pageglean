@@ -1,0 +1,31 @@
+id: vi-grm-00115
+language: vi
+type: grammar
+level: L1
+level_rank: 1
+title: 「……rồi：完成与已然」
+structure: V + rồi
+structure_pattern: V + rồi; phó từ chỉ thể hoàn thành đặt sau động từ
+explanation_zh: rồi放在动词后，表示动作已经完成或情况已经出现，相当于汉语“了／已经”。口语中也常独立成句，表示事情已然如此。
+examples:
+- text: Tôi xem phim này rồi.
+  reading: ''
+  annot: Tôi xem phim này rồi.
+  translation_zh: 这部电影我已经看过了。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 体貌
+- phó từ
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

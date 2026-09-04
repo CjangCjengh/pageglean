@@ -1,0 +1,31 @@
+id: ja-grm-00266
+language: ja
+type: grammar
+level: N3
+level_rank: 3
+title: 〜わけにはいかない：于情理不能…
+structure: 動詞連体形＋形式名詞「わけ」＋助詞「に」＋係助詞「は」＋動詞「行く」未然形＋否定の助動詞「ない」
+structure_pattern: V-連体形 + 形式名詞「わけ」 + には + 行か + ない
+explanation_zh: 「わけにはいかない」表示碍于情理或形势而“不能…、无法…”，形式名词「わけ」表示道理、原委。字面义是“按那个道理走不通”，强调的不是能力问题而是心理或立场上的不可。片段中男主以此表达绝不能让莉亚被带走的决心。
+examples:
+- text: 絶対にイスカに攫わせるわけにはいかない。
+  reading: ''
+  annot: 絶対[ぜったい]にイスカに攫[さら]わせるわけにはいかない。
+  translation_zh: 绝对不能让伊丝卡把她带走。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 形式名詞
+- 語気
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

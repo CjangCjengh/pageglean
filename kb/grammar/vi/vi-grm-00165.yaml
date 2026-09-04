@@ -1,0 +1,39 @@
+id: vi-grm-00165
+language: vi
+type: grammar
+level: L2
+level_rank: 2
+title: V + giùm：为别人做某事（帮忙体）
+structure: V + giùm（+ cho）
+structure_pattern: V + giùm (+ cho)
+explanation_zh: giùm 置于动词之后，表示替某人、帮某人做某事，相当于「帮/代……做」，是南部口语常用形式（与 giúp 同源）。可与句末 cho
+  呼应构成「V + giùm + cho」，使请求语气更委婉。
+examples:
+- text: Việt An đưa tập tôi chép bài giùm cho!
+  reading: ''
+  annot: Việt An đưa tập tôi chép bài giùm cho!
+  translation_zh: 越安把本子给我，我帮你抄课文吧！
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+- text: Nếu có, nó sẽ nghiên cứu giùm tôi nụ cười mím chi của Việt An vừa rồi
+  reading: ''
+  annot: Nếu có, nó sẽ nghiên cứu giùm tôi nụ cười mím chi của Việt An vừa rồi
+  translation_zh: 如果他在，他会帮我研究一下越安刚才那抿嘴一笑
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 语态
+- 虚词
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 4
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

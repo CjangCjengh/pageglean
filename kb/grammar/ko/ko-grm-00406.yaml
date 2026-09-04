@@ -1,0 +1,32 @@
+id: ko-grm-00406
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: 「-(으)ㄴ 채(로)」：保持原状
+structure: 动词词干 + -(으)ㄴ 채(로)
+structure_pattern: 용언 어간 + 관형사형 전성어미 -(으)ㄴ + 의존명사 '채'(+ 조사 로)
+explanation_zh: 表示在前一状态原样保持的情况下进行后一动作，相当于汉语“保持着……的状态”“……着”。学校语法中“채”为依存名词，受冠形词形转换词尾
+  -(으)ㄴ 修饰。后接“로”可表示带着该状态行动。
+examples:
+- text: 검 끝은 내리지 않은 채 경계 태세를 유지하고 있었으나
+  reading: ''
+  annot: 검 끝은 내리지 않은 채 경계 태세를 유지하고 있었으나
+  translation_zh: 剑尖没有放下，保持着警戒姿态
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 体貌
+- 接续
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 0
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

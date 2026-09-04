@@ -1,0 +1,32 @@
+id: vi-grm-00105
+language: vi
+type: grammar
+level: L3
+level_rank: 3
+title: mà 条件句：「要是……的话」
+structure: 主语 + mà + 动词（条件分句），结果分句
+structure_pattern: S + mà + V … (thì) …
+explanation_zh: mà 插在主语与动词之间，标记假设性条件分句，相当于「要是……的话」，结果分句的 thì 常常省略，口语色彩浓。后句的「动词 + không
+  nổi」表示「做不动、撑不住」，是否定式可能补语。
+examples:
+- text: Tao mà ăn không no, tao chơi đi trốn đi tìm không nổi đâu!
+  reading: ''
+  annot: Tao mà ăn không no, tao chơi đi trốn đi tìm không nổi đâu!
+  translation_zh: 我要是吃不饱，可就玩不动捉迷藏啦！
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 条件
+- 口语
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

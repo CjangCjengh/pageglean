@@ -1,0 +1,38 @@
+id: ja-grm-00392
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 「〜んだ（のだ）」：解释说明与强调语气
+structure: 终止形 ＋ 準体助词「の」＋ 断定助动词「だ」（口语作「んだ」）
+structure_pattern: 終止形 + んだ（のだ）
+explanation_zh: “准体助词の＋断定助动词だ”构成「のだ」，口语中说成「んだ」，用于解释原委、说明情况或加强语气（口语属性）。文中「わかんないんだよなぁ」是解释说明的口吻，「なにしやがったんだ」则加强质问语气。常与终助词「よ」「なぁ」等连用。
+examples:
+- text: 残念ながら昨日のことはわかんないんだよなぁー。
+  reading: ''
+  annot: 残念[ざんねん]ながら昨日[きのう]のことはわかんないんだよなぁー。
+  translation_zh: 可惜啊，昨天的事我是真的一点都不记得了啊——
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+- text: なにしやがったんだ昨日の俺!!
+  reading: ''
+  annot: なにしやがったんだ昨日[きのう]の俺[おれ]!!
+  translation_zh: 昨天的我到底干了些什么啊!!
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 语气
+- 口语
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 4
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

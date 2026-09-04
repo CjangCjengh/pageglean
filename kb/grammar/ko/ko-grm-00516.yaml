@@ -1,0 +1,38 @@
+id: ko-grm-00516
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: 连接词尾 -며：两个动作同时进行
+structure: 用言词干 + 大等连接词尾 -며
+structure_pattern: 용언 어간 + -며
+explanation_zh: -며 是学校语法中的大等连接词尾，连接两个分句，表示两个动作或状态同时进行，相当于“一边……一边……”。它是 -면서 更简练、偏书面的形式，常见于小说叙述。
+examples:
+- text: 팔락, 페이지를 넘기며 키이리가 말했다.
+  reading: ''
+  annot: 팔락, 페이지를 넘기며 키이리가 말했다.
+  translation_zh: “哗啦”一声，基里一边翻着书页，一边说道。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+- text: 브룬이 몸을 이리저리 꼬며 말했다.
+  reading: ''
+  annot: 브룬이 몸을 이리저리 꼬며 말했다.
+  translation_zh: 布伦一边扭来扭去，一边说道。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 连接词尾
+- 同时动作
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 4
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

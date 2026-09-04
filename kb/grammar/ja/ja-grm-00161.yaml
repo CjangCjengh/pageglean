@@ -1,0 +1,31 @@
+id: ja-grm-00161
+language: ja
+type: grammar
+level: N3
+level_rank: 3
+title: 「〜というより／〜寄り」：与其说……不如说……
+structure: 体言＋というより＋体言；体言＋接尾辞「寄り」
+structure_pattern: N + というより + N / N+寄り
+explanation_zh: 「というより」用于修正说法，意为“与其说是……不如说是……”。片段还用了接尾辞「〜寄り」（接体言后表示“偏向……一方”），「魔王寄り」即“偏向魔王一侧”。两者叠加，调侃主角的手段“与其说是勇者，不如说更像魔王”。
+examples:
+- text: そのやり口、勇者というより魔王寄りだと思うが？
+  reading: ''
+  annot: そのやり口[くち]、勇者[ゆうしゃ]というより魔王[まおう]寄[よ]りだと思[おも]うが？
+  translation_zh: 你那手段，与其说是勇者，不如说更像魔王吧？
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 比较
+- 接尾辞
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

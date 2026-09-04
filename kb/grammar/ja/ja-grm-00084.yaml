@@ -1,0 +1,39 @@
+id: ja-grm-00084
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 「〜んだ」：解释与不服语气（「のだ」的口语）
+structure: 用言連体形／体言＋形式名詞「の」（口语「ん」）＋助動詞「だ」
+structure_pattern: V終止形/体言 + のだ（んだ）
+explanation_zh: 形式名詞「の」（口语里音变为「ん」）加断定助動詞「だ」，表示解释说明、强调某种情况的语气。句末再接续助词「が」构成「んだが」，语气中带着委婉的不满与留有余地。轻小说会话中高频出现，口语属性强。
+examples:
+- text: この家、実質的に俺の一人暮らしなんだが？
+  reading: ''
+  annot: この家[いえ]、実質的[じっしつてき]に俺[おれ]の一人暮[ひとりぐ]らしなんだが？
+  translation_zh: 这个家实际上是我一个人住的，（这样没问题吗）？
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+- text: 少し前から知り合いの手伝いをしてんだわ
+  reading: ''
+  annot: 少[すこ]し前[まえ]から知[し]り合[あ]いの手伝[てつだ]いをしてんだわ
+  translation_zh: （是这样啊，）我从之前开始就在帮一个熟人的忙呢。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 语气
+- 口语
+- 形式名词
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

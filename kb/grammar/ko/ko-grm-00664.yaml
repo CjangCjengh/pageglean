@@ -1,0 +1,40 @@
+id: ko-grm-00664
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: -(으)ㄴ/는 듯 / -는 것처럼：仿佛……似的
+structure: 관형사형 전성어미 ‘-(으)ㄴ/는’ + 의존명사 ‘듯’; 또는 의존명사 ‘것’ + 조사 ‘처럼’
+structure_pattern: V/A-(으)ㄴ/는 듯(이) ; V/A-(으)ㄴ/는 것처럼
+explanation_zh: ‘듯’是依存名词，接在冠形词尾‘-(으)ㄴ/는’后表示推测或比喻，意为“仿佛……似的、像是要……”；‘것＋调查처럼’与之同义，常与副词‘마치’呼应。片段中“깨달은
+  듯”描写加罗恍然领悟的样子，“진짜 키이리가 말하는 것처럼 들려서”把声音比作真正的基里在说话。名词则用‘인 듯/처럼’。
+examples:
+- text: 그러더니 이내 무언가를 깨달은 듯, 나를 향하여 검을 겨누고 섰다.
+  reading: ''
+  annot: 그러더니 이내 무언가를 깨달은 듯, 나를 향하여 검을 겨누고 섰다.
+  translation_zh: 随后他像是忽然领悟了什么，举起剑对准了我站在那里。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+- text: 마치 진짜 키이리가 말하는 것처럼 들려서.
+  reading: ''
+  annot: 마치 진짜 키이리가 말하는 것처럼 들려서.
+  translation_zh: 因为听起来就像是真正的基里在说话。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 比喻
+- 推测
+- 依存名词
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 5
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

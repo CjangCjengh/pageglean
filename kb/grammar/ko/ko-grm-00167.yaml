@@ -1,0 +1,40 @@
+id: ko-grm-00167
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: -(으)ㄴ 모양이다：看来、似乎（有根据的推测）
+structure: 动词冠形词尾 -(으)ㄴ + 依存名词 '모양' + 叙述格助词 '이다'
+structure_pattern: V-(으)ㄴ 모양이다
+explanation_zh: '''모양'' 是表示样子、状态的依存名词，与冠形词尾结合表示依据眼前迹象作出的推测，相当于"看来……／似乎……"。本片段两次出现（누운
+  모양이었다 / 곯아떨어진 모양이다），均用于叙述者根据声音推断对方状态。'
+examples:
+- text: 아래쪽에서 부스럭거리는 소리가 들렸다. 카이트도 침대에 누운 모양이었다.
+  reading: ''
+  annot: 아래쪽에서 부스럭거리는 소리가 들렸다. 카이트도 침대에 누운 모양이었다.
+  translation_zh: 下面传来了窸窸窣窣的声音，看来凯特也躺到床上了。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+- text: 잠시 후, 침대 아래에서 코고는 소리가 들리기 시작했다. 금방 곯아떨어진 모양이다.
+  reading: ''
+  annot: 잠시 후, 침대 아래에서 코고는 소리가 들리기 시작했다. 금방 곯아떨어진 모양이다.
+  translation_zh: 过了一会儿，床下传来了打呼噜的声音，看来是很快就睡着了。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 语气
+- 推测
+- 依存名词
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

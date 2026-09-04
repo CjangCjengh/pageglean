@@ -1,0 +1,39 @@
+id: ja-grm-00342
+language: ja
+type: grammar
+level: N3
+level_rank: 3
+title: 〜くせに：明明……却……（责备）
+structure: 动词连体形 + 接续助词「くせに」（名词 + の + くせに）
+structure_pattern: 連体形 + くせに
+explanation_zh: 接续助词「くせに」与「のに」意思相近，但带有强烈的责备、轻蔑语气，多用于对晚辈或平辈。动词直接以连体形接续。原文「してたくせに」是「していたくせに」的口语缩略（ている→てる），是妹妹指责哥哥时的台词。
+examples:
+- text: とぼけないでほしいのです。昨日あれだけ大騒ぎしてたくせに
+  reading: ''
+  annot: とぼけないでほしいのです。昨日[きのう]あれだけ大騒[おおさわ]ぎしてたくせに
+  translation_zh: 请不要装傻。明明昨天闹得那么厉害。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+- text: おまえやってねーくせに。
+  reading: ''
+  annot: おまえやってねーくせに。
+  translation_zh: 你自己明明根本没拼过好吧。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 接续
+- 语气
+- 口语
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

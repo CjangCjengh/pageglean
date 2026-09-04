@@ -1,0 +1,32 @@
+id: vi-grm-00181
+language: vi
+type: grammar
+level: L2
+level_rank: 2
+title: Có phải…(không)?：是不是…？
+structure: Có phải + 小句/名词短语 + (không)?
+structure_pattern: Có phải + X + (không)?
+explanation_zh: 「Có phải…(không)」是越南语常见的求证疑问句式，相当于汉语「是不是…？」。口语中可省略句末的 không，变成自问或反问。本句用「Có
+  phải vì…」追问原因。
+examples:
+- text: Thế là lần đầu tiên trong đời tôi lãnh zero. Có phải vì Việt An?
+  reading: ''
+  annot: Thế là lần đầu tiên trong đời tôi lãnh zero. Có phải vì Việt An?
+  translation_zh: 就这样，我生平第一次得了零分。是不是因为 Việt An 呢？
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 疑问
+- 语气
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

@@ -1,0 +1,38 @@
+id: vi-grm-00351
+language: vi
+type: grammar
+level: L1
+level_rank: 1
+title: từ… đến…：从…到…
+structure: từ + X + đến + Y
+structure_pattern: từ + X + đến + Y
+explanation_zh: từ… đến… 表示时间或空间的起点与终点，相当于汉语「从……到……」。既可作状语（从早到现在），也可作补语修饰动词（从头到脚地打量）。
+examples:
+- text: Từ sáng đến giờ mày đi đâu?
+  reading: ''
+  annot: Từ sáng đến giờ mày đi đâu?
+  translation_zh: 从早上到现在你跑哪儿去了？
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+- text: Vừa nói nó vừa đảo mắt nhìn tôi từ đầu đến chân
+  reading: ''
+  annot: Vừa nói nó vừa đảo mắt nhìn tôi từ đầu đến chân
+  translation_zh: 他一边说一边从头到脚地打量我。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 介词
+- 时间/空间
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

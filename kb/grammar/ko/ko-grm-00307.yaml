@@ -1,0 +1,38 @@
+id: ko-grm-00307
+language: ko
+type: grammar
+level: TOPIK5
+level_rank: 5
+title: -(으)ㄴ 채：状态的保持
+structure: 动词冠形形 -(으)ㄴ + 依存名词 채(로)
+structure_pattern: V-(으)ㄴ + 채(로)
+explanation_zh: 依存名词채接动词冠形形后，表示前一动作所形成的状态原封不动地保持下去，相当于汉语的“……着”“保持着……的状态”。句中‘끌어안은 채’即“保持着抱住尸体的状态”。多用于书面叙述。
+examples:
+- text: 세레나데는 카이트의 시체를 끌어안은 채 폐인이 되어 있었다.
+  reading: ''
+  annot: 세레나데는 카이트의 시체를 끌어안은 채 폐인이 되어 있었다.
+  translation_zh: 塞蕾娜德紧紧抱着凯特的尸体，整个人已形同废人。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+- text: 등받이에 턱을 받친 채 우리의 이야기를 듣고만 있던 키이리가 드디어 대화에 참여했다.
+  reading: ''
+  annot: 등받이에 턱을 받친 채 우리의 이야기를 듣고만 있던 키이리가 드디어 대화에 참여했다.
+  translation_zh: 一直把下巴搁在椅背上听我们说话的基里，终于加入了对话。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 状态持续
+- 依存名词
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

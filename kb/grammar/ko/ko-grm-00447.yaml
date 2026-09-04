@@ -1,0 +1,32 @@
+id: ko-grm-00447
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: 「-ㄹ 수밖에 없다：只能……、别无他法」
+structure: 동사 + 관형사형 어미 -ㄹ + 의존명사 '수' + 조사 밖에 + 없다
+structure_pattern: V-ㄹ 수 밖에 없다
+explanation_zh: 依存名词수表示"可能性、办法"，助词밖에表限定，与否定形式搭配表示"除此之外别无选择，只能……"。与-아/어야 하다相比，更强调无可奈何、没有余地的语气。片段中主人公用它哀叹自己无法逃脱的命运。
+examples:
+- text: 아무리 발버둥 쳐도 소아성애자가 될 수밖에 없는 운명, 그런 거?!
+  reading: ''
+  annot: 아무리 발버둥 쳐도 소아성애자가 될 수밖에 없는 운명, 그런 거?!
+  translation_zh: 无论怎么挣扎都只能沦为恋童癖的命运，难道就是这种东西吗？！
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 依存名词
+- 情态
+- 不得已
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

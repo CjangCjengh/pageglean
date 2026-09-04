@@ -1,0 +1,38 @@
+id: th-grm-00006
+language: th
+type: grammar
+level: L3
+level_rank: 3
+title: 动词 + ขึ้น/ลง + มา/ไป：趋向补语
+structure: กริยาหลัก + ขึ้น/ลง/เข้า/ออก + มา/ไป (คำช่วยกริยาบอกทิศทาง)
+structure_pattern: V + (ขึ้น|ลง|ออก|เข้า) + (มา|ไป)
+explanation_zh: 泰语在主要动词后加趋向动词作补语：ขึ้น/ลง表示向上、向下的方向，มา/ไป表示朝向或远离说话者。如“ขึ้นมา”＝“向上＋朝说话者”，“ลงไป”＝“向下＋远离说话者”。片段中“ยกขึ้นมา”“ใส่ลงไป”“อุ้มขึ้นมา”等反复出现，是该结构的密集用例。
+examples:
+- text: ใส่​ลง​ไป​ใน​ตะกร้า​ไม้​หวาย​ของ​เธอ
+  reading: ''
+  annot: ใส่​ลง​ไป​ใน​ตะกร้า​ไม้​หวาย​ของ​เธอ
+  translation_zh: 放进她的藤条衣篮里。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+- text: อุ้ม​ตะกร้า​หวาย​ขึ้น​มา​ถือ​ไว้​ด้วย​สอง​มือ
+  reading: ''
+  annot: อุ้ม​ตะกร้า​หวาย​ขึ้น​มา​ถือ​ไว้​ด้วย​สอง​มือ
+  translation_zh: 把藤篮抱起来，用两只手拿着。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 趋向补语
+- 连动式
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 6
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

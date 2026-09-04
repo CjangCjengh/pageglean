@@ -1,0 +1,39 @@
+id: ko-grm-00278
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: -(으)ㄹ 뿐이다：仅仅、只是
+structure: 用言词干 + -(으)ㄹ 뿐이다
+structure_pattern: 용언 어간 + 관형사형 전성어미 -(으)ㄹ + 의존명사 '뿐' + 서술격 조사 '이다'
+explanation_zh: 依存名词 뿐 表示限定，-(으)ㄹ 뿐이다 意为“只是……而已”，带有把事情往小里说、轻描淡写的语气。体言后可直接接 뿐이다。片段用“응시하고
+  있을 뿐이었다”“예측한 것뿐이었다”刻画人物的冷静与克制。
+examples:
+- text: 적당한 거리를 유지한 채 클라우를 응시하고 있을 뿐이었다.
+  reading: ''
+  annot: 적당한 거리를 유지한 채 클라우를 응시하고 있을 뿐이었다.
+  translation_zh: （她）只是保持着适当的距离，凝视着克劳而已。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+- text: 클라우의 시선, 그리고 뚜렷한 살기의 기척을 감지하여 사전에 공격을 예측한 것뿐이었다.
+  reading: ''
+  annot: 클라우의 시선, 그리고 뚜렷한 살기의 기척을 감지하여 사전에 공격을 예측한 것뿐이었다.
+  translation_zh: 不过是察觉到了克劳的视线与明显的杀气，从而事先预判了攻击罢了。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 限定
+- 依存名词
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

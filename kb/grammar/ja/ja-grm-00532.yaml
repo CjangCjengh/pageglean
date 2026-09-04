@@ -1,0 +1,38 @@
+id: ja-grm-00532
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 「〜ば」：仮定形表示条件
+structure: 用言・助動詞仮定形 + 接続助詞「ば」
+structure_pattern: V・A-仮定形 + ば
+explanation_zh: 「ば」接用言与助动词的仮定形，表示假定条件或恒常条件。片段中母亲连用两个「子がいれば」句，回忆光生前一贯的温柔举动，近于“只要……就……”。注意表示特定一次性事件时，后项一般不接意志、命令表达。
+examples:
+- text: 泣いている子がいれば一緒に泣いてあげて。
+  reading: ''
+  annot: 泣[な]いている子[こ]がいれば一緒[いっしょ]に泣[な]いてあげて。
+  translation_zh: 有哭泣的孩子，她就陪着一起哭。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+- text: 自分より弱い子がいれば守ってあげて。
+  reading: ''
+  annot: 自分[じぶん]より弱[よわ]い子[こ]がいれば守[まも]ってあげて。
+  translation_zh: 有比自己弱小的孩子，她就上前守护。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 仮定形
+- 接续
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

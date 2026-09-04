@@ -1,0 +1,31 @@
+id: ja-grm-00257
+language: ja
+type: grammar
+level: N3
+level_rank: 3
+title: 〜程：……到某种程度
+structure: 连体修饰句＋程（の／に）
+structure_pattern: 句（連体形） + 程（の/に）
+explanation_zh: 「程」表示程度，相当于「……到那种地步」，以「程の＋名词」形式作连体修饰，或以「程に」作状语。轻小说常用它进行夸张描写。汉字「程」与平假名「ほど」两种写法在文中并存。
+examples:
+- text: 『ピキッ』という音が聞こえた気がするほど、瞬時に硬直する俺と紅音。
+  reading: ''
+  annot: 『ピキッ』という音[おと]が聞[き]こえた気[き]がするほど、瞬時[しゅんじ]に硬直[こうちょく]する俺[おれ]と紅音[あかね]。
+  translation_zh: 我和红音瞬间僵住，僵硬得仿佛能听见「咔」的一声。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 程度
+- 接续
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

@@ -1,0 +1,31 @@
+id: ko-grm-00600
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: -ㄹ 리가 없다：按常理绝不可能（反问强调）
+structure: 용언 어간 + 관형사형 어미 '-(으)ㄹ' + 의존명사 '리' + 주격 조사 '가'
+structure_pattern: V/A- + -(으)ㄹ + 리 + 가
+explanation_zh: 用依存名词'리'（道理、可能性）加主格助词'가'，表示按常理推断绝不可能，强烈否定某种情况。'리가 있겠냐'为反问形式，意即'怎么可能……'。
+examples:
+- text: 내가 위험해질 리가 있겠냐.
+  reading: ''
+  annot: 내가 위험해질 리가 있겠냐.
+  translation_zh: 我怎么可能会有危险呢。（= 我不可能有危险。）
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 추측·반어
+- 의존명사
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

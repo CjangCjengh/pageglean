@@ -1,0 +1,31 @@
+id: vi-grm-00006
+language: vi
+type: grammar
+level: L2
+level_rank: 2
+title: cứ：持续、只顾地做某事
+structure: cứ + 动词（表示不顾外界情况、持续不断地做）
+structure_pattern: cứ + V (phó từ chỉ sự tiếp diễn liên tục)
+explanation_zh: cứ 是副词，表示动作不顾外界情况、持续不断地进行，含“一直”“只顾”之意。文中写小女孩没察觉有人靠近，仍埋头挖沙堆沙。
+examples:
+- text: nó vẫn không hay biết, cứ lui cui đào đào đắp đắp
+  reading: ''
+  annot: nó vẫn không hay biết, cứ lui cui đào đào đắp đắp
+  translation_zh: 她仍然毫无察觉，只顾埋头又挖又堆
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 体貌
+- 副词
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 0
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

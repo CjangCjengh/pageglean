@@ -1,0 +1,31 @@
+id: ja-grm-00543
+language: ja
+type: grammar
+level: N2
+level_rank: 4
+title: 〜つつある：正在逐渐……
+structure: 動詞連用形 ＋ 接続助詞「つつ」 ＋ 補助動詞「ある」
+structure_pattern: V-連用形 + つつある
+explanation_zh: 接动词连用形，表示事态正在缓慢、持续地发生变化，是「〜ている」的书面语说法，语感更文雅客观。片段里指通过日记逐渐掌握风城的行动规律。注意「つつある」只表示渐变过程，不表示两个动作同时进行。
+examples:
+- text: この日記のおかげで風城の行動パターンがつかめつつある
+  reading: ''
+  annot: この日記[にっき]のおかげで風城[かぜしろ]の行動[こうどう]パターンがつかめつつある
+  translation_zh: 多亏了这本日记，我渐渐掌握了风城的行动规律。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- アスペクト
+- 书面语
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

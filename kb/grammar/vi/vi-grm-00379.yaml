@@ -1,0 +1,33 @@
+id: vi-grm-00379
+language: vi
+type: grammar
+level: L2
+level_rank: 2
+title: 「đang…thì…」：正在……，忽然……
+structure: 持续体副词 đang + 谓语（动词短语）+ thì + 分句
+structure_pattern: phó từ thể tiếp diễn 'đang' + vị ngữ (cụm động từ) + quan hệ từ
+  'thì' + mệnh đề
+explanation_zh: 「đang」为持续体副词，表示动作正在进行，充当叙述背景；「thì」引出突然发生的新事件，相当于汉语「正在……，忽然……」。整体构成表时间关系的偏正复句（câu
+  ghép chính phụ）。
+examples:
+- text: tôi đang ngồi đọc sách thì nghe có tiếng gõ cửa
+  reading: ''
+  annot: tôi đang ngồi đọc sách thì nghe có tiếng gõ cửa
+  translation_zh: 我正坐着看书，忽然听见有人敲门。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 体貌
+- 复句
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

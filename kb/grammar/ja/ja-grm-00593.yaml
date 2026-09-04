@@ -1,0 +1,38 @@
+id: ja-grm-00593
+language: ja
+type: grammar
+level: N3
+level_rank: 3
+title: 「たとえ〜ても：即使……也……」
+structure: たとえ（どんなに） ＋ … ＋ 接続助詞「ても」
+structure_pattern: たとえ + … + ても
+explanation_zh: 接续助词「ても」表示让步，意为“即使……也……”，常与副词「たとえ」「どんなに」呼应，加强假设让步语气。文中“たとえどんなに信じられない言葉が書いてあっても”即“无论写着多么难以置信的话”。
+examples:
+- text: たとえどんなに信じられない言葉が書いてあっても、冷静さを失うなよ
+  reading: ''
+  annot: たとえどんなに信[しん]じられない言葉[ことば]が書[か]いてあっても、冷静[れいせい]さを失[うしな]うなよ
+  translation_zh: 即使上面写着多么令人难以置信的话，你也千万别失去冷静啊。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+- text: 絶対に何を聞いても落ち着いていられるな？
+  reading: ''
+  annot: 絶対[ぜったい]に何[なに]を聞[き]いても落[お]ち着[つ]いていられるな？
+  translation_zh: 无论听到什么，你都能保持镇定吧？
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 接续
+- 让步
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''

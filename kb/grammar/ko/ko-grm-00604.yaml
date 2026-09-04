@@ -1,0 +1,39 @@
+id: ko-grm-00604
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: 「-잖다：提醒显而易见的事实」
+structure: -지 않다（补助性连接词尾 -지 + 补助用言 않다）的口语缩约终结形 -잖다
+structure_pattern: V/A-잖다 (= -지 않다)
+explanation_zh: -지 않다 的口语缩约形，用于指出对方已知或显而易见的事实，带有“你也该知道吧、不是吗”的语气，对话中高频出现。相当于中文“不是……嘛”。
+examples:
+- text: 이 도시에 뭔가 있긴 있다는 거잖아.
+  reading: ''
+  annot: 이 도시에 뭔가 있긴 있다는 거잖아.
+  translation_zh: 这不就是说这座城市里确实有什么东西嘛。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+- text: 악마가 있다는 거잖아, 여기에!
+  reading: ''
+  annot: 악마가 있다는 거잖아, 여기에!
+  translation_zh: 这就是说这里有恶魔啊！
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 终结词尾
+- 语气
+- 口语
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 4
+  extracted_by: claude-code
+  extracted_at: '2026-09-04'
+status: draft
+review_note: ''
