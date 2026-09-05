@@ -16,6 +16,13 @@ examples:
   source_book: book-vi-003
   source_chapter: null
   pointer: null
+- text: Việt An của mày thì phải trả lại cho... tao!
+  reading: ''
+  annot: Việt An của mày thì phải trả lại cho... tao!
+  translation_zh: 属于你的越安嘛，就得还给……我！
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
 related:
   cross_lang: []
   same_lang: []

@@ -1,0 +1,32 @@
+id: ja-grm-00658
+language: ja
+type: grammar
+level: N3
+level_rank: 3
+title: 〜させてほしい：请让我……（使役＋愿望）
+structure: 動詞未然形＋使役の助動詞「せる／させる」連用形＋接続助詞「て」＋形容詞「ほしい」
+structure_pattern: V-未然形 + 使役助動詞（せる/させる）連用形 + て + ほしい
+explanation_zh: 使役助动词「せる／させる」的连用形＋て，再接形容词「ほしい」，表示说话人希望对方允许自己做某事，意为“请让我……”。较「〜たい」更礼貌，是口语中向他人提出请求的常见表达。
+examples:
+- text: 体調悪いから、今日は休ませてほしい、って
+  reading: ''
+  annot: 体調[たいちょう]悪[わる]いから、今日[きょう]は休[やす]ませてほしい、って
+  translation_zh: （说是）身体不舒服，今天想请个假休息。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 使役
+- 请求
+- 活用
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

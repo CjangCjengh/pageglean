@@ -1,0 +1,30 @@
+id: ko-grm-00729
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: -(으)ㄹ 정도이다：达到……的地步
+structure: 动词/形容词词干 + -(으)ㄹ 정도이다
+structure_pattern: V/A-어간 + -(으)ㄹ 정도이다
+explanation_zh: 表示达到某种程度或地步，相当于"到了……的地步"。文中用来强调西装紧绷的程度。
+examples:
+- text: 꽉 조여진 정장 재킷이 답답해 보일 정도였다.
+  reading: ''
+  annot: 꽉 조여진 정장 재킷이 답답해 보일 정도였다.
+  translation_zh: 甚至到了紧绷的西装外套看起来让人觉得发闷的地步。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 程度
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

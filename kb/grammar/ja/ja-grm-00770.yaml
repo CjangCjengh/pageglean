@@ -1,0 +1,31 @@
+id: ja-grm-00770
+language: ja
+type: grammar
+level: N2
+level_rank: 4
+title: 〜めく：带有……气息
+structure: 体言 + 接尾動詞「めく」（五段活用，連体形めいた）
+structure_pattern: N + めく
+explanation_zh: 接尾动词「〜めく」接在名词后，表示“带有……的样子/气息”，多用于文学性描写。活用按五段，连体形「めいた」修饰名词。本片段「謎めいた答え」即“谜一般的回答”。
+examples:
+- text: 謎めいた答えにうつむき、眉をひそめたその時だ。
+  reading: ''
+  annot: 謎[なぞ]めいた答[こた]えにうつむき、眉[まゆ]をひそめたその時[とき]だ。
+  translation_zh: 听到那谜一般的回答，我低下头皱起眉头，就在那时——
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 书面语
+- 接续
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

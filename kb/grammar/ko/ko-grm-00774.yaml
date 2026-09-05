@@ -1,0 +1,32 @@
+id: ko-grm-00774
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: 「-아/어 버리다：彻底完成（보조용언）」
+structure: 동사 어간 + '-아/어' + 보조용언 '버리다' + 선어말어미 '-겠-' + 종결어미 '-어'
+structure_pattern: V + -아/어 버리다 + -겠-
+explanation_zh: 버리다 作보조용언，表示动作被彻底做完，常含如释重负或遗憾的语气。此处再叠加表意志的先末词尾 -겠-，强烈宣示说话者的决心。对应中文的“干脆……掉／完”。
+examples:
+- text: 반드시 불태워 버리겠어.
+  reading: ''
+  annot: 반드시 불태워 버리겠어.
+  translation_zh: 我一定要把它烧掉。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 보조용언
+- 완결
+- 의지
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

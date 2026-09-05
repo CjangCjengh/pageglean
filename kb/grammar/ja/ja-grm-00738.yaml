@@ -1,0 +1,38 @@
+id: ja-grm-00738
+language: ja
+type: grammar
+level: N3
+level_rank: 3
+title: 〜べき：理当如此（助動詞べし）
+structure: 動詞終止形 ＋ 助動詞「べし」の連体形「べき」（＋だ）
+structure_pattern: V(終止形) + べき
+explanation_zh: 文语助动词「べし」的连体形「べき」表示道理上应当如此，接动词终止形（サ変用「すべき」）。本段「〜べきですよね」征求对方认同，「〜べきだった」表示对过去未做之事的后悔。
+examples:
+- text: ここはひと肌脱ぐべきですよね？
+  reading: ''
+  annot: ここはひと肌[はだ]脱[ぬ]ぐべきですよね？
+  translation_zh: 这种时候就该助他一臂之力，对吧？
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+- text: それくらい察してやるべきだったのかね
+  reading: ''
+  annot: それくらい察[さっ]してやるべきだったのかね
+  translation_zh: 那种程度的心思，我本该察觉到的吧。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 助動詞
+- 语气
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

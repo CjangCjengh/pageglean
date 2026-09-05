@@ -1,0 +1,39 @@
+id: ja-grm-00627
+language: ja
+type: grammar
+level: N3
+level_rank: 3
+title: 「〜なくもない」：双重否定的委婉让步
+structure: 動詞未然形＋否定助動詞「ない」的連用形「なく」＋もない
+structure_pattern: V-未然形 + なくもない
+explanation_zh: 在否定助動詞「ない」（形容词型活用）的連用形「なく」后接「もない」，构成双重否定，表示“也不是不～”的部分让步，如「わからなくもない」＝也不是不理解。语气委婉、留有余地，是口语中常用的缓冲表达。
+examples:
+- text: ま、気持ちはわからなくもないが、そう投げやりになるな。
+  reading: ''
+  annot: ま、気持[きも]ちはわからなくもないが、そう投[な]げやりになるな。
+  translation_zh: 嘛，你的心情我也不是不理解，但别这么自暴自弃。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+- text: 正直、『使い方に気をつけるだけでいいんじゃね？』とか思わなくもない。
+  reading: ''
+  annot: 正直[しょうじき]、『使[つか]い方[かた]に気[き]をつけるだけでいいんじゃね？』とか思[おも]わなくもない。
+  translation_zh: 老实说，我也不是没有「只要小心使用不就行了吗」这样的想法。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 语气
+- 口语
+- 双重否定
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

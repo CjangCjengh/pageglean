@@ -1,0 +1,31 @@
+id: ja-grm-00730
+language: ja
+type: grammar
+level: N3
+level_rank: 3
+title: 〜じゃん（か）：指出事实、寻求认同（口语终助词）
+structure: 用言終止形＋じゃん（か）
+structure_pattern: V/形容詞-終止形 + じゃん（か）
+explanation_zh: 口语终助词「じゃん（か）」是「じゃないか」的缩略，以轻松的语气指出事实、寻求认同或轻度吐槽。「かわいいとこもあるじゃんか」即“不是也有可爱的一面嘛”。属关东系随意说法，轻小说对话中高频出现。
+examples:
+- text: かわいいとこもあるじゃんか
+  reading: ''
+  annot: かわいいとこもあるじゃんか
+  translation_zh: 她也有可爱的一面嘛。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 口语
+- 句末
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

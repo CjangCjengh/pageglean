@@ -1,0 +1,38 @@
+id: ja-grm-00729
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 〜し：并列列举理由
+structure: 用言終止形＋し（名詞・な形容詞＋だし）
+structure_pattern: V/イ形容詞-終止形 + し；N/ナ形容詞 + だし
+explanation_zh: 接续助词「し」接用言终止形，并列列举多个理由或事项，暗示“不止这些”，常带辩解、抱怨语气。女主角用「好きとかじゃないし」边否认边找借口，妹妹连用三个「し」控诉接连不断的倒霉事，是轻小说口语的典型场面。
+examples:
+- text: べつに好きとかじゃないし。
+  reading: ''
+  annot: べつに好きとかじゃないし。
+  translation_zh: 也不是说喜欢什么的啦。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+- text: ブログは炎上するし、発言小街ではバカにされるし、まとめスレまで出来てるし……
+  reading: ''
+  annot: ブログは炎上[えんじよう]するし、発言小街ではバカにされるし、まとめスレまで出来[でき]てるし……
+  translation_zh: 博客在炎上，在发言小町被人嘲笑，连总结贴都被做出来了……
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 接续
+- 语气
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 5
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

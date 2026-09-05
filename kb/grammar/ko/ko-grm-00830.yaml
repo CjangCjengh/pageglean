@@ -1,0 +1,38 @@
+id: ko-grm-00830
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: 「-(으)려다가：正想……却」
+structure: 动词词干 + -(으)려다가（'-려고 하다가'의 준말）
+structure_pattern: V-(으)려고 하다가 → -(으)려다가
+explanation_zh: -(으)려고 하다가 的缩略，表示正要或正打算做某事时，中途发生了转折或中断，后句常出现与预期相反的结果。片段中“想挣断丝线却挣不断”“下意识想后退”均属此用法。
+examples:
+- text: 당황한 나는 힘으로 끊어내려 했지만, 실은 살갗을 파고들 뿐, 쉽게 끊어지지 않았다.
+  reading: ''
+  annot: 당황한 나는 힘으로 끊어내려 했지만, 실은 살갗을 파고들 뿐, 쉽게 끊어지지 않았다.
+  translation_zh: 慌乱的我想要用力把它挣断，可丝线只是往皮肉里钻，轻易断不了。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+- text: 나는 무의식중에 몸을 뒤로 빼내려 했다.
+  reading: ''
+  annot: 나는 무의식중에 몸을 뒤로 빼내려 했다.
+  translation_zh: 我下意识地想要往后抽身。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 连接词尾
+- 意图
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

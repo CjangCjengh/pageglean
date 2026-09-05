@@ -1,0 +1,32 @@
+id: ja-grm-00671
+language: ja
+type: grammar
+level: N3
+level_rank: 3
+title: 〜っぽい："像是……／动不动就……"（口语接尾辞）
+structure: 用言連体形／体言 + っぽい
+structure_pattern: V-連体形 / N + っぽい
+explanation_zh: 接尾语「っぽい」接在用言连体形或体言后，表示"看上去有……的样子"或"容易……、动辄……"，语感随便，多用于口语。与「らしい」「がち」相比更带说话人的主观判断，常含轻微负面评价。句中「考えてるっぽい」即"像是在打什么坏主意"。
+examples:
+- text: 少なくとも、リアを連れてくるよう最初に言った誰かは、確実に良からぬ事を考えてるっぽいし。
+  reading: ''
+  annot: 少なくとも、リアを連れてくるよう最初に言った誰かは、確実に良からぬ事を考えてるっぽいし。
+  translation_zh: 至少，最初提议把莉亚带回来的那个人，肯定没安什么好心。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 口语
+- 接尾辞
+- 语气
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 0
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

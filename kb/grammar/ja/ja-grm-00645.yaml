@@ -1,0 +1,31 @@
+id: ja-grm-00645
+language: ja
+type: grammar
+level: N2
+level_rank: 4
+title: 〜とも知らずに：殊不知（却不知道……）
+structure: 動詞終止形＋格助詞「と」＋打消「知らずに」
+structure_pattern: V-終止形 + とも知らずに
+explanation_zh: 接动词终止形，表示当事人对后述情况毫无察觉，常带旁观者的戏剧性反讽意味。此处指当事人不知道自己将成为比莉亚更大的混乱源头。「知らず」是「知る」未然形加打消助动词「ず」。
+examples:
+- text: ……リア以上の混乱を巻き起こす存在とも知らずに。
+  reading: ''
+  annot: ……リア以上[いじょう]の混乱[こんらん]を巻[ま]き起[お]こす存在[そんざい]とも知[し]らずに。
+  translation_zh: （大家）殊不知那将会是掀起比莉亚更大混乱的存在。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 语气
+- 接续
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

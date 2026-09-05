@@ -1,0 +1,31 @@
+id: ja-grm-00728
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 〜ておく（口语〜とく）：事先准备
+structure: 動詞連用形＋補助動詞「ておく」（口語縮約「とく」）
+structure_pattern: V-連用形 + ておく（口語縮約：とく）
+explanation_zh: 补助动词「ておく」表示为之后做准备而提前做某事，口语中缩为「とく」。「言っとくけど」意为“我可先把话说在前面”，常用于辩解、警告前预先声明。片段中另有本义用法「放置しておく」（先放着不管）。
+examples:
+- text: 言っとくけど他の子も普通に読んでるからね。
+  reading: ''
+  annot: 言[い]っとくけど他[ほか]の子[こ]も普通[ふつう]に読[よ]んでるからね。
+  translation_zh: 我先把话说在前面，其他女孩子也都很正常地在看好吗。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 体貌
+- 口语
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

@@ -1,0 +1,42 @@
+id: vi-grm-00458
+language: vi
+type: grammar
+level: L3
+level_rank: 3
+title: mà：关系从句标记与转折连词
+structure: 关系词（quan hệ từ）mà：名词 + mà + 子句（关系从句）；分句 + mà + 分句（转折）
+structure_pattern: N + mà + Clause / Clause + mà + Clause (tương phản)
+explanation_zh: mà 引导名词后的关系从句，相当于汉语“的”，如“cái câu mà Hải gầy dùng để chế giễu”（海瘦用来取笑我的那句话）。mà
+  又可作转折连词，意为“可是、却”，如“yêu nhau ghê gớm mà cuối cùng lại không sống với nhau”。一词兼两种句法功能，需依语境区分。
+examples:
+- text: Ban đầu họ yêu nhau ghê gớm mà cuối cùng lại không sống với nhau lâu dài được.
+  reading: ''
+  annot: Ban đầu họ yêu nhau ghê gớm mà cuối cùng lại không sống với nhau lâu dài
+    được.
+  translation_zh: 当初他们爱得那么炽热，可到头来却没能长久地生活在一起。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+- text: tôi đang nói đúng cái câu mà hôm trước Hải gầy dùng để chế giễu "mối tình
+    đơn phương" của tôi.
+  reading: ''
+  annot: tôi đang nói đúng cái câu mà hôm trước Hải gầy dùng để chế giễu "mối tình
+    đơn phương" của tôi.
+  translation_zh: 我正说出口的，恰是前几天海瘦用来取笑我那段“单相思”的那句话。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 从句
+- 连词
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

@@ -1,0 +1,31 @@
+id: ja-grm-00636
+language: ja
+type: grammar
+level: N2
+level_rank: 4
+title: 〜気味：略带……倾向
+structure: 体言／用言連用形＋接尾語「気味（ぎみ）」
+structure_pattern: 体言/用言-連用形 + 気味
+explanation_zh: 接尾语「気味（ぎみ）」接名词或动词连用形，表示「略带……／有点……的倾向」，多用于不太理想的状态。片段「ツリ目気味」＝略微上挑的眼型，常与「やや」搭配。
+examples:
+- text: ややツリ目気味という点以外は、整っているが童顔とも言える顔。
+  reading: ''
+  annot: ややツリ目[め]気味[ぎみ]という点[てん]以外[いがい]は、整[ととの]っているが童顔[どうがん]とも言[い]える顔[かお]。
+  translation_zh: 除了略微有些上挑的眼型之外，是张端正却又可以说带着娃娃气的脸。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 接尾語
+- 程度
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

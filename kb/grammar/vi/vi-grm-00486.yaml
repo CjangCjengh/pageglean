@@ -1,0 +1,39 @@
+id: vi-grm-00486
+language: vi
+type: grammar
+level: L2
+level_rank: 2
+title: 分类词（loại từ）：viên／đàn／kẻ
+structure: 数词 + 分类词 + 名词
+structure_pattern: Num + loại từ + N
+explanation_zh: 越南语学校语法把分类词归为「单位名词」（danh từ chỉ đơn vị / loại từ），计数或指称时必须选用与之搭配的分类词。viên
+  用于小而成块、成粒之物（viên mực＝墨块）；đàn 用于成群的禽畜（đàn cừu＝羊群）；kẻ 指人，常含贬义（kẻ đối diện＝对面的人）。
+examples:
+- text: Hai viên mực đâu?
+  reading: ''
+  annot: Hai viên mực đâu?
+  translation_zh: 那两块墨块去哪儿了？
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+- text: Dindenault đang tuyệt vọng nhìn đàn cừu của mình lao đầu vào chỗ chết.
+  reading: ''
+  annot: Dindenault đang tuyệt vọng nhìn đàn cừu của mình lao đầu vào chỗ chết.
+  translation_zh: Dindenault 正绝望地看着自己的羊群一头冲向死路。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 量词
+- 名词短语
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

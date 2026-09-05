@@ -1,0 +1,39 @@
+id: vi-grm-00468
+language: vi
+type: grammar
+level: L2
+level_rank: 2
+title: 句末语气词 đi：催促与祈使「……吧」
+structure: （主语）+ 动词 +（宾语）+ đi!
+structure_pattern: (S) + V + (O) + đi
+explanation_zh: 句末的 đi 是语气助词，表示催促、建议或祈使，相当于汉语“吧”。注意与动词 đi（去）区分：如 ông đi thăm nó đi
+  中，前一个 đi 是动词，句末的 đi 是助词。动词 + không? 还可构成简短选择问句，如 Đi không?（去不去？）。
+examples:
+- text: Chiều nay ông đi thăm nó đi!
+  reading: ''
+  annot: Chiều nay ông đi thăm nó đi!
+  translation_zh: 今天下午你去看她吧！
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+- text: Sao, đi không?
+  reading: ''
+  annot: Sao, đi không?
+  translation_zh: 怎么样，去不去？
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 语气词
+- 祈使句
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

@@ -1,0 +1,31 @@
+id: ja-grm-00676
+language: ja
+type: grammar
+level: N3
+level_rank: 3
+title: お〜いただく：谦让语"承蒙……"
+structure: お + 体言（動作性名詞） + いただく
+structure_pattern: お + N + いただく
+explanation_zh: 「いただく」是「もらう」的谦让语（謙譲語），「お〜いただく」表示承蒙对方为自己做某事，抬高对方、放低自己。句中「お気遣い頂いた」是较郑重的措辞，与全篇随意的口语形成语体反差，体现敬语层次。
+examples:
+- text: ええ、いろいろお気遣い頂いたようですから。せめて遅刻はしないように、と
+  reading: ''
+  annot: ええ、いろいろお気遣[きづか]い頂いたようですから。せめて遅刻[ちこく]はしないように、と
+  translation_zh: 嗯，毕竟承蒙她多方关照。至少要做到不迟到——她是这么说的。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 敬语
+- 授受表现
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 0
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

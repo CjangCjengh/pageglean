@@ -1,0 +1,32 @@
+id: ko-grm-00776
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: 「-더니：追忆与转折（회상 선어말어미 -더-）」
+structure: 용언 어간 + 선어말어미 '-었-' + 회상 선어말어미 '-더-' + 연결어미 '-니'
+structure_pattern: V/A + -더- + -니
+explanation_zh: -더- 是追忆亲历场景的先末词尾，与连接词尾 -니 结合，表示所追忆的事实成为后句的背景或原因，相当于“（回想起来）……结果……”。此处追忆自己点头的动作，引出基莉随后的反应。
+examples:
+- text: 내가 비장한 표정으로 고갤 끄덕였더니, 키이리가 내 멱살을 쥔 채 ―이대로 키스하라는 건가, 이 녀석.― 눈을 감았다.
+  reading: ''
+  annot: 내가 비장한 표정으로 고갤 끄덕였더니, 키이리가 내 멱살을 쥔 채 ―이대로 키스하라는 건가, 이 녀석.― 눈을 감았다.
+  translation_zh: 我一脸悲壮地点了点头，基莉便揪着我的衣领——这家伙，是要我就这样吻上去吗——闭上了眼睛。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 선어말어미
+- 회상
+- 연결어미
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

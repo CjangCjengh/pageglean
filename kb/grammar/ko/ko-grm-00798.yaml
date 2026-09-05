@@ -1,0 +1,33 @@
+id: ko-grm-00798
+language: ko
+type: grammar
+level: TOPIK6
+level_rank: 6
+title: -(으)ㄹ지언정：「就算是……也绝不……」
+structure: 연결어미 '-(으)ㄹ지언정'（양보·대조）
+structure_pattern: V/Adj-(으)ㄹ지언정
+explanation_zh: 连接词尾 -(으)ㄹ지언정 表示让步转折：姑且承认前句所述成立，但强调后句的情况依然不变或相反，相当于中文「……倒是……，可……」「宁可……也不……」。语感郑重、书面色彩强，常见于议论性叙述，是
+  TOPIK 高级阅读的高频考点。
+examples:
+- text: 거기에 윈즈 국민들의 심리적 안정과 윈즈 왕가가 지켜 낸 체면은 있을지언정, 키이리의 행복은 어디에도 없었을 거라는 것이다.
+  reading: ''
+  annot: 거기에 윈즈 국민들의 심리적 안정과 윈즈 왕가가 지켜 낸 체면은 있을지언정, 키이리의 행복은 어디에도 없었을 거라는 것이다.
+  translation_zh: 那里或许有温兹国民的心理安定、有温兹王室守住的体面，但琪莉的幸福却是哪儿也不存在的。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 연결어미
+- 양보
+- 문어
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

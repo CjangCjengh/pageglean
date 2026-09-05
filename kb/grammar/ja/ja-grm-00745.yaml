@@ -1,0 +1,31 @@
+id: ja-grm-00745
+language: ja
+type: grammar
+level: N5
+level_rank: 1
+title: 動詞連用形＋方：做～的方法（～的办法）
+structure: 動詞連用形（マス形語幹）＋方（かた）
+structure_pattern: V-連用形 + 方
+explanation_zh: 动词连用形（ます形去掉ます）加「方」构成名词，读作「かた」，表示“做某事的方法、做法”，是基础而高频的构词法。「たすけ方がわからない」即“不知道帮助她的方法”。同类如読み方、使い方、歩き方。
+examples:
+- text: なんとかたすけてやりたい。でも、たすけ方がわからない。
+  reading: ''
+  annot: なんとかたすけてやりたい。でも、たすけ方[かた]がわからない。
+  translation_zh: 总想设法帮她一把。可是，我不知道该怎么帮。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 构词法
+- 形式名词
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

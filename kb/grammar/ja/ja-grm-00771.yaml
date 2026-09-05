@@ -1,0 +1,32 @@
+id: ja-grm-00771
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 〜んだ/のだ：解释・强调语气
+structure: 用言連体形 + 形式名詞「の」 + 断定助動詞「だ」 → んだ
+structure_pattern: V/イ/ナ + のだ → んだ
+explanation_zh: 形式名词「の」加断定助动词「だ」构成解释语气「のだ」，口语中「の」鼻音化为「んだ」。用于说明缘由、感慨或强调，「のだろう」「んだよな」等变体在男性独白中极为常见。
+examples:
+- text: 封筒に書かれている差出人住所は関西のそれだし、そもそも名前が思いっきり違うんだ。
+  reading: ''
+  annot: 封筒[ふうとう]に書[か]かれている差出人住所[さしだしにんじゅうしょ]は関西[かんさい]のそれだし、そもそも名前[なまえ]が思[おも]いっきり違[ちが]うんだ。
+  translation_zh: 信封上写的寄件人地址是关西那边的，说到底名字也完全不一样啊
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 语气
+- 形式名词
+- 口语
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 12
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

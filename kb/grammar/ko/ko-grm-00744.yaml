@@ -1,0 +1,32 @@
+id: ko-grm-00744
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: -(으)ㄹ 테니까：以意志或推测为理由
+structure: 谓词词干 + 冠形词形转词尾 -(으)ㄹ + 依存名词 터 + 이다 + 连接词尾 -니까
+structure_pattern: V/Adj-(으)ㄹ + 터 + 이다 + -니까
+explanation_zh: 由冠形词形转词尾 -(으)ㄹ、依存名词 터（表示"情形、打算"）、이다 与理由连接词尾 -니까 构成。主语为第一人称时表意志，其余人称表推测，后句多接命令或建议。可译为"（我）会……的，所以……"。
+examples:
+- text: 우리는 여기서 기다리고 있을 테니까.
+  reading: ''
+  annot: 우리는 여기서 기다리고 있을 테니까.
+  translation_zh: 我们会在这里等着的（所以不用担心）。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 连接词尾
+- 依存名词
+- 推测/意志
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

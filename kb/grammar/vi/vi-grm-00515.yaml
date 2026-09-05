@@ -1,0 +1,33 @@
+id: vi-grm-00515
+language: vi
+type: grammar
+level: L3
+level_rank: 3
+title: 「Cứ mỗi lần」：每当……的时候
+structure: Cứ mỗi lần + 动词/小句，主句
+structure_pattern: Cứ mỗi lần + VP/S, S V
+explanation_zh: “cứ mỗi lần”表示“每当……”，引出反复出现的场景，后接规律性的结果，对应中文“每次/每当……”。“cứ”强调规律性与无一例外，带有“总是如此”的意味。
+examples:
+- text: Cứ mỗi lần nhớ đến Tiểu Li, tôi như chìm vào một lớp khói sương lãng đãng
+    giữa mộng và thực
+  reading: ''
+  annot: Cứ mỗi lần nhớ đến Tiểu Li, tôi như chìm vào một lớp khói sương lãng đãng
+    giữa mộng và thực
+  translation_zh: 每当想起小丽，我就像沉入一层飘渺朦胧的烟雾，游走于梦与现实之间
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 频率
+- 时间状语从句
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

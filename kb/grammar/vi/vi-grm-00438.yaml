@@ -1,0 +1,39 @@
+id: vi-grm-00438
+language: vi
+type: grammar
+level: L2
+level_rank: 2
+title: tụi/bọn 群体复数与 đứa/con 量词
+structure: tụi/bọn + 名（指人群）；đứa/con + 名（指人）
+structure_pattern: tụi/bọn + N ; đứa/con + N
+explanation_zh: tụi、bọn 置于名词或代词前表示「这群/这伙」，构成群体复数（tụi con gái=女孩们）。đứa、con 是用于人的量词，常指小孩或带随意、亲昵乃至轻蔑色彩（một
+  đứa con gái、con nhỏ Việt An）。
+examples:
+- text: tụi con gái kiêu căng, hợm hĩnh tợn!
+  reading: ''
+  annot: tụi con gái kiêu căng, hợm hĩnh tợn!
+  translation_zh: 女孩们骄傲自大、势利得很！
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+- text: không đứa nào trong bọn tôi dám "giỡn mặt" với nó
+  reading: ''
+  annot: không đứa nào trong bọn tôi dám "giỡn mặt" với nó
+  translation_zh: 我们当中没有一个人敢跟她嬉皮笑脸。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 分类词/量词
+- 复数
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 6
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

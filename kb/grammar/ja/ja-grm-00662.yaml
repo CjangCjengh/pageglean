@@ -1,0 +1,32 @@
+id: ja-grm-00662
+language: ja
+type: grammar
+level: N3
+level_rank: 3
+title: 连用形中止法：书面语的接续停顿
+structure: 用言連用形で文を中断し下文に続ける（中止法）。「〜て」に相当するが簡潔で书面語的
+structure_pattern: V(連用形) + 、 + 下文
+explanation_zh: 用言以连用形收住、不接续助词而直接连接下文，学校文法称为「中止法」，作用相当于「〜て」，但更简洁、书面化。如「整え、」=「整えて」、「逆利用し、」=「逆利用して」。轻小说叙述中用以制造紧凑凝练的节奏。
+examples:
+- text: 今はその機能が失われている事を逆利用し、『非殺の剣』として使える
+  reading: ''
+  annot: 今[いま]はその機能[きのう]が失[うしな]われている事[こと]を逆利用[ぎゃくりよう]し、『非殺[ひさつ]の剣[けん]』として使[つか]える
+  translation_zh: 如今反过来利用该功能已经丧失这一点，可以把它当作「不杀之剑」来使用
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 活用
+- 书面语
+- 接续
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 0
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

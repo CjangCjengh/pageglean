@@ -1,0 +1,38 @@
+id: ko-grm-00792
+language: ko
+type: grammar
+level: TOPIK2
+level_rank: 2
+title: -아/어 보다 与 -아/어 본 적 있다/없다：尝试与经历
+structure: 动词 + 보조동사 보다；-아/어 본 적 + 있다/없다（의존명사 적）
+structure_pattern: V-아/어 + 보다 + -ㄴ 적 있다/없다
+explanation_zh: 补助动词 보다 表示尝试或经历某动作，“해 보다”即“试着做／做过”。与依存名词 적 搭配的“-아/어 본 적 있다/없다”表示有无某种经历。片段反复用此结构强调“第一次体验”。
+examples:
+- text: 수영해 본 적 없어?
+  reading: ''
+  annot: 수영해 본 적 없어?
+  translation_zh: 你没游过泳吗？
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+- text: 나, 바닷물에 들어가 보는 거, 태어나서 오늘이 처음이야……!
+  reading: ''
+  annot: 나, 바닷물에 들어가 보는 거, 태어나서 오늘이 처음이야……!
+  translation_zh: 我、进到海水里去，出生以来今天还是头一回……！
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 补助动词
+- 经历
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 4
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

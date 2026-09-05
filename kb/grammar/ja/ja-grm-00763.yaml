@@ -1,0 +1,31 @@
+id: ja-grm-00763
+language: ja
+type: grammar
+level: N2
+level_rank: 4
+title: 「〜をいいことに」：趁机〜、借着〜（口语惯用）
+structure: 体言 ＋ をいいことに ＋ 行为
+structure_pattern: N + をいいことに
+explanation_zh: 「〜をいいことに」表示把前项当作有利的条件或借口而顺势做某事，多含自嘲或轻微指责语气。结构上是“Nを＋形容词いい＋形式名词こと”的惯用化。片段中“仗着放假睡懒觉”即男主的自我调侃，属口语用法。
+examples:
+- text: 休みをいいことにのんびり起床した俺は、いつも通りのあいつのお遊びに付き合わされていた。
+  reading: ''
+  annot: 休[やす]みをいいことにのんびり起床[きしょう]した俺[おれ]は、いつも通[どお]りのあいつのお遊[あそ]びに付[つ]き合[あ]わされていた。
+  translation_zh: 我仗着放假睡了个懒觉，然后照常被那家伙的恶作剧折腾着奉陪。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 惯用表达
+- 口语
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

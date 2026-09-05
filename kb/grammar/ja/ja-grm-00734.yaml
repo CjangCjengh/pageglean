@@ -1,0 +1,38 @@
+id: ja-grm-00734
+language: ja
+type: grammar
+level: N3
+level_rank: 3
+title: 〜わけがない：按理不可能
+structure: 用言連体形 ＋ 形式名詞「わけ」 ＋ がない
+structure_pattern: V/A(連体形) + わけがない
+explanation_zh: 形式名词「わけ」表示道理、情理，「〜わけがない」从情理上否定可能性，意为“不可能……”。本段「気にしていないわけがなかった」用双重否定强烈肯定“不可能不在意”，语气委婉而肯定。
+examples:
+- text: だけど、気にしていないわけがなかった。ただ、なにもできなかっただけなんだ。
+  reading: ''
+  annot: だけど、気にしていないわけがなかった。ただ、なにもできなかっただけなんだ。
+  translation_zh: 可是，要说完全不在意，那是不可能的。只是什么都做不到罢了。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+- text: 用心深そうなこいつが様子を見に来ないわけがないからな。
+  reading: ''
+  annot: 用心深[ようじんぶか]そうなこいつが様子[ようす]を見[み]に来[こ]ないわけがないからな。
+  translation_zh: 像这家伙这么警惕，不可能不来看看情况的。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 形式名词
+- 语气
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

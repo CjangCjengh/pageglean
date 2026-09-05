@@ -1,0 +1,40 @@
+id: ko-grm-00731
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: 「-아/어 놓다/-아/어 두다」：动作完成后状态的保持
+structure: 동사 어간 + -아/어 + 놓다/두다（보조용언）
+structure_pattern: V-아/어 놓다/두다
+explanation_zh: -아/어 놓다/-아/어 두다 表示动作完成后其结果状态被保留、放置；놓다 与 두다 意义相近，두다 稍偏正式。相当于中文“……好/……在那里”。文中
+  “설정해 놓다” 与 “준비해 두다” 分别表示“设定好”与“备妥”之后的持续状态。
+examples:
+- text: 이미 오늘밤은 제가 풀코스 봉사를 준비해 둔 상태입니다.
+  reading: ''
+  annot: 이미 오늘밤은 제가 풀코스 봉사를 준비해 둔 상태입니다.
+  translation_zh: 今晚的全套服务，我已经准备就绪了。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+- text: 내가 설정해 놓긴 했지만, 실제 스토리상에서는 별로 중요하게 취급하지 않았기 때문에 기억에서 지워져 있었다.
+  reading: ''
+  annot: 내가 설정해 놓긴 했지만, 실제 스토리상에서는 별로 중요하게 취급하지 않았기 때문에 기억에서 지워져 있었다.
+  translation_zh: 虽然是我设定好的，但在实际剧情里没被当回事，所以早已从记忆里抹掉了。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 补助动词
+- 体貌
+- 状态保持
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

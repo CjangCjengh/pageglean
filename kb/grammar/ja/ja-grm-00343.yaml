@@ -15,6 +15,13 @@ examples:
   source_book: book-ja-011
   source_chapter: null
   pointer: null
+- text: 昨日の俺は朝起きて鏡を見るなり、奇声をあげながら家を飛び出して行方をくらませたらしいんだ。
+  reading: ''
+  annot: 昨日[きのう]の俺[おれ]は朝[あさ]起[お]きて鏡[かがみ]を見[み]るなり、奇声[きせい]をあげながら家[いえ]を飛[と]び出[で]して行方[ゆくえ]をくらませたらしいんだ。
+  translation_zh: 昨天我早上一起来照镜子，马上就怪叫着冲出家门，下落不明了——听说是这么回事。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
 related:
   cross_lang: []
   same_lang: []

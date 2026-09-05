@@ -1,0 +1,32 @@
+id: ko-grm-00807
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: -(으)ㄴ 척하다：假装、装作
+structure: 动词词干 + 冠形词形语尾 -(으)ㄴ + 依存名词 척 + 하다
+structure_pattern: V-(으)ㄴ + 척 + 하다
+explanation_zh: '''척''是依存名词，意为"装出来的样子"，与''하다''结合表示实际并非如此却装作如此，相当于中文"假装……/装作……"。常与连接语尾''-면서''搭配，揭示表里不一的状态。'
+examples:
+- text: 이쪽엔 관심 없는 척하면서 내가 읽던 동화 내용을 다 듣고 있었던 모양이다.
+  reading: ''
+  annot: 이쪽엔 관심 없는 척하면서 내가 읽던 동화 내용을 다 듣고 있었던 모양이다.
+  translation_zh: 装出一副对这边不感兴趣的样子，却好像把我正在读的童话内容全都听进去了。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 依存名词
+- 样态
+- 接续
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

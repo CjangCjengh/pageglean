@@ -1,0 +1,31 @@
+id: ko-grm-00828
+language: ko
+type: grammar
+level: TOPIK5
+level_rank: 5
+title: 「-(으)ㄹ 텐데(도)：想来会……可是」
+structure: 动词词干 + -(으)ㄹ 터 + 이다 + -ㄴ데(도)
+structure_pattern: V-(으)ㄹ 터 + 이다 + -ㄴ데(도)
+explanation_zh: 由表推测的依存名词结构 -(으)ㄹ 터이다 加连接词尾 -ㄴ데(도) 构成，表示“大概会……，可是/即使……”。兼具推测与让步、转折语气，常用于反问或表达遗憾。本片段以反问强调“就算会化为乌有也无所谓吗”。
+examples:
+- text: 내가 없어지면 이 도시는 먼지가 돼서 사라져 버릴 텐데도?
+  reading: ''
+  annot: 내가 없어지면 이 도시는 먼지가 돼서 사라져 버릴 텐데도?
+  translation_zh: 如果我消失，这座城市也会化为尘埃消逝——即使这样也无所谓吗？
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 语气
+- 连接词尾
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

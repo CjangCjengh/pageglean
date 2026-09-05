@@ -1,0 +1,31 @@
+id: ko-grm-00728
+language: ko
+type: grammar
+level: TOPIK5
+level_rank: 5
+title: -에도 불구하고：尽管……却……
+structure: 体言(+이다) + -에도 불구하고
+structure_pattern: 체언(+임) + -에도 불구하고
+explanation_zh: 表示让步，相当于"尽管……却……"，接体言时用"-임에도 불구하고"。比"-는데도"更书面、语气更强。
+examples:
+- text: 마른 체형임에도 불구하고 가슴은 봉긋하게 솟아올라 있어
+  reading: ''
+  annot: 마른 체형임에도 불구하고 가슴은 봉긋하게 솟아올라 있어
+  translation_zh: 尽管是苗条的体型，胸部却高高隆起，
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 让步
+- 书面语
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

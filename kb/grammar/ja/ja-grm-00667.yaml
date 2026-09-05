@@ -1,0 +1,32 @@
+id: ja-grm-00667
+language: ja
+type: grammar
+level: N3
+level_rank: 3
+title: 〜とは思えない：觉得不可能……
+structure: 文（终止形）＋引用助词「と」＋提示助词「は」＋「思える」（「思う」的可能形）的否定形
+structure_pattern: 文終止形 + と + は + 思える（否定）
+explanation_zh: 引用助词「と」提示所想的内容，「思えない」是「思う」的可能形「思える」的否定，整体表示“怎么也不觉得能……”“无法想象会……”。句尾的「んだが」是「のだ」的口语缩约加「が」，带出解释说明、欲言又止并等待对方回应的语气。
+examples:
+- text: あの状態のイスカが大人しく従うとは思えないんだが……？
+  reading: ''
+  annot: あの状態[じょうたい]のイスカが大人[おとな]しく従[したが]うとは思[おも]えないんだが……？
+  translation_zh: 那种状态下的伊斯卡，我可不觉得她会乖乖听话啊……？
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 引用
+- 可能
+- 句末语气
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

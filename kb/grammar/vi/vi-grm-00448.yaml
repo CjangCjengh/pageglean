@@ -1,0 +1,43 @@
+id: vi-grm-00448
+language: vi
+type: grammar
+level: L2
+level_rank: 2
+title: 疑问代词 + cũng：无一例外
+structure: 疑问代词（ngày nào / thứ gì / ai…）+ cũng + V/A
+structure_pattern: Wh-word + cũng + V/Adj
+explanation_zh: 疑问代词（ngày nào、thứ gì、ai、gì…）+ cũng 表示「每一……都……」，强调无一例外，相当于中文「天天都……」「什么都……」。cũng
+  是副词（phó từ），位于动词或形容词之前。本段反复出现（ngày nào…cũng đầy kẹo、thứ gì cũng phải chia ba / mua
+  gấp ba），是高频周遍句式。
+examples:
+- text: Kể từ hôm đó, ngày nào trong túi tôi cũng đầy kẹo.
+  reading: ''
+  annot: Kể từ hôm đó, ngày nào trong túi tôi cũng đầy kẹo.
+  translation_zh: 从那天起，我口袋里每天都装满糖果。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+- text: Từ khi phát hiện ra mối quan hệ chằng chịt này, thứ gì tôi cũng phải mua gấp
+    ba
+  reading: ''
+  annot: Từ khi phát hiện ra mối quan hệ chằng chịt này, thứ gì tôi cũng phải mua
+    gấp ba
+  translation_zh: 自从发现这层错综复杂的关系，我什么都得买三份。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 副词
+- 强调
+- 周遍句
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

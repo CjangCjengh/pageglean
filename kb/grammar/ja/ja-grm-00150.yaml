@@ -15,6 +15,13 @@ examples:
   source_book: book-ja-007
   source_chapter: null
   pointer: null
+- text: 俺が上着を脱ごうとしているのに気づいてしまったらしい。
+  reading: ''
+  annot: 俺[おれ]が上着[うわぎ]を脱[ぬ]ごうとしているのに気づいてしまったらしい。
+  translation_zh: 她好像察覺到我正想脫外套了。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
 related:
   cross_lang: []
   same_lang: []

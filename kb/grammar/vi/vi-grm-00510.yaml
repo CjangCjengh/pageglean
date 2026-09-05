@@ -1,0 +1,32 @@
+id: vi-grm-00510
+language: vi
+type: grammar
+level: L2
+level_rank: 2
+title: 「Trước khi」：在……之前
+structure: Trước khi + 动词/小句，主句
+structure_pattern: Trước khi + VP/S, S V
+explanation_zh: “trước khi”引导时间状语从句，表示主句动作发生在该动作之前，对应中文“在……之前”。从句常前置并用逗号与主句隔开。反义结构为“sau
+  khi”（……之后）。
+examples:
+- text: Trước khi quen tôi, anh đã quen mấy người rồi?
+  reading: ''
+  annot: Trước khi quen tôi, anh đã quen mấy người rồi?
+  translation_zh: 在认识我之前，你已经谈过几个人了？
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 时间状语从句
+- 接续
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

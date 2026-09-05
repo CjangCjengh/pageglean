@@ -1,0 +1,39 @@
+id: ko-grm-00848
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: -(으)ㄴ/는 대로：按照……那样
+structure: 动词冠形形 -(으)ㄴ/는 + 의존명사 대로（依存名词）
+structure_pattern: V + -(으)ㄴ/는 대로
+explanation_zh: 依存名词 대로 表示“按照……的样子/方式”，前接冠形形构成方式状语，相当于汉语“照……”“按……”。现在时用 -는 대로，过去时用
+  -(으)ㄴ 대로；“하라는 대로”是命令形加 -(으)ㄴ 대로，即“照吩咐的那样”。
+examples:
+- text: 지금껏 악마가 하라는 대로 명령을 따르며 살아왔습니다.
+  reading: ''
+  annot: 지금껏 악마가 하라는 대로 명령을 따르며 살아왔습니다.
+  translation_zh: 一直以来，我都照着恶魔的吩咐，服从命令活到现在。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+- text: 저를 원하시는 대로 마음껏 다뤄 주세요.
+  reading: ''
+  annot: 저를 원하시는 대로 마음껏 다뤄 주세요.
+  translation_zh: 请您按您希望的那样，随心所欲地使唤我吧。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 依存名词
+- 方式
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

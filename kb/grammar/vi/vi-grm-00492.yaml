@@ -1,0 +1,32 @@
+id: vi-grm-00492
+language: vi
+type: grammar
+level: L3
+level_rank: 3
+title: 转折连词 mà：却、可是
+structure: 分句1 + mà + 分句2（转折）
+structure_pattern: clause + mà + clause
+explanation_zh: mà 除了作关系从句标记外，还可作转折连词，相当于「却、可是」，连接前后矛盾的两个情况。此处说话人强调「只擦破皮」与「流这么多血」不成比例。口语中
+  mà 前后常有明显停顿。
+examples:
+- text: Trầy da mà máu chảy nhiều chừng này?
+  reading: ''
+  annot: Trầy da mà máu chảy nhiều chừng này?
+  translation_zh: 只是擦破点皮，却流这么多血？
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 连词
+- 转折
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

@@ -1,0 +1,31 @@
+id: ja-grm-00642
+language: ja
+type: grammar
+level: N3
+level_rank: 3
+title: 「〜そうにない」：看样子不会…
+structure: 動詞連用形＋様態助動詞「そうだ」連用形「そうに」＋否定助動詞「ない」
+structure_pattern: V(連用形) + そうにない
+explanation_zh: 样态助动词「そうだ」表示根据眼前状况推测眼看就要发生某事；其否定形「〜そうにない／〜そうもない」表示看样子不会发生。「答えが出そうにない」即恐怕得不出答案。同句「考えても」中的接续助词「ても」表让步，意为“即使……也……”。
+examples:
+- text: 知って間も無い現状では、これ以上考えても答えが出そうにない。
+  reading: ''
+  annot: 知[し]って間[ま]も無[な]い現状[げんじょう]では、これ以上[いじょう]考[かんが]えても答[こた]えが出[で]そうにない。
+  translation_zh: 在彼此相识未久的现状下，再怎么想恐怕也得不出答案。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 样态
+- 语气
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

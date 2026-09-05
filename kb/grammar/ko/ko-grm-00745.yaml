@@ -1,0 +1,39 @@
+id: ko-grm-00745
+language: ko
+type: grammar
+level: TOPIK5
+level_rank: 5
+title: -(으)ㄴ/는 듯이：仿佛……似的
+structure: 谓词词干 + 冠形词形转词尾 -(으)ㄴ/는 + 依存名词 듯 + 助词 이
+structure_pattern: V/Adj-(으)ㄴ/는 + 듯 + 이
+explanation_zh: 依存名词 듯 表示"仿佛、像……似的"，后接助词 이 作副词性成分修饰谓词。形容词后用 -(으)ㄴ 듯이，动词后用 -는 듯이，也常见
+  -다는 듯이（一副……的样子）这一引用式变体。多用于描写人物的神态与样子。
+examples:
+- text: 틸프가 조금 창피한 듯이 얼굴을 붉혔다.
+  reading: ''
+  annot: 틸프가 조금 창피한 듯이 얼굴을 붉혔다.
+  translation_zh: 蒂尔芙像是有点害羞似的涨红了脸。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+- text: 마이시아가 이상하다는 듯이 나를 쳐다봤다.
+  reading: ''
+  annot: 마이시아가 이상하다는 듯이 나를 쳐다봤다.
+  translation_zh: 希娅一副觉得莫名其妙的样子看着我。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 依存名词
+- 样态/比喻
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

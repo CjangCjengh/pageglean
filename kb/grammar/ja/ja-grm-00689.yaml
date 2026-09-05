@@ -1,0 +1,38 @@
+id: ja-grm-00689
+language: ja
+type: grammar
+level: N3
+level_rank: 3
+title: 「これだから〜は」：难怪～这么让人头疼（口语）
+structure: これ + だから + 体言 + 係助词は（责备・无奈，后项常留白）
+structure_pattern: これ + 助動詞だ連用形 + 接続助詞から + NP + 係助詞は
+explanation_zh: 口语中表达无奈、嗔怪的常用句式：用「これ」指眼前这番情形，以「だから…は」表示“就因为这，难怪……”，后接评价对象，句意常在「は」后留白，让对方体会言外之意。文中女教师连用三次「これだから不良くんは」，表现其对主人公打趣式的说教。
+examples:
+- text: もう、どうして先生を呼んでくれないの。これだから不良くんは
+  reading: ''
+  annot: もう、どうして先生[せんせい]を呼[よ]んでくれないの。これだから不良[ふりょう]くんは
+  translation_zh: 真是的，怎么不叫老师来呢。你们这些不良同学真是……
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+- text: 記憶がなくなるほど彼女と熱い夜を過ごしたの？ これだから不良くんは！
+  reading: ''
+  annot: 記憶[きおく]がなくなるほど彼女[かのじょ]と熱[あつ]い夜[よる]を過[す]ごしたの？ これだから不良[ふりょう]くんは！
+  translation_zh: 难道你和她度过了激烈到失去记忆的夜晚？不愧是不良同学啊！
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 口语表达
+- 句末语气
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

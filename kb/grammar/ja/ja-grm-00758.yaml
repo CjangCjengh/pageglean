@@ -1,0 +1,38 @@
+id: ja-grm-00758
+language: ja
+type: grammar
+level: N3
+level_rank: 3
+title: 「〜せいで」：表归咎的原因
+structure: 体言＋の＋形式名詞「せい」＋格助詞「で」（原因）
+structure_pattern: N + の + せい + で
+explanation_zh: 「せい」是带有归咎意味的形式名词，「〜せいで」表示消极的原因、责任所在。「俺のせいで」即“因为我的过错”，是自责的说法。片段中反复出现（俺のせいで、おまえのせい、わたしのせい），语境由沉痛渐转为轻松。
+examples:
+- text: 俺のせいで光は死んだ。
+  reading: ''
+  annot: 俺[おれ]のせいで光[ひかり]は死[し]んだ。
+  translation_zh: 是因为我，光才死的。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+- text: 俺の部屋がパセリ臭いのはおまえのせいだったんだな。
+  reading: ''
+  annot: 俺[おれ]の部屋[へや]がパセリ臭[くさ]いのはおまえのせいだったんだな。
+  translation_zh: 我房间里一股欧芹味，原来都是你的错啊。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 原因
+- 形式名詞
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

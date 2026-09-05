@@ -1,0 +1,39 @@
+id: ko-grm-00819
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: -기로 하다：决定做某事
+structure: 동사 어간 + -기로 하다
+structure_pattern: 명사형 전성어미 -기 + 부사격 조사 -로 + 동사 하다
+explanation_zh: 学校语法分析为名词形转成词尾 -기＋副格词尾 -로＋하다，表示决定做某事。否定形式为 안＋동사＋-기로 하다，即决定不做某事。片段中一正一反各出现一次（사해
+  주기로 했다 / 안 하기로 했다）。
+examples:
+- text: 거울 미로의 책임자로 보이는 남자는 내 죄를 사해 주기로 했다.
+  reading: ''
+  annot: 거울 미로의 책임자로 보이는 남자는 내 죄를 사해 주기로 했다.
+  translation_zh: 看起来是镜之迷宫负责人的男人，决定赦免我的罪。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+- text: 어젯밤 요나가 키이리 방문 앞에 서 있었다는 얘기나 동전에 대한 이야기는 안 하기로 했다.
+  reading: ''
+  annot: 어젯밤 요나가 키이리 방문 앞에 서 있었다는 얘기나 동전에 대한 이야기는 안 하기로 했다.
+  translation_zh: 我决定不提昨晚约娜站在绮璃房门前的事，也不提硬币的事。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 决定
+- 名词化
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

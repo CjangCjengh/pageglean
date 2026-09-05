@@ -1,0 +1,38 @@
+id: ja-grm-00701
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 「〜はずだ」：基于事理的预期
+structure: 用言連体形（或体言）＋形式名词「はず」＋断定助动词「だ」
+structure_pattern: V/A普通形 + 形式名词「はず」 + だ
+explanation_zh: 形式名词「はず」表示基于某种依据“理应如此”的预期。文中反复出现「あってもいいはずなんだ」「あるはずだ」，主人公借此确认悲伤之情本该存在。否定推断则用「はずがない／わけがない」。
+examples:
+- text: そう、あってもいいはずなんだ。
+  reading: ''
+  annot: そう、あってもいいはずなんだ。
+  translation_zh: 对，（那份悲伤）本来就该有的。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+- text: 普通はあるはずだ。
+  reading: ''
+  annot: 普通[ふつう]はあるはずだ。
+  translation_zh: 按常理应该是有的。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 语气
+- 形式名词
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

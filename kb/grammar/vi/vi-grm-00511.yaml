@@ -1,0 +1,40 @@
+id: vi-grm-00511
+language: vi
+type: grammar
+level: L2
+level_rank: 2
+title: 「để」：目的，为了……
+structure: 动作 + để + 目的动作
+structure_pattern: VP + để + VP
+explanation_zh: “để”连接目的，表示前一动作是为了实现后一动作，对应中文“为了……/来……”。“để làm gì”即“用来做什么”，常用于询问或反问目的。
+examples:
+- text: Chẳng hiểu tụi con gái hỏi câu đó để làm gì.
+  reading: ''
+  annot: Chẳng hiểu tụi con gái hỏi câu đó để làm gì.
+  translation_zh: 真搞不懂女孩子问那句话是为了什么。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+- text: Đứa nào cũng ra vẻ ngây thơ vô tội để chứng tỏ mình là người có "lý lịch trong
+    sạch" nhất thế giới.
+  reading: ''
+  annot: Đứa nào cũng ra vẻ ngây thơ vô tội để chứng tỏ mình là người có "lý lịch
+    trong sạch" nhất thế giới.
+  translation_zh: 每个男孩都装出一副天真无辜的样子，来证明自己是拥有“最清白履历”的人。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 目的
+- 接续
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

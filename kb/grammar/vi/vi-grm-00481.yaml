@@ -1,0 +1,33 @@
+id: vi-grm-00481
+language: vi
+type: grammar
+level: L3
+level_rank: 3
+title: suýt (một chút nữa) là：险些……
+structure: suýt +（một chút nữa）+ là + VP
+structure_pattern: suýt + một chút nữa + là + VP
+explanation_zh: suýt 是语气副词，表示「差点儿」，指某种（多为不如意的）情况几乎发生但最终没有发生。加上 một chút nữa là 强调「只差一点点就……」，与汉语「差点儿没／险些」对应。
+examples:
+- text: Suýt một chút nữa là tôi buột miệng khai huỵch toẹt cái "chiến dịch băng giá"
+    của quân sư Hải gầy
+  reading: ''
+  annot: Suýt một chút nữa là tôi buột miệng khai huỵch toẹt cái "chiến dịch băng
+    giá" của quân sư Hải gầy
+  translation_zh: 我差点就脱口而出，把军师 Hải gầy 的"冰霜行动"和盘托出。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 语气副词
+- 体貌
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

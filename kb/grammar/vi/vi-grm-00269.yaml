@@ -15,6 +15,15 @@ examples:
   source_book: book-vi-003
   source_chapter: null
   pointer: null
+- text: Nhưng nếu bỏ đi thì biết đào đâu ra tiền mua sắm "lễ vật" để cống nộp cho
+    Việt An.
+  reading: ''
+  annot: Nhưng nếu bỏ đi thì biết đào đâu ra tiền mua sắm "lễ vật" để cống nộp cho
+    Việt An.
+  translation_zh: 但如果走开，我上哪儿弄钱去买进贡给越安的「贡品」呢？
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
 related:
   cross_lang: []
   same_lang: []

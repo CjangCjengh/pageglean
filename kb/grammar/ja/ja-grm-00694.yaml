@@ -1,0 +1,31 @@
+id: ja-grm-00694
+language: ja
+type: grammar
+level: N5
+level_rank: 1
+title: 助词「し」：并列列举原因与不满
+structure: 用言終止形＋し，し……（並列列挙多项理由）
+structure_pattern: V終止形/イ形終止形/ナ形-だ + し（反復）
+explanation_zh: 并列助词「し」接在用言终止形后，罗列多个事项或理由，常暗示“还不止这些”，多用于抱怨、数落。片段连用多个「し」历数对方邋遢行径，是口语抱怨的标志性句式。
+examples:
+- text: 目覚ましはギリギリにしかセットしないし、宿題はしないし、服は脱ぎっぱなしだし
+  reading: ''
+  annot: 目覚[めざ]ましはギリギリにしかセットしないし、宿題[しゅくだい]はしないし、服[ふく]は脱[ぬ]ぎっぱなしだし
+  translation_zh: 闹钟总是踩着点才定，作业也不做，衣服脱了就扔着不管
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 助詞
+- 接续
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 9
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

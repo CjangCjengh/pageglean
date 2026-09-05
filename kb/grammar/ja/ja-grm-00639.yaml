@@ -1,0 +1,31 @@
+id: ja-grm-00639
+language: ja
+type: grammar
+level: N3
+level_rank: 3
+title: 「（それ）なのに」：出乎意料的转折
+structure: 文（断定助動詞「だ」連体形「な」）＋接續助詞「のに」；或以「それなのに」置于句首承接上文
+structure_pattern: 文 + なのに / それなのに + 文
+explanation_zh: 接续助词「のに」表示逆接，暗含按常理本不该如此却偏偏相反，带有意外、不满的语气，比「が」「けれど」更强烈。前接断定助动词「だ」连体形「な」构成「なのに」，也可说「それなのに」置于句首。口语、书面语均常用。
+examples:
+- text: 茶葉は家にあった安物。それなのにリアが淹れた紅茶は、味も香りも全くの別物。
+  reading: ''
+  annot: 茶葉[ちゃば]は家[いえ]にあった安物[やすもの]。それなのにリアが淹[い]れた紅茶[こうちゃ]は、味[あじ]も香[かお]りも全[まった]くの別物[べつもの]。
+  translation_zh: 茶叶是家里现有的便宜货。尽管如此，莉雅泡出的红茶，无论味道还是香气都截然不同。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 逆接
+- 接续
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

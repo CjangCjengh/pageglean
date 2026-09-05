@@ -1,0 +1,39 @@
+id: ja-grm-00716
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 〜ている→てる／ていた→てた：口语「い」脱落
+structure: て＋いる→てる；て＋いた→てた（い抜き）
+structure_pattern: て + いる → てる/てた
+explanation_zh: 补助动词「いる」接「て」后，口语中常省略「い」（所谓“い抜き”）：ていた→てた、ている→てる。本段书面叙述保留完整形（とらえていた），而会话全用缩约形（やってた／揺れてた／似てる）。口语属性明显，是读懂轻小说对话的关键。
+examples:
+- text: 男女混合でバレーやってた時にスパイクを胸に当てたらすっごく揺れてたの！
+  reading: ''
+  annot: 男女混合[だんじょこんごう]でバレーやってた時[とき]にスパイクを胸[むね]に当[あ]てたらすっごく揺[ゆ]れてたの！
+  translation_zh: 男女混合打排球的时候，我把扣球砸到胸口，晃得可厉害了！
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+- text: 坂本くんてば、わたしの好きな小説のキャラに似てるし。
+  reading: ''
+  annot: 坂本[さかもと]くんてば、わたしの好[す]きな小説[しょうせつ]のキャラに似[に]てるし。
+  translation_zh: 而且坂本同学还长得像我喜欢的小说里的角色嘛。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 口語
+- 縮約
+- アスペクト
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 5
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

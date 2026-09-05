@@ -1,0 +1,31 @@
+id: ja-grm-00649
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 样态助动词「そうだ」：眼看就要……／……的样子
+structure: 用言連用形（形容詞語幹）+ 様態の助動詞「そうだ」
+structure_pattern: V-連用形/Adj-語幹 + そうだ
+explanation_zh: 様態助動詞「そうだ」接用言連用形（形容詞則接語幹），表示眼看就要發生或外觀上呈現某種樣態。「落ちそうだ」即「眼看就要掉下來」。注意與傳聞助動詞「〜そうだ（听说）」區分。
+examples:
+- text: でも……あまり強そうには見えないんだけど……？
+  reading: ''
+  annot: でも……あまり強[つよ]そうには見[み]えないんだけど……？
+  translation_zh: 不过……看起来也不像是很强的样子……
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 助動詞
+- 语气
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 0
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

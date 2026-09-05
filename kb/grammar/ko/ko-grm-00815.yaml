@@ -1,0 +1,33 @@
+id: ko-grm-00815
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: 〜다고 해도：即使……也……（让步）
+structure: 动词/形容词词干 + -다고 해도（表让步，'即使……也……'）
+structure_pattern: 용언 + -다고 해도 (평서형 인용 -다고 + 양보 연결어미 -아/어도)
+explanation_zh: '''-다고 해도''表示让步，意为''即使……也……''。由引用形式''-다고''加让步连接词尾''-아/어도''构成，先假设前述情况再转折。文中''사용한다고
+  해도…… 해소되지는 못한다''即''即使用了那个方法也无法消除''。'
+examples:
+- text: 물론, 그 방법을 사용한다고 해도 시각 상에서 오는 혼란이 완전히 해소되지는 못한다.
+  reading: ''
+  annot: 물론, 그 방법을 사용한다고 해도 시각 상에서 오는 혼란이 완전히 해소되지는 못한다.
+  translation_zh: 当然，即使使用那个方法，视觉上的混乱也无法完全消除。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 연결어미
+- 양보
+- 인용
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

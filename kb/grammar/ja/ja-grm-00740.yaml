@@ -1,0 +1,32 @@
+id: ja-grm-00740
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 〜てくれる：他人施予我的恩惠（为我做～）
+structure: 動詞連用形＋て＋くれる（授受動詞）
+structure_pattern: V-て + くれる
+explanation_zh: 「くれる」是授受动词，接在动词连用形＋て之后，表示他人主动为说话人（或我方）做某事，带有恩惠、感激的语感，主语必须是对方。本段多处出现，如「フォローしてくれた」「好きでいてくれて」，后者是形容动词＋て＋くれる，表示对方一直保持着喜欢自己的状态。中文母语者要牢记方向：给我方的好处用くれる／もらう，给别人好处用あげる。
+examples:
+- text: ありがとう。こんな俺を好きでいてくれて。
+  reading: ''
+  annot: ありがとう。こんな俺[おれ]を好[す]きでいてくれて。
+  translation_zh: 谢谢你。谢谢你一直喜欢这样的我。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 授受表达
+- 恩惠
+- 口语
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 5
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

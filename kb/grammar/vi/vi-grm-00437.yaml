@@ -1,0 +1,39 @@
+id: vi-grm-00437
+language: vi
+type: grammar
+level: L2
+level_rank: 2
+title: không... một... nào：一点也不…/没有任何…
+structure: không + 动 + một + (量) + 名 + nào
+structure_pattern: không + V + một + N + nào
+explanation_zh: 强调彻底否定，相当于「一点…也不/没有任何…」。không 否定动词，句末加 nào 呼应构成完全否定。类似结构还有 không...
+  gì（…也不）。
+examples:
+- text: không bộc lộ một tí tình cảm nào
+  reading: ''
+  annot: không bộc lộ một tí tình cảm nào
+  translation_zh: 一点也不流露任何感情。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+- text: không đứa nào trong bọn tôi dám "giỡn mặt" với nó
+  reading: ''
+  annot: không đứa nào trong bọn tôi dám "giỡn mặt" với nó
+  translation_zh: 我们当中没有一个人敢跟她嬉皮笑脸。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 否定
+- 强调语气
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

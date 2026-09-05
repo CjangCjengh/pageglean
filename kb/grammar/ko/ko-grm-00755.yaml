@@ -1,0 +1,32 @@
+id: ko-grm-00755
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: -ㄹ 뻔하다：差点儿就……
+structure: 动词 + 冠形词尾 -(으)ㄹ + 依存名词 뻔 + 하다
+structure_pattern: V- + -(으)ㄹ 뻔하다
+explanation_zh: '''-ㄹ 뻔하다''中的''뻔''是依存名词，表示某事险些发生但最终并未发生，中文相当于''差点儿……''。本句以''살해당할 뻔하고''的连接形引出后文，说明她躲藏起来的原因。'
+examples:
+- text: 그녀도 누군가에게 살해당할 뻔하고 몸을 숨기고 있었다는 듯했다.
+  reading: ''
+  annot: 그녀도 누군가에게 살해당할 뻔하고 몸을 숨기고 있었다는 듯했다.
+  translation_zh: 她似乎也险些遭人杀害，因而一直躲藏了起来。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 依存名词
+- 体貌
+- 推测
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

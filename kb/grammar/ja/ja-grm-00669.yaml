@@ -1,0 +1,32 @@
+id: ja-grm-00669
+language: ja
+type: grammar
+level: N3
+level_rank: 3
+title: 〜ば、それだけ〜：越……就越……
+structure: 动词假定形＋接续助词「ば」（前句条件）……副词性短语「それだけ」（后句，程度随之变化）
+structure_pattern: V-仮定形 + ば … それだけ …
+explanation_zh: 动词假定形（仮定形）＋接续助词「ば」表示条件，与后句的「それだけ」（表示“相应增加的程度”）呼应，构成“越……就越……”的比例关系。同句的「長引かせたくない」是「長引く」的使役形（助动词「せる」）加「〜たくない”，表示“不想让它拖长”。
+examples:
+- text: 長引けば、それだけあいつが苦しむ。――だから長引かせたくない
+  reading: ''
+  annot: 長引[ながび]けば、それだけあいつが苦[くる]しむ。――だから長引[ながび]かせたくない
+  translation_zh: 拖得越久，那家伙就越痛苦。――所以不想让它拖长
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 假定
+- 使役
+- 比例关系
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

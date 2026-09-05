@@ -1,0 +1,31 @@
+id: vi-grm-00487
+language: vi
+type: grammar
+level: L2
+level_rank: 2
+title: Vừa…vừa…：一边…一边…
+structure: vừa + V1 … vừa + V2
+structure_pattern: vừa + V … vừa + V
+explanation_zh: 表示两个动作同时进行，相当于汉语「一边……一边……」。两个 vừa 分别置于两个动词短语之前，常用于叙述紧凑的连贯动作。
+examples:
+- text: Vừa nói, tôi vừa ném cặp xách lên bàn và xắn tay áo lên.
+  reading: ''
+  annot: Vừa nói, tôi vừa ném cặp xách lên bàn và xắn tay áo lên.
+  translation_zh: 一边说着，我一边把书包扔上桌子，卷起了袖子。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 体貌
+- 并列
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

@@ -1,0 +1,31 @@
+id: vi-grm-00435
+language: vi
+type: grammar
+level: L3
+level_rank: 3
+title: mỗi lần... đều...：每当…总是…
+structure: mỗi lần + 情境, (主语) + đều + 动
+structure_pattern: Mỗi lần + mệnh đề, S + đều + V
+explanation_zh: mỗi lần 引出反复出现的情境「每当…」，后句用 đều（都）呼应，表示每次结果都一致「总是…」。用于描述习惯性、规律性的行为。
+examples:
+- text: Mỗi lần tụi con trai tìm cách bắt chuyện với nó, nó đều trả lời đàng hoàng.
+  reading: ''
+  annot: Mỗi lần tụi con trai tìm cách bắt chuyện với nó, nó đều trả lời đàng hoàng.
+  translation_zh: 每当男生们设法跟她搭话，她都礼貌地回答。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 频率/习惯
+- 关联结构
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

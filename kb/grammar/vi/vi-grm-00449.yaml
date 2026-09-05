@@ -1,0 +1,41 @@
+id: vi-grm-00449
+language: vi
+type: grammar
+level: L2
+level_rank: 2
+title: bị + V：不如意被动
+structure: S + bị + 施事者 + V（表示受损、不如意）
+structure_pattern: S + bị + NP_agent + V
+explanation_zh: 越南语被动句（câu bị động）分 được 与 bị 两类：được 表合意、受益，bị 表不如意、受损，结构均为「S +
+  bị/được + 施事 + 动词」。本段三次用 bị（bị hạch、bị đánh đòn tâm lý、bị gây sức ép），都表达主人公的无奈。中文「被」字句未必含贬义，但
+  bị 一定带不情愿色彩。
+examples:
+- text: hôm thì tôi bị Hồng Hoa hạch
+  reading: ''
+  annot: hôm thì tôi bị Hồng Hoa hạch
+  translation_zh: 有时我被红华盘问。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+- text: Bị Hải gầy gây sức ép, tôi nổi sùng, tính bỏ đi.
+  reading: ''
+  annot: Bị Hải gầy gây sức ép, tôi nổi sùng, tính bỏ đi.
+  translation_zh: 被瘦海一施压，我火了，打算走开。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 被动句
+- 句式
+- 语义色彩
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

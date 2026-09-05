@@ -1,0 +1,31 @@
+id: ko-grm-00732
+language: ko
+type: grammar
+level: TOPIK2
+level_rank: 2
+title: 「-(으)려고」：意图与打算
+structure: 동사 어간 + -(으)려고（+ 하다）
+structure_pattern: V-(으)려고 (하다)
+explanation_zh: -(으)려고 是表示意图、目的的连接词尾，常与 하다 搭配构成 -려고 하다（打算……）。文中 “독점하려고” 话未说完便被斥责，生动呈现意图被当场识破的场面。相当于中文“想要/打算……”。
+examples:
+- text: 루시, 너는 또 은근슬쩍 주군을 독점하려고……!
+  reading: ''
+  annot: 루시, 너는 또 은근슬쩍 주군을 독점하려고……!
+  translation_zh: 露西，你又想不声不响地独占主公……！
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 连接词尾
+- 意图
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

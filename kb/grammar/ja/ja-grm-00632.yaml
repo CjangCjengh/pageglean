@@ -1,0 +1,38 @@
+id: ja-grm-00632
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 「〜ことにする」：决定与“当作……”
+structure: 动词终止形＋形式名词「こと」＋する
+structure_pattern: V-終止形 + ことにする
+explanation_zh: 形式名词「こと」把前面的句子名词化，后接「する」表示说话人主观上做出决定或认定。既可用于“决定做某事”（决定把自己交给睡意），也可用于“明知并非如此却当作如此”（当作没发生）。后者带刻意无视事实的语感，是口语与小说中的常用表达。
+examples:
+- text: ……『無かった事にした』とは、何のことだ？
+  reading: ''
+  annot: ……『無[な]かった事[こと]にした』とは、何[なん]のことだ？
+  translation_zh: ……『就当没那回事』，你指的是什么？
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+- text: 一応最後まで聞いてから提案することにいたします
+  reading: ''
+  annot: 一応[いちおう]最後[さいご]まで聞[き]いてから提案[ていあん]することにいたします
+  translation_zh: 姑且先聽完全部內容，然後再提出建議吧
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 形式名词
+- 语气
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

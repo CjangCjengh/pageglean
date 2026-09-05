@@ -1,0 +1,31 @@
+id: ja-grm-00696
+language: ja
+type: grammar
+level: N2
+level_rank: 4
+title: 〜っぱなし：放任不管的状态（口语）
+structure: 動詞連用形（マス形語幹）＋っぱなし
+structure_pattern: V-ます形語幹 + っぱなし
+explanation_zh: 「っぱなし」接动词连用形，表示某种状态保持原样、无人收拾处理，含不满语气，相当于「〜たまま放置する」。属口语表达，片段中「脱ぎっぱなし」「点けっぱなし」连用，生动刻画邋遢习惯。
+examples:
+- text: 服は脱ぎっぱなしだし、布団は干さないし
+  reading: ''
+  annot: 服[ふく]は脱[ぬ]ぎっぱなしだし、布団[ふとん]は干[ほ]さないし
+  translation_zh: 衣服脱了乱扔，被子也不晒
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 体貌
+- 口语
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

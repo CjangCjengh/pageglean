@@ -1,0 +1,38 @@
+id: ja-grm-00725
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 〜のだ（んです）：解释说明语气
+structure: 動詞連体形＋のだ；名詞・な形容詞語幹＋な＋のだ
+structure_pattern: V-連体形 + のだ；N/ナ形容詞語幹 + な + のだ
+explanation_zh: 「のだ」接动词连体形（名词、な形容词加な），表示解释、说明或强调，带有说话人领悟、向对方主张的语气。口语中缩为「んだ」，礼貌体为「のです」。旁白用「そこにあったのだ」营造恍然自嘲的语气，人物台词「ゴミなのです」则让角色语气显得俏皮。
+examples:
+- text: そう、いわゆるＢＬ本がそこにあったのだ。
+  reading: ''
+  annot: そう、いわゆるＢＬ本[ほん]がそこにあったのだ。
+  translation_zh: 没错，那里放着的正是所谓的BL本。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+- text: ゴミッ！ ゴミなのですッ!!
+  reading: ''
+  annot: ゴミッ！ ゴミなのですッ!!
+  translation_zh: 垃圾！这就是垃圾啊！！
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 语气
+- 句末
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 4
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

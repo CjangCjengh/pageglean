@@ -1,0 +1,39 @@
+id: vi-grm-00493
+language: vi
+type: grammar
+level: L3
+level_rank: 3
+title: 强调否定：…gì hết 与 có…đâu
+structure: không/chẳng + V + gì hết；có + V + đâu
+structure_pattern: không/chẳng … gì hết | có + V + đâu
+explanation_zh: 越南语常用后置成分加强否定：gì hết 表示「什么都（不）……」，与 không / chẳng 呼应构成全盘否定。có + V
+  + đâu（可加 hồi nào）用于强烈否认做过某事，相当于「哪里……过、根本没」。两者都带有强烈的辩解语气。
+examples:
+- text: Không có trả gì hết!
+  reading: ''
+  annot: Không có trả gì hết!
+  translation_zh: 什么都不还！
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+- text: Tôi có đánh Tiểu Li hồi nào đâu.
+  reading: ''
+  annot: Tôi có đánh Tiểu Li hồi nào đâu.
+  translation_zh: 我什么时候打过小丽啊（我根本没打过她）。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 否定
+- 语气
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

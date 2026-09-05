@@ -1,0 +1,39 @@
+id: ja-grm-00717
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: のだ／んだ：解释与强调语气
+structure: 用言・助动词终止形＋形式名词「の」＋断定助动词「だ」（口语：んだ）
+structure_pattern: 普通体 + のだ/んだ
+explanation_zh: 形式名词「の」加断定助动词「だ」表示解释说明或强调，口语缩为「んだ」。用于问句时追问缘由（なにやってんだよ＝何をしているのだ），陈述句则加强理由（難しいんだから）。本段多处出现，是口语情绪表达的核心句式。
+examples:
+- text: あのバカ！なにやってんだよ！
+  reading: ''
+  annot: ''
+  translation_zh: 那个笨蛋！在搞什么啊！
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+- text: 聞こえないフリも難しいんだから。
+  reading: ''
+  annot: 聞[き]こえないフリも難[むずか]しいんだから。
+  translation_zh: 连假装听不见都很难啊，真是的。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 语气
+- 説明
+- 口語
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 5
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

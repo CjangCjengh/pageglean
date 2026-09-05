@@ -1,0 +1,33 @@
+id: ko-grm-00740
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: 「-든…-든…：无论……还是……」
+structure: 체언 + 보조사 -든(지)의 반복 (선택·무조건의 나열)
+structure_pattern: N-든(지) ... N-든(지)
+explanation_zh: -든(지) 反复并列两个或多个选项，表示「无论选哪一个都无所谓」，后句给出与选择无关的结论。与单纯列举选择的 -거나 不同，-든 带有无条件让步的意味。片段「여자든
+  어린아이든」强调性别和年龄都不影响结果。
+examples:
+- text: 능력만 있다면 여자든 어린아이든 얼마든지 높은 자리에 오를 수 있다.
+  reading: ''
+  annot: 능력만 있다면 여자든 어린아이든 얼
+  translation_zh: 只要有本事，不管是女人还是孩子，都能登上高位。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 选择
+- 让步
+- 连接词尾
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

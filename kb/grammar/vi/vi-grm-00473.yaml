@@ -1,0 +1,42 @@
+id: vi-grm-00473
+language: vi
+type: grammar
+level: L1
+level_rank: 1
+title: 时态副词 đã / đang / sẽ：过去、进行、将来
+structure: đã / đang / sẽ + 动词/形容词（置于谓词之前）
+structure_pattern: S + đã | đang | sẽ + V/Adj
+explanation_zh: 越南语动词不变形，时体意义靠谓词前的时体副词（phó từ chỉ thời–thể）表达：đã 表过去/完成，đang 表进行，sẽ
+  表将来。这些副词可以叠用，如片段中 đã thấy … đang đứng đợi（已经看见……正站着等）。它们与汉语的“了/着/将”并非一一对应，需按语境体会。
+examples:
+- text: Khi tôi lững thững dắt xe ra đã thấy Việt An, Hồng Hoa và Chiêu Minh đang
+    đứng đợi.
+  reading: ''
+  annot: Khi tôi lững thững dắt xe ra đã thấy Việt An, Hồng Hoa và Chiêu Minh đang
+    đứng đợi.
+  translation_zh: 我慢吞吞地推着车出来时，已看见越安、红花和昭明正站着等我。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+- text: Tôi hứa với Tiểu Li tôi sẽ cho nó thêm vài viên bi nữa để bỏ vô ly nước.
+  reading: ''
+  annot: Tôi hứa với Tiểu Li tôi sẽ cho nó thêm vài viên bi nữa để bỏ vô ly nước.
+  translation_zh: 我跟小丽许诺，会再给她几颗弹珠丢进水杯里。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 时态
+- 虚词
+- 体貌
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 7
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

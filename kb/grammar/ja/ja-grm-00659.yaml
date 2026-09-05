@@ -1,0 +1,32 @@
+id: ja-grm-00659
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 〜ことになる：结果与既定结论
+structure: 動詞終止形（含助動詞「れる」受身）＋形式名詞「こと」＋助動詞「なる」
+structure_pattern: V(終止形) + ことになる
+explanation_zh: 「こと」为形式名词，将前面的句子名词化；「ことになる」表示事情发展的结果或既定结论，相当于中文「结果是……」「（事情）变成了……」。此处与受身形「裏切られる」连用，强调愿望被彻底打破的结局。书面、口语均常用。
+examples:
+- text: 俺とリアの願いは――帰宅後、無人の自宅のリビングに残された置手紙により、完全に裏切られる事になった
+  reading: ''
+  annot: 俺[おれ]とリアの願[ねが]いは――帰宅後[きたくご]、無人[むじん]の自宅[じたく]のリビングに残[のこ]された置手紙[おきてがみ]により、完全[かんぜん]に裏切[うらぎ]られる事[こと]になった
+  translation_zh: 我和莉亚的心愿——在回家后，被留在空无一人的家中客厅里的一张字条彻底击碎了
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 形式名词
+- 归结
+- 受身
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 0
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

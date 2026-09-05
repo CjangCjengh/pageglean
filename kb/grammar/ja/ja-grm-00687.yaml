@@ -1,0 +1,31 @@
+id: ja-grm-00687
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 比况助动词「ようだ」：〜ように（像～一样）
+structure: 用言连体形 + 助动词ようだ（连用形「ように」作状语）
+structure_pattern: V-連体形 + 助動詞 ようだ（連用形：ように）
+explanation_zh: 比况助动词「ようだ」接体言或用言连体形，表示比喻与推测；其连用形「ように」作状语修饰后项动词。文中接连用「怯えるように」「枯れ木のように」「笑いをこらえるように」描摹情态。是文学描写中摹写状态的基本修辞手段。
+examples:
+- text: ただ、枯れ木のように朽ちていた。
+  reading: ''
+  annot: ただ、枯[か]れ木[き]のように朽[く]ちていた。
+  translation_zh: 只是，像枯木一般朽败着。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 比喻
+- 助动词
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 4
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

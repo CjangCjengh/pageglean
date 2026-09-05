@@ -1,0 +1,32 @@
+id: ko-grm-00794
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: -고 보니：做过之后才发现
+structure: 动词 + 연결어미 -고 + 보조동사 보니(보다)
+structure_pattern: V + -고 보니
+explanation_zh: 由连接词尾 -고 加补助动词 보다 构成，表示做完某事之后才发觉新情况，相当于“……之后才发现……”。常与 과연、의외로 等副词呼应。文中“도착하고
+  보니”引出到达后的发现。
+examples:
+- text: 과연 도착하고 보니 우리 일행 외에는 사람 그림자도 보이지 않았다.
+  reading: ''
+  annot: 과연 도착하고 보니 우리 일행 외에는 사람 그림자도 보이지 않았다.
+  translation_zh: 果然，到了之后一看，除了我们一行人，连个人影都看不见。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 连接词尾
+- 发现
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

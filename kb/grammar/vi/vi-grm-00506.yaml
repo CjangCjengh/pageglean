@@ -1,0 +1,31 @@
+id: vi-grm-00506
+language: vi
+type: grammar
+level: L3
+level_rank: 3
+title: đừng thèm + V：不屑劝阻「别稀罕/犯不着」
+structure: đừng + thèm + V
+structure_pattern: đừng + thèm + V
+explanation_zh: thèm 本意为「馋、渴望」，đừng thèm + 动词表示不屑或劝对方「别去稀罕/犯不着去做」，带轻蔑口吻。比单纯 đừng 多了鄙薄色彩，非常口语化。
+examples:
+- text: mày đừng thèm yêu Việt An nữa
+  reading: ''
+  annot: mày đừng thèm yêu Việt An nữa
+  translation_zh: 你就别再稀罕越安了。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 祈使
+- 语气
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

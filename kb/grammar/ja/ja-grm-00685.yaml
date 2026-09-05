@@ -1,0 +1,31 @@
+id: ja-grm-00685
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 〜はずだ：理应如此
+structure: 用言终止形 + 形式名词はず + だ/だった
+structure_pattern: V-終止形 + 形式名詞 はず + だ
+explanation_zh: 形式名词「はず」表示根据一定依据作出的有把握的推断，相当于“理应、应该”。当与事实相反或事与愿违时多用过去式「はずだった」，带遗憾、讽刺的余味，如「摑みとるはずだった名前」。还可后续「なんだ」等，表达不解、自语的语气（来たはずなんだけどな）。
+examples:
+- text: 俺の記憶では今週初めて学校に来たはずなんだけどな。
+  reading: ''
+  annot: 俺[おれ]の記憶[きおく]では今週[こんしゅう]初[はじ]めて学校[がっこう]に来[き]たはずなんだけどな。
+  translation_zh: 按我的记忆，这本该是这周第一次来学校才对啊。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 语气
+- 形式名词
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

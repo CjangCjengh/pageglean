@@ -1,0 +1,31 @@
+id: ja-grm-00647
+language: ja
+type: grammar
+level: N3
+level_rank: 3
+title: 〜わけでもない：委婉部分否定（并非……）
+structure: 文＋形式名詞「わけ」＋否定の助動詞「ではない／でもない」
+structure_pattern: 〜という + わけ + ではない
+explanation_zh: 「わけだ」表示据情理得出的结论，其否定形「わけではない」用于部分或委婉地否定，意为“并非如此”。此处老师连用两个委婉否定，传达出微妙含糊、左右为难的态度。口语与书面均可使用。
+examples:
+- text: もちろん、変というわけではありません。似合っていないというわけでも。
+  reading: ''
+  annot: もちろん、変[へん]というわけではありません。似合[にあ]っていないというわけでも。
+  translation_zh: 当然，并不是说奇怪。也不是说不合适。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 语气
+- 形式名词
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

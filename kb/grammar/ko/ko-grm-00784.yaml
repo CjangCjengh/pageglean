@@ -1,0 +1,32 @@
+id: ko-grm-00784
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: 「-는 척하다」：假装做某事
+structure: 동사 어간 + 관형사형 어미 -는 + 의존명사 ‘척’ + 동사 ‘하다’
+structure_pattern: V-는 척하다
+explanation_zh: 冠形词尾 -는 修饰依存名词 척（姿态、样子），再结合 하다，表示假装做某事。片段中随从劝公主对没听过的古语「装懂」，认为那才是礼节。中文即「假装……」「装作……」。
+examples:
+- text: 그냥 아는 척하십시오, 공주님. 그게 어르신에 대한 예의인 것 같습니다.
+  reading: ''
+  annot: 그냥 아는 척하십시오, 공주님. 그게 어르신에 대한 예의인 것 같습니다.
+  translation_zh: 您就装作知道吧，公主殿下。那样似乎才是对长辈的礼貌。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 依存名词
+- 惯用
+- 语用
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 7
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

@@ -1,0 +1,31 @@
+id: ja-grm-00700
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 「〜わけがない」：断定不可能
+structure: 用言連体形（或体言）＋形式名词「わけ」＋主格助词「が」＋形容词「ない」
+structure_pattern: V/A普通形 + 形式名词「わけ」 + が + ない
+explanation_zh: 形式名词「わけ」表示道理、情理，「〜わけがない」断定“没有那样的道理”，即绝不可能。文中用双重否定「ないわけがない」表示“不可能没有”，强调对逝者的悲伤理应存在。语气比「〜ないだろう」强硬得多。
+examples:
+- text: 普通はあるはずだ。ないわけがない。
+  reading: ''
+  annot: 普通[ふつう]はあるはずだ。ないわけがない。
+  translation_zh: 按常理应该是有的。不可能没有。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 语气
+- 形式名词
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

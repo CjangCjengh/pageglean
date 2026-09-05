@@ -1,0 +1,31 @@
+id: ja-grm-00660
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: かもしれない：主观推测
+structure: 用言終止形＋助動詞「かもしれない」（不確実な推量を表す）
+structure_pattern: V(終止形) + かもしれない
+explanation_zh: 「かもしれない」表示有相当可能性的主观推测，约五成把握，相当于「也许……」「说不定……」；口语中可简化为「かも」。片段两次出现，传达说话人心中「也许有人暗中联系了伊斯卡」这类不安的猜测。
+examples:
+- text: 夜中に、俺とリアが知らない手段で、イスカと連絡を取った相手がいるかもしれない
+  reading: ''
+  annot: 夜中[よなか]に、俺[おれ]とリアが知[し]らない手段[しゅだん]で、イスカと連絡[れんらく]を取[と]った相手[あいて]がいるかもしれない
+  translation_zh: 也许有人在半夜里用我和莉亚不知道的手段，跟伊斯卡取得了联系
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 助动词
+- 推测
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 0
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

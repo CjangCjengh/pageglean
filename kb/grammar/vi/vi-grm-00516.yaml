@@ -1,0 +1,41 @@
+id: vi-grm-00516
+language: vi
+type: grammar
+level: L2
+level_rank: 2
+title: đã từng / đã：曾经与已然（过去时副词）
+structure: đã từng + 动词（曾经有过经历）；đã + 动词（事情已经发生）
+structure_pattern: đã (từng) + V
+explanation_zh: đã 表示动作已经发生（已然），相当于汉语“了”；“已＋từng”连用则强调“曾经有过某种经历”。本段“đã từng dặn”是经验用法，“một
+  vết sẹo đã xuất hiện”是单纯已然。
+examples:
+- text: Hải gầy đã từng dặn tôi không bao giờ được "ca tụng" trước mặt một người con
+    gái về một người con gái khác
+  reading: ''
+  annot: Hải gầy đã từng dặn tôi không bao giờ được "ca tụng" trước mặt một người
+    con gái về một người con gái khác
+  translation_zh: 瘦海曾经告诫我，决不能在一个女孩面前“吹捧”另一个女孩
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+- text: kể từ lúc đó một vết sẹo đã xuất hiện trên trán cô bạn nhỏ của anh
+  reading: ''
+  annot: kể từ lúc đó một vết sẹo đã xuất hiện trên trán cô bạn nhỏ của anh
+  translation_zh: 从那以后，你的小女伴额头上便留下了一道疤
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 时态虚词
+- 经历
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

@@ -1,0 +1,32 @@
+id: ja-grm-00628
+language: ja
+type: grammar
+level: N3
+level_rank: 3
+title: 「〜ものだ」：解释缘由与感慨语气
+structure: 連体形＋ものだ（「ので」的变体，含情感色彩）
+structure_pattern: 連体形 + ものだ
+explanation_zh: 形式名词「もの」＋断定助動詞「だ」，与「のだ」类似但带有情感、感慨色彩，用于解释缘由或背景。原文以連用形「もので」结句引出下文说明原因。在轻小说中常见于女性角色或语气沉稳的角色陈述内情。
+examples:
+- text: その戦争は不本意に始まってしまったものでな。
+  reading: ''
+  annot: その戦争[せんそう]は不本意[ふほんい]に始[はじ]まってしまったものでな。
+  translation_zh: 那场战争，是在并非双方本意的情况下开始的啊。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 语气
+- 形式名词
+- 解释
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

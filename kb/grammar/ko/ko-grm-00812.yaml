@@ -1,0 +1,40 @@
+id: ko-grm-00812
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: 〜고 말다：终究……（结果与遗憾）
+structure: 动词词干 + -고 말다（表终究/最终发生，多含遗憾、后悔）
+structure_pattern: 용언 + -고 말다 (연결어미 -고 + 보조동사 '말다')
+explanation_zh: '''-고 말다''接在动词后，表示动作最终不可避免地发生，多带遗憾、后悔或强调''终究……''的语气。过去时用''-고 말았다''。文中''부르…오고
+  말았으니''''늦고 말았다''都强调事已至此、无法挽回。'
+examples:
+- text: 이미 돌이킬 수 없는 결과를 불러오고 말았으니―
+  reading: ''
+  annot: 이미 돌이킬 수 없는 결과를 불러오고 말았으니―
+  translation_zh: 终究还是招致了无法挽回的结果——
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+- text: 늦고 말았다.
+  reading: ''
+  annot: 늦고 말았다.
+  translation_zh: 终究还是太迟了。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 보조용언
+- 결과/유감
+- 연결어미
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

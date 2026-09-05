@@ -1,0 +1,38 @@
+id: ja-grm-00698
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 受身助动词「れる」＋ている：结果状态的描写
+structure: 動詞未然形＋れる＋ていた（受身文による結果状態の描写）
+structure_pattern: V未然形 + れる + ていた
+explanation_zh: 五段动词未然形接受身助动词「れる」。此处不表受害，而用「〜て書かれていた」描写笔记本上“已然写着……”的结果状态，是轻小说叙述中常见的描写手法。
+examples:
+- text: 翌々日にひときわまるっこい字で返事が書かれていた。
+  reading: ''
+  annot: 翌々日[よくじつじつ]にひときわまるっこい字[じ]で返事[へんじ]が書[か]かれていた。
+  translation_zh: 到了大后天，本子上出现了一行字迹格外圆润的回复。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+- text: とか書かれていたのでブチ切れた俺は、録画したドラマを大相撲で上書きしておいた。
+  reading: ''
+  annot: とか書[か]かれていたのでブチ切[き]れた俺[おれ]は、録画[ろくが]したドラマを大相撲[おおずもう]で上書[うわが]きしておいた。
+  translation_zh: 看到写着这种东西，我火冒三丈，把她录的电视剧用大相扑转播覆盖掉了。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 受身
+- 体貌
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 4
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

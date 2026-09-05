@@ -1,0 +1,39 @@
+id: vi-grm-00439
+language: vi
+type: grammar
+level: L2
+level_rank: 2
+title: mày/tao/nó：非正式人称代词
+structure: mày（你）/ tao（我）/ nó（他、她、它）
+structure_pattern: mày/tao/nó (ngôi 2/1/3, thân mật)
+explanation_zh: 越南语人称代词分正式与非正式。mày/tao/nó 是极随意的第二/第一/第三人称，用于亲密朋友、长辈对晚辈或带轻视的场合。叙述中
+  dùng tôi（我）较中性，对话里用 mày/tao 显示关系亲密或居高临下。
+examples:
+- text: Chắc là tại mày ăn kẹo nhiều quá!
+  reading: ''
+  annot: Chắc là tại mày ăn kẹo nhiều quá!
+  translation_zh: 肯定是因为你糖吃太多了！
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+- text: Lần sau có kẹo mày nhớ chia bớt cho tao, tao ăn giùm cho!
+  reading: ''
+  annot: Lần sau có kẹo mày nhớ chia bớt cho tao, tao ăn giùm cho!
+  translation_zh: 下次有糖你记得分我一些，我替你吃！
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 代词
+- 语体/敬语
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 8
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

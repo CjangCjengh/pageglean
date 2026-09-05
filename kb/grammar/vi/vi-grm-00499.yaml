@@ -1,0 +1,37 @@
+id: vi-grm-00499
+language: vi
+type: grammar
+level: L4
+level_rank: 4
+title: 「không thể nào…được」：怎么也……不了
+structure: không thể nào + 动词 + được
+structure_pattern: không thể nào + V + được
+explanation_zh: 「không thể nào…được」表示「怎么也……不了／根本无法……」，语气比单纯的 không thể 更强烈。được 置于动词后表示可能，整个结构前后呼应。
+examples:
+- text: tôi không thể nào cắt nghĩa được điều đó
+  reading: ''
+  annot: tôi không thể nào cắt nghĩa được điều đó
+  translation_zh: 我怎么也解释不清那是怎么回事。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+- text: một sự yếu hèn không thể tha thứ được
+  reading: ''
+  annot: một sự yếu hèn không thể tha thứ được
+  translation_zh: 一种不可饶恕的懦弱。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 能性/语气
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

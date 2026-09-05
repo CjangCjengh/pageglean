@@ -1,0 +1,31 @@
+id: ja-grm-00638
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 「〜のは〜だ」：名词化与焦点强调
+structure: 用言連体形＋形式名詞「の」＋提示助詞「は」（後接断定助動詞「だ」等叙述部分）
+structure_pattern: V(連体形) + の + は + …だ
+explanation_zh: 形式名词「の」将前面的用言连体形名词化，再用提示助词「は」提为话题或焦点，后文给出说明，构成强调句。可强调施事、对象、原因等，如本段强调泡红茶的是莉雅。口语中「の」常缩为「ん」（如「〜んだ」）。
+examples:
+- text: お姫様っていう身分だから、淹れてもらうのが普通なのかと思っていただけ
+  reading: ''
+  annot: お姫様っていう身分だから、淹れてもらうのが普通なのかと思っていただけ
+  translation_zh: 我还以为因为她是公主的身份，让人泡茶是理所当然的。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 形式名词
+- 焦点·强调
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

@@ -1,0 +1,32 @@
+id: ja-grm-00668
+language: ja
+type: grammar
+level: N2
+level_rank: 4
+title: 〜うが〜うが：无论A还是B都……
+structure: 动词未然形＋推量助动词「う」（形容词为语干＋「かろう」）＋逆接续助词「が」，前后并列表示让步
+structure_pattern: V-未然形 + う + が ／ Adj-語幹 + かろう + が
+explanation_zh: 动词推量形（未然形＋助动词「う」）及形容词「〜かろう」后接逆接续助词「が」，表示“不管有没有……都无所谓”的让步语气。是文言残留的书面表达，口语中多用「〜ても」替代，语感更为干脆洒脱。
+examples:
+- text: それなら力が有ろうが無かろうが関係ないよね？
+  reading: ''
+  annot: それなら力[ちから]が有[あ]ろうが無[な]かろうが関係[かんけい]ないよね？
+  translation_zh: 那样的话，（她）有没有力量都没关系吧？
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 让步
+- 逆接
+- 文语残留
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

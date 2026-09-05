@@ -1,0 +1,40 @@
+id: ko-grm-00813
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: 〜듯(이)：像……一样（比喻）
+structure: 动词词干 + -듯(이)（表比喻，'像……一样'）
+structure_pattern: 용언 어간 + -듯(이) (비유의 표현)
+explanation_zh: '''-듯(이)''表示比喻，相当于''像……一样''''仿佛……''。词干直接加''-듯(이)''，''이''可省略，多用于描写性比喻。文中''불이
+  켜지듯''(像灯亮起一样)、''거울에 꽂히듯''(像被钉在镜子上)都是生动比喻。'
+examples:
+- text: 어두운 방에 불이 켜지듯 확실하게 떠올랐다.
+  reading: ''
+  annot: 어두운 방에 불이 켜지듯 확실하게 떠올랐다.
+  translation_zh: 就像黑暗的房间里亮起灯一样，答案清晰地浮现出来。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+- text: 조금만 속도를 내려고 하면, 몸이 거울에 꽂히듯 부딪쳤다.
+  reading: ''
+  annot: 조금만 속도를 내려고 하면, 몸이 거울에 꽂히듯 부딪쳤다.
+  translation_zh: 只要稍微想加快速度，身体就像被钉在镜子上似的撞上去。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 비유
+- 부사어
+- 표현
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

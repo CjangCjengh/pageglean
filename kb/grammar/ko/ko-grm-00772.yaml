@@ -1,0 +1,39 @@
+id: ko-grm-00772
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: -고 말다：终究还是……了
+structure: 动词 + -고 말다
+structure_pattern: V-고 말다
+explanation_zh: 补助动词，表示经过某个过程最终出现（多为不如意或不可避免的）结果，相当于中文“终于还是……了”“……到最后”。常与끝내、결국等副词呼应，带有遗憾语气。
+examples:
+- text: 그 도시의 한복판에서, 가면 없는 남자는 끝내 주저앉고 말았다.
+  reading: ''
+  annot: 그 도시의 한복판에서, 가면 없는 남자는 끝내 주저앉고 말았다.
+  translation_zh: 在那座城市的正中央，没有戴面具的男人终究还是瘫坐在了地上。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+- text: 나도 모르게 뒷걸음질을 치고 말았다.
+  reading: ''
+  annot: 나도 모르게 뒷걸음질을 치고 말았다.
+  translation_zh: 我不由自主地倒退了几步。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 补助动词
+- 语气
+- 结果
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 4
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

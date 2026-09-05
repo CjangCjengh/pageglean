@@ -1,0 +1,32 @@
+id: ja-grm-00643
+language: ja
+type: grammar
+level: N3
+level_rank: 3
+title: 〜なくもない：並非不…（雙重否定）
+structure: 動詞未然形＋ない＋くもない（形容詞型二重否定）
+structure_pattern: V-未然形 + ない + くもない
+explanation_zh: 「分からない」的未然形「分からな」＋「くもない」，構成雙重否定，表示「並非不能理解＝某種程度上可以理解」。語氣比直接肯定更委婉含蓄，帶有保留態度。口語中也說「ないことはない」。
+examples:
+- text: あの容姿なら分からなくもないが
+  reading: ''
+  annot: あの容姿[ようし]なら分[わ]からなくもないが
+  translation_zh: （如果）是那副容貌的話，倒也不是不能理解啦
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 語氣
+- 否定
+- 口語
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

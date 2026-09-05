@@ -1,0 +1,39 @@
+id: vi-grm-00480
+language: vi
+type: grammar
+level: L3
+level_rank: 3
+title: vừa…đã…／chưa kịp…đã…：刚……就……
+structure: vừa + V1，đã + V2；chưa kịp + V1，đã + V2
+structure_pattern: vừa + V1 … đã + V2 / chưa kịp + V1 … đã + V2
+explanation_zh: vừa…đã… 表示前一动作刚发生、后一动作随即出现，即「刚……就……」；chưa kịp…đã… 表示「还没来得及做 V1，V2
+  就已发生」。两者均由体貌副词（phó từ）构成框架，强调两个事件相隔极短或出乎意料。
+examples:
+- text: 'Sáng hôm sau, tôi vừa ló mặt vô lớp, Lợi sứt đã hỏi:'
+  reading: ''
+  annot: 'Sáng hôm sau, tôi vừa ló mặt vô lớp, Lợi sứt đã hỏi:'
+  translation_zh: 第二天早上，我刚在教室里露脸，Lợi sứt 就问：
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+- text: 'Tôi chưa kịp đáp, nó đã cười hà hà:'
+  reading: ''
+  annot: 'Tôi chưa kịp đáp, nó đã cười hà hà:'
+  translation_zh: 我还来不及回答，他就已经呵呵笑了起来：
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 体貌
+- 复句
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

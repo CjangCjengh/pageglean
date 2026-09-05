@@ -1,0 +1,39 @@
+id: ja-grm-00657
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 〜てみる：试着做……
+structure: 動詞連用形＋接続助詞「て」＋補助動詞「みる」
+structure_pattern: V-連用形 + て + みる
+explanation_zh: 补助动词「みる」接动词连用形＋て，表示尝试做某事，意为“试着……”。口语中常以请求形「〜てみて」「〜てみてくれ」出现。
+examples:
+- text: なぁ、イスカ？ ちょっと『わんっ』って言ってみてくれ
+  reading: ''
+  annot: なぁ、イスカ？ ちょっと『わんっ』って言[い]ってみてくれ
+  translation_zh: 喂，伊斯卡？试着『汪』地叫一声看看。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+- text: うん、とにかく見てみるよ
+  reading: ''
+  annot: うん、とにかく見[み]てみるよ
+  translation_zh: 嗯，总之我先看看。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 体貌
+- 口语
+- 接续
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

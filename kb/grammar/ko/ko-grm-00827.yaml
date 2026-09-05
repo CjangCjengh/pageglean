@@ -1,0 +1,39 @@
+id: ko-grm-00827
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: 「-는 것처럼 / -듯이：仿佛……一般」
+structure: 动词 + -(으)ㄴ/는 것 + 처럼；动词词干 + -듯이
+structure_pattern: V-(으)ㄴ/는 것 + 처럼 / V-듯이
+explanation_zh: 依存名词 것에 后接助词 처럼 构成比喻，表示“像……一样”，常与副词 마치 呼应；-듯이 为同义的词尾形式，更具书面色彩。现在状态用
+  -는 것처럼，已完成的动作用 -(으)ㄴ 것처럼。
+examples:
+- text: 마치 누군가 잡고 여러 차례 비틀어 버린 것처럼 흉측한 모양으로 팔이 비틀어졌다.
+  reading: ''
+  annot: 마치 누군가 잡고 여러 차례 비틀어 버린 것처럼 흉측한 모양으로 팔이 비틀어졌다.
+  translation_zh: 手臂被拧成了骇人的形状，仿佛被谁抓住扭了好几次似的。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+- text: 희고 가는 실은 마치 살아 있는 것처럼 내 팔과 다리에 얽혀 들었다.
+  reading: ''
+  annot: 희고 가는 실은 마치 살아 있는 것처럼 내 팔과 다리에 얽혀 들었다.
+  translation_zh: 又白又细的丝线仿佛活物一般，缠上了我的胳膊和腿。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 比喻
+- 依存名词
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

@@ -1,0 +1,38 @@
+id: ko-grm-00837
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: -(으)ㄹ 정도로 / -(으)ㄴ 만큼：程度表达
+structure: 用言词干 -(으)ㄹ + 依存名词 정도；用言词干 -(으)ㄴ + 依存名词 만큼
+structure_pattern: V-(으)ㄹ 정도 + 로 / V-(으)ㄴ 만큼
+explanation_zh: 冠形词尾 -(으)ㄹ 修饰依存名词 정도，表示达到某种程度，“……到足以……的程度”；-(으)ㄴ 만큼 表示与前述内容相称的程度，“像……那样、越是……”。两者都是名词短语充当程度状语的高频结构。本片段两处并用，极力渲染力量之巨与瞬间之短。
+examples:
+- text: 그 마법진의 넓이만큼, 사방 몇십 미터쯤은 가뿐히 폐허로 만들 정도의 힘이 부대꼈다.
+  reading: ''
+  annot: 그 마법진의 넓이만큼, 사방 몇십 미터쯤은 가뿐히 폐허로 만들 정도의 힘이 부대꼈다.
+  translation_zh: 那股力量与魔法阵的广阔相称，足以轻易将方圆几十米化作废墟。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+- text: 요나가 버린 8년과, 이브가 악마에게 매어 있던 지난 300년과, 내 지긋지긋한 400년 삶의 세월이 무상하게 여겨질 만큼 짧은 순간이었다.
+  reading: ''
+  annot: 요나가 버린 8년과, 이브가 악마에게 매어 있던 지난 300년과, 내 지긋지긋한 400년 삶의 세월이 무상하게 여겨질 만큼 짧은 순간이었다.
+  translation_zh: 那是如此短暂的一瞬，短到约纳虚度的八年、伊芙被恶魔束缚的三百年，还有我那令人腻烦的四百年岁月，都显得虚幻无常。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 依存名词
+- 程度
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

@@ -1,0 +1,32 @@
+id: ko-grm-00820
+language: ko
+type: grammar
+level: TOPIK2
+level_rank: 2
+title: -기 때문이다：是因为……（原因）
+structure: 동사/형용사 어간 + -기 때문이다
+structure_pattern: 명사형 전성어미 -기 + 의존명사 때문 + 서술격 조사 이다
+explanation_zh: 名词形转成词尾 -기 使前句名词化，再加依存名词 때문이다，用于说明原因或根据，书面色彩较强，相当于中文"是因为……"。口语中多用
+  -아/어서。片段中用以解释男人决定宽恕的原因。
+examples:
+- text: 요나가 나서서 헬로이스 영주가 이 사태를 보상해 줄 거라고 말해 주었기 때문이다.
+  reading: ''
+  annot: 요나가 나서서 헬로이스 영주가 이 사태를 보상해 줄 거라고 말해 주었기 때문이다.
+  translation_zh: 是因为约娜出面告诉我，艾洛伊丝领主会补偿这次事态。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 原因
+- 依存名词
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

@@ -17,6 +17,13 @@ examples:
   source_book: book-ko-015
   source_chapter: null
   pointer: null
+- text: 마석 생산뿐만 아니라 고대 문명의 고위층을 위한 별장 역할도 하고 있었기 때문이다.
+  reading: ''
+  annot: 마석 생산뿐만 아니라 고대 문명의 고위층을 위한 별장 역할도 하고 있었기 때문이다.
+  translation_zh: （因为它）不仅产出魔石，还曾充当古代文明高层的别墅。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
 related:
   cross_lang: []
   same_lang: []

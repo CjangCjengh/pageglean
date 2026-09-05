@@ -1,0 +1,32 @@
+id: ko-grm-00799
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: -는 탓에：「都怪……」（消极原因）
+structure: 관형사형 전성어미 '-는' + 의존명사 '탓' + 부사격 조사 '에'
+structure_pattern: V/Adj-는 탓에
+explanation_zh: 依存名词 탓（过错、缘由）与副词格助词 에 搭配，表示导致消极结果的原因，相当于中文「都怪……」「因为……（才）」。后句多为不如意、意外或辩解性的结果，片段中叙述者借此把眼前画面归咎于对方的站姿，带有自嘲口吻。
+examples:
+- text: 키이리가 뒷짐을 진 자세로 서 있는 탓에, 뽀얀 가슴팍과 배 부분이, 허벅지가, 팔뚝이 고스란히 시야에 다 들어왔다.
+  reading: ''
+  annot: 키이리가 뒷짐을 진 자세로 서 있는 탓에, 뽀얀 가슴팍과 배 부분이, 허벅지가, 팔뚝이 고스란히 시야에 다 들어왔다.
+  translation_zh: 都怪琪莉背着手站着，白皙的胸口和腰腹、大腿、手臂便一览无余地映入眼帘。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 원인/이유
+- 의존명사
+- 조사
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

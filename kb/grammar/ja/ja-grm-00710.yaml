@@ -1,0 +1,32 @@
+id: ja-grm-00710
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 〜のだ（んだ）：解释说明语气
+structure: 用言・助動詞終止形（简体）＋のだ／んだ
+structure_pattern: V/A-終止形(简体) + んだ（のだ）
+explanation_zh: 形式名词「の」将前句体言化，后续「だ」构成解释原因、说明事态的语气，口语中音便为「ん」。独白与对话中极为高频，常带埋怨、感慨或恍然的口吻。本段多处可见，是轻小说口语叙述的核心句式之一。
+examples:
+- text: そもそもなんでベッドの下なんて漁ってるんだよ。
+  reading: ''
+  annot: そもそもなんでベッドの下[した]なんて漁[あさ]ってるんだよ。
+  translation_zh: 话说回来，干嘛翻人家的床底下啊。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 语气
+- 形式名词
+- 口语
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 4
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

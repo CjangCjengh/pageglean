@@ -1,0 +1,31 @@
+id: ja-grm-00682
+language: ja
+type: grammar
+level: N3
+level_rank: 3
+title: 助词「〜し」：列举理由（…又…）
+structure: 文（終止形）＋助詞「し」（理由の列挙）
+structure_pattern: 普通形 + し
+explanation_zh: 助词「し」接于句末，列举多个理由中的一项，含“既…又…”之意，语气较随意。此处“反正也只是在打闹嘛”。常与「から／だし」呼应，口语与叙述均常见。
+examples:
+- text: じゃれ合ってるだけみたいだし
+  reading: ''
+  annot: じゃれ合[あ]ってるだけみたいだし
+  translation_zh: 反正看起来也只是在打闹罢了。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 助词
+- 理由
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 0
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

@@ -1,0 +1,38 @@
+id: ko-grm-00822
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: -아/어 버리다：彻底做完、干脆除掉（补助动词）
+structure: 동사 어간 + -아/어 버리다
+structure_pattern: 본용언(동사) + 연결어미 -아/어 + 보조동사 버리다
+explanation_zh: 补助动词 버리다 表示动作彻底完成或把某物处置掉，常带"干脆……掉"的语感。片段中与 없애다/치우다 反复连用，强调主人公要彻底除掉硬币的决心。
+examples:
+- text: 없애 버려야 한다.
+  reading: ''
+  annot: 없애 버려야 한다.
+  translation_zh: 必须把它除掉。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+- text: 저 요망한 물건을 치워 버려야 한다.
+  reading: ''
+  annot: 저 요망한 물건을 치워 버려야 한다.
+  translation_zh: 必须把那邪门的东西丢掉。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 补助动词
+- 完成体
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

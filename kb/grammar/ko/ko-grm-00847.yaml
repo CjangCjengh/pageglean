@@ -1,0 +1,31 @@
+id: ko-grm-00847
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: -기 마련이다：理所当然、必然如此
+structure: 动词/形容词 + 명사형 어미 -기 + 의존명사 마련 + 이다
+structure_pattern: V/A + -기 마련이다
+explanation_zh: 依存名词 마련 表示“理所当然、注定如此”，接在谓词名词形后，强调按常理必然产生的结果，相当于汉语“自然会……”“总会……”。文中约娜用它给自己找台阶：“所谓应用篇，自然是需要练习对象的”。带有解释、辩解的语气色彩。
+examples:
+- text: 으, 응용이라 함은 연습 상대가 필요하기 마련인지라, 호, 혹시 필요하시다면 언제든 절 불러 주셔도…….
+  reading: ''
+  annot: 으, 응용이라 함은 연습 상대가 필요하기 마련인지라, 호, 혹시 필요하시다면 언제든 절 불러 주셔도…….
+  translation_zh: 那、那个，所谓应用篇嘛，自然是需要练习对象的，所、所以如果您有需要，随时叫我也……
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 依存名词
+- 语气
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

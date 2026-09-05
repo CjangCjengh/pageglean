@@ -1,0 +1,31 @@
+id: vi-grm-00507
+language: vi
+type: grammar
+level: L4
+level_rank: 4
+title: Chỉ tổ + V：「只会弄得/净添」
+structure: Chỉ + tổ + V/Adj
+structure_pattern: chỉ + tổ + V
+explanation_zh: 「chỉ tổ + 动词/形容词」表示某事只会带来负面结果，相当于中文「只会弄得/净是添乱」。tổ 在此为口语虚词，整个结构含贬义与不屑，常用于泼冷水。
+examples:
+- text: Chỉ tổ rối trí!
+  reading: ''
+  annot: Chỉ tổ rối trí!
+  translation_zh: 只会让人心烦意乱罢了！
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 语气
+- 口语
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 4
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

@@ -1,0 +1,31 @@
+id: ja-grm-00674
+language: ja
+type: grammar
+level: N3
+level_rank: 3
+title: 〜ようとする：试图……／正要……
+structure: 動詞意志形（助動詞「う/よう」終止形） + とする
+structure_pattern: V-意志形 + と + する
+explanation_zh: 助动词「う/よう」表意志，后接「とする」表示"试图……／正要……"。既可描写有意识地努力去做，也可表示动作即将发生，「としたとき」常用于"正要……时"的场景铺垫。句中「責任を取ろうとする」即"会愿意（试图）承担责任"。
+examples:
+- text: 父さん達も、自分達が下した指令の結果なら、責任を取ろうとするはず。
+  reading: ''
+  annot: 父[とう]さん達[たち]も、自分[じぶん]達[たち]が下[くだ]した指令[しれい]の結果[けっか]なら、責任[せきにん]を取[と]ろうとするはず。
+  translation_zh: 爸妈他们也是，如果是自己下达的指令造成的结果，想必也会愿意承担责任的。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 助动词
+- 体貌
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 0
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

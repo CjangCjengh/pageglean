@@ -1,0 +1,39 @@
+id: ja-grm-00712
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: ちゃう／ちゃった：〜てしまう的口语缩约
+structure: 動詞連用形＋てしまう → ちゃう
+structure_pattern: V-連用形 + て + しまう → ちゃう
+explanation_zh: 「〜てしまう」在口语中缩约为「ちゃう」，表示完成或带来遗憾、难为情的结果。片段中既有缩约体「失敗しちゃった」，也有原形「しまった」，可对照体会。遗憾语气的「しまった」是独白中的高频感叹。
+examples:
+- text: 失敗しちゃったけど、ヒーローになりたかったんだよね。
+  reading: ''
+  annot: 失敗[しっぱい]しちゃったけど、ヒーローになりたかったんだよね。
+  translation_zh: 虽然搞砸了，但你是想成为英雄来着对吧。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+- text: くそ……しまった……隠し残しが……っ！
+  reading: ''
+  annot: くそ……しまった……隠[かく]し残[のこ]しが……っ！
+  translation_zh: 可恶……糟了……还有漏藏起来的……！
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 体貌
+- 口语
+- 缩约形
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

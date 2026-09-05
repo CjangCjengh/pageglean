@@ -15,6 +15,13 @@ examples:
   source_book: book-ja-007
   source_chapter: null
   pointer: null
+- text: まぁギブアンドテイクしといたから訴えられることはないといいな！
+  reading: ''
+  annot: まぁギブアンドテイクしといたから訴[うった]えられることはないといいな！
+  translation_zh: 嘛，我已经做好了礼尚往来（扯平），但愿不会被起诉吧！
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
 related:
   cross_lang: []
   same_lang: []

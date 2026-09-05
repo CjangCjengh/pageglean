@@ -1,0 +1,38 @@
+id: ja-grm-00706
+language: ja
+type: grammar
+level: N2
+level_rank: 4
+title: 〜ものだ：事情本就如此
+structure: 動詞終止形＋ものだ（形式名詞＋断定）
+structure_pattern: V-終止形 + ものだ
+explanation_zh: 形式名词「もの」＋断定「だ」，表示“事情本来就是这样、总会如此”，带有概括与感慨语气。文中两次用「大抵ひとりはいるものだ」引出“总会出这么一个人”，形成排比修辞。注意与回忆过去的「〜たものだ」及表示命令口吻的「ものだ」相区别。
+examples:
+- text: 大抵ひとりはいるものだ。泳げない子が。水を異常に恐がる弱虫が。
+  reading: ''
+  annot: 大抵[たいてい]ひとりはいるものだ。泳[およ]げない子[こ]が。水[みず]を異常[いじょう]に恐[こわ]がる弱虫[よわむし]が。
+  translation_zh: 总会出这么一个的——不会游泳的家伙，怕水怕得要命的胆小鬼。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+- text: 大抵ひとりはいるものだ。かっこつける奴が。
+  reading: ''
+  annot: 大抵[たいてい]ひとりはいるものだ。かっこつける奴[やつ]が。
+  translation_zh: 总会出这么一个家伙——爱耍帅的家伙。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 语气
+- 形式名詞
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

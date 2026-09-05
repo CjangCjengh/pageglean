@@ -1,0 +1,31 @@
+id: ja-grm-00720
+language: ja
+type: grammar
+level: N2
+level_rank: 4
+title: ただでさえ〜のに：本来就…却还…
+structure: ただでさえ＋用言（已然状況）＋接続助詞「のに」
+structure_pattern: ただでさえ + V/A + のに
+explanation_zh: 「ただでさえ…のに」意為「本來就已經…，卻又…」，強調糟糕狀況的層層疊加。其中「のに」是表示逆接的接続助詞，帶有不滿、無奈的語氣。這是輕小說角色發牢騷、渲染窘境的口語高頻句式。
+examples:
+- text: ただでさえテンパってボタンを外せないのに、それをハラハラしながら見守るかすみちゃんのせいで余計に焦ってボタンを外せない俺。
+  reading: ''
+  annot: ただでさえテンパってボタンを外[はず]せないのに、それをハラハラしながら見守[みまも]るかすみちゃんのせいで余計[よけい]に焦[あせ]ってボタンを外[はず]せない俺[おれ]。
+  translation_zh: 我本来就慌得解不开纽扣，又被霞提心吊胆地注视着，结果更着急、越发解不开纽扣了。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 接续
+- 语气
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

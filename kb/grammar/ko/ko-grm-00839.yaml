@@ -1,0 +1,39 @@
+id: ko-grm-00839
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: 「-(으)ㄴ/는 듯：仿佛……似的」
+structure: 용언 어간 + 관형사형 어미 '-(으)ㄴ/는' + 의존명사 '듯'
+structure_pattern: V/A + -(으)ㄴ/는 듯
+explanation_zh: 依存名词 듯 表示“样子、模样”，与冠形词形语尾 -(으)ㄴ/는 结合表示比喻或推测，相当于中文“仿佛……似的”。在句中多作状语，修饰后面的动作或状态。片段中“지우듯”“……냐는
+  듯”“괴로운 듯”反复出现，用于描绘伴随的情态。
+examples:
+- text: 메아리치는 가로의 목소리를 지우듯, 브룬이 가늘게 웃으며 말을 이었다.
+  reading: ''
+  annot: 메아리치는 가로의 목소리를 지우듯, 브룬이 가늘게 웃으며 말을 이었다.
+  translation_zh: 仿佛要抹去远方回荡着的卡洛的声音似的，布鲁恩微微一笑，接着说道。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+- text: 언제 쓰러져 있었냐는 듯 자리에서 일어나 제 갈 길을 찾아 속속 흩어졌다.
+  reading: ''
+  annot: 언제 쓰러져 있었냐는 듯 자리에서 일어나 제 갈 길을 찾아 속속 흩어졌다.
+  translation_zh: （众人）仿佛不曾倒下过似的，纷纷起身，各自寻路，陆续散去。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 比喻/推测
+- 依存名词
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

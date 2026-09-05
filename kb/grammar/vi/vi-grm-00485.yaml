@@ -1,0 +1,39 @@
+id: vi-grm-00485
+language: vi
+type: grammar
+level: L2
+level_rank: 2
+title: 疑问结构：…chưa？／…chi vậy？／…là sao？
+structure: 陈述语序 + 疑问虚词（chưa / chi / sao）
+structure_pattern: clause + chưa? / chi + vậy? / là + sao?
+explanation_zh: 越南语疑问句不改变语序，靠疑问虚词标记：句末 chưa 询问「……了没有」；chi 是方言中的 gì（什么／为什么），加 vậy 构成询问原因或目的的「chi
+  vậy？」；「là sao？」直问「是什么意思／怎么回事」。
+examples:
+- text: Mày mò tới nhà nó chi vậy?
+  reading: ''
+  annot: Mày mò tới nhà nó chi vậy?
+  translation_zh: 你摸到她家去干什么？
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+- text: Bắt chước người Pháp là sao?
+  reading: ''
+  annot: Bắt chước người Pháp là sao?
+  translation_zh: 模仿法国人是怎么回事？
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 疑问
+- 语气
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 4
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

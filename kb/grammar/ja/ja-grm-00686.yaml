@@ -1,0 +1,31 @@
+id: ja-grm-00686
+language: ja
+type: grammar
+level: N5
+level_rank: 1
+title: 〜のだ／〜んです：解释与主张的语气
+structure: 用言终止形 + 准体助词の + 助动词だ／です（口语缩略为「んだ」）
+structure_pattern: V-終止形 + の + 助動詞 だ/です
+explanation_zh: 「のです」是「のだ」的礼貌体：准体助词（形式名词）「の」把前述内容名词化，再由判断助动词「だ/です」结句，用于解释说明、主张或寻求对方理解。少女反复说「記憶がないんです」，强调申辩语气；主人公独白则用口语缩略形「んだ」（訊いてみたかったんだ）。书面语与口语形式不同，需注意区分。
+examples:
+- text: 先生、冗談抜きで記憶がないんですって
+  reading: ''
+  annot: 先生[せんせい]、冗談[じょうだん]抜[ぬ]きで記憶[きおく]がないんですって
+  translation_zh: 老师，我不是开玩笑，是真的没有记忆了。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 句末语气
+- 语气
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 6
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

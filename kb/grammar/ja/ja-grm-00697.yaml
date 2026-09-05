@@ -1,0 +1,37 @@
+id: ja-grm-00697
+language: ja
+type: grammar
+level: N5
+level_rank: 1
+title: 〜のです／〜のだ：解释与强调语气
+structure: 普通形＋のだ／のです（准体助詞「の」＋断定的助動詞）
+structure_pattern: 普通形 + のだ/のです
+explanation_zh: 准体助词「の」加断定表达「だ／です」构成「のだ／のです」，用于解释缘由或强调主张，语气比直接断定更强。妹妹的口癖「〜なのです！」和规则条文中的「〜のだ！」都靠它营造煞有介事的口吻。
+examples:
+- text: さ、さっさと準備するのです！
+  reading: ''
+  annot: さ、さっさと準備[じゅんび]するのです！
+  translation_zh: 快、快点准备啦！
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+- text: ルール４：処理に気をつかうのだ！
+  reading: ''
+  annot: ルール４：処理[しょり]に気[き]をつかうのだ！
+  translation_zh: 规则四：在“处理”问题上要多花点心思！
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 语气
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 6
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

@@ -1,0 +1,38 @@
+id: ja-grm-00631
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 「〜てしまう」：完成与遗憾
+structure: 动词连用形＋补助动词「しまう」（完了「しまった」）
+structure_pattern: V-連用形 + て + しまう[補助動詞]
+explanation_zh: 补助动词「しまう」接动词连用形，表示动作彻底完成，且常带“无可挽回”的遗憾、后悔语气。文中既有后悔义（做了不得了的事），也有单纯处理完毕义（拿去做肥料），可对比体会。口语中常缩略为「〜ちゃう」。
+examples:
+- text: 一晩おいて冷静になると、もの凄い事をしてしまった気がする。
+  reading: ''
+  annot: 一晩[ひとばん]おいて冷静[れいせい]になると、もの凄い事[こと]をしてしまった気[き]がする。
+  translation_zh: 过了一晚冷静下来后，总觉得我好像干了件不得了的事。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+- text: そんな物、必要とあらば家庭菜園のトマトの肥料にでもしてしまう所存
+  reading: ''
+  annot: そんな物[もの]、必要[ひつよう]とあらば家庭菜園[かていさいえん]のトマトの肥料[ひりょう]にでもしてしまう所存[しょぞん]
+  translation_zh: 那种东西，若有需要，我打算拿去给家庭菜园的番茄当肥料。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 体貌
+- 语气
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

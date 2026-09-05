@@ -1,0 +1,31 @@
+id: ja-grm-00705
+language: ja
+type: grammar
+level: N3
+level_rank: 3
+title: 〜ば〜ほど：越……越……
+structure: 用言仮定形＋ば ＋ 用言終止形＋ほど
+structure_pattern: V-仮定形 + ば + V-終止形 + ほど
+explanation_zh: 前后两项用同一动词的「仮定形＋ば」与「終止形＋ほど」呼应，表示程度随前项加深，即“越……越……”。句中「書こうとする」由动词未然形＋意志助動詞「う」再加补助动词「とする」构成，表示“试图去写”。全句意为越想认真写，字迹反而越乱。
+examples:
+- text: 丁寧に書こうとすればするほど、文字は乱れる。
+  reading: ''
+  annot: 丁寧[ていねい]に書[か]こうとすればするほど、文字[もじ]は乱[みだ]れる。
+  translation_zh: 越是想要写得工整些，字迹就越是乱起来。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 程度
+- 仮定
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

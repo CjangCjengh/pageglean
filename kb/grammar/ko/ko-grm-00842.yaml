@@ -1,0 +1,32 @@
+id: ko-grm-00842
+language: ko
+type: grammar
+level: TOPIK2
+level_rank: 2
+title: 「-지 않아도 되다：不必……」
+structure: 용언 어간 + 부정 보조사 '지' + 연결어미 '-아/어도' + 보조용언 '되다'
+structure_pattern: V/A + -지 않아도 되다
+explanation_zh: 否定形 -지 않다 与让步连接词尾 -아/어도 再结合补助动词 되다，表示没有必要做某事，相当于中文“不必……”“不用……”。与“더
+  이상”连用时强调“再也不必”。片段中约娜说“해치지 않아도 되니까”，表达如释重负之感。
+examples:
+- text: 이제 더 이상 사람을…… 해치지 않아도 되니까…….
+  reading: ''
+  annot: 이제 더 이상 사람을…… 해치지 않아도 되니까…….
+  translation_zh: 因为从此再也不必……伤害人了……
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 义务/必要
+- 否定
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

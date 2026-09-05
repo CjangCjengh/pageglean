@@ -1,0 +1,39 @@
+id: vi-grm-00476
+language: vi
+type: grammar
+level: L2
+level_rank: 2
+title: 疑问代词 gì / nào / đâu / sao（原位使用）
+structure: gì（什么）/ nào（哪）/ đâu（哪里）/ sao（怎么）置于句中原位
+structure_pattern: … + gì | nào | đâu | sao + …（疑问代词不前置）
+explanation_zh: 越南语疑问代词与汉语一样原位使用，不前移：gì 问事物，nào 问选择（常置于数词或名词之后，如 hai người nào），đâu
+  问地点，sao 问原因或方式。含疑问代词的句子不需要再加其他疑问词。片段中 Sao kỳ vậy? 即“怎么这么奇怪？”。
+examples:
+- text: Tuần sau hai người nào đi trước?
+  reading: ''
+  annot: Tuần sau hai người nào đi trước?
+  translation_zh: 下星期是哪两个人先去？
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+- text: Sao kỳ vậy?
+  reading: ''
+  annot: Sao kỳ vậy?
+  translation_zh: 怎么这么奇怪？
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 疑问
+- 代词
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 8
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

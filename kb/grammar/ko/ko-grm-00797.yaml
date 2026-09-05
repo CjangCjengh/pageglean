@@ -1,0 +1,40 @@
+id: ko-grm-00797
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: -잖아：「不是……嘛」（提示显而易见的事实或理由）
+structure: 종결어미 '-잖아'（'-지 않아'의 축약형, 해체/반말）
+structure_pattern: V/Adj-잖아 (← -지 않다)
+explanation_zh: 终结词尾 -잖아 是 -지 않아 的缩略，用于平语（해체）对话，向对方提示双方已知或显而易见的事实、理由，相当于中文「不是……嘛」「不是不能……吗」。语感比
+  -잖아 요 更随意，是口语体小说对话的标志性表达，本片段出现三次。
+examples:
+- text: 그렇지만 공주님이 수영복 차림으로 사람 많은 바닷가를 활보할 수는 없잖아?
+  reading: ''
+  annot: 그렇지만 공주님이 수영복 차림으로 사람 많은 바닷가를 활보할 수는 없잖아?
+  translation_zh: 不过，公主穿着泳装在人多的海滩上招摇过市，那可使不得呀？
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+- text: 최소한의 부분을 가린 게 전부잖아?!
+  reading: ''
+  annot: 최소한의 부분을 가린 게 전부잖아?!
+  translation_zh: 不就只遮住了最基本的部位吗？！
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 종결어미
+- 구어
+- 축약
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 4
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

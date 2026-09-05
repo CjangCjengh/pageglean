@@ -1,0 +1,38 @@
+id: ja-grm-00753
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 命令形与禁止形：「やめろ」「来るな」
+structure: 動詞の命令形（下一段「ろ」／五段エ段音）；動詞連体形＋禁止の助詞「な」
+structure_pattern: V命令形 ; V連体形 + な
+explanation_zh: 学校文法中命令形是动词活用形之一，下一段活用词尾为「ろ」（やめろ、捨てろ），五段活用词尾变エ段（聞け）。禁止形则是动词连体形后接禁止助词「な」（来るな），表示强烈制止。本片段命令与禁止高频出现，体现紧迫对峙的场面。
+examples:
+- text: やめろ、風城。そのライターを捨てろ
+  reading: ''
+  annot: やめろ、風城[かぜしろ]。そのライターを捨[す]てろ
+  translation_zh: 住手，风城。把那个打火机扔掉。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+- text: 来るな！
+  reading: ''
+  annot: 来[く]るな！
+  translation_zh: 别过来！
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 動詞活用
+- 語気
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 10
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

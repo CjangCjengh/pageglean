@@ -1,0 +1,33 @@
+id: ko-grm-00789
+language: ko
+type: grammar
+level: TOPIK5
+level_rank: 5
+title: 「-(으)ㄹ 텐데」：推测加委婉的劝告与遗憾
+structure: 용언 어간 + 관형사형 어미 -(으)ㄹ + 의존명사 ‘터’ + ‘이다’ + 연결어미 -ㄴ데
+structure_pattern: V/A-(으)ㄹ 터인데 → -(으)ㄹ 텐데
+explanation_zh: 冠形词尾 -(으)ㄹ 修饰依存名词 터（推测的事实、打算），再经 이다 的连接形 -ㄴ데，表示说话人对尚未实现之事的推测。同时以委婉语气带出担心、遗憾或劝告，留有余地让对方体味。片段中「나을
+  텐데?」是半带威胁半带劝诱的警告：「讨好我才好」。
+examples:
+- text: 나에게 잘 보이는 게 나을 텐데? 안 그러면 얼음과자를 사 주지 않을 거니까!
+  reading: ''
+  annot: 나에게 잘 보이는 게 나을 텐데? 안 그러면 얼음과자를 사 주지 않을 거니까!
+  translation_zh: 你们最好乖乖讨好我才好？不然我可就不给你们买冰点心了！
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 依存名词
+- 推测
+- 语气
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 6
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

@@ -1,0 +1,39 @@
+id: vi-grm-00460
+language: vi
+type: grammar
+level: L2
+level_rank: 2
+title: nếu…thì：条件复句
+structure: 成对关联词（cặp quan hệ từ）表条件：nếu + 条件分句，thì + 结果分句
+structure_pattern: nếu + Clause, thì + Clause
+explanation_zh: nếu 引出条件，thì 引出结果，对应汉语“如果……就……”。文中被拆成三个话轮：“Nếu Việt An không tin thì...”——“Thì
+  sao?”——“Thì rồi Việt An sẽ tin.”，thì 可在后续句首单独承接。结果句可加 sẽ 表将来。
+examples:
+- text: Tôi nói thật đó! Nếu Việt An không tin thì...
+  reading: ''
+  annot: Tôi nói thật đó! Nếu Việt An không tin thì...
+  translation_zh: 我说的是真的！如果越安不相信的话，那……
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+- text: Thì rồi Việt An sẽ tin.
+  reading: ''
+  annot: Thì rồi Việt An sẽ tin.
+  translation_zh: 那么，总有一天越安会相信的。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 条件
+- 复句
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

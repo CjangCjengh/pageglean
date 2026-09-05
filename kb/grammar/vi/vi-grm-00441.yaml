@@ -1,0 +1,31 @@
+id: vi-grm-00441
+language: vi
+type: grammar
+level: L2
+level_rank: 2
+title: 「rồi」：句末的完成与已然
+structure: S + V + rồi（句末）
+structure_pattern: V + rồi (phó từ chỉ thể hoàn thành, cuối câu)
+explanation_zh: 「rồi」作句末语气副词（phó từ chỉ thể），表示动作已经完成或情况已经变化，相当于中文句末的「了」。与动词前的「đã」不同，句末「rồi」侧重「已经如此」的既成事实。
+examples:
+- text: Tôi quên chuyện đó rồi!
+  reading: ''
+  annot: Tôi quên chuyện đó rồi!
+  translation_zh: 我已经忘了那件事了！
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 体貌
+- 虚词
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

@@ -1,0 +1,32 @@
+id: ko-grm-00843
+language: ko
+type: grammar
+level: TOPIK5
+level_rank: 5
+title: 「-ㄹ 리 없다：绝无可能」
+structure: 용언 어간 + 관형사형 어미 '-(으)ㄹ' + 의존명사 '리' + 서술어 '없다'
+structure_pattern: V/A + -(으)ㄹ 리 없다
+explanation_zh: 依存名词 리 表示“道理、逻辑”，与冠形词形语尾 -(으)ㄹ 结合构成 “-(으)ㄹ 리 없다”，断言某事绝无可能，语气比单纯的可能性否定更强烈。片段中用以转述希娜的论断，并以
+  -기 때문이다 引出其理由依据。
+examples:
+- text: 악마보다 강하고 농도 짙은 마력을 가진 인간이 존재할 리 없기 때문이라는 게 그녀의 논리였다.
+  reading: ''
+  annot: 악마보다 강하고 농도 짙은 마력을 가진 인간이 존재할 리 없기 때문이라는 게 그녀의 논리였다.
+  translation_zh: 她的逻辑是：魔力比恶魔更强大、更浓郁的人，是不可能存在的。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 断定
+- 依存名词
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

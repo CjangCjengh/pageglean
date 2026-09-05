@@ -1,0 +1,32 @@
+id: ko-grm-00846
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: -는 척하다：假装的样子
+structure: 动词冠形形 -는 + 의존명사 척（依存名词）+ 하다
+structure_pattern: V + -는 척하다
+explanation_zh: 依存名词 척 表示“样子、姿态”，与冠形形词尾及 하다 搭配，表示做出与实际不符的样子，相当于汉语“假装……”。文中用来刻画约娜明明很开心、却故作满不在乎的心理。形容词、名词则分别用
+  -(으)ㄴ 척하다、인 척하다。
+examples:
+- text: 요나는 내게서 시선을 피하며 짐짓 아무렇지도 않은 척 허세를 부리기 시작했다.
+  reading: ''
+  annot: 요나는 내게서 시선을 피하며 짐짓 아무렇지도 않은 척 허세를 부리기 시작했다.
+  translation_zh: 约娜避开我的视线，故意装出一副毫不在意的样子，开始逞强摆谱。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 依存名词
+- 样态
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

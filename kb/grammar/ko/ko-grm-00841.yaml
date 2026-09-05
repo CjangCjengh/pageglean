@@ -1,0 +1,32 @@
+id: ko-grm-00841
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: 「-자마자：刚一……就……」
+structure: 동사 어간 + 연결어미 '-자마자'
+structure_pattern: V + -자마자
+explanation_zh: 连接词尾 -자마자 表示前一动作刚一结束，后一动作随即发生，相当于中文“刚……就……”。只能接在动词之后，且前句一般不加过去时制词尾。片段用“말을
+  내뱉자마자”刻画话音刚落、情绪骤变的瞬间。
+examples:
+- text: 그러나 말을 내뱉자마자 괴로운 듯 눈을 질끈 감고 고갤 떨어뜨렸다.
+  reading: ''
+  annot: 그러나 말을 내뱉자마자 괴로운 듯 눈을 질끈 감고 고갤 떨어뜨렸다.
+  translation_zh: 然而话一出口，她便像痛苦似的紧紧闭上双眼，垂下了头。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 时间
+- 连接词尾
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

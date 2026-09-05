@@ -1,0 +1,31 @@
+id: vi-grm-00513
+language: vi
+type: grammar
+level: L3
+level_rank: 3
+title: 「mặc dù」：让步，尽管……
+structure: mặc dù + 小句，主句
+structure_pattern: mặc dù + S, S V
+explanation_zh: “mặc dù”引导让步状语从句，对应中文“尽管/虽然……”，常与“nhưng”（但是）呼应，但此处省略了转折词。多用于书面或较为完整的叙述语体。
+examples:
+- text: mặc dù cô bạn nhỏ chỉ học chung với tôi chưa đầy một năm
+  reading: ''
+  annot: mặc dù cô bạn nhỏ chỉ học chung với tôi chưa đầy một năm
+  translation_zh: 尽管那位小伙伴只跟同学了不到一年
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 让步
+- 接续
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

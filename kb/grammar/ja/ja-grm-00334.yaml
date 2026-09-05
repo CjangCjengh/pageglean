@@ -15,6 +15,13 @@ examples:
   source_book: book-ja-007
   source_chapter: null
   pointer: null
+- text: 既に軽く洗脳にかかりつつあります。
+  reading: ''
+  annot: 既[すで]に軽[かる]く洗脳[せんのう]にかかりつつあります。
+  translation_zh: （她）已经开始被稍稍洗脑了。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
 related:
   cross_lang: []
   same_lang: []

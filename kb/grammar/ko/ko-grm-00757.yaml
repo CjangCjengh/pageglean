@@ -1,0 +1,39 @@
+id: ko-grm-00757
+language: ko
+type: grammar
+level: TOPIK2
+level_rank: 2
+title: -(으)ㄹ 것이다：推测与判断
+structure: 谓词词干 + 冠形形转成词尾 -(으)ㄹ + 依存名词 것 + 叙述格助词 이다
+structure_pattern: V/A-(으)ㄹ + 것 + 이다
+explanation_zh: 表示说话者的推测或判断，相当于「大概……」「应该是……」。否定推测用-지 않을 것이다（如설마 … 아닐 것이다）。对过去的推测则接-았/었을
+  것이다。
+examples:
+- text: 아즐란의 군대를 총괄하고 있다는 알테아 아리스토시스일 것이다.
+  reading: ''
+  annot: 아즐란의 군대를 총괄하고 있다는 알테아 아리스토시스일 것이다.
+  translation_zh: 大概就是那位据说统管着阿兹兰军队的阿尔缇雅·阿里斯托西斯吧。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+- text: 설마 토벌 부대를 저지하러 나온 것은 아닐 것이다.
+  reading: ''
+  annot: 설마 토벌 부대를 저지하러 나온 것은 아닐 것이다.
+  translation_zh: 总不至于出来是为了阻挡讨伐部队的吧。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 推测
+- 의존명사
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 4
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

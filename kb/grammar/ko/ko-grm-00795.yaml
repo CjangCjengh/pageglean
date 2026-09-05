@@ -1,0 +1,31 @@
+id: ko-grm-00795
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: -ㄴ/는 모양이다：据观察推测（看来……）
+structure: 用言冠形形 -(으)ㄴ/는 + 의존명사 모양 + 서술격 조사 이다
+structure_pattern: V/A + -(으)ㄴ/는 모양이다
+explanation_zh: 依存名词 모양（样子）加谓格助动词 이다，表示根据观察到的情况作出推测，相当于“看来……、好像……”。文中由브룬一直抱着熊玩偶，推断她“想必非常喜欢”。
+examples:
+- text: 어지간히도 곰 인형을 좋아하는 모양이다.
+  reading: ''
+  annot: 어지간히도 곰 인형을 좋아하는 모양이다.
+  translation_zh: 看来是相当喜欢熊玩偶。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 依存名词
+- 推测
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

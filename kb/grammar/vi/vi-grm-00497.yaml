@@ -1,0 +1,37 @@
+id: vi-grm-00497
+language: vi
+type: grammar
+level: L3
+level_rank: 3
+title: 「V + hoài」：一直……不停
+structure: 动词 + hoài
+structure_pattern: V + hoài
+explanation_zh: hoài 置于动词后，表示动作持续不断或反复进行，相当于中文「一直……／老是……」。为南部常用说法，北部多说 mãi。
+examples:
+- text: Đợi hoài không thấy mày, tao chạy qua đây.
+  reading: ''
+  annot: Đợi hoài không thấy mày, tao chạy qua đây.
+  translation_zh: 等了半天都不见你，我就跑过来了。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+- text: Thấy tôi đứng loay hoay hoài, Tiểu Li giục.
+  reading: ''
+  annot: Thấy tôi đứng loay ho
+  translation_zh: 小莉见我一直手足无措地站着，便催我。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 体貌/副词
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

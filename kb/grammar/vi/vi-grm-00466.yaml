@@ -1,0 +1,38 @@
+id: vi-grm-00466
+language: vi
+type: grammar
+level: L2
+level_rank: 2
+title: mấy：不定数量与疑问「几」
+structure: mấy + 量词／名词（mấy lần, mấy cái, mấy kiểu…）
+structure_pattern: mấy + (clf/N)
+explanation_zh: mấy 表示不定的小数量或疑问“几”，置于量词、名词之前，如 mấy lần（几次）、mấy cái（几下）、mấy kiểu（几种）。疑问用法与不定用法同形，靠语境区分。与汉语“几”语序相似，但须注意其与量词的搭配。
+examples:
+- text: coi thử Việt An chớp mắt mấy lần
+  reading: ''
+  annot: coi thử Việt An chớp mắt mấy lần
+  translation_zh: 看看越安眨几次眼睛。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+- text: mỗi cái kéo dài mấy phút
+  reading: ''
+  annot: mỗi cái kéo dài mấy phút
+  translation_zh: 每一下（目光）持续几分钟。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 数量
+- 疑问词
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 4
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

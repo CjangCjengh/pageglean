@@ -1,0 +1,38 @@
+id: ja-grm-00699
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 复合动词「〜出す」：动作的突发开始
+structure: 動詞連用形＋出す（突然～し始める）
+structure_pattern: V連用形 + 出す
+explanation_zh: 复合动词「〜出す」接动词连用形，表示动作、状态突然开始或骤然爆发，比「〜始める」更具突发感与画面感。片段中妹妹「慌てだす」「怒りだす」，情绪接连失控。
+examples:
+- text: すると、妹は不意打ちをストレートに食らった顔で慌てだす。
+  reading: ''
+  annot: すると、妹[いもうと]は不意打[ふいう]ちをストレートに食[く]らった顔[かお]で慌[あわ]てだす。
+  translation_zh: 只见妹妹一脸仿佛被迎面揍了一拳的表情，开始慌乱起来。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+- text: 俺の意識がデンプシーロールをはじめたあたりで、妹は真っ赤な顔で怒りだす。
+  reading: ''
+  annot: 俺[おれ]の意識[いしき]がデンプシーロールをはじめたあたりで、妹[いもうと]は真[ま]っ赤[か]な顔[かお]で怒[おこ]りだす。
+  translation_zh: 就在我晕头转向之际，妹妹涨红了脸发起火来。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 复合动词
+- 体貌
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

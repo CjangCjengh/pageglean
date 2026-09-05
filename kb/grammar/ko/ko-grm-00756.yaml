@@ -1,0 +1,39 @@
+id: ko-grm-00756
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: -(으)ㄹ지도 모른다：不确定的推测
+structure: 用言词干 + 관형사형 어미 -(으)ㄹ + 의존 명사 '지' + 도 + 모르다
+structure_pattern: V/A-(으)ㄹ지도 모른다
+explanation_zh: 直译为“连会……都不知道”，表示把握不大的推测，“也许……/说不定……”，确信程度低于-(으)ㄹ 것이다。其中지是依存名词，도添加强调。片段中걸지도
+  모른다、만들지도 모른다反复出现，表现主人公对自身命运的不安揣测。
+examples:
+- text: 내 행동이 레이나를 더더욱 불행하게 만들지도 모른다.
+  reading: ''
+  annot: 내 행동이 레이나를 더더욱 불행하게 만들지도 모른다.
+  translation_zh: 我的行为也许会让蕾娜变得更加不幸。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+- text: 그런 거라면 빨리 죽는 편이 나을지도 모른다.
+  reading: ''
+  annot: 그런 거라면 빨리 죽는 편이 나을지도 모른다.
+  translation_zh: 如果是那样的话，或许早点死掉反而更好。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 推测
+- 可能性
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

@@ -1,0 +1,38 @@
+id: ja-grm-00751
+language: ja
+type: grammar
+level: N2
+level_rank: 4
+title: 「〜た気がする」：自以为～了
+structure: 動詞連体形（連用形＋助動詞「た」） ＋ 形式名詞「気」 ＋ が ＋ する
+structure_pattern: V-た + 気がする
+explanation_zh: 形式名词「気」表示心情、感觉；「〜た気がする」表示主观上觉得已经做了、有了某种心情，常暗示与实际不符。坂本两次用它反省：“以为自己改变了”“以为救了她”。后接「ていただけだった」点明这只是错觉。
+examples:
+- text: 俺はなんにも変わっちゃいない。変わった気になっていただけだった。
+  reading: ''
+  annot: 俺[おれ]はなんにも変[か]わっちゃいない。変[か]わった気[き]になっていただけだった。
+  translation_zh: 我根本什么也没改变，只不过是自以为改变了而已。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+- text: 俺はあいつをたすけた気になっていた。
+  reading: ''
+  annot: 俺[おれ]はあいつをたすけた気[き]になっていた。
+  translation_zh: 我曾以为自己救了她。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 形式名词
+- 语气
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 0
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

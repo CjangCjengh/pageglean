@@ -1,0 +1,39 @@
+id: ko-grm-00803
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: 「-아/어 가다/오다：动作的持续与渐变」
+structure: 본동사 + 연결어미 '-아/어' + 보조동사 '가다/오다'（方向·渐进相）
+structure_pattern: V + -아/어 가다/오다
+explanation_zh: 补助动词‘-아/어 가다’表示动作朝着将来或远处持续进展，‘-아/어 오다’表示从过去持续到现在，相当于汉语“……下去”“一直……过来”。与表示实际移动的本义不同，此处是体貌用法。文中‘살아왔다’与‘쌓여
+  가기 시작한다’分别对应两种用法。
+examples:
+- text: 해변에는 찰박대는 물장구 소리와 여자아이들의 즐거운 비명 소리가 켜켜이 쌓여 가기 시작한다.
+  reading: ''
+  annot: 해변에는 찰박대는 물장구 소리와 여자아이들의 즐거운 비명 소리가 켜켜이 쌓여 가기 시작한다.
+  translation_zh: 海边戏水的拍打声和女孩们欢快的尖叫声，开始一层层地累积起来。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+- text: 그렇지만, 난 300년 동안 성에 은둔하며 살아왔다고.
+  reading: ''
+  annot: 그렇지만, 난 300년 동안 성에 은둔하며 살아왔다고.
+  translation_zh: 可我是三百年来一直隐居在城堡里过来的啊。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 补助动词
+- 体貌
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 5
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

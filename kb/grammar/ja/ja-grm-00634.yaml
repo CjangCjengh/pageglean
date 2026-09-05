@@ -1,0 +1,32 @@
+id: ja-grm-00634
+language: ja
+type: grammar
+level: N3
+level_rank: 3
+title: 「〜んだっけ」：回忆中的自我确认（口语）
+structure: 用言终止形＋「のだ」（口语「んだ」）＋终助词「っけ」
+structure_pattern: V-終止形 + のだ(んだ) + っけ
+explanation_zh: 「のだ」的口语形式「んだ」后接表示回忆、确认的终助词「っけ」，用于一边回忆一边向自己确认，相当于“……来着？”。带有恍然想起、重新确认的独白语气，常与「そういえば」呼应。是轻小说及日常口语中刻画心理的高频表达。
+examples:
+- text: ――は？ ………………あー、そういえば、もう一人いたんだっけ……
+  reading: ''
+  annot: ――は？ ………………あー、そういえば、もう一人[ひとり]いたんだっけ……
+  translation_zh: ——哈？…………啊——这么说起来，好像还有一个人来着……
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 语气
+- 口语
+- 终助词
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

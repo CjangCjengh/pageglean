@@ -1,0 +1,40 @@
+id: vi-grm-00452
+language: vi
+type: grammar
+level: L3
+level_rank: 3
+title: kệ：随它去吧
+structure: （疑问代词小句）+ kệ + 人称代词
+structure_pattern: Wh-clause + kệ + Pron
+explanation_zh: kệ 是动词，意为「任凭、不管」；口语中「疑问代词小句 + kệ + 人称代词」表示「……随它去／不用你管」，语气生硬、带情绪。本段
+  kệ mày / kệ tao 出现四次，是青少年斗嘴的高频回应。中文可译「随你」「关你什么事」。
+examples:
+- text: Không tin thì kệ mày!
+  reading: ''
+  annot: Không tin thì kệ mày!
+  translation_zh: 不信就随你！
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+- text: Làm gì kệ tao!
+  reading: ''
+  annot: Làm gì kệ tao!
+  translation_zh: 我干什么，不用你管！
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 动词
+- 口语
+- 语气
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 4
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

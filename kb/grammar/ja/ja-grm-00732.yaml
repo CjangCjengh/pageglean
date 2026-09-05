@@ -1,0 +1,38 @@
+id: ja-grm-00732
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 〜やがる：轻蔑与不满的粗俗助动词
+structure: 五段動詞連用形（サ変「しやがる」）＋ やがる
+structure_pattern: V(五段/サ変)連用形 + やがる
+explanation_zh: 接在五段动词连用形（サ変用「しやがる」）后，表示说话人的轻蔑、恼怒或不满，语气粗鲁，多见于男性口语。う・つ・る的音便形之后常以「〜ていやがる」形式出现（如「ぶらさがっていやがる」）。可译为“竟然……”。
+examples:
+- text: しかも名前まで出しやがって！
+  reading: ''
+  annot: しかも名前[なまえ]まで出[だ]しやがって！
+  translation_zh: 而且竟然连名字都给抖出来了！
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+- text: どの質問にもしっかりと回答がぶらさがっていやがる。
+  reading: ''
+  annot: どの質問[しつもん]にもしっかりと回答[かいとう]がぶらさがっていやがる。
+  translation_zh: 每条问题下面都明晃晃地挂着回答。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 语气
+- 口语
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

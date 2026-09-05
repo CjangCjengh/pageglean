@@ -1,0 +1,38 @@
+id: ko-grm-00769
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: -(으)ㄹ 정도(로)：达到某种程度
+structure: 用言 + -(으)ㄹ 정도다 / -(으)ㄹ 정도로
+structure_pattern: V/A-(으)ㄹ 정도(로)
+explanation_zh: 依存名词（의존명사）정도表示程度，前接定语形词尾-(으)ㄹ；作谓语说“-ㄹ 정도다”，加-로则作状语“-ㄹ 정도로”。相当于中文“……到某种程度”，用于强调程度之深。书面语和口语都常用。
+examples:
+- text: 직접 체험해 보니 날카롭기가 따를 검이 없을 정도다.
+  reading: ''
+  annot: 직접 체험해 보니 날카롭기가 따를 검이 없을 정도다.
+  translation_zh: 亲身体验后才发觉，它锋利到了没有任何一把剑能望其项背的地步。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+- text: 어디에 시선을 둬야 할지 알 수 없을 정도로 노출이 과한 의상이다.
+  reading: ''
+  annot: 어디에 시선을 둬야 할지 알 수 없을 정도로 노출이 과한 의상이다.
+  translation_zh: 这是一件暴露得让人都不知道该把视线往哪儿放的服装。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 依存名词
+- 程度
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 5
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

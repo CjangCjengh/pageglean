@@ -1,0 +1,32 @@
+id: ko-grm-00737
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: 「-는 대신(에)：不……而是……（替代）」
+structure: 动词 + -는 + 의존 명사 '대신'(+ 조사 에)
+structure_pattern: V-는 대신(에)
+explanation_zh: -는 대신(에) 中的 대신 是依存名词，意为「代替」，表示不做前项行为而以后项行为取而代之，相当于汉语「不……而是……」。片段中主人公用微笑代替了回答。
+examples:
+- text: 나는 틸프의 말에 대답하는 대신, 작게 미소를 지었다.
+  reading: ''
+  annot: 나는 틸프의 말에 대답하는 대신, 작게 미소를 지었다.
+  translation_zh: 我没有回答蒂尔普的话，而是微微一笑。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 依存名词
+- 接续
+- 替代
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

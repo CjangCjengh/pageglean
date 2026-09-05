@@ -1,0 +1,32 @@
+id: ja-grm-00714
+language: ja
+type: grammar
+level: N3
+level_rank: 3
+title: 使役＋てもらう：承蒙允许做某事（揉ませてもらった）
+structure: 动词未然形＋使役助动词「せる」连用形＋て＋もらう
+structure_pattern: V-未然形 + せる + て + もらう
+explanation_zh: 五段动词未然形接使役助动词「せる」（一段动词接「させる」）构成使役，其连用形后接「てもらう」表示承蒙对方允许自己做某事。文中「揉ませてもらった」即「揉む」未然形「揉ま」＋せる→「揉ませ」＋て＋もらう。使役与授受叠加，中文可译为“（她）让我摸了”。
+examples:
+- text: 揉ませて……もらった……？
+  reading: ''
+  annot: 揉[も]ませて……もらった……？
+  translation_zh: 让（我）摸了……？
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 使役
+- 授受
+- 助動詞
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

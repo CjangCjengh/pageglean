@@ -1,0 +1,31 @@
+id: vi-grm-00508
+language: vi
+type: grammar
+level: L3
+level_rank: 3
+title: Hèn gì：恍然「难怪/怪不得」
+structure: Hèn gì + mệnh đề
+structure_pattern: hèn gì + mệnh đề
+explanation_zh: 「Hèn gì」用于得知原因后表示恍然大悟，相当于中文「难怪/怪不得」，后接说明结果的分句。常与 thảo nào 互换使用，口语色彩浓。
+examples:
+- text: Hèn gì mày làm quân sư chỉ đâu hỏng đó!
+  reading: ''
+  annot: Hèn gì mày làm quân sư chỉ đâu hỏng đó!
+  translation_zh: 难怪你当军师，指到哪儿就坏到哪儿！
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 语气
+- 口语
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

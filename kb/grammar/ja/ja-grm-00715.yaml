@@ -1,0 +1,32 @@
+id: ja-grm-00715
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 〜てある：动作结果的存续（書かれてあった）
+structure: 他动词连用形＋て＋补助动词「ある」
+structure_pattern: V-連用形 + て + ある
+explanation_zh: 他动词连用形接「てある」表示某人有意行为的结果留存下来，存续主体常以「が」标示。文中「書かれてあった」是被动＋てある的叠加，强调“回答已被事先写好放在那里”。与表示事前准备的「ておく」相呼应。
+examples:
+- text: ノートの続きには俺への返答が先回りで書かれてあった。
+  reading: ''
+  annot: ノートの続[つづ]きには俺[おれ]への返答[へんとう]が先回[さきまわ]りで書[か]かれてあった。
+  translation_zh: 笔记本的后面，早就抢先写好了给我的回答。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 存続
+- 補助推動詞
+- アスペクト
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

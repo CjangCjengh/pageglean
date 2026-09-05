@@ -1,0 +1,33 @@
+id: ko-grm-00777
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: 「-ㄴ 채(로)：状态保持（의존명사 채）」
+structure: 동사 어간 + 관형사형 어미 '-ㄴ' + 의존명사 '채(로)'
+structure_pattern: V + -ㄴ 채(로)
+explanation_zh: 의존명사 채 表示前一动作的状态原样保持，继续进行后一动作，보조사 로 可加可不加，对应中文“保持着……的状态”。片段中 “멱살을
+  쥔 채” 与 “꾹 다문 채” 两处出现，描摹动作凝固的瞬间。
+examples:
+- text: 꾹 다문 채 앞으로 살짝 내민 작고 붉은 입술이 잔뜩 긴장한 듯 파르르 떨렸다.
+  reading: ''
+  annot: 꾹 다문 채 앞으로 살짝 내민 작고 붉은 입술이 잔뜩 긴장한 듯 파르르 떨렸다.
+  translation_zh: 那紧闭着微微向前撅起的小小红唇，仿佛极度紧张似的微微颤动着。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 의존명사
+- 상태유지
+- 부사적 수식
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

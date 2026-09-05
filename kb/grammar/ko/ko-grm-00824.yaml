@@ -1,0 +1,39 @@
+id: ko-grm-00824
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: -(으)ㄴ 후에야 / -(으)ㄹ 때에야：直到……才
+structure: 의존명사 후/때 + 에야
+structure_pattern: 의존명사 후/때 + 부사격 조사 에 + 보조사 야
+explanation_zh: 补助词 야 接在时间表达（后、时候）的副格词尾 에 之后，强调"直到该条件实现，后一动作才发生"，相当于中文"直到……才"。片段中
+  때에야、후에야 连续两次出现，凸显动作实现的滞后与不易。
+examples:
+- text: 다리를 중간쯤 지나왔을 때에야 내 소맷자락을 붙잡고 날 멈춰 세웠다.
+  reading: ''
+  annot: 다리를 중간쯤 지나왔을 때에야 내 소맷자락을 붙잡고 날 멈춰 세웠다.
+  translation_zh: 直到桥走到一半时，（绮璃）才抓住我的衣袖让我停下。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+- text: 그들이 상당한 거리까지 멀어진 후에야 나는 긴 한숨을 내쉬었다.
+  reading: ''
+  annot: 그들이 상당한 거리까지 멀어진 후에야 나는 긴 한숨을 내쉬었다.
+  translation_zh: 直到他们走出相当远的距离，我才长长地叹了一口气。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 补助词
+- 强调
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

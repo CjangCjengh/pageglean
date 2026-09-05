@@ -1,0 +1,31 @@
+id: ja-grm-00666
+language: ja
+type: grammar
+level: N1
+level_rank: 5
+title: 「〜とすら」：极端举例（甚至……）
+structure: 体言・引用の「と」 + 副助詞「すら」（常与「思う/言う」呼应）
+structure_pattern: 〜と + すら + 思う
+explanation_zh: 「すら」是副助词，举出极端事例以暗示其余，意为「甚至连……」。「とすら」常与「思う」「言う」搭配，表示「甚至认为/甚至说……」，语气比「さえ」更书面而强烈。片段「友達だ、とすら思っていました」表达「甚至曾把她当作朋友」。
+examples:
+- text: ……いえ、友達だ、とすら思っていました
+  reading: ''
+  annot: ……いえ、友達[ともだち]だ、とすら思[おも]っていました
+  translation_zh: ……不，我甚至曾把她当作朋友。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 副助词
+- 语气
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

@@ -1,0 +1,39 @@
+id: vi-grm-00490
+language: vi
+type: grammar
+level: L3
+level_rank: 3
+title: bị 被动：不如意、受损的被动
+structure: S + (sẽ/đã) + bị + V
+structure_pattern: bị + V（消极） | được + V（积极）
+explanation_zh: 越南语用 bị 与 được 构成语义被动：bị 用于不如意、受损的事（如 bị đuổi học 被开除），được 用于如愿、受益的事。与汉语「被」字句相似，施事可以不出现。本段两个
+  bị 句分别用 sẽ 表示将来、用 chỉ…thôi 限缩语气。
+examples:
+- text: Nó sẽ bị đuổi học.
+  reading: ''
+  annot: Nó sẽ bị đuổi học.
+  translation_zh: 他会被开除。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+- text: Nó chỉ bị gọi lên phòng Ban giám hiệu thôi!
+  reading: ''
+  annot: Nó chỉ bị gọi lên phòng Ban giám hiệu thôi!
+  translation_zh: 他顶多只是被叫到校长办公室去而已！
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 被动
+- 语态
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

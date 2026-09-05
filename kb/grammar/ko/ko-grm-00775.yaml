@@ -1,0 +1,40 @@
+id: ko-grm-00775
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: 「-ㄴ/는다고 하다：间接引用（서술형 간접인용）」
+structure: 동사 어간 + 인용 어미 '-ㄴ/는다고' / 형용사 어간 + '-다고' + '하다'
+structure_pattern: V/A + -ㄴ/는다고 + 하다
+explanation_zh: 간접인용以从句形式转述他人话语：动词接 -ㄴ/는다고，形容词接 -다고，与 하다 结合成“说～”。片段接连使用“효과가 없다고 했었다”“이길
+  수 없다고 단정했다”。叠用 -았었- 还带出“传闻记录于过去”的时制层次。
+examples:
+- text: 그 책에서는 분명, 애인이 화났을 땐 구구절절 변명하거나 무조건 사과하는 것이 효과가 없다고 했었다.
+  reading: ''
+  annot: 그 책에서는 분명, 애인이 화났을 땐 구구절절 변명하거나 무조건 사과하는 것이 효과가 없다고 했었다.
+  translation_zh: 那本书里分明写着：恋人发火时，絮絮叨叨地辩解或无条件道歉都是没用的。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+- text: 시나는, 인간이라면 악마를 이길 수 없다고 단정했다.
+  reading: ''
+  annot: 시나는, 인간이라면 악마를 이길 수 없다고 단정했다.
+  translation_zh: 希娜断言道：只要是人类，就不可能战胜恶魔。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 간접인용
+- 서술형
+- 시제
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

@@ -1,0 +1,38 @@
+id: ja-grm-00684
+language: ja
+type: grammar
+level: N2
+level_rank: 4
+title: 〜損ねる：没能做成～、错过～
+structure: 动词连用形 + 損ねる
+structure_pattern: V-連用形 + 損ねる
+explanation_zh: 接在动词连用形后构成复合动词，表示“本要做〜却没能做成”“错过了〜的机会”，含失败、遗憾的语感。文中「流し損ねた血」（没能冲掉的血）与「帰り損ねた俺」（没能回归日常的我）均以此暗示人物处境。是书面性较强、值得掌握的复合动词。
+examples:
+- text: あとに残ったのは流し損ねた少女の血。
+  reading: ''
+  annot: あとに残[のこ]ったのは流[なが]し損[そこ]ねた少女[しょうじょ]の血[ち]。
+  translation_zh: 残留下来的，是没能冲刷干净的少女的血。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+- text: 日常に帰り損ねた俺は、足元に落ちていた手帳を拾い上げていた。
+  reading: ''
+  annot: 日常[にちじょう]に帰[かえ]り損[そこ]ねた俺[おれ]は、足元[あしもと]に落[お]ちていた手帳[てちょう]を拾[ひろ]い上[あ]げていた。
+  translation_zh: 没能回归日常的我，捡起了掉在脚边的手册。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 复合动词
+- 体貌
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

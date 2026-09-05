@@ -1,0 +1,38 @@
+id: ja-grm-00754
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 使役助动词「せる」：使令与阻止
+structure: 動詞未然形＋せる（五段・サ変）／させる（下一段・カ変）
+structure_pattern: V未然形 + せる/させる
+explanation_zh: 学校文法中「せる」「させる」是接在动词未然形后的使役助动词，表示使令、容许或阻止。「言わせるな」是使役加禁止，意为别让我反复说；「そうはさせない」是使役加否定，表示不会让对方得逞、阻止事态发生。
+examples:
+- text: 何度も言わせるな。
+  reading: ''
+  annot: 何[なん]度[ど]も言[い]わせるな。
+  translation_zh: 别让我一遍又一遍地说。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+- text: そうはさせない。
+  reading: ''
+  annot: そうはさせない。
+  translation_zh: 我不会让事情变成那样。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 助動詞
+- 使役
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

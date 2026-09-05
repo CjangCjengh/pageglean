@@ -1,0 +1,41 @@
+id: vi-grm-00494
+language: vi
+type: grammar
+level: L3
+level_rank: 3
+title: kịp：来得及 / 没来得及
+structure: (chưa/đã) + kịp + V
+structure_pattern: (chưa/đã) + kịp + V
+explanation_zh: kịp 表示动作赶在时限内完成，即「来得及」。与 chưa 连用表示「还没来得及」，与已然的 đã 连用表示「赶在……之前已经……」。常与
+  trước khi 等时间状语呼应，是叙事文中典型的体貌表达。
+examples:
+- text: Dường như nó chưa kịp hiểu chuyện gì đã xảy ra.
+  reading: ''
+  annot: Dường như nó chưa kịp hiểu chuyện gì đã xảy ra.
+  translation_zh: 她好像还没来得及明白发生了什么事。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+- text: Trước khi nằm thẳng cẳng dưới đất, trán nó đã kịp đập vô cạnh bàn, máu chảy
+    tèm lem.
+  reading: ''
+  annot: Trước khi nằm thẳng cẳng dưới đất, trán nó đã kịp đập vô cạnh bàn, máu chảy
+    tèm lem.
+  translation_zh: 在她直挺挺地躺到地上之前，额头已经磕到了桌角，血淌得满脸都是。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 体貌
+- 副词
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

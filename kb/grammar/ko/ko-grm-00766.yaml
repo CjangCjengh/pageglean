@@ -1,0 +1,38 @@
+id: ko-grm-00766
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: -(으)ㄴ지：选择疑问「是……还是……」
+structure: '의문형 어미 ''-(으)ㄴ지/-는지'' (체언: 서술격 ''이-'' + ''-ㄴ지'' → ''인지'')'
+structure_pattern: N-인지 / V-는지 / A-(으)ㄴ지
+explanation_zh: 疑问形词尾 -(으)ㄴ지/-는지 构成内嵌疑问节，体言用 이다+-ㄴ지 → 인지。该结构并列反复时，表示在多个选项中无从判断，即“不知是A还是B”。片段连用“噩梦还是现实”“憎恨、爱还是执念”，把叙述者的迷惘推至高潮。
+examples:
+- text: 이젠 더 이상 이것이 악몽인지 현실인지조차 판단하기 어려워진다.
+  reading: ''
+  annot: 이젠 더 이상 이것이 악몽인지 현실인지조차 판단하기 어려워진다.
+  translation_zh: 如今我甚至已经无法判断这究竟是噩梦还是现实。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+- text: 그 눈동자 너머로 증오인지 사랑인지 집착인지 알 수 없는 뒤엉킨 감정의 타래.
+  reading: ''
+  annot: 그 눈동자 너머로 증오인지 사랑인지 집착인지 알 수 없는 뒤엉킨 감정의 타래.
+  translation_zh: 在那双眼眸背后，是分不清憎恨、爱意还是执念的、纠缠成一团的情感丝缕。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 词尾
+- 疑问
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 5
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

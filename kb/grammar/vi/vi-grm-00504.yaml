@@ -1,0 +1,31 @@
+id: vi-grm-00504
+language: vi
+type: grammar
+level: L2
+level_rank: 2
+title: không…gì cả：全量否定「一点也不」
+structure: không + V + gì cả
+structure_pattern: không + V + gì cả
+explanation_zh: 「không…gì cả」是彻底否定结构，gì cả 加强语气，相当于中文「一点也不/毫无」。比单纯 không 否定语气更强，口语与书面均常用。
+examples:
+- text: Là người tình đầu tiên của một phụ nữ không có nghĩa gì cả
+  reading: ''
+  annot: Là người tình đầu tiên của một phụ nữ không có nghĩa gì cả
+  translation_zh: 作为一个女人的初恋情人毫无意义。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 否定
+- 语气
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 0
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

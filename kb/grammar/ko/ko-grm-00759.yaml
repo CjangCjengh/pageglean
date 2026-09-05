@@ -1,0 +1,38 @@
+id: ko-grm-00759
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: -게 하다 / -도록 하다：长形使动
+structure: 动词词干 + 连接词尾 -게 / -도록 + 补助动词 하다（장형 사동）
+structure_pattern: V-게 하다 / V-도록 하다
+explanation_zh: 表示使令，「让（使）某人做……」。-게 하다与-도록 하다是长形使动，与短形使动（如돌격시키다、발동시키다中的-시키다）并用。原文连用三种使动结构描写指挥官下达命令的场景。
+examples:
+- text: 궁병에게 화살을 쏘게 하고, 마법사에게 공격 마법을 발동시키도록 하고, 중장기병을 돌격시켜 무자비하게 유린하면 된다.
+  reading: ''
+  annot: 궁병에게 화살을 쏘게 하고, 마법사에게 공격 마법을 발동시키도록 하고, 중장기병을 돌격시켜 무자비하게 유린하면 된다.
+  translation_zh: 让弓兵放箭，让魔法师发动攻击魔法，再让重骑兵冲锋、无情地践踏就行了。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+- text: 그렇기에 병사들을 뒤로 물러서게 했다.
+  reading: ''
+  annot: 그렇기에 병사들을 뒤로 물러서게 했다.
+  translation_zh: 所以我才让士兵们退到后面的。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 使动
+- 연결어미
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 4
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

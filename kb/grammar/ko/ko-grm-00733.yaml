@@ -1,0 +1,39 @@
+id: ko-grm-00733
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: 「-(으)ㄹ지도 모르다：说不定会……（无把握的推测）」
+structure: 用言词干 + -(으)ㄹ지(도) 모르다（连接词尾 -(으)ㄹ지 + 补助形容词 모르다）
+structure_pattern: V/A+(으)ㄹ지도 모르다
+explanation_zh: -(으)ㄹ지 모르다 表示说话人对某事是否发生毫无把握的推测，相当于汉语「说不定/恐怕会……」。中间加「도」语气更委婉。因为常带有担心、不安的语感，多用于推测不太希望发生的情况。
+examples:
+- text: 서로 안 맞는 것도 당연한 일일지도 모른다.
+  reading: ''
+  annot: 서로 안 맞는 것도 당연한 일일지도 모른다.
+  translation_zh: 彼此合不来，说不定也是理所当然的事。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+- text: 내가 편들어 주지 않으면 기분 상해할지도 모른다.
+  reading: ''
+  annot: 내가 편들어 주지 않으면 기분 상해할지도 모른다.
+  translation_zh: 如果我不帮她说话，她也许会觉得不高兴。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 词尾
+- 推测
+- 语气
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

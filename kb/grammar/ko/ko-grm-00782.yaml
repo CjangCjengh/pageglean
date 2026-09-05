@@ -1,0 +1,39 @@
+id: ko-grm-00782
+language: ko
+type: grammar
+level: TOPIK2
+level_rank: 2
+title: 「-(으)ㄹ 것이다：推测与展望」
+structure: 谓词词干 + 관형사형 전성어미 -(으)ㄹ + 의존명사 '것' + 서술격 조사 '이다'
+structure_pattern: V/A-(으)ㄹ + 것이다
+explanation_zh: 由冠形词形转成词尾 -(으)ㄹ 修饰依存名词 것，再加叙述格调查 이다 构成，表示对情况的推测或展望，相当于「会……」「应该会……」。口语中常说成
+  -(으)ㄹ 거다/거야。片段中多次用于说话人的自我推测。
+examples:
+- text: 최근 몇 달 사이 부대낀 사람들이 훨씬 더 많을 것이다.
+  reading: ''
+  annot: 최근 몇 달 사이 부대낀 사람들이 훨씬 더 많을 것이다.
+  translation_zh: 最近几个月里打交道的人，想必还要多得多。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+- text: 네 녀석은 여름에도 뜨거운 물로 샤워를 하는 타입일 거야.
+  reading: ''
+  annot: 네 녀석은 여름에도 뜨거운 물로 샤워를 하는 타입일 거야.
+  translation_zh: 你这家伙肯定是那种夏天也用热水淋浴的类型。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 语气
+- 推测
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 4
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

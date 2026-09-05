@@ -1,0 +1,32 @@
+id: ja-grm-00760
+language: ja
+type: grammar
+level: N3
+level_rank: 3
+title: 使役助動詞＋命令形：〜させろ（让我做〜）
+structure: 用言未然形 ＋ 使役助動詞「せる／させる」＋ 命令形
+structure_pattern: V未然形 + せる/させる + 命令形
+explanation_zh: 学校文法中「せる／させる」是使役助動詞，接在用言未然形之后，使役动词本身还可继续活用以衔接其他助动词。此处「殴らせろ」即「殴らせる」的命令形，意为“让我揍一下”。使役＋命令连用在口语中用于强势地请求对方允许自己行动，是轻小说对话中常见的高频组合。
+examples:
+- text: 殴らせろ
+  reading: ''
+  annot: 殴[なぐ]らせろ
+  translation_zh: 让我揍一下（你）。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 使役
+- 命令形
+- 口语
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

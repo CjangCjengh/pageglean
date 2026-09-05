@@ -1,0 +1,38 @@
+id: ja-grm-00739
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 〜ですよね：征求同意的句尾语气
+structure: 述辞終止形 ＋ 終助詞「よ」「ね」／〜と思いませんか
+structure_pattern: 述文 + ですよね／〜と思いませんか
+explanation_zh: 句尾叠加终助词「よ」（提示）与「ね」（求同），向对方征求同意与共鸣；「〜と思いませんか」以反问形式寻求认同。这一句式在本段提问箱文体的引文中高频出现，是典型的互动口吻。
+examples:
+- text: 男の子ってかわいいですよね？
+  reading: ''
+  annot: 男[おとこ]の子[こ]ってかわいいですよね？
+  translation_zh: 男孩子是不是很可爱呀？
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+- text: 男の子の血管って素晴らしいと思いませんか!?
+  reading: ''
+  annot: 男[おとこ]の子[こ]の血管[けっかん]って素晴[すば]らしいと思いませんか!?
+  translation_zh: 难道不觉得男孩子的血管很棒吗!?
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 语气
+- 口语
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 6
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

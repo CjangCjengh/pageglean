@@ -1,0 +1,32 @@
+id: ko-grm-00750
+language: ko
+type: grammar
+level: TOPIK2
+level_rank: 2
+title: -ㄹ게：承诺与意志的口语终结词尾
+structure: 动词词干 + 终结词尾 -(으)ㄹ게（표시 약속/의지）
+structure_pattern: V- + -(으)ㄹ게
+explanation_zh: '''-(으)ㄹ게''是表示承诺或意志的终结词尾，向听者宣告自己将要做某事，语气比''-겠습니다''随意，多用于口语（해체）。本句克劳用''마칠게''干脆地宣告会议结束，体现上位者从容随性的口吻。'
+examples:
+- text: 그럼 오늘 회의는 이걸로 마칠게.
+  reading: ''
+  annot: 그럼 오늘 회의는 이걸로 마칠게.
+  translation_zh: 那么，今天的会议就到此结束吧。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 终结词尾
+- 语气
+- 口语
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

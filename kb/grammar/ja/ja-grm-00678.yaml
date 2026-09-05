@@ -1,0 +1,31 @@
+id: ja-grm-00678
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 授受表现「〜てもらう」：接受他人为自己做…（此处用命令形）
+structure: V-連用形＋て ＋ 授受動詞「もらう」〈命令形：もらえ〉
+structure_pattern: 'V-て + もらう (命令形: もらえ)'
+explanation_zh: 「てもらう」表示说话人或相关者接受他人为自己做的动作，属授受动词。此处用其命令形「もらえ」，表面是命令对方“让人多抱紧你”，带调侃与推开的语气。授受表达须依说话人立场选择，是日语核心难点。
+examples:
+- text: たくさん抱きしめてもらえ
+  reading: ''
+  annot: たくさん抱[だ]きしめてもらえ
+  translation_zh: 那就让他们好好抱紧你吧。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 授受表現
+- 命令形
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 0
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

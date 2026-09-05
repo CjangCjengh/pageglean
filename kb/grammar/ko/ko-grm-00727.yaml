@@ -1,0 +1,31 @@
+id: ko-grm-00727
+language: ko
+type: grammar
+level: TOPIK5
+level_rank: 5
+title: -(으)ㄴ 채(로)：保持原状态
+structure: 动词词干 + -(으)ㄴ 채(로)
+structure_pattern: V-어간 + -(으)ㄴ 채(로)
+explanation_zh: 依存名词"채"表示保持前一动作所形成的状态去做后一动作，相当于"保持着……的状态"。文中"앉은 채 잠들다"即"保持着坐姿入睡"。
+examples:
+- text: 컴퓨터를 하다가 의자에 앉은 채 잠들었던 것뿐인가?
+  reading: ''
+  annot: 컴퓨터를 하다가 의자에 앉은 채 잠들었던 것뿐인가?
+  translation_zh: （难道）只是玩着电脑，就那么坐在椅子上睡着了吗？
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 依存名词
+- 状态
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

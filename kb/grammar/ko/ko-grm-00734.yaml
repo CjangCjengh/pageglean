@@ -1,0 +1,33 @@
+id: ko-grm-00734
+language: ko
+type: grammar
+level: TOPIK2
+level_rank: 2
+title: 「-기 때문이다：是因为……（名词化理由）」
+structure: 动词/이다 + -기 때문이다；形容词 + -(으)ㄴ 때문이다
+structure_pattern: V-기 때문이다 / A-(으)ㄴ 때문이다
+explanation_zh: -기 때문이다 把前面的内容用名词化词尾 -기 转成名词性成分，再用 때문이다 说明理由，相当于汉语「是因为……」。与 -아/어서
+  相比，说明性、郑重感更强，常用于辩解或陈述原因。体言后可直接接 때문이다（如「상성 때문인지」）。
+examples:
+- text: 그건 내가 공작님을 엄청나게 사랑하기 때문이지!
+  reading: ''
+  annot: 그건 내가 공작님을 엄청나게 사랑하기 때문이지!
+  translation_zh: 那是因为我非常爱公爵大人呀！
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 词尾
+- 理由
+- 名词化
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

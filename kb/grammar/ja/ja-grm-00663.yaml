@@ -1,0 +1,31 @@
+id: ja-grm-00663
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 「〜なければいけない」：义务表达（必须……）
+structure: 用言未然形 + 否定助動詞「ない」の仮定形「なければ」 + 「いけない」（敬体「いけません」）
+structure_pattern: V-未然形 + なければ + いけない
+explanation_zh: 学校文法中，动词未然形接否定助动词「ない」的假定形「なければ」，再接「いけない」，构成「不做不行」即「必须做」的义务表达。口语常说「なきゃ／なくちゃ」，郑重场合用「なければいけません」。片段中イスカ以敬体说出，凸显其郑重的决心。
+examples:
+- text: リアを――魔王女リアーナを倒さなければいけません
+  reading: ''
+  annot: リアを――魔王女[まおうじょ]リアーナを倒[たお]さなければいけません
+  translation_zh: 我从现在起，必须打倒莉亚——魔王女莉亚娜。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 义务
+- 助动词
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

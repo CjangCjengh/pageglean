@@ -1,0 +1,33 @@
+id: ko-grm-00808
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: -(으)ㄴ/는 모양이다：根据迹象推断「看来……」
+structure: 用言词干 + 冠形词形语尾 -(으)ㄴ/는 + 依存名词 모양 + 이다
+structure_pattern: V/A-(으)ㄴ/는 + 모양 + 이다
+explanation_zh: 依存名词'모양'本义为"样子、模样"，此处表示根据观察到的外部迹象作出推断，相当于中文"看来……/似乎是……"。与'-(으)ㄹ 것
+  같다'相比，更强调推断有具体的眼前依据。
+examples:
+- text: 키이리는 거기 없었다. 제 방으로 돌아간 모양이었다.
+  reading: ''
+  annot: 키이리는 거기 없었다. 제 방으로 돌아간 모양이었다.
+  translation_zh: 奇里不在那里。看来是回自己房间去了。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 依存名词
+- 推测
+- 语气
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

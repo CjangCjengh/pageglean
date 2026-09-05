@@ -1,0 +1,38 @@
+id: ko-grm-00724
+language: ko
+type: grammar
+level: TOPIK2
+level_rank: 2
+title: -아/어 보다：尝试"……看看"
+structure: 动词词干 + -아/어 + 补助动词 보다
+structure_pattern: V-어간 + -아/어 + 보다(보조동사)
+explanation_zh: 补助动词"보다"接在"-아/어"之后表示尝试，相当于中文的"……试试看"。常与"-ㄹ까요?""-는 건 어떨까요?"等搭配，用于委婉提议或自言自语。
+examples:
+- text: ‘작가님도 그런 설정으로 한번 써 보시는 건 어떨까요?’ 하는 얘기를 하기도 했다.
+  reading: ''
+  annot: ‘작가님도 그런 설정으로 한번 써 보시는 건 어떨까요?’ 하는 얘기를 하기도 했다.
+  translation_zh: （编辑）还说过"老师您也不妨试着用那种设定写写看，如何？"之类的话。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+- text: 일단 문자라도 보내 볼까…….
+  reading: ''
+  annot: 일단 문자라도 보내 볼까…….
+  translation_zh: 先发条短信试试看吧……
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 补助动词
+- 尝试
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 4
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

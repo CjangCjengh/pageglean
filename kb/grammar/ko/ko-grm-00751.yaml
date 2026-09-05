@@ -1,0 +1,33 @@
+id: ko-grm-00751
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: -기로 유명하다：因……而出名
+structure: 谓词词干 + 连接词尾 -기로 + 유명하다
+structure_pattern: V/A- + -기로 + 유명하다
+explanation_zh: '''-기로''是表示原因、依据的连接词尾，多用于后句的评价或判断；''-(기)로 유명하다''意为''因……而出名''。与一般理由的''-아/어서''、''-기
+  때문에''相比，''-기로''书面色彩更浓，常与评价性谓语搭配。'
+examples:
+- text: 이 미궁의 식사는 맛이 없기로 유명하기 때문에 귀족들의 표정은 별로 좋지 않았다.
+  reading: ''
+  annot: 이 미궁의 식사는 맛이 없기로 유명하기 때문에 귀족들의 표정은 별로 좋지 않았다.
+  translation_zh: 因为这迷宫的饭菜难吃是出了名的，所以贵族们的表情都不太好。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 连接词尾
+- 惯用型
+- 书面语
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

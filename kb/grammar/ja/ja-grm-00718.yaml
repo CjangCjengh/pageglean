@@ -1,0 +1,39 @@
+id: ja-grm-00718
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: ようだ・みたい：比喻与推测
+structure: 比况助动词「ようだ」（连体形「ような」）／口语「みたい（な）」
+structure_pattern: N + の/な + ようだ；N + みたい(な)
+explanation_zh: 比况助动词「ようだ」可表比喻（「催眠術のような時間」）或推测（「決着が着いたようだ」）。口语中以「みたい（な）」替代，如「お手本みたいな会話」「塊みたいな視線」。两种形式在同一段落混用，是轻小说口语化的典型表现。
+examples:
+- text: 暖かい季節に授業という、催眠術のような時間が過ぎ去った現在放課後。
+  reading: ''
+  annot: 暖[あたた]かい季節[きせつ]に授業[じゅぎょう]という、催眠術[さいみんじゅつ]のような時間[じかん]が過[す]ぎ去[さ]った現在[げんざい]放課後[ほうかご]。
+  translation_zh: 温暖季节里上课这种犹如催眠般的时间过去之后，现在已是放学后。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+- text: 視界の端でうっすらととらえていた女子会は、押しだしで決着が着いたようだ。
+  reading: ''
+  annot: 視界[しかい]の端[はし]でうっすらととらえていた女子会[じょしかい]は、押[お]しだしで決着[けっちゃく]が着[つ]いたようだ。
+  translation_zh: 我在视野角落隐约关注着的女生聚会，似乎是以（把人）推出来的方式分出了胜负。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 比喩
+- 推量
+- 助動詞
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 5
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

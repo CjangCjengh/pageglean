@@ -1,0 +1,39 @@
+id: ja-grm-00630
+language: ja
+type: grammar
+level: N3
+level_rank: 3
+title: 「言われてみれば」：经提醒后重新思考（被动＋〜てみる＋ば）
+structure: 动词未然形＋受身助动词「れる」（连用形「れて」）＋补助动词「みる」（假定形「みれ」）＋接续助词「ば」
+structure_pattern: V-未然形 + れる[受身助動詞・連用形] + て + みる[補助動詞・仮定形] + ば
+explanation_zh: 「言う」的被动形加补助动词「〜てみる」构成的惯用表达，学校文法分析为：未然形＋受身助动词「れる」连用形＋て＋「みる」假定形＋ば。表示经对方提醒后重新思考，发现确实如此或生出新的疑问，相当于“经你这么一说……”。在对话与独白中高频出现，本片段两次使用。
+examples:
+- text: む、言われてみれば。そんな副次効果が出るとは、『僥倖』というのかな？
+  reading: ''
+  annot: む、言[い]われてみれば。そんな副次効果[ふくじこうか]が出[で]るとは、『僥倖[ぎょうこう]』というのかな？
+  translation_zh: 嗯……经你这么一说。会出现这样的附带效果，这该称为『侥幸』吗？
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+- text: ――言われてみれば、なんで大丈夫なんだ？
+  reading: ''
+  annot: ――言[い]われてみれば、なんで大丈夫[だいじょうぶ]なんだ？
+  translation_zh: ——话说回来，为什么会没事呢？
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 被动
+- 惯用表达
+- 口语
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

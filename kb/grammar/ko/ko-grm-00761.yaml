@@ -1,0 +1,38 @@
+id: ko-grm-00761
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: 조차/마저：补助词「连……都……」
+structure: 체언(名词) + 보조사 '조차/마저'
+structure_pattern: N + 조차/마저 (보조사)
+explanation_zh: 조차、마저是表示极端包含的补助词，相当于汉语“连……”，举出极端事例以加强语气。조차多用于消极语境，마저侧重“连最后的、剩余的也……”。片段中“连方向”“连一步”“连表情”反复出现，是渲染极端状态的高频手段。
+examples:
+- text: 나는 방향조차 가늠할 수 없는 길을 하염없이 걸었다.
+  reading: ''
+  annot: 나는 방향조차 가늠할 수 없는 길을 하염없이 걸었다.
+  translation_zh: 我茫然地走在那条连方向都无法估量的路上。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+- text: 머리끝부터 발끝까지 무채색인 데다 표정마저 얼음처럼 차가워 흡사 유령 같았다.
+  reading: ''
+  annot: 머리끝부터 발끝까지 무채색인 데다 표정마저 얼음처럼 차가워 흡사 유령 같았다.
+  translation_zh: 不仅从头到脚一身无彩色，连表情也像冰一样冷，活像个幽灵。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 补助词
+- 强调
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 5
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

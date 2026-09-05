@@ -1,0 +1,31 @@
+id: ja-grm-00629
+language: ja
+type: grammar
+level: N2
+level_rank: 4
+title: 「〜にしろ」：即使～也～
+structure: 疑問詞／体言＋にしろ（＝にしても）
+structure_pattern: 疑問詞 + にしろ
+explanation_zh: 表示让步，“即使是～也…”，与「にしても」同义；「疑問詞＋にしろ」表示“无论…都…”。原文「どういう結果にしろ」即“无论结果如何”。同型的「にせよ」语气更硬一些。
+examples:
+- text: どういう結果にしろ、戦を止めた者を憎んではいない
+  reading: ''
+  annot: どういう結果[けっか]にしろ、戦[たたかい]を止[と]めた者[もの]を憎[にく]んではいない
+  translation_zh: 无论结果如何，我们并不憎恨终结了战争的人。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 接续
+- 让步
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

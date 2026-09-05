@@ -1,0 +1,31 @@
+id: ja-grm-00723
+language: ja
+type: grammar
+level: N2
+level_rank: 4
+title: 〜のも無理はない：难怪…
+structure: 用言連体形＋形式名詞「の」＋係助詞「も」＋「無理はない」
+structure_pattern: V-連体形 + の + も無理はない
+explanation_zh: 形式名詞「の」將前面的內容名詞化，再用係助詞「も」加以強調，後接「無理はない」表示「難怪…」「也情有可原」。用於說話人對某種反應表示理解與認可，常出現在敘事性評論裡，後文往往補一句體諒的話（如本例的「さぞかし怖かったろうに」）。
+examples:
+- text: そう思うのも無理はない。さぞかし怖かったろうに。
+  reading: ''
+  annot: そう思[おも]うのも無理[むり]はない。さぞかし怖[こわ]かったろうに。
+  translation_zh: 她会这么想也难怪。当时一定很害怕吧。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 表达
+- 评价
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

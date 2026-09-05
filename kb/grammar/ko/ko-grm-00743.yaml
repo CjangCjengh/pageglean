@@ -1,0 +1,38 @@
+id: ko-grm-00743
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: -면서：两个动作同时进行
+structure: 动词词干 + 连接词尾 -면서
+structure_pattern: V-면서
+explanation_zh: -면서 表示同一主体同时进行两个动作，相当于"一边……一边……"。前后分句主语必须一致，这是与中文不同的重要限制。也可表示前动作带来后句的附带变化。
+examples:
+- text: 어렸을 때 같은 휴양지에서 여러 번 만나면서 가까워졌다는 설정이다.
+  reading: ''
+  annot: 어렸을 때 같은 휴양지에서 여러 번 만나면서 가까워졌다는 설정이다.
+  translation_zh: 设定是两人小时候在同一个度假地多次见面，从而渐渐亲近起来的。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+- text: 뭐가 그렇게 재미있는지 키득키득 웃는 그녀를, 나는 긴장하면서 쳐다봤다.
+  reading: ''
+  annot: 뭐가 그렇게 재미있는지 키득키득 웃는 그녀를, 나는 긴장하면서 쳐다봤다.
+  translation_zh: 不知有什么好笑的，她不停地咯咯笑着，我则紧张地注视着她。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 连接词尾
+- 同时动作
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

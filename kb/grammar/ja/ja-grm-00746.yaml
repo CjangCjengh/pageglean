@@ -1,0 +1,31 @@
+id: ja-grm-00746
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 「〜ばいい」：只要～就行
+structure: 動詞仮定形 ＋ 接続助詞「ば」 ＋ 形容詞「いい」
+structure_pattern: V(仮定形) + ば + いい
+explanation_zh: 接动词仮定形＋ば，表示“只要〜就行”，用来提出办法或建议。片段中「排除しちまえばいい」「電話をいれればそれでいい」都是冷静提示对策。其中「しちまえば」是「してしまえば」的口语缩略，带“干脆做掉”的语感。
+examples:
+- text: とでも電話をいれればそれでいい。
+  reading: ''
+  annot: とでも電話[でんわ]をいれればそれでいい。
+  translation_zh: 打个那样的电话过去就行了。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 条件
+- 口语
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 0
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

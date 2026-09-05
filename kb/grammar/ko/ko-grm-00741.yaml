@@ -1,0 +1,33 @@
+id: ko-grm-00741
+language: ko
+type: grammar
+level: TOPIK2
+level_rank: 2
+title: -아/어도 될까요：委婉请求许可
+structure: 动词词干 + 连接词尾 -아/어도 + 补助用言 되다 + 终结词尾 -(으)ㄹ까요
+structure_pattern: V-(아/어)도 + 되다 + -(으)ㄹ까요
+explanation_zh: 连接词尾 -아/어도 表示"即使……也"，后接补助用言 되다 询问这样做是否可行，用于礼貌地请求许可。终结词尾 -(으)ㄹ까요 带有商量、试探的语气，比
+  -아/어도 돼요? 更为委婉客气。相当于中文的"我可以……吗"。
+examples:
+- text: 화장실 좀 다녀와도 될까요?
+  reading: ''
+  annot: 화장실 좀 다녀와도 될까요?
+  translation_zh: 我可以去一下洗手间吗？
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 许可
+- 终结词尾
+- 敬语
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

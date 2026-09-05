@@ -15,6 +15,13 @@ examples:
   source_book: book-ja-001
   source_chapter: null
   pointer: null
+- text: あの姿での願望が即ち現在の願望というわけではない
+  reading: ''
+  annot: あの姿[すがた]での願望[がんぼう]が即[すなわ]ち現在[げんざい]の願望[がんぼう]というわけではない
+  translation_zh: （她）那副模样下的愿望，并不就等于现在的愿望。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
 related:
   cross_lang: []
   same_lang: []

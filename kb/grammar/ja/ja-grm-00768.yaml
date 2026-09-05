@@ -1,0 +1,31 @@
+id: ja-grm-00768
+language: ja
+type: grammar
+level: N2
+level_rank: 4
+title: 〜を前にして：面对着……
+structure: 体言 + を + 前にして
+structure_pattern: N + を前にして
+explanation_zh: 表示“面对着……”，描写人物处于某对象之前的状态或心理。「前にして」整体作状语，书面语色彩较强。本片段描写主角站在家门前垂头丧气的样子。
+examples:
+- text: 自宅を前にして、肩を落とす。
+  reading: ''
+  annot: 自宅[じたく]を前[まえ]にして、肩[かた]を落[お]とす。
+  translation_zh: 站在家门前，垂头丧气
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 书面语
+- 句法
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

@@ -15,6 +15,13 @@ examples:
   source_book: book-ja-007
   source_chapter: null
   pointer: null
+- text: 確かめるわけにもいかないし、『そうかもしれない』程度に考えるか。
+  reading: ''
+  annot: 確[たし]かめるわけにもいかないし、『そうかもしれない』程度[ていど]に考[かんが]えるか。
+  translation_zh: 也没法去证实，就当作「也许是这样」来想吧。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
 related:
   cross_lang: []
   same_lang: []

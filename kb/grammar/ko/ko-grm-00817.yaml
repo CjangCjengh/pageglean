@@ -1,0 +1,33 @@
+id: ko-grm-00817
+language: ko
+type: grammar
+level: TOPIK6
+level_rank: 6
+title: 〜았/었더라면：如果当时……（过去虚拟假设）
+structure: 动词/形容词词干 + -았/었더라면（与过去事实相反的假设，多含后悔）
+structure_pattern: 용언 + -았/었더라면 (과거 -았/었- + 회상 -더- + 가정 연결어미 -면)
+explanation_zh: '''-았/었더라면''表示与过去事实相反的假设，意为''如果当时……（就）……''。由过去词尾''-았/었-''、回想词尾''-더-''与假设连接词尾''-면''构成，常与''~했을
+  것이다''呼应，表达后悔。文中''알았더라면…… 대응했을 것이다''即''如果早知道……本会……''。'
+examples:
+- text: 이성을 잃고 날뛴 대가가 이렇게 큰 것인 줄 알았더라면, 남자는 좀 더 침착하게 상황에 대응했을 것이다.
+  reading: ''
+  annot: 이성을 잃고 날뛴 대가가 이렇게 큰 것인 줄 알았더라면, 남자는 좀 더 침착하게 상황에 대응했을 것이다.
+  translation_zh: 如果早知道失去理智大闹一场的代价竟如此沉重，那个男人本会更沉着地应对局面。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 연결어미
+- 가정/회상
+- 후회
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

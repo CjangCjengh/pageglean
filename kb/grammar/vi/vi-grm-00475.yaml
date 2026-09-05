@@ -1,0 +1,38 @@
+id: vi-grm-00475
+language: vi
+type: grammar
+level: L2
+level_rank: 2
+title: 确认疑问句：phải không 与 hả
+structure: 陈述句 + phải không?／句子 + hả?
+structure_pattern: clause + phải không? / clause + hả?
+explanation_zh: 陈述句后加 phải không 构成附加疑问句，请求对方确认，相当于汉语“是不是/对吗”。hả 是口语化的句末疑问助词，带有一点惊讶或求证的语气，相当于“吗”。越南语是非问句靠句末助词构成，动词本身不发生任何变化。
+examples:
+- text: Hẹn với cô nào phải không?
+  reading: ''
+  annot: Hẹn với cô nào phải không?
+  translation_zh: 是跟哪位姑娘有约，对不对？
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+- text: Anh đem bi cho em hả?
+  reading: ''
+  annot: Anh đem bi cho em hả?
+  translation_zh: 哥哥是带弹珠来给我的吗？
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 疑问
+- 语气
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

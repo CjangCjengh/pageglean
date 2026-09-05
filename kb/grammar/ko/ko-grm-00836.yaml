@@ -1,0 +1,32 @@
+id: ko-grm-00836
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: -(이)라도：举极端例子让步
+structure: 体言 + 补助词 (이)라도
+structure_pattern: N-(이)라도
+explanation_zh: 补助词 라도 接在名词（体言）后，举出一个极端或非理想的例子进行让步，“哪怕是……也、就算……也”。文中“놀이라도 하는 것처럼”即“就好像哪怕是在玩游戏似的”。与
+  부사 차라리 呼应时表达“宁可……（也好）”的取舍。
+examples:
+- text: 즐거운 놀이라도 하는 것처럼 브룬이 활짝 웃으며 말했다.
+  reading: ''
+  annot: 즐거운 놀이라도 하는 것처럼 브룬이 활짝 웃으며 말했다.
+  translation_zh: 布伦笑得灿烂，仿佛是在玩什么有趣的游戏似的开了口。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 补助词
+- 让步
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

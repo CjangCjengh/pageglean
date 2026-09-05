@@ -1,0 +1,31 @@
+id: ja-grm-00651
+language: ja
+type: grammar
+level: N1
+level_rank: 5
+title: 〜と言わんばかりに：仿佛在说……似的
+structure: 引用「と」 + 言わ（未然形）＋ ん（文語推量）+ ばかりに
+structure_pattern: 〜と + 言わん + ばかりに
+explanation_zh: 「言わん」是文語表達，意為「快要說、彷彿要說」（動詞未然形接推量助動詞「ん」，含否定意味，相當於「言わないだろう」）。後接助詞「ばかりに」表示「幾乎就是那樣的樣子」。整體為書面色彩濃厚的慣用句式。
+examples:
+- text: 『よくある事』と言わんばかりに授業に戻る
+  reading: ''
+  annot: 『よくある事[こと]』と言[い]わんばかりに授業[じゅぎょう]に戻[もど]る
+  translation_zh: 仿佛在说「常有的事」似的回到课堂
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 惯用句
+- 书面语
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 0
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

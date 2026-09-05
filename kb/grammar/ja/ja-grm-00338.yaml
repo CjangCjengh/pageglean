@@ -15,6 +15,13 @@ examples:
   source_book: book-ja-007
   source_chapter: null
   pointer: null
+- text: 指令の後も責任を持てばいいんじゃないかな？
+  reading: ''
+  annot: 指令[しれい]の後[あと]も責任[せきにん]を持[も]てばいいんじゃないかな？
+  translation_zh: 只要在完成任务之后也负起责任来，不就好了吗？
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
 related:
   cross_lang: []
   same_lang: []

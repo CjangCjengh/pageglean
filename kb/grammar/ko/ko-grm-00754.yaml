@@ -1,0 +1,33 @@
+id: ko-grm-00754
+language: ko
+type: grammar
+level: TOPIK6
+level_rank: 6
+title: -(으)ㅁ에도 불구하고：尽管……却……
+structure: 体言/名词化词尾 -(으)ㅁ + -에도 불구하고
+structure_pattern: N/(으)ㅁ + 에도 + 불구하고
+explanation_zh: '''-(으)ㅁ에도 불구하고''表示让步，''尽管……却……''，由名词化词尾''-(으)ㅁ''与''에도 불구하고''构成，是典型的书面语表达。体言（名词）后接''임에도
+  불구하고''，如''어린 나이임에도 불구하고''（尽管年纪尚小）。'
+examples:
+- text: 소년은 어린 나이임에도 불구하고 상황이 좋지 않다는 것을 깨달았다.
+  reading: ''
+  annot: 소년은 어린 나이임에도 불구하고 상황이 좋지 않다는 것을 깨달았다.
+  translation_zh: 尽管年纪尚小，少年还是意识到处境不妙。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 让步
+- 名词化
+- 书面语
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

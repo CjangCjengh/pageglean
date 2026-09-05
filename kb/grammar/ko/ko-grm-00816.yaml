@@ -1,0 +1,33 @@
+id: ko-grm-00816
+language: ko
+type: grammar
+level: TOPIK5
+level_rank: 5
+title: 〜(으)ㄴ 채(로)：保持着……的状态（状态持续）
+structure: 动词词干 + -(으)ㄴ 채(로)（保持某状态进行另一动作）
+structure_pattern: 동사 어간 + 관형사형 전성어미 -(으)ㄴ + 의존명사 채 (+ 조사 -로)
+explanation_zh: '''-(으)ㄴ 채(로)''表示保持某种状态进行另一动作，相当于''保持着……的状态''。由冠形词形词尾''-(으)ㄴ''加依存名词''채''构成，''로''可省略。文中''얼어붙은
+  채''即''僵住的状态下（望着）''。'
+examples:
+- text: 나는 그 자리에 얼어붙은 채 거울에 비친 두 사람의 모습을 바라보았다.
+  reading: ''
+  annot: 나는 그 자리에 얼어붙은 채 거울에 비친 두 사람의 모습을 바라보았다.
+  translation_zh: 我就那样僵在原地，望着映在镜子里的两个人的身影。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 의존명사
+- 상태유지
+- 관형사형
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

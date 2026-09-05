@@ -1,0 +1,31 @@
+id: ja-grm-00675
+language: ja
+type: grammar
+level: N2
+level_rank: 4
+title: 〜とばかりに：仿佛在说……似的
+structure: 体言・引用句 + とばかりに
+structure_pattern: 引用 + とばかりに
+explanation_zh: 「とばかりに」把某种情形当作无声的话语来引用，意为"简直就像在说……似的"，用于描写人物的动作、神情，多用于书面叙述。句中「話は終わりとばかりに」即"仿佛在说'话到此为止'一般"。
+examples:
+- text: そう言って、話は終わりとばかりに立ち上がり、部屋の出口に向かう紅音。
+  reading: ''
+  annot: そう言[い]って、話[はなし]は終[お]わりとばかりに立[た]ち上[あ]がり、部屋[へや]の出口[でぐち]に向[む]かう紅音[あかね]。
+  translation_zh: 这么说完，红音仿佛在说"就到这里"似的站起身来，朝房间出口走去。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 书面语
+- 语气
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 0
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

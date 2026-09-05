@@ -1,0 +1,31 @@
+id: vi-grm-00446
+language: vi
+type: grammar
+level: L2
+level_rank: 2
+title: 「đừng…nữa」：不要再……
+structure: đừng + V + nữa
+structure_pattern: đừng (phó từ phủ định cầu khiến) + V + nữa (cuối câu)
+explanation_zh: 「đừng」是否定副词，用于祈使句（câu cầu khiến）表示劝阻或禁止，相当于「别、不要」。与句末的「nữa」搭配，表示「不要再……了」，要求停止或不再重复某一行为。
+examples:
+- text: Vậy ngày mai trở đi Việt An đừng mua nữa!
+  reading: ''
+  annot: Vậy ngày mai trở đi Việt An đừng mua nữa!
+  translation_zh: 那从明天起，越安就别再买了！
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 否定
+- 祈使
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

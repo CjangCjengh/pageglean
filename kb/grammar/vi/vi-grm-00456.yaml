@@ -1,0 +1,39 @@
+id: vi-grm-00456
+language: vi
+type: grammar
+level: L1
+level_rank: 1
+title: chưa 与 rồi：“尚未”与“已经”
+structure: 体貌副词（phó từ chỉ thể）：chưa + V（还没）；V + rồi（已经）
+structure_pattern: chưa + V / V + rồi
+explanation_zh: chưa + 动词表示“还没（做）”，强调至今未发生但将来可能发生；动词 + rồi 表示“已经”，强调完成。文中我说“Tôi chưa
+  xem phim này”，越安回“Tôi xem phim này rồi!”，构成鲜明对照。注意与 không 的区别：chưa 是“尚未”，không 是一般否定。
+examples:
+- text: Tôi chưa xem phim này.
+  reading: ''
+  annot: Tôi chưa xem phim này.
+  translation_zh: 这部电影我还没看过。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+- text: Tôi xem phim này rồi!
+  reading: ''
+  annot: Tôi xem phim này rồi!
+  translation_zh: 这部电影我已经看过了！
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 体貌
+- 否定
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

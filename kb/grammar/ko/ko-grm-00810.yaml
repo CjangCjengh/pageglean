@@ -1,0 +1,33 @@
+id: ko-grm-00810
+language: ko
+type: grammar
+level: TOPIK5
+level_rank: 5
+title: -다(가) 보니：持续做着某事而发现
+structure: 动词词干 + 연결 어미 -다(가) + 보조 동사 보다 + 연결 어미 -니
+structure_pattern: V-다(가) + 보니
+explanation_zh: '''-다(가) 보니''表示在持续进行某动作的过程中逐渐发现或领悟到新的事实，相当于中文"……着……就（发现）……"。与表示动作完成后才意识到的''-고
+  보니''意义相近而侧重不同。'
+examples:
+- text: 가만히 듣다 보니 그 파란 수염 말인데, 시체를 대체 왜 모으고 있었던 거야?
+  reading: ''
+  annot: 가만히 듣다 보니 그 파란 수염 말인데, 시체를 대체 왜 모으고 있었던 거야?
+  translation_zh: 静静地听着听着就想问了：那个蓝胡子，到底为什么要收集尸体呢？
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 连接词尾
+- 发现
+- 接续
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

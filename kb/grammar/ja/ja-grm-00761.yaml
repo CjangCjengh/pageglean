@@ -1,0 +1,38 @@
+id: ja-grm-00761
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 助動詞「れる」的可能用法：〜できない（不能〜）
+structure: 用言未然形 ＋ 助動詞「れる／られる」（可能）
+structure_pattern: V未然形 + れる/られる(可能)
+explanation_zh: 学校文法不单设“可能形”，可能属于助动词「れる／られる」的用法之一（被动・可能・自发・尊敬），五段动词接「れる」、一段动词接「られる」。片段连续使用「怒れない」「殴れない」，表达“想做却不能做”的心理矛盾。口语内心独白中极为常见。
+examples:
+- text: 怒りたいけど──好きな子にこんなこと言われたら怒れないよな。
+  reading: ''
+  annot: 怒[おこ]りたいけど──好[す]きな子[こ]にこんなこと言[い]われたら怒[おこ]れないよな。
+  translation_zh: 虽然想生气──但被喜欢的女孩子这么说的话，就生不起气来了啊。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+- text: ああ。俺は俺を殴れないからな。
+  reading: ''
+  annot: ああ。俺[おれ]は俺[おれ]を殴[なぐ]れないからな。
+  translation_zh: 啊。因为我没法揍我自己嘛。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 可能
+- 助動詞
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

@@ -1,0 +1,32 @@
+id: ko-grm-00736
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: 「-았/었으면 하는데：希望你……（委婉的请求）」
+structure: 用言 + -았/었으면 하다 + -는데（背景提示）
+structure_pattern: V-았/었으면 하는데
+explanation_zh: -았/었으면 하는데 以过去时形表达假设性的愿望，委婉地提出希望对方做某事，相当于「希望你能……」。比 -아/어 주세요 客气得多，给对方留有余地，后面常接询问对方意向的句子。
+examples:
+- text: 슬슬 행선지를 알려 줬으면 하는데, 우리를 어디로 데려가려는 거지?
+  reading: ''
+  annot: 슬슬 행선지를 알려 줬으면 하는데, 우리를 어디로 데려가려는 거지?
+  translation_zh: 希望差不多能告诉我们目的地了，你打算带我们去哪儿？
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 词尾
+- 请求
+- 敬语
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

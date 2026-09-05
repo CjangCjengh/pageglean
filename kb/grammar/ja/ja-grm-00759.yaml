@@ -1,0 +1,32 @@
+id: ja-grm-00759
+language: ja
+type: grammar
+level: N2
+level_rank: 4
+title: 口语缩约「〜っつってんだろ」：焦躁地重申
+structure: 引用文＋っつって（＝と言って）＋んだろ（＝のだろう）
+structure_pattern: 引用 + と言って + いる + のだろう
+explanation_zh: 「っつって」是引用助词「と」加动词「言う」的连用形「といって」在口语中的缩约。「んだろ」是说明语气的「のだ」加表推量的「だろう」的口语形。全句等于「やめろと言っているだろう」，传达不耐烦地重申警告的语气，口语属性强。
+examples:
+- text: やめろっつってんだろ！
+  reading: ''
+  annot: やめろっつってんだろ！
+  translation_zh: 我都说了让你住手了吧！
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 口語
+- 縮約
+- 語気
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

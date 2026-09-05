@@ -1,0 +1,39 @@
+id: vi-grm-00512
+language: vi
+type: grammar
+level: L2
+level_rank: 2
+title: 「không...nào cả」：彻底否定，一个也不……
+structure: không + 名词/量词短语 + nào cả
+structure_pattern: không + N + nào cả
+explanation_zh: “không...nào cả”表彻底否定，强调“一个都不……”；“không có ai cả”即“没有任何人”。句末的“nào
+  cả / ai cả”加强否定语气，相当于中文“……都没有 / 一个也没有”。
+examples:
+- text: Không có ai cả!
+  reading: ''
+  annot: Không có ai cả!
+  translation_zh: 一个也没有！
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+- text: tụi con trai không đứa nào dại gì nói thật.
+  reading: ''
+  annot: tụi con trai không đứa nào dại gì nói thật.
+  translation_zh: 男孩子们没有一个傻到会去说实话。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 否定
+- 语气
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

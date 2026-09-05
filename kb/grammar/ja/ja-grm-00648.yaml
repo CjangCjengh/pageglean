@@ -1,0 +1,31 @@
+id: ja-grm-00648
+language: ja
+type: grammar
+level: N2
+level_rank: 4
+title: 〜そのもの：强调化身（正是……本身）
+structure: 名詞＋形式名詞「そのもの」
+structure_pattern: N + そのもの
+explanation_zh: 「そのもの」接在名词后，表示“正是……本身”“……的典型化身”，起强烈强调作用。此处形容伊斯卡的样子完全就是“害羞少女”本人。用于强调某事物是某一概念的完美代表。
+examples:
+- text: そのイスカの姿は、完全に『恥じらう乙女』そのもので。
+  reading: ''
+  annot: そのイスカの姿[すがた]は、完全[かんぜん]に『恥[は]じらう乙女[おとめ]』そのもので。
+  translation_zh: 伊斯卡那副模样，完全就是个“含羞少女”本身。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 强调
+- 形式名词
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

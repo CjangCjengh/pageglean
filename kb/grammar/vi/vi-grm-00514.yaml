@@ -1,0 +1,32 @@
+id: vi-grm-00514
+language: vi
+type: grammar
+level: L3
+level_rank: 3
+title: 「vừa...lại vừa...」：既……又……
+structure: vừa + 形容词 + lại vừa + 形容词
+structure_pattern: vừa + Adj + lại vừa + Adj
+explanation_zh: “vừa...lại vừa...”并列两种同时存在的状态，对应中文“既……又……”。两个形容词短语前后呼应，强调矛盾或并存的特质。注意与表“刚刚”的“vừa
+  mới”区分。
+examples:
+- text: Tiểu Li vừa xa vời như những câu chuyện cổ lại vừa gần kề như những sớm mai.
+  reading: ''
+  annot: Tiểu Li vừa xa vời như những câu chuyện cổ lại vừa gần kề như những sớm mai.
+  translation_zh: 小丽既遥远得像那些古老的故事，又近得像一个个清晨。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 并列
+- 语气
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

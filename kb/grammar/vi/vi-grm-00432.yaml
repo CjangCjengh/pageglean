@@ -1,0 +1,31 @@
+id: vi-grm-00432
+language: vi
+type: grammar
+level: L2
+level_rank: 2
+title: càng... càng...：越…越…
+structure: càng + 形/动, càng + 形/动
+structure_pattern: càng + A/V , càng + A/V
+explanation_zh: 表示两个程度同步变化，相当于中文「越…越…」。前后两个 càng 呼应，前项为伴随变化，后项为结果。可用于同一或不同主语。
+examples:
+- text: con gái càng lớn càng khôn, con trai càng lớn càng ngu!
+  reading: ''
+  annot: con gái càng lớn càng khôn, con trai càng lớn càng ngu!
+  translation_zh: 女孩越大越聪明，男孩越大越笨！
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 比较/程度
+- 关联结构
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

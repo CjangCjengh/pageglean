@@ -1,0 +1,31 @@
+id: ja-grm-00762
+language: ja
+type: grammar
+level: N3
+level_rank: 3
+title: 样态助動詞「そうだ」：〜しそうだ（眼看要〜／似乎能〜）
+structure: 用言連用形 ＋ 样态助動詞「そうだ」
+structure_pattern: V/A連用形 + そうだ(様態)
+explanation_zh: 样态助动词「そうだ」接在用言连用形后，表示根据眼前状况作出推测，即“看起来……、眼看就要……”。片段中「いけそうだ」「なれそうだ」均由可能动词直接接续。须与接终止形、表示传闻的「そうだ」严格区分。
+examples:
+- text: おまえの顔なら遠慮なくいけそうだ。
+  reading: ''
+  annot: おまえの顔[かお]なら遠慮[えんりょ]なくいけそうだ。
+  translation_zh: 要是你那张脸的话，我毫不客气也能揍得下去。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 样态
+- 助動詞
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

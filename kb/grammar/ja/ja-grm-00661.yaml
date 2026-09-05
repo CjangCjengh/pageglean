@@ -1,0 +1,31 @@
+id: ja-grm-00661
+language: ja
+type: grammar
+level: N3
+level_rank: 3
+title: 敬语两层次：谦让语「お〜しております」与尊敬语「おいでください」
+structure: 「お＋動詞連用形＋しております」（謙譲語）／「おいでください」（尊敬語「おいでになる」の依頼表現）
+structure_pattern: お + V(連用形) + しております / おいでください
+explanation_zh: 「お待ちしております」是谦让语「お＋连用形＋する」接持续体的形式，通过压低自己来抬高对方；「おいでください」是尊敬语「おいでになる」（「来る／行く」的尊敬说法）的礼貌请求。字条整体使用高规格敬语，营造出郑重又神秘的气氛。
+examples:
+- text: 学園の先の公園にてお待ちしております。戦闘準備を整え、おいでください
+  reading: ''
+  annot: 学園[がくえん]の先[さき]の公園[こうえん]にてお待[ま]ちしております。戦闘[せんとう]準備[じゅんび]を整[ととの]え、おいでください
+  translation_zh: 我们在学园前方的公园恭候。请做好战斗准备，前来赴约
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 敬语
+- 书面语
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 0
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

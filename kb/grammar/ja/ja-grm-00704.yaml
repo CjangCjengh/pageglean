@@ -1,0 +1,38 @@
+id: ja-grm-00704
+language: ja
+type: grammar
+level: N3
+level_rank: 3
+title: 「〜じゃねぇ／〜んじゃねーか」：粗豪反问（口语缩约）
+structure: 断定助动词「だ」的否定「ではない」→「じゃない」→「じゃねぇ」；形式名词「の」＋ではない（か）→「んじゃねーか」
+structure_pattern: じゃない → じゃねぇ；〜んじゃない → 〜んじゃねーか
+explanation_zh: 男性粗豪口语中，「じゃない」常缩约为「じゃねぇ」，「のではない（か）」缩约为「んじゃねー（か）」，用以反问、表达不满或主张。文中「だめじゃねぇかそれ」是主角对老师胡闹的抗议，「あってもいいんじゃねーか」是对逝者无人哀悼的牢骚。均为轻小说典型的男性口吻。
+examples:
+- text: だめじゃねぇかそれ！
+  reading: ''
+  annot: だめじゃねぇかそれ！
+  translation_zh: 那怎么行啊！
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+- text: つーか死んだんだからもうちょい悲しむとかそういうイベントはあってもいいんじゃねーか？
+  reading: ''
+  annot: つーか死[し]んだんだからもうちょい悲[かな]しむとかそういうイベントはあってもいいんじゃねーか？
+  translation_zh: 话说，（她）都死了，稍微办点悲伤之类的活动不也行吗？
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 语气
+- 口语
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

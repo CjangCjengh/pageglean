@@ -1,0 +1,31 @@
+id: ja-grm-00695
+language: ja
+type: grammar
+level: N3
+level_rank: 3
+title: 〜せいで：归咎性的原因
+structure: 用言連体形（ナ形-な／名詞-の）＋せい＋で
+structure_pattern: V連体形/イ形連体形/ナ形-な/名詞-の + せいで
+explanation_zh: 形式名词「せい」表示导致不良结果的原因，带归咎、埋怨语气，相当于“都怪……”“就是因为……才”。片段三次出现，全是把责任推给对方，如「ノートをとらないせいで」「出入りしやがるせいで」。
+examples:
+- text: 昨日のことはわからんのだよ。あのアホがきちんとノートをとらないせいで。
+  reading: ''
+  annot: 昨日[きのう]のことはわからんのだよ。あのアホがきちんとノートをとらないせいで。
+  translation_zh: 昨天的事我哪知道啊。都怪那个笨蛋不好好记笔记。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 形式名词
+- 接续
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

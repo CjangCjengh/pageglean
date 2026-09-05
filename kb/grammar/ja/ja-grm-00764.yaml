@@ -1,0 +1,31 @@
+id: ja-grm-00764
+language: ja
+type: grammar
+level: N3
+level_rank: 3
+title: 「〜くせに」：明明〜却（责备语气）
+structure: 用言連体形／体言＋の ＋ 形式名詞「くせ」＋ 助詞「に」
+structure_pattern: V連体形 + くせに
+explanation_zh: 形式名词「くせ」＋助词「に」表示责备性的逆接，意为“明明……却……”。用言以连体形接续，如「用意したくせに」。语气较强，一般不用于礼貌场合；此处妹妹用来抢白哥哥，符合人物口吻。
+examples:
+- text: 自分で用意したくせに何言ってるのです。
+  reading: ''
+  annot: 自分[じぶん]で用意[ようい]したくせに何[なに]言[い]ってるのです。
+  translation_zh: 明明是你自己准备的，还在说什么呢。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 逆接
+- 形式名詞
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

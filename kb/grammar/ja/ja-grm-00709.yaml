@@ -1,0 +1,31 @@
+id: ja-grm-00709
+language: ja
+type: grammar
+level: N5
+level_rank: 1
+title: 助詞と：引用话语与誓言的内容
+structure: 用言終止形（简体小句）＋と（＋言う）
+structure_pattern: Clause-終止形 + と + 言う
+explanation_zh: 格助詞「と」表示说话或思考的内容，后接「言う」「思う」等动词。此处三个短句各以「と」结句，引用当时立下的誓言，引语在前、动词可省略。与汉语“说……”的语序相反，日语引语内容置于引述动词之前。
+examples:
+- text: 必ず借りは返すと。おまえがピンチな時に必ずたすけてやると。約束すると。
+  reading: ''
+  annot: 必[かなら]ず借[か]りは返[かえ]すと。おまえがピンチな時[とき]に必[かなら]ずたすけてやると。約束[やくそく]すると。
+  translation_zh: （我说）人情一定会还。你遇到危机时我一定会救你。我们拉钩约定。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 助词
+- 引用
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

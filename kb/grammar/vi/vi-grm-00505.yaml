@@ -1,0 +1,31 @@
+id: vi-grm-00505
+language: vi
+type: grammar
+level: L3
+level_rank: 3
+title: Vậy mà：转折让步「亏我还/结果却」
+structure: Vậy mà + Chủ ngữ + V…
+structure_pattern: Vậy mà + mệnh đề
+explanation_zh: 「Vậy mà」表事实与预期相反，含失望或惊讶，相当于中文「亏我还…/结果却…」。连接前后两个相反的情形，后句常带 bất ngờ（出乎意料）的语气。
+examples:
+- text: Vậy mà tao cứ tưởng mày ngon lành!
+  reading: ''
+  annot: Vậy mà tao cứ tưởng mày ngon lành!
+  translation_zh: 亏我还一直以为你很厉害呢！
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 连接
+- 语气
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

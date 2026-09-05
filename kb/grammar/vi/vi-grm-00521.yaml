@@ -1,0 +1,31 @@
+id: vi-grm-00521
+language: vi
+type: grammar
+level: L2
+level_rank: 2
+title: chỉ … thôi：只是……罢了
+structure: chỉ + … + thôi（副词 chỉ 与句末语气词 thôi 呼应，表示限定、淡化）
+structure_pattern: chỉ + … + thôi
+explanation_zh: “chỉ … thôi”由副词 chỉ（只）与句末语气词 thôi（罢了）呼应，表示“只不过是……而已”，用于淡化事情的分量。两者常成对使用，也可省略其一。本句以此辩解“这只是小时候的事”。
+examples:
+- text: Nhưng đây chỉ là chuyện hồi nhỏ thôi!
+  reading: ''
+  annot: Nhưng đây chỉ là chuyện hồi nhỏ thôi!
+  translation_zh: 可这只是小时候的事罢了！
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 限定
+- 语气词
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

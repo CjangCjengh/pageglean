@@ -1,0 +1,38 @@
+id: ko-grm-00801
+language: ko
+type: grammar
+level: TOPIK2
+level_rank: 2
+title: 「-는데：背景、转折与委婉铺垫」
+structure: 용언 어간 + 연결어미 '-는데'（过去制 '-았/었는데'；서술격조사 '이다' 后为 '-(이)ㄴ데'）
+structure_pattern: 용언 어간 + -는데
+explanation_zh: ‘-는데’为后句提供背景铺垫，或表示转折对比，相当于汉语“……可是……”“……却……”。也可用于句末，表示留有余地或感叹。本段中的‘-는데’均用于引出背景，为后文的惊讶做铺垫。
+examples:
+- text: 언제나 검을 휘두르며 종횡무진 하는 그녀였기 때문에 깨닫지 못했는데, 역시 그녀는 아직 작고 어린 열여덟 살 소녀였다.
+  reading: ''
+  annot: 언제나 검을 휘두르며 종횡무진 하는 그녀였기 때문에 깨닫지 못했는데, 역시 그녀는 아직 작고 어린 열여덟 살 소녀였다.
+  translation_zh: 因为她总是挥剑纵横驰骋，我没能意识到——可她果然还只是个娇小的十八岁少女。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+- text: 갑자기 속살을 훤히 드러낸 여자애가 막 들이대는데, 무슨 재간으로 침착하게 반응하란 말이야.
+  reading: ''
+  annot: 갑자기 속살을 훤히 드러낸 여자애가 막 들이대는데, 무슨 재간으로 침착하게 반응하란 말이야.
+  translation_zh: 一个突然把肌肤露得一览无余的女孩子就这么凑上来，叫我拿什么本事保持镇定啊。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 连接词尾
+- 语气
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

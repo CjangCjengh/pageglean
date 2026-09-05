@@ -1,0 +1,38 @@
+id: vi-grm-00500
+language: vi
+type: grammar
+level: L2
+level_rank: 2
+title: 「sự + V／形」：名词化
+structure: sự + V/Adj（+ của + N）
+structure_pattern: sự + V/Adj
+explanation_zh: 「sự」加在动词或形容词前，把动作、状态变成抽象名词，相当于汉语的“…的事／…性／…感”。常与「của」（的）连用构成名词短语，在叙述文体中高频出现。
+examples:
+- text: Sự pha trò của nó khiến tôi phì cười
+  reading: ''
+  annot: Sự pha trò của nó khiến tôi phì cười
+  translation_zh: 它的插科打诨让我扑哧笑出声来。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+- text: Hải gầy phá tan sự im lặng
+  reading: ''
+  annot: Hải gầy phá tan sự im lặng
+  translation_zh: 瘦阿海打破了沉默。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 名词化
+- 构词
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 4
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

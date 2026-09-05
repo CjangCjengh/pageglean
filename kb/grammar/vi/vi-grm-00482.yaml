@@ -1,0 +1,34 @@
+id: vi-grm-00482
+language: vi
+type: grammar
+level: L4
+level_rank: 4
+title: chẳng thà…còn hơn…：宁可……也好过……
+structure: chẳng thà + A，còn hơn + B
+structure_pattern: chẳng thà + A + còn hơn + B
+explanation_zh: 表示取舍的比较句式：宁可接受 A，也胜过让 B 发生；其中 hơn 是比较副词（phó từ so sánh hơn），còn 加强「还是、仍然」的肯定语气。汉语可译为「宁可……也好过／胜过……」，注意语义方向是「取
+  A 以免 B」。
+examples:
+- text: Chẳng thà để nó chê tôi "lãng xẹt" còn hơn để nó biết kế hoạch "ám muội" của
+    tôi.
+  reading: ''
+  annot: Chẳng thà để nó chê tôi "lãng xẹt" còn hơn để nó biết kế hoạch "ám muội"
+    của tôi.
+  translation_zh: 宁可让它嫌我"蠢兮兮"，也好过让它知道我那个见不得人的计划。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 比较
+- 复句
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

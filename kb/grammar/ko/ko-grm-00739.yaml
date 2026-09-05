@@ -1,0 +1,38 @@
+id: ko-grm-00739
+language: ko
+type: grammar
+level: TOPIK2
+level_rank: 2
+title: 「-(으)ㄴ/는：动词、形容词直接作定语」
+structure: 용언 어간 + 관형사형 전성어미 -(으)ㄴ/-는 + 체언(명사)
+structure_pattern: V/A-(으)ㄴ/는 + N
+explanation_zh: 韩语不用从句而用词尾作定语：动词现在时用冠形词形转成词尾 -는、过去时用 -(으)ㄴ，形容词用 -(으)ㄴ，直接置于名词之前。片段中「지닌」「펼쳐진」「세워진」均为动词过去冠形词形修饰名词。中文母语者需注意修饰语永远在被修饰名词之前，翻译时要调整语序。
+examples:
+- text: 제국 남부 1,079만 마나르의 영지를 지닌 여제후, 적(赤)의 아리네시아.
+  reading: ''
+  annot: 제국 남부 1,079만 마나르의 영지를 지닌 여제후, 적(赤)의 아리네시아.
+  translation_zh: 拥有帝国南部1079万马纳尔领地的女诸侯——『赤』之阿莉涅西亚。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+- text: 울창한 숲을 지나 마차에서 내린 우리들은 눈앞에 펼쳐진 미궁을 쳐다봤다.
+  reading: ''
+  annot: 울창한 숲을 지나 마차에서 내린 우리들은 눈앞에 펼쳐진 미궁을 쳐다봤다.
+  translation_zh: 穿过茂密的森林、从马车上下来的我们，抬头望向展现在眼前的迷宫。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 转成词尾
+- 定语
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 10
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

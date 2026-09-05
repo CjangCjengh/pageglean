@@ -1,0 +1,40 @@
+id: ko-grm-00786
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: 「-탓이다 / -탓에」：归咎、缘由
+structure: 관형절 + 의존명사 ‘탓’ + 서술격 조사 -이다 / 부사격 조사 -에
+structure_pattern: (관형절)탓이다 / 탓에
+explanation_zh: 依存名词 탓 表示招致不良结果的原因，即「都怪……」「……害的」，结构为冠形节＋탓＋이다/에。片段中出现两次：焦躁是距离越拉越远的缘故，喉咙痛则怪突然开始奔跑。与中性词
+  때문이다 相比，탓 带有归咎、抱怨的语气。
+examples:
+- text: 열심히 달려 보아도 거리가 좁혀지기는커녕 점점 멀어지자 초조해진 탓이다.
+  reading: ''
+  annot: 열심히 달려 보아도 거리가 좁혀지기는커녕 점점 멀어지자 초조해진 탓이다.
+  translation_zh: 这是因为尽管拼命奔跑，距离非但没有拉近反而越来越远，才让人焦急起来。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+- text: 나는 갑자기 달리기 시작한 탓에 목구멍이 따끔거리는 것을 간신히 눌러 참으며
+  reading: ''
+  annot: 나는 갑자기 달리기 시작한 탓에 목구멍이 따끔거리는 것을 간신히 눌러 참으며
+  translation_zh: 因为突然开始奔跑，喉咙阵阵刺痛，我勉强按捺住这感觉，……
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 依存名词
+- 原因
+- 语气
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 8
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

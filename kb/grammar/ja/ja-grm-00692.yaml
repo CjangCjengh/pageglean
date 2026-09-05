@@ -1,0 +1,31 @@
+id: ja-grm-00692
+language: ja
+type: grammar
+level: N2
+level_rank: 4
+title: 〜たところで：即使……也枉然
+structure: 助動詞「た」（連体形）＋接続助詞「ところで」（逆接・無駄）
+structure_pattern: V-た(連体形) + ところで
+explanation_zh: 「たところで」表示“即使……也（没有意义/无济于事）”，后句多接否定、反问或消极结论，比「ても」更强调徒劳感。本句还叠加了「〜ものでもない」（也并非能……），使语气更婉转。
+examples:
+- text: でも、そう言われたところでどうにかできるものでもないんだよね。
+  reading: ''
+  annot: でも、そう言[い]われたところでどうにかできるものでもないんだよね。
+  translation_zh: 不过，就算被这么说了，也不是就能有什么办法的事，是吧。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 逆接
+- 语气
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

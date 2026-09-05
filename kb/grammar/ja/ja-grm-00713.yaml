@@ -1,0 +1,39 @@
+id: ja-grm-00713
+language: ja
+type: grammar
+level: N3
+level_rank: 3
+title: 〜っけ：唤起记忆与确认的终助词
+structure: 用言終止形（简体，多接た形）＋っけ
+structure_pattern: V/A-終止形(简体) + っけ
+explanation_zh: 终助词「っけ」用于追忆、确认记忆中含糊的事，相当于“……来着？”“……了吗？”。常接过去助動詞「た」之后。轻小说独白中用来营造回忆与不确定的语感，属典型口语表达。
+examples:
+- text: 五月ってこんなに暑かったっけ？
+  reading: ''
+  annot: 五月[ごがつ]ってこんなに暑[あつ]かったっけ？
+  translation_zh: 五月份有这么热来着？
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+- text: え、なんかしたっけ？
+  reading: ''
+  annot: え、なんかしたっけ？
+  translation_zh: 诶，我做了什么吗？
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 终助词
+- 口语
+- 语气
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

@@ -1,0 +1,40 @@
+id: ko-grm-00796
+language: ko
+type: grammar
+level: TOPIK2
+level_rank: 2
+title: -아/어 본 적 있다/없다：有没有过某种经历
+structure: V-아/어(경험의 보조 동사 '보다') + 관형사형 전성어미 '-(으)ㄴ' + 의존명사 '적' + 있다/없다
+structure_pattern: V-아/어 보다 + -(으)ㄴ 적 있다/없다
+explanation_zh: 由经验补助动词 -아/어 보다 的冠词形 -(으)ㄴ 修饰依存名词 적，再加 있다/없다，表示有无某种经历，相当于中文「……过/没……过」。是口语中询问、陈述经历的典型结构，本片段多次出现。过去时制先语末词尾
+  -았/었- 可插入其后（如 해 봤다）。
+examples:
+- text: 수영해 본 적 없어?
+  reading: ''
+  annot: 수영해 본 적 없어?
+  translation_zh: 你没游过泳吗？
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+- text: 열여덟 살이나 되는 여자애가 바닷물에 발 한번 담가 본 적이 없다는 이야기는 아무래도 이상하다.
+  reading: ''
+  annot: 열여덟 살이나 되는 여자애가 바닷물에 발 한번 담가 본 적이 없다는 이야기는 아무래도 이상하다.
+  translation_zh: 一个都已经十八岁的女孩子，居然连脚都没沾过海水，这怎么听都觉得奇怪。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 경험표현
+- 의존명사
+- 보조용언
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 4
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

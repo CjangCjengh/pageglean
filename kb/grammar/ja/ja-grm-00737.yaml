@@ -1,0 +1,38 @@
+id: ja-grm-00737
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 〜のに：逆接与不满
+structure: 用言連体形 ＋ 接続助詞「のに」
+structure_pattern: V/A(連体形) + のに
+explanation_zh: 接续助词「のに」表示前后两项相反，后句常含责备、不满，可译为“明明……却……”。注意与表目的的「〜のに」（“用来……”）相区分，本段均为逆接用法。
+examples:
+- text: 髪を切れって言ってるのに切らないんです。短い方が絶対かっこいいのに
+  reading: ''
+  annot: 髪[かみ]を切[き]れって言ってるのに切[き]らないんです。短[みじか]い方[ほう]が絶対[ぜったい]かっこいいのに
+  translation_zh: 明明跟他说让他剪头发，他却不去剪。短明明绝对更帅的。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+- text: 坂本くん友達少ないなぁ。すっごくいい人なのに。
+  reading: ''
+  annot: 坂本[さかもと]くん友達[ともだち]少[すく]ないなぁ。すっごくいい人なのに。
+  translation_zh: 坂本同学朋友真少啊。明明是个特别好的人。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 接续
+- 语气
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

@@ -1,0 +1,31 @@
+id: ko-grm-00723
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: -았/었더니：回忆中的意外发现
+structure: 动词词干 + -았/었더니
+structure_pattern: V-어간 + -았/었더니
+explanation_zh: 说话人回忆自己的亲身经历，后句引出与前情不同的发现或结果，主语限第一人称。本段"깨어났더니"即"醒来一看竟然……"，带有意外感。
+examples:
+- text: 깨어났더니 판타지 세계에 전생해 있었다……
+  reading: ''
+  annot: 깨어났더니 판타지 세계에 전생해 있었다……
+  translation_zh: 醒来一看，竟然已经转生到了奇幻世界……
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 接续
+- 回忆
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

@@ -1,0 +1,31 @@
+id: ja-grm-00741
+language: ja
+type: grammar
+level: N3
+level_rank: 3
+title: 〜に決まっている：断定无疑（肯定～）
+structure: 用言終止形＋に決まっている
+structure_pattern: V・A終止形 + に決まっている
+explanation_zh: 接在用言终止形后，表示说话人依常理或情势坚信某事必然如此，相当于“肯定是～、一定是～”。口语中常省去「い」说成「に決まってる」，语气随意，有时带反驳或自嘲。此处小霞自己断言“机会肯定是没有的”。
+examples:
+- text: ……ない、に決まってるよね。ごめんね……でも、あきらめたくなくて
+  reading: ''
+  annot: ……ない、に決[き]まってるよね。ごめんね……でも、あきらめたくなくて
+  translation_zh: ……没有了，肯定是没有机会了吧。对不起……可是我不想放弃
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 语气
+- 口语
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

@@ -1,0 +1,32 @@
+id: ko-grm-00749
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: 「-에도 불구하고」：尽管……却……
+structure: 名词/이다 + -(이)ㅁ에도 불구하고
+structure_pattern: N-(이)ㅁ + 에 + 불구하다
+explanation_zh: 名词化词尾 -(으)ㅁ（体词+이다 时为 -(이)ㅁ）后接副词格助词 에 与形容词 불구하다（不顾），表示『尽管……却……』的让步。书面语色彩较浓，属正式表达。片段中『군주임에도
+  불구하고』即名词+임에도 的用法。
+examples:
+- text: 군주임에도 불구하고 후방이 아닌 선봉에 서서 칼을 휘두를 수 있는 이유다.
+  reading: ''
+  annot: 군주임에도 불구하고 후방이 아닌 선봉에 서서 칼을 휘두를 수 있는 이유다.
+  translation_zh: 这就是她尽管是君主，却能不待在后方、立于前锋挥剑的原因。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 接续
+- 让步
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

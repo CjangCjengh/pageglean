@@ -1,0 +1,38 @@
+id: ja-grm-00637
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 「〜ことにする」：决定做某事
+structure: 動詞終止形＋形式名詞「こと」＋格助詞「に」＋サ変動詞「する」
+structure_pattern: V(終止形) + こと + に + する
+explanation_zh: 用形式名词「こと」将动词短语名词化，再以「にする」表示经过主观判断后决定做某事，强调说话人自己的意志。与表示客观结果的「〜ことになる」相对，后者不强调本人意愿。口语、书面语均可使用。
+examples:
+- text: 気を取り直す意味でお茶にする事に。
+  reading: ''
+  annot: 気[き]を取[と]り直[なお]す意味[いみ]でお茶[ちゃ]にする事[こと]に。
+  translation_zh: 为了调整心情，决定先喝点茶。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+- text: とりあえず考えを保留し、今は誤魔化す事にした。
+  reading: ''
+  annot: とりあえず考[かんが]えを保留[ほりゅう]し、今[いま]は誤魔化[ごまか]す事[こと]にした。
+  translation_zh: 姑且先把想法搁置起来，决定眼下先敷衍过去。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 形式名词
+- 意志·决定
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

@@ -1,0 +1,39 @@
+id: ko-grm-00748
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: 「-잖다」：口语中提示已知理由
+structure: 动词/形容词词干 + -잖아(요)
+structure_pattern: V/A-잖다 (< -지 않다)
+explanation_zh: '''-지 않다'' 的口语缩略形，作终结词尾使用。向听话人指出双方已知或现场可确认的事实，以此作为理由，常带强调或轻微责备的语气。书面语中相当于
+  -지 않다 或 -니까。'
+examples:
+- text: 다들 앉아. 서 있으면 다리만 아프잖아.
+  reading: ''
+  annot: 다들 앉아. 서 있으면 다리만 아프잖아.
+  translation_zh: 大家都坐下吧。站着腿只会疼啊。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+- text: 모처럼 모였는데 즐겁게 대화를 나누면 좋잖아.
+  reading: ''
+  annot: 모처럼 모였는데 즐겁게 대화를 나누면 좋잖아.
+  translation_zh: 难得聚在一起，愉快地聊聊天不好吗。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 终结词尾
+- 口语
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 4
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

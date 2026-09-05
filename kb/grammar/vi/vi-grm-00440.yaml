@@ -1,0 +1,40 @@
+id: vi-grm-00440
+language: vi
+type: grammar
+level: L1
+level_rank: 1
+title: 「đi」：祈使与催促语气
+structure: V + đi!（句末）
+structure_pattern: V + đi (tình thái từ cầu khiến, cuối câu)
+explanation_zh: 「đi」是句末语气词（tình thái từ cầu khiến），放在动词后表示催促、鼓励或请求对方做某事，语气亲切自然。相当于中文祈使句尾的「吧／啊」，「Ăn
+  đi!」即「吃吧！」。
+examples:
+- text: Anh ăn đi!
+  reading: ''
+  annot: Anh ăn đi!
+  translation_zh: 你吃吧！
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+- text: Việt An ăn đi!
+  reading: ''
+  annot: Việt An ăn đi!
+  translation_zh: 越安，你吃吧！
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 语气
+- 祈使
+- 虚词
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

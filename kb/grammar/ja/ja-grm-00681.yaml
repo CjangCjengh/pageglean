@@ -1,0 +1,31 @@
+id: ja-grm-00681
+language: ja
+type: grammar
+level: N3
+level_rank: 3
+title: 口语缩约：ている→てん；〜じゃねぇ（粗犷口语否定）（口语）
+structure: 「ている」（て＋補助動詞「いる」）→てん；「ではない」→じゃない→じゃねぇ
+structure_pattern: V-ている → てん + じゃない → じゃねぇ
+explanation_zh: 口语中「ている」常缩为「てん」，「ではない→じゃない→じゃねぇ」是较粗犷的口语否定。本句即「イチャついているんじゃない」的口语形，另含「遅い→遅ぇ」的形容词缩约。属生动口语，阅读时需能辨识缩约。
+examples:
+- text: 出るの遅ぇ！ イチャついてんじゃねぇよ!!
+  reading: ''
+  annot: 出[で]るの遅[おそ]ぇ！ イチャついてんじゃねぇよ!!
+  translation_zh: 接电话也太慢了！别在那儿卿卿我我的!!
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 口语
+- 缩约
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 0
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

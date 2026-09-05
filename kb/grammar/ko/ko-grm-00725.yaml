@@ -1,0 +1,31 @@
+id: ko-grm-00725
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: -는 김에：趁机顺便
+structure: 动词词干 + -는 김에
+structure_pattern: V-어간 + -는 김에
+explanation_zh: 表示趁着做前一事的机会顺便做后一事，相当于"趁……顺便……"。接动词词干，文中"생각난 김에"即"趁想起来的这会儿"。
+examples:
+- text: 생각난 김에 담당 편집자에게 문자를 보내기 위해 핸드폰을 주머니에서 꺼내 들었다.
+  reading: ''
+  annot: 생각난 김에 담당 편집자에게 문자를 보내기 위해 핸드폰을 주머니에서 꺼내 들었다.
+  translation_zh: 趁想起来的这会儿，为了给责任编辑发短信，我从口袋里掏出了手机。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 接续
+- 顺便
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

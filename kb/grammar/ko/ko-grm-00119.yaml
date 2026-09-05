@@ -15,6 +15,13 @@ examples:
   source_book: book-ko-015
   source_chapter: null
   pointer: null
+- text: 설마, 이런 함정을 파 놨을 줄은…… 꽤 신선하네…….
+  reading: ''
+  annot: 설마, 이런 함정을 파 놨을 줄은…… 꽤 신선하네…….
+  translation_zh: 没想到，竟然事先挖好了这样的陷阱……还挺新鲜的……
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
 related:
   cross_lang: []
   same_lang: []

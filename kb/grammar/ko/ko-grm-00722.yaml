@@ -1,0 +1,31 @@
+id: ko-grm-00722
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: -았다가：完成后的逆转
+structure: 动词词干 + -았다가
+structure_pattern: V-어간 + -았다가
+explanation_zh: 表示前一动作完成后转向相反或相对的情况，带有"逆转"语感，相当于"……之后却……"。与单纯接续的"-고"不同，前后内容必须对立，且主语须为同一主体。
+examples:
+- text: 트럭에 치여서 정신을 잃었다가 깨어났더니 판타지 세계에 전생해 있었다
+  reading: ''
+  annot: 트럭에 치여서 정신을 잃었다가 깨어났더니 판타지 세계에 전생해 있었다
+  translation_zh: 被卡车撞到失去意识，醒来后却已转生到了奇幻世界
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 接续
+- 逆转
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

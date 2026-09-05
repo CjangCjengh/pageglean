@@ -1,0 +1,31 @@
+id: ko-grm-00783
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: 「-(으)ㄴ 모양이다：看样子……」
+structure: 谓词词干 + 관형사형 전성어미 -(으)ㄴ + 의존명사 '모양' + '이다'
+structure_pattern: V/A-(으)ㄴ + 모양이다
+explanation_zh: 依存名词 모양 加叙述格调查 이다，表示根据外部迹象作出推测，相当于「看来……」「似乎……」。与主观展望 -(으)ㄹ 것이다 相比，更强调以观察到的情况为客观依据。
+examples:
+- text: 나를 꿰뚫어 보는 능력이 ―나에게 안 좋은 쪽으로만― 월등히 좋아진 모양이다.
+  reading: ''
+  annot: 나를 꿰뚫어 보는 능력이 ―나에게 안 좋은 쪽으로만― 월등히 좋아진 모양이다.
+  translation_zh: （他们）看穿我的本事——偏偏只在对我不利的方面——似乎显著提高了。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 语气
+- 推测
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

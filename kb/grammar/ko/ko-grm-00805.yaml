@@ -1,0 +1,38 @@
+id: ko-grm-00805
+language: ko
+type: grammar
+level: TOPIK2
+level_rank: 2
+title: 「敬语阶位：-시-、-ㅂ니다、-드리다」
+structure: 선어말어미 '-시-'（주체높임）+ 존댓말 종결어미 '-ㅂ니다'；보조동사 '-아/어 드리다'（객체높임）
+structure_pattern: V/A + -시- + -ㅂ니다 / V + -아/어 드리다
+explanation_zh: 韩语依说话者与听话者的关系选择敬语阶位：先语末词尾‘-시-’抬高主语，‘-ㅂ니다’是正式礼貌阶终结词尾，‘-드리다’是‘주다’的谦敬形式。本段中约娜始终使用敬语，与叙述者及少女们的半语形成对照，凸显其认真性格。
+examples:
+- text: 혹시, 평소에 눈치가 없다는 평을 듣지 않으시나요?
+  reading: ''
+  annot: 혹시, 평소에 눈치가 없다는 평을 듣지 않으시나요?
+  translation_zh: 请问，您平时难道没被人说过不会察言观色吗？
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+- text: 자살 명소라도 추천해 드릴까요.
+  reading: ''
+  annot: 자살 명소라도 추천해 드릴까요.
+  translation_zh: 需要我给您推荐一处自杀胜地吗？
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 敬语
+- 终结词尾
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 4
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

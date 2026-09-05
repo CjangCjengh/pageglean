@@ -1,0 +1,33 @@
+id: ko-grm-00790
+language: ko
+type: grammar
+level: TOPIK2
+level_rank: 2
+title: -거나：列举选择（或……或……）
+structure: 动词词干 + 连接词尾 -거나（表示选择关系的对等连接）
+structure_pattern: V + -거나
+explanation_zh: 连接词尾，列举两个以上的动作或状态以供选择，相当于“或……或……”。可反复使用，也可置于末句表示“任选其一即可”。片段中即用其逐一列举消暑休息的方式。
+examples:
+- text: 아주 차가운 음식을 먹거나, 창문을 모두 열어 둔 방에서 하루 종일 뒹굴뒹굴하거나, 잡초가 무성한 후원의 그늘에 누워 흘러가는 구름이나
+    쳐다보고 있는 것.
+  reading: ''
+  annot: 아주 차가운 음식을 먹거나, 창문을 모두 열어 둔 방에서 하루 종일 뒹굴뒹굴하거나, 잡초가 무성한 후원의 그늘에 누워 흘러가는 구름이나
+    쳐다보고 있는 것.
+  translation_zh: 或是吃很凉的食物，或是在窗户全开着的房间里滚来滚去一整天，或是躺在杂草丛生的后院树荫里，望着流过的云朵发呆。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 连接词尾
+- 选择/列举
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

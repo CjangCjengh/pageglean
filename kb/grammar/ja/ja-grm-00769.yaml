@@ -1,0 +1,31 @@
+id: ja-grm-00769
+language: ja
+type: grammar
+level: N2
+level_rank: 4
+title: 使役受身：被迫做……
+structure: 動詞未然形 + 使役助動詞（せる/させる）+ 受身助動詞（られる）→ らされる
+structure_pattern: V-未然形 + せられる/られる → される/らされる
+explanation_zh: 使役助动词「せる/させる」与受身助动词「られる」叠用构成使役受身，表“被迫做某事”。五段动词的「せられる」口语中常约简为「される」。本片段用于抱怨被迫到处走。
+examples:
+- text: なんのために歩きまわらされたんだか。
+  reading: ''
+  annot: なんのために歩[ある]きまわらされたんだか。
+  translation_zh: 到底是为了什么让我这么到处跑啊
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 助动词
+- 语气
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

@@ -1,0 +1,31 @@
+id: ja-grm-00731
+language: ja
+type: grammar
+level: N2
+level_rank: 4
+title: 〜ながらも：逆接让步
+structure: 動詞連用形＋接続助詞「ながらも」
+structure_pattern: V-連用形 + ながらも
+explanation_zh: 接续助词「ながら（も）」接动词连用形，表示逆接让步，“虽然……却……”，语感略带书面色彩。「わかっていながらも」即“虽然心里明白，却还是……”。片段中两度出现，刻画主人公明知对方用意、嘴上不服却暗自高兴的矛盾心理。
+examples:
+- text: そうわかっていながら、どこかほんわかしている自分がちょっと悔しい。
+  reading: ''
+  annot: そうわかっていながら、どこかほんわかしている自分[じぶん]がちょっと悔[くや]しい。
+  translation_zh: 虽然明白是这么回事，却仍有点懊恼于心中隐隐感到暖意的自己。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 接续
+- 书面语
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

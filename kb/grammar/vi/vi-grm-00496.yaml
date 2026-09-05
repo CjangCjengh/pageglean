@@ -1,0 +1,39 @@
+id: vi-grm-00496
+language: vi
+type: grammar
+level: L2
+level_rank: 2
+title: 「vừa / mới」：刚刚
+structure: vừa / mới + 动词
+structure_pattern: vừa/mới + V
+explanation_zh: vừa 和 mới 都置于动词前表示「刚刚」，vừa 强调动作刚发生，mới 侧重「才、仅仅」。常与 đã 呼应构成「mới…đã…」，意为「刚一……就已经……」。
+examples:
+- text: Buổi trưa, vừa về đến nhà, ăn qua loa vài chén cơm, tôi chạy qua thăm Tiểu
+    Li.
+  reading: ''
+  annot: Buổi trưa, vừa về đến nhà, ăn qua loa vài chén cơm, tôi chạy qua thăm Tiểu
+    Li.
+  translation_zh: 中午，我刚回到家，胡乱扒了几口饭，就跑去看小莉。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+- text: chỉ mới nghĩ tới thôi, tôi đã thấy bối rối
+  reading: ''
+  annot: chỉ mới nghĩ tới thôi, tôi đã thấy bối rối
+  translation_zh: 只不过是刚这么一想，我就已经觉得心慌意乱。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 时态/副词
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

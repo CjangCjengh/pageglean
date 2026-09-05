@@ -1,0 +1,38 @@
+id: ko-grm-00768
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: -듯(이) / -는 것처럼：比喻「好像……一样」
+structure: 마치 + 动词词干 + -듯(이)；마치 + 动词 + -는 것처럼
+structure_pattern: 마치 + V-듯(이) / V-는 것처럼
+explanation_zh: 连接词尾-듯(이)与“冠形形词尾-는＋依存名词것＋助词처럼”都表示比喻，相当于“好像……一样”，常与副词마치呼应。前者直接接动词词干，后者可接各类用言的定语形。片段中两式并用，可对照体会。
+examples:
+- text: 마치 두부를 자르듯, 검은 너무나 빠르고 정확하고 부드럽게 살갗을 찢고 내장을 휘저으며 내 안으로 들어와 박혔다.
+  reading: ''
+  annot: 마치 두부를 자르듯, 검은 너무나 빠르고 정확하고 부드럽게 살갗을 찢고 내장을 휘저으며 내 안으로 들어와 박혔다.
+  translation_zh: 仿佛切豆腐一般，剑无比迅捷、精准而柔顺地划开肌肤、翻搅内脏，深深扎进了我的身体。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+- text: 마치 애초에 존재하지 않는 것처럼.
+  reading: ''
+  annot: 마치 애초에 존재하지 않는 것처럼.
+  translation_zh: 就好像（他/她）从一开始就不曾存在过一样。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 连接词尾
+- 比喻
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 4
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

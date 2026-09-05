@@ -1,0 +1,31 @@
+id: ja-grm-00727
+language: ja
+type: grammar
+level: N5
+level_rank: 1
+title: 〜ている（口语缩约〜てる）：进行与状态存续
+structure: 動詞連用形＋補助動詞「ている」（口語縮約「てる」）
+structure_pattern: V-連用形 + ている（口語縮約：てる）
+explanation_zh: 补助动词「ている」接动词连用形，表示动作进行或结果状态的存续。口语中「い」脱落为「てる」，过去式「ていた」变为「てた」，语气随意亲昵。女主角辩解时的「ハマってただけ」「読んでただけ」即此形，是轻小说对话的基本形态。
+examples:
+- text: たまたま今はこーゆーのにハマってただけ！ 流行ってるから読んでただけだもん。
+  reading: ''
+  annot: たまたま今[いま]はこーゆーのにハマってただけ！ 流行[はや]ってるから読[よ]んでただけだもん。
+  translation_zh: 只是碰巧现在迷上了这种东西而已！只是因为流行才看看的而已嘛。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 体貌
+- 口语
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 6
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

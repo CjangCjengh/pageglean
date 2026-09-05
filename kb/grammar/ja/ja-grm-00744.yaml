@@ -1,0 +1,39 @@
+id: ja-grm-00744
+language: ja
+type: grammar
+level: N1
+level_rank: 5
+title: 〜すら／〜ことすら：连～都（甚至）
+structure: 体言＋すら／用言連体形＋こと＋すら
+structure_pattern: N + すら / V-終止形 + ことすら
+explanation_zh: 助词「すら」举出极端事例，暗示其余更不待言，相当于口语的「さえ」，书面色彩较浓；用言须先经形式名词「こと」名词化才能接续。本段两处呼应——「それすらできない」「言葉を交わすことすらも」——渲染出连最起码的事都做不到的无力感。
+examples:
+- text: なのに、俺にはそれすらできないんだ
+  reading: ''
+  annot: なのに、俺[おれ]にはそれすらできないんだ
+  translation_zh: 可是，我却连这一点都做不到。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+- text: 向かい合うことも、手をとることも、言葉を交わすことすらも。
+  reading: ''
+  annot: 向[む]かい合[あ]うことも、手[て]をとることも、言葉[ことば]を交[か]わすことすらも。
+  translation_zh: 无论是相对而坐、牵起手来，乃至彼此交谈，都无从做到。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 助词
+- 书面语
+- 强调
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

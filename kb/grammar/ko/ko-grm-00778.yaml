@@ -1,0 +1,40 @@
+id: ko-grm-00778
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: 「-ㄴ/는 듯：比喻与推测（의존명사 듯）」
+structure: 용언 어간 + 관형사형 어미 '-ㄴ/는' + 의존명사 '듯'
+structure_pattern: V/A + -ㄴ/는 듯
+explanation_zh: 의존명사 듯 表示比喻或推测：过去接 -ㄴ 듯，现在或持续状态接 -는 듯。“찌는 듯한 더위” 以 -는 듯 构成比喻，“긴장한
+  듯” 以 -ㄴ 듯 表示推测。相当于中文的“好像……”。
+examples:
+- text: 찌는 듯한 더위에 땀이 턱을 타고 흘러내린다.
+  reading: ''
+  annot: 찌는 듯한 더위에 땀이 턱을 타고 흘러내린다.
+  translation_zh: 酷暑蒸人，汗水顺着下巴滴落下来。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+- text: 작고 붉은 입술이 잔뜩 긴장한 듯 파르르 떨렸다.
+  reading: ''
+  annot: 작고 붉은 입술이 잔뜩 긴장한 듯 파르르 떨렸다.
+  translation_zh: 小小的红唇仿佛极度紧张似的，微微颤抖着。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 의존명사
+- 비유
+- 추측
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

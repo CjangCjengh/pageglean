@@ -1,0 +1,40 @@
+id: ko-grm-00832
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: -(으)ㄹ지도 모른다：不确定的推测
+structure: 用言词干 -(으)ㄹ + 依存名词 지 + 补助词 도 + 모른다
+structure_pattern: V-(으)ㄹ지 + 도 + 모른다
+explanation_zh: 冠形词尾（定语词尾）-(으)ㄹ 修饰依存名词 지，再加补助词 도 和 모른다，表示把握不大的推测，“也许……、说不定……”。常与副词
+  어쩌면 呼应，比 -ㄹ 것이다 语气更委婉。原文两处连用，渲染主角对微弱希望的不确定感。
+examples:
+- text: 어쩌면 나는 이브도 구할 수 있을지도 모른다.
+  reading: ''
+  annot: 어쩌면 나는 이브도 구할 수 있을지도 모른다.
+  translation_zh: 说不定，我连伊芙也能救得了。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+- text: 300년 전, 내가 저지른 참혹한 비극의 막을 드디어 내릴 수 있게 될 지도 모른다.
+  reading: ''
+  annot: 300년 전, 내가 저지른 참혹한 비극의 막을 드디어 내릴 수 있게 될 지도 모른다.
+  translation_zh: 也许，三百年前我酿成的那场惨剧，终于可以落下帷幕了。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 推测
+- 依存名词
+- 补助词
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

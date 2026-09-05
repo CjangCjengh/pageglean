@@ -15,6 +15,13 @@ examples:
   source_book: book-ja-007
   source_chapter: null
   pointer: null
+- text: こちらが逃げ出さない限り、イスカも正面から向かってくるはず
+  reading: ''
+  annot: こちらが逃[に]げ出[だ]さない限[かぎ]り、イスカも正面[しょうめん]から向[む]かってくるはず
+  translation_zh: 只要我们不逃跑，伊斯卡应该也会从正面攻过来
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
 related:
   cross_lang: []
   same_lang: []

@@ -1,0 +1,32 @@
+id: ko-grm-00738
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: 「-아/어 보니(까)：……之后发现……（体验后的发现）」
+structure: 动词 + -아/어 + 보조 동사 '보다' + -니(까)
+structure_pattern: V-아/어 보니(까)
+explanation_zh: -아/어 보니(까) 表示亲身做了前项动作之后，才发现或意识到后项的新情况，相当于「……一看，发现……」。因为以亲身体验为前提，只接动词。片段用于主人公瞥见迈莎神情的瞬间。
+examples:
+- text: 마이시아를 힐끔 쳐다보니 살짝 불만스러워하는 분위기였다.
+  reading: ''
+  annot: 마이시아를 힐끔 쳐다보니 살짝 불만스러워하는 분위기였다.
+  translation_zh: 我偷偷瞥了一眼迈莎，发现她隐隐带着不满的样子。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 词尾
+- 发现
+- 接续
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

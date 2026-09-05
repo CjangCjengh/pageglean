@@ -1,0 +1,33 @@
+id: vi-grm-00450
+language: vi
+type: grammar
+level: L2
+level_rank: 2
+title: nhất là：尤其是
+structure: ……，nhất là + NP（追加强调同类中最突出的一项）
+structure_pattern: clause , nhất là + NP
+explanation_zh: nhất là 意为「尤其是」，用于在同一类事物中追加强调最突出的一项，是极比形容词 nhất（最）的固定用法，起聚焦作用。通常置于名词短语或补充性分句之前。本段「nhất
+  là những thứ có chất glucose」即「尤其是含葡萄糖的东西」。
+examples:
+- text: thứ gì cũng phải chia ba, nhất là những thứ có chất glucose.
+  reading: ''
+  annot: thứ gì cũng phải chia ba, nhất là những thứ có chất glucose.
+  translation_zh: 什么都要分成三份，尤其是含葡萄糖的东西。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 副词
+- 强调
+- 焦点
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

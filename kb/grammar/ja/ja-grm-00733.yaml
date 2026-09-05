@@ -1,0 +1,32 @@
+id: ja-grm-00733
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 〜ておく→〜とけ：预先处置的口语命令形
+structure: 動詞連用形 ＋ ておく（補助動詞）→ 口語約音「とく」→ 命令形「とけ」
+structure_pattern: V-連用形 + ておく → とく → とけ
+explanation_zh: 补助动词「おく」接在动词连用形后，表示事先做好某事或使某状态保持下去。口语中「ておく」约音为「とく」，其命令形「〜とけ」语气强硬，多用于粗鲁的忠告或命令。
+examples:
+- text: そこは友達とかでごまかしとけよ！
+  reading: ''
+  annot: そこは友達[ともだち]とかでごまかしとけよ！
+  translation_zh: 那种地方就该拿“朋友”之类的搪塞过去啊！
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 体貌
+- 口语
+- 语气
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

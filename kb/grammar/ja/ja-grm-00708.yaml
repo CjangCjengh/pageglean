@@ -1,0 +1,31 @@
+id: ja-grm-00708
+language: ja
+type: grammar
+level: N2
+level_rank: 4
+title: 助動詞「ず」：文言否定
+structure: 動詞未然形＋ず（連体形：ざる）
+structure_pattern: V-未然形 + ず/ざる
+explanation_zh: 「ず」是文语否定助動詞，接动词未然形，相当于「ない」。其连用形「ず」可作副词使用（＝ずに，“……而不……”）；连体形为「ざる」，保留在「望む望まざるに関わらず」等固定表达中。文中「逆らえず流されていった」即「逆らわないで流された」的书面说法。
+examples:
+- text: 川の流れに逆らえず流されていった。
+  reading: ''
+  annot: 川[かわ]の流[なが]れに逆[さか]らえず流[なが]されていった。
+  translation_zh: 根本无法逆着河水的激流，就这么被冲走了。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 助動詞
+- 文語
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

@@ -1,0 +1,31 @@
+id: ja-grm-00766
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 〜ちゃう：〜てしまう的口语约音
+structure: 動詞連用形（音便）+ 接続助詞「て」 + しまう → 〜ちゃう
+structure_pattern: V-て + しまう → 〜ちゃう / 〜じゃう
+explanation_zh: 「〜てしまう」的口语约音形，五段动词拨音便后作「〜じゃう」。表示完成或遗憾，本例中表达歉意。轻小说对白中高频出现，属典型口语语法。
+examples:
+- text: 勝手に読んじゃってごめんね～
+  reading: ''
+  annot: 勝手[かって]に読[よ]んじゃってごめんね～
+  translation_zh: 擅自看了（信），对不起呀～
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 口语
+- 体貌
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

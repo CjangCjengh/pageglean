@@ -1,0 +1,31 @@
+id: ja-grm-00691
+language: ja
+type: grammar
+level: N2
+level_rank: 4
+title: 〜ようが：无论……也……
+structure: V-未然形＋受身助動詞「れる」＋意志助動詞「う／よう」（連体形）＋副助詞「が」（逆接譲歩）
+structure_pattern: V-(ら)れる + う/よう + が
+explanation_zh: 意志助動詞「う／よう」后接副助詞「が」，构成逆接让步，表示“无论……也……”，后句给出不受前项影响的结论。比「〜ても」语气更强、更书面，口语也可说「〜ようと」。本句「思われようが」即被身「思われる」＋「よう」＋「が」。
+examples:
+- text: ま、他人にどう思われようが興味ないけどな。
+  reading: ''
+  annot: ま、他人[たにん]にどう思[おも]われようが興味[きょうみ]ないけどな。
+  translation_zh: 嘛，不管别人怎么看我，我都无所谓就是了。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 譲歩
+- 语气
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

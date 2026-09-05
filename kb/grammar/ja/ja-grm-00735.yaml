@@ -1,0 +1,38 @@
+id: ja-grm-00735
+language: ja
+type: grammar
+level: N3
+level_rank: 3
+title: 〜ものだ：一般倾向与感慨（もんだ）
+structure: 述辞終止形 ＋ 形式名詞「もの」 ＋ 断定の助動詞「だ」（口語「もんだ」）
+structure_pattern: V/A(終止形) + ものだ／もんだ
+explanation_zh: 形式名词「もの」加断定助动词「だ」，表示一般性倾向、本质或深沉的感慨，口语中说成「もんだ」。本段「いるもんだ」感叹“还真有不少这种人”，「強がっているものです」表示“这类人往往如此”。
+examples:
+- text: 世の中にヒマ人てのはいくらでもいるもんだ。
+  reading: ''
+  annot: 世[よ]の中[なか]にヒマ人[じん]てのはいくらでもいるもんだ。
+  translation_zh: 这世上闲人还真是多得是啊。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+- text: そういう男の子こそ、虚勢を張って強がっているものです。
+  reading: ''
+  annot: そういう男[おとこ]の子[こ]こそ、虚勢[きょせい]を張[は]って強[つよ]がっているものです。
+  translation_zh: 正是那样的男孩子，才会硬撑着装坚强。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 形式名词
+- 语气
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

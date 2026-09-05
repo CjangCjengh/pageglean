@@ -1,0 +1,39 @@
+id: vi-grm-00457
+language: vi
+type: grammar
+level: L1
+level_rank: 1
+title: có…không 与 V + không：是非问句
+structure: 疑问句（câu nghi vấn）：có + 名/动 + không？ 或 动词短语 + không？
+structure_pattern: có + X + không / V + không
+explanation_zh: 越南语是非问最典型的格式是在谓语前后嵌有…không，或直接在句末加 không，如“Anh có vé không?”“Việt
+  An đi xem phim nữa không?”。肯定回答可用 có（如“Có đây!”），否定用 không。
+examples:
+- text: '- Anh có vé không? - Có đây! Giấy mời hai chỗ!'
+  reading: ''
+  annot: ''
+  translation_zh: ——你有票吗？——有呢！两张座位的请柬！
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+- text: Việt An đi xem phim nữa không?
+  reading: ''
+  annot: Việt An đi xem phim nữa không?
+  translation_zh: 越安要不要再去看电影？
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 疑问
+- 句型
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

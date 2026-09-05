@@ -1,0 +1,34 @@
+id: vi-grm-00462
+language: vi
+type: grammar
+level: L2
+level_rank: 2
+title: Mặc dù…nhưng…：虽然……但是……
+structure: Mặc dù + 小句（承认的事实），nhưng + 小句（转折）
+structure_pattern: Mặc dù + clause + nhưng + clause
+explanation_zh: 相当于汉语「虽然……但是……」，是越南语让步复句的固定框架。mặc dù 引出承认的事实，nhưng 引出转折，两者常呼应使用。nhưng
+  可单独使用，但句中有 mặc dù 时一般保留 nhưng。
+examples:
+- text: Mặc dù thừa biết Hải gầy là chúa ba hoa nhưng thấy nó nhiệt tình sát cánh
+    bên tôi trong lúc "hiểm nghèo"
+  reading: ''
+  annot: Mặc dù thừa biết Hải gầy là chúa ba hoa nhưng thấy nó nhiệt tình sát cánh
+    bên tôi trong lúc "hiểm nghèo"
+  translation_zh: 虽然明知道瘦海是个十足的吹牛大王，但看到它在“危难”时刻还满腔热情地与我并肩站在一起……
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 连词
+- 让步复句
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

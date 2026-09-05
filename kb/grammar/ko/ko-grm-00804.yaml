@@ -1,0 +1,39 @@
+id: ko-grm-00804
+language: ko
+type: grammar
+level: TOPIK2
+level_rank: 2
+title: 「-았/었으면 좋겠다：希望与愿望」
+structure: 용언 어간 + 가정 연결어미 '-았/었으면' + 보조형용사 '좋겠다'（소망 표현）
+structure_pattern: V/A + -았/었으면 좋겠다
+explanation_zh: 表示说话者的希望或愿望，相当于“要是……就好了”“希望……”。比‘-면 좋겠다’多一层过去形假设，实现的不确定性更强。也可用于委婉表达请求，如文中的‘내리지
+  말아 줬으면 좋겠다’。
+examples:
+- text: 죽게 되면 천국 갈 수 있었으면 좋겠다.
+  reading: ''
+  annot: 죽게 되면 천국 갈 수 있었으면 좋겠다.
+  translation_zh: 要是死了的话，希望能上天堂就好了。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+- text: 그렇게 한심하단 얼굴로 객관적인 평가 내리지 말아 줬으면 좋겠다.
+  reading: ''
+  annot: 그렇게 한심하단 얼굴로 객관적인 평가 내리지 말아 줬으면 좋겠다.
+  translation_zh: 真希望别用那副无语的表情，给出这么客观的评价。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 表现
+- 语气
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

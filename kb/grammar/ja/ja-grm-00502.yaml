@@ -15,6 +15,13 @@ examples:
   source_book: book-ja-011
   source_chapter: null
   pointer: null
+- text: こっちの世界に来て早々に、そんな事態に巻き込まれるとは
+  reading: ''
+  annot: こっちの世界に来て早々に、そんな事態に巻き込まれるとは
+  translation_zh: 剛到這個世界沒多久，竟然就被捲入那種事態
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
 related:
   cross_lang: []
   same_lang: []

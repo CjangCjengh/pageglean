@@ -1,0 +1,31 @@
+id: vi-grm-00445
+language: vi
+type: grammar
+level: L2
+level_rank: 2
+title: 「vừa…(lại) vừa…」：两种状态并存
+structure: vừa + Adj/V + (lại) vừa + Adj/V
+structure_pattern: vừa…(lại) vừa… (cặp quan hệ từ song song)
+explanation_zh: 「vừa…(lại) vừa…」是并列关联词（cặp quan hệ từ song song），连接两个同时存在的状态或动作，相当于中文「又……又……／既……又……」。中间可加「lại」以加强语气。
+examples:
+- text: Tôi thở phào, vừa nhẹ nhõm lại vừa thất vọng.
+  reading: ''
+  annot: Tôi thở phào, vừa nhẹ nhõm lại vừa thất vọng.
+  translation_zh: 我松了口气，既感到轻松，又有些失望。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 连词
+- 并列
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

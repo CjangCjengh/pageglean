@@ -1,0 +1,33 @@
+id: vi-grm-00453
+language: vi
+type: grammar
+level: L3
+level_rank: 3
+title: Bộ…hả?：该不会……吧
+structure: Bộ + 陈述小句 + hả?（带惊讶的推测疑问）
+structure_pattern: Bộ + clause + hả ?
+explanation_zh: Bộ 是南方口语中的疑问副词（phó từ nghi vấn），表示带惊讶或怀疑的推测，相当于「莫非、该不会」，与句末语气词（tình
+  thái từ）hả 呼应构成问句。北方话可用「chắc là…à／phải không」对应。本段「Bộ mày tu rồi hả?」即「你该不会真的出家了吧？」
+examples:
+- text: Bộ mày tu rồi hả?
+  reading: ''
+  annot: Bộ mày tu rồi hả?
+  translation_zh: 你该不会真的出家了吧？
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 疑问
+- 语气词
+- 南方方言
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

@@ -1,0 +1,32 @@
+id: ko-grm-00834
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: -든 … -든：无论哪种选择
+structure: 用言词干 -든(지) … -든(지)（让步选择连接词尾）
+structure_pattern: V-든 + V-든
+explanation_zh: 连接词尾 -든(지) 前后并列，表示无论选择哪一项，后句结论都不受影响，“不管……还是……”。어쨌든 由 어찌하든 缩略而来，已固化为副词“反正、无论如何”。常与
+  간에 搭配，加强让步语气。
+examples:
+- text: 브룬이 이겼든 내가 이겼든, 어쨌든 간에.
+  reading: ''
+  annot: 브룬이 이겼든 내가 이겼든, 어쨌든 간에.
+  translation_zh: 不管是布伦赢了，还是我赢了，反正——
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 连接词尾
+- 让步
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

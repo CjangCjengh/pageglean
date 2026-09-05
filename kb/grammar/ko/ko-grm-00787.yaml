@@ -1,0 +1,32 @@
+id: ko-grm-00787
+language: ko
+type: grammar
+level: TOPIK5
+level_rank: 5
+title: 「-는커녕」：别说……，反而……
+structure: 동사·형용사 어간 + 연결어미 -는커녕
+structure_pattern: V/A-는커녕
+explanation_zh: 连接词尾 -는커녕 表示后句与前句的期待完全相反，即「非但没能……反而……」；体言后则用 -은/는커녕。片段中「距离非但没拉近反而越来越远」是其典型用例。中文近似「别说……，反倒……」。
+examples:
+- text: 열심히 달려 보아도 거리가 좁혀지기는커녕 점점 멀어지자 초조해진 탓이다.
+  reading: ''
+  annot: 열심히 달려 보아도 거리가 좁혀지기는커녕 점점 멀어지자 초조해진 탓이다.
+  translation_zh: 尽管拼命奔跑，距离非但没有拉近反而越来越远，这才让人焦急起来。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 接续
+- 转折
+- 递进
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 5
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

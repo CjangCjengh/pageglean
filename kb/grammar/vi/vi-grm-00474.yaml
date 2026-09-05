@@ -1,0 +1,39 @@
+id: vi-grm-00474
+language: vi
+type: grammar
+level: L2
+level_rank: 2
+title: 句末助词 rồi：完成与已然
+structure: 动词/形容词短语 + rồi（句末）
+structure_pattern: VP/AP + rồi
+explanation_zh: 句末的 rồi 是情态助词（trợ từ tình thái），表示动作已经完成或情况已经变化，相当于汉语句末的“了”。它与谓语前的
+  đã 分工不同：đã 侧重动作完成，句末 rồi 侧重状态变化，两者可分可合。片段中 về rồi、chơi thua hết rồi 都是典型的已然用法。
+examples:
+- text: Thằng Hải tới tìm con, đợi lâu quá không được nó về rồi.
+  reading: ''
+  annot: Thằng Hải tới tìm con, đợi lâu quá không được nó về rồi.
+  translation_zh: 阿海来找你，等太久等不着，他已经回去了。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+- text: Tao chơi thua hết rồi, mày trả mấy viên bi kia lại cho tao chơi tiếp.
+  reading: ''
+  annot: Tao chơi thua hết rồi, mày trả mấy viên bi kia lại cho tao chơi tiếp.
+  translation_zh: 我都输光了，你把那几颗弹珠还给我让我接着玩。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 体貌
+- 语气
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

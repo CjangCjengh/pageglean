@@ -1,0 +1,34 @@
+id: vi-grm-00502
+language: vi
+type: grammar
+level: L3
+level_rank: 3
+title: 「mặc dù…vẫn」：让步转折
+structure: Mặc dù + 分句，S + vẫn + V
+structure_pattern: Mặc dù ..., ... vẫn ...
+explanation_zh: 「mặc dù」引出让步状语，相当于“尽管、虽然”；主句用「vẫn」（仍然）呼应，构成转折。相当于汉语“虽然……但还是……”。
+examples:
+- text: Mặc dù chẳng còn mấy tin tưởng vào nhà quân sư quạt mo này, tôi vẫn phải bám
+    vào nó
+  reading: ''
+  annot: Mặc dù chẳng còn mấy tin tưởng vào nhà quân sư quạt mo này, tôi vẫn phải
+    bám vào nó
+  translation_zh: 尽管对这位“狗头军师”已没多少信任，我还是得依靠他。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 连词
+- 让步
+- 复句
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

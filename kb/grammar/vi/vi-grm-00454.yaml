@@ -1,0 +1,33 @@
+id: vi-grm-00454
+language: vi
+type: grammar
+level: L4
+level_rank: 4
+title: làm như…vậy：好像……似的
+structure: làm như + 小句 + vậy（比喻、揣测，常暗示与事实不符）
+structure_pattern: làm như + clause + vậy
+explanation_zh: làm như 引出比喻或揣测的小句，句末加语气词（tình thái từ）vậy 收束，意为「好像……似的」，常暗示夸张或与事实不符。与中文「好像……一样」对应，但语序为「làm
+  như + 小句 + vậy」。本段主人公自嘲「好像我不是爱一个人，而是同时爱上了三个人似的」。
+examples:
+- text: làm như không phải tôi yêu một người mà yêu cùng lúc ba người vậy
+  reading: ''
+  annot: làm như không phải tôi yêu một người mà yêu cùng lúc ba người vậy
+  translation_zh: 好像我不是爱一个人，而是同时爱上了三个人似的。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 比较
+- 语气词
+- 句式
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

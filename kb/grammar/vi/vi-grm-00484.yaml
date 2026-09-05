@@ -1,0 +1,39 @@
+id: vi-grm-00484
+language: vi
+type: grammar
+level: L2
+level_rank: 2
+title: …mà cũng…：竟然连……也……（责备语气）
+structure: A + mà cũng + B
+structure_pattern: A + mà cũng + B
+explanation_zh: mà 在此为表转折、对立的关联词（quan hệ từ），带出乎意料或责备语气；cũng 加强「连……也」的意味。「A mà cũng
+  B」常用于嘲讽或不满，意为「连 A 竟然也 B／A 居然也值得 B」。
+examples:
+- text: Bận mà cũng bắt chước!
+  reading: ''
+  annot: Bận mà cũng bắt chước!
+  translation_zh: 连"忙"也要模仿！
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+- text: Chấm có chút xíu mà cũng đòi.
+  reading: ''
+  annot: Chấm có chút xíu mà cũng đòi.
+  translation_zh: 才蘸了一丁点儿，也好意思讨回去。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 语气
+- 关联词
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

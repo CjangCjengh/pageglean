@@ -1,0 +1,38 @@
+id: vi-grm-00469
+language: vi
+type: grammar
+level: L1
+level_rank: 1
+title: 分类词（danh từ chỉ đơn vị）
+structure: 数词 + 分类词 + 名词（如 viên 小而圆物 / bông 花 / cái 一般物品）
+structure_pattern: số từ + danh từ chỉ đơn vị + danh từ
+explanation_zh: 越南语计数时须在名词前加分类词（danh từ chỉ đơn vị / loại từ），语序为“数词＋分类词＋名词”。不同名词搭配不同分类词：viên
+  用于小而圆的物体，bông 用于花，cái 用于一般物品。这是中文母语者需重点掌握的部分。
+examples:
+- text: Nó còn ngắt mấy bông cúc trước sân cắm vào ly.
+  reading: ''
+  annot: Nó còn ngắt mấy bông cúc trước sân cắm vào ly.
+  translation_zh: 它还摘了几朵院子前的菊花插进杯里。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+- text: Sao mày không kiếm một cái lọ?
+  reading: ''
+  annot: Sao mày không kiếm một cái lọ?
+  translation_zh: 你怎么不找一个瓶子呢？
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 分类词
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 5
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

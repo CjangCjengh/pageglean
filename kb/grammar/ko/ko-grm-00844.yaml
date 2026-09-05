@@ -1,0 +1,39 @@
+id: ko-grm-00844
+language: ko
+type: grammar
+level: TOPIK2
+level_rank: 2
+title: 「-아/어 있다：结果状态的持续」
+structure: 동사 어간 + 연결어미 '-아/어' + 보조용언 '있다'
+structure_pattern: V + -아/어 있다
+explanation_zh: -아/어 后接补助动词 있다，表示动作完成后其结果状态仍在持续，相当于中文“（已经）……着”。它与强调动作进行的 -고 있다 不同，着眼于状态的存续。片段中“각인되어
+  있었다”“원상 복구되어 있었다”反复出现，描写事件过后遗留的状态。
+examples:
+- text: 이 감촉만은 어제의 일처럼 생생하게 손 안에 각인되어 있었다.
+  reading: ''
+  annot: 이 감촉만은 어제의 일처럼 생생하게 손 안에 각인되어 있었다.
+  translation_zh: 唯独这触感，如同昨日之事一般，鲜活地铭刻在我的掌心里。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+- text: 거짓말처럼, 도시는 다시 원상 복구되어 있었다.
+  reading: ''
+  annot: 거짓말처럼, 도시는 다시 원상 복구되어 있었다.
+  translation_zh: 如同谎言一般，城市已经恢复了原貌。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 状态持续
+- 补助动词
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 4
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

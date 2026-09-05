@@ -1,0 +1,39 @@
+id: vi-grm-00501
+language: vi
+type: grammar
+level: L3
+level_rank: 3
+title: 「mà」：转折与假设
+structure: …mà… ／ S + mà + V（引出假设）
+structure_pattern: S + mà + V, ...
+explanation_zh: 「mà」作连词可表转折，相当于“却、可是”；置于主语后还能引出假设条件，相当于“一旦、要是”。两种用法在本片段中都有出现，是越南语极常用的连接手段。
+examples:
+- text: Tao mà "xa" nó một cái, nó sẵn sàng "xa" tao liền.
+  reading: ''
+  annot: Tao mà "xa" nó một cái, nó sẵn sàng "xa" tao liền.
+  translation_zh: 我一旦“离开”她，她立马就会“离开”我。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+- text: vậy mà tao nhìn qua cả buổi đâu có thấy nó liếc cái nào
+  reading: ''
+  annot: vậy mà tao nhìn qua cả buổi đâu có thấy nó liếc cái nào
+  translation_zh: 可我看了一上午，也没见她瞟我一眼。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 连词
+- 转折
+- 假设
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 5
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

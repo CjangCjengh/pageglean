@@ -1,0 +1,32 @@
+id: ja-grm-00644
+language: ja
+type: grammar
+level: N2
+level_rank: 4
+title: 〜た上で：在…的基礎上／之後
+structure: 動詞連用形＋た＋上で（形式名詞「上」＋助詞「で」）
+structure_pattern: V-連用形(た) + 上で
+explanation_zh: 「た」表示前項動作已完成，「上で」表示「在此基礎之上再進行後項」。強調後項是經過前項的充分準備或考量後才實施的。比單純的「〜てから」更正式，帶有「慎重考量」的語感。
+examples:
+- text: 中で行う事をしっかりと理解した上で、信頼し合うパートナーと共に入るのが正しい入り方だ
+  reading: ''
+  annot: 中で行う事をしっかりと理解した上で、信頼し合うパートナーと共に入るのが正しい入り方だ
+  translation_zh: 在充分理解裡面所進行之事的基礎上，與相互信賴的伴侶一同進入才是正確的進入方式
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 接續
+- 形式名詞
+- 書面語
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

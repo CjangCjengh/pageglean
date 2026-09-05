@@ -1,0 +1,32 @@
+id: ko-grm-00726
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: -던：回忆定语（那时……的）
+structure: 动词词干 + -던（冠形词形转成词尾）
+structure_pattern: V-어간 + -던(관형사형 전성어미)
+explanation_zh: 由回忆先语末词尾"-더-"与冠形词形词尾"-ㄴ"构成，回想过去未完成或持续的状态并转作定语，相当于"（那时）……的"。区别于表示已完结的"-았/었던"，"-던"强调当时仍在进行或持续。
+examples:
+- text: 뒤에서 속도를 줄이지 않고 달려오던 승용차가, 나를 뒤에서 들이박았다.
+  reading: ''
+  annot: 뒤에서 속도를 줄이지 않고 달려오던 승용차가, 나를 뒤에서 들이박았다.
+  translation_zh: 从后方没有减速驶来的轿车，从背后撞向了我。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 冠形词形
+- 回忆
+- 时制
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 4
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

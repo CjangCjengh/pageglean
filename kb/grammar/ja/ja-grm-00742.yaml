@@ -1,0 +1,31 @@
+id: ja-grm-00742
+language: ja
+type: grammar
+level: N2
+level_rank: 4
+title: 〜としか言いようがない：只能这么说（唯有～）
+structure: 引用の「と」＋しか＋言いようがない（動詞連用形＋ようがない）
+structure_pattern: 〜としか + 言いようがない
+explanation_zh: 「ようがない」接动词连用形表示“即使想～也无法～”；「〜としか言いようがない」是高频惯用搭配，意为“除了～之外没别的说法、只能说是～”，用于强调唯一而强烈的评价。句中「ほんと」是「本当に」的口语缩略。
+examples:
+- text: ほんと申し訳ないとしか言いようがない。
+  reading: ''
+  annot: ほんと申[もう]し訳[わけ]ないとしか言[い]いようがない。
+  translation_zh: 真的只能说是万分抱歉。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 惯用表达
+- 语气
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

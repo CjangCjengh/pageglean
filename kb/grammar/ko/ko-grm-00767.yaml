@@ -1,0 +1,31 @@
+id: ko-grm-00767
+language: ko
+type: grammar
+level: TOPIK2
+level_rank: 2
+title: -거나：表示选择的连接词尾「或者」
+structure: 用言词干 + -거나
+structure_pattern: V/A-거나
+explanation_zh: 连接词尾（연결어미），接在用言词干后，表示前后两项动作或状态中任选其一，相当于中文“或者”。可以叠用构成“-거나 -거나”。本句说连“惨叫或呼痛”的余地都没有，极言事发之突然。
+examples:
+- text: 비명을 지르거나 아픔을 호소할 틈도 없었다.
+  reading: ''
+  annot: 비명을 지르거나 아픔을 호소할 틈도 없었다.
+  translation_zh: 连发出一声惨叫或诉说疼痛的余地都没有。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 连接词尾
+- 选择
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 5
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

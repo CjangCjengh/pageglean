@@ -1,0 +1,39 @@
+id: ko-grm-00735
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: 「-는데：留有余地的终结词尾」
+structure: 用言 + -는데（本为连接词尾，口语中用作终结词尾）
+structure_pattern: V/A-는데
+explanation_zh: -는데 作终结词尾时不把事情说断，而是提示背景或含蓄提出相反意见，等待对方回应，语气委婉、留有回旋余地。相当于汉语「……(你觉得呢)」。片段中蒂尔普连续两次用它委婉地反讽迈莎。
+examples:
+- text: 너도 딱히 마스터에게 예의 바른 태도를 취하고 있는 것 같지는 않은데?
+  reading: ''
+  annot: 너도 딱히 마스터에게 예의 바른 태도를 취하고 있는 것 같지는 않은데?
+  translation_zh: 你好像也没对主人摆出多有礼貌的态度吧？
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+- text: 시도 때도 없이 들이대는 건 예의 바른 태도가 아닌 것 같은데.
+  reading: ''
+  annot: 시도 때도 없이 들이대는 건 예의 바른 태도가 아닌 것 같은데.
+  translation_zh: 不分时候地往上贴，好像算不上有礼貌的态度吧。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 词尾
+- 语气
+- 口语
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

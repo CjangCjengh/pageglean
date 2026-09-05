@@ -1,0 +1,40 @@
+id: vi-grm-00443
+language: vi
+type: grammar
+level: L4
+level_rank: 4
+title: 「chứ」：强调与反问语气
+structure: …chứ! / …chứ đâu! / …chứ ai!
+structure_pattern: chứ (tình thái từ khẳng định, cuối câu)
+explanation_zh: 句末语气词（tình thái từ），强调事情显而易见、理所当然，常与疑问代词连用构成反问。「Mua chứ đâu!」（当然是买的，还能哪儿来的）、「Anh
+  chứ ai!」（是你，还能是谁）。中文没有对应虚词，需按语境译为「还能……／当然是……」。
+examples:
+- text: Mua chứ đâu!
+  reading: ''
+  annot: Mua chứ đâu!
+  translation_zh: 当然是买的喽，还能是哪儿来的！
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+- text: Anh chứ ai!
+  reading: ''
+  annot: Anh chứ ai!
+  translation_zh: 是你呀，还能是谁！
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 语气
+- 虚词
+- 强调
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

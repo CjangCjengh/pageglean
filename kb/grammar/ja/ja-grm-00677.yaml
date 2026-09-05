@@ -1,0 +1,31 @@
+id: ja-grm-00677
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 〜ことになる：将会……／结果变成……
+structure: 動詞連体形 + こと + になる
+structure_pattern: V-連体形 + こと + になる
+explanation_zh: 形式名词「こと」将动词短语名词化，「ことになる」表示事态发展的结果或客观决定，意为"（结果）会变成……"，与表示主观决定的「ことにする」相对。句中「国を相手に立ち回る事になる」指最坏情况下将与国家为敌的事态。
+examples:
+- text: 最悪、本当に国を相手に立ち回る事になる。
+  reading: ''
+  annot: 最悪[さいあく]、本当[ほんとう]に国[くに]を相手[あいて]に立[た]ち回[まわ]る事[こと]になる。
+  translation_zh: 最坏的情况，就真的会变成要与国家为敌。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 形式名词
+- 体貌
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 0
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

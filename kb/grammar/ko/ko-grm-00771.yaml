@@ -1,0 +1,32 @@
+id: ko-grm-00771
+language: ko
+type: grammar
+level: TOPIK6
+level_rank: 6
+title: -(으)ㅁ에 따라：随着……
+structure: 动词 + -(으)ㅁ에 따라
+structure_pattern: V-(으)ㅁ에 따라
+explanation_zh: 名词化词尾-(으)ㅁ把动词转为名词，再经助词에与따라（따르다的活用形）连接，表示“随着前项变化，后项也随之变化”。相当于中文“随着……”，语体正式，多见于书面叙述。
+examples:
+- text: 발치의 붉은 영역이 넓어짐에 따라 점점 한기가 몰려 왔다.
+  reading: ''
+  annot: 발치의 붉은 영역이 넓어짐에 따라 점점 한기가 몰려 왔다.
+  translation_zh: 随着脚边那片殷红的血迹不断扩散，寒气也一阵阵袭来。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 名词化
+- 书面语
+- 伴随变化
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

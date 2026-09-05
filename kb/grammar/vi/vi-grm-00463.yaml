@@ -1,0 +1,40 @@
+id: vi-grm-00463
+language: vi
+type: grammar
+level: L3
+level_rank: 3
+title: Nào là…：又是……又是……（列举）
+structure: Nào là + 事项一，nào là + 事项二，……
+structure_pattern: Nào là + NP/VP [, nào là + NP/VP …]
+explanation_zh: 用于展开一连串列举，相当于汉语「又是……」「什么……啦」，常带夸张、抱怨或戏谑色彩。可连续使用“nào là A，nào là B”逐项罗列。本段用它铺陈“军师”列出的长长计划，很有代表性。
+examples:
+- text: Nào là những lúc tôi lên bảng trả bài, nó sẽ quan sát ánh mắt của Việt An
+  reading: ''
+  annot: Nào là những lúc tôi lên bảng trả bài, nó sẽ quan sát ánh mắt của Việt An
+  translation_zh: （他列出的计划）又是：我上黑板回课时，他要观察越安的目光……
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+- text: nào là những lúc tôi trò chuyện với Việt An, nó sẽ rình coi Việt An có cười
+    với tôi không
+  reading: ''
+  annot: nào là những lúc tôi trò chuyện với Việt An, nó sẽ rình coi Việt An có cười
+    với tôi không
+  translation_zh: 又是：我和越安聊天的时候，他要偷偷观察越安有没有对我笑……
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 语气
+- 列举
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

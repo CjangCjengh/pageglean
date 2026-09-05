@@ -1,0 +1,39 @@
+id: ko-grm-00809
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: -(으)ㄴ 건지：疑惑不定的猜测
+structure: 用言词干 + 冠形词形语尾 -(으)ㄴ + 依存名词 것 + 이 + 连接语尾 -ㄴ지
+structure_pattern: V/A-(으)ㄴ + 것인지
+explanation_zh: '''-ㄴ 건지''是''-ㄴ 것인지''的缩略，依存名词''것''与''이''及表示不确定疑问的连接语尾''-ㄴ지''结合，表达无从判断时的疑惑，常以并列形式列举多种可能。相当于中文"到底是想……还是……"。'
+examples:
+- text: 약속은 지키자는 건지, 시체는 잘 감추자는 건지.
+  reading: ''
+  annot: 약속은 지키자는 건지, 시체는 잘 감추자는 건지.
+  translation_zh: 到底是想让人遵守约定呢，还是想让人把尸体藏好呢。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+- text: 강철 체력인 줄 알았던 가로도 낮의 물놀이가 피곤하긴 했는지, 지금은 아예 침대에 대자로 뻗어 있었다.
+  reading: ''
+  annot: 강철 체력인 줄 알았던 가로도 낮의 물놀이가 피곤하긴 했는지, 지금은 아예 침대에 대자로 뻗어 있었다.
+  translation_zh: 本以为加罗有着钢铁般的体力，看来白天玩水还是累了，现在正呈"大"字瘫在床上。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 依存名词
+- 疑问
+- 推测
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

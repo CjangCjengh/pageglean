@@ -1,0 +1,32 @@
+id: ko-grm-00752
+language: ko
+type: grammar
+level: TOPIK6
+level_rank: 6
+title: -기 그지없다：程度至极
+structure: 形容词词干 + 名词化词尾 -기 + 그지없다
+structure_pattern: A- + -기 + 그지없다
+explanation_zh: '''-기 그지없다''表示程度达到极点，相当于''……至极''''再……不过''，由名词化词尾''-기''加形容词''그지없다（无穷无尽）''构成，书面语色彩浓。''음침하기
+  그지없는''作冠形语修饰''목소리''，即''阴森至极的声音''。'
+examples:
+- text: 음침하기 그지없는 목소리로, 클라우가 말했다.
+  reading: ''
+  annot: 음침하기 그지없는 목소리로, 클라우가 말했다.
+  translation_zh: 克劳用阴森至极的声音说道。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 程度表现
+- 书面语
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

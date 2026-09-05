@@ -1,0 +1,38 @@
+id: ja-grm-00726
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 受身（れる・られる）：被动与受害被动
+structure: 動詞未然形＋助動詞「れる・られる」
+structure_pattern: V-未然形 + れる・られる
+explanation_zh: 学校文法将被身（被动）处理为助动词「れる・られる」接动词未然形（五段动词用れる，一段动词用られる）。本段多为说话人遭受不快的“受害被动”：铃声被擅改、被人嘲笑、被不意打ち地祝贺。与「ていた・ている」连用时表示被动状态的持续。
+examples:
+- text: 不意打ちでお祝いをされた日もある。
+  reading: ''
+  annot: 不意打[ふうい]ちでお祝[いわ]いをされた日[ひ]もある。
+  translation_zh: 也有被搞突然袭击般祝贺过的日子。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+- text: この後俺は着メロを勝手に変えられていたことに気づかず、授業中に『おにいちゃん！ 電話だよ！』という妹テロを食らうわけだが。
+  reading: ''
+  annot: この後[あと]俺[おれ]は着[ちゃく]メロを勝手[かって]に変[か]えられていたことに気[き]づかず、授業中[じゆぎようちゆう]に『おにいちゃん！
+    電話[でんわ]だよ！』という妹[いもうと]テロを食[く]らうわけだが。
+  translation_zh: 这之后，我都没发现手机铃声被擅自改掉了，上课时惨遭“妹妹恐怖袭击”……
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 被动
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 5
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

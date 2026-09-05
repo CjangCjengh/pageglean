@@ -1,0 +1,31 @@
+id: ja-grm-00652
+language: ja
+type: grammar
+level: N2
+level_rank: 4
+title: 〜ばかりか〜まで：不仅……连……也
+structure: 連体形 + 助詞「ばかりか」…… + 助詞「まで」
+structure_pattern: V-連体形 + ばかりか + N + まで
+explanation_zh: 助詞「ばかり」加「か」表示「不只」，句中以助詞「まで」呼應，構成遞進關係，意為「不僅……連……也」。與「だけでなく〜まで」同義而書面色彩更強。文中強調這項能力連隱藏性格都能揭穿。
+examples:
+- text: 任意の対象の能力を看破するばかりか、隠れた性格まで暴くこの能力。
+  reading: ''
+  annot: 任意[にんい]の対象[たいしょう]の能力[のうりょく]を看破[かんぱ]するばかりか、隠[かく]れた性格[せいかく]まで暴[あば]くこの能力[のうりょく]。
+  translation_zh: 这个能力不仅能看穿任意对象的能力，连（对方）隐藏的性格都能揭穿。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 助詞
+- 递进
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 0
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

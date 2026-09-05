@@ -1,0 +1,31 @@
+id: ja-grm-00641
+language: ja
+type: grammar
+level: N2
+level_rank: 4
+title: 「〜切れない」：无法完全做到
+structure: 動詞連用形＋補助動詞「切る」未然形＋否定助動詞「ない」
+structure_pattern: V(連用形) + 切れない
+explanation_zh: 补助动词「切る」接动词连用形表示动作彻底完成，其否定形「〜切れない」表示做不完、无法完全做到。「フォローしきれない」即无法全部照顾周全。类似表达还有「数え切れない」「言い切れない」等。
+examples:
+- text: 異性ではフォローしきれない部分が必ずある。
+  reading: ''
+  annot: 異性[いせい]ではフォローしきれない部分[ぶぶん]が必[かなら]ずある。
+  translation_zh: 作为异性，肯定有无法照顾周全的地方。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 复合动词
+- 体貌
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

@@ -1,0 +1,40 @@
+id: vi-grm-00517
+language: vi
+type: grammar
+level: L3
+level_rank: 3
+title: khiến：使、令（使役动词）
+structure: A + khiến + B + 动词／形容词（A 使 B 产生某种反应或状态）
+structure_pattern: S + khiến + O + V/Adj
+explanation_zh: khiến 是使役动词（động từ gây khiến），意为“使、令、让”，句型为 A khiến B + V/Adj。语序与汉语“让／使”句一致：原因在前，受影响者居中。本段反复出现，是叙事中表达因果关系的高频词。
+examples:
+- text: Việt An không nói gì khiến tôi càng thêm hoảng.
+  reading: ''
+  annot: Việt An không nói gì khiến tôi càng thêm hoảng.
+  translation_zh: 越安一言不发，令我越发心慌。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+- text: Nó nhìn tôi chăm chăm và đột nhiên mỉm cười, một nụ cười kỳ lạ khiến tôi băn
+    khoăn.
+  reading: ''
+  annot: Nó nhìn tôi chăm chăm và đột nhiên mỉm cười, một nụ cười kỳ lạ khiến tôi
+    băn khoăn.
+  translation_zh: 她直直地盯着我，忽然微微一笑，那奇怪的笑容让我不安。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 使役
+- 动词
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

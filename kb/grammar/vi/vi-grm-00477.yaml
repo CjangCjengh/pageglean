@@ -1,0 +1,32 @@
+id: vi-grm-00477
+language: vi
+type: grammar
+level: L3
+level_rank: 3
+title: 关系从句：标记 mà 的零形式
+structure: 名词 + (mà) + 小句；口语中 mà 常省略
+structure_pattern: N + (mà) + clause ⇒ N + ∅ + clause
+explanation_zh: 越南语的关系从句（定语从句）位于中心名词之后，可用关系标记 mà 连接，但口语中常省略，形成零形式，功能相当于汉语的“的”。片段中
+  những viên bi tôi đã cho nó 意为“我给过她的那些弹珠”，中间不出现任何标记，结构紧凑自然。
+examples:
+- text: Thậm chí tôi còn có thể... đòi lại những viên bi tôi đã cho nó trước đây.
+  reading: ''
+  annot: Thậm chí tôi còn có thể... đòi lại những viên bi tôi đã cho nó trước đây.
+  translation_zh: 我甚至可以……把以前给她的那些弹珠要回来。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 关系从句
+- 句法
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

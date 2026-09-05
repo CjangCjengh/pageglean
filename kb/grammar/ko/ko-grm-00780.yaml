@@ -1,0 +1,38 @@
+id: ko-grm-00780
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: 「-잖아(요)：提示已知事实的口语缩略」
+structure: 谓词词干 + 종결어미 -잖아(요)（'-지 않다'의 준말）
+structure_pattern: V/A-잖아
+explanation_zh: -잖아(요) 是终结词尾 -지 않다 的缩略形，口语中用来提示双方已知的事实或理由，相当于「不是……嘛」。与单纯否定不同，它重在唤起对方记忆、强调事情显而易见。片段对话中高频出现，是地道口语的标志。
+examples:
+- text: 원래 사람 많은 곳에서는 멀미했잖아?
+  reading: ''
+  annot: 원래 사람 많은 곳에서는 멀미했잖아?
+  translation_zh: 你原本在人多的地方不是会头晕吗？
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+- text: 뜨거운 물에 샤워하는 건, 그냥 취, 취향 문제잖아!
+  reading: ''
+  annot: 뜨거운 물에 샤워하는 건, 그냥 취, 취향 문제잖아!
+  translation_zh: 用热水洗澡，只是个人喜、喜好问题嘛！
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 语气
+- 口语缩略
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 4
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

@@ -1,0 +1,32 @@
+id: vi-grm-00520
+language: vi
+type: grammar
+level: L2
+level_rank: 2
+title: hả：口语是非问语气词
+structure: 陈述句 + hả？（句末加语气词构成是非问）
+structure_pattern: Câu + hả
+explanation_zh: hả 是口语中的疑问语气词（tình thái từ），加在陈述句末构成是非问，相当于汉语“吗／呀”，语气随意亲切。越南语是非问还可用
+  không、phải không 等，而 hả 更生活化。本句“giận tôi hả?”即“生我的气了吗？”。
+examples:
+- text: Việt An giận tôi hả?
+  reading: ''
+  annot: Việt An giận tôi hả?
+  translation_zh: 越安生我的气了吗？
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 疑问
+- 语气词
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

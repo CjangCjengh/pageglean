@@ -1,0 +1,32 @@
+id: vi-grm-00488
+language: vi
+type: grammar
+level: L1
+level_rank: 1
+title: 是非问句：có…không 与 phải không
+structure: có + V + không？ / S + V + phải không？
+structure_pattern: có + V + không | V + phải không
+explanation_zh: 越南语是非问句最典型的框架是 có…không，có 放在动词前发问，không 置于句末。phải không 附在陈述句后构成附加问，相当于「……对吧／是不是」。口语中还可用语气词
+  hả 表示惊讶、质疑式的简短追问（如「muốn chơi nhau hả?」）。
+examples:
+- text: Mày định quỵt tao phải không?
+  reading: ''
+  annot: Mày định quỵt tao phải không?
+  translation_zh: 你是想赖掉我的东西，是不是？
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 疑问
+- 语气
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

@@ -1,0 +1,31 @@
+id: ja-grm-00748
+language: ja
+type: grammar
+level: N3
+level_rank: 3
+title: 「〜うが〜ようが」：无论～还是～
+structure: 動詞未然形 ＋ 助動詞「う／よう」 ＋ 助詞「が」（逆接の譲歩条件）
+structure_pattern: V(未然形) + う/よう + が
+explanation_zh: 动词未然形接推量・意志的助動詞「う／よう」，再加助詞「が」，表示“无论〜还是〜”的让步条件，后项不受影响。「捕まろうが逃げきろうが」即“不管是被抓还是逃脱（媒体都不会再关注你）”。常两项对举使用，语气比「ても」更强硬随意。
+examples:
+- text: もぴりんが捕まろうが逃げきろうが、もうマスコミがおまえに注目することはない。
+  reading: ''
+  annot: もぴりんが捕[つか]まろうが逃[に]げきろうが、もうマスコミがおまえに注目[ちゅうもく]することはない。
+  translation_zh: もぴりん不管是被抓还是逃脱，媒体都不会再关注你了。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 条件
+- 口语
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 0
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

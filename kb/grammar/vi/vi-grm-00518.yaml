@@ -1,0 +1,40 @@
+id: vi-grm-00518
+language: vi
+type: grammar
+level: L4
+level_rank: 4
+title: lại：竟然、反而（出乎意料）
+structure: lại + 动词／形容词（语气副词，表示与预期相反或出乎意料）
+structure_pattern: lại + V/Adj
+explanation_zh: lại 在此是语气副词，表示事情出乎意料或与预期相反，相当于“竟然、反而”。常与 sao（为什么）、không ngờ（没想到）搭配，传达说话人的惊讶。注意与表“又、再次”义的
+  lại 区分。
+examples:
+- text: Sao Việt An lại cười?
+  reading: ''
+  annot: Sao Việt An lại cười?
+  translation_zh: 越安怎么反倒笑了？
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+- text: Tôi cười vì không ngờ anh lại nhớ kỹ những chuyện hồi nhỏ đến như vậy.
+  reading: ''
+  annot: Tôi cười vì không ngờ anh lại nhớ kỹ những chuyện hồi nhỏ đến như vậy.
+  translation_zh: 我笑是因为没想到你竟把小时候的事记得这么清楚。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 副词
+- 语气
+- 意外
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

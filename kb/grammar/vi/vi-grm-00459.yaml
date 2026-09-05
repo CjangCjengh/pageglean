@@ -1,0 +1,31 @@
+id: vi-grm-00459
+language: vi
+type: grammar
+level: L3
+level_rank: 3
+title: thà…còn hơn：“宁可……还更好”
+structure: 比较取舍结构：thà + 谓词短语 (+ còn hơn)
+structure_pattern: thà + VP (+ còn hơn)
+explanation_zh: thà…(còn hơn) 表示“宁可……（也更好）”，用于两害相权或取舍。文中“thà không yêu còn hơn”意为“倒不如不恋爱还好些”，被比较的另一项因语境明确而省略。对应汉语“宁可……还不如……”。
+examples:
+- text: Yêu như vậy thì thà không yêu còn hơn!
+  reading: ''
+  annot: Yêu như vậy thì thà không yêu còn hơn!
+  translation_zh: 像那样恋爱的话，还不如不恋爱好！
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 比较
+- 取舍
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

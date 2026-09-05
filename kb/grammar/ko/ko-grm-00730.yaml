@@ -1,0 +1,39 @@
+id: ko-grm-00730
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: 「-는데」：背景、对比与欲言又止
+structure: 동사 어간 + -는데；형용사·있/없·-았/었- 뒤 + -ㄴ/는데
+structure_pattern: V-는데 / A-ㄴ/는데
+explanation_zh: -는데 是表示背景说明、对比或留下余韵的词尾；动词后接 -는데，形容词、있다/없다 及 -았/었- 之后接 -ㄴ/는데。文中两次置于句末，以欲言又止的方式传达辩解与迟疑，是口语里极典型的用法。中文可译为“……（不过/可是）……”。
+examples:
+- text: ……아니, 난 딱히 레이나에게 고통을 줄 생각은 없는데.
+  reading: ''
+  annot: ……아니, 난 딱히 레이나에게 고통을 줄 생각은 없는데.
+  translation_zh: ……不，我可没打算特意让蕾娜痛苦。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+- text: 아니, 내 몸집이 더 큰데…… 더 불편할 것 같은데.
+  reading: ''
+  annot: 아니, 내 몸집이 더 큰데…… 더 불편할 것 같은데.
+  translation_zh: 不，我的块头更大……恐怕会更不舒服吧。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 终结词尾
+- 语气
+- 对比
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

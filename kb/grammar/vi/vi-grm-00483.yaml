@@ -1,0 +1,39 @@
+id: vi-grm-00483
+language: vi
+type: grammar
+level: L3
+level_rank: 3
+title: 成对关联词：mặc dù…nhưng… 与 sở dĩ…bởi vì…
+structure: mặc dù + A，nhưng + B；sở dĩ + 结果，bởi vì + 原因
+structure_pattern: mặc dù + A, nhưng + B / sở dĩ + clause1, bởi vì + clause2
+explanation_zh: 越南语学校语法称这类搭配为「成对关联词」（cặp quan hệ từ）。mặc dù…nhưng… 表让步转折，相当于「虽然……但是……」，与汉语不同，nhưng
+  通常保留、不与 mặc dù 互斥；sở dĩ…bởi vì… 表因果，先果后因，即「之所以……是因为……」，语体较正式。
+examples:
+- text: Mặc dù nổi nóng nhưng thấy Tiểu Li bênh tôi, Lợi sứt cũng chịu "xuống nước".
+  reading: ''
+  annot: Mặc dù nổi nóng nhưng thấy Tiểu Li bênh tôi, Lợi sứt cũng chịu "xuống nước".
+  translation_zh: 虽然很恼火，但见 Tiểu Li 护着我，Lợi sứt 也肯"服软"了。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+- text: Sở dĩ bữa nay nó chịu nói chuyện với tao bởi vì hôm qua tao đến nhà nó.
+  reading: ''
+  annot: Sở dĩ bữa nay nó chịu nói chuyện với tao bởi vì hôm qua tao đến nhà nó.
+  translation_zh: 今天她之所以肯跟我说话，是因为昨天我去了她家。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 复句
+- 关联词
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

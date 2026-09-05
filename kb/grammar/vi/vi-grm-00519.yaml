@@ -1,0 +1,35 @@
+id: vi-grm-00519
+language: vi
+type: grammar
+level: L3
+level_rank: 3
+title: không bao giờ được：绝不可以（禁止）
+structure: không bao giờ + được + 动词（任何时候都不可以做某事）
+structure_pattern: không bao giờ được + V
+explanation_zh: “không bao giờ được + V”意为“绝对不可以做……”，多用于叮嘱和禁令。其中 được 为情态动词（động từ
+  tình thái），表允许；không bao giờ 作时间状语，强调“任何时候都不”。整体相当于汉语“千万别、永远不许”。
+examples:
+- text: Hải gầy đã từng dặn tôi không bao giờ được "ca tụng" trước mặt một người con
+    gái về một người con gái khác
+  reading: ''
+  annot: Hải gầy đã từng dặn tôi không bao giờ được "ca tụng" trước mặt một người
+    con gái về một người con gái khác
+  translation_zh: 瘦海曾经告诫我，决不能在一个女孩面前“吹捧”另一个女孩
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 否定
+- 情态
+- 禁止
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

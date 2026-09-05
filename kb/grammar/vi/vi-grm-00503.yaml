@@ -1,0 +1,39 @@
+id: vi-grm-00503
+language: vi
+type: grammar
+level: L2
+level_rank: 2
+title: đã…bao giờ chưa：询问经历「可曾…过吗」
+structure: đã + V + (ai/什么) + bao giờ + chưa
+structure_pattern: đã + V + bao giờ + chưa
+explanation_zh: 越南语用「đã…bao giờ chưa」构成经历体疑问，相当于中文「可曾…过吗」，đã 与 chưa 框住动词表过去至今的经历。也可用
+  đã từng 强调「曾经」。回答用 rồi（有过）或 chưa（还没有）。
+examples:
+- text: mày đã yêu ai bao giờ chưa?
+  reading: ''
+  annot: mày đã yêu ai bao giờ chưa?
+  translation_zh: 你可曾爱过谁吗？（你谈过恋爱吗？）
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+- text: Mày đã từng yêu một tỉ người sao lại không biết?
+  reading: ''
+  annot: Mày đã từng yêu một tỉ người sao lại không biết?
+  translation_zh: 你曾爱过十亿人，怎么又会不知道呢？
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 体貌
+- 疑问
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 0
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

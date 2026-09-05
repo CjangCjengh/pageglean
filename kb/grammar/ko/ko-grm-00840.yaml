@@ -1,0 +1,32 @@
+id: ko-grm-00840
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: 「-(으)ㄹ수록：越……越……」
+structure: 용언 어간 + 연결어미 '-(으)ㄹ수록'
+structure_pattern: V/A + -(으)ㄹ수록
+explanation_zh: 连接词尾 -(으)ㄹ수록 表示随着前一分句的动作或状态程度加深，后一分句的程度也随之加深，相当于中文“越……越……”。动词、形容词均可接续。片段中“없앨수록……더
+  강해지다”表达“越消灭越强”的递进关系。
+examples:
+- text: 악마를 없앨수록 내 마력이 더 강해진다는 의미일까?
+  reading: ''
+  annot: 악마를 없앨수록 내 마력이 더 강해진다는 의미일까?
+  translation_zh: 难道是说，我越是消灭恶魔，自己的魔力就越强吗？
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 程度递进
+- 连接词尾
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

@@ -1,0 +1,33 @@
+id: ko-grm-00788
+language: ko
+type: grammar
+level: TOPIK5
+level_rank: 5
+title: 「-기 마련이다」：理所当然，必然如此
+structure: 용언 어간 + 명사형 어미 -기 + 의존명사 ‘마련’ + 서술격 조사 -이다
+structure_pattern: V/A-기 마련이다
+explanation_zh: 名词形词尾 -기 与依存名词 마련（必然的条理、道理）结合，表示按事理必然如此，即「总会……」「……是难免的」。片段用此断言胡同里的道路必然像蛛网般纵横交错。与表可能的
+  ‘-ㄹ 수 있다’ 不同，마련 强调客观规律性，语气更确定。
+examples:
+- text: 보통 골목이란 제대로 정비되지 않은 길이 거미줄처럼 뻗어 있기 마련이다.
+  reading: ''
+  annot: 보통 골목이란 제대로 정비되지 않은 길이 거미줄처럼 뻗어 있기 마련이다.
+  translation_zh: 一般的胡同里，未经整修的道路像蜘蛛网似的纵横交错，这是必然的。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 依存名词
+- 语气
+- 惯用
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 6
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

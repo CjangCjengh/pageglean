@@ -1,0 +1,31 @@
+id: ja-grm-00672
+language: ja
+type: grammar
+level: N3
+level_rank: 3
+title: 〜わけにもいかない：碍于情理而不能……
+structure: 動詞終止形 + わけにもいかない
+structure_pattern: V-終止形 + わけ + にもいかない
+explanation_zh: 形式名词「わけ」表道理、情理，「わけにもいかない」直译为"在道理上说不过去"，即碍于情理或客观状况而无法做某事，与能力上的「できない」不同。中文可译为"不能……／没法……"。句中意为"不能用这种借口长期请假"。
+examples:
+- text: そんな言い訳で、長く休むわけにもいかないから。
+  reading: ''
+  annot: そんな言[い]い訳[わけ]で、長[なが]く休[やす]むわけにもいかないから。
+  translation_zh: 因为用这种借口，也没法请太长时间的假。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 形式名词
+- 情态
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 0
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

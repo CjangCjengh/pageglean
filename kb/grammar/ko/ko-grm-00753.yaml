@@ -1,0 +1,33 @@
+id: ko-grm-00753
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: -잖아(요)：强调显而易见的事实
+structure: 谓词词干 + 终结词尾 -잖아(요)（口语）
+structure_pattern: V/A- + -잖아(요)
+explanation_zh: '''-잖아(요)''用于提示对方已知或显而易见的事实，带有强调、辩解或提醒的语气，中文近似''不是……嘛''。口语中使用极频繁，常与引用形式''-다고
+  하다''连用，如''싫다고 했잖아''（我都说了不要嘛）。'
+examples:
+- text: 싫다고 했잖아……!
+  reading: ''
+  annot: 싫다고 했잖아……!
+  translation_zh: 我不是都说了不要嘛……！
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 终结词尾
+- 口语
+- 语气
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

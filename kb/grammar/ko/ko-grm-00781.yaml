@@ -1,0 +1,31 @@
+id: ko-grm-00781
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: 「아무리 -(ㄴ/는)다고 해도：即使……也……」
+structure: 아무리 + 谓词词干 + 인용 '-다고' + 양보 연결어미 '-아/어도'
+structure_pattern: V/A-(ㄴ/는)다고 해도
+explanation_zh: 由引用结构 -다고 하다 与让步连接词尾 -아/어도 结合成 -다고 해도，表示「就算说……也……」。与副词 아무리 搭配，构成「无论再怎么……也……」的强烈让步，是中高级的典型让步表达。
+examples:
+- text: 아무리 땅값이 싸고 주변 환경이 좋다고 해도, 이런 동네로는 절대 이사 안 와.
+  reading: ''
+  annot: 아무리 땅값이 싸고 주변 환경이 좋다고 해도, 이런 동네로는 절대 이사 안 와.
+  translation_zh: 就算地价再便宜、周边环境再好，我也绝不会搬来这种地方。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 接续
+- 让步
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

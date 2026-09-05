@@ -1,0 +1,40 @@
+id: ko-grm-00811
+language: ko
+type: grammar
+level: TOPIK2
+level_rank: 2
+title: 〜기 때문이다：因为……（原因）
+structure: 动词/形容词词干 + -기 때문이다（表原因，'因为……'）
+structure_pattern: 용언 + -기 때문이다 (명사형 전성어미 -기 + 서술격 '때문이다')
+explanation_zh: 表示原因的依存名词结构，由名词化词尾'-기'加'때문이다'构成，相当于'因为……'。常用于书面及正式说明，语气较客观。句尾常用'~기
+  때문이다'，口语中则多用'~해서/~니까'。
+examples:
+- text: 키이리가 그 동전을 가지고 있기 때문에―
+  reading: ''
+  annot: 키이리가 그 동전을 가지고 있기 때문에―
+  translation_zh: 正因为绮伊莉拿着那枚硬币——
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+- text: 요나가 나서서 헬로이스 영주가 이 사태를 보상해 줄 거라고 말해 주었기 때문이다.
+  reading: ''
+  annot: 요나가 나서서 헬로이스 영주가 이 사태를 보상해 줄 거라고 말해 주었기 때문이다.
+  translation_zh: 多亏约娜站出来说，赫洛伊斯领主会补偿这次事件。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 연결어미
+- 이유/원인
+- 종속
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

@@ -1,0 +1,31 @@
+id: ja-grm-00635
+language: ja
+type: grammar
+level: N3
+level_rank: 3
+title: 〜はともかく：暂且不论
+structure: 体言＋係助詞「は」＋副詞「ともかく」
+structure_pattern: 体言 + は + ともかく
+explanation_zh: 「〜はともかく」表示「暂且不论／先不说」，把某话题搁置，转向更重要的内容。片段中三次出现（ネーミング／言い方／それはともかく），是口语中的话题转换标记。
+examples:
+- text: ネーミングはともかく。この困った特技で見えてしまったリアの能力群。
+  reading: ''
+  annot: ネーミングはともかく。この困[こま]った特技[とくぎ]で見[み]えてしまったリアの能力群[のうりょくぐん]。
+  translation_zh: 命名什么的暂且不论。靠这个棘手的特技，（我）看清了莉亚的能力群。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 语用/让步
+- 话题提示
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

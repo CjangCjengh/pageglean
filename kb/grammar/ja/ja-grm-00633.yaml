@@ -1,0 +1,31 @@
+id: ja-grm-00633
+language: ja
+type: grammar
+level: N3
+level_rank: 3
+title: 「〜気がする／気がしない」：模糊的直觉
+structure: 动词终止形＋形式名词「気」＋がする（否定为「気がしない」）
+structure_pattern: V-終止形 + 気がする / 気がしない
+explanation_zh: 「気がする」表示对某事怀有模糊的直觉、预感或感觉，即“觉得、有种感觉”；否定形「気がしない」即“感觉不到、不觉得”。结构为动词终止形修饰形式名词「気」，由主格助词「が」提示。因语气委婉不作断定，在内心独白中极为常用。
+examples:
+- text: ――どう考えても、初めて会った気がしないんだよな……？
+  reading: ''
+  annot: ――どう考[かんが]えても、初[はじ]めて会[あ]った気[き]がしないんだよな……？
+  translation_zh: ——不管怎么想，都感觉不像是第一次见面啊……？
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 心理
+- 惯用表达
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

@@ -1,0 +1,32 @@
+id: ja-grm-00719
+language: ja
+type: grammar
+level: N2
+level_rank: 4
+title: VるにVられない：想……却不能……（帰るに帰れない）
+structure: 动词终止形＋助词「に」＋同一动词可能形否定
+structure_pattern: V-終止形 + に + V-可能形否定
+explanation_zh: 同一动词的终止形经助词「に」与其可能形否定相呼应，构成“想……却……不得”的惯用句式，表示进退两难的窘境。文中「帰るに帰れない」指主人公听见女生议论，想走又走不开。属书面口语通用的高频惯用表达。
+examples:
+- text: こんな会話がうっすらと聞こえてきては帰るに帰れないというのがつらい現状だ。
+  reading: ''
+  annot: こんな会話[かいわ]がうっすらと聞[き]こえてきては帰[かえ]るに帰[かえ]れないというのがつらい現状[げんじょう]だ。
+  translation_zh: 这样的对话隐隐约约传进耳朵，让我想回家却回不了——这就是令人难受的现状。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 慣用句
+- 可能
+- 進退両難
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

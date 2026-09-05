@@ -1,0 +1,42 @@
+id: vi-grm-00455
+language: vi
+type: grammar
+level: L1
+level_rank: 1
+title: 时态助词 đã / đang / sẽ：过去、进行、将来
+structure: 时态副词（phó từ chỉ thời gian）：đã / đang / sẽ + 动词
+structure_pattern: phó từ (đã / đang / sẽ) + V
+explanation_zh: 越南语动词不变形，时态由动词前的虚词表示：đã 表已完成（过去），đang 表进行，sẽ 表将来，大致对应汉语的“了／正在／会”。语境时间明确时这些助词可以省略。
+examples:
+- text: 'Thấy không khí đã có vẻ thuận lợi, tôi khéo léo chuyển qua mục tiêu chính:
+    kiểm tra tình cảm!'
+  reading: ''
+  annot: 'Thấy không khí đã có vẻ thuận lợi, tôi khéo léo chuyển qua mục tiêu chính:
+    kiểm tra tình cảm!'
+  translation_zh: 见气氛已经显得融洽，我巧妙地转向主要目标：检验感情！
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+- text: Việt An nói chuyện phim mà tôi cứ giật mình thon thót tưởng nó đang răn đe
+    tôi.
+  reading: ''
+  annot: Việt An nói chuyện phim mà tôi cứ giật mình thon thót tưởng nó đang răn đe
+    tôi.
+  translation_zh: 越安聊着电影，我却不停地心惊肉跳，以为她正在敲打警告我。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 体貌
+- 时态
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 5
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

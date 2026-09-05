@@ -15,6 +15,13 @@ examples:
   source_book: book-ko-026
   source_chapter: null
   pointer: null
+- text: 애초에 가로와 키이리 틈에 끼어서 그 텐션을 따라갈 사람이 이 세상에 존재할 리가 없다.
+  reading: ''
+  annot: 애초에 가로와 키이리 틈에 끼어서 그 텐션을 따라갈 사람이 이 세상에 존재할 리가 없다.
+  translation_zh: 原本夹在加罗和琪伊莉中间还能跟上那股劲头的人，这世上根本就不可能存在。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
 related:
   cross_lang: []
   same_lang: []

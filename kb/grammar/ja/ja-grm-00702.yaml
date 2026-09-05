@@ -1,0 +1,38 @@
+id: ja-grm-00702
+language: ja
+type: grammar
+level: N3
+level_rank: 3
+title: 「〜てやがる」：轻蔑与恼怒（口语）
+structure: 动词连用形＋接续助词「て」＋补助动词「やがる」
+structure_pattern: V连用形 + て + やがる
+explanation_zh: 「やがる」是表强烈轻蔑、厌恶或恼怒的口语补助动词，只用于他人，不能用于说话人自己。文中「楽しんでやがる」骂对方竟心安理得地享受别人的人生，「しやがって」则是对胡乱改造手机的咒骂。语气粗鲁，正式场合禁用。
+examples:
+- text: なに普通に他人の人生楽しんでやがるんだ。
+  reading: ''
+  annot: なに普通[ふつう]に他人[たにん]の人生[じんせい]楽[たの]しんでやがるんだ。
+  translation_zh: 凭什么（这家伙）心安理得地享受着别人的人生啊。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+- text: くそ、いらん改造しやがって！
+  reading: ''
+  annot: くそ、いらん改造[かいぞう]しやがって！
+  translation_zh: 可恶，瞎改造个什么劲！
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 语气
+- 口语
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

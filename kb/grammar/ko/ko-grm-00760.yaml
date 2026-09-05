@@ -1,0 +1,32 @@
+id: ko-grm-00760
+language: ko
+type: grammar
+level: TOPIK5
+level_rank: 5
+title: -는데도 불구하고：让步转折
+structure: 动词词干 + 连接词尾 -는데 + 助词 도 + 불구하다
+structure_pattern: V-는데도 + 불구하다
+explanation_zh: 在连接词尾-는데后加助词도与불구하고，构成强调让步，意为「尽管……却……」。语气比单纯的-는데更强，多用于正式演讲与书面语。原文中阿尔泰娅以此结构称赞敌军全力以赴。
+examples:
+- text: 그대들은 상대적으로 빈약한 전력을 지닌 우리 진영을 상대하는데도 불구하고, 지금 동원할 수 있는 최대 전력을 투입하였다!
+  reading: ''
+  annot: 그대들은 상대적으로 빈약한 전력을 지닌 우리 진영을 상대하는데도 불구하고, 지금 동원할 수 있는 최대 전력을 투입하였다!
+  translation_zh: 尽管你们面对的是战力相对薄弱的我方阵营，却依然投入了当下能够动员的最大战力！
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 让步
+- 연결어미
+- 书面语
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

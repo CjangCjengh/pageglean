@@ -1,0 +1,39 @@
+id: vi-grm-00442
+language: vi
+type: grammar
+level: L3
+level_rank: 3
+title: 「lại」：重复与出乎意料
+structure: S + lại + V
+structure_pattern: lại (phó từ) + V
+explanation_zh: 「lại」是多义副词（phó từ）：一是表示动作重复或接续，「nó lại lấy cho tôi một cây kẹo khác」（她又拿了一颗糖给我）；二是表示与预期相反，「tôi
+  lại nói tránh đi」（我反而避开了没照实说）。在反问句中还能加强不以为然的语气，如「Đói ai lại ăn kẹo!」（饿了谁还吃糖！）。
+examples:
+- text: Nói xong, nó lại lấy cho tôi một cây kẹo khác
+  reading: ''
+  annot: Nói xong, nó lại lấy cho tôi một cây kẹo khác
+  translation_zh: 说完，她又拿出一颗别的糖给我。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+- text: không hiểu sao đến phút chót tôi lại nói tránh đi
+  reading: ''
+  annot: không hiểu sao đến phút chót tôi lại nói tránh đi
+  translation_zh: 不知为什么，到了最后一刻我反而避开了（没照实说）。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 副词
+- 语气
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 4
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

@@ -1,0 +1,31 @@
+id: ja-grm-00743
+language: ja
+type: grammar
+level: N3
+level_rank: 3
+title: 〜とはいえ：虽说如此（让步转折）
+structure: 用言終止形・体言＋とはいえ
+structure_pattern: V終止形・体言 + とはいえ
+explanation_zh: 接在用言终止形或体言后表示让步转折，先承认前项事实，再引出与之不相称的后项，相当于“虽说～但是～”，比「けれど」更郑重。本段先承认“性格上确有过误会”，转折出这件往事依旧不堪回首。同一句中「しておきながら」是〜ておく＋〜ながら的叠加，意为“明明事先做了……却……”。
+examples:
+- text: 人格のすれ違いがあったとはいえ、夢前光が散々思わせぶりなことをしておきながら俺がフったという、よくよく考えなくても最低なエピソード。
+  reading: ''
+  annot: 人格のすれ違いがあったとはいえ、夢前光が散々思わせぶりなことをしておきながら俺がフったという、よくよく考えなくても最低なエピソード。
+  translation_zh: 虽说在性格上发生过误会，可梦前光百般撩拨、最后却是我把她甩了——这事儿哪怕不细想也是最糟糕的一段往事。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 接续
+- 让步
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

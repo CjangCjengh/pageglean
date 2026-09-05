@@ -1,0 +1,31 @@
+id: vi-grm-00470
+language: vi
+type: grammar
+level: L2
+level_rank: 2
+title: 「hơn」：比较结构
+structure: 形容词 + hơn +（比较对象）+（nhiều 表程度）（so sánh hơn）
+structure_pattern: Adj + hơn + NP
+explanation_zh: 「hơn」用于比较，结构为“形容词 + hơn +（比较对象）”，表示“比……更”，相当于比较级。词形不变，句末可加 nhiều（得多）加强程度。此处说弹珠“威风”得多，带调侃意味。
+examples:
+- text: nom "oai phong lẫm liệt" hơn hai viên bi của Tiểu Li nhiều.
+  reading: ''
+  annot: nom "oai phong lẫm liệt" hơn hai viên bi của Tiểu Li nhiều.
+  translation_zh: 看起来比小丽的两颗弹珠要“威风凛凛”得多。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 比较
+- 句式
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 4
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

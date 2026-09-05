@@ -1,0 +1,32 @@
+id: vi-grm-00491
+language: vi
+type: grammar
+level: L4
+level_rank: 4
+title: 名词化：cái + 动词短语
+structure: Cái + V短语 +（của…）作主语
+structure_pattern: cái + VP
+explanation_zh: 类别词 cái 可把动词短语名词化，指称该动作或事件本身，常在句中作主语。如 cái hất tay 指「那一下甩手」，其后可继续加
+  của 等定语。这类名词化主语常与致使动词 khiến 搭配引出结果。
+examples:
+- text: Cái hất tay thô bạo của tôi khiến Tiểu Li té chổng gọng.
+  reading: ''
+  annot: Cái hất tay thô bạo của tôi khiến Tiểu Li té chổng gọng.
+  translation_zh: 我那粗暴的一甩手，害得小丽摔了个四脚朝天。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 名词化
+- 句法
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

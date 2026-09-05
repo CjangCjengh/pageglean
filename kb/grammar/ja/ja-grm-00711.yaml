@@ -1,0 +1,32 @@
+id: ja-grm-00711
+language: ja
+type: grammar
+level: N2
+level_rank: 4
+title: 〜つつも：逆接“虽然……却……”
+structure: 動詞連用形＋つつも
+structure_pattern: V-連用形 + つつも
+explanation_zh: 接续助词「つつ」接动词连用形，表示两个动作或状态并存，语感比「ながら」更偏书面。「も」加强逆接，意为“虽然……却……”，暗示明知不当仍继续。本句以「自覚しつつも」点出主角明知过时仍坚持通信的心情。
+examples:
+- text: 時代にそぐわないとは自覚しつつも文通という甘酸っぱいやりとりを繰り広げていたのだ。
+  reading: ''
+  annot: 時代[じだい]にそぐわないとは自覚[じかく]しつつも文通[ぶんつう]という甘酸[あまず]っぱいやりとりを繰[く]り広[ひろ]げていたのだ。
+  translation_zh: 虽然自己也知道不合时宜，却还是继续着书信往来这种酸酸甜甜的交流。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 接续
+- 逆接
+- 书面语
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

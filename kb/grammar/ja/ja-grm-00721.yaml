@@ -1,0 +1,38 @@
+id: ja-grm-00721
+language: ja
+type: grammar
+level: N3
+level_rank: 3
+title: 〜せいで：都怪…（负面原因）
+structure: 名詞の／用言連体形＋名詞「せい」＋格助詞「で」
+structure_pattern: Nの/用言-連体形 + せいで
+explanation_zh: 「せい」是表示負面原因的名詞，後接格助詞「で」構成原因語，譯為「都怪…」「因為…（而倒了霉）」，帶有歸咎、責怪的語氣。片段中分別用「Nのせいで」怪罪霞在旁注視，用「V-たせいで」抱怨只穿一件T恤害自己挨凍。
+examples:
+- text: Ｔシャツ一枚しか着てなかったせいで俺がクソ寒い！
+  reading: ''
+  annot: Ｔシャツ一枚[いちまい]しか着[き]てなかったせいで俺[おれ]がクソ寒[さむ]い！
+  translation_zh: 就因为只穿了件T恤，我冷得要死！
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+- text: それをハラハラしながら見守るかすみちゃんのせいで余計に焦ってボタンを外せない俺。
+  reading: ''
+  annot: それをハラハラしながら見守[みまも]るかすみちゃんのせいで余計[よけい]に焦[あせ]ってボタンを外[はず]せない俺[おれ]。
+  translation_zh: 都怪在旁边提心吊胆注视着我的霞，我更着急了，越发解不开纽扣。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 因果
+- 接续
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

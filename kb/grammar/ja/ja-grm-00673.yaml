@@ -1,0 +1,31 @@
+id: ja-grm-00673
+language: ja
+type: grammar
+level: N2
+level_rank: 4
+title: 〜てでも：即使……也要（不惜代价）
+structure: 動詞連用形 + て + でも
+structure_pattern: V-て + でも
+explanation_zh: 「てでも」由接续助词「て」加助词「でも」构成，表示"即使付出……的代价也要……"，强调为达目的不惜牺牲，后项多为意志性行为。比单纯让步的「ても」语气更极端。句中表达"哪怕伤害朋友也要承担责任"的决心。
+examples:
+- text: 友達を傷つけてでも、自分が押し通した行動の責任だと思うから
+  reading: ''
+  annot: 友達[ともだち]を傷[きず]つけてでも、自分[じぶん]が押[お]し通[とお]した行動[こうどう]の責任[せきにん]だと思うから
+  translation_zh: 因为我觉得，即使伤害了朋友，这也是自己坚持做的事情应尽的责任。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 接续
+- 语气
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 0
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

@@ -1,0 +1,31 @@
+id: ja-grm-00693
+language: ja
+type: grammar
+level: N2
+level_rank: 4
+title: 〜もんか：才不会呢！（口语强否定）
+structure: V-終止形＋形式名詞「もの」＋終助詞「か」（口語音便：もんか；強い否定・決意）
+structure_pattern: V-終止形 + ものか/もんか
+explanation_zh: 「动词終止形＋ものか」以反问语气表示强烈否定，意为“绝不会……”“哪会……”。口语中「もの」常音变为「もん」，多用于男性或粗鲁的说法，表达愤慨或发誓。本句是主人公气冲冲地发誓再也不来。
+examples:
+- text: くそ、二度と来るもんか。
+  reading: ''
+  annot: くそ、二度[にど]と来[く]るもんか。
+  translation_zh: 可恶，我绝不会再来了！
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 口语
+- 语气
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

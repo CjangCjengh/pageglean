@@ -1,0 +1,33 @@
+id: ko-grm-00835
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: -(으)ㄴ 채：维持原状
+structure: 用言词干 -(으)ㄴ + 依存名词 채(로)
+structure_pattern: V-(으)ㄴ + 채
+explanation_zh: 冠形词尾 -(으)ㄴ 修饰依存名词 채，表示保持前一状态进入后续动作或局面，“保持着……、……着（的状态）”。强调状态原样维持、未加改变。文中“이명만을
+  남긴 채”即“只留下耳鸣（的状态下），轰鸣便消散了”。
+examples:
+- text: 주변에 먼지가 흩날리고, 거대한 굉음은 이명만을 남긴 채 다시 침묵이 내려앉았다.
+  reading: ''
+  annot: 주변에 먼지가 흩날리고, 거대한 굉음은 이명만을 남긴 채 다시 침묵이 내려앉았다.
+  translation_zh: 四周尘土飞扬，巨大的轰鸣只留下耳鸣，四周便重归沉寂。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 依存名词
+- 状态
+- 连接
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

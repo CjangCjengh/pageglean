@@ -1,0 +1,33 @@
+id: ko-grm-00821
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: -ㄹ 리가 없다：绝不可能……
+structure: 동사/형용사 어간 + -(으)ㄹ 리가 없다
+structure_pattern: 관형사형 전성어미 -(으)ㄹ + 의존명사 리(理) + 주격 조사 가 + 없다
+explanation_zh: 依存名词 리(理) 前接冠词形转成词尾 -(으)ㄹ，构成"-(으)ㄹ 리가 없다"，从道理上强烈否定某种可能性，意为"绝无可能"。片段中后接推测先词尾
+  -겠- 变为 리가 없겠지，表示说话者笃定的推断。
+examples:
+- text: 이 남자가 이렇게 허허실실 웃으며 ‘뭐, 어차피 철수해야 했던 거였으니까요’ 같은 사람 좋은 소리를 했을 리가 없겠지.
+  reading: ''
+  annot: 이 남자가 이렇게 허허실실 웃으며 ‘뭐, 어차피 철수해야 했던 거였으니까요’ 같은 사람 좋은 소리를 했을 리가 없겠지.
+  translation_zh: 这个男人这样呵呵傻笑着，绝不可能说出"反正也是该撤退的"这种好听话吧。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 依存名词
+- 推测
+- 否定
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

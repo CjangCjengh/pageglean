@@ -1,0 +1,31 @@
+id: ja-grm-00650
+language: ja
+type: grammar
+level: N2
+level_rank: 4
+title: 〜さえ〜ば：只要……就
+structure: 副助詞「さえ」 + 用言仮定形 + 接続助詞「ば」
+structure_pattern: N/V + さえ + V-仮定形 + ば
+explanation_zh: 副助詞「さえ」舉出唯一或極端的條件，後接用言仮定形加接续助詞「ば」，表示「只要這一點滿足即可」。文中以「只要沒有那腐爛之處，就是好老師」調侃老師。
+examples:
+- text: 本当に、あの極度に腐ってる所さえ無ければ良い教師なんだがな……。
+  reading: ''
+  annot: 本当[ほんとう]に、あの極度[きょくど]に腐[くさ]ってる所[ところ]さえ無[な]ければ良[よ]い教師[きょうし]なんだがな……。
+  translation_zh: 说真的，只要没有那极度「腐烂」的地方，他本是个好老师啊……
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 助詞
+- 条件
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 0
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

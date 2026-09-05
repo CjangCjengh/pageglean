@@ -1,0 +1,39 @@
+id: ko-grm-00831
+language: ko
+type: grammar
+level: TOPIK5
+level_rank: 5
+title: 「-아/어 내다：做到底、使脱离」
+structure: 动词词干 + -아/어 + 내다（보조용언）
+structure_pattern: V-아/어 + 내다
+explanation_zh: 补助动词结构，表示动作坚持进行到底并取得结果，强调“完成、达成”，常含用力使某物由内向外脱离的意味。片段中 뜯어내다、끊어내다、잘라
+  내다 均表示用力掀开、挣断、斩开。
+examples:
+- text: 나는 브룬의 힘으로 부서진 바닥을 뜯어내어, 브룬을 향해 내던졌다.
+  reading: ''
+  annot: 나는 브룬의 힘으로 부서진 바닥을 뜯어내어, 브룬을 향해 내던졌다.
+  translation_zh: 我把被布伦的力量震碎的地面抠掀起来，朝她扔了过去。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+- text: 마법도 잘라 내는 건가.
+  reading: ''
+  annot: 마법도 잘라 내는 건가.
+  translation_zh: 连魔法也能斩断吗。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 补助动词
+- 结果
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

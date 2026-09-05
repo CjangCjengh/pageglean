@@ -1,0 +1,32 @@
+id: ko-grm-00746
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: -(으)ㄹ 수밖에 없다：只能，不由得
+structure: 谓词词干 + 冠形词形转词尾 -(으)ㄹ + 依存名词 수 + 补助词 밖에 + 없다
+structure_pattern: V/Adj-(으)ㄹ + 수 + 밖에 + 없다
+explanation_zh: 由冠形词形转词尾 -(으)ㄹ、依存名词 수（办法、可能）、补助词 밖에 与 없다 构成，字面义为"除……之外没有别的办法"，即"只能……"。强调客观上别无选择，而非单纯义务。片段中用于描写不由自主产生的反应。
+examples:
+- text: 얼굴을 마주치는 순간 소름이 돋을 수밖에 없는, 음산하기 짝이 없는 여자였다.
+  reading: ''
+  annot: 얼굴을 마주치는 순간 소름이 돋을 수밖에 없는, 음산하기 짝이 없는 여자였다.
+  translation_zh: 四目相对的瞬间会让人不由自主得起一身鸡皮疙瘩，是个阴森得无以复加的女人。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 依存名词
+- 限定
+- 语气
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

@@ -1,0 +1,39 @@
+id: vi-grm-00472
+language: vi
+type: grammar
+level: L1
+level_rank: 1
+title: 分类词（量词）：cái / viên / thằng
+structure: 数词或指代词 + 分类词 + 名词（如 hai người, mấy viên bi, cái ly）；thằng + 人名
+structure_pattern: Num/Dem + danh từ chỉ đơn vị (loại từ) + N; thằng + tên riêng
+explanation_zh: 越南语名词受数词或指代词修饰时通常必须加分类词（danh từ chỉ đơn vị/loại từ）：cái 用于一般无生命事物，viên
+  用于小而圆的物体，người 用于人。提及熟悉的男性晚辈或同辈时常用 thằng + 名字，如 Thằng Hải，口语化且带亲昵色彩。汉语虽也有量词，但越南语分类词搭配更强制、更固定，需逐一积累。
+examples:
+- text: Nó chạy lại bàn ôm cứng cái ly.
+  reading: ''
+  annot: Nó chạy lại bàn ôm cứng cái ly.
+  translation_zh: 他跑到桌边，死死抱住那个杯子。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+- text: Thằng Hải tới tìm con, đợi lâu quá không được nó về rồi.
+  reading: ''
+  annot: Thằng Hải tới tìm con, đợi lâu quá không được nó về rồi.
+  translation_zh: 阿海来找过你，等太久等不着，他已经回去了。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 分类词
+- 名词短语
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 8
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

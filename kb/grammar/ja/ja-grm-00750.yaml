@@ -1,0 +1,31 @@
+id: ja-grm-00750
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 「〜なければいけない／〜なきゃいけない」：必须～
+structure: 動詞未然形 ＋ 形容詞型助動詞「ない」の仮定形「なければ」 ＋ いけない（口語縮約：〜なきゃ）
+structure_pattern: 'V(未然形) + なければいけない（口語: なきゃいけない）'
+explanation_zh: 动词未然形接形容詞型助動詞「ない」的仮定形「なければ」，再加「いけない」，表示义务，“必须〜”。口语中「なければ」缩略为「なきゃ」，如「変わらなきゃいけない」。书面叙述则用完整形式「終わらせなければならない」。
+examples:
+- text: だからこそ、俺は変わらなきゃいけない。
+  reading: ''
+  annot: だからこそ、俺[おれ]は変[か]わらなきゃいけない。
+  translation_zh: 正因如此，我必须改变。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 语气
+- 口语
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 0
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

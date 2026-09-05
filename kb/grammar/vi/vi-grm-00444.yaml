@@ -1,0 +1,31 @@
+id: vi-grm-00444
+language: vi
+type: grammar
+level: L2
+level_rank: 2
+title: 「V + xong」：完成后的接续
+structure: V + xong, + 后续分句
+structure_pattern: V + xong (thành tố phụ chỉ kết quả hoàn tất) + mệnh đề tiếp nối
+explanation_zh: 「xong」作补语（thành tố phụ）跟在动词后表示动作完成，相当于「……完／……之后」。「Nói xong」即「说完之后」，后续句描述紧接着的动作，是越南语叙述中衔接先后事件的常用手段。
+examples:
+- text: Nói xong, nó lại lấy cho tôi một cây kẹo khác
+  reading: ''
+  annot: Nói xong, nó lại lấy cho tôi một cây kẹo khác
+  translation_zh: 说完，她又拿出一颗别的糖给我。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 体貌
+- 接续
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

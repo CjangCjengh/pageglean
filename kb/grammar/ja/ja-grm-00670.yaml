@@ -1,0 +1,32 @@
+id: ja-grm-00670
+language: ja
+type: grammar
+level: N2
+level_rank: 4
+title: 〜と言うより〜と言うべき：与其说……不如说理应……
+structure: 引用助词「と」＋动词「言う」＋比较助词「より」……＋文语助动词「べし」的连体形「べき」
+structure_pattern: 〜と言う + より + 〜と言う + べき
+explanation_zh: 「〜と言うより〜」表示“与其说是……不如说……”，用于提出更准确的说法来修正前项。「べき」是文语助动词「べし」（表示当然、义务）的连体形，「言うべき」即“理应这么说”。
+examples:
+- text: 『戦う』と言うより『向き合う』と言うべきか
+  reading: ''
+  annot: 『戦[たたか]う』と言[い]うより『向[む]き合[あ]う』と言[い]うべきか
+  translation_zh: 与其说是“战斗”，不如说应该叫“面对”吧
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 助动词
+- 比较
+- 订正
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

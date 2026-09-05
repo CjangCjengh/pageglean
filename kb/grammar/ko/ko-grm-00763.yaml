@@ -1,0 +1,39 @@
+id: ko-grm-00763
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: -듯(이)：比喻「仿佛……、如同……」
+structure: 관형사형 전성 어미 + 의존 명사 '듯' ('-이' 结合则为 '듯이')
+structure_pattern: V-는 듯 / V/A-(으)ㄴ 듯(이)
+explanation_zh: 依存名词 듯 接在冠形词形之后构成比喻，相当于汉语“仿佛……一样”，常与副词 마치 呼应。片段中“如从梦中醒来般”“如切豆腐般”都是典型用例，是书面叙事中高频的修辞性连接。-듯이
+  语气更完整。
+examples:
+- text: 나는 꿈에서 깨어나듯 그녀의 이름을 부르며 뒤로 돌아섰다.
+  reading: ''
+  annot: 나는 꿈에서 깨어나듯 그녀의 이름을 부르며 뒤로 돌아섰다.
+  translation_zh: 我宛如从梦中醒来一般，呼唤着她的名字转过身去。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+- text: 마치 두부를 자르듯, 검은 너무나 빠르고 정확하고 부드럽게 살갗을 찢고 내장을 휘저으며 내 안으로 들어와 박혔다.
+  reading: ''
+  annot: 마치 두부를 자르듯, 검은 너무나 빠르고 정확하고 부드럽게 살갗을 찢고 내장을 휘저으며 내 안으로 들어와 박혔다.
+  translation_zh: 仿佛切豆腐一般，剑无比迅速、精准而顺滑地撕开皮肤、搅动内脏，扎进了我的身体里。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 转成词尾
+- 比喻
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

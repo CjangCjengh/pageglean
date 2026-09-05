@@ -1,0 +1,32 @@
+id: ja-grm-00655
+language: ja
+type: grammar
+level: N2
+level_rank: 4
+title: 〜にも関わらず：尽管……却……
+structure: 体言・用言連体形＋にも関わらず
+structure_pattern: 体言 / 用言-連体形 + にも関わらず
+explanation_zh: 表示“尽管……却……”“虽然……但是……”，强调前后项的对比与出乎意料。较口语的「のに」更为正式、书面，常见于叙述文体。
+examples:
+- text: それにも拘わらず、リアすらも萌えさせる破壊力。
+  reading: ''
+  annot: それにも拘[かか]わらず、リアすらも萌[も]えさせる破壊力[はかいりょく]。
+  translation_zh: 尽管如此，却有着连莉亚都能萌到的破坏力。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 让步
+- 接续
+- 书面语
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

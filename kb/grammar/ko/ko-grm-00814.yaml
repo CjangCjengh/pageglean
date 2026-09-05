@@ -1,0 +1,40 @@
+id: ko-grm-00814
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: 〜기로 하다：决定做……（决意）
+structure: 动词词干 + -기로 하다（表决定、约定，'决定做……'）
+structure_pattern: 동사 어간 + 연결어미 -기로 + 하다 (결심·결정)
+explanation_zh: '''-기로 하다''接在动词词干后，表示做出决定或下定决心，相当于''决定做……''。是表达决定、约定的典型句型，主语为第一人称时表自己的决定。文中''사용하기로
+  했다''''사해 주기로 했다''都表示做出了决定。'
+examples:
+- text: 결국 나는 마법을 사용하기로 했다.
+  reading: ''
+  annot: 결국 나는 마법을 사용하기로 했다.
+  translation_zh: 最终，我决定使用魔法。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+- text: 거울 미로의 책임자로 보이는 남자는 내 죄를 사해 주기로 했다.
+  reading: ''
+  annot: 거울 미로의 책임자로 보이는 남자는 내 죄를 사해 주기로 했다.
+  translation_zh: 那位像是镜子迷宫负责人的男人，决定宽恕我的罪过。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 연결어미
+- 결심/결정
+- 관용표현
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

@@ -1,0 +1,38 @@
+id: ja-grm-00707
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: のだ・んだ：解释口吻
+structure: 終止形＋のだ（口语：んだ）
+structure_pattern: 終止形 + のだ/んだ
+explanation_zh: 形式名词「の」＋断定「だ」表示解释说明或强调，口语中说成「んだ」。「馬鹿は俺だったのだ」以解释口吻自嘲当时的真相；「俺は言ったんだ」置于句末加强提醒语气。其变体「んだろう」表示带有解释意味的推测。
+examples:
+- text: たまたまその時の馬鹿は俺だったのだ。
+  reading: ''
+  annot: たまたまその時[とき]の馬鹿[ばか]は俺[おれ]だったのだ。
+  translation_zh: 碰巧当时的那个笨蛋就是我。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+- text: そして俺は言ったんだ。
+  reading: ''
+  annot: そして俺[おれ]は言[い]ったんだ。
+  translation_zh: 于是，说出那句话的人就是我。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 语气
+- 形式名詞
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

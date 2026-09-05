@@ -1,0 +1,41 @@
+id: vi-grm-00447
+language: vi
+type: grammar
+level: L3
+level_rank: 3
+title: 「…nào…cũng」与「cứ」：惯常与无一例外
+structure: 时间词 + nào…cũng…；cứ + 时间/条件, S + V
+structure_pattern: lúc nào/ngày nào…cũng…; cứ… (phó từ chỉ thói quen)
+explanation_zh: 「时间词 + nào…cũng…」表示「每……都……」，强调无一例外，如「lúc nào anh cũng nhớ」（他一直记得）、「ngày
+  nào trong túi tôi cũng đầy kẹo」（每天我口袋里都装满糖）。「cứ」为副词，表示每到某一时间或条件就规律性地发生某事，两者常配合叙述习惯性、反复出现的场景。
+examples:
+- text: Tôi tưởng lúc nào anh cũng nhớ chứ!
+  reading: ''
+  annot: Tôi tưởng lúc nào anh cũng nhớ chứ!
+  translation_zh: 我还以为你一直都记得呢！
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+- text: Cứ đến giờ ra chơi hoặc trên đường về, thừa lúc vắng người, tôi vội vã giúi
+    vào tay Việt An.
+  reading: ''
+  annot: Cứ đến giờ ra chơi hoặc trên đường về, thừa lúc vắng người, tôi vội vã giúi
+    vào tay Việt An.
+  translation_zh: 每到课间休息或放学回家的路上，趁人少，我就急忙把糖塞进越安手里。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 副词
+- 惯用句式
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

@@ -1,0 +1,31 @@
+id: ko-grm-00823
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: -(으)ㄴ/는 줄 알다：误以为……
+structure: 동사 어간 + -(으)ㄴ/는 줄 알다/모르다
+structure_pattern: 관형사형 전성어미 -(으)ㄴ/-는 + 의존명사 줄 + 동사 알다
+explanation_zh: 依存名词 줄 表示"事实、情况"，与 알다/모르다 搭配表示知道或不知道某事。过去形 -ㄴ/은 줄 알았더니 表示"本以为……（其实不然）"。片段中绮璃误以为两人已经和好。
+examples:
+- text: 광장에서 둘이 괜찮아 보이길래, 화해한 줄 알았더니.
+  reading: ''
+  annot: 광장에서 둘이 괜찮아 보이길래, 화해한 줄 알았더니.
+  translation_zh: 看你们俩在广场上相处得不错，我还以为已经和好了呢。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 依存名词
+- 误解
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

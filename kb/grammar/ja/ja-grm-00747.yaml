@@ -1,0 +1,38 @@
+id: ja-grm-00747
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 「〜ておく（口语：〜とく）」：事先做好准备
+structure: 動詞連用形 ＋ 接続助詞「て」 ＋ 動詞「おく」（口語縮約：〜とく）
+structure_pattern: 'V-て + おく（口語: V-とく）'
+explanation_zh: 「〜ておく」表示为之后做准备而预先做某事，「撤去しておいた」即“已经事先搬走了”。口语中「ておく」常缩略为「とく」，命令形「やめとけ」即“算了吧、别干了”（＝やめておけ）。是轻小说会话中高频出现的口语表达。
+examples:
+- text: 灯油入りのポリタンクはヤンキー協力のもとに撤去しておいたからな！
+  reading: ''
+  annot: 灯油[とうゆ]入[い]りのポリタンクはヤンキー協力[きょうりょく]のもとに撤去[てっきょ]しておいたからな！
+  translation_zh: 装着煤油的塑料桶，已经在不良少年们的配合下提前搬走了！
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+- text: 自殺なんてやめとけ！
+  reading: ''
+  annot: 自殺[じさつ]なんてやめとけ！
+  translation_zh: 自杀什么的，趁早算了吧！
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 体貌
+- 口语
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 0
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

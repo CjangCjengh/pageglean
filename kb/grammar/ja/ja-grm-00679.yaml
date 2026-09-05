@@ -1,0 +1,31 @@
+id: ja-grm-00679
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 「〜た方がいい」：建议『还是…比较好』（叠加てあげる・んじゃないかな）
+structure: V-連用形 ＋ 助動詞「た」＋がいい
+structure_pattern: V-た + 方がいい
+explanation_zh: 「〜た方がいい」用于向对方提出建议，意为“还是做…为好”。此句叠加授受「てあげる」（为对方做）与委婉推测「んじゃないかな」，使建议语气更含蓄柔和。中文可译为“还是…比较好吧”。
+examples:
+- text: 止めてあげた方がいいんじゃないかな……？
+  reading: ''
+  annot: 止[と]めてあげた方[ほう]がいいんじゃないかな……？
+  translation_zh: 还是去阻止（她）比较好吧……？
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 助言
+- 授受表現
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 0
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

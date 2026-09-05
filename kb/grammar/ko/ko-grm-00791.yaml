@@ -1,0 +1,39 @@
+id: ko-grm-00791
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: -아/어 두다：结果状态的保留
+structure: 动词 + 보조동사 두다（-아/어 두다 补助动词构成）
+structure_pattern: V-아/어 + 두다
+explanation_zh: 补助动词，表示某动作完成后其结果状态被保留下来，相当于汉语的“……着／……好”。与 -아/어 놓다 意义相近，두다 更侧重状态的维持。文中“창문을
+  모두 열어 둔 방”即“窗户全都开着的房间”。
+examples:
+- text: 창문을 모두 열어 둔 방에서 하루 종일 뒹굴뒹굴하거나
+  reading: ''
+  annot: 창문을 모두 열어 둔 방에서 하루 종일 뒹굴뒹굴하거나
+  translation_zh: 或是在窗户全都开着的房间里滚来滚去一整天
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+- text: 기억해 뒀다가 나중에 두고두고 놀려 줘야겠다.
+  reading: ''
+  annot: 기억해 뒀다가 나중에 두고두고 놀려 줘야겠다.
+  translation_zh: 先记下来，以后可得时不时地好好取笑她一番。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 补助动词
+- 体貌
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

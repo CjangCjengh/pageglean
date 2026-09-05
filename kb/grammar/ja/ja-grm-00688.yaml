@@ -1,0 +1,38 @@
+id: ja-grm-00688
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 补助动词「〜てやる」：施予与强硬语气
+structure: 动词连用形 + て + 补助动词やる
+structure_pattern: V-連用形 + て + 補助動詞 やる
+explanation_zh: 补助动词「やる」接动词连用形＋て，表示为地位较低者做某事，或带强硬、粗豪语气的“给……做”。黑衣人的「たすけてやろうか」透着居高临下的胁迫感；主人公的「言ってやった」则表现不服输的回敬。与「あげる・くれる・もらう」同属授受补助动词体系，需注意上下方向。
+examples:
+- text: おまえの寿命の半分で、彼女をたすけてやろうか
+  reading: ''
+  annot: おまえの寿命[じゅみょう]の半分[はんぶん]で、彼女[かのじょ]をたすけてやろうか
+  translation_zh: 用你寿命的一半作交换，要不要我来救救她？
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+- text: だから俺は言ってやった。
+  reading: ''
+  annot: だから俺[おれ]は言[い]ってやった。
+  translation_zh: 于是我硬邦邦地回敬了他一句。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 授受表达
+- 补助动词
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

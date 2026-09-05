@@ -1,0 +1,31 @@
+id: ja-grm-00755
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 解释与主张的「のだ／んだ」
+structure: 用言終止形＋形式名詞「の」＋だ（口語形：んだ）
+structure_pattern: V/A終止形 + のだ/んだ
+explanation_zh: 形式名词「の」把前面的句子体言化，再由断定助动词「だ」结句，表示对理由、情况的解释或强调主张。口语中缩约为「んだ」，如「そうじゃないんだ」「証拠なんだよ」。本片段大量使用，用于加强辩驳与恳求的语气。
+examples:
+- text: 違う！ そうじゃないんだ！
+  reading: ''
+  annot: 違[ちが]う！ そうじゃないんだ！
+  translation_zh: 不对！不是那样的！
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 語気
+- 形式名詞
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 6
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

@@ -1,0 +1,31 @@
+id: ja-grm-00703
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 「〜てしまう／〜ちまう」：完成与无奈（口语缩约）
+structure: 动词连用形＋接续助词「て」＋补助动词「しまう」（口语缩约为「ちまう／ちゃう」）
+structure_pattern: V连用形 + て + しまう → ちまう
+explanation_zh: 补助动词「〜てしまう」表示动作完成或说话人的遗憾、无奈；口语中「てしまう」缩约为「ちまう」（亦有「ちゃう」）。文中书面性的「失ってしまった」与粗放的「言っちまった」并用，可看出语体差异，后者搭配「どうしようもない」表达“说了也没办法”的自嘲。
+examples:
+- text: しかし言っちまったもんはどうしようもない。
+  reading: ''
+  annot: しかし言[い]っちまったもんはどうしようもない。
+  translation_zh: 不过，话都说出口了，也没办法了。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 体貌
+- 口语
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

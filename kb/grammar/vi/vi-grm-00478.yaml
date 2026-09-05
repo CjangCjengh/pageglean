@@ -1,0 +1,43 @@
+id: vi-grm-00478
+language: vi
+type: grammar
+level: L3
+level_rank: 3
+title: 比喻结构 như / hệt như：像、简直像
+structure: A + (hệt) như + B（比喻或类比，B 可为名词、动词短语或小句）
+structure_pattern: A + như | hệt như + B
+explanation_zh: như 是比较/比喻连词，相当于汉语“像”；hệt như 语气更强，意为“简直像、活像”。其后可接名词、动词短语乃至完整小句，构成比喻或类比。片段用拳击比赛的典故作比，并以
+  như đi trong một màn sương 写恍惚之感，是文学语体中常见的修辞句法。
+examples:
+- text: Việt An đã cho tôi đo ván thảm hại, hệt như Myke Tyson đã kết liễu Micheal
+    Spinks
+  reading: ''
+  annot: Việt An đã cho tôi đo ván thảm hại, hệt như Myke Tyson đã kết liễu Micheal
+    Spinks
+  translation_zh: 越安把我打得惨败，简直像迈克·泰森击倒迈克尔·斯平克斯一样。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+- text: Tôi len lỏi vào bãi giữ xe như đi trong một màn sương, những bóng người chung
+    quanh chập chờn và nhòe nhoẹt.
+  reading: ''
+  annot: Tôi len lỏi vào bãi giữ xe như đi trong một màn sương, những bóng người chung
+    quanh chập chờn và nhòe nhoẹt.
+  translation_zh: 我挤进存车处，仿佛走在一片薄雾之中，四周的人影隐隐绰绰、模糊一片。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 比较
+- 修辞
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

@@ -1,0 +1,31 @@
+id: ja-grm-00757
+language: ja
+type: grammar
+level: N3
+level_rank: 3
+title: 「〜てもしかたがない」：无济于事、无可奈何
+structure: 動詞連用形（五段経音便）＋接続助詞「ても」＋しかたがない
+structure_pattern: V連用形 + ても + しかたがない
+explanation_zh: 接续助词「ても」接动词连用形，表示逆接让步，相当于“即使……也”。「しかたがない」意为没有办法、无可奈何。「生きていてもしかたがない」即“活着也没有意义”，表达说话人的绝望心境。
+examples:
+- text: 俺はもう生きていてもしかたがないんだ……
+  reading: ''
+  annot: 俺[おれ]はもう生[い]きていてもしかたがないんだ……
+  translation_zh: 我即使活着也没有什么意义了……
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 接続
+- 語気
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

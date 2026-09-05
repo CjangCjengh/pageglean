@@ -1,0 +1,39 @@
+id: ko-grm-00785
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: 「-는 사이(에)」：在前一动作持续期间
+structure: 동사 어간 + 관형사형 어미 -는 + 의존명사 ‘사이’ + 조사 -에
+structure_pattern: V-는 사이(에)
+explanation_zh: 冠形词尾 -는 与依存名词 사이（间隔、期间）结合，表示前一动作持续期间发生了另一件事，多含不知不觉间情况已变之意。片段中两次使用：我慌张之间小偷跑远，两人斗嘴之间琪里已领先。中文相当于「在……的工夫里」。
+examples:
+- text: 내가 당황하는 사이, 이미 남자는 저만치 앞서 달려가 버렸다.
+  reading: ''
+  annot: 내가 당황하는 사이, 이미 남자는 저만치 앞서 달려가 버렸다.
+  translation_zh: 就在我发愣的工夫，那个男人已经远远地跑到前面去了。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+- text: 나와 가로가 평소보다 돈독한 관계를 다져 가는 사이, 그나마 우리보다는 요령 좋게 앞서서 달리던 키이리가 소리쳤다.
+  reading: ''
+  annot: 나와 가로가 평소보다 돈독한 관계를 다져 가는 사이, 그나마 우리보다는 요령 좋게 앞서서 달리던 키이리가 소리쳤다.
+  translation_zh: 就在我和卡罗加深着比平时更亲密的关系时，总算跑在我们前头的琪里喊了起来。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 接续
+- 时间
+- 依存名词
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 7
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

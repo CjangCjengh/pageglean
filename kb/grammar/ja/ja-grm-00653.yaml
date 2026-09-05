@@ -1,0 +1,32 @@
+id: ja-grm-00653
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 〜ちゃう：「〜てしまう」的口语形式
+structure: 動詞連用形＋接続助詞「て」＋補助動詞「しまう」→口語「ちゃう／じゃう」
+structure_pattern: V-連用形 + て + しまう（口語：ちゃう）
+explanation_zh: 「〜てしまう」（動詞連用形＋接続助詞「て」＋補助動詞「しまう」）的口語音便形，作「ちゃう」或「じゃう」。表示动作的完成，或说话人遗憾、不可挽回的语气。轻小说与日常会话中高频使用，营造轻松口语感。
+examples:
+- text: あ、ごめんねフェル。起こしちゃった？
+  reading: ''
+  annot: あ、ごめんねフェル。起[お]こしちゃった？
+  translation_zh: 啊，对不起呀菲尔，把你吵醒了吗？
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 体貌
+- 口语
+- 活用
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 5
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

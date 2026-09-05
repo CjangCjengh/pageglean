@@ -15,6 +15,13 @@ examples:
   source_book: book-ko-026
   source_chapter: null
   pointer: null
+- text: 그런 것치고는 꽤 내 신경 긁는 소리를 잘 찾아내어 내뱉어 대고 있다.
+  reading: ''
+  annot: 그런 것치고는 꽤 내 신경 긁는 소리를 잘 찾아내어 내뱉어 대고 있다.
+  translation_zh: 话虽如此，他倒是很会找那些戳我神经的话，一个劲儿地往外说。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
 related:
   cross_lang: []
   same_lang: []

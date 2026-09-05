@@ -1,0 +1,38 @@
+id: ja-grm-00664
+language: ja
+type: grammar
+level: N3
+level_rank: 3
+title: 「様だ」：比喩与样态（像……一样）
+structure: 用言連体形/体言＋「の」 + 比況の助動詞「様だ」（連体形「様な」、連用形「様に」）
+structure_pattern: 連体形 + 様だ
+explanation_zh: 「様だ」是学校文法的比况助动词，接用言连体形（或体言＋の）后表示比喻或推测。「様な」修饰名词，「様に」修饰用言。片段中「死神を前にした様な畏怖」「別人の様な口調」均以「様な」修饰名词，营造强烈的主观感受。
+examples:
+- text: 死神を前にした様な畏怖すら与えてくる
+  reading: ''
+  annot: 死神[しにがみ]を前[まえ]にした様[よう]な畏怖[いふ]すら与[あた]えてくる
+  translation_zh: 让人甚至感受到如同直面死神一般的敬畏。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+- text: 明るいイスカとは、別人の様な口調
+  reading: ''
+  annot: 明[あか]るいイスカとは、別[べつ]人の様[よう]な口調[くちょう]
+  translation_zh: 和开朗的伊斯卡判若两人的口吻。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 助动词
+- 比喻
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

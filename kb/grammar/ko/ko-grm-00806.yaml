@@ -1,0 +1,40 @@
+id: ko-grm-00806
+language: ko
+type: grammar
+level: TOPIK2
+level_rank: 2
+title: -(으)ㄹ 것 같다：委婉推测「好像……」
+structure: 用言词干 + 冠形词形语尾 -(으)ㄹ + 依存名词 것 + 보조 용언 같다
+structure_pattern: V/A-(으)ㄹ + 것 + 같다
+explanation_zh: 依存名词'것'将前面内容名词化，补助用言'같다'表示接近确信的推测，比直接断言更委婉，相当于中文的"好像……/大概……"。过去时可用'-았/었을
+  것 같다'。本片段中多次出现，是韩语推测表达的核心结构。
+examples:
+- text: 아마, 평생 고민해 봐야 답은 알 수 없을 것 같다.
+  reading: ''
+  annot: 아마, 평생 고민해 봐야 답은 알 수 없을 것 같다.
+  translation_zh: 大概，就算苦恼一辈子，也不会知道答案吧。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+- text: 낯선 곳에서 낯선 잠자리에 그녀의 인사까지 없으면 쉬이 잠들지 못할 것 같았다.
+  reading: ''
+  annot: 낯선 곳에서 낯선 잠자리에 그녀의 인사까지 없으면 쉬이 잠들지 못할 것 같았다.
+  translation_zh: 在陌生的地方、陌生的床铺上，要是连她的问候也没有，恐怕很难入睡吧。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 推测
+- 依存名词
+- 语气
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

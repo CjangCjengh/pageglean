@@ -1,0 +1,31 @@
+id: ja-grm-00722
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 〜ことにする：决定…
+structure: 用言連体形＋形式名詞「こと」＋格助詞「に」＋動詞「する」
+structure_pattern: V-連体形 + こと + に + する
+explanation_zh: 形式名詞「こと」把前面的動作名詞化，「〜ことにする」表示主觀上決定採取某一行動，譯為「決定…、就…吧」。與表示客觀決定的「〜ことになる」相對，是敘述人物做決定時的基本句式。
+examples:
+- text: その後、あいかわらずのちぐはぐ酸味百パーセントな会話を繰り広げた俺たちは、空も暗くなりつつあったので帰ることにした。
+  reading: ''
+  annot: その後[ご]、あいかわらずのちぐはぐ酸味[さんみ]百パーセントな会話[かいわ]を繰[く]り広[ひろ]げた俺[おれ]たちは、空[そら]も暗[くら]くなりつつあったので帰[かえ]ることにした。
+  translation_zh: 之后，进行了一番照旧牛头不对马嘴、酸味十足的对话的我们，见天色渐暗，便决定回家了。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 决定
+- 语气
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

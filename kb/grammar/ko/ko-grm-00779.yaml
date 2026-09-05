@@ -1,0 +1,39 @@
+id: ko-grm-00779
+language: ko
+type: grammar
+level: TOPIK2
+level_rank: 2
+title: 「-아/어 보다：尝试与经历」
+structure: 动词词干 + 연결어미 -아/어 + 보조 용언 '보다'
+structure_pattern: V-아/어 + 보다
+explanation_zh: 学校文法视为连接词尾 -아/어 接补助动词 보다 的结构，表示尝试做某事或获得某种经历，相当于「试着……」「……过」。过去时用 -아/어
+  보았다，片段中还搭配 -기도 하다 表示「也曾……」。是韩语表达体验与尝试的核心结构。
+examples:
+- text: 시골 축제에도 나서 보았고, 제법 큰 도시도 돌아다녀 보았고
+  reading: ''
+  annot: 시골 축제에도 나서 보았고, 제법 큰 도시도 돌아다녀 보았고
+  translation_zh: 我也去参加过乡下的庆典，也逛过相当大的城市，
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+- text: 사람들이 바글거리는 경기장의 응원석에 일원이 되어 앉아 있어 보기도 했다.
+  reading: ''
+  annot: 사람들이 바글거리는 경기장의 응원석에 일원이 되어 앉아 있어 보기도 했다.
+  translation_zh: 也曾在人头攒动的赛场应援席上作为一员坐过。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 补助动词
+- 经验/尝试
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

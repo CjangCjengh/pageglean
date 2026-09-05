@@ -1,0 +1,31 @@
+id: ja-grm-00665
+language: ja
+type: grammar
+level: N3
+level_rank: 3
+title: 「〜のは〜だ」：焦点强调构文
+structure: 用言連体形 + 形式名詞「の」 + 係助詞「は」 + 焦点となる述語
+structure_pattern: 連体形 + のは + 体言/述語 + だ
+explanation_zh: 形式名词「の」将前面的句子名词化，再用系助词「は」提示主题，后半点明焦点，构成「……的是……」的强调句。片段两次使用：「出たのは、謝罪の言葉」「遮ったのは、リア本人」，把信息焦点落在后半名词上，是轻小说制造揭示与悬念效果的常用手法。
+examples:
+- text: イスカの口から出たのは、謝罪の言葉
+  reading: ''
+  annot: イスカの口[くち]から出[で]たのは、謝罪[しゃざい]の言葉[ことば]
+  translation_zh: 从伊斯卡口中说出的，是道歉的话语。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 构文
+- 形式名词
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 4
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

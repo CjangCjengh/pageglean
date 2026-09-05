@@ -1,0 +1,31 @@
+id: vi-grm-00495
+language: vi
+type: grammar
+level: L2
+level_rank: 2
+title: 「đã…chưa」：询问是否已经……
+structure: đã + 动词 + chưa
+structure_pattern: đã + V + chưa
+explanation_zh: 越南语用「đã + 动词 + chưa」询问某事是否已经发生或完成，相当于中文「……了吗／……了没有」。đã 表已然置于动词前，chưa
+  表「尚未」置于句末。与中文「……了吗」对应，但语序上一前一后夹住动词。
+examples:
+- text: Tôi định chạy lại sờ trán nó xem nó đã bớt nóng chưa.
+  reading: ''
+  annot: 'Tôi định chạy lại sờ trán '
+  translation_zh: 我本想跑过去摸摸她的额头，看她退烧了没有。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 时态/疑问
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

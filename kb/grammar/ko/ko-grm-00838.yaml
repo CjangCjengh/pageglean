@@ -1,0 +1,33 @@
+id: ko-grm-00838
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: 「-ㄴ다는 건：所谓……这件事」
+structure: 동사 어간 + 관형사형 전성어미 '-(으)ㄴ다(고 하는)' + 의존명사 '것' (+ 보조사 '은/는')
+structure_pattern: V + -(으)ㄴ다는 것(건)
+explanation_zh: 动词后的引用形 “-(으)ㄴ다고 하는” 缩略为 “-(으)ㄴ다는”，后接依存名词 것，将引用的内容名词化，意为“所谓……这件事”。常与
+  보조사 은/는 搭配，用于下定义或解释含义。片段中“악마를 없앤다는 건……의미야”即为典型的定义句式。
+examples:
+- text: 그거 알아? 악마를 없앤다는 건 말이야, 그 악마를 '잡아먹는다'는 의미야.
+  reading: ''
+  annot: 그거 알아? 악마를 없앤다는 건 말이야
+  translation_zh: 你知道吗？所谓消灭恶魔，意思就是要“吃掉”那只恶魔。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 名词化
+- 引用
+- 定义
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 5
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

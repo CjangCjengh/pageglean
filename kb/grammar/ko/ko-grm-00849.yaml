@@ -1,0 +1,39 @@
+id: ko-grm-00849
+language: ko
+type: grammar
+level: TOPIK2
+level_rank: 2
+title: -시-：主体尊敬先语末词尾
+structure: 谓词词干 + 선어말어미 -시-（先语末词尾，주체높임／主体尊敬）+ 词尾
+structure_pattern: V/A + -시-
+explanation_zh: 主体尊敬先语末词尾 -시- 插于谓词词干与终结/连接词尾之间，表示尊敬动作或状态的主体，是韩语敬语体系的核心。片段里女仆约娜对主人全程使用尊敬形，如“싫으신”“필요하시다면”。与之呼应，名词加
+  님、主语用 께서 等。
+examples:
+- text: 제가 싫으신 건가요?
+  reading: ''
+  annot: 제가 싫으신 건가요?
+  translation_zh: 您是讨厌我吗？
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+- text: 혹시 필요하시다면 언제든 절 불러 주셔도…….
+  reading: ''
+  annot: 혹시 필요하시다면 언제든 절 불러 주셔도…….
+  translation_zh: 如果您有需要的话，随时叫我也……
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 敬语
+- 词尾
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 7
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

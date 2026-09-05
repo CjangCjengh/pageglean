@@ -1,0 +1,39 @@
+id: ko-grm-00826
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: 「-며：伴随与同时进行」
+structure: 动词词干 + -며（연결어미，'-면서'의 준말）
+structure_pattern: V-며 (= -면서)
+explanation_zh: 连接词尾 -며 是 -면서 的缩略形，表示两个动作或状态同时进行，相当于“一边……一边”，或前句作为后句的伴随状况。多用于书面叙述，本片段多处出现。口语中一般用
+  -면서。
+examples:
+- text: 브룬의 오른팔이 우두둑 소리를 내며 뒤틀렸다.
+  reading: ''
+  annot: 브룬의 오른팔이 우두둑 소리를 내며 뒤틀렸다.
+  translation_zh: 布伦的右臂发出咯吱一声，扭曲翻折。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+- text: 브룬이 헤헤 웃으며 나를 바라본다.
+  reading: ''
+  annot: 브룬이 헤헤 웃으며 나를 바라본다.
+  translation_zh: 布伦嘻嘻地笑着看我。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 连接词尾
+- 同时
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

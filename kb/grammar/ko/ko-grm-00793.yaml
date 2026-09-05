@@ -1,0 +1,31 @@
+id: ko-grm-00793
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: -(으)ㄹ 정도로：达到……的程度
+structure: 用言冠形形 -(으)ㄹ + 의존명사 정도 + 부사격 조사 로
+structure_pattern: V/A + -(으)ㄹ 정도로
+explanation_zh: 依存名词 정도（程度）与助词 로 结合，接在用言冠形形之后，表示达到某种程度，相当于“到……的地步”。文中用以形容沙滩晒得“光脚踩下去都会烫”的程度。
+examples:
+- text: 맨발로 딛기에 뜨거울 정도로 달궈진 하얀 모래사장을 밟고 일렬로 서서
+  reading: ''
+  annot: 맨발로 딛기에 뜨거울 정도로 달궈진 하얀 모래사장을 밟고 일렬로 서서
+  translation_zh: 踩上被晒得光脚踩都会烫的白色沙滩，排成一列站定
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 依存名词
+- 程度
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

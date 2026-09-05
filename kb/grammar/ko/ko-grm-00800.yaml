@@ -1,0 +1,33 @@
+id: ko-grm-00800
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: -는 수가 있다：「小心会……」（警告性的可能）
+structure: 관형사형 전성어미 '-는' + 의존명사 '수' + '있다'
+structure_pattern: V-는 수가 있다
+explanation_zh: 冠词形 -는 修饰依存名词 수（情形、可能性），再加 있다，表示「有可能……」「有时会……」。常用于警告、威胁对方，提醒可能发生的后果，片段中以玩笑式的威胁「화석으로
+  만들어 버리는 수가 있다」出现，语气生动。
+examples:
+- text: 후후, 자꾸 구시대 이야기하면, 진짜 화석으로 만들어 버리는 수가 있다?
+  reading: ''
+  annot: 후후, 자꾸 구시대 이야기하면, 진짜 화석으로 만들어 버리는 수가 있다?
+  translation_zh: 呵呵，你要是老说旧时代的事，我可真有可能把你变成化石哦？
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 가능성
+- 의존명사
+- 경고
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

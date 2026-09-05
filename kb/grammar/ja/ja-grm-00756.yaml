@@ -1,0 +1,31 @@
+id: ja-grm-00756
+language: ja
+type: grammar
+level: N3
+level_rank: 3
+title: 「わけがない」的口语形「わけない」：轻而易举
+structure: 用言連体形＋形式名詞「わけ」＋（は）＋ない
+structure_pattern: V連体形 + わけ(は) + ない
+explanation_zh: 形式名词「わけ」表示道理、可能性，「わけがない」意为“没有那样的道理”，表强烈否定。省略助词「は」的口语形「わけない」还可表示“容易、不在话下”。此处与「ぐらい」呼应，表达自暴自弃的决绝。
+examples:
+- text: ビルを燃やし尽くすのは無理でも、俺を燃やし尽くすぐらいならわけないだろうよ。
+  reading: ''
+  annot: ビルを燃[も]やし尽[つ]くすのは無理[むり]でも、俺[おれ]を燃[も]やし尽[つ]くすぐらいならわけないだろうよ。
+  translation_zh: 就算把整栋楼烧尽做不到，但要把我自己烧尽可是易如反掌。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 形式名詞
+- 口語
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

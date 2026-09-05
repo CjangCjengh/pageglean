@@ -1,0 +1,31 @@
+id: ja-grm-00626
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 「かどうか」：是否～
+structure: 用言終止形／体言＋かどうか
+structure_pattern: 終止形 + かどうか
+explanation_zh: 「かどうか」接在用言終止形（句末形）之后，把“是否～”这一疑问嵌入句中充当主语或宾语。原文与「は知りません」呼应，表示对某事并无把握。是口语与书面语中都高频的基础句式。
+examples:
+- text: 期待を受けているかどうかは知りませんが……大体合ってる。
+  reading: ''
+  annot: 期待[きだい]を受けているかどうかは知[し]りませんが……大体[だいたい]合[あ]ってる。
+  translation_zh: 是否受到期待我不知道……不过大体上没说错。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 接续
+- 口语
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

@@ -1,0 +1,31 @@
+id: vi-grm-00436
+language: vi
+type: grammar
+level: L3
+level_rank: 3
+title: ngoài... còn...：除了…还…
+structure: ngoài + 名 (+ ra), (主语) + còn + 动
+structure_pattern: ngoài + N + còn + V
+explanation_zh: 表示补充递进，相当于「除了…还…」。ngoài 引出已提及的一项，còn 补充另外的内容，句末常加 nữa 加强「另外」语气。
+examples:
+- text: xem thử ngoài chuyện "dụ ăn" tôi còn có thể bắt nạt Tiểu Li chuyện gì nữa
+  reading: ''
+  annot: xem thử ngoài chuyện "dụ ăn" tôi còn có thể bắt nạt Tiểu Li chuyện gì nữa
+  translation_zh: 琢磨一下除了「哄骗吃东西」之外，我还能捉弄小丽些什么别的。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 递进
+- 关联结构
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

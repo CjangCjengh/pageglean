@@ -1,0 +1,39 @@
+id: ko-grm-00829
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: 「-(으)ㄹ 뿐이다 / -는 것뿐이다：只不过……罢了」
+structure: 动词词干 + -(으)ㄹ 뿐；-는 것 + 뿐 + 이다（보조사 '뿐'）
+structure_pattern: V-(으)ㄹ 뿐(이다) / V-는 것뿐이다
+explanation_zh: 助词 뿐 表示限定，意为“只、仅”。附于词尾 -(으)ㄹ 或名词化结构 -는 것 之后，强调“除此之外没有别的”，常带辩解或不以为然的语气。片段中句尾的
+  것뿐이야 与句中的 파고들 뿐 属同一用法。
+examples:
+- text: 원래대로 돌아가는 것뿐이야!
+  reading: ''
+  annot: 원래대로 돌아가는 것뿐이야!
+  translation_zh: 只不过是恢复原状罢了！
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+- text: 실은 살갗을 파고들 뿐, 쉽게 끊어지지 않았다.
+  reading: ''
+  annot: 실은 살갗을 파고들 뿐, 쉽게 끊어지지 않았다.
+  translation_zh: 丝线只是往皮肉里钻，却怎么也断不了。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 助词
+- 限定
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

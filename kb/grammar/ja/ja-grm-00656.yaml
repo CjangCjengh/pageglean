@@ -1,0 +1,32 @@
+id: ja-grm-00656
+language: ja
+type: grammar
+level: N1
+level_rank: 5
+title: 〜すら／〜ことすら：连……都……
+structure: 体言＋副助詞「すら」；用言連体形＋形式名詞「こと」＋すら
+structure_pattern: 体言 + すら；V-連体形 + こと + すら
+explanation_zh: 副助词「すら」类似「も」但语气更强，表示“连……都……”。接「ことすら」时强调“连……这件事都（不）……”。偏书面，轻小说叙述中常用以加强语气。
+examples:
+- text: それにも拘わらず、リアすらも萌えさせる破壊力。
+  reading: ''
+  annot: それにも拘[かか]わらず、リアすらも萌[も]えさせる破壊力[はかいりょく]。
+  translation_zh: 尽管如此，却有着连莉亚都能萌到的破坏力。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 助词
+- 强调
+- 形式名词
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

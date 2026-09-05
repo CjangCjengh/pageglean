@@ -1,0 +1,38 @@
+id: ja-grm-00724
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 〜んだ（のだ）：解释与自言自语的语气
+structure: 用言連体形・体言＋形式名詞「の」（口語「ん」）＋断定の助動詞「だ」
+structure_pattern: 用言-連体形/体言 + のだ（んだ）
+explanation_zh: 形式名詞「の」（口語訛作「ん」）加斷定の助動詞「だ」，構成解釋、說明或自我確認的語氣，強調情況與理由。輕小說第一人稱獨白中大量使用「〜んだ」「〜んだよ」；與疑問詞搭配則成為自問自答，如「どうしたらいいんだろう」（「のだろう」表困惑的自語）。
+examples:
+- text: そもそも俺は他人と会話をするのが苦手という致命的欠点を持ってるんだ。
+  reading: ''
+  annot: そもそも俺[おれ]は他人[たにん]と会話[かいわ]をするのが苦手[にがて]という致命的欠点[ちめいてきけってん]を持[も]ってるんだ。
+  translation_zh: 说到底，我可是有着不擅长跟人交谈这一致命缺点的。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+- text: どうしたらいいんだろう、この空気。
+  reading: ''
+  annot: どうしたらいいんだろう、この空気[くうき]。
+  translation_zh: 这气氛，我到底该怎么办才好啊。（倒装，将「この空気」后置强调）
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 语气
+- 口语
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

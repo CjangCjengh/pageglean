@@ -1,0 +1,39 @@
+id: ja-grm-00765
+language: ja
+type: grammar
+level: N3
+level_rank: 3
+title: わけがない：不可能・没道理
+structure: 用言連体形 + 形式名詞「わけ」 + がない
+structure_pattern: V-る / イ-い / ナ-である + わけがない
+explanation_zh: 「わけ」是形式名词，意为“道理、缘由”。「〜わけがない」表示“没有那样的道理”，强烈否定某种可能性，译为“不可能……”。口语中常略作「あるわけない」。
+examples:
+- text: ……そんな偶然、あるわけないよな
+  reading: ''
+  annot: ……そんな偶然[ぐうぜん]、あるわけないよな
+  translation_zh: 那种巧合，不可能有吧
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+- text: 同一人物であるわけがない。
+  reading: ''
+  annot: 同一人物[どういつじんぶつ]であるわけがない。
+  translation_zh: 不可能是同一个人
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 语气
+- 形式名词
+- 否定
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

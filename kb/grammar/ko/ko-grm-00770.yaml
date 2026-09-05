@@ -1,0 +1,31 @@
+id: ko-grm-00770
+language: ko
+type: grammar
+level: TOPIK5
+level_rank: 5
+title: -(으)ㄹ 틈도 없다：毫无……的余地
+structure: 动词 + -(으)ㄹ 틈(도) 없다
+structure_pattern: V-(으)ㄹ 틈도 없다
+explanation_zh: 依存名词틈本指“缝隙、空闲”，接定语形词尾-(으)ㄹ构成“做某事的空当、余地”，多与없다搭配。“-ㄹ 틈도 없다”即“连……的空当都没有”，强调完全没有时间或机会。
+examples:
+- text: 비명을 지르거나 아픔을 호소할 틈도 없었다.
+  reading: ''
+  annot: 비명을 지르거나 아픔을 호소할 틈도 없었다.
+  translation_zh: 连发出一声惨叫或诉说疼痛的余地都没有。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 依存名词
+- 否定
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

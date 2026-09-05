@@ -1,0 +1,31 @@
+id: ja-grm-00752
+language: ja
+type: grammar
+level: N3
+level_rank: 3
+title: 「〜なんて」：～什么的（轻蔑、不当回事）
+structure: 体言 ＋ 副助詞「なんて」（取り立て・軽蔑）
+structure_pattern: N + なんて
+explanation_zh: 「なんて」是表示轻视、不当回事的助词，相当于中文的“～什么的”，用来贬低对象的重要性。如「自殺なんてやめとけ」「復讐なんて……ただの自己満足だ」。口语色彩强，带有说话人否定、轻蔑的态度。
+examples:
+- text: 今からじゃもう灯油を運びなおしている時間なんてねーぞ！
+  reading: ''
+  annot: 今[いま]からじゃもう灯油[とうゆ]を運[はこ]びなおしている時間[じかん]なんてねーぞ！
+  translation_zh: 事到如今，已经没有重新搬运煤油的时间了啊！
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 助词
+- 口语
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 0
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

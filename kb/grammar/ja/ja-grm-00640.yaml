@@ -1,0 +1,31 @@
+id: ja-grm-00640
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 「〜てもらう／〜てやる」：授受表现
+structure: 動詞連用形＋接續助詞「て」＋授受動詞「もらう／やる」
+structure_pattern: V(連用形) + て + もらう / やる
+explanation_zh: 「〜てもらう」表示请别人做某事或领受恩惠，主语是受益者；「〜てやる」表示为对方（多为地位较低或关系亲近的对象）做某事，语气随便、带居高临下感，一般不用于长辈、上级。本段「教えてもらった」与「淹れてやろうか」对照，正体现受益与施惠两个方向。
+examples:
+- text: ふむ。ならば――今後、毎日淹れてやろうか？
+  reading: ''
+  annot: ふむ。ならば――今後[こんご]、毎日[まいにち]淹[い]れてやろうか？
+  translation_zh: 嗯。那么——今后我每天都泡给你喝吧？
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 授受表现
+- 敬语层位
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

@@ -1,0 +1,39 @@
+id: vi-grm-00509
+language: vi
+type: grammar
+level: L4
+level_rank: 4
+title: muốn…gì/ai…(thì)…：任指让步「想…就…」
+structure: muốn + V + 疑问代词 (gì/ai…) + (thì) + V
+structure_pattern: muốn + V + nghi vấn từ + (thì) + V
+explanation_zh: 用「muốn + 动词 + 疑问代词 + (则) + 重复动词」表示任凭、随意，相当于中文「想…就…/爱…就…」。疑问词 gì/ai
+  在此不表疑问而表任指，可加 thì 也可省略，是地道口语结构。
+examples:
+- text: không phải ỷ mình thất tình rồi muốn nói gì nói à nghen!
+  reading: ''
+  annot: không phải ỷ mình thất tình rồi muốn nói gì nói à nghen!
+  translation_zh: 别自恃失恋了，就什么都想说就说啊！
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+- text: để cho nó muốn yêu ai thì yêu.
+  reading: ''
+  annot: để cho nó muốn yêu ai thì yêu.
+  translation_zh: 随她想爱谁就爱谁。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 让步
+- 任指
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

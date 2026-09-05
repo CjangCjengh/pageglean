@@ -1,0 +1,31 @@
+id: ja-grm-00767
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 〜なきゃ：义务的口语形
+structure: 動詞未然形 + なければ → なきゃ
+structure_pattern: V-未然形 + なきゃ（＝なければならない）
+explanation_zh: 「〜なければならない」（必须……）的口语省略形，「なければ」音便为「なきゃ」。句末的「いけない」常省略，语气随意，男性口语中常见。
+examples:
+- text: 返事書かなきゃな
+  reading: ''
+  annot: 返事[へんじ]書[か]かなきゃな
+  translation_zh: 得写回信了呢
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 口语
+- 语气
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

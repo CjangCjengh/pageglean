@@ -1,0 +1,32 @@
+id: vi-grm-00467
+language: vi
+type: grammar
+level: L3
+level_rank: 3
+title: chẳng…đâu：强调否定「根本不……」
+structure: chẳng + 动词（+ 宾语）+ đâu
+structure_pattern: chẳng + V + (O) + đâu
+explanation_zh: chẳng… đâu 构成加强否定，表示“根本不……／哪儿也不……”。chẳng 是否定副词，语气比 không 更重；句末的 đâu
+  进一步强化语气。如 chẳng thấy Việt An đâu 即“完全不见越安的踪影”。
+examples:
+- text: hôm sau đến lớp, chẳng thấy Việt An đâu.
+  reading: ''
+  annot: hôm sau đến lớp, chẳng thấy Việt An đâu.
+  translation_zh: 第二天来到班上，却根本不见越安的踪影。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 否定
+- 语气
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

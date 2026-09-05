@@ -1,0 +1,39 @@
+id: ko-grm-00825
+language: ko
+type: grammar
+level: TOPIK2
+level_rank: 2
+title: -시-：主体尊敬先词尾
+structure: 동사 어간 + -시- + 어미
+structure_pattern: 선어말어미 -시- + 종결어미/연결어미
+explanation_zh: -시- 是表示主体尊敬的先词尾，插入在词干与词尾之间以抬高动作的主体。片段中用于抬高魔王与领主（터뜨려 주시고、지셨다는、때우셔야），其中对魔王的使用带有调侃语气。注意与尊敬格词尾
+  께（에게 的敬语形）呼应。
+examples:
+- text: 재해급 사고를 뻥뻥 터뜨려 주시고 말이지.
+  reading: ''
+  annot: 재해급 사고를 뻥뻥 터뜨려 주시고 말이지.
+  translation_zh: （您）还一个接一个地掀起灾害级事故。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+- text: 돈으로 갚지 못하겠으면 몸으로라도 때우셔야 할 겁니다.
+  reading: ''
+  annot: 돈으로 갚지 못하겠으면 몸으로라도 때우셔야 할 겁니다.
+  translation_zh: 如果没法用钱偿还，那就得用身体来抵了。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 敬语
+- 先词尾
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

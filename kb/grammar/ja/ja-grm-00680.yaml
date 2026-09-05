@@ -1,0 +1,31 @@
+id: ja-grm-00680
+language: ja
+type: grammar
+level: N2
+level_rank: 4
+title: 「〜と言わんばかりに」：简直像在说…似的（比况）
+structure: 「〜と」＋言わんばかりに（言わん＝言う＋文語推量「ん」）
+structure_pattern: 〜 + と言わんばかりに
+explanation_zh: 「と言わんばかりに」意为“简直像在说……似的”，描摹虽未明说、态度却昭然若揭的样子。「ん」是「の」的文语／口语音便，「ばかりに」表几乎到了某种程度。书面色彩较浓，轻小说叙述常用。
+examples:
+- text: 座り慣れた場所に、……指定席と言わんばかりに座り
+  reading: ''
+  annot: 座[すわ]り慣[な]れた場所[ばしょ]に、……指定席[していせき]と言[い]わんばかりに座[すわ]り
+  translation_zh: 坐在早已坐惯的地方……简直像在说‘这是我的专座’似的。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 比况
+- 书面表达
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 0
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

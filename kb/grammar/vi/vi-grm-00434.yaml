@@ -1,0 +1,33 @@
+id: vi-grm-00434
+language: vi
+type: grammar
+level: L3
+level_rank: 3
+title: chính vì... mà...：正因为…才…
+structure: chính vì + 原因 + mà + 结果
+structure_pattern: chính vì + N/mệnh đề + mà + mệnh đề
+explanation_zh: 强调因果关系的框架，相当于「正是因为…才…」。chính 加强语气突出原因，mà 引出结果，比一般 vì... nên... 语气更强。
+examples:
+- text: Chíng vì vậy mà bây giờ làm quen với một đứa con gái, đối với tôi là chuyện
+    khó tày trời.
+  reading: ''
+  annot: Chíng vì vậy mà bây giờ làm quen với một đứa con gái, đối với tôi là chuyện
+    khó tày trời.
+  translation_zh: 正因为如此，现在要结识一个女孩，对我来说简直是难如登天。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 因果
+- 强调语气
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

@@ -1,0 +1,38 @@
+id: ko-grm-00764
+language: ko
+type: grammar
+level: TOPIK3
+level_rank: 3
+title: 被动法：接尾词 -이/히/리/기- 与 -아/어지다
+structure: 용언 어간 + 피동 접미사 '-이/히/리/기-' / 피동 표현 '-아/어지다'
+structure_pattern: V- + -이/히/리/기- ; V-아/어지다
+explanation_zh: 学校文法中，피동可由接尾词派生（먹다→먹히다、싸다→싸이다/둘러싸이다），也可用 -아/어지다 表达（느끼다→느껴지다、듣다→들리다）。片段大量使用被动，描写“我”被声音、光线、人群裹挟的处境。汉语多用“被/让”句或无标记受事主语句，翻译时需注意转换。
+examples:
+- text: 내 목소리는 도시의 소음에 먹혀 어디로도 향하지 못했다.
+  reading: ''
+  annot: 내 목소리는 도시의 소음에 먹혀 어디로도 향하지 못했다.
+  translation_zh: 我的声音被城市的噪音吞没，哪儿也到不了。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+- text: 시야를 방해하는 빛과 소음, 웃음소리가 새어 나오는 가면들에 둘러싸여 나는 온 정신이 아득해졌다.
+  reading: ''
+  annot: 시야를 방해하는 빛과 소음, 웃음소리가 새어 나오는 가면들에 둘러싸여 나는 온 정신이 아득해졌다.
+  translation_zh: 被遮挡视线的光、噪音以及传出笑声的假面层层围住，我的神志恍惚起来。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 词法
+- 被动
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 5
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

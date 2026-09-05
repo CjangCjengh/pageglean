@@ -1,0 +1,38 @@
+id: ko-grm-00802
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: 「-더니：观察到过去情形的转变」
+structure: 용언 어간 + 연결어미 '-더니'（观察事实的对比与转换）
+structure_pattern: 용언 어간 + -더니
+explanation_zh: ‘-더니’把说话者亲眼观察到的过去情形与随后出现的相反或变化事实连接起来，相当于“刚才还……竟然就……”。主语一般是说话者观察的对象，多用于第三人称。本段两处分别刻画琪伊里与加罗的动作突变。
+examples:
+- text: 내 단호한 대답에 키이리가 발끈하더니 내 쪽으로 상체를 쑥 들이밀었다.
+  reading: ''
+  annot: 내 단호한 대답에 키이리가 발끈하더니 내 쪽으로 상체를 쑥 들이밀었다.
+  translation_zh: 听了我的断然回答，琪伊莉一下子急了，上身朝我这边探了过来。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+- text: 가로가 브룬을 안아 올리더니 물에 그대로 처박고선 신나게 웃어 댔다.
+  reading: ''
+  annot: 가로가 브룬을 안아 올리더니 물에 그대로 처박고선 신나게 웃어 댔다.
+  translation_zh: 加罗把布伦抱了起来，接着就这么把她摁进水里，开心地大笑起来。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 连接词尾
+- 时相
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

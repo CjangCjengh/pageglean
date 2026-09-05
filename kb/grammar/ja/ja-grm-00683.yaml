@@ -1,0 +1,31 @@
+id: ja-grm-00683
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 受身「れる/られる」：被动的表达
+structure: 动词未然形 + 助动词れる／られる（施事・原因用助词「に」标示）
+structure_pattern: V-未然形 + 助動詞 れる/られる
+explanation_zh: 学校文法中，被动由助动词「れる/られる」接动词未然形构成，动作的发出者用助词「に」标示。「雨に打たれる」属于以自然现象为施事者的被动，烘托主语承受不幸的状态；「変更される」则用于客观、礼貌的叙述。日语被动常带有受害、受影响的语感，与中文“被”字句不完全对应。
+examples:
+- text: 本電子書籍を示すサムネイルなどのイメージ画像は、再ダウンロード時に予告なく変更される場合があります。
+  reading: ''
+  annot: 本[ほん]電子書籍[でんししょせき]を示[しめ]すサムネイルなどのイメージ画像[がぞう]は、再[さい]ダウンロード時[じ]に予告[よこく]なく変更[へんこう]される場合[ばあい]があります。
+  translation_zh: 标示本电子书的缩略图等图像，在重新下载时有可能未经预告即被变更。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 语态
+- 助动词
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 6
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

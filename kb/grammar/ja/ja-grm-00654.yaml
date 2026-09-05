@@ -1,0 +1,32 @@
+id: ja-grm-00654
+language: ja
+type: grammar
+level: N2
+level_rank: 4
+title: 〜とはいえ：让步，“虽说……却……”
+structure: 用言終止形・体言＋接続助詞「とはいえ」
+structure_pattern: V終止形 / 体言 + とはいえ
+explanation_zh: 由格助词「と」加动词「言う」构成，意为“虽说……但……”。承认前项事实，但后项引出与其预期相反的结论，属书面语色彩较浓的让步表达。
+examples:
+- text: しかし。系統が違うとはいえ、リアのルックスがイスカに劣っているとは思えない。
+  reading: ''
+  annot: しかし。系統[けいとう]が違[ちが]うとはいえ、リアのルックスがイスカに劣[おと]っているとは思[おも]えない。
+  translation_zh: 不过。虽说系别不同，但我不觉得莉亚的外貌逊色于伊斯卡。
+  source_book: book-ja-007
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 让步
+- 接续
+- 书面语
+provenance:
+  discovered_in: book-ja-007
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

@@ -1,0 +1,32 @@
+id: ko-grm-00773
+language: ko
+type: grammar
+level: TOPIK6
+level_rank: 6
+title: -기 일쑤다：动不动就……，……是常事
+structure: 动词 + -기 일쑤다
+structure_pattern: V-기 일쑤다
+explanation_zh: 依存名词일쑤意为“常有的事、家常便饭”，与名词化词尾-기搭配，表示某事屡屡发生，多指不如意或不争气的情况。相当于“动不动就……”“……是常有的事”，小说、随笔中常见。
+examples:
+- text: 그들은 얼굴을 마주치기 전에 지레 겁먹고 달아나기 일쑤였다.
+  reading: ''
+  annot: 그들은 얼굴을 마주치기 전에 지레 겁먹고 달아나기 일쑤였다.
+  translation_zh: 他们往往还没跟人打个照面，就自己先吓破了胆拔腿逃走，这是常有的事。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 依存名词
+- 惯用表达
+- 书面语
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

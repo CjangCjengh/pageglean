@@ -1,0 +1,38 @@
+id: vi-grm-00489
+language: vi
+type: grammar
+level: L3
+level_rank: 3
+title: 让步连词：mặc dù…nhưng 与 mặc cho
+structure: Mặc dù + 分句，(nhưng) + 分句；Mặc cho + 分句，主句
+structure_pattern: mặc dù … nhưng … | mặc cho + clause
+explanation_zh: mặc dù…nhưng 表示「虽然……但是……」，nhưng 有时可省。mặc cho 表示「任凭、不管」，后接分句，主句表示不受其影响的行为。两者在书面语与口语中都常用。
+examples:
+- text: Mặc dù nổi nóng nhưng thấy Tiểu Li bênh tôi, Lợi sứt cũng chịu "xuống nước".
+  reading: ''
+  annot: Mặc dù nổi nóng nhưng thấy Tiểu Li bênh tôi, Lợi sứt cũng chịu "xuống nước".
+  translation_zh: 虽然很恼火，但看到小丽护着我，豁嘴阿利也肯「让步」了。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+- text: Nhưng mặc cho tôi hét, Tiểu Li không chịu buông.
+  reading: ''
+  annot: Nhưng mặc cho tôi hét, Tiểu Li không chịu buông.
+  translation_zh: 可是任凭我大喊，小丽就是不肯松手。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 复句
+- 连词
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

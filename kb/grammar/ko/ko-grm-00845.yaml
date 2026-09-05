@@ -1,0 +1,32 @@
+id: ko-grm-00845
+language: ko
+type: grammar
+level: TOPIK4
+level_rank: 4
+title: -았/었더니：回想引出后续发现
+structure: 动词词干 + -았/었더니（회상의 연결어미／回想连接词尾）
+structure_pattern: V + -았/었더니
+explanation_zh: 回想连接词尾：说话人回想自己亲身经历过的动作，并以此为背景引出后句新发现或结果，相当于汉语“（我）……之后，（发现）……”。后句一般是当时察觉到、感受到的情况，而非说话人自己的意志行为。
+examples:
+- text: 한밤중에 누군가 침실을 두드려 나가 보았더니, 요나가 초롱초롱한 눈으로 나를 바라보며 내게 책을 내밀었다.
+  reading: ''
+  annot: 한밤중에 누군가 침실을 두드려 나가 보았더니, 요나가 초롱초롱한 눈으로 나를 바라보며 내게 책을 내밀었다.
+  translation_zh: 半夜有人敲卧室门，我出去一看，约娜正用亮晶晶的眼睛望着我，把书递到我面前。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 接续
+- 回想
+- 因果
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

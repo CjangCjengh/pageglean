@@ -1,0 +1,31 @@
+id: ja-grm-00690
+language: ja
+type: grammar
+level: N3
+level_rank: 3
+title: らしい：推测与传闻
+structure: 体言・用言終止形＋推量助動詞「らしい」（推量・伝聞）
+structure_pattern: N/Adj/V-終止形 + らしい
+explanation_zh: 推量助動詞「らしい」接体言或用言終止形之后，有两种用法：基于某种根据的推测（好像……）和转述他人话语的传闻（听说……）。本片段两处分别体现这两种用法。
+examples:
+- text: このアホアホな感じが生徒には人気らしいが、俺にはよくわからん。
+  reading: ''
+  annot: このアホアホな感[かん]じが生徒[せいと]には人気[にんき]らしいが、俺[おれ]にはよくわからん。
+  translation_zh: 这副傻乎乎的样子在学生中好像挺有人气的，我可完全搞不懂。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 语气
+- 助動詞
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

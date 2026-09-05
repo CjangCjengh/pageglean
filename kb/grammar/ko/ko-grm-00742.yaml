@@ -1,0 +1,40 @@
+id: ko-grm-00742
+language: ko
+type: grammar
+level: TOPIK2
+level_rank: 2
+title: -지만：转折连接
+structure: 谓词词干 + 连接词尾 -지만
+structure_pattern: V/Adj-지만
+explanation_zh: -지만 是逆接连接词尾，表示承认前句但后句转向相反，相当于"虽然……但是……"。注意它只能连接谓词（动词/形容词），体言须加 이다
+  构成 -이지만。语序与中文转折复句一致，较易掌握。
+examples:
+- text: 나는 마이시아가 얘기하는 게 어떤 일인지 모르지만, 일단 그렇게 대답했다.
+  reading: ''
+  annot: 나는 마이시아가 얘기하는 게 어떤 일인지 모르지만, 일단 그렇게 대답했다.
+  translation_zh: 虽然我不知道希娅说的是什么事，但还是先那样回答了。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+- text: 그녀는 클라우를 경계하고 있었지만, 동시에 내가 제국에서 다섯 손가락 안에 드는 대제후와 친근하게 잡담을 나누는 모습을 신기해하고 있었다.
+  reading: ''
+  annot: 그녀는 클라우를 경계하고 있었지만, 동시에 내가 제국에서 다섯 손가락 안에 드는 대제후와 친근하게 잡담을 나누는 모습을 신기해하고
+    있었다.
+  translation_zh: 她虽然一直在戒备着克劳，但同时也对我和帝国屈指可数的大诸侯亲近地闲聊的样子感到新奇。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 连接词尾
+- 转折
+provenance:
+  discovered_in: book-ko-015
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

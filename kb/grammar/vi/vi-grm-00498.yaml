@@ -1,0 +1,30 @@
+id: vi-grm-00498
+language: vi
+type: grammar
+level: L3
+level_rank: 3
+title: 「bị」：遭受（不如意）的被动
+structure: bị +（施事）+ 动词
+structure_pattern: bị + (N) + V
+explanation_zh: bị 引出被动，多指不如意、受损的遭遇，相当于中文「被」，与表获益的 được 相对。本句「bị cô giáo phạt」即「被老师罚」。
+examples:
+- text: Coi chừng vô lớp trễ bị cô giáo phạt.
+  reading: ''
+  annot: Coi chừng vô lớp trễ bị cô giáo phạt.
+  translation_zh: 小心进教室晚了挨老师罚。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 被动/语态
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

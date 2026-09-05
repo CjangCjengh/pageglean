@@ -1,0 +1,38 @@
+id: ja-grm-00736
+language: ja
+type: grammar
+level: N4
+level_rank: 2
+title: 〜ちゃう：〜てしまう的口语约音
+structure: 動詞連用形 ＋ てしまう（補助動詞）→ 口語約音「ちゃう」
+structure_pattern: V-連用形 + てしまう → ちゃう
+explanation_zh: 口语中「てしまう」约音为「ちゃう」（拨音后为「んじゃう」），表示动作完成或发生了不希望的事，常含遗憾、后悔的语气。本段反复出现的「しちゃった」传达“做了多余的事”的不安。
+examples:
+- text: なんで付き合わなかったんだろう。余計なことしちゃったのかな
+  reading: ''
+  annot: なんで付[つ]き合[あ]わなかったんだろう。余計[よけい]なことしちゃったのかな
+  translation_zh: 为什么没有交往呢。我是不是做了多余的事啊……
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+- text: かすみちゃんにも悪いことしちゃったし……
+  reading: ''
+  annot: かすみちゃんにも悪[わる]いことしちゃったし……
+  translation_zh: 也觉得对香澄同学做了不好的事……
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 体貌
+- 口语
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

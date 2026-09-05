@@ -1,0 +1,39 @@
+id: ko-grm-00818
+language: ko
+type: grammar
+level: TOPIK2
+level_rank: 2
+title: -아/어 주다：为别人做某事（补助动词）
+structure: 동사 어간 + -아/어 주다
+structure_pattern: 본용언(동사) + 연결어미 -아/어 + 보조동사 주다
+explanation_zh: 补助动词 주다 接在连接词尾 -아/어 之后，表示主语为某人做某事，动作的利益归于他人。敬语场景中 주다 换用 주시다（如片段中 터뜨려
+  주시고）。本段反复出现，体现人物之间的施惠关系。
+examples:
+- text: 요나가 나서서 헬로이스 영주가 이 사태를 보상해 줄 거라고 말해 주었기 때문이다.
+  reading: ''
+  annot: 요나가 나서서 헬로이스 영주가 이 사태를 보상해 줄 거라고 말해 주었기 때문이다.
+  translation_zh: 因为约娜出面告诉我，艾洛伊丝领主会补偿这次事态。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+- text: 스트레이트가 아니라 스트레스라고 고쳐 주고 싶지만, 입을 다문다.
+  reading: ''
+  annot: 스트레이트가 아니라 스트레스라고 고쳐 주고 싶지만, 입을 다문다.
+  translation_zh: 很想帮他纠正说不是"straight"而是"stress"，但我还是闭上了嘴。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 补助动词
+- 恩惠
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 5
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

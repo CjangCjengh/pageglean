@@ -1,0 +1,35 @@
+id: vi-grm-00451
+language: vi
+type: grammar
+level: L3
+level_rank: 3
+title: cứ…：每当……总是……
+structure: Cứ + 时间/情况，(là) + V（惯常反复）
+structure_pattern: Cứ + time , (là) + V
+explanation_zh: 副词（phó từ）cứ 表示动作按惯例反复发生，「cứ đến giờ ra chơi…」即「每到下课时间就……」，强调习惯性，常与
+  là 搭配（本段省略 là）。与「hễ…là…」（一……就……）近义，但 cứ 语气更随意。本段描写主人公每逢下课或放学路上就偷偷塞糖给越安。
+examples:
+- text: Cứ đến giờ ra chơi hoặc trên đường về, thừa lúc vắng người, tôi vội vã giúi
+    vào tay Việt An.
+  reading: ''
+  annot: Cứ đến giờ ra chơi hoặc trên đường về, thừa lúc vắng người, tôi vội vã giúi
+    vào tay Việt An.
+  translation_zh: 每到下课或放学路上，趁四下无人，我就急忙把糖塞进越安手里。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 副词
+- 体貌
+- 习惯
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

@@ -1,0 +1,40 @@
+id: ko-grm-00833
+language: ko
+type: grammar
+level: TOPIK2
+level_rank: 2
+title: -기 시작하다：动作的开始
+structure: 用言词干 -기（名词化词尾）+ 补助动词 시작하다
+structure_pattern: V-기 + 시작하다
+explanation_zh: 动词词干接名词化词尾 -기 构成依存名词形，再接 시작하다，表示动作或状态开始，“开始……”。这是“依存名词 기 + 补助动词”的典型补助动词结构，叙述描写中高频出现。与表完成的
+  -아/어 버리다 相对，一个指向起点、一个指向终点。
+examples:
+- text: 서서히 농도를 높이는 두 개의 마력에 주변이 바스라지기 시작했다.
+  reading: ''
+  annot: 서서히 농도를 높이는 두 개의 마력에 주변이 바스라지기 시작했다.
+  translation_zh: 随着两股魔力渐渐增强浓度，周围开始崩碎开来。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+- text: 이명이 가시고, 여름의 풀벌레 소리가 희미하게 들리기 시작했을 무렵에야 나는 깨달았다.
+  reading: ''
+  annot: 이명이 가시고, 여름의 풀벌레 소리가 희미하게 들리기 시작했을 무렵에야 나는 깨달았다.
+  translation_zh: 直到耳鸣消退、夏日的虫鸣开始隐约入耳时，我才察觉到。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 补助动词
+- 依存名词
+- 时相
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

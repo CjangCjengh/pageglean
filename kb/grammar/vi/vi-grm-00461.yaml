@@ -1,0 +1,41 @@
+id: vi-grm-00461
+language: vi
+type: grammar
+level: L1
+level_rank: 1
+title: 分类词（量词）：tấm / quả / cái 等
+structure: 分类词（loại từ）：数词/指示词 + 分类词 + 名词
+structure_pattern: Num/Dem + loại từ + N
+explanation_zh: 越南语分类词（量词）丰富，数词或指示词与名词之间通常须加分类词，如“tấm giấy mời”（一张请柬）、“quả đấm”（一拳）。选择依名词的形状或属性而定：tấm
+  用于扁平片状物，quả 用于圆形或瓜果类事物，cái 最通用。
+examples:
+- text: Tôi chìa tấm giấy mời ra.
+  reading: ''
+  annot: Tôi chìa tấm giấy mời ra.
+  translation_zh: 我递出那张请柬。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+- text: Lời từ chối khéo của Việt An chẳng khác nào quả đấm thôi sơn giáng vào ngực
+    tôi.
+  reading: ''
+  annot: Lời từ chối khéo của Việt An chẳng khác nào quả đấm thôi sơn giáng vào ngực
+    tôi.
+  translation_zh: 越安那番婉转的拒绝，简直像一记开山重拳砸在我胸口。
+  source_book: book-vi-003
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 分类词
+- 量词
+provenance:
+  discovered_in: book-vi-003
+  first_seen_chapter: null
+  frequency_hint: 4
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

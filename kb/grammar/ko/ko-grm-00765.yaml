@@ -1,0 +1,39 @@
+id: ko-grm-00765
+language: ko
+type: grammar
+level: TOPIK2
+level_rank: 2
+title: -기 위해(서)：目的「为了……」
+structure: 명사형 전성 어미 '-기' + 의존 명사 '위함' + 연결 어미 '-하여(서)'
+structure_pattern: V/A-기 + 위해(서)
+explanation_zh: 名词形转成词尾 -기 把动词名词化，再接依存名词 위함 与连接词尾 -하여(서)，表示行为目的，相当于汉语“为了……”。片段中 -기
+  위해 与 -기 위하여 两种形态并用，后者更书面。体言可直接接 명사+을/를 위해。
+examples:
+- text: 나는 혼란 속에 침전하는 정신을 붙잡기 위해, 아랫입술을 피가 나게 깨물며 소리쳤다.
+  reading: ''
+  annot: 나는 혼란 속에 침전하는 정신을 붙잡기 위해, 아랫입술을 피가 나게 깨물며 소리쳤다.
+  translation_zh: 为了拉住正在混乱中下沉的意识，我把下唇咬出了血，大声呼喊。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+- text: 그녀를 찾기 위하여 이 기묘한 도시의 밤을 헤매며 돌아다니고 있었던 것이다.
+  reading: ''
+  annot: 그녀를 찾기 위하여 이 기묘한 도시의 밤을 헤매며 돌아다니고 있었던 것이다.
+  translation_zh: 原来是为了找到她，我才在这座奇异城市的夜晚四处徘徊游荡。
+  source_book: book-ko-026
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 转成词尾
+- 目的
+provenance:
+  discovered_in: book-ko-026
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

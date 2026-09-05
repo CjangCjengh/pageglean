@@ -16,6 +16,13 @@ examples:
   source_book: book-ko-026
   source_chapter: null
   pointer: null
+- text: 식사 준비해 놨으니까, 맛있게 먹고 가.
+  reading: ''
+  annot: 식사 준비해 놨으니까, 맛있게 먹고 가.
+  translation_zh: 饭我已经备好了，好好吃一顿再走吧。
+  source_book: book-ko-015
+  source_chapter: null
+  pointer: null
 related:
   cross_lang: []
   same_lang: []

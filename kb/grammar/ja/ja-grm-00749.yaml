@@ -1,0 +1,31 @@
+id: ja-grm-00749
+language: ja
+type: grammar
+level: N2
+level_rank: 4
+title: 「〜て初めて」：直到～才……
+structure: 動詞連用形 ＋ 接続助詞「て」 ＋ 副詞「初めて」
+structure_pattern: V-て + 初めて
+explanation_zh: 「〜て初めて」表示前项实现之后，后项才第一次成立，即“直到〜才……”。「マスコミが注目して初めて意味を成す」即“媒体关注之后才有意义”。偏书面、正式的用法，是N2阅读常见表达。
+examples:
+- text: おまえの作戦は、マスコミが注目して初めて意味を成す。
+  reading: ''
+  annot: おまえの作戦[さくせん]は、マスコミが注目[ちゅうもく]して初[はじ]めて意味[いみ]を成[な]す。
+  translation_zh: 你的计划，只有在媒体关注之后才有意义。
+  source_book: book-ja-011
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 接续
+- 时间
+provenance:
+  discovered_in: book-ja-011
+  first_seen_chapter: null
+  frequency_hint: 0
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''
