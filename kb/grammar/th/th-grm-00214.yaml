@@ -1,0 +1,31 @@
+id: th-grm-00214
+language: th
+type: grammar
+level: L2
+level_rank: 2
+title: ขึ้น：程度变化“变得更……”
+structure: Adj/V + ขึ้น (+ เลย)
+structure_pattern: Adj + ขึ้น
+explanation_zh: “形容词/动词+ขึ้น”表示程度加深或情况好转，相当于“变得更……／……起来了”，是比较变化的常用式。如「น่ารักขึ้น」＝变得更可爱，常与「เลย」等语气词连用，强调变化明显。
+examples:
+- text: เท่านี้ก็​เรียบร้อย คัต​ยูช่า​น่ารัก​ขึ้น​เลย​เนอะ
+  reading: ''
+  annot: เท่านี้ก็​เรียบร้อย คัต​ยูช่า​น่ารัก​ขึ้น​เลย​เนอะ
+  translation_zh: 这样就收拾妥当啦，คัตยูช่า一下子变得更可爱了呢。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 比较
+- 变化
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

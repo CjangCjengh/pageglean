@@ -1,0 +1,32 @@
+id: th-grm-00274
+language: th
+type: grammar
+level: L3
+level_rank: 3
+title: V＋ไป／มา＋V：趋向连动式
+structure: กริยาหลัก + ไป/มา (บอกทิศทาง) + กริยาจุดมุ่งหมาย
+structure_pattern: V1 + ไป/มา + V2
+explanation_zh: 泰语连动式常在主要动词后加 ไป（远离说话人）／มา（朝向说话人）表示趋向，再接第二个动词表示目的，如 ลากไปคุย＝拖去谈。语序与中文相反：中文说「去／来＋V」，泰语说「V＋ไป/มา」。
+examples:
+- text: กลุ่ม​หัวหน้า​ห้องก็​มา​ดัก​เรียก​ไป​คุย​ด้วย
+  reading: ''
+  annot: กลุ่ม​หัวหน้า​ห้องก็​มา​ดัก​เรียก​ไป​คุย​ด้วย
+  translation_zh: 班长那伙人便过来拦住她，叫她去一起谈谈。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 连动式
+- 趋向
+- 语序
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 6
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

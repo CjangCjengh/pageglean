@@ -1,0 +1,32 @@
+id: th-grm-00183
+language: th
+type: grammar
+level: L2
+level_rank: 2
+title: หลังจาก(ที่)…ก็…：时间从句「……之后」
+structure: คำเชื่อม หลังจาก(ที่) + อนุประโยค (วิเศษณานุประโยคบอกเวลา) + แล้ว + ก็
+  + มุขยประโยค
+structure_pattern: หลังจาก(ที่) + Clause1 + แล้ว + ก็ + Clause2
+explanation_zh: หลัง(จาก)ที่引导时间状语从句，表示前一动作完成，主句常用连词ก็承接，相当于汉语「……之后」。前后分句主语常相同，主语可承前省略。
+examples:
+- text: หลังจากที่​ผู้การ​อ่าน​โครงเรื่อง​ที่​ผม​เขียน​ขึ้น​มา​คร่าว ๆ จบก็​เอ่ย​ถาม​ขึ้น
+  reading: ''
+  annot: หลังจากที่​ผู้การ​อ่าน​โครงเรื่อง​ที่​ผม​เขียน​ขึ้น​มา​คร่าว ๆ จบก็​เอ่ย​ถาม​ขึ้น
+  translation_zh: 司令官读完我粗略写好的故事大纲后，便开口问道。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 时间从句
+- 主从复合句
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

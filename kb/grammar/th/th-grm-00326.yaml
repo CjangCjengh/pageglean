@@ -1,0 +1,38 @@
+id: th-grm-00326
+language: th
+type: grammar
+level: L2
+level_rank: 2
+title: แล้ว：完成体与动作接续
+structure: 动词／形容词 ＋ แล้ว（เสร็จสิ้น）；แล้ว ＋ 后续动词（เชื่อมลำดับ）
+structure_pattern: V/Adj + แล้ว ; แล้ว + V
+explanation_zh: แล้ว 跟在动词或形容词后表示动作已完成或状态已经达成，相当于「了／已经」，如「ดีแล้ว」（已经好了吗）。它还能衔接前后两个事件，「…แล้วมาโดน…」即「先……之后又遭到……」。与汉语不同，แล้ว
+  紧跟所修饰的词，不出现在句末。
+examples:
+- text: คุณ​ตั้งใจทำ​งาน​อย่าง​เต็มที่​แล้ว​มา​โดน Toxic ใส่​แบบนี้
+  reading: ''
+  annot: คุณ​ตั้งใจทำ​งาน​อย่าง​เต็มที่​แล้ว​มา​โดน Toxic ใส่​แบบนี้
+  translation_zh: 你明明已经全力把工作做好了，却又遭到这样的恶意对待
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+- text: มันดี​แล้ว​เรอะ?
+  reading: ''
+  annot: มันดี​แล้ว​เรอะ?
+  translation_zh: 这样真的没问题吗？（เรอะ 为表怀疑反问的疑问语气词）
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 体貌/语气
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

@@ -1,0 +1,31 @@
+id: th-grm-00268
+language: th
+type: grammar
+level: L4
+level_rank: 4
+title: ต่อให้…ก็…：让步假设
+structure: ต่อให้ + 分句，ก็ + 分句
+structure_pattern: ต่อให้...ก็...
+explanation_zh: ต่อให้引出让步假设，相当于中文的「即使/就算…也…」，主句用ก็呼应，表示结论不随条件改变。片段中与疑问词ขนาดไหน连用，表示「无论欺负到什么程度都不会还手」。
+examples:
+- text: ต่อ​ให้​รังแก​ไป​ขนาด​ไหนก็​จะ​ไม่​สวนกลับ​มา
+  reading: ''
+  annot: ต่อ​ให้​รังแก​ไป​ขนาด​ไหนก็​จะ​ไม่​สวนกลับ​มา
+  translation_zh: 就算欺负到什么程度，（他）也不会还手。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 连接词
+- 让步
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

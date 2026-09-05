@@ -1,0 +1,39 @@
+id: th-grm-00224
+language: th
+type: grammar
+level: L4
+level_rank: 4
+title: รึไง？/ หน่อยไหมล่ะ：口语中的确认与反问
+structure: VP + รึ(หรือ) + ไง；…เกินไป + หน่อย + ไหม + ล่ะ（疑问助词连用）
+structure_pattern: VP + รึ/หรือ + ไง
+explanation_zh: รึ是หรือ的口语形式，与ไง（=อย่างไร）构成「VP+รึ+ไง」，表示「……还是怎么的？」，用于带有惊讶语气的确认问句。另一口语反问格式「…เกินไป+หน่อย+ไหม+ล่ะ」意为「未免有点太……了吧」，常与句末助词เนี่ย连用，表达说话人的感叹式反问。
+examples:
+- text: ว่า​ไง​เรา หิว​รึไง?
+  reading: ''
+  annot: ว่า​ไง​เรา หิว​รึไง?
+  translation_zh: 怎么啦，是饿了吗？
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+- text: มัน​จะ​แสนรู้​เกินไป​หน่อย​ไหม​ล่ะ​เนี่ย...
+  reading: ''
+  annot: มัน​จะ​แสนรู้​เกินไป​หน่อย​ไหม​ล่ะ​เนี่ย...
+  translation_zh: 这小家伙未免也太通人性了吧……
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 疑问
+- 语气
+- 口语
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

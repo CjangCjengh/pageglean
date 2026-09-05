@@ -1,0 +1,32 @@
+id: th-grm-00309
+language: th
+type: grammar
+level: L4
+level_rank: 4
+title: 「พลาง…พลาง…：一边……一边……」
+structure: คำเชื่อม（连接词）：（พลาง）+ 动作A + พลาง + 动作B
+structure_pattern: VP + พลาง + VP
+explanation_zh: พลาง是表示同时进行的คำวิเศษณ์／คำเชื่อม，连接两个同时发生的动作，相当于『一边……一边……』。可出现一个或两个พลาง，位置比汉语『一边……一边……』灵活，常置于后一动作之前。多用于叙述性描写，能细腻呈现并行动作。
+examples:
+- text: พลาง​ยื่นมือ​มา​เกาะ​ชาย​เสื้อ​ผม​แล้ว​กระตุก​เบา ๆ พลาง​ช้อนตา​ขึ้น​มา​มอง​ผม​ด้วย​สีหน้า​กังวล
+  reading: ''
+  annot: พลาง​ยื่นมือ​มา​เกาะ​ชาย​เสื้อ​ผม​แล้ว​กระตุก​เบา ๆ พลาง​ช้อนตา​ขึ้น​มา​มอง​ผม​ด้วย​สีหน้า​กังวล
+  translation_zh: 她一边伸出手攥住我的衣角轻轻拽了拽，一边抬起眼睛、满脸担忧地望着我。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 连动
+- 并列
+- 同时态
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

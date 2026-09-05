@@ -1,0 +1,40 @@
+id: th-grm-00245
+language: th
+type: grammar
+level: L3
+level_rank: 3
+title: ให้ 补语标记：引出结果与程度
+structure: กริยา + (กรรม) + ให้ + ผลลัพธ์/ระดับ/ผู้รับประโยชน์
+structure_pattern: กริยา + ให้ + วิเศษณ์/ประโยค
+explanation_zh: 此处 ให้ 并非「给」，而是接在动词后引出结果或程度补语，近于中文的结果补语：ดูแลให้ดี 即「照顾好」，ให้เร็วที่สุด
+  即「尽可能快」。它还可引出受益对象（ให้เธอทาน＝做给她吃）。这是泰语中频率极高的多能结构。
+examples:
+- text: มัน​เป็นความ​ผิด​ของ​ผม​เอง​ที่​ไม่ยอม​ดูแล​เธอ​ให้​ดี
+  reading: ''
+  annot: มัน​เป็นความ​ผิด​ของ​ผม​เอง​ที่​ไม่ยอม​ดูแล​เธอ​ให้​ดี
+  translation_zh: 是我自己的错，没能把她照顾好。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+- text: ผม​ต้องหา​ทาง​แก้ไข​เรื่อง​นี้​ให้​เร็ว​ที่สุด
+  reading: ''
+  annot: ผม​ต้องหา​ทาง​แก้ไข​เรื่อง​นี้​ให้​เร็ว​ที่สุด
+  translation_zh: 我必须想办法尽快解决这件事。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 补语
+- 高频虚词
+- 程度
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 4
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

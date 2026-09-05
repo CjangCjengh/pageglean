@@ -1,0 +1,32 @@
+id: th-grm-00246
+language: th
+type: grammar
+level: L3
+level_rank: 3
+title: ถ้า...แล้วล่ะก็：要是……的话
+structure: ถ้า + เงื่อนไข + แล้วล่ะก็ + ผลลัพธ์
+structure_pattern: ถ้า + เงื่อนไข + แล้วล่ะก็ + ผล
+explanation_zh: 「ถ้า…แล้วล่ะก็」是强调式条件句，ล่ะก็ 加强承接语气，相当于中文「要是……的话，那就……」。主句常与「จะ…อย่างแน่นอน」搭配，表示有把握的推断。比简单的「ถ้า…ก็…」更口语、语气更足。
+examples:
+- text: รับรอง​ว่า​ถ้า​ได้​ทานอาหาร​ของ​ผม​แล้ว​ล่ะก็​เธอ​จะ​ต้องหาย​เศร้า​อย่าง​แน่นอน
+  reading: ''
+  annot: รับรอง​ว่า​ถ้า​ได้​ทานอาหาร​ของ​ผม​แล้ว​ล่ะก็​เธอ​จะ​ต้องหาย​เศร้า​อย่าง​แน่นอน
+  translation_zh: 我保证，要是吃了我的饭菜，她一定会不再难过。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 条件
+- 语气
+- 口语
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

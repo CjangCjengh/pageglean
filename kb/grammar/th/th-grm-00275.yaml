@@ -1,0 +1,32 @@
+id: th-grm-00275
+language: th
+type: grammar
+level: L2
+level_rank: 2
+title: เคย＋V（＋มา）：曾经……过
+structure: เคย + กริยา + มา (คำช่วยกริยาบอกประสบการณ์)
+structure_pattern: เคย + V (+ มา)
+explanation_zh: เคย 是助动词，放在动词前表示过去有过某种经历，相当于中文「曾经……过」。常与句尾 มา 搭配，强调经历留下的结果，如 เคยเรียนมา＝以前学过（现在还会）。否定式为
+  ไม่เคย。
+examples:
+- text: เธอ​เลย​ใช้​ศิลปะ​ป้องกันตัว​ที่​เคย​เรียน​มา​จัดการ​กับ​พวก​ที่​เข้า​มา​รุม​เธอ​และ​เอาตัวรอด​มา​ได้
+  reading: ''
+  annot: เธอ​เลย​ใช้​ศิลปะ​ป้องกันตัว​ที่​เคย​เรียน​มา​จัดก
+  translation_zh: 于是，她用以前学过的防身术对付那些围上来的人，成功脱了身。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 体貌
+- 助动词
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

@@ -1,0 +1,40 @@
+id: th-grm-00225
+language: th
+type: grammar
+level: L2
+level_rank: 2
+title: 重叠式เบา ๆ、แตะ ๆ：轻微与反复
+structure: 单音节词重叠 + ๆ（คำซ้ำ，作กริยาวิเศษณ์状语）
+structure_pattern: X ๆ (คำซ้ำ)
+explanation_zh: 泰语可把单音节形容词或动词重叠并加 ๆ，构成คำซ้ำ（重叠词）充当状语，表示程度轻微或动作反复，如เบา ๆ（轻轻地）、แตะ ๆ（一下下地轻碰）、แผล่บ
+  ๆ（快速地）。重叠式在片段中反复出现，使动作描写更加细腻生动。
+examples:
+- text: เอา​ขา​หน้า​แตะ ๆ ชาม​ข้าว​ด้วย
+  reading: ''
+  annot: เอา​ขา​หน้า​แตะ ๆ ชาม​ข้าว​ด้วย
+  translation_zh: 还用前爪一下一下地轻碰食盆。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+- text: เลีย​ปาก​แผล่บ ๆ
+  reading: ''
+  annot: เลีย​ปาก​แผล่บ ๆ
+  translation_zh: （伸出舌头）快速地舔着嘴巴。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 重叠
+- 副词
+- 构词
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 5
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

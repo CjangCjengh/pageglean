@@ -1,0 +1,38 @@
+id: th-grm-00260
+language: th
+type: grammar
+level: L3
+level_rank: 3
+title: คงจะ…อยู่：恐怕……吧（推测与保留）
+structure: คงจะ + 动词/形容词 (+ อยู่)
+structure_pattern: คงจะ + V/Adj (+ อยู่)
+explanation_zh: คง是表推测的副词（คำวิเศษณ์），将是能愿动词，合起来表示「大概、恐怕」，用于有依据的推断。句尾อยู่表示「仍然、还是」，让判断留有余地、语气委婉。也可不带อยู่，配合แน่「肯定」加强语气。
+examples:
+- text: ก็​คงจะ​ทำใจ​เชื่อ​ได้​ยาก​อยู่
+  reading: ''
+  annot: ก็​คงจะ​ทำใจ​เช
+  translation_zh: 恐怕还是很难让自己相信吧。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+- text: คงจะ​เป็น​หัวหน้า​ห้อง​ไม่ผิด​แน่
+  reading: ''
+  annot: คงจะ​เป็น​หัวหน้า​ห้อง​ไม่ผิด​แน่
+  translation_zh: 肯定是班长没错。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 语气
+- 推测
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

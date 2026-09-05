@@ -1,0 +1,31 @@
+id: th-grm-00267
+language: th
+type: grammar
+level: L3
+level_rank: 3
+title: ดังนั้น…จึง…：因果连接
+structure: ดังนั้น + 分句，（主语）+ จึง + V
+structure_pattern: ดังนั้น...จึง...
+explanation_zh: ดังนั้น用于句首承接上文原因，จึง置于动词前引出结果，相当于中文的「所以…就…」。是书面与口语中常用的因果连接格式，语气较正式。
+examples:
+- text: ดังนั้น​ผม​จึง​เข้าใจ​เคส​นี้​เป็น​อย่าง​ดี​นั่น​เอง
+  reading: ''
+  annot: ดังนั้น​ผม​จึง​เข้าใจ​เคส​
+  translation_zh: 所以我才会对这个案例了解得如此透彻。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 连接词
+- 因果
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

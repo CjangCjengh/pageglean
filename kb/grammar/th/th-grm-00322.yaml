@@ -1,0 +1,39 @@
+id: th-grm-00322
+language: th
+type: grammar
+level: L2
+level_rank: 2
+title: 连动式与趋向补语：V＋ขึ้น/ออก/ไป/มา
+structure: 主要动词 ＋ 趋向动词（ขึ้น／ออก／เข้า／ลง）＋（จาก＋处所）＋ ไป／มา
+structure_pattern: V + ขึ้น/ออก/เข้า/ลง + (จาก + N) + ไป/มา
+explanation_zh: 泰语用连动式表达移动方向：趋向动词ขึ้น／ออก／เข้า／ลง置于主要动词后作补语，还可再叠加ไป／มา表示离去或趋近。语序与汉语「动词＋趋向补语」大致对应，如「ลุกขึ้น」站起来、「เดินออกจากห้องไป」走出房间去。
+examples:
+- text: พอ​พูด​จบ​เธอก็​ลุกขึ้น​แล้ว​เดิน​ออกจาก​ห้อง​ไป​อย่าง​รวดเร็ว
+  reading: ''
+  annot: พอ​พูด​จบ​เธอก็​ลุกขึ้น​แล้ว​เดิน​ออกจาก​ห้อง​ไป​อย่าง​รวดเร็ว
+  translation_zh: 她一说完，便迅速起身，快步走出了房间。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+- text: ฉันก็​หยิบ​โทรศัพท์​ขึ้น​มา​ต่อ​สาย​ไป​หาคราร่า​เพื่อนสนิท​ของ​ฉัน​ที่​รัสเซีย​ทันที
+  reading: ''
+  annot: ฉันก็​หยิบ​โทรศัพท์​ขึ้น​มา​ต่อ​สาย​ไป​หาคราร่า​เพื่อนสนิท​ของ​ฉัน​ที่​รัสเซีย​ทันที
+  translation_zh: 我便立刻拿起电话，拨给在俄罗斯的闺蜜克拉拉。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 连动式
+- 趋向补语
+- 语序
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 5
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

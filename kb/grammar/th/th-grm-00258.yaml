@@ -1,0 +1,38 @@
+id: th-grm-00258
+language: th
+type: grammar
+level: L3
+level_rank: 3
+title: มาตลอด：一直持续到现在
+structure: คำกริยา + มา + ตลอด(คำกริยาวิเศษณ์)
+structure_pattern: V + มา + ตลอด
+explanation_zh: ตลอด是『一直、始终』义的คำกริยาวิเศษณ์；动词后加มา再接ตลอด，表示动作从过去持续到现在，相当于汉语『一直……到现在』。这里的มา不表方向，而是标示『从过去到说话时』的时间轨迹，是泰语特有的体貌表达。单独用ตลอด（如ช่วยงานครูตลอด）则表示『总是、一直』。
+examples:
+- text: ช่วยงาน​ของ​คุณครู​ตลอด
+  reading: ''
+  annot: ช่วยงาน​ของ​คุณครู​ตลอด
+  translation_zh: 一直帮老师做事。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+- text: ที่​มี​ความ​ประพฤติดี​มาตลอด​ใน​สายตา​เธอ
+  reading: ''
+  annot: ที่​มี​ความ​ประพฤติดี​มาตลอด​ใน​สายตา​เธอ
+  translation_zh: （那个学生）在她眼中一直品行良好。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 体貌
+- 时间
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

@@ -1,0 +1,32 @@
+id: th-grm-00308
+language: th
+type: grammar
+level: L2
+level_rank: 2
+title: 「แล้ว + 名词 + ล่ะ：那么……呢？」
+structure: แล้ว + 名词 + คำลงท้าย（句末语气词）ล่ะ + (คะ/ค่ะ)
+structure_pattern: แล้ว + NP + ล่ะ (+ คะ/ค่ะ)
+explanation_zh: แล้ว＋名词＋ล่ะ承接上文引出新话题或追问，相当于『那么……呢？』。ล่ะ是句末คำลงท้าย（语气助词），使追问语气自然委婉。女性说话时疑问句尾用คะ，陈述句尾则用ค่ะ，书写不可互换。
+examples:
+- text: แล้ว​คำ​ตอบ​ล่ะ​คะ?
+  reading: ''
+  annot: แล้ว​คำ​ตอ
+  translation_zh: 那么，您的答案是什么呢？
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 疑问
+- 句末助词
+- 话题
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

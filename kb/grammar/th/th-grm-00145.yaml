@@ -1,0 +1,32 @@
+id: th-grm-00145
+language: th
+type: grammar
+level: L3
+level_rank: 3
+title: หรอก 与 ล่ะ／เลย：句末语气助词
+structure: ประโยค + หรอก（缓和否定）/ ล่ะ、เลย（加强语气）
+structure_pattern: S + หรอก / ล่ะ / เลย
+explanation_zh: 「หรอก」用于否定句末，缓和否定语气；「ล่ะ」「เลย」用于句末加强肯定或提示语气。这些คำลงท้าย使口语显得柔和自然、富有情感。
+examples:
+- text: ไม่ใช่​หรอก เหมาะ​มาก​เลย​ล่ะ
+  reading: ''
+  annot: ไม่ใช่​หรอก เหมาะ​มาก​เลย​ล่ะ
+  translation_zh: 才不是呢，（其实）非常合适呢
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 语气
+- 助词
+- 口语
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

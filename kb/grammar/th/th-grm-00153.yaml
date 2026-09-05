@@ -1,0 +1,38 @@
+id: th-grm-00153
+language: th
+type: grammar
+level: L2
+level_rank: 2
+title: 「ก่อน(จะ) + V」：在做某事之前
+structure: V1 + ก่อน +（จะ）+ V2
+structure_pattern: V1 + ก่อน + (จะ) + V2
+explanation_zh: ก่อน意为“先、在……之前”，连接两个动作，表示前一动作先发生，即“做……之前”。可直接接动词，也可加 จะ 再接动词。片段两次使用“…ก่อนจะพูดขึ้นมา”，描写雅达先想了一会儿才开口。
+examples:
+- text: ญาดา​นั่ง​นึก​อยู่​ครู่หนึ่ง​ก่อน​จะ​พูด​ขึ้น​มา​ว่า
+  reading: ''
+  annot: ญาดา​นั่ง​นึก​อยู่​ครู่หนึ่ง​ก่อน​จะ​พูด​ขึ้น​มา​ว่า
+  translation_zh: 雅达坐着想了一会儿，然后开口说道：
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+- text: ญาดา​นั่ง​นิ่ง​ไป​ครู่หนึ่ง​ก่อน​จะ​พูด​ขึ้น​ว่า
+  reading: ''
+  annot: ญาดา​นั่ง​นิ่ง​ไป​ครู่หนึ่ง​ก่อน​จะ​พูด​ขึ้น​ว่า
+  translation_zh: 雅达静静地坐了一会儿，然后开口说：
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 时间状语
+- 接续
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

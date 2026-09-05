@@ -1,0 +1,32 @@
+id: th-grm-00235
+language: th
+type: grammar
+level: L3
+level_rank: 3
+title: 连动式与趋向补语：คำกริยาเรียง + ไป/มา/เข้า/ออก
+structure: กริยา + (กรรม) + กริยาบอกทิศทาง (ไป/มา/เข้า/ออก/กลับ)
+structure_pattern: V1 (+ O) + V2(ไป/มา/เข้า/ออก/กลับ)
+explanation_zh: 泰语可把多个动词直接连用构成连动式（คำกริยาเรียง），中间不需要连接词。「ไป/มา/เข้า/ออก/กลับ」等趋向动词紧跟在主要动词及其宾语之后作补语，如「เอาไปวางไว้」（拿去放好）、「เดินกลับบ้านไป」（走回家去）、「หันไปมอง」（转头去看）。阅读叙事文本时，抓住「动词链＋趋向」即可理清一连串动作。
+examples:
+- text: เธอ​พูด​เท่านั้น​แล้ว​เดิน​กลับ​บ้าน​ไป
+  reading: ''
+  annot: เธอ​พูด​เท่านั้น​แล้ว​เดิน​กลับ​บ้าน​ไป
+  translation_zh: 她只说了这么一句，便转身回家去了。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 连动式
+- 趋向补语
+- 语序
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 10
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

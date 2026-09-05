@@ -1,0 +1,31 @@
+id: th-grm-00303
+language: th
+type: grammar
+level: L3
+level_rank: 3
+title: 比……还要……：มากกว่า…ซะอีก
+structure: 性质/状态 + มากกว่า + ที่ + 参照句 + ซะอีก
+structure_pattern: Adj/V + มากกว่า + ที่ + S + ซะอีก
+explanation_zh: 比较结构用“形容词/动词 + กว่า”表示“更……”。本句以มากกว่า引出比较基准从句，句末ซะอีก加强语气，整体意为“比……还要……”，强调超出对方预想。
+examples:
+- text: เหมือน​ฉัน​มากกว่า​ที่​คุณ​ชา​คิด​ซะ​อีก
+  reading: ''
+  annot: เหมือน​ฉัน​มากกว่า​ที่​คุณ​ชา​คิด​ซะ​อีก
+  translation_zh: （หนูดา）比你茶先生想的还要更像我呢。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 比较
+- 语气
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

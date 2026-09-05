@@ -1,0 +1,31 @@
+id: th-grm-00323
+language: th
+type: grammar
+level: L4
+level_rank: 4
+title: V＋จนได้：终究还是……了
+structure: 动词／小句 ＋ จนได้（补语小句，表示最终结果）
+structure_pattern: VP + จนได้
+explanation_zh: 「จนได้」附于动词或小句之后，表示经过一番周折，某事终究还是发生了，常带不情愿或无奈的语气。文中与表被动的「โดน」连用，表达「到底还是被算计了」。
+examples:
+- text: ให้​ตาย​สิ โดน​เข้า​จนได้
+  reading: ''
+  annot: ให้​ตาย​สิ โดน​เข้า​จนได้
+  translation_zh: 真是见鬼，到底还是被她们将了一军。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 体貌
+- 语气
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

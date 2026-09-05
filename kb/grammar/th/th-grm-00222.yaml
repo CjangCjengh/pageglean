@@ -1,0 +1,39 @@
+id: th-grm-00222
+language: th
+type: grammar
+level: L3
+level_rank: 3
+title: พลาง：一边做甲一边做乙
+structure: V1 + พลาง + V2（กริยาวิเศษณ์，表两个动作同时进行）
+structure_pattern: V + พลาง + V
+explanation_zh: พลาง是表示两个动作同时进行的副词（กริยาวิเศษณ์），结构为「V1+พลาง+V2」，相当于中文的「一边……一边……」。多见于叙述性文字，语气比口语的ไปด้วย…ไปด้วย…更为文雅。片段中两次用来描写「我」与猫互动的场景。
+examples:
+- text: ผม​ว่า​พลาง​ลูบ​หัว​เจ้า​เหมียว​เบา ๆ
+  reading: ''
+  annot: ผม​ว่า​พลาง​ลูบ​หัว​เจ้า​เหมียว​เบา ๆ
+  translation_zh: 我一边说着，一边轻轻抚摸着小猫的头。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+- text: ร้อง​พลาง​เอา​เท้าหน้า​ตะกุย​ขา​ผม​เบา ๆ
+  reading: ''
+  annot: ร้อง​พลาง​เอา​เท้าหน้า​ตะกุย​ขา​ผม​เบา ๆ
+  translation_zh: （小猫）一边叫着，一边用前爪轻轻扒拉我的腿。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 体貌
+- 同时动作
+- 副词
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

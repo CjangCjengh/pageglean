@@ -1,0 +1,38 @@
+id: th-grm-00212
+language: th
+type: grammar
+level: L3
+level_rank: 3
+title: เพื่อ(ว่า)…จะได้：目的从句
+structure: เพื่อ(ว่า) + จะได้ + กริยา
+structure_pattern: เพื่อ(ว่า) + จะได้ + V
+explanation_zh: 「เพื่อ」引导表示目的的วิเศษณานุประโยค（状语从句），相当于汉语“为了/为的是”。「เพื่อที่ว่า」是较口语化的完整形式，常与「จะได้」（就能够）搭配，表示“为的是能……”。句末「เสียก่อน」补充“先……再说”的语气。
+examples:
+- text: เพื่อ​ที่ว่า​จะ​ได้​ไม่​ไป​รบกวน​ผู้โดยสาร​คน​อื่น
+  reading: ''
+  annot: เพื่อ​ที่ว่า​จะ​ได้​ไม่​ไป​รบกวน​ผู้โดยสาร​คน​อื่น
+  translation_zh: 为的是不至于打扰到其他乘客。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+- text: เพื่อ​ตรวจโรค​ของ​เจ้า​เหมียว​นี่​เสีย​ก่อน
+  reading: ''
+  annot: เพื่อ​ตรวจโรค​ของ​เจ้า​เหมียว​นี่​เสีย​ก่อน
+  translation_zh: 为的是先给这只小猫做个检查。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 目的
+- 接续
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

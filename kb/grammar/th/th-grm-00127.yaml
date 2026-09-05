@@ -1,0 +1,39 @@
+id: th-grm-00127
+language: th
+type: grammar
+level: L2
+level_rank: 2
+title: ไม้ยมก（ๆ）：重叠表程度加深或「种种」
+structure: 形容词/副词 + ๆ
+structure_pattern: Adj/Adv + ๆ
+explanation_zh: 重叠符号 ๆ（ไม้ยมก）表示重复前面的词：形容词重叠后程度加深或增添生动色彩，如「สวย ๆ」（漂亮的）、「สั้น ๆ」（简短地）、「จริง
+  ๆ」（真正地）。「อื่น ๆ」表示「其他种种」，句末的「บ้าง」表示「有时、间或」；「ข้าง ๆ」则表示「旁边一带」。作状语修饰动词时相当于汉语的「……地」。
+examples:
+- text: ญาดา​ยิ้ม​ให้​ผม​พลาง​ตอบกลับ​มา​สั้น ๆ
+  reading: ''
+  annot: ญาดา​ยิ้ม​ให้​ผม​พล
+  translation_zh: 雅达对我微微一笑，同时简短地作了回答。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+- text: บางทีก็​ไป​เที่ยว​ทะเลสาบ​ที่​เมือง​อื่น ๆ บ้าง
+  reading: ''
+  annot: บางทีก็​ไป​เที่ยว​ทะเลสาบ​ที่​เมือง​อื่น ๆ บ้าง
+  translation_zh: 有时也去其他城市的湖边走走。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 重叠
+- 修饰语
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

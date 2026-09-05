@@ -1,0 +1,31 @@
+id: th-grm-00304
+language: th
+type: grammar
+level: L4
+level_rank: 4
+title: 遭受（不利被动）：โดน + 施事 + 动词
+structure: โดน + 施事者 + 动词（主语遭受不如意动作）
+structure_pattern: โดน + NP + V
+explanation_zh: โดน表示遭受义的不利被动，结构为“โดน + 施事 + 动词”，指主语遭受不如意的事情，负面语义色彩比中性被动ถูก更强。本段“โดนแฟนเก่าสวดใส่เป็นชุด”即“被前女友连珠炮似地数落”。
+examples:
+- text: กลับ​ต้อง​มา​โดน​แฟนเก่า​สวด​ใส่​เป็นชุด​แบบนี้
+  reading: ''
+  annot: กลับ​ต้อง​มา​โดน​แฟนเก่า​สวด​ใส่​เป็นชุด​แบบนี้
+  translation_zh: 反倒被前女友这样连珠炮似地数落。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 语态
+- 语义色彩
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

@@ -1,0 +1,38 @@
+id: th-grm-00178
+language: th
+type: grammar
+level: L3
+level_rank: 3
+title: 连动式：动词连用与趋向补语มา/ไป/กลับ
+structure: กริยา连用：คำกริยา1（+ กรรม 宾语）+ คำกริยา2 + คำบอกทิศทาง（มา/ไป/กลับ）
+structure_pattern: V1 + (O) + V2 + มา/ไป/กลับ
+explanation_zh: 泰语允许多个动词直接连用（连动式），按动作发生先后排列，如“หยิบ…ส่งกลับมาให้”＝“取出……转身递回来给”，一句话里五个动词一气呵成。มา/ไป/กลับ等趋向词紧跟动词作趋向补语，表示动作朝向，其中มา朝说话人、ไป背离说话人。
+examples:
+- text: พนักงานก็​หยิบ​เหรียญ​สิบ​บาท​จำนวน 10 เหรียญ​ส่งกลับ​มา​ให้
+  reading: ''
+  annot: พนักงานก็​หยิบ​เหรียญ​สิบ​บาท​จำนวน 10 เหรียญ​ส่งกลับ​มา​ให้
+  translation_zh: 工作人员便取出10枚十铢硬币，转身递了回来。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+- text: ญาดา​หันกลับ​ไป​มอง​เครื่อง​ขาย​ตั๋ว​อัตโนมัติ​ที่​ตั้ง​อยู่​ใกล้ ๆ
+  reading: ''
+  annot: ญาดา​หันกลับ​ไป​มอง​เครื่อง​ขาย​ต
+  translation_zh: 娅达转身望向立在旁边的那台自动售票机。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 连动
+- 趋向
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 5
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

@@ -1,0 +1,31 @@
+id: th-grm-00315
+language: th
+type: grammar
+level: L3
+level_rank: 3
+title: ไม่…สักหน่อย：一点儿也不
+structure: ไม่ + 动词 + สักหน่อย
+structure_pattern: ไม่ + V + สักหน่อย
+explanation_zh: ไม่ + 动词 + สักหน่อย 表示“一点儿也不……、根本不……”，สักหน่อย 在否定句中加强否定语气。同形结构在肯定句中则表示“稍微、一点”，需注意语境区分。
+examples:
+- text: ดา​ไม่สนใจ​เรื่อง​นั้น​สักหน่อย
+  reading: ''
+  annot: ดา​ไม่สนใจ​เรื่อง​นั้น​สักหน่อย
+  translation_zh: 达一点儿也不在意那件事。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 否定
+- 语气
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

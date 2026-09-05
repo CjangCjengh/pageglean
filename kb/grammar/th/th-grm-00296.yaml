@@ -1,0 +1,37 @@
+id: th-grm-00296
+language: th
+type: grammar
+level: L2
+level_rank: 2
+title: หรือเปล่า / เหรอ：是非问与确认
+structure: 动词/形容词 + หรือเปล่า；陈述句 + เหรอ?
+structure_pattern: VP + หรือเปล่า / เหรอ
+explanation_zh: 「หรือเปล่า」接在动词或形容词之后构成是非问句，相当于中文『……吗／……没有』。「เหรอ」是「หรือ」的口语形式，用于句末表示确认或略带惊讶的反问，如『จริงเหรอ?』（真的吗？）；也可构成『งั้นเหรอ?』（那样吗？）。
+examples:
+- text: ไม่สบาย​หรือเปล่า
+  reading: ''
+  annot: ไม่สบาย​หรือเปล่า
+  translation_zh: （是）身体不舒服吗？
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+- text: จริง​เหรอ?
+  reading: ''
+  annot: จริง​เหรอ?
+  translation_zh: 真的吗？
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 疑问
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

@@ -1,0 +1,38 @@
+id: th-grm-00201
+language: th
+type: grammar
+level: L2
+level_rank: 2
+title: ลักษณนาม：量词与语序
+structure: นาม + ลักษณนาม + (คำวิเศษณ์) + จำนวน
+structure_pattern: N + CL (+ Adj) + Num
+explanation_zh: 泰语名词计数时必须搭配ลักษณนาม（量词），语序为"名词＋量词（＋修饰语）＋数词"，如"ไลท์โนเวล＋เล่ม＋เล็ก＋สอง＋เล่ม"。表示"另一……"时用"อีก＋量词＋หนึ่ง"，如"อีกแห่งหนึ่ง"（另一处）、"อีกอย่างหนึ่ง"（另一件事）。不同名词搭配不同量词，需逐一记忆。
+examples:
+- text: ไลท์โนเวล​เล่ม​เล็ก​สอง​เล่ม​ที่​ผู้การ​เป็น​คน​เขียน​ให้​ผม​ดู
+  reading: ''
+  annot: ไลท์โนเวล​เล่ม​เล็ก​สอง​เล่ม​ที่​ผู้การ​เป็น​คน​เขียน​ให้​ผม​ดู
+  translation_zh: 两本小开本的轻小说，是ผู้การ亲自写了给我看的。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+- text: ห้าง​สรรพสินค้า​ขนาดใหญ่​อีก​แห่งหนึ่ง
+  reading: ''
+  annot: ห้าง​สรรพสินค้า​ขนาดใหญ่​อีก​แห่งหนึ่ง
+  translation_zh: 另一家大型百货商场
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 量词
+- 语序
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 4
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

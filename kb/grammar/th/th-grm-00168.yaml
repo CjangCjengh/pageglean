@@ -1,0 +1,38 @@
+id: th-grm-00168
+language: th
+type: grammar
+level: L1
+level_rank: 1
+title: ต้อง + 动词：义务助动词
+structure: ต้อง + คำกริยา（表示必须、不得不）
+structure_pattern: ต้อง + V
+explanation_zh: 助动词ต้อง表示义务或必要性，相当于汉语「必须、不得不」，位于主要动词之前，语序与汉语一致。片段中「ก็ต้องเข้ามาเผชิญชะตากรรมรถติด」表达叙述者每次开会都不得不再度面对堵车。与可能义的สามารถ…ได้、意愿的จะ搭配时，情态助动词一律前置。
+examples:
+- text: ผมก็​ต้อง​เข้ามา​เผชิญ​ชะตากรรม​รถติด​อยู่​ใน​เมืองหลวง​นี่​อยู่​บ่อยครั้ง
+  reading: ''
+  annot: ผมก็​ต้อง​เข้ามา​เผชิญ​ชะตากรรม​รถติด​อยู่​ใน​เมืองหลวง​นี่​อยู่​บ่อยครั้ง
+  translation_zh: 我也常常不得不进首都来再次面对堵车的命运。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+- text: ทำไมตู​ต้อง​มา​หลอก​เด็ก​แบบ​นี้​ด้วย​วะ​เนี่ย!
+  reading: ''
+  annot: ทำไมตู​ต้อง​มา​หลอก​เด็
+  translation_zh: 我干嘛非得这样来骗小孩子啊！
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 助动词
+- 义务
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

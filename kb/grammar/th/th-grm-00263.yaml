@@ -1,0 +1,38 @@
+id: th-grm-00263
+language: th
+type: grammar
+level: L2
+level_rank: 2
+title: ถูก + 动词：被动与遭受「被……」
+structure: 受事主语 + ถูก +（施事）+ 动词
+structure_pattern: NP + ถูก + (Agent) + V
+explanation_zh: ถูก+动词表示被动，相当于中文的「被……」，多用于不如意、遭受义的事情。主语是动作的承受者，施事者放在ถูก与动词之间，也可省略。如「ถูกรุมแกล้ง」即「被（一群人）欺负」。
+examples:
+- text: อ​นาส​ตา​เซียบอก​ครู​ว่า​ถูก​พวก​เธอ​รุม​แกล้ง
+  reading: ''
+  annot: อ​นาส​ตา​เซียบอก​ครู​ว่า​ถูก​พวก​เธอ​รุม​แกล้ง
+  translation_zh: 阿纳斯塔西娅告诉老师，说她被你们几个人一起欺负。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+- text: เรื่อง​ที่​คุณดา​ถูก​รังแก
+  reading: ''
+  annot: เรื่อง​ที่​คุณดา​ถูก​รังแก
+  translation_zh: คุณดา被人欺负的那件事。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 被动
+- 语态
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

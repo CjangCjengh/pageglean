@@ -1,0 +1,38 @@
+id: th-grm-00249
+language: th
+type: grammar
+level: L2
+level_rank: 2
+title: ถูก + 动词：被动与不如意
+structure: ถูก + คำกริยา（กรรมวาจก：被动语态）
+structure_pattern: ถูก + V
+explanation_zh: 在泰语学校语法中属กรรมวาจก（被动句），结构为 ถูก + 动词，主语是动作的承受者。ถูก多用于不如意的事，如被欺负、被禁止；施事者可出现但常省略。片段中『ถูกแกล้ง』（被欺负）反复出现，是叙事文本的高频结构。
+examples:
+- text: ใช่​ครับ เธอ​ถูก​แกล้ง
+  reading: ''
+  annot: ใช่​ครับ เธอ​ถูก​แกล้ง
+  translation_zh: 是的，她被欺负了。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+- text: จาก​การ​ถูก​สั่งห้าม​ไม่​ให้​เข้า​มา​ยุ่ง​ใน​ครัว
+  reading: ''
+  annot: จาก​การ​ถูก​สั่งห้าม​ไม่
+  translation_zh: 因为被下令禁止进厨房瞎折腾
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 被动
+- 语态
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 5
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

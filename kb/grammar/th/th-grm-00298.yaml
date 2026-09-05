@@ -1,0 +1,31 @@
+id: th-grm-00298
+language: th
+type: grammar
+level: L3
+level_rank: 3
+title: 连动式与趋向补语：ลุกขึ้น…เดินออกไป
+structure: 动词1 (+แล้ว) + 动词2 + ขึ้น/ลง/ออก/ไป/มา (+ จาก + 处所)
+structure_pattern: V1 + (แล้ว) + V2 + ขึ้น/ลง/ออก/ไป/มา
+explanation_zh: 泰语多连动式，多个动词按时间顺序直接连用，中间可用「แล้ว」衔接先后动作。趋向动词「ขึ้น/ลง/ออก/ไป/มา」等置于主要动词之后作趋向补语，如『ลุกขึ้น』（起身）、『เดินออก…ไป』（走出去）；「จาก＋处所」引出动作起点，整体对应中文『从房间走出去』。
+examples:
+- text: ผม​จึง​ลอง​เอาเรื่อง​นี้​โทร​ไป​ปรึกษา​ญา​นั​นที่​รัสเซีย​ดู
+  reading: ''
+  annot: ผม​จึง​ลอง​เอาเรื่อง​นี้​โทร​ไ
+  translation_zh: 于是我试着打电话给在俄罗斯的雅南，商量这件事。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 连动式
+- 趋向补语
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 6
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

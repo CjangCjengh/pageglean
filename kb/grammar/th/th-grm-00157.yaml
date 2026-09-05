@@ -1,0 +1,39 @@
+id: th-grm-00157
+language: th
+type: grammar
+level: L2
+level_rank: 2
+title: 「…ๆ」重叠式：程度轻微、随意或泛指
+structure: 形容词/名词 + ๆ（或重复书写）
+structure_pattern: X + ๆ
+explanation_zh: 泰语常将形容词或名词重叠，表示程度轻微、模糊不定或泛指「……之类的」。如 ต่าง ๆ「各种各样」（复数泛指）、ลุย ๆ「有点随性粗犷」、น่ารัก
+  ๆ「可爱之类的」。
+examples:
+- text: ตาม​สถานที่​ต่าง ๆ คน​เดียว​แบบ​ลุย ๆ หน่อย
+  reading: ''
+  annot: ตาม​สถานที่​ต่าง ๆ คน​เดียว​แบบ​ลุย ๆ หน่อย
+  translation_zh: 独自前往各地，风格有点随性粗犷。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+- text: หรือ​สนใจ​อะไร​น่ารัก ๆ กัน​ไม่​ใช่​รึไง
+  reading: ''
+  annot: หรือ​สนใจ​อะไร​น่ารั
+  translation_zh: 还是对可爱之类的东西感兴趣，难道不是吗？
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 重叠
+- 语义泛化
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 5
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

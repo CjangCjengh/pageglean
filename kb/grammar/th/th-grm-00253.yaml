@@ -1,0 +1,31 @@
+id: th-grm-00253
+language: th
+type: grammar
+level: L1
+level_rank: 1
+title: ครับ / ค่ะ / คะ / นะ：句末礼貌与语气助词
+structure: 句子 + ครับ（男）/ ค่ะ（女·陈述）/ คะ（女·疑问）/ นะ（柔化）
+structure_pattern: ประโยค + ครับ/ค่ะ/คะ/นะ
+explanation_zh: 泰语句末礼貌助词按说话人性别选择：男性用ครับ，女性陈述、祈使用ค่ะ，女性提问用คะ，正式场合几乎每句必带。นะ是柔化语气的助词，表示亲切、安抚，如『ไม่เป็นไรนะ』。片段中男女说话人交替出现，可对比观察。
+examples:
+- text: สวัสดี​ค่ะ​คุณร​ชา​นนท์ เชิญ​นั่ง​ก่อน​ค่ะ
+  reading: ''
+  annot: สวัสดี​ค่ะ​คุณร​ชา​นนท์ เชิญ​นั่ง​ก่อน​ค่ะ
+  translation_zh: 您好，拉差侬先生，请先坐。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 敬语
+- 语气助词
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 6
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

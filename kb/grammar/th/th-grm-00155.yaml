@@ -1,0 +1,31 @@
+id: th-grm-00155
+language: th
+type: grammar
+level: L2
+level_rank: 2
+title: 「ทำไม(ถึง)…ล่ะ」：追问原因
+structure: ทำไม +（ถึง）+ 小句 + ล่ะ
+structure_pattern: ทำไม + (ถึง) + VP + ล่ะ
+explanation_zh: ทำไม意为“为什么”，加 ถึง 后加强追问语气，相当于“到底为什么、怎么会”。句末助词 ล่ะ 使疑问语气更随意自然，常与各类疑问词搭配。片段中“ทำไมถึงอยากไปเยาวราชล่ะ”即追问对方想去唐人街的原因。
+examples:
+- text: ได้​สิ แต่ว่า ทำไม​ถึง​อยาก​ไป​เยาวราช​ล่ะ?
+  reading: ''
+  annot: ได้​สิ แต่ว่า ทำไม​ถึง​อยาก​ไป​เยาวราช​ล่ะ?
+  translation_zh: 可以啊。不过，你为什么想去耀华力路（唐人街）呢？
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 疑问
+- 语气助词
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

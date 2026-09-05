@@ -1,0 +1,31 @@
+id: th-grm-00244
+language: th
+type: grammar
+level: L2
+level_rank: 2
+title: ก่อนที่จะ：在……之前
+structure: ประโยคหลัก + ก่อนที่ + จะ + กริยา
+structure_pattern: ก่อนที่ + จะ + กริยา
+explanation_zh: 「ก่อนที่ + จะ + 动词」表示「在做某事之前」，จะ 提示该动作尚未发生。时间从句位于主句之后，与中文「在……之前先做某事」语序相反，汉译时需调整。
+examples:
+- text: ผม​ลูบ​หัว​ปลอบใจ​เธอ​พักหนึ่ง​ก่อน​ที่​จะ​ถาม​เธอ​ต่อ
+  reading: ''
+  annot: ผม​ลูบ​หัว​ปลอบใจ​เธอ​พักหน
+  translation_zh: 我抚摸着她的头安慰了她一会儿，然后才继续问她。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 接续
+- 时间从句
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

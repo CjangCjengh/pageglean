@@ -1,0 +1,32 @@
+id: th-grm-00305
+language: th
+type: grammar
+level: L2
+level_rank: 2
+title: 「ไม่เคย + 动词：从未……过」
+structure: คำช่วยกริยา（助动词）：ไม่ + เคย + 动词
+structure_pattern: ไม่ + เคย + V
+explanation_zh: เคย是คำช่วยกริยา（助动词），表示曾经有过某种经历，否定式ไม่เคย意为『从来没有……过』。它置于主要动词之前，与汉语经历体的否定『没……过』对应。与ยังไม่เคย（还没有过）相比，ไม่เคย的否定更为绝对。
+examples:
+- text: ไม่เคย​เข้าใจ​ความรู้สึก​ของ​คน​รอบ ๆ ตัว
+  reading: ''
+  annot: ไม่เคย​เข้าใจ​ความรู้สึก​ของ​คน​รอบ ๆ ตัว
+  translation_zh: 从来不曾理解身边人的感受。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 体貌
+- 否定
+- 经历体
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

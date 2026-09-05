@@ -1,0 +1,32 @@
+id: th-grm-00229
+language: th
+type: grammar
+level: L4
+level_rank: 4
+title: จะ…หรอก（แต่…）：本打算……却……
+structure: จะ + 动词 + หรอก，แต่ + 分句
+structure_pattern: จะ + V + หรอก, แต่ + Clause
+explanation_zh: 「จะ + V + หรอก」表示原本的打算，后接 แต่ 引出最终没有实现的结果，意为「本来要……可是……」。语气助词 หรอก
+  强调意图与结果之间的落差。相当于汉语的「本来想……来着，但是……」。
+examples:
+- text: ตอนแรก​ผมก็​ว่า​จะ​ทัก​ออกไป​หรอก​แต่​เหมือน​คุณดา​จะ​รู้​ว่า​ผม​เห็น
+  reading: ''
+  annot: ตอนแรก​ผมก็​ว่า​จะ​ทัก​ออกไป​หรอก​
+  translation_zh: 起初我本想开口问一句的，但达小姐好像知道我已经看到了。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 语气
+- 接续
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

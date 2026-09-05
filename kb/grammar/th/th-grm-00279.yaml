@@ -1,0 +1,31 @@
+id: th-grm-00279
+language: th
+type: grammar
+level: L3
+level_rank: 3
+title: 「จะได้ + 动词：这样就能…（目的与结果）」
+structure: จะได้ + คำกริยา（这样做“就能/就可以…”）
+structure_pattern: จะได้ + V
+explanation_zh: จะได้ + 动词表示前面的做法能带来后面的好处，意为“这样就能／就可以…”，兼含目的与结果两层意味。“จะได้ไม่ต้อง…”即“就可以不必…”。中文近似“省得／免得”或“这样就能”。
+examples:
+- text: คุณดา​จะ​ได้​ไม่​ต้อง​เจอ​กับ​เด็ก​พวกนั้น​อีก​แถม​ยัง​ไม่มี​ปัญหา​เรื่อง​ภาษา​ด้วย​ไง
+  reading: ''
+  annot: คุณดา​จะ​ได้​ไม่​ต้อง​เจอ​กับ​เด็ก​พวกนั้น​อีก​แถม​ยัง​ไม่มี​ปัญหา​เรื่อง​ภาษา​ด้วย​ไง
+  translation_zh: 这样雅达就不用再碰到那些孩子了，而且也不会有语言方面的问题啊。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 语气
+- 目的/结果
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

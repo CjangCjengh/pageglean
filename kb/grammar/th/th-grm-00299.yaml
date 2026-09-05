@@ -1,0 +1,38 @@
+id: th-grm-00299
+language: th
+type: grammar
+level: L2
+level_rank: 2
+title: 变化与完成：句末 แล้ว
+structure: 动词/形容词短语 + แล้ว（句末）
+structure_pattern: VP/AdjP + แล้ว
+explanation_zh: 句末แล้ว表示状态已经变化或动作已经完成，相当于中文的“……了”。它也可用在时间短语后，强调某种状态由来已久，如“ตั้งแต่เมื่อก่อนแล้ว”（从以前就是这样）。注意แล้ว位于句末，与动词前的体标记（เคย、จะ、กำลัง）分工不同。
+examples:
+- text: นี่​ผม​งง​ไป​หมดแล้ว​เนี่ย
+  reading: ''
+  annot: นี่​ผม​งง​ไป​หมดแล้ว​เนี่ย
+  translation_zh: 这下我已经完全糊涂了。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+- text: ตั้งแต่​เมื่อก่อน​แล้ว
+  reading: ''
+  annot: ตั้งแต่​เมื่อก่อน​แล้ว
+  translation_zh: 早从以前就是这样了。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 体貌
+- 语气
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

@@ -1,0 +1,33 @@
+id: th-grm-00248
+language: th
+type: grammar
+level: L1
+level_rank: 1
+title: 句末助词 นะ/ค่ะ/คะ：礼貌与语气
+structure: ประโยค + นะ / ค่ะ / คะ (คำลงท้ายแสดงมารยาท/น้ำเสียง)
+structure_pattern: ประโยค + นะ/ค่ะ/คะ
+explanation_zh: ค่ะ 是女性用于陈述句末的礼貌助词；คะ 为升调，用于疑问或呼唤，与 นะ 连用写作 นะคะ。นะ 缓和语气，添亲近、安慰或劝诱色彩，不限性别。片段中男性用
+  ผม 只用 นะ，女性ญาดา 用 ค่ะ/นะคะ，体现性别与语气的配合。
+examples:
+- text: ผม​ขอโทษ​นะ​คุณดา...
+  reading: ''
+  annot: ผม​ขอโทษ​นะ​คุณดา...
+  translation_zh: 对不起啊，达小姐……
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 语气助词
+- 礼貌
+- 性别差异
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 4
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

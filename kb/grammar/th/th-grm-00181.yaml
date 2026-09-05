@@ -1,0 +1,39 @@
+id: th-grm-00181
+language: th
+type: grammar
+level: L2
+level_rank: 2
+title: เคย：经历体「曾经／有过…的体验」
+structure: เคย / เพิ่งเคย + กริยา（动词，กริยานุเคราะห์ 用法）
+structure_pattern: เพิ่ง + เคย + V
+explanation_zh: เคย 是表经历的助动词（กริยานุเคราะห์），置于动词前，表示“曾经～”。与 เพิ่ง 连用构成 เพิ่งเคย，强调“还是头一次体验”。它能直接嵌入
+  ที่ 引导的名词修饰语（如“ที่เคยนั่งที่มอสโก”），这是中文母语者需要适应的修饰语后置结构。
+examples:
+- text: ญาดา​ที่​เพิ่ง​เคย​ขึ้น​รถไฟฟ้า​ครั้งแรก
+  reading: ''
+  annot: ญาดา​ที่​เพิ่ง​เคย​ขึ้น​รถไฟฟ้า​ครั้งแรก
+  translation_zh: 第一次体验坐轻轨的雅达……
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+- text: รถไฟฟ้า​ใต้ดิน​ที่​เธอ​เคย​นั่ง​ที่​มอสโก
+  reading: ''
+  annot: รถไฟฟ้า​ใต้ดิน​ที่​เธอ​เคย​นั่ง​ที่​มอสโก
+  translation_zh: 她在莫斯科坐过的地铁
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 体貌
+- 助动词
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

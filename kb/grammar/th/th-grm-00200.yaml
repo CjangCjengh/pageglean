@@ -1,0 +1,31 @@
+id: th-grm-00200
+language: th
+type: grammar
+level: L3
+level_rank: 3
+title: ทำให้：使役"使、让"
+structure: ทำให้ + กรรม + คำกริยา
+structure_pattern: ทำให้ + NP + V
+explanation_zh: 动词 ทำให้ 构成使役结构"ทำให้＋กรรม＋กริยา"，相当于中文的"使/让某人……"。片段中"มันทำให้ผมได้รู้เรื่อง"即"这让我得以了解到……"。其后的
+  ได้ 是表示结果达成的คำช่วยกริยา，可一并留意。
+examples:
+- text: การ​ไป​ทานข้าว​กลางวัน​ที่​ห้าง MBK มัน​ทำให้​ผม​ได้​รู้เรื่อง​ของญาดา​เพิ่มขึ้น​มา​อีก​อย่าง​หนึ่ง
+  reading: ''
+  annot: การ​ไป​ทานข้าว​กลางวัน​ที่​ห้าง MBK มัน​ทำให้​ผม​ได้​รู้เรื่อง​ของญาดา​เพิ่มขึ้น​มา​อีก​อย่าง​หนึ่ง
+  translation_zh: 去 MBK 商场吃午饭这件事，让我对雅达又多了解了一点。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 使役
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

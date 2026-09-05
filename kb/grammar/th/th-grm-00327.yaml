@@ -1,0 +1,38 @@
+id: th-grm-00327
+language: th
+type: grammar
+level: L2
+level_rank: 2
+title: ได้：实现与机会
+structure: ได้ ＋ 动词หลัก（คำช่วยกริยาบอกผลสำเร็จ/โอกาส）
+structure_pattern: ได้ + V ; ยังไม่ + ได้ + V ; จะ + ได้ + V
+explanation_zh: ได้ 置于动词前有两种常见用法：一是表示动作已经完成或实现，否定式「ยังไม่ได้＋V」意为「还没有做」；二是表示获得机会，相当于「得以／能」。片段中「ยังไม่ได้ย้าย……」与「จะได้พบ……」恰好分别对应这两种用法，需靠语境区分。
+examples:
+- text: ผม​ยัง​ไม่ได้​ย้ายสัมมะโนครัว​เข้า​ไป​ใน​บาง​ขวาง
+  reading: ''
+  annot: ผม​ยัง​ไม่ได้​ย้ายสัมมะโ
+  translation_zh: 我还没有把户籍迁进邦关（即还没被抓去坐牢，作者自嘲）
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+- text: เล่ม​หน้า​คุณดา​จะ​ได้​พบ​กับ​คู่​แข่ง​คน​ใหม่
+  reading: ''
+  annot: เล่ม​หน้า​คุณดา​จะ​ได้​
+  translation_zh: 下一卷里，小达将会遇到一位新的情敌
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 体貌/语气
+- 助动词
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

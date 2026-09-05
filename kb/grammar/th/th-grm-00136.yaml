@@ -1,0 +1,32 @@
+id: th-grm-00136
+language: th
+type: grammar
+level: L3
+level_rank: 3
+title: กริยา + ให้ได้：目的补语「设法做到」
+structure: กริยา + ให้ + ได้
+structure_pattern: V + ให้ + ได้
+explanation_zh: ให้ได้ 接在动词后作目的／结果补语，表示“设法做到、务求达成”。文中 พยายามปรับตัวให้ได้ 意为“努力让自己适应下来”。ให้
+  引出结果或目的从句，是泰语极高频的补语结构。
+examples:
+- text: เรื่อง​แค่นี้​เองดา​จะ​พยายาม​ปรับตัว​ให้​ได้​ค่ะ
+  reading: ''
+  annot: เรื่อง​แค่นี้​เองดา​จะ​พยายาม​ปรับตัว​ให้​ได้​ค่ะ
+  translation_zh: 就这么点小事，妲会努力让自己适应的。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 补语
+- 目的
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

@@ -1,0 +1,33 @@
+id: th-grm-00204
+language: th
+type: grammar
+level: L1
+level_rank: 1
+title: คือ 判断句与疑问语气 เหรอ(คะ)
+structure: A + คือ + B；提问：อะไร + เหรอ + คะ
+structure_pattern: A คือ B; อะไร…เหรอ(คะ)
+explanation_zh: คือ 是判断动词「是」，用于对事物下定义或解释，构成「A คือ B」结构。询问「……是什么」直接用疑问代词 อะไร，句尾加 เหรอ
+  表示疑问；คะ 是女性使用的礼貌句末助词，使问句显得客气。
+examples:
+- text: บัวลอย​คือ​อะไร​เหรอ​คะ?
+  reading: ''
+  annot: บัวลอย​คือ​อ
+  translation_zh: 「บัวลอย」是什么呢？
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 判断句
+- 疑问
+- 礼貌助词
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

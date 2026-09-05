@@ -1,0 +1,38 @@
+id: th-grm-00163
+language: th
+type: grammar
+level: L3
+level_rank: 3
+title: 「พลาง」两个动作同时进行
+structure: 动词1 + พลาง + 动词2
+structure_pattern: คำกริยา + "พลาง" + คำกริยา
+explanation_zh: 副词，表示两个动作同时进行，相当于「一边……一边……」。多用于书面语和小说叙述，可单用也可成对使用。
+examples:
+- text: ญา​ดาบ่​นพ​ลาง​หาว​ออกมา​เป็น​รอบ​ที่​สาม
+  reading: ''
+  annot: ญา​ดาบ่​นพ​ลาง​หาว​ออกมา​เป็น​รอบ​ที่​สาม
+  translation_zh: 雅达一边抱怨着，一边打第三个哈欠。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+- text: ผม​เหลือบมอง​นาฬิกา​ข้อมือ​พลาง​คิด​หาทาง​ออกแบบ​เร่งด่วน​อยู่​ในใจ
+  reading: ''
+  annot: ผม​เหลือบมอง​นาฬิกา​ข้อมือ​พลาง​คิด​หาทาง​ออกแบบ​เร่งด่วน​อยู่​ในใจ
+  translation_zh: 我瞟了一眼手表，心里一边焦急地想着对策。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 副词
+- 同时
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

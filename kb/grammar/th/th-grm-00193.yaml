@@ -1,0 +1,32 @@
+id: th-grm-00193
+language: th
+type: grammar
+level: L4
+level_rank: 4
+title: 「ขนาด…ยัง…เลย：都……居然还……」
+structure: ขนาด + อนุประโยค + แล้ว + ยัง + คำกริยา + เลย
+structure_pattern: ขนาด + Clause + แล้ว + ยัง + VP + เลย
+explanation_zh: ขนาด 本指“尺寸、程度”，此处作连词引出已达到的程度，相当于“都……到这种地步了”。ยัง…เลย 强调“居然还、仍然还”。两者搭配表达惊讶或不满：话都说到这份上了居然还不懂。
+examples:
+- text: ขนาด​พูดถึง​ขนาดนี้​แล้ว​คุณชายัง​ไม่รู้​เลย
+  reading: ''
+  annot: ขนาด​พูดถึง​ขนาดนี้​แล้ว​คุณชายัง​ไม่รู้​เลย
+  translation_zh: 话都说到这个地步了，阿茶你居然还不知情。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 语气
+- 强调
+- 递进
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

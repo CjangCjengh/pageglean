@@ -1,0 +1,31 @@
+id: th-grm-00302
+language: th
+type: grammar
+level: L3
+level_rank: 3
+title: 一……就……：พอ…ก็…
+structure: พอ + 先行动作，ก็ + 紧接动作
+structure_pattern: พอ + VP1 + ก็ + VP2
+explanation_zh: พอ…ก็…表示“一……就……”：前一分句以พอ引出刚发生的动作，后一分句用ก็引出紧接着发生的动作。强调两个动作在时间上紧密衔接。
+examples:
+- text: พอ​พูด​จบญานั​นก็​ตัด​สาย​ไป​ทันที
+  reading: ''
+  annot: พอ​พูด​จบญานั​นก็​ตัด​สาย​ไป​ทันที
+  translation_zh: ญานัน一说完，就立刻挂断了电话。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 时间
+- 复句
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

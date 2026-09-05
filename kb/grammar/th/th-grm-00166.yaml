@@ -1,0 +1,31 @@
+id: th-grm-00166
+language: th
+type: grammar
+level: L4
+level_rank: 4
+title: 「ยิ่ง…เข้าไปใหญ่」越来越……
+structure: ยิ่ง + 形容词/动词 + เข้าไปใหญ่
+structure_pattern: '"ยิ่ง" + คำวิเศษณ์ + "เข้าไปใหญ่"'
+explanation_zh: 程度递进结构，表示某种情况因新条件出现而进一步加剧，相当于「越发……了」「更……了」。多用于不如意或夸张的语境。
+examples:
+- text: และ​ยิ่ง​หนัก​เข้าไป​ใหญ่​เมื่อ​เข้าสู่​ถนน​สุขุมวิท
+  reading: ''
+  annot: และ​ยิ่ง​หนัก​เข้าไป​ใหญ่​เมื่อ​เข้าสู่​ถนน​สุขุมวิท
+  translation_zh: 一上素坤逸路，（堵车）就更加严重了。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 比较
+- 程度
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

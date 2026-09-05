@@ -1,0 +1,38 @@
+id: th-grm-00161
+language: th
+type: grammar
+level: L2
+level_rank: 2
+title: 「เคย」经验体：曾经做过
+structure: เคย + 动词（否定：ไม่เคย）
+structure_pattern: คำช่วยกริยา "เคย" + คำกริยา
+explanation_zh: 体貌助动词，表示过去有过的经历或习惯，相当于「曾经」。否定形式 ไม่เคย 表示「从来没有」，常用来回答 เคย…ไหม 的提问。
+examples:
+- text: คุณดา​เคย​นั่งสกายเทรน​ไหม?
+  reading: ''
+  annot: คุณดา​เคย​นั่
+  translation_zh: 达，你坐过空中列车吗？
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+- text: ไม่เคย​ค่ะ ที่​มอสโก​มี​แต่​เมโทร
+  reading: ''
+  annot: ไม่เคย​ค่ะ ที่​มอสโก​มี​แต่​เมโทร
+  translation_zh: 从没坐过，在莫斯科只有地铁。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 体貌
+- 助动词
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

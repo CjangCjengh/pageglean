@@ -1,0 +1,31 @@
+id: th-grm-00176
+language: th
+type: grammar
+level: L2
+level_rank: 2
+title: คำช่วยกริยาจะ：将来·意志与จะได้目的结果
+structure: คำช่วยกริยา（助动词）จะ + กริยา；จะ + ได้ + กริยา（就能……）
+structure_pattern: จะ + V / จะ + ได้ + V
+explanation_zh: จะ置于动词前表将来或意图，是泰语最常用的体貌助动词之一。“จะ+V+ดี”表示盘算、为难，如“จะตอบยังไงดี”＝“该怎么回答才好”。จะ还常与ได้连用成“จะได้+V”，表示“以便能……、就能……”，带目的或结果。
+examples:
+- text: จะ​ได้​รู้ว่า​ประสบการณ์​ซื้อตั๋ว​โดยสาร​รถไฟฟ้า​ครั้งแรก​ใน​ประเทศ​ไทย​เป็น​ยัง​ไง
+  reading: ''
+  annot: จะ​ได้​รู้ว่า​ประสบการณ์​ซื้อตั๋ว​โดยสาร​
+  translation_zh: 这样就能知道第一次在泰国买轨道交通车票是什么体验了。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 体貌
+- 助动词
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 5
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

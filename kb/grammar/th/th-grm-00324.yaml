@@ -1,0 +1,31 @@
+id: th-grm-00324
+language: th
+type: grammar
+level: L2
+level_rank: 2
+title: V＋ได้หรือเปล่า：能不能……？
+structure: 动词 ＋ ได้（可能）＋ หรือเปล่า（正反疑问）
+structure_pattern: V + ได้ + หรือเปล่า
+explanation_zh: 「หรือเปล่า」是正反疑问结构；与可能补语「ได้」连用，构成对「能否做到某事」的提问。与「V＋ได้ไหม」意思相近，但并列疑问的语气更完整。
+examples:
+- text: เธอ​เป็นห่วง​ว่า​ฉัน​จะ​หา​ใคร​มา​ดูแล​หนูดา​ได้​หรือเปล่า
+  reading: ''
+  annot: เธอ​เป็นห่วง​ว่า​ฉัน​จะ​หา​ใคร​มา​ดูแล​หนูดา​ได้​หรือเปล่า
+  translation_zh: 她一直担心我能不能找到人来照顾小妲。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 疑问结构
+- 可能补语
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

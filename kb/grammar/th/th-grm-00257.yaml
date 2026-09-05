@@ -1,0 +1,38 @@
+id: th-grm-00257
+language: th
+type: grammar
+level: L2
+level_rank: 2
+title: ให้：使役・目的与对象
+structure: คำกริยา + ให้ + (กรรม) + คำกริยา
+structure_pattern: V1 + ให้ + (O) + V2
+explanation_zh: ให้本义是『给』（คำกริยา），接在动词后有两种常见用法：一是使役／目的『让、为了』，如บอกให้เธอเล่า（让她讲）、ถามให้แน่ใจ（问个明白）；二是对象／受益『给某人做某事』，如เล่าเรื่องราวให้ครูฟัง。区分的关键是看ให้后动作的执行者是否是主语自己。
+examples:
+- text: ผม​พยักหน้า​ให้​เธอ​เบา ๆ เป็น​เชิง​บอก​ให้​เธอ​เล่า​ไป​เลย
+  reading: ''
+  annot: ผม​พยักหน้า​ให้​เธอ​เบา ๆ เป็น​เชิง​บอก​ให้​เธอ​เล่า​ไป​เลย
+  translation_zh: 我轻轻向她点头，意思是让她直接讲出来。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+- text: ครู​ถึง​ต้อง​ถาม​ให้​แน่ใจ​อีกครั้ง
+  reading: ''
+  annot: ครู​ถึง​ต้อง​ถาม​ให้​แน่ใจ​อีกครั้ง
+  translation_zh: 所以老师才要再问一次以便确认。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 连动式
+- 使役
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 5
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

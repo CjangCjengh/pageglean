@@ -1,0 +1,31 @@
+id: th-grm-00254
+language: th
+type: grammar
+level: L4
+level_rank: 4
+title: เป็นอันต้อง + 动词：免不了、只好如此
+structure: เป็นอัน + ต้อง + คำกริยา（固定搭配，表顺理成章的结果）
+structure_pattern: เป็นอันต้อง + V
+explanation_zh: เป็นอันต้อง + 动词是固定表达，表示在前述情况下「免不了／只好……」，带有顺理成章或无奈的结论语气。เป็นอัน 原义为「算是处于……状态」。片段中用于「我下厨表现的机会也就此泡汤」。
+examples:
+- text: ก็​เป็นอัน​ต้อง​มลาย​หายไป​จาก​การ​ถูก​สั่งห้าม​ไม่​ให้​เข้า​มา​ยุ่ง​ใน​ครัว
+  reading: ''
+  annot: ก็​เป็นอัน​ต้อง​มลาย​หายไป​จาก​การ​ถูก
+  translation_zh: （我的努力）也就难免消失殆尽——因为被下令禁止再踏进厨房。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 固定搭配
+- 语气
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

@@ -1,0 +1,32 @@
+id: th-grm-00313
+language: th
+type: grammar
+level: L3
+level_rank: 3
+title: ยิ่ง…ยิ่ง…：“越……越……”
+structure: ยิ่ง + 分句1，ก็ + ยิ่ง + 分句2
+structure_pattern: ยิ่ง + VP1, ก็ + ยิ่ง + VP2
+explanation_zh: ยิ่ง…ยิ่ง… 表示程度随条件递进，相当于“越……越……”，前后分句各用一个 ยิ่ง，后句常以 ก็ 呼应。可与 พอ…ก็…（一……就……）搭配使用。句末加
+  ขึ้นไปอีก 表示“越发……”。
+examples:
+- text: พอ​ยิ่ง​ได้​มา​เจอ​ตัวจริงก็​ยิ่ง​ชอบมาก​ขึ้น​ไป​อีก
+  reading: ''
+  annot: พอ​ยิ่ง​ได้​มา​เจอ​ตัวจริงก็​ยิ่ง​ชอบมาก​ขึ้น​ไป​อีก
+  translation_zh: 等真的见到本人的时候，就越发地更喜欢了。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 递进
+- 关联结构
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

@@ -1,0 +1,31 @@
+id: th-grm-00202
+language: th
+type: grammar
+level: L3
+level_rank: 3
+title: ทำไมถึง(ได้)…：怎么竟然……
+structure: ทำไม + ถึง + (ได้) + คำกริยา
+structure_pattern: ทำไม + ถึง + (ได้) + V
+explanation_zh: ทำไมถึง(ได้)… 是固定的疑问结构，副词 ถึง 强调出乎意料、难以置信的语气，相当于中文"怎么竟然……"。加 ได้ 时更强化惊讶、自责的情绪，多用于自责或责怪。片段中"ทำไมถึงได้พลาดแล้วพลาดอีก"即叙述者自责一错再错，"…แล้ว…อีก"表示动作反复。
+examples:
+- text: ทำไม​ถึง​ได้​พลาด​แล้ว​พลาด​อีก​แบบนี้​นะ
+  reading: ''
+  annot: ทำไม​ถึง​ได้​พลาด​แล้ว​พลาด​อีก​แบบนี้​นะ
+  translation_zh: 我怎么竟然会像这样一错再错呢……
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 疑问
+- 语气
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

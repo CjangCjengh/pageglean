@@ -1,0 +1,32 @@
+id: th-grm-00205
+language: th
+type: grammar
+level: L3
+level_rank: 3
+title: เอา…มา/ไป…：拿取类连动式
+structure: เอา + 宾语 + มา/ไป + V
+structure_pattern: เอา + O + มา/ไป + V
+explanation_zh: เอา 意为「拿、取、带」，构成泰语典型的连动结构「เอา + 宾语 + มา/ไป + 动词」，表示把某物拿来做某事，对应中文的「把……拿来／拿去做……」。มา
+  表示朝说话人方向，ไป 表示离开；宾语可省略，直接说 เอาไป/เอามา + 动词。
+examples:
+- text: ก่อน​จะ​เอาไป​ต้ม​จน​สุก
+  reading: ''
+  annot: ก่อน​จะ​เอาไป​ต้ม​จน​สุก
+  translation_zh: 再拿去煮到熟。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 连动式
+- 语序
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

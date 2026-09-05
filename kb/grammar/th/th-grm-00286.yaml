@@ -1,0 +1,38 @@
+id: th-grm-00286
+language: th
+type: grammar
+level: L2
+level_rank: 2
+title: ก่อนจะ + 动词：在做……之前
+structure: ก่อน + จะ + 动词
+structure_pattern: ก่อน + จะ + กริยา — กริยาวิเศษณ์บอกลำดับเหตุการณ์
+explanation_zh: 「ก่อน」意为「之前」，后接「จะ+动词」构成时间状语，表示主句动作先于另一动作发生。泰语没有动词变位，动作先后顺序靠这类标记词表达。本段两次出现，是叙述中衔接连续动作的常用手段。
+examples:
+- text: ก่อน​จะ​ถาม​อะไร​บาง​อย่าง​ออก​มา
+  reading: ''
+  annot: ก่อน​จะ​ถาม​อะไร
+  translation_zh: 然后才开口问了些什么。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+- text: ญาดา​ขมวดคิ้ว​เล็กน้อย​ก่อน​จะ​พูดต่อ
+  reading: ''
+  annot: ญาดา​ขมวดคิ้ว​เล็กน้อย​ก่อน​จะ​พูดต่อ
+  translation_zh: 雅达微微皱眉，然后继续说道。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 时间状语
+- 语序
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

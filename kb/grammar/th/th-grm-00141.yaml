@@ -1,0 +1,39 @@
+id: th-grm-00141
+language: th
+type: grammar
+level: L2
+level_rank: 2
+title: ด้วย + 名词：用／以／带着（工具·方式·伴随）
+structure: ด้วย（คำบุพบท）+ 名词，表示凭借、方式或伴随
+structure_pattern: ด้วย + NP
+explanation_zh: 「ด้วย」是介词，引出动作所凭借的工具、方式或伴随状态，相当于"用……、以……、带着……"。「ด้วยกัน」表示"一起"。本段多次用于描写说话与动作的情态。
+examples:
+- text: ผม​ชม​เธอ​ด้วย​น้ำเสียง​จริงจัง
+  reading: ''
+  annot: ผม​ชม​เธอ​ด้วย​น้ำเสียง​จริงจัง
+  translation_zh: 我用认真的语气称赞她
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+- text: พยักหน้ารับ​เบา ๆ ด้วย​ความ​พึงพอใจ
+  reading: ''
+  annot: พยักหน้ารับ​เบา ๆ ด้วย​ความ​พึงพอใจ
+  translation_zh: （她）满意地轻轻点头
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 方式
+- 介词
+- 伴随
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 5
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

@@ -1,0 +1,32 @@
+id: th-grm-00170
+language: th
+type: grammar
+level: L2
+level_rank: 2
+title: ตั้งแต่…จนถึง…：范围的起点与终点
+structure: ตั้งแต่ + จุดเริ่มต้น … จนถึง + จุดสิ้นสุด
+structure_pattern: ตั้งแต่ + NP … จนถึง + NP
+explanation_zh: ตั้งแต่ 引出起点、จนถึง 引出终点，构成「从……到……」的范围框架，可用于空间或时间。片段用「เริ่มวิ่งตั้งแต่สถานีหมอชิตไล่ยาวมาจนถึงสถานีสำโรง」描述素坤逸线从蒙奇站到三龙站的运行区间。ไล่ยาวมา…จนถึง
+  还带有「一路延伸」的画面感，是地道搭配。
+examples:
+- text: เริ่ม​วิ่ง​ตั้งแต่​สถานี​หมอชิต​ไล่​ยาว​มา​จน​ถึง​สถานี​สำโรง
+  reading: ''
+  annot: เริ่ม​วิ่ง​ตั้งแต่​สถานี​หมอชิ
+  translation_zh: （素坤逸线）从蒙奇站开始，一路运行到三龙站。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 介词
+- 范围
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

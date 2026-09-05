@@ -1,0 +1,32 @@
+id: th-grm-00227
+language: th
+type: grammar
+level: L3
+level_rank: 3
+title: ทั้งที่…แต่…：明明……却……
+structure: ทั้งที่ + 分句A，แต่ + 分句B
+structure_pattern: ทั้งที่ + Clause A, แต่ + Clause B
+explanation_zh: 「ทั้งที่ + 分句，แต่ + 分句」是让步复句结构：前一分句陈述既定事实，后一分句提出与之相反的情况，相当于汉语的「虽然／明明……却……」。常与副词
+  กลับ 呼应以加强反差语气。书面语中也写作 ทั้ง ๆ ที่。
+examples:
+- text: ทั้งที่​อากาศ​ร้อน​ตับ​แตก​ขนาดนั้น​แต่​คุณดา​กลับ​ใส่เสื้อ​แขน​ยาว​มา​มัน​ยัง​ผิด​สังเกต​อีก​รึไง
+  reading: ''
+  annot: ทั้งที่​อากาศ​ร้อน​ตับ​แตก​ขนาดนั้น​แต่​คุณดา​กลับ​ใส่เสื้อ​แขน​ยาว​มา​มัน​ยัง​ผิด​สังเกต​อีก​รึไง
+  translation_zh: 天热成那样，达小姐却还穿长袖来，这还不值得起疑吗？
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 接续
+- 关联词
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

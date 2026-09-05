@@ -1,0 +1,38 @@
+id: th-grm-00297
+language: th
+type: grammar
+level: L1
+level_rank: 1
+title: นะ / ค่ะ-คะ / สิ：句末语气助词
+structure: 句子 + นะ / สิ / ค่ะ / คะ
+structure_pattern: S + นะ / สิ / ค่ะ / คะ
+explanation_zh: 泰语句末有丰富的语气助词：「นะ」缓和语气、表示叮嘱或征求认同；「ค่ะ/คะ」是女性礼貌助词，ค่ะ用于陈述、คะ用于疑问或呼唤，男性对应「ครับ」；「สิ」强调理所当然，如『แน่นอนสิ!』（当然了！）。片段中女性角色答话均带ค่ะ/คะ。
+examples:
+- text: ผม​ยังเป็น​คน​ปกติ​อยู่​นะ​เออ
+  reading: ''
+  annot: ผม​ยังเป็น​คน​ปกติ​อยู่​นะ​เออ
+  translation_zh: 我还是个正常人呢。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+- text: เหรอคะ
+  reading: ''
+  annot: เหรอคะ
+  translation_zh: 是这样吗？（女性礼貌疑问）
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 语气助词
+- 礼貌
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 6
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

@@ -1,0 +1,39 @@
+id: th-grm-00144
+language: th
+type: grammar
+level: L3
+level_rank: 3
+title: ที่สุด 与 ในรอบ…：最高级表达
+structure: 形容词 + ที่สุด（最……）；ในรอบ + 时间段（在……以来）
+structure_pattern: Adj + ที่สุด (+ ในรอบ + 时间)
+explanation_zh: 「ที่สุด」表示最高级，相当于"最……"。「ในรอบ + 时间段」表示"在……期间／多少年来"，两者连用强调"多少年来最……"。
+examples:
+- text: คุ้มค่า​มาก​ที่สุด​ใน​รอบ​หลาย​ปี​ที่​ผ่าน​มา​เลย​ล่ะ
+  reading: ''
+  annot: คุ้มค่า​มาก​ที่สุด​ใน​รอบ​
+  translation_zh: 这可是我这些年来过得最充实的呢
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+- text: น่ารัก​ที่สุด​นับตั้งแต่​ผม​เคย​เห็น​มา
+  reading: ''
+  annot: น่ารัก​ที่สุด​นับตั้งแต่​ผม​เคย​เห็น​มา
+  translation_zh: 是我见过最可爱的
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 比较
+- 最高级
+- 程度
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

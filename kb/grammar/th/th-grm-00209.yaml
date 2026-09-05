@@ -1,0 +1,31 @@
+id: th-grm-00209
+language: th
+type: grammar
+level: L3
+level_rank: 3
+title: ถ้า…ล่ะก็：假设条件
+structure: ถ้า + อนุประโยคเงื่อนไข + ล่ะก็, ประธาน + จะ + กริยา
+structure_pattern: ถ้า + S1 + ล่ะก็, S2 + จะ + V
+explanation_zh: 「ถ้า」引导条件分句（ประโยคเงื่อนไข），「ล่ะก็」是口语中加强假设语气并提示停顿的语气成分。主句常与「จะ」呼应，表示条件成立后将要出现的结果。整体相当于汉语“如果……的话，就……”。
+examples:
+- text: ถ้า​ยัง​ไม่​พา​มัน​ไป​ตรวจโรค​และ​ทำความ​สะอาด​ล่ะก็ ผม​จะ​ไม่ยอม​ให้​เธอ​กอด​มัน​โดย​เด็ดขาด
+  reading: ''
+  annot: ถ้า​ยัง​ไม่​พา​มัน​ไป​ตรวจโรค​และ​ทำความ​สะอาด​ล่ะก็ ผม​จะ​ไม่ยอม​ให้​เธอ​กอด​มัน​โดย​เด็ดขาด
+  translation_zh: 如果还不带它去检查身体、清洁干净的话，我绝不让你抱它。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 条件
+- 复句
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

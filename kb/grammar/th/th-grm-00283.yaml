@@ -1,0 +1,31 @@
+id: th-grm-00283
+language: th
+type: grammar
+level: L2
+level_rank: 2
+title: ที่สุด：最高级“最……”
+structure: 形容词／心理动词 + ที่สุด
+structure_pattern: Adj + ที่สุด
+explanation_zh: ที่สุด 置于形容词或心理动词之后构成最高级，相当于汉语“最……”。文中“ดีที่สุด”即“最好”，“อยากเห็นมากที่สุด”即“最想看到”。
+examples:
+- text: สิ่ง​ที่​ผม​อยาก​เห็น​มาก​ที่สุดก็​คือ​รอยยิ้ม​แบบนี้​ล่ะ​นะ
+  reading: ''
+  annot: สิ่ง​ที่​ผม​อยาก​เห็น​มาก​ที่สุดก็​คือ​รอยยิ้ม​แบบนี้​ล่ะ​นะ
+  translation_zh: 我最想看到的，就是这样的笑容啊。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 比较
+- 程度
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

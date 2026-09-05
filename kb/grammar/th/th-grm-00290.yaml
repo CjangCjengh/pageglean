@@ -1,0 +1,33 @@
+id: th-grm-00290
+language: th
+type: grammar
+level: L2
+level_rank: 2
+title: ที่：引导定语从句与原因从句
+structure: 中心语（名词/形容词）+ ที่ + 小句；ขอโทษ + ที่ + 原因小句
+structure_pattern: N/Adj + ที่ + Clause
+explanation_zh: ที่ 是泰语最高频的连接词（สรรพนามเชื่อมความ），相当于汉语的“的”或“……这件事”，把后面的小句挂到前面的名词或形容词上。泰语定语后置：先说中心语，再用
+  ที่ 引出修饰成分，如“หน้าเดียวที่…”。道歉时也常用“ขอโทษ…ที่…”引出原因。
+examples:
+- text: ผม​อ่าน​แค่​หน้า​เดียว​ที่​คุณดา​ เขียน​ว่า 'ช่วยด้วย' นั่น​ล่ะ
+  reading: ''
+  annot: ผม​อ่าน​แค่​หน้า​เดียว​ที่​คุณด
+  translation_zh: 我只读了คุณดา写着“救命”的那一页。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 接续
+- 关系从句
+- 语序
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 5
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

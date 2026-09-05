@@ -1,0 +1,31 @@
+id: th-grm-00215
+language: th
+type: grammar
+level: L3
+level_rank: 3
+title: V+ออกมา：结果补语“……出来”
+structure: V + ออกมา
+structure_pattern: V + ออกมา
+explanation_zh: 「ออกมา」作动词补语，表示动作由内向外发出或显露，相当于汉语的“……出来”，如「ยิ้มออกมา」＝笑出来、「ร้องออกมา」＝叫出来。它必须紧跟在主要动词之后，不能像汉语那样插在动词和宾语之间。
+examples:
+- text: แล้ว​ร้อง เมี๊ยว ออกมา​อีก​ครั้ง
+  reading: ''
+  annot: แล้ว​ร้อง เมี๊ยว
+  translation_zh: 然后又“喵”地叫了一声。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 趋向补语
+- 结果
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

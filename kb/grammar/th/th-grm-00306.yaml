@@ -1,0 +1,38 @@
+id: th-grm-00306
+language: th
+type: grammar
+level: L2
+level_rank: 2
+title: 「动词 + เป็น：会（做某事）」
+structure: กริยา + ส่วนเติมเต็ม（补语）：动词 + เป็น（能力义）
+structure_pattern: V + เป็น
+explanation_zh: 动词后加เป็น表示通过学习而掌握的技能，相当于『会（做）』，与表示客观条件允许的ได้有所区别。片段连用ทำอาหารไม่เป็น、อ่านบรรยากาศไม่เป็น，逐条数落对方『压根不会』。否定形式为ไม่เป็น。
+examples:
+- text: ทำอาหารก็​ไม่​เป็น
+  reading: ''
+  annot: ทำอาหารก็​ไม่​เป็น
+  translation_zh: 连饭也不会做。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+- text: อ่าน​บรรยากาศก็​ไม่​เป็น
+  reading: ''
+  annot: อ่าน​บรรยากาศก็​ไม่​เป็น
+  translation_zh: 也不会察言观色（读空气）。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 能力
+- 动词补语
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

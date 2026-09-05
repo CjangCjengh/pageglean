@@ -1,0 +1,31 @@
+id: th-grm-00288
+language: th
+type: grammar
+level: L2
+level_rank: 2
+title: ไม่ค่อย…เท่าไหร่：不太……
+structure: ไม่ค่อย + 动词/形容词 + เท่าไหร่（+ เลย）
+structure_pattern: ไม่ค่อย + กริยา/วิเศษณ์ + เท่าไหร่ (+ เลย) — การปฏิเสธระดับเบา
+explanation_zh: 「ไม่ค่อย…」与句尾「เท่าไหร่」呼应，构成委婉的部分否定，意为「不太……、不怎么……」。再加「เลย」可加重语气，但整体仍比直接否定含蓄。是泰语口语中软化否定的高频结构。
+examples:
+- text: ญาดา​แสดงสีหน้า​ไม่​อยาก​เชื่อ​เท่าไหร่
+  reading: ''
+  annot: ญาดา​แสดงสีหน้า​ไม่​อยาก​เชื่อ​เท่าไหร่
+  translation_zh: 雅达露出不太相信的表情。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 否定
+- 语气
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

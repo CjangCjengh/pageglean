@@ -1,0 +1,39 @@
+id: th-grm-00179
+language: th
+type: grammar
+level: L2
+level_rank: 2
+title: ไม่ได้：对已然事件的否定「没有…」
+structure: ไม่ได้ + กริยา（动词）
+structure_pattern: ไม่ได้ + V
+explanation_zh: ไม่ได้ 用于否定已经发生或已经实现的事，相当于“没有……”；而 ไม่ 否定一般事实或意愿，相当于“不……”。泰语学校语法将二者同归为否定副词（วิเศษณ์ปฏิเสธ），但体貌功能不同。叙述过去的情节时须用
+  ไม่ได้。
+examples:
+- text: ญาดา​ที่​เพิ่ง​เคย​ขึ้น​รถไฟฟ้า​ครั้งแรก​ไม่ได้​นั่ง​ทำตัว​เรียบร้อย​เหมือนปกติ
+  reading: ''
+  annot: ญาดา​ที่​เพิ่ง​เคย​ขึ้น​รถไฟฟ้า​ครั้งแรก​ไม่ได้​นั่ง​ทำตัว​เรียบร้อย​เหมือนปกติ
+  translation_zh: 第一次坐轻轨的雅达，并没有像平时那样坐得端端正正。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+- text: ไม่ได้​ทำ​ค่ะ
+  reading: ''
+  annot: ไม่ได้​ทำ​ค่ะ
+  translation_zh: 我没有做。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 否定
+- 体貌
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

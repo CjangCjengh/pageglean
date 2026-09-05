@@ -1,0 +1,38 @@
+id: th-grm-00266
+language: th
+type: grammar
+level: L2
+level_rank: 2
+title: V + ให้ + 人 + V：使令与连动
+structure: 言说/使令动词 + ให้ + 宾语 + 第二动词
+structure_pattern: V + ให้ + NP + V2
+explanation_zh: 言说、使令类动词后接ให้+宾语+第二动词，表示「让/叫/请某人做某事」，类似中文的「让、叫」。片段中บอกให้ญาดาเข้าไปพัก即「让雅妲进去休息」。ให้后可接连动动词组如เข้าไปพัก，是泰语典型的连动式。
+examples:
+- text: ผม​บอก​ให้ญาดา​เข้าไป​พัก​ใน​ห้อง​ของ​ตัวเอง​ก่อน
+  reading: ''
+  annot: ผม​บอก​ให้ญาดา​เข้าไป​พัก​ใน​ห้อง​ของ​ตัวเอง​ก่อน
+  translation_zh: 我让雅妲先进自己的房间休息。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+- text: ผม​ไม่​อยาก​ให้​เธอ​เข้าใจ​สิ่ง​นี้​ผิด​ไป
+  reading: ''
+  annot: ผม​ไม่​อยาก​ให้​เธอ​เข้าใจ​สิ่ง​นี้​ผิด​ไป
+  translation_zh: 我不希望她误解了这件事。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 连动式
+- 使令
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

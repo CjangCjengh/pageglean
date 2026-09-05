@@ -1,0 +1,38 @@
+id: th-grm-00128
+language: th
+type: grammar
+level: L2
+level_rank: 2
+title: ทำไมถึง…：追问原因的疑问句
+structure: ทำไม + ถึง + 动词/形容词？
+structure_pattern: ทำไม + ถึง + VP
+explanation_zh: 「ทำไม」意为「为什么」，加「ถึง」后强调追问原因，带有意外或不解的语气，相当于「怎么会、为何竟然」。回答时常用「เพราะ…」（因为……）引出原因，问句末尾可加「ล่ะ」缓和语气。
+examples:
+- text: ทำไม​ถึง​ไม่​ไป​เที่ยว​ทะเล​กัน​ล่ะ
+  reading: ''
+  annot: ทำไม​ถึง​ไม่​ไป​เที่ยว​ทะเล​กัน​ล่ะ
+  translation_zh: 你们怎么没一起去海边玩呢？
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+- text: เพราะ​มัน​ร้อน​ค่ะ
+  reading: ''
+  annot: เพราะ​มัน​ร้อน​ค่ะ
+  translation_zh: 因为（那边）热呀。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 疑问
+- 因果
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

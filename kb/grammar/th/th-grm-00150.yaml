@@ -1,0 +1,39 @@
+id: th-grm-00150
+language: th
+type: grammar
+level: L1
+level_rank: 1
+title: 「ไหม」：是非问与建议、请求
+structure: 谓词 + ไหม；V + ได้ + ไหม
+structure_pattern: VP + ไหม / V + ได้ + ไหม
+explanation_zh: ไหม是句末疑问助词，构成是非问句，相当于汉语的“吗”。“形容词＋ไหม”常用于提出建议，如 ดีไหม（好不好）；“动词＋ได้ไหม”用于请求许可，回答用
+  ได้ / ไม่ได้。
+examples:
+- text: เดี๋ยว​เสร็จ​ธุระ​แล้ว​เรา​ค่อย​ไป​เดินเล่น​กัน​ต่อ​ดี​ไหม?
+  reading: ''
+  annot: เดี๋ยว​เสร็จ​ธุระ​แล้ว​เรา​ค่อย​ไป​เดินเล่น​กัน​ต่อ​ดี​ไหม?
+  translation_zh: 等我办完事，咱们再一起去散步，好吗？
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+- text: ดา​อยาก​ไป​ไชน่า​ทาว เสร็จ​ธุระ​แล้ว​พาไป​หน่อย​ได้​ไหมคะ?
+  reading: ''
+  annot: ดา​อยาก​ไป​ไชน่า​ทาว เสร็จ​ธุระ​แล้ว​พาไป​หน่อย​ได้​ไหมคะ?
+  translation_zh: 我想去唐人街，你办完事后带我去一下，好吗？
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 疑问
+- 请求
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

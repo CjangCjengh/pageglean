@@ -1,0 +1,32 @@
+id: th-grm-00243
+language: th
+type: grammar
+level: L3
+level_rank: 3
+title: นอกจาก...แล้ว...ยัง...อีก：除了……还……
+structure: นอกจาก + ประโยค + แล้ว + ยัง + ... + อีก
+structure_pattern: นอกจาก + ประโยค + แล้ว + ยัง + ... + อีก
+explanation_zh: 「นอกจาก…แล้ว」先提出已然的事实，后句用「ยัง…อีก」呼应推进，相当于中文「除了……还……」。与疑问词 อะไร…บ้าง
+  搭配，可追问「除此之外还有什么」。是泰语递进关系的典型呼应格式。
+examples:
+- text: นอกจาก​เรื่อง​ที่​พวกนั้น​หลอก​คุณครู​แล้ว​ยังมี​อะไร​อีก​บ้าง?
+  reading: ''
+  annot: นอกจาก​เรื่อง​ที่​พวกนั้น​หลอก​คุณครู​แล้ว​ยังมี​อะไร​อีก​บ้าง?
+  translation_zh: 除了那些孩子骗老师的事，还有别的吗？
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 接续
+- 递进关系
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

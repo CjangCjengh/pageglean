@@ -1,0 +1,38 @@
+id: th-grm-00216
+language: th
+type: grammar
+level: L3
+level_rank: 3
+title: ล่ะมั้ง：揣测语气“大概……吧”
+structure: 小句 + ล่ะมั้ง
+structure_pattern: clause + ล่ะมั้ง
+explanation_zh: 「ล่ะมั้ง」是句末语气助词，表示说话人的猜测或不太确定的判断，相当于“大概……吧”。常与「คง」「ดูเหมือนว่า」等表推测的词语呼应，口语色彩较强。
+examples:
+- text: สิ่ง​ที่​เรียกว่า​ความ​สุข​มัน​คง​หน้าตา​เป็น​แบบ​นี้​ล่ะ​มั้ง
+  reading: ''
+  annot: สิ่ง​ที่​เรียกว่า​ความ​สุข​มัน​
+  translation_zh: 所谓幸福，大概就是这副样子吧。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+- text: มัน​จะ​ไม่เข้าใจ​ล่ะ​มั้ง
+  reading: ''
+  annot: มัน​จะ​ไม่เข้าใจ​ล่ะ​มั้ง
+  translation_zh: 它大概没听懂吧。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 语气
+- 句末助词
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

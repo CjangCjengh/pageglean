@@ -1,0 +1,38 @@
+id: th-grm-00226
+language: th
+type: grammar
+level: L2
+level_rank: 2
+title: กลับ：竟然、反倒
+structure: 主语 + กลับ + 动词／形容词
+structure_pattern: S + กลับ + V
+explanation_zh: กลับ 是修饰动词的副词（กริยาวิเศษณ์），置于谓语动词之前，表示事态与预期或常理相反，相当于汉语的「却、竟然」。位置固定在主语之后、动词之前，不能放在句末。片段中用于「竟然没察觉」和「反倒穿起长袖」两处。
+examples:
+- text: เรื่อง​ง่าย ๆ แค่นี้​ผม​กลับ​ไม่รู้ตัว​ได้​ยังไง​กัน​นะ...
+  reading: ''
+  annot: เรื่อง​ง่าย ๆ แค่นี้​ผม​กลับ​ไม่รู้ตัว​ได้​ยังไง​กัน​นะ...
+  translation_zh: 这么简单的事，我竟然没有察觉到……
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+- text: ทั้งที่​อากาศ​ร้อน​ตับ​แตก​ขนาดนั้น​แต่​คุณดา​กลับ​ใส่เสื้อ​แขน​ยาว​มา
+  reading: ''
+  annot: ทั้งที่​อากาศ​ร้อน​ตับ​แตก​ขนาดนั้น​แต่​คุณดา​กลับ​ใส่เสื้อ​แขน​ยาว​มา
+  translation_zh: 天热成那个样子，达小姐却反倒穿着长袖来。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 语气
+- 副词
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

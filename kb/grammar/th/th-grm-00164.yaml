@@ -1,0 +1,31 @@
+id: th-grm-00164
+language: th
+type: grammar
+level: L3
+level_rank: 3
+title: 「มา」动作持续至今
+structure: 动词 + (时长) + มา
+structure_pattern: คำกริยา + ระยะเวลา + "มา"
+explanation_zh: 体貌助词，表示动作从过去某时开始一直延续到现在，相当于「……以来」。常与 ตั้งแต่（自从）搭配，标记时间的起点。
+examples:
+- text: นับตั้งแต่​เรา​เข้า​เขต​กรุง​เทพ​มา
+  reading: ''
+  annot: นับตั้งแต่​เรา​เข้า​เขต​กรุง​เทพ​มา
+  translation_zh: 自从我们进入曼谷市区以来，
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 体貌
+- 持续
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

@@ -1,0 +1,39 @@
+id: th-grm-00203
+language: th
+type: grammar
+level: L2
+level_rank: 2
+title: ก่อนที่…จะ…：在……之前
+structure: ก่อนที่ + 主语 + จะ + V ／ ก่อนจะ + V
+structure_pattern: ก่อนที่ + S + จะ + V; ก่อนจะ + V
+explanation_zh: ก่อนที่ 意为「在……之前」，引导时间从句，从句动词前用 จะ 表示该动作尚未发生；口语中可省略 ที่，直接说「ก่อนจะ
+  + 动词」。其位置灵活，本片段两处都位于主句之后，补充说明「接着要做某事之前」。
+examples:
+- text: ก่อน​ที่​ผม​จะ​ขับรถ​พาญาดา​ไป​ที่​เยาวราช​ตาม​ที่​เธอ​ต้องการ
+  reading: ''
+  annot: ก่อน​ที่​ผม​จะ​ขับรถ​พาญาดา​ไป​
+  translation_zh: （就在那之前，）按她所愿，在我开车带雅达去耀华力路之前。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+- text: ก่อน​จะ​เอาไป​ต้ม​จน​สุก
+  reading: ''
+  annot: ก่อน​จะ​เอาไป​ต้ม​จน​สุก
+  translation_zh: （搓圆）之后，再拿去煮到熟之前。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 从属结构
+- 时间先后
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

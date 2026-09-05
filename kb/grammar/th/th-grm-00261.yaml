@@ -1,0 +1,39 @@
+id: th-grm-00261
+language: th
+type: grammar
+level: L1
+level_rank: 1
+title: หรือเปล่า：是非问句「是不是……／……吗」
+structure: 陈述句 + หรือเปล่า？
+structure_pattern: VP + หรือเปล่า
+explanation_zh: 在陈述句末尾加上หรือเปล่า，构成「是不是……／……吗」的是非问句，语气委婉，期待对方确认。回答可用ใช่/ไม่ใช่，或直接用动词的肯定/否定形式。与ไหม、ใช่ไหม功能相近，但거나
+  หรือเปล่า 保留了「……还是不……」的选择意味。
+examples:
+- text: มี​อะไร​หรือเปล่าคะ​ครู?
+  reading: ''
+  annot: มี​อะไร​หรือเปล่าคะ​ครู?
+  translation_zh: 老师，有什么事吗？
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+- text: อ​นาส​ตา​เซียบอก​ครู​ว่า​ถูก​พวก​เธอ​รุม​แกล้ง​เป็นความ​จริง​หรือเปล่า?
+  reading: ''
+  annot: อ​นาส​ตา​เซียบอก​ครู​ว่า​ถูก​พวก​เธอ​รุม​แกล้ง​เป็นความ​จริง​หรือเปล่า?
+  translation_zh: 阿纳斯塔西娅告诉老师说她被你们欺负，这是真的吗？
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 疑问句
+- 语气
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

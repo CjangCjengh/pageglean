@@ -1,0 +1,31 @@
+id: th-grm-00325
+language: th
+type: grammar
+level: L4
+level_rank: 4
+title: จะ…ก็แล้วกัน：那就……吧
+structure: （จะ＋）动词短语 ＋ ก็แล้วกัน（＋นะ）（口语收尾惯用语）
+structure_pattern: VP + ก็แล้วกัน (+ นะ)
+explanation_zh: 「แล้วกัน」是口语收尾语，表示「就这样吧、姑且如此」；与「ก็」「จะ」搭配，带暂且放下、听其发展的意味。文中表达「那就等着瞧吧」。
+examples:
+- text: ผม​จะ​รอดู​ก็แล้วกัน​นะ ว่า​ต่อจากนี้​เธอ​จะ​ทำ​ยัง​ไง​พิชิต​ใจ​ผม
+  reading: ''
+  annot: ผม​จะ​รอดู​ก็แล้วกัน​นะ ว่า​ต่อจา
+  translation_zh: 那我就拭目以待吧，看从今往后她要怎样赢得我的心。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 语气
+- 口语表达
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

@@ -1,0 +1,38 @@
+id: th-grm-00197
+language: th
+type: grammar
+level: L2
+level_rank: 2
+title: ที่：修饰语后置的定语从句
+structure: นาม + ที่ + อนุประโยค（ส่วนขยายนามอยู่หลังนาม）
+structure_pattern: N + ที่ + 从句
+explanation_zh: ที่ 是คำสรรพนามเชื่อมความ（关系代词），引导อนุประโยค（从句）置于名词之后作定语，相当于中文的"的"。如"นิยายที่เขาเขียน"（他写的小说），整个修饰从句后置于名词。这种修饰语后置的语序是泰语与中文的一大差异。
+examples:
+- text: แล้วก็​เอา​นิยาย​ที่​เขา​เขียน​มา​ให้ดา​ลอง​อ่าน​ด้วย
+  reading: ''
+  annot: แล้วก็​เอา​นิยาย​ที่​เขา​เขียน​มา​ให้ดา​ลอง​อ่าน​ด้วย
+  translation_zh: 然后还把他写的小说拿来给达试读。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+- text: เธอ​เป็น​คนที่​กลัว​ความ​สูงมาก ๆ
+  reading: ''
+  annot: เธอ​เป็น​คนที่​กลัว​ความ​สูงมาก ๆ
+  translation_zh: 她是一个非常恐高的人。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 语序
+- 从句
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 7
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

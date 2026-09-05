@@ -1,0 +1,39 @@
+id: th-grm-00172
+language: th
+type: grammar
+level: L2
+level_rank: 2
+title: สิ/นะ/ค่ะ：句末助词与礼貌应答
+structure: คำกริยา/ประโยค + สิ/นะ; ค่ะ（女性应答助词）
+structure_pattern: V/Clause + สิ/นะ; ค่ะ
+explanation_zh: 句末助词สิ用于催促、建议对方做某事，语气熟稔而不客气，如「ไปซื้อตั๋วสิ」（快去买票呀）。นะ用于柔化语气、提醒或请求认同，如「2
+  คนนะ」（2个人哦）。ค่ะ是女性使用的礼貌应答词，表示应答「是的/好的」，与男性用语ครับ相对。
+examples:
+- text: เอ้า คุณดา​ไป​ซื้อตั๋ว​สิ บอก​เขา​ว่า​ไป​สยาม 2 คน​นะ
+  reading: ''
+  annot: เอ้า คุณดา​ไป​ซื้อตั๋ว​สิ บอก​เขา​ว่า​ไป​สยาม 2 คน​นะ
+  translation_zh: 哎，达小姐你快去买票吧，跟他说去暹罗，2个人。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+- text: ค่ะ!
+  reading: ''
+  annot: ค่ะ!
+  translation_zh: 好的！（女性礼貌应答）
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 句末助词
+- 礼貌
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

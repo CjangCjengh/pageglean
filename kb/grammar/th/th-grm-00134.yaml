@@ -1,0 +1,31 @@
+id: th-grm-00134
+language: th
+type: grammar
+level: L3
+level_rank: 3
+title: 「แม้ว่า…ก็…」：让步复句
+structure: แม้ว่า + อนุประโยค + ก็/ก็ตาม/ก็เถอะ (คำสันธานเชื่อมความขัดแย้ง)
+structure_pattern: แม้(ว่า) + 从句, (แต่)ก็ + 主句
+explanation_zh: แม้(ว่า)…ก็…是让步连词，表示“即使/虽然……也……”，在泰语学校语法中归为表转折让步的คำสันธาน。主句常用ก็、ก็ตาม、ก็เถอะ呼应，也可加แต่。片段中两种变体都出现了。
+examples:
+- text: แม้​จะ​รู้สึก​บ้าง​ว่า​ใน​ห้อง​ของ​เธอ​เปิด​แอร์​แรง​กว่า​ปกติ แต่​ก็​ไม่​ได้​เก็บ​มา​ใส่​ใจ​อะไร
+  reading: ''
+  annot: แม้​จะ​รู้สึก​บ้าง​ว่า​ใน​ห้อง​ของ​เธอ​เปิด​แอร์
+  translation_zh: 虽然也隐约觉得她房间的空调比平时开得足，但（我）并没有放在心上。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 接续
+- 让步
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

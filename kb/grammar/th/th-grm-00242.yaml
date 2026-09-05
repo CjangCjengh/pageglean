@@ -1,0 +1,32 @@
+id: th-grm-00242
+language: th
+type: grammar
+level: L2
+level_rank: 2
+title: ที่ 定语从句：修饰语后置
+structure: นามหลัก + ที่ + อนุประโยค (ส่วนขยายตามหลังนาม)
+structure_pattern: นาม + ที่ + ประโยคขยาย
+explanation_zh: 泰语的定语置于中心名词之后，ที่ 相当于中文的「的」，引导小句在名词后作修饰语（ส่วนขยาย）。长定语常与领属 ของ 短语叠加，需注意先读中心语、再读修饰层次的语序。片段中修饰肩膀、事情、食物等，是最常用的复杂句手段。
+examples:
+- text: ไหล่​ที่​สั่นระริก​เมื่อครู่​ของญาดา​ค่อย ๆ สงบลง
+  reading: ''
+  annot: ไหล่​ที่​สั่นระริก​เมื่อครู่​ของญาดา​ค่อย ๆ สงบลง
+  translation_zh: ญาดา 刚才还在微微颤抖的肩膀渐渐平静下来。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 语序
+- 修饰结构
+- 复杂句
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 4
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

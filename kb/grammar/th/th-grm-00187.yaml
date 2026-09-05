@@ -1,0 +1,38 @@
+id: th-grm-00187
+language: th
+type: grammar
+level: L3
+level_rank: 3
+title: ที่ + จะ + 动词：关系从句（คุณานุประโยค）
+structure: นาม + ที่ + จะ + กริยา (คุณานุประโยคทำหน้าที่ส่วนขยายของนาม)
+structure_pattern: N + ที่ + จะ + V / ที่ + Clause
+explanation_zh: ที่相当于关系代词，引导关系从句（คุณานุประโยค）修饰前面的名词，如「โครงเรื่อง~ที่ผมเขียนขึ้นมา」。与เลือก等动词搭配时，「ที่จะ+动词」充当宾语，相当于汉语「去……」「要……的事」。
+examples:
+- text: ผม​เลย​เลือก​ที่จะ​ปล่อยวาง​และ​เริ่ม​เปิด​ประเด็น​เข้าสู่​เนื้อหา
+  reading: ''
+  annot: ผม​เลย​เลือก​ที่จะ​ปล่อยวาง​และ​เริ่ม​เปิด​ประเด็น​เข้าสู่​เนื้อหา
+  translation_zh: 于是我选择放下，开始切入要谈的正题。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+- text: โครงเรื่อง​ที่​ผม​เขียน​ขึ้น​มา​คร่าว ๆ
+  reading: ''
+  annot: โครงเรื่อง​ที่​ผม​เขียน​ขึ้น​มา​คร่าว ๆ
+  translation_zh: 我粗略写出来的故事大纲。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 关系从句
+- 主从复合句
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

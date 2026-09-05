@@ -1,0 +1,39 @@
+id: th-grm-00219
+language: th
+type: grammar
+level: L4
+level_rank: 4
+title: ได้แต่～：只能、只好
+structure: ได้แต่ + กริยา（助动词 ได้ + 限定副词 แต่）
+structure_pattern: ได้แต่ + V
+explanation_zh: ได้แต่ 表示“只能/只好做某事”，强调别无选择的无奈感。结构上是助动词 ได้ 加起“仅仅”限定作用的 แต่，须与表“能够/曾经”的
+  ได้ 区分。本段写“我”瞟了一眼表后只好干笑。
+examples:
+- text: ผม​เหลือบ​ไป​มอง​นาฬิกา​ข้าง​ตัว​แล้ว​ก็​ได้​แต่​หัวเราะ​แห้ง ๆ
+  reading: ''
+  annot: ผม​เหลือบ​ไป​มอง​นาฬิกา​ข้าง​ตั
+  translation_zh: 我瞟了一眼身旁的钟，也只能尴尬地干笑。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+- text: ผม​ได้​แต่​มอง​ประตู​ห้อง​ที่​ถูก​เปิดค้าง​ไว้​แบบ​งง ๆ
+  reading: ''
+  annot: ผม​ได้​แต่​มอง​ประตู​ห้อง​ที่​ถูก​เปิดค้าง​ไว้​แบบ​งง ๆ
+  translation_zh: 我只能一脸茫然地望着那扇被敞开着的房门。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 助动词
+- 语气
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

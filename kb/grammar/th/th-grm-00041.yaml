@@ -16,6 +16,13 @@ examples:
   source_book: book-th-009
   source_chapter: null
   pointer: null
+- text: เจ้า​เหมียว​นี่​พึ่ง​ถูก​ทิ้ง​มา
+  reading: ''
+  annot: เจ้า​เหมียว​นี่​พึ่ง​ถูก​ทิ้ง​มา
+  translation_zh: 这只小猫刚刚被人遗弃。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
 related:
   cross_lang: []
   same_lang: []

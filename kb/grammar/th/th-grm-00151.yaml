@@ -1,0 +1,38 @@
+id: th-grm-00151
+language: th
+type: grammar
+level: L2
+level_rank: 2
+title: 「อยู่」：动作或状态的持续
+structure: 动词 + อยู่（＋处所）
+structure_pattern: V + อยู่ (+ สถานที่)
+explanation_zh: อยู่置于动词后，表示动作或状态正在进行、持续，相当于汉语的“在……／……着”。片段用“นั่งอยู่”“นั่งนึกอยู่”描写人物当时的姿态。อยู่本身也可作动词，表示“位于、待在（某处）”。
+examples:
+- text: เธอ​นั่ง​อยู่​ตรง​ที่นั่ง​ข้าง​คน​ขับ
+  reading: ''
+  annot: เธอ​นั่ง​อยู่​ตรง​ที่นั่ง​ข้าง​คน​ขับ
+  translation_zh: 她坐在驾驶座旁边的座位上。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+- text: ญาดา​นั่ง​นึก​อยู่​ครู่หนึ่ง​ก่อน​จะ​พูด​ขึ้น​มา​ว่า
+  reading: ''
+  annot: ญาดา​นั่ง​นึก​อยู่​ครู่หนึ่ง​ก่อน​จะ​พูด​ขึ้น​มา​ว่า
+  translation_zh: 雅达坐着想了一会儿，然后开口说道：
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 体貌
+- 进行态
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

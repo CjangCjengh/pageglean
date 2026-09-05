@@ -1,0 +1,38 @@
+id: th-grm-00173
+language: th
+type: grammar
+level: L1
+level_rank: 1
+title: ลักษณนาม：量词与数量短语后置
+structure: นาม（名词）+ จำนวน（数词）+ ลักษณนาม（量词）
+structure_pattern: N + จำนวน + ลักษณนาม
+explanation_zh: 泰语计数必须用量词（ลักษณนาม），但数量短语整体放在名词之后，即先说名词再说“数词+量词”，如“แบงก์ร้อย…หนึ่งใบ”＝一张百元钞。量词按名词类别搭配：纸币、票用ใบ，人用คน，硬币用เหรียญ。
+examples:
+- text: ผม​ยื่น​แบงก์​ร้อย​ให้​เธอ​ไป​หนึ่ง​ใบ
+  reading: ''
+  annot: ผม​ยื่น​แบงก์​ร้อย​ให้​เธอ​ไป​หนึ่ง​ใบ
+  translation_zh: 我递给她一张一百铢的纸币。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+- text: เหรียญ​สิบ​บาท​จำนวน 10 เหรียญ
+  reading: ''
+  annot: เหรียญ​สิบ​บาท​จำนวน 10 เหรียญ
+  translation_zh: 十铢硬币，一共10枚。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 量词
+- 语序
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 5
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

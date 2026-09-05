@@ -1,0 +1,31 @@
+id: th-grm-00213
+language: th
+type: grammar
+level: L2
+level_rank: 2
+title: V+ไปมา：动作来回反复
+structure: V + ไปมา
+structure_pattern: V + ไปมา
+explanation_zh: 「ไปมา」接在动词后，表示动作来回反复进行，相当于汉语的“来回……”。本段「แกว่ง/ตะปบ/กลิ้งตัว ไปมา」反复出现，是描写动态场景的高频结构。
+examples:
+- text: มัน​เอา​เท้า​ไล่​ตะปบ​ตัว​ล่อ​ที่​เป็น​รูป​ลูกหนู​ตัวเล็ก ๆ ไป​มา​ด้วย​ท่าทาง​สนุกสนาน
+  reading: ''
+  annot: มัน​เอา​เท้า​ไล่​ตะปบ​ตัว​ล่อ​ที่​เป็น​รูป​ลูกหนู​ตัวเล็ก ๆ ไป​มา​ด้วย​ท่าทาง​สนุกสนาน
+  translation_zh: 它用小爪子开心地来回扑拍那个做成小老鼠形状的诱饵。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 补语
+- 方式
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 4
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

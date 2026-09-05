@@ -1,0 +1,30 @@
+id: th-grm-00132
+language: th
+type: grammar
+level: L1
+level_rank: 1
+title: 「หรือเปล่า」：是非问句
+structure: ประโยคบอกเล่า + หรือเปล่า (คำคำถาม)
+structure_pattern: 陈述句 + หรือเปล่า
+explanation_zh: 在陈述句后加หรือเปล่า，构成是非问句，相当于汉语“……吗”。它比ไหม更突出“是不是”的求证与关切语气。片段中丈夫问妲“ร้อนหรือเปล่า”（热吗）。
+examples:
+- text: ขอโทษ​นะ​คุณดา ร้อน​หรือเปล่า?
+  reading: ''
+  annot: ขอโทษ​นะ​คุณดา ร้อน​หรือเปล่า?
+  translation_zh: 抱歉啊，妲，热吗？
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 疑问
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

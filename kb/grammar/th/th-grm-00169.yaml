@@ -1,0 +1,31 @@
+id: th-grm-00169
+language: th
+type: grammar
+level: L2
+level_rank: 2
+title: เพื่อ + 动词：目的连词
+structure: การกระทำ + เพื่อ + จุดประสงค์（动作 + เพื่อ + 目的）
+structure_pattern: VP + เพื่อ + VP
+explanation_zh: เพื่อ 引导目的状语，相当于汉语「为了……、去……」。泰语语序为「动作 + เพื่อ + 目的」，如「เดินเข้าไปในห้างเพื่อมุ่งหน้าไปที่ทางเชื่อม」；汉语则常说「为了……走进商场」，目的在前。注意两种语言目的句的语序差异。
+examples:
+- text: เดิน​เข้าไป​ใน​ห้าง​เพื่อ​มุ่งหน้าไป​ที่ทาง​เชื่อม​กับ​รถไฟฟ้า
+  reading: ''
+  annot: เดิน​เข้าไป​ใน​ห้าง​เพื่อ​มุ่งหน้าไป​ที่ทาง​เชื่อม​กับ​รถไฟฟ้า
+  translation_zh: 走进商场，为的是前往与捷运相连的通道。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 目的
+- 连词
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

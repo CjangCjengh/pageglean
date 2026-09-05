@@ -1,0 +1,32 @@
+id: th-grm-00208
+language: th
+type: grammar
+level: L2
+level_rank: 2
+title: อย่าเพิ่ง + 动词：先别做某事
+structure: อย่าเพิ่ง + กริยา
+structure_pattern: อย่าเพิ่ง + V
+explanation_zh: 「อย่า」是วิธมาลา（命令/禁止语气）的กริยาวิเศษณ์，相当于汉语“别”；「เพิ่ง」是กาลมาลา（时体）กริยาวิเศษณ์，表示动作尚未发生。两者结合成「อย่าเพิ่ง
+  + 动词」，意为“先别～、还不是做某事的时候”。原文写作「พึ่ง」，是「เพิ่ง」的常见别字（พึ่ง另有“依靠”义）。
+examples:
+- text: เดี๋ยวก่อน​คุณดา อย่า​พึ่ง​กอด​มัน
+  reading: ''
+  annot: เดี๋ยวก่อน​คุณดา อย่า​พึ่ง​กอด​มัน
+  translation_zh: 等一下，阿达，先别抱它。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 否定
+- 体貌
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

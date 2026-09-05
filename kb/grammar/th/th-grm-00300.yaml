@@ -1,0 +1,31 @@
+id: th-grm-00300
+language: th
+type: grammar
+level: L2
+level_rank: 2
+title: 为什么会……：ทำไม…ถึง…
+structure: ทำไม + 主语 + ถึง + 动词短语
+structure_pattern: ทำไม + NP + ถึง + VP
+explanation_zh: 泰语询问原因常用“ทำไม…ถึง…”框架：ทำไม（为什么）提出疑问，ถึง引出结果性谓语，语气比单用ทำไม更强调原因与意外感。属于泰语典型的疑问词呼应结构。
+examples:
+- text: ทำไมญานัน​ถึง​ทัก​และ​โกรธ​เรื่อง​ที่​ผม​เรียกชื่อ​ของ​ญา​ดาว่า​คุณดา
+  reading: ''
+  annot: ทำไมญานัน​ถึง​ทัก​และ​โกรธ​เรื่อง​
+  translation_zh: 为什么ญานัน对我把ญาดา叫作“คุณดา”这事会介意、生气呢。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 疑问
+- 句式
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

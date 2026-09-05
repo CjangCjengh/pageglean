@@ -1,0 +1,31 @@
+id: th-grm-00239
+language: th
+type: grammar
+level: L3
+level_rank: 3
+title: ต้อง…แน่ ๆ：一定……没错
+structure: ต้อง（คำกริยาช่วย，表必然推断或必要）+ คำกริยา/คำวิเศษณ์ + แน่ ๆ（句末强调副词）
+structure_pattern: ต้อง + V/Adj + แน่ ๆ
+explanation_zh: ต้อง 表示“必定、一定”的推断（也可表“必须”），แน่ ๆ 是句末强调副词“确确实实地”。两者搭配表示说话人对判断的高度确信，相当于中文“一定……没错”。片段中用于叙述者基于观察作出的内心推断。
+examples:
+- text: มัน​ต้อง​ไม่ใช่​เรื่องเล็ก​แน่ ๆ
+  reading: ''
+  annot: มัน​ต้อง​ไม่ใช่​เรื่องเล็ก​แน่ ๆ
+  translation_zh: 这肯定不是小事。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 语气
+- 推断
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

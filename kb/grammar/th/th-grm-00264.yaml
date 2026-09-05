@@ -1,0 +1,31 @@
+id: th-grm-00264
+language: th
+type: grammar
+level: L2
+level_rank: 2
+title: ซิ（สิ）：催促、建议语气助词
+structure: 动词／祈使句 + ซิ
+structure_pattern: V + ซิ(สิ)
+explanation_zh: ซิ（标准写法为สิ）是句末语气助词，用于祈使、建议、催促，语气亲切随意，相当于中文的「……呀／……吧」。老师说「มาทางนี้ซิ」即「到这边来呀」。带有随便色彩，对长辈或正式场合不宜使用。
+examples:
+- text: เมทินี วิภาดา มา​ทางนี้​ซิ
+  reading: ''
+  annot: เมทินี วิภาดา มา​ทางนี้​ซิ
+  translation_zh: 梅蒂妮、维帕达，到这边来！
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 语气助词
+- 口语
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

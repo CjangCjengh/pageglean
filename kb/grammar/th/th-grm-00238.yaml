@@ -1,0 +1,32 @@
+id: th-grm-00238
+language: th
+type: grammar
+level: L3
+level_rank: 3
+title: สามารถ…ได้เป็นอย่างดี：能够很好地……
+structure: สามารถ（能愿动词）+ คำกริยา + ได้（能力补语）+ เป็นอย่างดี（程度状语，后置）
+structure_pattern: สามารถ + V + ได้ + เป็นอย่างดี
+explanation_zh: สามารถ 是能愿动词“能够”，动词后用 ได้ 表示能力得以实现，二者前后夹住动词短语。เป็นอย่างดี 作程度补语放在动词之后，意为“很好地”，体现泰语修饰成分后置的特点。整体相当于中文“能够很好地做某事”。
+examples:
+- text: เด็ก​คน​นั้น​สามารถ​ฟัง​และ​พูด​ภาษาไทย​ได้​เป็น​อย่าง​ดี​ใช่ไหมคะ?
+  reading: ''
+  annot: เด็ก​คน​นั้น​สามารถ​ฟัง​และ​พูด​ภาษาไทย​ได้​เป็น​อย่าง​ดี​ใช่ไหมคะ?
+  translation_zh: 那个孩子听和说泰语都很好，是吗？
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 能愿
+- 补语
+- 语序
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

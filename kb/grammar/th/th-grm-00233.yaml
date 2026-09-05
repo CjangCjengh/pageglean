@@ -1,0 +1,32 @@
+id: th-grm-00233
+language: th
+type: grammar
+level: L2
+level_rank: 2
+title: พอ…ก็…：「一……就……」与事件承接
+structure: พอ + ประโยค (ปุ๊บ) + ก็ + ประโยค (ปั๊บ)
+structure_pattern: พอ + Clause1 (+ปุ๊บ), ก็ + Clause2
+explanation_zh: 「พอ…ก็…」表示前一动作刚发生、后一动作紧接发生，相当于「一……就……」；「พอ」是接续词（คำสันธาน），「ก็」是承接副词。口语常加「ปุ๊บ」呼应，强调紧接着发生。叙述文体还用「เมื่อ…ก็…」（当……时）、「จากนั้น…ก็…」（随后就……）串联事件。
+examples:
+- text: พอ​วางสาย​จาก​คุณครู​ปุ๊บ​ผมก็​รีบ​เก็บ​สมุดบันทึก​ของญาดา​ขึ้นมา
+  reading: ''
+  annot: พอ​วางสาย​จาก​คุณครู​ปุ๊บ​ผมก็​ร
+  translation_zh: 我刚一挂断老师的电话，就赶紧把雅达的笔记本收了起来。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 接续
+- 时间表达
+- 叙述
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 5
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

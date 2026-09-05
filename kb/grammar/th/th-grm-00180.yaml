@@ -1,0 +1,39 @@
+id: th-grm-00180
+language: th
+type: grammar
+level: L3
+level_rank: 3
+title: เอาแต่ + V：只顾着…、一个劲儿地…
+structure: เอาแต่ + กริยา（动词）
+structure_pattern: เอาแต่ + V
+explanation_zh: เอาแต่ 放在动词前，表示“只顾着～”“一个劲儿地～”，强调某一动作或状态持续不断、不受干扰。常带有说话人的主观情绪（无奈、心疼、责备等）。与
+  เพียงแต่（只是）不同，เอาแต่ 侧重“只做这一件事”。
+examples:
+- text: ญาดา​เอาแต่​จับ​มือ​ผม​แน่น
+  reading: ''
+  annot: ญาดา​เอาแต่​จับ​มือ​ผม​แน่น
+  translation_zh: 雅达只顾着紧紧攥住我的手。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+- text: เอาแต่​กอด​รัด​ฟัด​เหวี่ยง​เจ้า​เหมียว​เครื่อง​ยิง​จรวด
+  reading: ''
+  annot: เอาแต่​กอด​รัด​ฟัด​เหวี่ยง​เจ้า​เหมียว​เครื่อง​ยิง​จรวด
+  translation_zh: （她）只顾着又搂又抱地逗弄“火箭发射器”小猫。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 副词结构
+- 语气
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

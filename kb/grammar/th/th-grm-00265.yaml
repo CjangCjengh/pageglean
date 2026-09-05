@@ -1,0 +1,32 @@
+id: th-grm-00265
+language: th
+type: grammar
+level: L3
+level_rank: 3
+title: ขนาด……ยัง……：让步反诘「连……都还……」
+structure: ขนาด + 前提小句，…ยัง…（เลย）
+structure_pattern: ขนาด + VP1, ... ยัง ... (เลย)
+explanation_zh: ขนาด……ยัง……表示让步反诘：「连……都还……」，举出极端事例作为论据。ขนาด引出前提，ยัง表示「尚且、还」，常与句末的เลย呼应加强语气。后接反问构成完整辩驳：「连话都不肯跟我们说，怎么会去欺负她呢？」
+examples:
+- text: ขนาด​คุย​กันอ​นาส​ตา​เซีย​ยัง​ไม่​คุย​กับ​พวก​หนู​เลย​แล้ว​พวก​หนู​จะ​ไป​รุม​แกล้ง​เธอ​ทำไม​กัน​ล่ะคะ?
+  reading: ''
+  annot: ขนาด​คุย​กันอ​นาส​ตา​เซีย​ยัง​ไม่​คุย​กับ​พวก​หนู​เลย​แล้ว​พวก​หนู​จะ​ไป​รุม​แกล้ง​เธอ​ทำไม​กัน​ล่ะคะ?
+  translation_zh: 阿纳斯塔西娅连跟我们说话都不肯，我们又怎么会去一起欺负她呢？
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 修辞
+- 让步
+- 反问
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

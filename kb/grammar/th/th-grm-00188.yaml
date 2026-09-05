@@ -1,0 +1,31 @@
+id: th-grm-00188
+language: th
+type: grammar
+level: L4
+level_rank: 4
+title: ถึง…จะ…ก็(เหอะ)：让步从句「即使……也……」
+structure: คำเชื่อม ถึง + อนุประโยค + จะ…ก็(เหอะ) (ประโยคความซ้อนเชิงยอม)
+structure_pattern: ถึง + Clause + จะ + V + ก็(เหอะ)
+explanation_zh: 「ถึง…จะ…ก็…」构成让步复句，相当于汉语「即使……也……」。从句末尾可加口语语气词เหอะ，带有「就算……又怎样」的不以为然语气。
+examples:
+- text: ถึง​พล๊อต​มัน​จะ​คล้าย ๆ กันก็​เหอะ
+  reading: ''
+  annot: ถึง​พล๊อต​มัน​จะ​คล้าย ๆ กันก็​เหอะ
+  translation_zh: 就算情节有点相似又怎样，
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 让步
+- 主从复合句
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

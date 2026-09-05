@@ -1,0 +1,39 @@
+id: th-grm-00273
+language: th
+type: grammar
+level: L1
+level_rank: 1
+title: แล้ว：完成、变化与「然后」
+structure: กริยา + แล้ว (คำวิเศษณ์บอกกาล) / แล้ว + ก็ + กริยา (คำเชื่อมลำดับ)
+structure_pattern: V + แล้ว / แล้ว + ก็ + V
+explanation_zh: แล้ว 用在句尾表示动作完成或状态变化，相当于中文「……了」，如本段「…เพียงฝ่ายเดียวแล้ว」＝不再只是单方面挨打了。แล้ว
+  也可作连词「然后」，常与 ก็ 连用：แล้วก็…。
+examples:
+- text: แล้วก็​เถียง​กัน​ไป​เรื่อย ๆ จนกระทั่ง​เรื่องราว​มัน​ไป​ถึง​จุด​แตกหัก
+  reading: ''
+  annot: แล้วก็​เถียง​กัน​ไป​เรื่อย ๆ จนกระทั่ง​เรื่องราว​มัน​ไป​ถึง​จุด​แตกหัก
+  translation_zh: 然后就一直吵下去，直到事情闹到不可收拾。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+- text: แต่​คราวนี้ญาดา​ไม่ยอม​เป็น​ฝ่าย​ถูกกระทำ​เพียง​ฝ่ายเดียว​แล้ว
+  reading: ''
+  annot: แต่​คราวนี้ญาดา​ไม่ยอม​เป็น​ฝ่าย​ถูกกระทำ​เพียง​ฝ่ายเดียว​แล้ว
+  translation_zh: 但这一次，雅达不再甘心只做单方面被欺负的一方了。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 体貌
+- 连接
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

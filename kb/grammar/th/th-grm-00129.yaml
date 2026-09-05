@@ -1,0 +1,31 @@
+id: th-grm-00129
+language: th
+type: grammar
+level: L3
+level_rank: 3
+title: 量词结构：名词与量词的语序
+structure: 名词 + 量词 + 形容词 + 数量（หลาย + 量词）
+structure_pattern: N + CL + Adj ; หลาย + CL
+explanation_zh: 泰语量词丰富，数量短语通常放在名词之后。「เหงื่อเม็ดโตหลายเม็ด」中「เม็ด」是颗粒状物的量词，直译「汗珠—大—好几颗」，即「好几颗豆大的汗珠」。动量词「ครั้ง」（次）同理，如「อีกครั้ง」（再一次）、「ครั้งแรก」（第一次）。
+examples:
+- text: ผม​ตั้ง​ข้อ​สงสัย​อีกครั้ง
+  reading: ''
+  annot: ผม​ตั้ง​ข้อ​สงสัย​อีกครั้ง
+  translation_zh: 我又一次提出了疑问。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 量词
+- 语序
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

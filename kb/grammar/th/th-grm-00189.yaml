@@ -1,0 +1,39 @@
+id: th-grm-00189
+language: th
+type: grammar
+level: L2
+level_rank: 2
+title: 「ก่อนจะ：先后动作的衔接」
+structure: คำกริยา + ก่อนจะ + คำกริยา（先发生的动作 + ก่อนจะ + 后发生的动作）
+structure_pattern: VP1 + ก่อน(ที่)จะ + VP2
+explanation_zh: ก่อน 是表示“在……之前”的时间连词（คำเชื่อม），与未实现体标记 จะ 连用，引出随后发生的动作，整体表示“先A，之后才B”。注意泰语语序：先发生的动作在前，ก่อนจะ
+  引导的动作在后。片段中三次出现，是叙事中衔接动作先后的高频结构。
+examples:
+- text: ผู้การ​มอง​หน้า​ผม​อยู่​ครู่หนึ่ง​ก่อน​จะ​หันกลับ​ไป​หาญาดา​อีกครั้ง​แล้ว​พูด​ว่า
+  reading: ''
+  annot: ผู้การ​มอง​หน้า​ผม​อยู่​ครู่หนึ่ง​ก่อน​จ
+  translation_zh: 局长注视着我的脸看了一会儿，随后才又转身朝向雅妲，开口说道……
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+- text: ผู้การ​ขมวดคิ้ว​เล็กน้อย​ก่อน​จะ​ตอบกลับ​มา​ว่า
+  reading: ''
+  annot: ผู้การ​ขมวดคิ้ว​เล็กน้อย​ก่อน​จะ​ตอบกลับ​มา​ว่า
+  translation_zh: 局长微微皱了皱眉，然后才回答我说……
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 接续
+- 时间表达
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

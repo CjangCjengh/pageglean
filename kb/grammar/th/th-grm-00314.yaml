@@ -1,0 +1,31 @@
+id: th-grm-00314
+language: th
+type: grammar
+level: L3
+level_rank: 3
+title: ตั้งแต่：“从……以来”
+structure: ตั้งแต่ + 时间/事件 (+ แล้ว)
+structure_pattern: ตั้งแต่ + Time/Event (+ แล้ว)
+explanation_zh: ตั้งแต่ 是表示“从……起、自从”的介词（บุพบท），后接时间点或事件。句中常与 แล้ว 或 มา 呼应，强调状态从过去一直持续到现在，突出起点之早。
+examples:
+- text: แม่นัน​เล่า​เรื่อง​ของ​คุณ​ชา​ให้ดา​ฟัง​ตั้งแต่​ยังเด็ก​แล้ว
+  reading: ''
+  annot: แม่นัน​เล่า​เรื่อง​ของ​คุณ​ชา​ให้ดา​ฟัง​ตั้งแต่​ยังเด็ก​แล้ว
+  translation_zh: 南姨从（我）还小的时候起，就给我讲茶先生的事了。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 时间
+- 介词
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

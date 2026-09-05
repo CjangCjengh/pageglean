@@ -1,0 +1,32 @@
+id: th-grm-00217
+language: th
+type: grammar
+level: L2
+level_rank: 2
+title: จน：结果与终点（以至于、直到）
+structure: 主句 + จน + 结果/终点小句（连词 สันธาน）
+structure_pattern: VP + จน + VP
+explanation_zh: จน 是连词（คำสันธาน），引出前一动作导致的结果，可译为“以至于……”；也可表示时间或程度的终点“直到……”。本段写ญาดา逗猫逗到忘了时间。作介词时还可表“直到某时点”，如
+  ตั้งแต่…จน… 。
+examples:
+- text: เอาแต่​กอด​รัด​ฟัด​เหวี่ยง​เจ้า​เหมียว​เครื่อง​ยิง​จรวด​จน​ลืม​เวลา​ไป​แล้ว
+  reading: ''
+  annot: เอาแต่​กอด​รัด​ฟัด​เหวี่ยง​เจ้า​เหมียว​เครื่อง​ยิง​จรวด​จน​ลืม​เวลา​ไป​แล้ว
+  translation_zh: 只顾着搂抱嬉闹那只“火箭发射器”小猫，以至于把时间都忘了。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 连词
+- 结果
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

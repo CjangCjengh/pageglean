@@ -1,0 +1,32 @@
+id: th-grm-00320
+language: th
+type: grammar
+level: L3
+level_rank: 3
+title: 连动式：ไป + V 与趋向补语
+structure: ไป/มา + V；V + ลง/ขึ้น (+ ไป/มา) + V
+structure_pattern: ไป/มา + VP; VP + ลง/ขึ้น + ไป/มา + VP
+explanation_zh: 泰语常用连动式：ไป/มา + 动词表示“去/来做某事”，如 ไปคุย（去谈）。动词还可与趋向补语串联，如 ทิ้งตัว ลง
+  ไป นอน（倒下去躺下），多个动词依次排列表达完整动作链。语序与汉语连动式大体一致，易于迁移。
+examples:
+- text: เดี๋ยว​หลังจากนี้​ฉัน​จะ​ไป​คุย​กับ​หนูดา​ต่อ​เอง
+  reading: ''
+  annot: เดี๋ยว​หลังจากนี้​ฉัน​จะ​ไป​คุย​กับ​หนูดา​ต่อ​เอง
+  translation_zh: 等这事过后，我自己去找努达接着聊。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 连动式
+- 趋向补语
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 4
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

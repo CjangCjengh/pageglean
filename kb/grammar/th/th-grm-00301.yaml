@@ -1,0 +1,39 @@
+id: th-grm-00301
+language: th
+type: grammar
+level: L2
+level_rank: 2
+title: 连动式：去……来……（ไป…มา…）
+structure: ไป + 动词1 … มา + 动词2（多动词依序排列，不用连词）
+structure_pattern: ไป + V1 … มา + V2
+explanation_zh: 泰语连动结构把多个动词按时间与逻辑顺序直接排列，中间不用连词。ไป/มาเป็น趋向动词，标示动作朝向：“ไปจ้าง…มาช่วย”即“去雇……来帮忙”。句末ไหม构成是非问句。
+examples:
+- text: ผม​ต้อง​ไป​จ้าง CS* มา​ช่วยด้วย​ไหม​เนี่ย​หา?
+  reading: ''
+  annot: ผม​ต้อง​ไป​จ้าง CS* มา​ช่วยด้วย​ไหม​เนี่ย​หา?
+  translation_zh: 我是不是得去雇个CS来帮忙啊？
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+- text: ผม​โทร​ไป​ขอ​คำ​ปรึกษา​คุณแม่​ของ​เด็กสาว​ที่​ผม​รับ​มา​ดูแล
+  reading: ''
+  annot: ผม​โทร​ไป​ขอ​คำ​ปรึกษา​คุณแม่​ของ​เด็กสาว​ที่​ผม​รับ​มา​ดูแล
+  translation_zh: 我打电话去征询那位由我接来照顾的少女的妈妈的意见。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 连动式
+- 语序
+- 疑问
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

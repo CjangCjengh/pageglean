@@ -1,0 +1,31 @@
+id: th-grm-00284
+language: th
+type: grammar
+level: L2
+level_rank: 2
+title: เอง/ด้วยตัวเอง：亲自、自己
+structure: 动词 + เอง；ด้วย + ตัวเอง（独自、亲自）
+structure_pattern: V + เอง / ด้วย + ตัวเอง
+explanation_zh: เอง 附于动词或名词后，强调动作由本人完成；ด้วยตัวเอง 作状语，意为“靠自己、亲自”。文中反复出现“แก้ปัญหาเอง”“ด้วยตัวเอง”“จัดการเอง”，一再强调雅达想独自承担一切。
+examples:
+- text: เธอ​แก้ปัญหา​ด้วย​ตัวเอง​ได้
+  reading: ''
+  annot: เธอ​แก้ปัญหา​ด้วย​ตัวเอง​ได้
+  translation_zh: 她能够自己解决问题。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 强调
+- 代词
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

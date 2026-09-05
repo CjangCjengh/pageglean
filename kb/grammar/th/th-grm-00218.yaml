@@ -1,0 +1,32 @@
+id: th-grm-00218
+language: th
+type: grammar
+level: L3
+level_rank: 3
+title: โดน：遭受义被动句
+structure: ผู้ถูกกระทำ + โดน + ผู้กระทำ + กริยา（ถูก/โดน 被动）
+structure_pattern: N（受事）+ โดน + N（施事）+ V
+explanation_zh: โดน 与 ถูก 同功，构成被动句（ประโยคถูกกระทำ），引出施事者，多用于不如意或受损的语境，语序同汉语“被”字句。本段是幽默的拟人用法：被小猫的可爱“洗脑”。口语中
+  โดน 也可直接接动词表示“遭到……”。
+examples:
+- text: โดน​ความ​น่ารัก​ของ​เจ้า​เหมียว​ล้างสมอง​ไป​เสีย​แล้ว
+  reading: ''
+  annot: โดน​ความ​น่ารัก​ของ​เจ้า​เหมียว​ล้างสมอง​ไป​เสีย​แล้ว
+  translation_zh: （她）已经被小猫的可爱彻底“洗了脑”。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 被动
+- 语态
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

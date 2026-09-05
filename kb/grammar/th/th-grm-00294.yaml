@@ -1,0 +1,32 @@
+id: th-grm-00294
+language: th
+type: grammar
+level: L3
+level_rank: 3
+title: นอกจาก…แล้ว：除了……之外
+structure: นอกจาก + 名词/小句 + แล้ว，+ 主句
+structure_pattern: นอกจาก + NP/Clause + แล้ว + , + Clause
+explanation_zh: นอกจาก…แล้ว 是成对连词（สันธานคู่），意为“除了……之外（还/也）”，先提出或排除一项，再引出主句。结构为 นอกจาก
+  + 名词/小句 + แล้ว + 主句，แล้ว 一般不可省略。后文既可追加同类信息，也可转向对比。
+examples:
+- text: นอก​จาก​เรื่อง​ที่​คุณดา​ถูก​รังแก​แล้ว เรื่อง​อื่น ๆ คุณดา​เขียน​อะไร​ลง​ไป
+  reading: ''
+  annot: นอก​จาก​เรื่อง​ที่​คุณดา​ถูก​รังแก​แล้ว เรื่อง​อื่น ๆ คุณดา​เขียน​อะไร​ลง​ไป
+  translation_zh: 除了คุณดา被欺负的事，别的事คุณดา还写了些什么。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 连词
+- 接续
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 4
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

@@ -1,0 +1,32 @@
+id: th-grm-00135
+language: th
+type: grammar
+level: L3
+level_rank: 3
+title: ยัง…อยู่เลย：持续「还在〜着呢」
+structure: ยัง + กริยา + อยู่ + เลย
+structure_pattern: ยัง + V + อยู่ + เลย
+explanation_zh: ยัง 置于动词前表示状态或动作持续，意为“还、仍在”；อยู่ 紧跟动词后作持续貌标记，句末 เลย 加强语气。注意泰语的体貌词
+  อยู่ 位于动词之后，此处还嵌套连动结构 นั่งทำงาน（坐着工作）。
+examples:
+- text: ก็​ยัง​เห็น​คุณ​ชา​นั่ง​ทำงาน​อยู่​เลย
+  reading: ''
+  annot: ก็​ยัง​เห็น​คุณ​ชา​นั่ง​ทำงาน​อยู่​เลย
+  translation_zh: （她）还是看到茶先生坐着工作呢。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 体貌
+- 语序
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

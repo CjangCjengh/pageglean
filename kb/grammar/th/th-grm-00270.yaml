@@ -1,0 +1,33 @@
+id: th-grm-00270
+language: th
+type: grammar
+level: L2
+level_rank: 2
+title: อย่า…สิ：禁止与催促语气
+structure: อย่า + V（+ สิ）
+structure_pattern: อย่า + V (+ สิ)
+explanation_zh: อย่า置于动词前表示禁止，相当于中文的「别/不要…」。句末语气助词สิ增添催促、强调的色彩，带有埋怨或敦促的口吻。片段中อย่าตอบสั้น
+  ๆ สิ即「别回答得这么简短啊」。
+examples:
+- text: อย่า​ตอบ​สั้น ๆ สิ
+  reading: ''
+  annot: อย่า​ตอบ​สั้น ๆ สิ
+  translation_zh: 别回答得这么简短啊。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 禁止
+- 语气
+- 句末助词
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

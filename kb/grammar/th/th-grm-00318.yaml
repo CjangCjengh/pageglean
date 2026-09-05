@@ -1,0 +1,31 @@
+id: th-grm-00318
+language: th
+type: grammar
+level: L3
+level_rank: 3
+title: นอกจาก…แล้ว(ก็)ยัง…：除了……还……
+structure: นอกจาก + A + แล้ว + ยัง + B
+structure_pattern: นอกจาก + NP/VP + แล้ว + ยัง + VP
+explanation_zh: นอกจาก…แล้ว 表示“除了……之外”，后续 ยัง 引出补充信息“还……”，构成递进关系。书面语和口语都常用。片段用它从表面原因递进到深层原因。
+examples:
+- text: นอกจาก​ความ​เหมาะสม​เรื่อง​ของ​อายุ และ​อีก​หลาย ๆ อย่าง จริง ๆ แล้ว​ยัง​มี​อีก​หนึ่ง​สาเหตุ​ที่​ผม​ปฏิเสธญาดา​ไป
+  reading: ''
+  annot: นอกจาก​ความ​เหมาะสม​เรื่อง​ของ​อายุ และ​อีก​หลาย ๆ อย่าง
+  translation_zh: 除了年龄上的般配以及许多其他方面之外，其实我拒绝雅达还有另一个原因。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 复句
+- 递进
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

@@ -1,0 +1,32 @@
+id: th-grm-00171
+language: th
+type: grammar
+level: L3
+level_rank: 3
+title: ถึง(แม้)…ก็เถอะ：让步结构
+structure: ถึง/แม้แต่ + อนุประโยค … ก็ + เถอะ/ก็ตาม
+structure_pattern: ถึง(แม้) + Clause … ก็ + เถอะ/ก็ตาม
+explanation_zh: ถึง或ถึงแม้引导让步从句，相当于汉语「虽然/即使……也……」，主句或句尾以ก็เถอะ、ก็ตาม呼应，带有迁就、让步、姑且承认的语气。片段中出现两次：「ถึงส่วนใหญ่จะดูโตเกินวัยไปหน่อยก็เถอะ」和「ถึงแม้ในช่วงก่อสร้างมันจะทำให้รถติดทั้งบ้านทั้งเมืองก็เถอะนะ」。其中「ทั้งบ้านทั้งเมือง」（全国各地、满城）也是惯用搭配。
+examples:
+- text: ถึง​ส่วนใหญ่​จะ​ดู​โต​เกิน​วัย​ไป​หน่อยก็​เถอะ
+  reading: ''
+  annot: ถึง​ส่วนใหญ่​จะ​ดู​โต​เกิน​วัย​ไป​หน่อยก็​เถอะ
+  translation_zh: 虽然（雅达）大部分时候看起来有点过于早熟……
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 让步
+- 语气
+- 连词
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

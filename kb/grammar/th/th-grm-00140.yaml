@@ -1,0 +1,32 @@
+id: th-grm-00140
+language: th
+type: grammar
+level: L1
+level_rank: 1
+title: ไหม + คะ：是非问句与礼貌句末助词
+structure: 述语（คำกริยา/วิเศษณ์）+ ไหม（疑问助词）+ คะ/ครับ（礼貌คำลงท้าย）
+structure_pattern: V/Adj + ไหม + คะ/ครับ
+explanation_zh: 泰语把「ไหม」放在句末，把陈述句变成是非问，相当于汉语的"……吗"。句末再加「คะ」（女性用）或「ครับ」（男性用）表示礼貌。「เหรอ」则是带惊讶或求确认语气的疑问助词。
+examples:
+- text: น่ารัก​ไหมคะ?
+  reading: ''
+  annot: น่ารัก​ไหมคะ?
+  translation_zh: 可爱吗？
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 疑问
+- 语气
+- 礼貌
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

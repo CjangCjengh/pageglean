@@ -1,0 +1,39 @@
+id: th-grm-00211
+language: th
+type: grammar
+level: L2
+level_rank: 2
+title: คำซ้ำ（- ๆ）：重叠表程度与复数
+structure: คำ + ๆ (คำซ้ำ)
+structure_pattern: X + ๆ (คำซ้ำ)
+explanation_zh: 泰语用「 ๆ」（ไม้ยมก）构成重叠词（คำซ้ำ）。形容词重叠表示程度，「หงอย ๆ」是有点蔫蔫的，「มาก ๆ」是非常；名词或量词重叠表示复数，如「อื่น
+  ๆ」是其他那些。重叠使语气柔和或带有强调，是口语中极常见的手段。
+examples:
+- text: ญาดา​ทำ​หน้าตา​หงอย ๆ เล็กน้อย
+  reading: ''
+  annot: ญาดา​ทำ​หน้าตา​หงอย ๆ เล็กน้อย
+  translation_zh: 雅达露出一副有些没精打采的样子。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+- text: ก็​เข้าใจ​อยู่​หรอก​นะ​ว่า​เธอ​คง​ชอบ​แมว​มาก ๆ
+  reading: ''
+  annot: ก็​เข้าใจ​อยู่​หรอก​นะ​ว่า​เธอ​คง​ชอบ​แมว​มาก ๆ
+  translation_zh: 我也明白，你肯定是非常喜欢猫的。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 重叠
+- 程度
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 6
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

@@ -1,0 +1,39 @@
+id: th-grm-00194
+language: th
+type: grammar
+level: L2
+level_rank: 2
+title: 「การ + 动词：名词化与 ของ 后置定语」
+structure: การ + คำกริยา (+ ของ + คำนาม)
+structure_pattern: การ + V (+ ของ + NP)
+explanation_zh: การ 是名词化前缀（คำอุปสรรค การ-），加在动词前使其变成名词，如 การสนทนา（谈话）、การทำ（做）。名词化短语后可用
+  ของ 引出后置定语，如“การทำอะไรอ้อมโลกของผู้การ”（局长绕弯子的做法），体现泰语修饰语后置的语序。
+examples:
+- text: การ​สนทนา​ใน​ครั้งนี้​สิ้นสุดลง​แล้ว
+  reading: ''
+  annot: การ​สนทนา​ใน​ครั้งนี้​สิ้นสุดลง​แล้ว
+  translation_zh: 这次谈话已经结束了。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+- text: การ​ทำ​อะไร​อ้อม​โลก​ของ​ผู้การ
+  reading: ''
+  annot: การ​ทำ​อะไร​อ้อม​โลก​ของ​ผู้การ
+  translation_zh: 局长那种兜圈子的做法。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 名词化
+- 语序
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

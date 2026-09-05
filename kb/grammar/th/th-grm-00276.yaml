@@ -1,0 +1,31 @@
+id: th-grm-00276
+language: th
+type: grammar
+level: L2
+level_rank: 2
+title: ก่อน（จะ）＋V：在做……之前
+structure: ก่อน + จะ + กริยา (กาลานุประโยคบอกเวลา)
+structure_pattern: ก่อน + จะ + V
+explanation_zh: ก่อน 后接（จะ）+动词构成时间状语，相当于中文「在做……之前」。จะ 表示后一动作在当时尚属将然（还未发生），口语中可省略。本段「ก่อนจะเล่า…」即「在讲述……之前」。
+examples:
+- text: ญาดา​ก้มหน้า​ลง​เล็กน้อย​ก่อน​จะ​เล่า​เรื่อง​ที่เกิด​ขึ้น​ให้​ผม​ฟัง
+  reading: ''
+  annot: ญาดา​ก้มหน้า​ลง​เล็กน้อย​ก่อน​จะ​เล่า​เรื่อง​ที่เกิด​ขึ้น​ให้​ผม​ฟัง
+  translation_zh: 雅达微微低下头，然后把发生的事情讲给我听。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 时间状语
+- 体貌
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

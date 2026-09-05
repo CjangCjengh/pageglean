@@ -1,0 +1,39 @@
+id: th-grm-00142
+language: th
+type: grammar
+level: L2
+level_rank: 2
+title: อย่าง + 形容词：……地（方式状语）
+structure: อย่าง（คำบุพบท/วิเศษณ์）+ 形容词，构成方式状语
+structure_pattern: อย่าง + Adj
+explanation_zh: 「อย่าง + 形容词」构成方式状语，相当于汉语的"……地"，用来修饰前面的动词。是书面叙述中描写动作情态的高频手段。
+examples:
+- text: แล้ว​พา​กัน​เดิน​ลง​ไป​เล่น​น้ำทะเล​ด้วย​กัน​อย่าง​สนุกสนาน
+  reading: ''
+  annot: แล้ว​พา​กัน​เดิน​ลง​ไป​เล่น​น
+  translation_zh: 然后我们一起下到海边，开心地玩水
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+- text: ถูก​ใช้​ไป​อย่าง​คุ้มค่า​มาก​ที่สุด
+  reading: ''
+  annot: ถูก​ใช้​ไป​อย่าง​คุ้มค่า​มาก​ที่สุด
+  translation_zh: （假期）被过得最充实、最有价值
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 方式
+- 状语
+- 修饰
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

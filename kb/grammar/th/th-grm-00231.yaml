@@ -1,0 +1,32 @@
+id: th-grm-00231
+language: th
+type: grammar
+level: L4
+level_rank: 4
+title: คิดว่า…จะ…เสียอีก：我还以为……呢
+structure: คิดว่า + จะ + 动词 + เสียอีก
+structure_pattern: คิดว่า + จะ + V + เสียอีก
+explanation_zh: 「คิดว่า + จะ + V + เสียอีก」表示与事实相反的揣测，意为「我还以为会……呢（结果并非如此）」。语气成分 เสียอีก
+  强调实际情况与说话人预期不符。相当于汉语的「我还当是……呢」。
+examples:
+- text: ผม​นึก​ว่า​ผู้การ​จะ​จีบ​คุณดา​เสีย​อีก...
+  reading: ''
+  annot: ผม​นึก​ว่า​ผู้การ​จะ​จีบ​คุณดา​เสีย​อีก...
+  translation_zh: 我还以为长官您是在追求达小姐呢……
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 语气
+- 预期
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

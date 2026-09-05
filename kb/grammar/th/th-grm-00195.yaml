@@ -1,0 +1,38 @@
+id: th-grm-00195
+language: th
+type: grammar
+level: L2
+level_rank: 2
+title: 「ที่：定语从句的引导词」
+structure: คำนาม + ที่ + อนุประโยค（ส่วนขยาย）
+structure_pattern: NP + ที่ + Clause
+explanation_zh: ที่ 相当于关系代词（英语的 that/which），放在被修饰名词之后引出说明性从句，体现泰语“中心语在前、修饰语后置”的语序。“ไม่ใช่เรื่องที่…”即“不是……的事”，“ของส่วนตัวที่อยู่บนโต๊ะ”即“放在桌上的私人物品”。
+examples:
+- text: มัน​ไม่ใช่​เรื่อง​ที่​ผม​ต้อง​พูด​ไง
+  reading: ''
+  annot: มัน​ไม่ใช่​เรื่อง​ที่​ผม​ต้อง​พูด​ไง
+  translation_zh: 这又不是我该说的事嘛。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+- text: แหงนคอ​ขึ้น​มอง​เจ้าของ​นิ้ว​ที่​มัน​พึ่ง​เลีย​ไป​เมื่อครู่
+  reading: ''
+  annot: แหงนคอ​ขึ้น​มอง​เจ้าของ​นิ้ว​ที่​มัน​พึ่ง​เลีย​ไป​เมื่อครู่
+  translation_zh: 它仰起头，望着自己刚刚舔过的那根手指的主人。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 关系从句
+- 语序
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

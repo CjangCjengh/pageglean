@@ -1,0 +1,32 @@
+id: th-grm-00240
+language: th
+type: grammar
+level: L2
+level_rank: 2
+title: ความ- + 动词/形容词：抽象名词化前缀
+structure: ความ-（คำอุปสรรค，名词化前缀）+ คำกริยา/คำวิเศษณ์ → คำนาม（抽象名词）
+structure_pattern: ความ + V/Adj → N
+explanation_zh: ความ- 是泰语最高产的构词前缀（อุปสรรค），加在动词或形容词前构成抽象名词，相当于中文的“……感/……性/……的状态”。如
+  ความสงสัย（疑惑）、ความเคยชิน（习惯）。阅读中大量出现，是扩大词汇量的重要手段。
+examples:
+- text: ผม​มอง​หน้า​คุณครู​ด้วย​ความ​สงสัย
+  reading: ''
+  annot: ผม​มอง​หน้า​คุณครู​ด้วย​ความ​สงสัย
+  translation_zh: 我满腹疑惑地看着老师。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 构词
+- 名词化
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

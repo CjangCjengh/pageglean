@@ -1,0 +1,32 @@
+id: th-grm-00207
+language: th
+type: grammar
+level: L2
+level_rank: 2
+title: 疑问与说明语气词 เหรอ / ไง
+structure: 陈述句 + เหรอ（疑问）/ ไง（说明）+（คะ/ค่ะ）
+structure_pattern: S + เหรอ / V + ไง (+ คะ/ค่ะ)
+explanation_zh: เหรอ（= หรือ）置于句末构成是非问句，相当于中文「吗」；ไง（= ไงล่ะ）带说明语气，意为「不是……嘛」。两者都可与礼貌助词
+  คะ/ค่ะ 连用，如片段「ขึ้นฝั่งเหรอคะ?」。口语中 เหรอ 还说成 เรอะ。
+examples:
+- text: ขึ้นฝั่งเหรอคะ?
+  reading: ''
+  annot: ''
+  translation_zh: 要上岸去吗？
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 疑问
+- 句末助词
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

@@ -1,0 +1,31 @@
+id: th-grm-00272
+language: th
+type: grammar
+level: L2
+level_rank: 2
+title: ก็เลย／เลย：于是、就（因果承接）
+structure: ประโยคเหตุ + ก็เลย/เลย + ประโยคผล
+structure_pattern: S(原因) + ก็เลย/เลย + V(结果)
+explanation_zh: ก็เลย/เลย 承接因果：前句说原因，后句用「于是、就」引出结果，是叙事中最常用的因果连接。เลย 可以省略 ก็ 单独使用，语感更紧凑。
+examples:
+- text: แต่ญาดา​กลับ​ปฏิเสธ​ไม่​ไป ก็​เลย​มี​ปากเสียง​กัน
+  reading: ''
+  annot: แต่ญาดา​กลับ​ปฏิเสธ​ไม่​ไป ก็​เลย​มี​ปากเสียง​กัน
+  translation_zh: 但雅达反而拒绝、不肯去，于是双方就吵了起来。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 连接
+- 因果
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 6
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

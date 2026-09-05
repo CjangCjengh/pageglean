@@ -1,0 +1,39 @@
+id: th-grm-00146
+language: th
+type: grammar
+level: L2
+level_rank: 2
+title: แล้ว：完成与继起「……了之后接着……」
+structure: กริยา 1 + แล้ว (เสร็จสิ้น) + กริยา 2 (ต่อเนื่อง)
+structure_pattern: V1 + แล้ว + V2
+explanation_zh: แล้ว置于动词后表示动作完成「已经……」，连接两个动词时表示继起「先做V1，然后做V2」。片段中用于烹饪流程，เสร็จแล้วนำไป…
+  意为「炒完之后拿去……」。泰语动词无形态变化，动作的先后关系靠语序与แล้ว表达。
+examples:
+- text: ข้าวสาร​ผัด​กับ​น้ำมัน​มะกอก​และ​หัวหอม​เสร็จ​แล้ว​นำไป​หุง​จน​สุก​ก่อนนำ​มา​คลุก​กับ​เนย​เพื่อ​ให้​หอม​ยิ่ง​ขึ้้น
+  reading: ''
+  annot: ข้าวสาร​ผัด​กับ​น้ำมัน​มะกอก​และ​หัวหอม​เสร็จ​แล้ว​นำไป​ห
+  translation_zh: 米先用橄榄油和洋葱翻炒，炒完后拿去煮至熟透，再拌入黄油让它更加香浓。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+- text: อาจจะ​เป็น​คน​อื่น​ทำ​แล้ว​ใส่ร้าย​กลุ่ม​หัวหน้า​ห้อง​ได้​เหมือน​กัน​นะ​คะ
+  reading: ''
+  annot: อาจจะ​เป็น​คน​อื่น​ทำ​แล้ว​ใส่ร้าย​กล
+  translation_zh: 也有可能是别人干的，然后嫁祸给班干部们。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 体貌
+- 连贯
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

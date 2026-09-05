@@ -1,0 +1,32 @@
+id: th-grm-00156
+language: th
+type: grammar
+level: L2
+level_rank: 2
+title: 「ทำไม…ถึง…」：怎么竟然／为什么会
+structure: ทำไม + 主语 + ถึง + V/Adj（+ ได้）
+structure_pattern: ทำไม + S + ถึง + V
+explanation_zh: ทำไม 用于提问原因，泰语更常说「ทำไม…ถึง…」，其中วิเศษณ์「ถึง」强调结果出乎意料，相当于「怎么（会）……／为什么竟然……」。口语中还常叠加
+  ได้、ล่ะ、เนี่ย 等语气词加强惊讶语气。
+examples:
+- text: แล้วทำไม​เธอ​ถึง​รู้จัก​คอลัมน์​นี้​ได้​ล่ะ​เนี่ย
+  reading: ''
+  annot: แล้วทำไม​เธอ​ถึง​รู้จัก​คอลัมน์​นี้​ได้​ล่ะ​เนี่ย
+  translation_zh: 那她怎么会认识这个专栏的呢？
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 疑问句
+- 语气
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

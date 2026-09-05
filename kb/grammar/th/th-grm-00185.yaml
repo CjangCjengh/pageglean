@@ -1,0 +1,39 @@
+id: th-grm-00185
+language: th
+type: grammar
+level: L2
+level_rank: 2
+title: คำซ้ำ（叠语）：语义弱化与强调
+structure: คำวิเศษณ์/คำคุณศัพท์ ซ้ำกันทำหน้าที่ส่วนขยาย (คำซ้ำ)
+structure_pattern: Adj/Adv + Adj/Adv（การซ้ำคำ）
+explanation_zh: 泰语常将形容词、副词重叠使用（คำซ้ำ），表示程度减弱、模糊或加强语气。片段中เบา ๆ（轻轻地）、คร่าว ๆ（粗略地）、คล้าย
+  ๆ（相似）、คุ้น ๆ（似曾相识）、แน่ ๆ（肯定）均属此类，语义倾向需依语境判断。
+examples:
+- text: ญาดา​ตอบ​พลาง​หัวเราะ​เบา ๆ อีกครั้ง
+  reading: ''
+  annot: ญาดา​ตอบ​พลาง​หัวเราะ​เบา ๆ อีกครั้ง
+  translation_zh: 雅妲一边回答，一边又轻声笑了笑。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+- text: ดูท่า​ว่า​ถาม​ไปก็​คง​ไม่ได้​คำ​ตอบกลับ​มาตรง ๆ แน่ ๆ
+  reading: ''
+  annot: ดูท่า​ว่า​ถาม​ไปก็​คง​ไม่ได้​คำ​ตอบกลับ​มาตรง ๆ แน่ ๆ
+  translation_zh: 看样子就算问，也肯定得不到直截了当的回答。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 叠语
+- 修饰语
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 5
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

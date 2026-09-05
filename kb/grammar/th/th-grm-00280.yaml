@@ -1,0 +1,39 @@
+id: th-grm-00280
+language: th
+type: grammar
+level: L2
+level_rank: 2
+title: ได้ (dâi)：能力与可能
+structure: 动词（＋宾语）+ ได้，表示“能、会、可以”
+structure_pattern: V + ได้
+explanation_zh: 在泰语学校文法中，ได้ 置于主动词之后作补语，表示能力或可能性，相当于汉语“能V／V得了”。其声调为降调（dâi），与前置的完成体助动词
+  ได้（dâai）不同。文中“แก้ปัญหาเองได้”即“能自己解决问题”。
+examples:
+- text: ดา​แก้ปัญหา​เอง​ได้​นะคะ
+  reading: ''
+  annot: ดา​แก้ปัญหา​เอง​ได้​นะคะ
+  translation_zh: 雅达自己能解决问题。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+- text: ต่อให้​วันนี้​คุณดา​เอาตัวรอด​มา​ได้
+  reading: ''
+  annot: ต่อให้​วันนี้​คุณดา​เอาตัวรอด​มา​ได้
+  translation_zh: 即使您今天能够脱身。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 体貌
+- 助动词
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

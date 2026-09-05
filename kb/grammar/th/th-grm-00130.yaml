@@ -1,0 +1,38 @@
+id: th-grm-00130
+language: th
+type: grammar
+level: L1
+level_rank: 1
+title: 句末语气助词：ค่ะ / ล่ะ / นี่นา
+structure: 句子 + ค่ะ（女性）/ ล่ะ / นี่นา
+structure_pattern: S + (ค่ะ | ล่ะ | นี่นา)
+explanation_zh: 「ค่ะ」是女性用的礼貌语气词（男性对应 ครับ），使话语礼貌柔和。「ล่ะ」（= แหละ）表示提示、确认或轻微催促；「นี่นา」提醒对方注意显而易见的事实，相当于「明明……嘛、你看」。
+examples:
+- text: เพราะ​มัน​ร้อน​ค่ะ
+  reading: ''
+  annot: เพราะ​มัน​ร้อน​ค่ะ
+  translation_zh: 因为（那边）太热了呀。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+- text: ผม​จำได้​ว่าที่​รัสเซียก็​มี​ชายหาด​สวย ๆ อยู่​หลายที่​เหมือน​กัน​นี่​นา
+  reading: ''
+  annot: ผม​จำได้​ว่าที่​รัสเซียก็​มี​ชายหาด​
+  translation_zh: 我记得，俄罗斯明明也有好些美丽的海滩呀。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 语气助词
+- 礼貌语
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

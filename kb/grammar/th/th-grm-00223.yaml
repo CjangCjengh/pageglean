@@ -1,0 +1,39 @@
+id: th-grm-00223
+language: th
+type: grammar
+level: L3
+level_rank: 3
+title: เอา + 工具 + 动作：拿/用……来做……
+structure: เอา + 工具名词 + V（连动式，เอา引出所用之物）
+structure_pattern: เอา + N + V
+explanation_zh: 连动式「เอา+N+V」用เอา引出动作所使用的工具或材料，意为「拿/用……来做……」。它比介词ด้วย的说法更口语、更生动。片段中多次用它描写猫用前爪、用头去碰东西的动作。
+examples:
+- text: เอา​เท้าหน้า​ตะกุย​ขา​ผม​เบา ๆ
+  reading: ''
+  annot: เอา​เท้าหน้า​ตะกุย​ขา​ผม​เบา ๆ
+  translation_zh: 用前爪轻轻扒拉我的腿。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+- text: เอา​หัว​ดัน​ชาม​ข้าวเบา ๆ
+  reading: ''
+  annot: เอา​หัว​ดัน​ชาม​ข้าวเบา ๆ
+  translation_zh: 用头轻轻顶了顶食盆。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 连动式
+- 工具
+- 口语
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

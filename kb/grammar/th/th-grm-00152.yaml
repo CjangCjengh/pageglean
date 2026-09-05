@@ -1,0 +1,39 @@
+id: th-grm-00152
+language: th
+type: grammar
+level: L2
+level_rank: 2
+title: 「แล้ว + ค่อย」：完成之后再做另一件事
+structure: V1 + เสร็จ/แล้ว，（然后）ค่อย + V2
+structure_pattern: V1 + เสร็จ + แล้ว + (S) + ค่อย + V2
+explanation_zh: แล้ว置于动词后表示动作已经完成，常用来引出完成后的下一步安排。ค่อย表示“然后再……”，强调后一动作须等前一动作完成才发生。片段中“เสร็จธุระแล้วเราค่อยไปเดินเล่นกันต่อ”即“办完事我们再去散步”。
+examples:
+- text: เดี๋ยว​เสร็จ​ธุระ​แล้ว​เรา​ค่อย​ไป​เดินเล่น​กัน​ต่อ​ดี​ไหม?
+  reading: ''
+  annot: เดี๋ยว​เสร็จ​ธุระ​แล้ว​เรา​ค่อย​ไป​เดินเล่น​กัน​ต่อ​ดี​ไหม?
+  translation_zh: 等我办完事，咱们再一起去散步，好吗？
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+- text: ดา​อยาก​ไป​ไชน่า​ทาว เสร็จ​ธุระ​แล้ว​พาไป​หน่อย​ได้​ไหมคะ?
+  reading: ''
+  annot: ดา​อยาก​ไป​ไชน่า​ทาว เสร็จ​ธุระ​แล้ว​พาไป​หน่อย​ได้​ไหมคะ?
+  translation_zh: 我想去唐人街，你办完事后带我去一下，好吗？
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 体貌
+- 承接
+- 副词
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

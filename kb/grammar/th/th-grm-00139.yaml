@@ -1,0 +1,32 @@
+id: th-grm-00139
+language: th
+type: grammar
+level: L4
+level_rank: 4
+title: เพราะเหตุใด…ถึง…：因果疑问「为什么〜」
+structure: เพราะเหตุใด + … + ถึง + กริยา
+structure_pattern: เพราะเหตุใด + … + ถึง + V
+explanation_zh: เพราะเหตุใด 是书面化的“为什么”（口语用 ทำไม），ถึง 引出被追问的结果小句，两者前后呼应构成因果疑问。同句 โดยไม่รู้ตัว
+  意为“不知不觉、没意识到”，也是常见书面表达。
+examples:
+- text: โดย​ไม่รู้ตัว​ว่า​เพราะ​เหตุใด​ผม​ถึง​พร่ำ​ขอโทษ​เธอ​อยู่​แบบ​นี้
+  reading: ''
+  annot: โดย​ไม่รู้ตัว​ว่า​เพราะ​เหตุใด​ผ
+  translation_zh: （她）并未察觉我为什么一直这样向她道歉。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 疑问
+- 连接词
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

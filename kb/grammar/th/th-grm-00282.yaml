@@ -1,0 +1,32 @@
+id: th-grm-00282
+language: th
+type: grammar
+level: L3
+level_rank: 3
+title: ต่อให้…แต่…：即使……也……
+structure: ต่อให้ + 让步从句，แต่ + 主句
+structure_pattern: ต่อให้ + clause, แต่ + clause
+explanation_zh: ต่อให้ 引导让步从句，提出极端假设，相当于汉语“即使、就算”，后接 แต่ 表示转折。文中“ต่อให้วันนี้เอาตัวรอดมาได้
+  แต่ในวันต่อ ๆ ไป…”构成让步—转折复句，是书面语中典型的论理句式。
+examples:
+- text: ต่อให้​วันนี้​คุณดา​เอาตัวรอด​มา​ได้ แต่​ใน​วัน​ต่อ ๆ ไป​มัน​อาจ​จะ​ไม่​จบ​แค่นี้​ก็​ได้
+  reading: ''
+  annot: ต่อให้​วันนี้​คุณดา​เอาตัวรอด​มา​ได้ แต่​ใน​
+  translation_zh: 即使您今天能够脱身，往后的日子也未必会就此结束。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 接续
+- 让步
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

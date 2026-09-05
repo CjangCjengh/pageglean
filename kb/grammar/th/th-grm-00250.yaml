@@ -1,0 +1,39 @@
+id: th-grm-00250
+language: th
+type: grammar
+level: L2
+level_rank: 2
+title: หลังจากที่：「……之后」的时间状语从句
+structure: หลังจากที่ + ประโยค（时间状语从句），主句常用 ก็ 承接
+structure_pattern: หลังจากที่ + S + V (+ ก็ …)
+explanation_zh: หลังจากที่ 是连接时间状语从句的สันธาน（连词），相当于汉语「在……之后」，从句在前、主句在后，主句常以ก็承接。也可单独使用
+  หลังจากนั้น 指代前文，意为「此后」。本片段出现四次，是叙事文本的典型衔接方式。
+examples:
+- text: ญาดา​โวยวาย​เสียง​ดัง​หลังจากที่​เห็น​ผม​หยิบ​ขวด​เครื่องปรุง​ผิด​เป็น​ครั้ง​ที่​ห้า
+  reading: ''
+  annot: ญาดา​โวยวาย​เสียง​ดัง​หลังจากที่​เห็น​ผม​หยิบ​ขวด​เครื่องปรุง​ผิด​เป็น​ครั้ง​ที่​ห้า
+  translation_zh: 雅达大声嚷嚷起来，因为她看见我又拿错了调料瓶——这已是第五次了。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+- text: สาม​วัน​ต่อมา​หลังจากที่​ผม​คุย​กับญาดา​ถึง​เรื่องราว​ที่เกิด​ขึ้น ผม​ได้​นัด​คุย​กับ​คุณครู​ประจำ​ชั้น​ของญาดา​อีกครั้ง
+  reading: ''
+  annot: สาม​วัน​ต่อมา​หลังจากที่​ผม​คุย​กับญาดา​ถึง​เรื่องราว​ที่เกิด​ขึ้น ผม​ได้​นัด​คุย​กับ​คุณครู​ประจำ​ชั้น​ของญาดา​อีกครั้ง
+  translation_zh: 三天后，在我与雅达谈起发生的事情之后，我又一次约了她的班主任面谈。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 接续
+- 时间状语
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 4
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

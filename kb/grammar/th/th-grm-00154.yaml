@@ -1,0 +1,39 @@
+id: th-grm-00154
+language: th
+type: grammar
+level: L2
+level_rank: 2
+title: 「ให้」：使役与受益（让／为某人做）
+structure: V + ให้ + 人 + V
+structure_pattern: V1 + ให้ + NP + V2
+explanation_zh: ให้本义为“给”，常用在动词后构成使役或受益结构，“V＋ให้＋人＋V”表示“让／叫某人做某事”或“为某人做某事”。片段中“บอกให้เธอคาดเข็มขัดนิรภัย”（让她系好安全带）是使役，“แจกลายแทงร้านอร่อยให้ลูกสาว”（把美食地图给女儿）是受益。主语或宾语常可省略。
+examples:
+- text: ผม​บอก​ให้​เธอ​คาด​เข็มขัด​นิรภัย​เสร็จ
+  reading: ''
+  annot: ผม​บอก​ให้​เธอ​คาด​เข็มขัด​นิรภัย​เสร็จ
+  translation_zh: 我让她系好了安全带。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+- text: แจก​ลายแทง​ร้าน​อร่อย​ให้​ลูกสาว
+  reading: ''
+  annot: แจก​ลายแทง​ร้าน​อร่อย​ให้​ลูกสาว
+  translation_zh: （她）把好吃店的“藏宝图”给了女儿？
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 使役
+- 受益
+- 连动式
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

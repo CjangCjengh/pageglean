@@ -1,0 +1,38 @@
+id: th-grm-00289
+language: th
+type: grammar
+level: L1
+level_rank: 1
+title: ไหม / เหรอ 是非问与女性礼貌助词 คะ/ค่ะ
+structure: 陈述句 + ไหม/เหรอ（+ คะ/ค่ะ）
+structure_pattern: ประโยค + ไหม/เหรอ + (คะ/ค่ะ) — คำเสริมท้ายคำถาม/ความสุภาพ
+explanation_zh: 「ไหม」是句尾是非疑问助词，相当于「……吗？」；「เหรอ」为「หรือเปล่า」的口语缩略，带意外或求证语气。女性说话人常在句尾加「คะ」（疑问/呼唤）或「ค่ะ」（陈述）以示礼貌。
+examples:
+- text: เข้าใจ​ไหม
+  reading: ''
+  annot: เข้าใจ​ไหม
+  translation_zh: 明白了吗？
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+- text: จริง​เหรอคะ?
+  reading: ''
+  annot: จริง​เหรอคะ?
+  translation_zh: 真的吗？
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 疑问
+- 礼貌助词
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 5
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

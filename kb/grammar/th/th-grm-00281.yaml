@@ -1,0 +1,31 @@
+id: th-grm-00281
+language: th
+type: grammar
+level: L2
+level_rank: 2
+title: ก่อนที่จะ：在……之前
+structure: 主句 + ก่อนที่จะ + 动词（先做前件，后做后件）
+structure_pattern: V1 + ก่อนที่ + จะ + V2
+explanation_zh: ก่อนที่จะ 引导时间状语从句，表示主句动作发生在另一动作之前，相当于汉语“在……之前”。จะ 标示从句动作即将发生。文中“ยิ้มก่อนที่จะตอบ”即“先微笑，然后才回答”。
+examples:
+- text: ผม​ยิ้ม​บาง ๆ ก่อน​จะ​ตอบกลับ​ไป​ว่า
+  reading: ''
+  annot: ผม​ยิ้ม​บาง ๆ ก่อน​จะ​ตอบกลับ​ไป​ว่า
+  translation_zh: 我先微微一笑，然后回答说。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 接续
+- 时间从句
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

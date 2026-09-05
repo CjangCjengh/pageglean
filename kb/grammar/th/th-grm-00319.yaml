@@ -1,0 +1,32 @@
+id: th-grm-00319
+language: th
+type: grammar
+level: L2
+level_rank: 2
+title: 句末语气助词：หน่อย/เถอะ/นะ/ล่ะ
+structure: 句子 + หน่อย/เถอะ/นะ/ล่ะ
+structure_pattern: VP + หน่อย/เถอะ/นะ/ล่ะ
+explanation_zh: 泰语句末常加语气助词调节语气：หน่อย 用于请求（“……一下吧”），เถอะ 用于劝诱建议（“……吧”），นะ 使语气柔和亲切，ล่ะ
+  加强确认或感叹。片段中这些助词连用，体现泰语口语的礼貌与委婉。
+examples:
+- text: คุณ​ชา​ไป​พักผ่อน​ก่อน​เถอะ ขอบคุณ​นะ
+  reading: ''
+  annot: คุณ​ชา​ไป​พักผ่อน​ก่อน​เถอะ ขอบคุณ​นะ
+  translation_zh: 察先生，你先去休息吧，谢谢你啦。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 语气
+- 礼貌
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 6
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

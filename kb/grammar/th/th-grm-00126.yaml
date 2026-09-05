@@ -1,0 +1,38 @@
+id: th-grm-00126
+language: th
+type: grammar
+level: L1
+level_rank: 1
+title: 修饰语后置：定语放在中心语之后
+structure: 中心名词 + 形容词/修饰语；领属：名词1 + ของ + 名词2
+structure_pattern: N + Adj ; N1 + ของ + N2
+explanation_zh: 泰语的定语放在中心语之后，形容词修饰名词时要后置，「ชายหาดสวย ๆ」直译是「海滩漂亮的」，意为「美丽的海滩」。领属或限定关系用「ของ」连接，如「สถานที่เติบโตของพวกเรา」（我们成长的地方）。这与汉语语序相反，是中文母语者需要最先适应的基本规则。
+examples:
+- text: ผม​จำได้​ว่าที่​รัสเซียก็​มี​ชายหาด​สวย ๆ อยู่​หลายที่​เหมือน​กัน​นี่​นา
+  reading: ''
+  annot: ผม​จำได้​ว่าที่​รัสเซียก็​มี​ชายหาด​
+  translation_zh: 我记得，俄罗斯明明也有好些美丽的海滩呀。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+- text: บน​ใบหน้า​ของ​เธอ​มี​เหงื่อ​เกาะ​อยู่​เต็มไปหมด
+  reading: ''
+  annot: บน​ใบหน้า​ของ​เธอ​มี​เหงื่อ​เกาะ​อยู่​เต็มไปหมด
+  translation_zh: 她的脸上挂满了汗珠。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 语序
+- 修饰后置
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

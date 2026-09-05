@@ -1,0 +1,31 @@
+id: th-grm-00147
+language: th
+type: grammar
+level: L3
+level_rank: 3
+title: 连动式：ไป/มา/กลับ 表方向，เล่น 表消遣
+structure: กริยา + ไป/มา/กลับ + กริยา … (+ เล่น)
+structure_pattern: V1 + (ไป/มา/กลับ) + V2 (+ เล่น)
+explanation_zh: 泰语多连动式，方向动词ไป（离去）、มา（朝向）、กลับ（返回）穿插于动词之间，表示动作的方向与连续性，如นำไปหุง「拿去煮」、พากลับมา「带回来」。动词后还常接补语เล่น，表示「以玩乐为目的做某事」，如ขี่เจ็ตสกีเล่น「骑摩托艇玩」。
+examples:
+- text: เสร็จ​แล้ว​นำไป​หุง​จน​สุก​ก่อนนำ​มา​คลุก​กับ​เนย
+  reading: ''
+  annot: เสร็จ​แล้ว​นำไป​หุง​จน​ส
+  translation_zh: 炒好后拿去煮熟，再拿来拌上黄油。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 连动式
+- 方向
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 8
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

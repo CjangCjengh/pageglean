@@ -1,0 +1,32 @@
+id: th-grm-00277
+language: th
+type: grammar
+level: L4
+level_rank: 4
+title: 「动词 + ให้ + 补语：使达到…（结果补语）」
+structure: คำกริยา + ให้ + ส่วนเสริมผลลัพธ์（使动作达成某种结果）
+structure_pattern: V + ให้ + ผลลัพธ์
+explanation_zh: 动词后接 ให้ + 形容词/状态补语，表示使动作达到某种结果，相当于中文的结果补语“…好／…整齐”。“จัดเสื้อผ้าให้เข้าที่เข้าทาง”即“把衣服整理得整整齐齐”。注意与使役用法“ให้
+  + 人 + 动词”（让某人做某事）区分。
+examples:
+- text: พลาง​จัด​เสื้อผ้า​ให้​เข้าที่​เข้าทาง
+  reading: ''
+  annot: พลาง​จัด​เสื้อผ้า​ให้​เข้าที่​เข้าทาง
+  translation_zh: 一边把衣服整理得整齐妥帖。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 补语
+- 结果
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

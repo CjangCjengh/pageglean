@@ -1,0 +1,32 @@
+id: th-grm-00133
+language: th
+type: grammar
+level: L1
+level_rank: 1
+title: 「ค่ะ / นะ / ล่ะ」：句末礼貌与语气助词
+structure: 'คำลงท้ายประโยค: ค่ะ (คำรับ หญิง) / นะ, ล่ะ (คำเสริม)'
+structure_pattern: 句末 + ค่ะ/นะ/ล่ะ
+explanation_zh: ค่ะ是女性说话人用的礼貌语气词，用于陈述或应答；นะ使语气柔和亲切；ล่ะ常用于疑问，缓和追问的口吻。三者都位于句末，是泰语口语交际中不可缺少的成分。
+examples:
+- text: ดา​เลย​ยัง​พอ​ทน​ได้​ค่ะ
+  reading: ''
+  annot: ดา​เลย​ยัง​พอ​ทน​ได้​ค่ะ
+  translation_zh: 所以妲还算撑得住。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 语气
+- 敬语
+- 助词
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 4
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

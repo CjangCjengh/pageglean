@@ -1,0 +1,38 @@
+id: th-grm-00177
+language: th
+type: grammar
+level: L2
+level_rank: 2
+title: คำบุพบทด้วย：用、带着（方式与手段）
+structure: กริยา（动词）+ คำบุพบท（介词）ด้วย + นาม（名词），介词短语后置作状语
+structure_pattern: V + ด้วย + N
+explanation_zh: บุพบทด้วย表示手段、方式或伴随，相当于汉语“用、以、带着”，如“ด้วยรอยยิ้ม”＝“带着笑容”。泰语的方式状语位于动词之后，与汉语语序相反。“ด้วยตัวเอง”即“靠自己、亲自”。
+examples:
+- text: อยาก​ให้คุณดา​ลอง​ซื้อตั๋ว​ด้วย​ตัวเอง​ดู​ไง
+  reading: ''
+  annot: อยาก​ให้คุณดา​ลอง​ซื้อตั๋ว​ด้วย​ตัวเอง​ดู​ไง
+  translation_zh: （工作人员）是想让达小姐你自己试着买一次票看看呀。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+- text: ญาดา​สรุปเรื่อง​ราว​ทั้งหมด​ด้วย​สีหน้า​ไม่​ทุกข์ร้อน
+  reading: ''
+  annot: ญาดา​สรุปเรื่อง​ราว​ทั้งหมด​ด้วย​สีหน้า​ไม่​ทุกข์ร้อน
+  translation_zh: 雅达神色自若地把整件事讲了一遍。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 介词
+- 语序
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 5
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

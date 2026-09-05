@@ -1,0 +1,32 @@
+id: th-grm-00220
+language: th
+type: grammar
+level: L2
+level_rank: 2
+title: ก่อนจะ…：一个动作之后才做另一个动作
+structure: V1 + ก่อน + จะ + V2（时间连接词，表动作先后）
+structure_pattern: V + ก่อน(ที่) + จะ + V
+explanation_zh: 「ก่อนจะ+V2」接在第一个动作V1之后，表示V1完成后才做V2，相当于中文「……之后才……」。在学校文法中ก่อน分析为时间连接词，是本片段叙事中出现频率极高的顺序表达。语序与中文「在……之前」正好相反，需要特别注意。
+examples:
+- text: มัน​เงยหน้า​ขึ้น​มา​มอง​ผม​เล็กน้อย​ก่อน​จะ​หันกลับ​ไป​สนใจ​อาหาร​ของ​ตัวเอง​ต่อ
+  reading: ''
+  annot: มัน​เงยหน้า​ขึ้น​มา​มอง​ผม​เล็กน้อย​ก่อน​จะ​หันกลับ​ไป​สนใจ​อาหาร​ของ​ตัวเอง​ต่อ
+  translation_zh: 它微微抬起头看了我一眼，然后又转回去继续关注自己的食物。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 时间接续
+- 连动
+- 高频
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 6
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

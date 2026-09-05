@@ -1,0 +1,39 @@
+id: th-grm-00232
+language: th
+type: grammar
+level: L2
+level_rank: 2
+title: ก่อน / ก่อนที่：「先……」与「在……之前」
+structure: กริยาหลัก + ก่อน / ประโยคหลัก + ก่อนที่ + ประโยคย่อย
+structure_pattern: V + ก่อน / V1 + ก่อนที่ + S + V2
+explanation_zh: 「ก่อน」置于动词前表示先做某事，接小句时用「ก่อนที่＋小句」表示「在……之前」，学校语法归为表时间的接续词（คำสันธาน）。泰语语序是先前发生的动作在前，「ก่อน(ที่)」引出的后发动作在后。「ก่อน」还可单独放在动词后或句末表示「先……」，如「ดากลับก่อนนะ」。
+examples:
+- text: ผม​รีบ​รับไหว้​ก่อน​จะ​ถาม​ออกไป​ว่า
+  reading: ''
+  annot: ผม​รีบ​รับไหว้​ก่อน​จะ​ถาม​ออกไป​ว่า
+  translation_zh: 我赶紧回了礼，然后开口问道：「……」
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+- text: ดา​กลับ​ก่อน​นะ
+  reading: ''
+  annot: ดา​กลับ​ก่อน​นะ
+  translation_zh: 达（雅达的昵称）先回去啦。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 接续
+- 时间表达
+- 语序
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 8
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

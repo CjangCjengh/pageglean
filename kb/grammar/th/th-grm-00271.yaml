@@ -1,0 +1,39 @@
+id: th-grm-00271
+language: th
+type: grammar
+level: L3
+level_rank: 3
+title: ถูก/โดน 被字式：被……、挨……
+structure: ผู้ถูกกระทำ (ประธาน) + ถูก/โดน + กริยาหลัก (+ ว่า + ประโยค)
+structure_pattern: N(受事) + ถูก/โดน + V
+explanation_zh: 泰语被动式把受事者作主语，用 ถูก/โดน 引出动作，相当于中文「被／挨」。ถูก 本义「遭遇」，多用于不如意的事；โดน 更口语、受害义更重。被动后还可接
+  ว่า 引出内容，如「ถูกใส่ร้ายว่า…」（被诬蔑说……）。
+examples:
+- text: ก็​เลย​ถูก​เพื่อน​ใน​กลุ่ม​หัวหน้า​ห้อง​รุม​ตบ​เอา
+  reading: ''
+  annot: ก็​เลย​ถูก​เพื่อน​ใน​กลุ่ม​หัวหน้า​ห้อง​รุม​ตบ​เอา
+  translation_zh: 于是（她）被班长那一伙人围着一顿打。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+- text: ญาดา​เลย​โดน​ไม่​หนัก​มาก
+  reading: ''
+  annot: ญาดา​เลย​โดน​ไม่​หนัก​มาก
+  translation_zh: 雅达因此挨得不算太重。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 被动态
+- 语态
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 6
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

@@ -1,0 +1,31 @@
+id: th-grm-00247
+language: th
+type: grammar
+level: L3
+level_rank: 3
+title: พลาง 同时进行：一边……一边……
+structure: กริยา₁ + พลาง + กริยา₂ (เกิดขึ้นพร้อมกัน)
+structure_pattern: กริยา + พลาง + กริยา
+explanation_zh: 「动词 + พลาง + 动词」表示两个动作同时进行，相当于中文「一边……一边……」。片段中有「กอดพลางลูบหัว」（边抱边抚头），也有衔接言语与动作的「ว่าพลางพาไป」（边说边带她去）。常见于描写并行动作的叙述语体。
+examples:
+- text: ผม​ว่า​พลาง​พา​เธอ​ไป​ที่​ห้องครัว
+  reading: ''
+  annot: ผม​ว่า​พลาง​พา​เธอ​ไป​ที่​ห้องครัว
+  translation_zh: 我一边说着，一边带她去厨房。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 连动式
+- 同时进行
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

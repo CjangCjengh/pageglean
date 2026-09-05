@@ -1,0 +1,38 @@
+id: th-grm-00191
+language: th
+type: grammar
+level: L3
+level_rank: 3
+title: 「พลาง：两个动作同时进行」
+structure: คำกริยา1 + พลาง + คำกริยา2
+structure_pattern: VP1 + พลาง + VP2
+explanation_zh: พลาง 是副词，表示两个动作同时进行，相当于“一边……一边……”。可用“ว่าพลาง＋动作”（一边说着，一边……），也可直接放在主要动词后表示伴随动作。片段中出现两次，是书面叙述中描写同步动作的常用词。
+examples:
+- text: ผู้การ​ว่า​พลาง​โบกมือ​ไล่​เบา ๆ
+  reading: ''
+  annot: ผู้การ​ว่า​พลาง​โบกมือ​ไล่​เบา ๆ
+  translation_zh: 局长一边说着，一边轻轻挥了挥手赶我走。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+- text: ทั้งสอง​คนก็​มอง​กลับ​มาหา​ผม​พลาง​ถอนหายใจ​ออกมา​พร้อมกัน​เบา ๆ
+  reading: ''
+  annot: ทั้งสอง​คนก็​มอง​กลับ​มาหา​ผม​พลาง​ถอนหายใจ​ออกมา​พร้อมกัน​เบา ๆ
+  translation_zh: 两人也回过头来看我，同时轻轻地一起叹了口气。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 体貌
+- 副词
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

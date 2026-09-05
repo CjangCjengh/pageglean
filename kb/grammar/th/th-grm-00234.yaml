@@ -1,0 +1,38 @@
+id: th-grm-00234
+language: th
+type: grammar
+level: L1
+level_rank: 1
+title: ลักษณนาม：量词「คน」与「名＋数＋量」语序
+structure: คำนาม + จำนวน + ลักษณนาม (คน)
+structure_pattern: N + Num + CLF(คน)
+explanation_zh: 泰语表示数量时必须使用量词（ลักษณนาม），学校语法将其归为名词的附类；指人的量词是「คน」。语序为「名词＋数词＋量词」，如「คุณครูคนหนึ่ง」（一位老师）、「ทั้งสองคน」（两人），与汉语「一＋量＋名」正好相反。
+examples:
+- text: เมื่อ​เห็น​ดังนั้น​ผมก็​รีบ​เดิน​เข้าไป​หา​ทั้ง​สอง​คน​ทันที
+  reading: ''
+  annot: เมื่อ​เห็น​ดังนั้น​ผมก็​รีบ​เด
+  translation_zh: 一看到这情形，我便立刻朝两人走过去。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+- text: คุณครู​คน​หนึ่ง
+  reading: ''
+  annot: คุณครู​คน​หนึ่ง
+  translation_zh: 一位老师（名词＋数词＋量词）
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 量词
+- 语序
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

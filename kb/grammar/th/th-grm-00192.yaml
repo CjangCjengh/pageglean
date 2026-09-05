@@ -1,0 +1,39 @@
+id: th-grm-00192
+language: th
+type: grammar
+level: L3
+level_rank: 3
+title: 「ยิ่ง…ก็ยิ่ง…：越……越……」
+structure: ยิ่ง + คำกริยา/คำวิเศษณ์1 + ก็ + ยิ่ง + คำกริยา/คำวิเศษณ์2
+structure_pattern: ยิ่ง + VP1 + ก็ + ยิ่ง + VP2
+explanation_zh: ยิ่ง…ก็ยิ่ง… 是前后呼应的递进结构，表示程度随条件增加，相当于“越A越B”。两个 ยิ่ง 分别修饰前后谓词，ก็ 起连接作用。片段中“ยิ่งพูดก็ยิ่งงง”即“越说越糊涂”，口语常加
+  ไปหมด 强调“完全、彻底”。
+examples:
+- text: ยิ่ง​พูดก็​ยิ่ง​งง​ไป​หมดแล้ว​เนี่ย
+  reading: ''
+  annot: ยิ่ง​พูดก็​ยิ่ง​งง​ไป​หมดแล้ว​เนี่ย
+  translation_zh: 真是越说越让人一头雾水了啊。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+- text: ยิ่ง​คิดก็​ยิ่ง​ไม่เข้าใจ​จริง ๆ พับผ่า​สิ...
+  reading: ''
+  annot: ยิ่ง​คิดก็​ยิ่ง​ไม่เข้าใจ​จริง ๆ พับผ่า​สิ...
+  translation_zh: 越想就越不明白，真是见鬼了……
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 递进
+- 比较
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

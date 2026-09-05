@@ -1,0 +1,39 @@
+id: th-grm-00199
+language: th
+type: grammar
+level: L3
+level_rank: 3
+title: ก่อน(จะ)/ก่อนที่：做某事之前
+structure: ก่อนที่ + ประธาน + จะ + คำกริยา / ก่อน + จะ + คำกริยา
+structure_pattern: ก่อน(ที่) + (S) + จะ + VP
+explanation_zh: ก่อนที่ 是คำสันธาน（连词），引导时间อนุประโยค，表示"在做某事之前"。从句主语与主句一致时可用"ก่อน＋จะ＋动词"的省略形式，จะ
+  为表将然的คำช่วยกริยา。片段中两种形式各出现一次，可对照学习。
+examples:
+- text: ผม​แอบ​บ่น​เพื่อน​ในใจ​เล็กน้อย​ก่อน​จะ​พาญาดา​เดิน​ออกจาก​ร้าน​สตาร์บัคส์
+  reading: ''
+  annot: ผม​แอบ​บ่น​เพื่อน​ในใจ​เล็กน้อย​ก่อน​จะ​พาญาดา​เดิน​ออกจาก​ร้าน​สตาร์บัคส์
+  translation_zh: 我在心里暗暗吐槽了朋友几句，然后才带着雅达走出星巴克。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+- text: อีกครั้ง​ก่อน​ที่​ผม​จะ​ขับรถ​พาญาดา​ไป​ที่​เยาวราช​ตามที่​เธอ​ต้องการ
+  reading: ''
+  annot: อีกครั้ง​ก่อน​ที่​ผม​จะ​ขับรถ​พาญาดา​ไป​ที่​เยาวราช​ตามที่​เธอ​ต้องการ
+  translation_zh: 又一次（取车），之后我才开车带雅达去她想去的那空支诺瓦（唐人街）。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 从句
+- 时态
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

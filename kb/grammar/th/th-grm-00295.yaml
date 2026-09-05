@@ -1,0 +1,37 @@
+id: th-grm-00295
+language: th
+type: grammar
+level: L1
+level_rank: 1
+title: ยัง…อยู่：状态仍在持续（还……着）
+structure: ยัง + 动词/形容词 (+ อยู่)
+structure_pattern: ยัง + V/Adj (+ อยู่)
+explanation_zh: 「ยัง」置于动词或形容词前，表示状态或情况仍在持续，相当于中文『还、仍然』。常与句尾的「อยู่」呼应构成『ยัง…อยู่』，强调状态的存续，可再加「เลย」加强语气。片段中反复出现，如『ยังปกติดี』（还一切正常）、『ยังอารมณ์ดีอยู่เลย』（明明还心情很好）。
+examples:
+- text: ผม​ยัง​ปกติ​ดีนะ
+  reading: ''
+  annot: ผม​ยัง​ปกติ​ดีนะ
+  translation_zh: 我还一切正常呢。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+- text: เมื่อกี๊​เธอ​ยัง​อารมณ์ดี​อยู่​เลย
+  reading: ''
+  annot: เมื่อกี๊​เธอ​ยัง​อารมณ์ดี​อยู่​เลย
+  translation_zh: 刚才她明明还心情很好的。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 体貌
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 4
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

@@ -1,0 +1,32 @@
+id: th-grm-00196
+language: th
+type: grammar
+level: L2
+level_rank: 2
+title: เคย…ไหม：经历体标记
+structure: เคย + คำกริยา（คำช่วยกริยาบอกประสบการณ์）+ ไหม
+structure_pattern: เคย + V (+ ไหม)
+explanation_zh: เคย 是泰语学校语法中的คำช่วยกริยา（助动词），置于主要动词前表示"曾经做过某事"。疑问式"เคย V ไหม"用于询问过往经历，ไหม
+  为句末疑问助词。泰语不说"曾经＋动词"的副词结构，而靠体标记本身表达经历义。
+examples:
+- text: ผู้การ​พูด​เรื่อง​นิยาย​ของ​เขา​น่ะ​ค่ะ​ว่า​เคย​อ่าน​ไหม
+  reading: ''
+  annot: ผู้การ​พูด​เรื่อง​นิยาย​ของ​เขา​น่ะ​ค่ะ​ว่า​เคย​อ่าน​ไหม
+  translation_zh: （他）在聊他的那本小说呢，问我有没有读过。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 体貌
+- 疑问
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

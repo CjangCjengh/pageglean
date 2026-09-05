@@ -1,0 +1,39 @@
+id: th-grm-00311
+language: th
+type: grammar
+level: L2
+level_rank: 2
+title: กว่า：比较句“比……更……”
+structure: 形容词 + กว่า + 比较对象 (+ มาก)
+structure_pattern: ADJ + กว่า + NP/Clause
+explanation_zh: 比较句基本结构为“形容词 + กว่า + 比较对象”，相当于“比……更……”，比较对象后置。表示差距很大时可在句尾补 มาก（……得多）。比较对象还可以是
+  ที่ 引导的从句，如“比……想的还……”。
+examples:
+- text: ผม​แก่​กว่า​คุณ​ดามาก​เลย​นะ
+  reading: ''
+  annot: ผม​แก่​กว่า​คุณ​ดามาก​เลย​นะ
+  translation_zh: 我比达小姐年长许多呢。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+- text: ดา​รู้จัก​คุณ​ชามา​นาน​กว่า​ที่​คุณ​ชา​คิด​ซะ​อีก​นะคะ
+  reading: ''
+  annot: ดา​รู้จัก​คุณ​ชามา​นาน​กว่า​ที่​คุณ​ชา​คิด​ซะ​อีก​นะคะ
+  translation_zh: 达认识茶先生的时间，比茶先生自己想的时间还要久呢。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 比较
+- 形容词谓语句
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

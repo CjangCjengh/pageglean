@@ -1,0 +1,38 @@
+id: th-grm-00175
+language: th
+type: grammar
+level: L1
+level_rank: 1
+title: 疑问结构：ไหม是非问与ทำไม…ถึง…原因问
+structure: 陈述句 + ไหม？／ทำไม + ประธาน（主语）+ ถึง + กริยา（谓语）？
+structure_pattern: S + V + ไหม / ทำไม + S + ถึง + V
+explanation_zh: 一般是非问直接在句末加ไหม，相当于汉语“……吗”，如“เห็น…ไหม”＝“看到……了吗”。问原因用ทำไม，常与副词ถึง呼应构成“ทำไม…ถึง…”，强调追问“为什么会……”。
+examples:
+- text: ทำไม​เขา​ถึง​ให้​เหรียญ​กลับ​มาคะ?
+  reading: ''
+  annot: ทำไม​เขา​ถึง​ให้​เหรียญ​กลับ​มาคะ?
+  translation_zh: 为什么找给我的零钱是硬币呢？
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+- text: คุณดา​เห็น​เครื่อง​ขาย​ตั๋ว​อัตโนมัติ​แบบ​หยอด​เหรียญ​นั่น​ไหม?
+  reading: ''
+  annot: คุณดา​เห็น​เครื่อง​ขาย​ตั๋ว​อัตโนมัติ​แบบ​หยอด​เหรียญ​นั่น​ไหม?
+  translation_zh: 达小姐，你看到那台投币式自动售票机了吗？
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 疑问
+- 句型
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

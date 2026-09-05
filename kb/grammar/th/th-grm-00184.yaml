@@ -1,0 +1,38 @@
+id: th-grm-00184
+language: th
+type: grammar
+level: L1
+level_rank: 1
+title: ค่ะ/คะ：女性礼貌句末助词
+structure: ประโยค + ค่ะ (ประโยคบอกเล่า) / คะ (ประโยคคำถาม, คำลงท้ายแสดงความสุภาพ)
+structure_pattern: Clause + ค่ะ/คะ
+explanation_zh: 女性说话者在陈述句、祈使句末加ค่ะ（降调），在疑问句、呼唤语末加คะ（升调）以示礼貌，男性对应使用ครับ。片段中เหรอ后接คะ构成礼貌疑问，ค่ะ用于陈述句末。
+examples:
+- text: คุณ​ชา​อยากรู้อะไรเหรอคะ?
+  reading: ''
+  annot: คุณ​ชา​อยากร
+  translation_zh: 茶先生／女士，您想知道什么呢？
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+- text: ผู้การ​บอกว่า คุณ​ชา​เก่ง​มาก​ค่ะ
+  reading: ''
+  annot: ผู้การ​บอกว่า คุณ​ชา​เก่ง​มาก​ค่ะ
+  translation_zh: 司令官说，您非常厉害。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 句末助词
+- 礼貌语
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

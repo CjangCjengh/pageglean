@@ -1,0 +1,31 @@
+id: th-grm-00259
+language: th
+type: grammar
+level: L3
+level_rank: 3
+title: ลอง…ดู：试着……看看
+structure: ลอง + 动词 + ดู（+ ให้）
+structure_pattern: ลอง + V + ดู (+ ให้)
+explanation_zh: ลอง表示「尝试」，ดู表示「看看结果」，前后呼应包住主要动词，构成泰语典型的连动结构，对应汉语「试着……看看」。句中จะ表示即将发生。句末的ให้表示动作是为对方而做（替、给）。
+examples:
+- text: เดี๋ยว​ครู​จะ​ลอง​ติดต่อ​ดู​ให้​นะ​คะ
+  reading: ''
+  annot: เดี๋ยว​ครู​จะ​ลอง​
+  translation_zh: 我这就替你们试着联系看看吧。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 连动式
+- 体貌
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

@@ -1,0 +1,39 @@
+id: th-grm-00328
+language: th
+type: grammar
+level: L2
+level_rank: 2
+title: ต้อง：必要与义务
+structure: ต้อง ＋ 动词หลัก（คำช่วยกริยาบอกความจำเป็น）
+structure_pattern: ต้อง + V ; ต้อง + ขอ + V
+explanation_zh: ต้อง 是表示必要或义务的助动词，相当于「必须／不得不」，如「ต้องถามตัวเอง」（不得不问自己）。惯用搭配「ต้องขอ＋动词」（如
+  ต้องขอขอบคุณ）语气礼貌客气，常见于后记、致辞等正式客套场合。
+examples:
+- text: ผล​งาน​เรื่อง​นี้​ทำเอา​ผม​ต้อง​ถาม​ตัวเอง
+  reading: ''
+  annot: ผล​งาน​เรื่อง​นี้​ทำเอา​ผม​ต้อง​ถาม​ตัวเอง
+  translation_zh: 这部作品让我不得不一次次问自己（ทำเอา：弄得、致使）
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+- text: ต้อง​ขอ​ขอบคุณ​ทาง Palo Publishing ที่​มอบโอกาส​ดี ๆ ใน​ครั้งนี้​ให้
+  reading: ''
+  annot: ต้อง​ขอ​ขอบคุณ​ทาง Palo Publishing ที่​มอบโอกาส​ดี ๆ ใน​ครั้งนี้​ให้
+  translation_zh: 衷心感谢 Palo Publishing 方面给予这次宝贵的机会
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 语气
+- 惯用表达
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

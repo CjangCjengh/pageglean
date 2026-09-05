@@ -1,0 +1,39 @@
+id: th-grm-00138
+language: th
+type: grammar
+level: L2
+level_rank: 2
+title: กำลังจะ…แล้ว：即将「快要〜了」
+structure: กำลังจะ + กริยา + แล้ว
+structure_pattern: กำลังจะ + V + แล้ว
+explanation_zh: กำลังจะ 表示动作即将发生，意为“正要、快要”，常与句末 แล้ว 呼应。疑问句 จะ…แล้ว? 可加 เหรอ 表示惊讶或确认，相当于“就要〜了吗？”，比
+  หรือ 更口语。
+examples:
+- text: ผม​กำลัง​จะ​พา​เธอ​กลับ​แล้ว
+  reading: ''
+  annot: ผม​กำลัง​จะ​พา​เธอ​กลับ​แล้ว
+  translation_zh: 我正打算带她回去了。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+- text: จะ​กลับ​แล้ว​เหรอ?
+  reading: ''
+  annot: จะ​กลับ​แล้ว​เหรอ?
+  translation_zh: 就要回去了吗？
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 体貌
+- 疑问
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

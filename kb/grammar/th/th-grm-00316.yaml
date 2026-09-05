@@ -1,0 +1,32 @@
+id: th-grm-00316
+language: th
+type: grammar
+level: L3
+level_rank: 3
+title: แล้วแต่：随……、看……
+structure: แล้วแต่ + จะ + 动词
+structure_pattern: แล้วแต่ + จะ + V
+explanation_zh: แล้วแต่ 表示“取决于、随……”，后接动词时常加 จะ。如 ก็แล้วแต่จะคิด 即“怎么想随你”，语气冷淡或带有赌气。句尾的
+  สิ 加强“本来如此、随它去”的口吻。
+examples:
+- text: ก็แล้วแต่จะคิดสิ
+  reading: ''
+  annot: ''
+  translation_zh: 那随你怎么想吧。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 习语
+- 语气
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

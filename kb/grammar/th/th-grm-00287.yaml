@@ -1,0 +1,31 @@
+id: th-grm-00287
+language: th
+type: grammar
+level: L2
+level_rank: 2
+title: 动词 + ได้ยังไง：怎么……的／怎么会……
+structure: 动词 + ได้ยังไง（+ กัน）
+structure_pattern: กริยา + ได้ + ยังไง — คำถามวิธีการ/ความเป็นไปได้ (รูปพูดของ อย่างไร)
+explanation_zh: 「ได้ยังไง」是「ได้อย่างไร」的口语形式，置于动词后询问方式或表示难以置信，相当于「怎么……的／怎么会……」。句尾可加「กัน」加强反问。比单纯提问多一分惊讶或不服的情绪。
+examples:
+- text: ไม่งั้น​ผม​จะ​ทำงาน​เป็น​นักเขียน​ได้​ยังไง​กัน
+  reading: ''
+  annot: ไม่งั้น​ผม​จะ​ทำงาน​เป็
+  translation_zh: 不然我怎么能当作家呢？
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 疑问
+- 语气
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

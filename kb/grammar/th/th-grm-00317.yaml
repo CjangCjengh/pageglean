@@ -1,0 +1,39 @@
+id: th-grm-00317
+language: th
+type: grammar
+level: L2
+level_rank: 2
+title: เคย/ไม่เคย…เลย：曾经与从未
+structure: เคย + V（曾经/向来）；ไม่เคย + V + เลย（从未……）
+structure_pattern: เคย + VP; ไม่เคย + VP + เลย
+explanation_zh: เคย 置于动词前，表示过去曾经发生或一贯如此，相当于“曾经、向来”。否定式 ไม่เคย…เลย 表示“从来没有……”，เลย 强化否定语气。片段里的
+  เหมือนเคย（一如既往）是高频固定搭配。
+examples:
+- text: ยัง​คิด​เร็ว​ทำ​เร็ว​ไม่​รอ​ให้​คน​อื่น​พูด​จบ​อยู่​เหมือนเคย
+  reading: ''
+  annot: ยัง​คิด​เร็ว​ทำ​เร็ว​ไม่​รอ​ให้​คน​อื่น​พูด​จบ​อยู่​เหมือนเคย
+  translation_zh: 还是像往常一样，想得急、做得急，不等别人把话说完。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+- text: ที่ญานัน​เคย​พูด​กับ​ผม​ว่า ‘หนูดา​น่ะ​เหมือน​ฉัน​มาก​กว่า​ที่​คุณ​ชา​คิด​ซะ​อีก​นะ’
+  reading: ''
+  annot: ที่ญานัน​เคย​พูด​กับ​ผม​ว่า ‘หนูดา​น่ะ​เหม
+  translation_zh: 雅南曾经对我说：“努达呀，可比你察先生想的还要像我得多呢。”
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 体貌
+- 否定
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

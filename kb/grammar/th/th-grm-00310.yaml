@@ -1,0 +1,32 @@
+id: th-grm-00310
+language: th
+type: grammar
+level: L3
+level_rank: 3
+title: 「ด้วย + ความ + 抽象名词：由于……」
+structure: บุพบท（介词）：ด้วย + ความ + 形容词/动词（名词化）
+structure_pattern: ด้วย + ความ + N(อาการนาม)
+explanation_zh: ด้วย是บุพบท（介词），后接由ความ＋形容词/动词构成的อาการนาม（抽象名词），表示原因或方式，相当于『由于……／带着……』。片段中ด้วยความเขินอาย即『由于害羞』，解释脸红的原因。该结构带有叙述、书面色彩，常见于小说描写。
+examples:
+- text: ตอนนี้​ใบหน้า​ของ​เธอ​แดง​ระเรื่​อด้วย​ความ​เขิน​อาย
+  reading: ''
+  annot: ตอนนี้​ใบหน้า​ของ​เธอ​แดง​ระเรื่​อด้วย​ความ​เขิน​อาย
+  translation_zh: 此刻她的脸颊因为害羞而泛起了淡淡的红晕。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 介词
+- 原因
+- 名词化
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

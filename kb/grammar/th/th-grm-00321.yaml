@@ -1,0 +1,32 @@
+id: th-grm-00321
+language: th
+type: grammar
+level: L2
+level_rank: 2
+title: ไม่ยอม＋V：不肯、不服输
+structure: ไม่（否定副词）＋ ยอม（คำช่วยกริยา／辅助动词）＋ 主要动词
+structure_pattern: ไม่ + ยอม + V
+explanation_zh: 「ยอม」是辅助动词（คำช่วยกริยา），置于主要动词前表示「愿意、肯」。否定式「ไม่ยอม」强调主观上不肯、拒绝或不服输，语气强于单纯的「ไม่＋V」。
+examples:
+- text: ดา​ไม่ยอมแพ้​แม่นัน​หรอก​นะคะ
+  reading: ''
+  annot: ดา​ไม่ยอมแพ้​แม่นัน​หรอก​นะคะ
+  translation_zh: 妲才不会认输于媚南阿姨呢。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 辅助动词
+- 否定
+- 语气
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

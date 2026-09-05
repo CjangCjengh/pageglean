@@ -1,0 +1,38 @@
+id: th-grm-00262
+language: th
+type: grammar
+level: L1
+level_rank: 1
+title: ค่ะ／คะ：女性句末礼貌助词
+structure: 句末 + ค่ะ（陈述）／คะ（疑问、呼唤）
+structure_pattern: S + ... + ค่ะ/คะ
+explanation_zh: ค่ะ和คะ都是女性使用的句末礼貌助词，男性对应的是ครับ。ค่ะ（降调）用于陈述句末，คะ（升调）用于疑问句末或呼唤对方。学生对老师说话时必须加上这类助词，否则会显得粗鲁。
+examples:
+- text: ไม่​ทราบ​ค่ะ
+  reading: ''
+  annot: ไม่​ทราบ​ค่ะ
+  translation_zh: （我）不知道。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+- text: มี​อะไร​หรือเปล่าคะ​ครู?
+  reading: ''
+  annot: มี​อะไร​หรือเปล่าคะ​ครู?
+  translation_zh: 老师，有什么事吗？
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 语气助词
+- 敬语
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 6
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

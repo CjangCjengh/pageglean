@@ -1,0 +1,31 @@
+id: th-grm-00149
+language: th
+type: grammar
+level: L1
+level_rank: 1
+title: 「จะ」：将要、会（将来标记）
+structure: 主语 + จะ + 动词
+structure_pattern: S + จะ + V
+explanation_zh: จะ置于动词前，表示动作将要发生或询问打算，相当于汉语的“要、会”。它也常出现在“ก่อนจะ…”等结构里，引出紧接着发生的下一个动作。语序与汉语“要＋动词”一致，中文母语者容易掌握。
+examples:
+- text: คุณ​ชา วันนี้​เรา​จะ​ไป​ไหน​กัน​เหรอ?
+  reading: ''
+  annot: คุณ​ชา วันนี้​เรา​จะ​ไป​ไหน​กัน​เหรอ?
+  translation_zh: 阿茶，我们今天去哪儿呀？
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 体貌
+- 助动词
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

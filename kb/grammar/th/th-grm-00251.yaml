@@ -1,0 +1,32 @@
+id: th-grm-00251
+language: th
+type: grammar
+level: L2
+level_rank: 2
+title: การ + 动词：动词名词化
+structure: การ + คำกริยา → คำนาม（อาการนาม）
+structure_pattern: การ + V
+explanation_zh: การ 加在动词前构成名词性短语，相当于汉语「……的事／行为」，可作主语、宾语或介词宾语。片段中有 การแสดงฝีมือ、การทำอาหาร、การนัดหมาย、การถูกสั่งห้าม
+  等。注意区分：ทำงาน 中的 การ 是「工作」一词，与本构词前缀同形。
+examples:
+- text: ความ​พยายาม​ใน​การ​แสดง​ฝีมือ​การ​ทำอาหาร​ของ​ผมก็​เป็นอัน​ต้อง​มลาย​หายไป
+  reading: ''
+  annot: ความ​พยายาม​ใน​การ​แสดง​ฝีมือ​การ​ทำอาหาร​ของ​ผมก็​เป็นอัน​ต้อง​มลาย​หายไป
+  translation_zh: 我在展示厨艺上的努力，也就此烟消云散了。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 名词化
+- 构词
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 6
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

@@ -1,0 +1,39 @@
+id: th-grm-00312
+language: th
+type: grammar
+level: L3
+level_rank: 3
+title: เกินไป：“太……、过于……”
+structure: 形容词/动词 + เกินไป (+ สำหรับ + 对象)
+structure_pattern: ADJ/V + เกินไป (+ สำหรับ + NP)
+explanation_zh: 形容词或动词后加 เกินไป 表示程度过分，相当于“太……、过于……”，可用 สำหรับ 引出“对……而言”。句尾加 หน่อย
+  可缓和语气，表示“有点太……”。
+examples:
+- text: แต่​ผม​ว่า​เรื่อง​นี้​มัน​ยัง​เร็ว​เกินไป​สำหรับ​คุณดา
+  reading: ''
+  annot: แต่​ผม​ว่า​เรื่อง​นี้​มัน​ยัง​เร็ว​เกินไป​สำหรับ​คุณดา
+  translation_zh: 但我觉得这件事对达小姐来说还太快了。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+- text: ถึง​มัน​จะ​ดูใจ​ร้าย​เกินไป​หน่อย แต่​ผมก็​คง​ต้อง​พูด​ออกไป​ตรง ๆ ล่ะ
+  reading: ''
+  annot: ถึง​มัน​จะ​ดูใจ​ร้าย​เกินไป​หน่อย แต่​ผมก็​คง​ต้อง​พูด​ออกไป​ตรง ๆ ล่ะ
+  translation_zh: 虽然这样似乎有些太狠心，但我也恐怕得直说了。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 程度
+- 副词
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

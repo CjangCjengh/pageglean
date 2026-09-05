@@ -1,0 +1,31 @@
+id: th-grm-00307
+language: th
+type: grammar
+level: L3
+level_rank: 3
+title: 「อยู่ ๆ：平白无故地、突然」
+structure: คำวิเศษณ์（副词）：อยู่ ๆ + (ก็) + 谓语
+structure_pattern: อยู่ ๆ + (ก็) + Clause
+explanation_zh: อยู่ ๆ是คำวิเศษณ์（副词），表示毫无征兆、平白无故地发生了某事，常与ก็呼应引出意外情况。只能作状语，置于句首或主语之后。语义接近汉语『突然／好端端地』，但更强调事出无因、出人意料。
+examples:
+- text: ทำไม​อยู่ ๆ ผมก็​โดน​บ่น​รัว​แบบ​นี้​ล่ะ​เนี่ย
+  reading: ''
+  annot: ทำไม​อยู่ ๆ ผมก็​โดน​บ่
+  translation_zh: 为什么突然之间，我就被这样连珠炮似地抱怨了一通呢？
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 副词
+- 语气
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

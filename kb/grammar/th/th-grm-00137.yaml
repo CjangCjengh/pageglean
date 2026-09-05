@@ -1,0 +1,32 @@
+id: th-grm-00137
+language: th
+type: grammar
+level: L5
+level_rank: 5
+title: ทั้งที่…แต่ + กลับ：让步转折「明明…却…」
+structure: ทั้งที่ + ข้อเท็จจริง + แต่ + กลับ + ผลที่ขัดแย้ง
+structure_pattern: ทั้งที่ + S1, แต่ + S2 + กลับ + V
+explanation_zh: ทั้งที่ 引导让步从句，相当于“明明……却……”，主句常用 แต่ 或副词 กลับ 表示出乎意料。แท้ ๆ 是强化语气的词，意为“确实、明明”。本段
+  กลับ 连续出现两次，强化说话人的自责。
+examples:
+- text: ทั้งที่​ผม​รับปากญานัน​ว่า​จะ​ดูแล​เธอ​เป็น​อย่าง​ดี​แท้ ๆ แต่​ผม​กลับ​ปล่อยปะ​ละเลย​เธอ​ถึงขนาด​นี้
+  reading: ''
+  annot: ทั้งที่​ผม​รับปากญานัน​ว่า​จะ​ดูแล​เธอ​เป็น​อย่าง​ดี​แท้ ๆ แต่​ผม​กลับ​ปล่อยปะ​ละเลย​เธอ​ถึงขนาด​นี้
+  translation_zh: 明明我答应过雅楠要好好照顾她，我却疏忽她到了这种地步。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 连接词
+- 语气
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

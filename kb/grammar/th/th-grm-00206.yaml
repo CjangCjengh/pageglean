@@ -1,0 +1,31 @@
+id: th-grm-00206
+language: th
+type: grammar
+level: L3
+level_rank: 3
+title: V + จน：结果补语
+structure: V + จน + 结果（形容词/状态动词）
+structure_pattern: V + จน + Resultative
+explanation_zh: จน 用在动词之后引出动作达到的结果或程度，意为「直到……／到……的程度」，对应中文「……到……」。如 ต้มจนสุก「煮到熟」。结果成分通常是形容词或状态动词。
+examples:
+- text: ก่อน​จะ​เอาไป​ต้ม​จน​สุก​แล้ว​ทาน​กับ​น้ำกะทิ​หรือ​น้ำขิง​น่ะ
+  reading: ''
+  annot: ก่อน​จะ​เอาไป​ต้ม​จน​สุก​แล้ว​ทาน​กับ​น้ำกะทิ​หรือ​น้ำขิง​น่ะ
+  translation_zh: 然后拿去煮到熟，再配椰奶汁或姜汤吃。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 补语
+- 结果
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

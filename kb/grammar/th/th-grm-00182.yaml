@@ -1,0 +1,32 @@
+id: th-grm-00182
+language: th
+type: grammar
+level: L2
+level_rank: 2
+title: ด้วยความเป็น…：怀着…的心情／以…的态度
+structure: บุพบท ด้วย + นามธรรม（ความเป็น…／ความ…）
+structure_pattern: ด้วย + ความเป็น/ความ + N
+explanation_zh: 介词（บุพบท）ด้วย 此处引出动作伴随的态度或方式，后接 ความเป็น～／ความ～ 构成的抽象名词，整体作状语，相当于汉语的“怀着……”“……地”。ด้วย
+  也可表工具、材料（“用……”），需按语境区分。这种“ด้วย + 抽象名词”的书面表达在小说叙述中高频出现。
+examples:
+- text: ผม​บอก​เธอ​ด้วย​ความ​เป็นห่วง
+  reading: ''
+  annot: ผม​บอก​เธอ​ด้วย​ความ​เป็นห่วง
+  translation_zh: 我满怀关切地嘱咐她。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 介词
+- 状语
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

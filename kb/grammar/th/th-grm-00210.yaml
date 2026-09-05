@@ -1,0 +1,32 @@
+id: th-grm-00210
+language: th
+type: grammar
+level: L3
+level_rank: 3
+title: ให้ + 动词：使役与许可（การิตวาจก）
+structure: กริยา1 + ให้ + กรรม + กริยา2
+structure_pattern: V1 + ให้ + O + V2
+explanation_zh: 泰语学校语法称之为การิตวาจก（致使句）：在动词后用「ให้」引出对象和第二个动词，表示允许或致使某人做某事，与汉语“让/使”字句对应。「ยอมให้」是“允许……做”，「ปลอบให้」是“安抚使之……”。语序为
+  V1 + ให้ + 对象 + V2。
+examples:
+- text: ผม​จะ​ไม่ยอม​ให้​เธอ​กอด​มัน​โดย​เด็ดขาด
+  reading: ''
+  annot: ผม​จะ​ไม่ยอม​ให้​เธอ​กอด​มัน​โดย​เด็ดขาด
+  translation_zh: 我绝不会让你抱它。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 语态
+- 使役/许可
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 4
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

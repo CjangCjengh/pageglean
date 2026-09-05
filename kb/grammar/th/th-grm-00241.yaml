@@ -1,0 +1,33 @@
+id: th-grm-00241
+language: th
+type: grammar
+level: L4
+level_rank: 4
+title: V + อยู่หรอก，แต่…：……倒是……，可是……
+structure: คำกริยา + อยู่（持续助词）+ หรอก（让步语气助词），但 + 转折句
+structure_pattern: V + อยู่หรอก, แต่ + …
+explanation_zh: “V + อยู่หรอก”先承认某一事实（“倒是确实……”），随后用 แต่ 引出转折或限制，相当于中文“……是……，可是……”。口语色彩浓厚，与书面让步结构
+  แม้ว่า…แต่… 形成语体对照，是地道泰语对话的标志之一。
+examples:
+- text: ก็​พูด​ภาษาไทย​อยู่​หรอก แต่​กับ​เด็ก​คน​อื่น ๆ แล้ว​เธอ​ไม่​พูด​ภาษาไทย​เลย
+  reading: ''
+  annot: ก็​พูด​ภาษาไทย​อยู่​หรอก แต่​กับ​เด็ก​คน​อื่น ๆ แล้ว​เธอ​ไม่​พูด​ภาษาไทย​เลย
+  translation_zh: （跟老师）倒是会说泰语，可跟其他孩子在一起时，她就完全不说泰语了。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 口语
+- 让步
+- 语气
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

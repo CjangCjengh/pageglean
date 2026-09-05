@@ -1,0 +1,39 @@
+id: th-grm-00143
+language: th
+type: grammar
+level: L2
+level_rank: 2
+title: เคย + 动词：曾经（经历体）
+structure: เคย（คำช่วยกริยา）+ 动词，表示过去的经历
+structure_pattern: เคย + V
+explanation_zh: 「เคย」是助动词，表示曾经有过某种经历，相当于"曾经"。常与「ตั้งแต่…มา」（自从……以来）搭配，强调从过去到现在为止的经验。
+examples:
+- text: นับตั้งแต่​ผม​เคย​เห็น​มา
+  reading: ''
+  annot: นับตั้งแต่​ผม​เคย​เห็น​มา
+  translation_zh: 从我见过以来（言下之意"前所未有"）
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+- text: เธอ​เลย​ใช้​ศิลปะ​ป้องกันตัว​ที่​เคย​เรียน​มา​จัดการ​กับ​พวก​ที่​เข้ามา​รุม​เธอ​และ​เอาตัวรอด​มา​ได้
+  reading: ''
+  annot: เธอ​เลย​ใช้​ศิลปะ​ป้องกันตัว​ที่​เคย​เรียน​มา​จัดการ​กับ​พวก​ที่​เข้ามา​รุม​เธอ​และ​เอาตัวรอด​มา​ได้
+  translation_zh: 于是她用曾经学过的防身术对付围上来的那伙人，成功脱了身。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 体貌
+- 经历
+- 助动词
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

@@ -1,0 +1,40 @@
+id: th-grm-00236
+language: th
+type: grammar
+level: L1
+level_rank: 1
+title: 疑问句与句末语气词：หรือเปล่า / ครับ / ค่ะ / นะ / จ้ะ
+structure: ประโยค + หรือเปล่า + ครับ/ค่ะ；ประโยค + นะ + จ้ะ/ค่ะ
+structure_pattern: …หรือเปล่า + ครับ/ค่ะ ; …นะ + จ้ะ/ค่ะ
+explanation_zh: 「หรือเปล่า」置于句末构成是非问句，相当于「……吗」，与疑问词「อะไร」连用表示「是不是出什么事了」。句末常叠加礼貌助词：ครับ（男性用）、ค่ะ（女性用）表尊敬，นะ、จ้ะ
+  使语气柔和，多用于长辈对孩子或关系亲近者。女性老师说「ก่อนนะคะ」正是礼貌与亲切的叠用。
+examples:
+- text: เกิด​อะไร​ขึ้น​หรือ​เปล่า​ครับ?
+  reading: ''
+  annot: เกิด​อะไร​ขึ้น​
+  translation_zh: 发生什么事了吗？
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+- text: กลับ​ไป​รอ​ที่​บ้าน​ก่อน​นะ​จ้ะ
+  reading: ''
+  annot: กลับ​ไป​รอ​ที่​บ้าน​ก่อน​นะ​จ้ะ
+  translation_zh: 先回家去等着吧。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 疑问
+- 语气
+- 礼貌用语
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 7
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

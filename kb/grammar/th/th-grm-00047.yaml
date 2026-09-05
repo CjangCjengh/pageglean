@@ -15,6 +15,13 @@ examples:
   source_book: book-th-009
   source_chapter: null
   pointer: null
+- text: ช้อนตา​ขึ้น​มอง​ผม​ก่อน​จะ​ถาม​ว่า
+  reading: ''
+  annot: ช้อนตา​ขึ้น​มอง​ผม​ก่อน​จะ​ถาม​ว่า
+  translation_zh: （她）抬起眼看我，然后开口问道……
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
 related:
   cross_lang: []
   same_lang: []

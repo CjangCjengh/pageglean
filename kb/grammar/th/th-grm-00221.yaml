@@ -1,0 +1,39 @@
+id: th-grm-00221
+language: th
+type: grammar
+level: L3
+level_rank: 3
+title: 趋向补语：动词 + ขึ้น/ลง + มา/ไป
+structure: V + ขึ้น/ลง + มา/ไป（方向补语，มา朝向说话者、ไป远离说话者）
+structure_pattern: V + (ขึ้น/ลง) + (มา/ไป)
+explanation_zh: 泰语把ขึ้น（上）、ลง（下）等方向成分放在主要动词之后作趋向补语，再叠上มา（朝说话者）或ไป（远离说话者），如ขึ้นมา、ลงไป。片段中กระโดด、ก้ม、ไหล等动词都与这类补语搭配表示空间方向。该结构组合能力强、出现频率极高，是动词学习的重点。
+examples:
+- text: กระโดด​ขึ้น​มา​นั่ง​ตัก​ผม
+  reading: ''
+  annot: กระโดด​ขึ้น​มา​นั่ง​ตัก​ผม
+  translation_zh: 跳上来坐到我的腿上。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+- text: ก้มลง​ไป​กิน​ด้วย​ท่าทาง​เรียบร้อย
+  reading: ''
+  annot: ก้มลง​ไป​กิน​ด้วย​ท่าทาง​เรียบร้อย
+  translation_zh: 低头去吃，吃相十分斯文。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 趋向补语
+- 方向
+- 高频
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 10
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

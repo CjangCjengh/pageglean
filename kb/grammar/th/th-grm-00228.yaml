@@ -1,0 +1,32 @@
+id: th-grm-00228
+language: th
+type: grammar
+level: L2
+level_rank: 2
+title: 动词连用：มา/ไป/ออก/เข้า 方向补语
+structure: V₁ + มา／ไป／ออก／เข้า (+ V₂)
+structure_pattern: V1 + มา|ไป|ออก|เข้า + (V2)
+explanation_zh: 泰语属连动结构（คำกริยาต่อเนื่อง），主要动词后可接 มา／ไป／ออก／เข้า 等趋向动词，语序与汉语相反，汉译时需从后往前处理：ส่งซิกมา＝「递信号过来」、เข้าไปยุ่ง＝「插手进去」。还可多动词连续串联，如
+  ออกมาให้เห็น＝「显出来给人看到」。片段中大量出现，是泰语语序的核心特点。
+examples:
+- text: แล้ว​เธอ​ทำ​หน้า​เจ็บ​ออกมา​ให้​เห็น
+  reading: ''
+  annot: แล้ว​เธอ​ทำ​หน้า​เจ็บ​ออกมา​ให้​เห็น
+  translation_zh: 然后她脸上露出了疼痛的神情（被我看到）。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 连动式
+- 语序
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 10
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

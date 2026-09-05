@@ -1,0 +1,38 @@
+id: th-grm-00162
+language: th
+type: grammar
+level: L2
+level_rank: 2
+title: 「กัน」共同与交互
+structure: 动词 + กัน
+structure_pattern: คำกริยา + "กัน"
+explanation_zh: 副词性成分，表示动作由多人共同进行或相互施加，相当于「一起」「互相」。在邀请、建议句型「…กันไหม?」中尤为常见。
+examples:
+- text: นั่ง​รถไฟฟ้า​กัน​ไหม?
+  reading: ''
+  annot: นั่ง​รถไฟฟ้า​กัน​ไหม?
+  translation_zh: 我们一起去坐轻轨好吗？
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+- text: เรา​เดินทาง​กัน​ด้วย​เมโทร​เป็น​หลัก​น่ะ​ค่ะ
+  reading: ''
+  annot: เรา​เดินทาง​กัน​ด้วย​เ
+  translation_zh: 我们出行主要靠地铁。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 副词
+- 共同
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

@@ -1,0 +1,38 @@
+id: th-grm-00165
+language: th
+type: grammar
+level: L3
+level_rank: 3
+title: 「เรียกว่า」称作、叫做
+structure: เรียก + 宾语 + ว่า + 名称
+structure_pattern: คำกริยา "เรียก" + กรรม + "ว่า" + ชื่อ
+explanation_zh: 命名结构，เรียก…ว่า… 表示「把……叫做……」，ว่า 引出所称的名称。客观叙述或省略施事者时，可直接说 เรียกว่า…（被称为……）。
+examples:
+- text: ต่างประเทศ​เขา​จะ​เรียก​รถไฟฟ้า​บ้าน​เรา​ว่า Sky Train
+  reading: ''
+  annot: ต่างประเทศ​เขา​จะ​เรียก​รถไฟฟ้า​บ้าน​เรา​ว่า Sky Train
+  translation_zh: 外国人都把我们这儿的轻轨叫作 Sky Train。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+- text: ส่วน​รถไฟใต้ดิน ก็​จะ​เรียกว่า Subway
+  reading: ''
+  annot: ส่วน​รถไฟใต้ดิน ก็​จะ​เรียกว่า Subway
+  translation_zh: 而地铁则被叫作 Subway。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 命名
+- 补足语
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

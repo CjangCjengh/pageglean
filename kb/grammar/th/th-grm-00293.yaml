@@ -1,0 +1,33 @@
+id: th-grm-00293
+language: th
+type: grammar
+level: L3
+level_rank: 3
+title: เผื่อ（ว่า）：以防、万一
+structure: เผื่อ(ว่า)/เผื่อเวลา + 小句（主句说做法，从句说防备的情况）
+structure_pattern: เผื่อ(ว่า) + Clause
+explanation_zh: เผื่อ(ว่า) 是目的/条件连词（สันธาน），意为“以防、万一、为了……”，主句先说做法，เผื่อ 小句再说为之预作准备的情况。“เผื่อเวลา
+  + 小句”即“以备……的时候”。它强调“为可能的情况预先准备”，与汉语“以免”方向不同。
+examples:
+- text: รีบ​ชิง​สารภาพ​ก่อน​เลย เผื่อว่า​โทษหนัก​จะ​กลาย​เป็น​เบา...
+  reading: ''
+  annot: รีบ​ชิง​สารภาพ​ก่อน​เลย เผื่อว่า​โทษหนัก​จะ​กลาย​เป็น​เบา...
+  translation_zh: 赶紧抢先坦白，盼着重罪能变成轻罪……
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 连词
+- 目的
+- 条件
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

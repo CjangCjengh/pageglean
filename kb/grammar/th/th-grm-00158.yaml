@@ -1,0 +1,31 @@
+id: th-grm-00158
+language: th
+type: grammar
+level: L3
+level_rank: 3
+title: 「V + กัน + ดีกว่า」：咱们……吧
+structure: 动词 + กัน + ดีกว่า
+structure_pattern: V + กัน + ดีกว่า
+explanation_zh: ดีกว่า 字面为「更好」，接在动词后表示建议，相当于「还是……比较好／咱们……吧」。加 กัน 表示包括听话人在内的共同行动，是口语中典型的提议句式。
+examples:
+- text: รีบ​ออก​เดินทาง​กัน​ดีกว่า
+  reading: ''
+  annot: รีบ​ออก​เดินทาง​กัน​ดีกว่า
+  translation_zh: 咱们赶紧出发吧。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 提议
+- 语气
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

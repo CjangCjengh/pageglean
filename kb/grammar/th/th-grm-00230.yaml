@@ -1,0 +1,32 @@
+id: th-grm-00230
+language: th
+type: grammar
+level: L2
+level_rank: 2
+title: ห้าม…เด็ดขาด：绝对不许
+structure: ห้าม + 动词 + เด็ดขาด
+structure_pattern: ห้าม + V + เด็ดขาด
+explanation_zh: 「ห้าม + V + เด็ดขาด」表示最强的禁止，意为「绝对不许／万万不可……」。ห้าม 是禁止动词，เด็ดขาด 是置于句末的副词，强调态度坚决、没有商量余地。เด็ดขาด
+  单独使用也可表示「果断、坚决」。
+examples:
+- text: เธอ​เลย​แอบ​ส่ง​ซิกมา​ให้​ผม​ว่า​ห้าม​บอก​คุณ​ชา​เด็ดขาด
+  reading: ''
+  annot: เธอ​เลย​แอบ​ส่ง​ซิกมา​ให้​ผม​ว่า​ห้าม​บอก​คุณ​ชา​เด็ดขาด
+  translation_zh: 于是她就偷偷给我使眼色，让我绝对不要告诉察先生。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 祈使
+- 语气
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

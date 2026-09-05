@@ -1,0 +1,38 @@
+id: th-grm-00167
+language: th
+type: grammar
+level: L1
+level_rank: 1
+title: อย่าง + 形容词/副词：方式状语标记
+structure: อย่าง + คำคุณศัพท์/คำวิเศษณ์（修饰动词，表方式）
+structure_pattern: อย่าง + ADJ/ADV
+explanation_zh: อย่าง 置于形容词或副词前，把其转化为修饰动词的方式状语，相当于汉语的「……地」或英语的 -ly。片段中「อย่างรวดเร็ว」（迅速地）与「อย่างอารมณ์ดี」（心情很好地）均用于描写动作的状态。这是泰语书面与口语都高频的状语化手段。
+examples:
+- text: ญาดา​รีบ​ตอบรับ​อย่าง​รวดเร็ว
+  reading: ''
+  annot: ญาดา​รีบ​ตอบรับ​อย่าง​รวดเร็ว
+  translation_zh: 雅达迅速回应答应。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+- text: ตอนนี้​กำลัง​ยิ้ม​อย่าง​อารมณ์ดี
+  reading: ''
+  annot: ตอนนี้​กำลัง​ยิ้ม​อย่าง​อารมณ์ดี
+  translation_zh: （雅达）这时正心情愉快地微笑着。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 副词化
+- 方式状语
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 2
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

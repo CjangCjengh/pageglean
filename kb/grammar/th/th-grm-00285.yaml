@@ -1,0 +1,38 @@
+id: th-grm-00285
+language: th
+type: grammar
+level: L1
+level_rank: 1
+title: 进行体 กำลัง…อยู่：正在做某事
+structure: กำลัง + 动词（+ อยู่）
+structure_pattern: กำลัง + กริยา (+ อยู่) — คำช่วยกริยาแสดงเหตุการณ์กำลังดำเนิน
+explanation_zh: 「กำลัง」置于动词前表示动作正在进行，相当于汉语的「正在／在」。「อยู่」可加在动词后加强持续意味，二者呼应构成进行体。泰语进行体须显式标记，不能像中文那样仅靠语境省略。
+examples:
+- text: กำลัง​เอียง​คอมอง​ผม​เล็กน้อย
+  reading: ''
+  annot: กำลัง​เอียง​คอมอง​ผม​เล็กน้อย
+  translation_zh: （她）正微微歪着头看我。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+- text: นั่ง​อยู่​ข้าง ๆ ผม
+  reading: ''
+  annot: นั่ง​อยู่​ข้าง ๆ ผม
+  translation_zh: 坐在我身旁（的雅达）。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 体貌
+- 进行体
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

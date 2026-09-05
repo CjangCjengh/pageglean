@@ -1,0 +1,32 @@
+id: th-grm-00159
+language: th
+type: grammar
+level: L4
+level_rank: 4
+title: 「V + มา + ได้ + 时段 + แล้ว」：已经……（持续）一阵子了
+structure: 动词 + มา + ได้ + 时段 + แล้ว
+structure_pattern: V + มา + ได้ + 时段 + แล้ว
+explanation_zh: 表示某动作从过去持续到现在已有某段时间：มา 表示「从过去一直延续至今」，ได้ + 时段表示已达到的量，แล้ว 表示「已经」。整体相当于汉语「已经……了（一段时间）」，是非常地道的口语表达。
+examples:
+- text: ดา​กับ​แม่นัน​ตาม​อ่าน​คอลัมน์​ที่​คุณ​ชา​เขียน​มา​ได้​สักพัก​ใหญ่ ๆ แล้ว​ค่ะ
+  reading: ''
+  annot: ดา​กับ​แม่นัน​ตาม​อ่าน​คอลัมน์​ที่​คุณ​ชา​เขียน​มา​ได้​สักพัก​ใหญ่ ๆ แล้ว​ค่ะ
+  translation_zh: 达和妈妈已经追读您写的专栏挺长一段时间了。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 体貌
+- 持续
+- 时态
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

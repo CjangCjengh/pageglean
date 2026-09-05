@@ -1,0 +1,38 @@
+id: th-grm-00131
+language: th
+type: grammar
+level: L2
+level_rank: 2
+title: 「กว่า」：比较级
+structure: คำวิเศษณ์ + กว่า + สิ่งเปรียบเทียบ (รูปขั้นกว่า)
+structure_pattern: ADJ + กว่า + 基准
+explanation_zh: 形容词后加กว่า再引出比较对象，构成比较级（ขั้นกว่า），相当于“比……更……”。泰语的比较语序是“性质词＋กว่า＋基准”，与汉语“比”字句相反，中文母语者需特别注意。片段中“แรงกว่าปกติ”“เย็นกว่าปกติ”均属此结构。
+examples:
+- text: ใน​ห้อง​ของ​เธอ​เปิด​แอร์​แรง​กว่า​ปกติ
+  reading: ''
+  annot: ใน​ห้อง​ของ​เธอ​เปิด​แอร์​แรง​กว่า​ปกติ
+  translation_zh: 她房间的空调开得比平时更足。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+- text: ทำไม​แอร์​ใน​ห้อง​เธอ​ถึง​ได้​เย็น​กว่า​ปกติ
+  reading: ''
+  annot: ทำไม​แอร์​ใน​ห้อง​เธอ​ถึง​ได้​เย็น​กว่า​ปกติ
+  translation_zh: 为什么她房间的空调比平时更凉。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 比较
+- 词序
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 4
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

@@ -1,0 +1,32 @@
+id: th-grm-00278
+language: th
+type: grammar
+level: L3
+level_rank: 3
+title: 「คง … แน่：肯定/一定会…（推测呼应）」
+structure: คง + คำกริยา + แน่（推测语气前后呼应，表示“一定会…”）
+structure_pattern: คง + V + แน่
+explanation_zh: คง 表示对情况的推测，意为“大概、想必”；句末再加 แน่ 予以加强，形成“คง…แน่”（肯定会…）的呼应结构。“คงไม่ยอมจบเรื่องง่าย
+  ๆ แน่”即“肯定不会轻易罢休”。
+examples:
+- text: แต่​ผม​เชื่อ​ว่า​เด็ก​พวกนั้น​คง​ไม่ยอม​จบเรื่อง​ง่าย ๆ แน่
+  reading: ''
+  annot: แต่​ผม​เชื่อ​ว่า​เด็ก​พวกนั้น​คง​ไม่ยอม​จบเรื่อง​ง่าย ๆ แน่
+  translation_zh: 但我相信那些孩子肯定不会轻易了结这件事的。
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 语气
+- 推测
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 1
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''

@@ -1,0 +1,38 @@
+id: th-grm-00256
+language: th
+type: grammar
+level: L1
+level_rank: 1
+title: ไหม / หรือเปล่า：是非疑问句
+structure: ประโยคคำถาม：陈述句 + ไหม？/ 陈述句 + หรือเปล่า?
+structure_pattern: S + V + O + ไหม? / S + V + O + หรือเปล่า?
+explanation_zh: 泰语的ประโยคคำถาม（疑问句）不用前置的『吗』，而是在陈述句末尾加疑问语气词ไหม，或用正反选择式หรือเปล่า，两者都相当于汉语『……吗』。หรือเปล่า带有要求对方确认的语气。ได้ไหม即『可以吗』，用于请求许可。
+examples:
+- text: บอก​ครู​หน่อย​ได้​ไหม?
+  reading: ''
+  annot: บอก​ครู​หน่อย​ได้​ไหม?
+  translation_zh: 可以跟老师稍微说一下吗？
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+- text: แล้ว​มี​หลักฐาน​หรือ​เปล่า?
+  reading: ''
+  annot: แล้ว​มี​หลักฐ
+  translation_zh: 那有证据吗？
+  source_book: book-th-009
+  source_chapter: null
+  pointer: null
+related:
+  cross_lang: []
+  same_lang: []
+tags:
+- 疑问
+- 句末语气词
+provenance:
+  discovered_in: book-th-009
+  first_seen_chapter: null
+  frequency_hint: 3
+  extracted_by: claude-code
+  extracted_at: '2026-09-05'
+status: draft
+review_note: ''
